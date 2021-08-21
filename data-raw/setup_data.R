@@ -10,6 +10,20 @@ academic_instiutions <- readr::read_csv("data-raw/academic_institutions.csv")
 readr::write_rds(academic_instiutions, "R/academic_instiutions.rds")
 usethis::use_data(academic_instiutions, overwrite = TRUE)
 
+# misc. sector terms -----------------------------------------------------
+
+sector_terms <- readr::read_csv("data-raw/sector_terms.csv")
+
+readr::write_rds(sector_terms, "R/sector_terms.rds")
+usethis::use_data(sector_terms, overwrite = TRUE)
+
+# misc. sector domains ---------------------------------------------------
+
+sector_domains <- readr::read_csv("data-raw/sector_domains.csv")
+
+readr::write_rds(sector_domains, "R/sector_domains.rds")
+usethis::use_data(sector_domains, overwrite = TRUE)
+
 # github_users data ------------------------------------------------------
 
 conn <- dbConnect(drv = PostgreSQL(),

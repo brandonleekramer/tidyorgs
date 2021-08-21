@@ -1,7 +1,9 @@
 
 [Package Development CSV](https://docs.google.com/spreadsheets/d/1zhqUYRuQg97WCycyfMiNmMpr00Ke_bZ9G2BYpl3PYTw/edit#gid=1497511867)
 
-- Get rid of all the tidytable verbs and go to dplyr or data.table 
+- Expand warning messages in each function with helper function 
+
+  - Warnings for not being a dataframe, not being character or numeric, variable not being entered properly (see https://stackoverflow.com/questions/25640161/r-how-to-test-for-character0-in-if-statement)
 
 - Still need to fix Harvard errors 
 
@@ -14,8 +16,6 @@
 - Add in state and/or lat/long
 
 - Add in private public 
-
-- Add infred hutchison
 
 [] The goal of the `standardize_*` verbs would be to facilitate merges across multiple academic datasets. During the fall, we want to work on integrating the following datasets: ]
 
@@ -34,6 +34,8 @@
 - [Build pkgdown website](https://pkgdown.r-lib.org/)
 
 - [Validate tidy principles](https://principles.tidyverse.org/structure.html)
+
+- README 
 
 [] Resources that have been helpful so far: 
 

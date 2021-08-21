@@ -13,8 +13,8 @@
 #' @param id A numeric or character vector unique to each entry.
 #' @param input Character vector of messy or unstructed text that will
 #' be unnested as n-grams and matched to dictionary of academic instiutions.
-#' @param output Desired name of organization column.
-#' @param sector Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "all".
+#' @param output Desired name of classified organization column.
+#' @param sector Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "academic".
 #'
 #' @examples
 #'
@@ -23,11 +23,12 @@
 #' data(github_users)
 #'
 #' classified_by_text <- github_users %>%
-#'   match_orgs_by_text(login, company, organization, academic)
+#'   text_to_orgs(login, company, organization, academic)
 #'
 
-match_orgs_by_text <- function(data, id, input, output,
-                               sector = c("all", "academic", "business", "government", "nonprofit")){
+text_to_orgs <- function(data, id, input, output, sector
+                               #sector = c("all", "academic", "business", "government", "nonprofit")
+                               ){
 
   # to update: this beginning part can just be a helper function
   # that i can use at the beginning of each function
@@ -44,16 +45,19 @@ match_orgs_by_text <- function(data, id, input, output,
   #sector <- rlang::arg_match(sector)
   # still need to add in all of the dictionaries and the arg_match here
 
+  # 1. convert all vars with enquos
   id <- enquo(id)
   input <- enquo(input)
   output <- enquo(output)
   sector <- enquo(sector)
   `%notin%` <- Negate(`%in%`)
 
+  # 2. pull in academic institutions dictionary 
   dictionary <- readr::read_rds(file = "R/academic_instiutions.rds")
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
 
+  # 3. standardize common academic instiution terms 
   data <- data %>%
     tidyr::drop_na(!!input) %>%
     dplyr::mutate("{{input}}" := tolower(!!input),
@@ -61,8 +65,11 @@ match_orgs_by_text <- function(data, id, input, output,
                   "{{input}}" := stringr::str_replace(!!input, "univesity", "university"),
                   "{{input}}" := stringr::str_replace(!!input, "univeristy", "university"),
                   "{{input}}" := stringr::str_replace(!!input, "universoty", "university"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universit)\\b", "université"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universitt)\\b", "universität"),
                   "{{input}}" := stringr::str_replace(!!input, "a & m", "a&m"))
 
+  # 4. use a for loop to funnel match n-grams of lengths 2-12 
   for (n_word in 12:2) {
     # note: 12 is an arbitrary number that will eventually correspond to largest n in dictionary
     subdictionary <- dictionary %>%
@@ -83,24 +90,21 @@ match_orgs_by_text <- function(data, id, input, output,
     ids_to_filter <- c(ids_to_filter, newly_classified)
   }
 
+  # 5. funnel match on all of the single tokens 
   subdictionary <- dictionary %>%
     tidyr::unnest_legacy(academic_terms = base::strsplit(academic_terms, "\\|")) %>%
     dplyr::mutate(word_count = lengths(base::strsplit(academic_terms, "\\W+"))) %>%
     dplyr::filter(word_count == 1)
   subdictionary <- na.omit(subdictionary$academic_terms)
-
   funnelized <- data %>%
     dplyr::filter(!!id %notin% ids_to_filter) %>%
     tidytext::unnest_tokens(words, !!input) %>%
     dplyr::filter(words %in% subdictionary) %>%
     dplyr::mutate("{{sector}}" := 1) %>%
     dplyr::select(!!id, words, !!sector) %>%
-    dplyr::bind_rows(funnelized)
-
-  funnelized <- funnelized %>%
-    standardize_orgs(words, !!output, !!sector) %>%
-    select(!!id, !!output, !!sector)
-
+    dplyr::bind_rows(funnelized) %>%
+    tidyorgs::standardize_orgs(words, !!output, !!sector) %>%
+    select(!!id, !!output)
   funnelized
 
 }
