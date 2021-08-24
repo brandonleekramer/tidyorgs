@@ -61,13 +61,21 @@ text_to_orgs <- function(data, id, input, output, sector
   data <- data %>%
     tidyr::drop_na(!!input) %>%
     dplyr::mutate("{{input}}" := tolower(!!input),
-                  "{{input}}" := stringr::str_replace(!!input, "univ\\.", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "univesity", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "univeristy", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "universoty", "university"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univ\\.)\\b", "university"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univesity)\\b", "university"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univeristy)\\b", "university"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universoty)\\b", "university"),
                   "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universit)\\b", "université"),
                   "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universitt)\\b", "universität"),
-                  "{{input}}" := stringr::str_replace(!!input, "a & m", "a&m"))
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(technolgy)\\b", "technology"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(simn bolvar)\\b", "simón bolívar"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(mnster)\\b", "münster"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(king's)\\b", "kings"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(queen's)\\b", "queens"),
+                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(xi'an jiaotong)\\b", "xian jiaotong"),
+                  "{{input}}" := stringr::str_replace(!!input, "a & m", "a&m"),
+                  "{{input}}" := stringr::str_replace(!!input, "@", ""),
+                  "{{input}}" := stringr::str_replace(!!input, " & ", " and "))
 
   # 4. use a for loop to funnel match n-grams of lengths 2-12 
   for (n_word in 12:2) {

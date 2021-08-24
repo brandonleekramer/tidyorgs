@@ -20,7 +20,7 @@ classified_orgs <- github_users %>%
   detect_orgs(login, company, organization, academic, email)
 
 academic_users <- classified_orgs %>% 
-  filter(academic == 1) 
+  filter(academic == 1)
   
 academic_counts <- academic_users %>% 
   separate_rows(organization, sep = "\\|") %>% 
@@ -28,9 +28,40 @@ academic_counts <- academic_users %>%
   count() %>% 
   arrange(-n)
 
-# 20002 
+# 20002 -> 15000 -> 14362 -> 12500 -> 
 misc_academic <- academic_users %>% 
   filter(organization == "misc. academic")
+
+chk_misc <- misc_academic %>% 
+  mutate(company = tolower(company)) %>% 
+  group_by(company) %>% 
+  count() %>% 
+  arrange(-n)
+
+write_csv(misc_academic, "data-raw/misc_academic.csv")
+
+
+### 
+
+library("tidytext")
+
+texas_data <- github_users %>% 
+  filter(grepl("Xi'an Jiaotong", company))
+
+texas_ngrams <- texas_data %>% 
+  #mutate(company = str_replace(company, " & ", " and "))
+  unnest_tokens(bigram, company, token = "ngrams", n = 3)
+
+
+
+
+
+
+
+
+
+
+
 
   
   
