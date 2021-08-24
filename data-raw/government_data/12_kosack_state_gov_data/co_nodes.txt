@@ -1,0 +1,1096 @@
+NodeId	NodeURL	NodeName	Year	pages
+9292	http://www.wrayschools.org/	Wray RD-2	2002.0	68.0
+9294	http://www.townofgrandlake.com/towngovernment.html	Grand Lake, Town of	2004.0	517.0
+9295	http://www.townofgranby.com/	Granby, Town of	2008.0	304.0
+9296	http://www.crownmtn.org	Crown Mountain Park and Recreation District	2004.0	27.0
+9297	http://www.blackriverfalls.com/	Black River Falls	1998.0	1664.0
+9298	http://co.gilpin.co.us/	Gilpin	2002.0	23.0
+9299	http://www.townofhayden.org/	Hayden, Town of	2006.0	126.0
+9300	http://www.oterogov.com/	Otero	2009.0	258.0
+9301	http://www.townofwestcliffe.com/	Westcliffe, Town of	2006.0	32.0
+9302	http://www.deltaco.org/	Delta	1998.0	3.0
+9303	http://www.doc.state.co.us/	Corrections, Department of	0.0	445.0
+9305	http://www.winthropharbor.com/	Winthrop Harbor	1999.0	1.0
+9308	http://www.brightonps27j.k12.co.us	Brighton 27J School District	2000.0	72.0
+9309	http://jeffco.us/	Jefferson	2003.0	2235.0
+9310	http://www.aametro.org	Arabian Acres Metropolitan District	2003.0	2.0
+9312	http://www.mesa.k12.co.us	Mesa County Valley 51 School District	0.0	10.0
+9313	http://pwswd.com	Pinewood Springs Water District	2009.0	19.0
+9314	http://www.englewoodschools.org/	Englewood 1 School District	2000.0	1.0
+9316	http://www.fraservalleyrec.org	Fraser Valley Metropolitan Recreation	2004.0	119.0
+9317	http://plattevalleyfire.org/	Platte Valley Fire Protection District	2003.0	122.0
+9318	http://haydensd.org/	Hayden RE-1 School District	2002.0	50.0
+9319	http://www.ci.broomfield.co.us/	Broomfield	1998.0	2224.0
+9320	http://www.enid.org/	Enid	1998.0	5485.0
+9321	http://cdpsweb.state.co.us/	Public Safety, Department of	2001.0	48.0
+9322	http://www.woodlinschool.com/	Woodlin R-104	2004.0	6.0
+9323	http://www.svghd.org	St. Vincent General Hospital District	2002.0	166.0
+9326	http://www.aspenk12.net/	Aspen 1 School District	2002.0	6.0
+9327	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-DRE/DORALayout&cid=1251614735941&pagename=CBONWrapper	Real Estate, Division of (DORA)	0.0	1643.0
+9328	http://www.plattevsd.k12.co.us	Platte Valley RE-3 School District	2002.0	1.0
+9329	http://www.villagrove.org/	Villa Grove	2003.0	15.0
+9330	http://www.cityofalamosa.org/	Alamosa, City of	2001.0	53.0
+9332	http://www.edline.net/pages/Platte_Canyon_1	Platte Canyon 1	2012.0	53.0
+9334	http://www.wrwdistrict.com	Wheat Ridge Water District	2003.0	22.0
+9335	http://threelakessanitation.com	Three Lakes Water & Sanitation District	2010.0	19.0
+9336	http://county.pueblo.org/	Pueblo County	2011.0	1200.0
+9337	http://www.meeker.k12.co.us/	Meeker RE1	1999.0	324.0
+9338	http://elcowater.org	East Larimer County Water District	2000.0	1.0
+9339	http://www.ppboces.org/	Pikes Peak Board of Cooperative Educational Services	2000.0	248.0
+9340	http://www.cboces.org/	Centennial Board of Cooperative Educational Services	1999.0	10.0
+9341	http://www.svvsd.org/	St. Vrain Valley RE 1J School District	2013.0	930.0
+9342	http://www.district70.org	Pueblo County Rural 70 School District	0.0	2601.0
+9343	http://www.cherryhillsvillage.com	City of Cherry Hills Village Special Improvement District No. 7	2001.0	1298.0
+9344	http://berthoud.colibraries.org	Berthoud Community Library District	2008.0	37.0
+9345	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-SD/DORALayout&cid=1251614746375&pagename=CBONWrapper	Securities, Division of (DORA)	0.0	1947.0
+9346	http://www.haydenschools.org/	Hayden RE-1	2009.0	77.0
+9348	http://www.falconfirepd.org	Falcon Fire Protection District	2007.0	60.0
+9349	http://www.fcgov.com/	Fort Collins, City of	2000.0	2371.0
+9350	http://www.gladstonemi.org/	Gladstone	2001.0	106.0
+9352	http://www.lasvegasnm.gov	Las Vegas	2006.0	75.0
+9353	http://www.kcsdr1.org/	Kit Carson R-1	2001.0	4.0
+9355	http://www.ci.glenwood-springs.co.us/	Glenwood Springs	1998.0	5.0
+9356	http://www.parkcityks.com/	Park City	1998.0	451.0
+9357	http://www.brushcolo.com/dept/fire.htm	Brush Rural Fire Protection District	2011.0	0.0
+9359	http://www.co.grand.co.us	Grand County	1999.0	785.0
+9360	http://www.swsd.org	Snowmass Water & Sanitation District	2001.0	24.0
+9361	http://www.mtevansboces.com	Mt Evans BOCES	2013.0	118.0
+9362	http://www.springsgov.com/	Colorado Springs, City of	2001.0	4127.0
+9363	http://www.stcharlesmesawaterdistrict.org	St. Charles Mesa Water District	2003.0	760.0
+9364	http://www.trinidadco.com/	Trinidad, City of	1997.0	3144.0
+9365	http://www.historycolorado.org/archaeologists/archaeologists	Archaeology and Historic Preservation, Office of (OAHP)	2011.0	219.0
+9367	http://www.rwadc.org	Rural Water Authority of Douglas County	2011.0	18.0
+9368	http://www.southtimnathmetrodistrict.com	South Timnath Metropolitan District No. 1	2011.0	11.0
+9369	http://www.silverthorne.org/	Silverthorne, Town of	0.0	820.0
+9370	http://bentcounty.org/	Bent County	2001.0	226.0
+9372	http://www.colorado.gov/cs/Satellite/CDPHE-HM/CBON/1251621876866	Hazardous Materials and Waste Management, Division of (CDPHE)	2012.0	709.0
+9373	http://www.louvierswsd.org	Louviers Water and Sanitation District	2011.0	5.0
+9374	http://www.kiowaschool.org	Kiowa C-2 School District	2001.0	8.0
+9375	http://www.ci.westminster.co.us/	Westminster, City of	1996.0	1294.0
+9377	http://www.addisonmaine.org	Addison	2011.0	5.0
+9378	http://www.estesschools.org/education/district/district.php?sectionid=1	Park (Estes Park) R-3	2011.0	1.0
+9379	http://www.brushschools.org	Brush RE-2(J) School District	2000.0	599.0
+9380	https://www.colorado.gov/dhr	Risk Management, Office of (DPA)	2013.0	1784.0
+9382	http://clearviewlibrary.org/	Windsor Severance Library District	2012.0	2220.0
+9383	http://www.colorado.gov/cs/Satellite/CNTY-Costilla/CBON/1251592888581	Costilla	2011.0	89.0
+9384	http://summit.k12.co.us	Summit RE-1 School District	1998.0	38.0
+9386	http://www.commercega.org/	Commerce	1998.0	369.0
+9387	http://www.cmsd.k12.co.us	Cheyenne Mountain 12 School District	1998.0	14335.0
+9388	http://www.ridgway.k12.co.us	Ridgway R-2 School District	2000.0	410.0
+9390	http://www.dividefire.com/	Divide Fire Protection District	2010.0	9.0
+9392	http://www.townofseverance.org/	Severance, Town of	2007.0	152.0
+9393	http://www.sc-boces.org/	South Central Board of Cooperative Educational Services	2009.0	45.0
+9394	http://www.westendschools.org/	West End RE-2	2000.0	31.0
+9395	http://www.ssprd.org	South Suburban Park and Recreation District	2000.0	2404.0
+9396	http://www.tellurideschool.org/	Telluride R-1	2001.0	377.0
+9398	http://www.ci.englewood.co.us/	Englewood, City of	0.0	1252.0
+9399	http://www.village.germantown.wi.us/	Germantown	1999.0	695.0
+9400	http://www.colorado.gov/cs/Satellite/CDPHE-Main/CBON/1251583470000	Radiation Advisory Committee (CDPHE)	2012.0	1532.0
+9402	http://www.eagleschools.net/	Eagle County RE 50	2002.0	105.0
+9403	https://www.colorado.gov/oac	Administrative Courts, Office of (DPA)	2013.0	2393.0
+9404	http://www.concordtwp.com	Concord	2004.0	878.0
+9405	http://www.prairieschool.org/	Prairie RE-11	2001.0	129.0
+9407	http://www.broomfield.org/	Broomfield, City and County of	2004.0	2197.0
+9408	http://www.flmd.com	Forest Lakes Metropolitan District	1998.0	12.0
+9410	http://www.dolo.org	Longmont General Improvement District No. 1	2000.0	1.0
+9411	http://www.kiowacd.org	Kiowa Conservation District	2003.0	24.0
+9412	http://toddcreekvillage.org	Todd Creek Village Metropolitan District	2009.0	35.0
+9413	http://www.montroserec.com	Montrose Recreation District	2003.0	257.0
+9414	http://www.neboces.org	Northeast BOCES	2002.0	559.0
+9415	http://www.elkton-oregon.com/	Elkton	2005.0	10.0
+9416	http://www.c3gov.com	Commerce City, City of	2006.0	1662.0
+9417	https://bouldercolorado.gov/	Boulder, City of	2006.0	2295.0
+9418	http://custercountyschools.org/	Custer County School District C-1	2011.0	6.0
+9419	http://www.colorado.gov/hcpf	Health Care Policy and Financing, Department of (HCPF)	2008.0	962.0
+9420	http://www.hoehnesd.org/	Hoehne Reorganized 3	2011.0	243.0
+9422	http://www.orchardcityco.org/	Orchard City, Town of	2006.0	212.0
+9423	http://salidaschools.com/	Salida R-32	2013.0	181.0
+9424	http://www.eastchicago.com/	East Chicago	2000.0	3.0
+9426	http://westmontrosesd.com/	West Montrose Sanitation District	2011.0	13.0
+9428	http://www.visitestespark.com/	Estes Park, Town of	2004.0	4338.0
+9429	http://northmetrofire.org/	North Metro Fire Rescue District	2001.0	220.0
+9430	http://www.ssrfpd.org/	Steamboat Springs Area Fire Protection District	2009.0	1.0
+9432	http://www.d11.org/Pages/default.aspx	Colorado Springs 11	2011.0	236.0
+9433	http://www.huerfano.us/	Huerfano	2007.0	44.0
+9434	http://www.larkspurfire.org	Larkspur Fire Protection District	2001.0	85.0
+9437	http://www.invernessmetro.com	Inverness Metropolitan Improvement District	2011.0	14.0
+9438	http://www.eaglecounty.us/	Eagle	2003.0	1307.0
+9439	http://www.colorado.gov/cs/Satellite/CDPHE-Main/CBON/1251588259796	Office of Local Liaison (CDPHE)	2012.0	579.0
+9440	http://www.cityofthornton.net/Pages/default.aspx	Thornton, City of	2009.0	326.0
+9441	http://www.townoflyons.com	Lyons Depot Library	2001.0	279.0
+9442	http://www.ignacioschools.org/	Ignacio 11 JT	2011.0	3211.0
+9443	http://www.center.k12.co.us/	Center 26 JT	1998.0	80.0
+9444	http://www.weldre4.k12.co.us/	Windsor RE-4	2008.0	739.0
+9445	http://www.southarapahoe.org	South Arapahoe Sanitation District	2007.0	15.0
+9447	http://www.elizabethfire.com	Elizabeth Fire Protection District	2000.0	21.0
+9448	http://www.windshireparkmetrodistrict.com	Windshire Park Metropolitan District No. 1	2009.0	10.0
+9449	http://www.bffire.org/	Black Forest Fire/Rescue Protection District	2002.0	94.0
+9450	https://www.colorado.gov/dcs	Central Services, Division of (DPA)	2013.0	749.0
+9451	http://www.co.montrose.co.us/	Montrose	2001.0	586.0
+9452	http://www.townofgypsum.com/	Gypsum, Town of	2000.0	351.0
+9453	http://www.ffc8.org	Fountain 8 School District	2001.0	60.0
+9454	http://cityofsalida.com/	Salida, City of	2003.0	860.0
+9456	http://www.cityofguthrie.com/	Guthrie	2001.0	433.0
+9457	http://www.cityoflonetree.com/	Lone Tree, City of	2002.0	1024.0
+9459	http://www.asd20.org/Pages/default.aspx	Academy 20 School District	2013.0	225.0
+9460	http://www.cityofhugoco.org/	Hugo, Town of	2005.0	27.0
+9463	http://www.northbarrington.org/	North Barrington	2000.0	1.0
+9464	http://library.ppld.org	Pikes Peak Library District	1997.0	941.0
+9465	http://www.ci.loveland.co.us	City of Loveland Special Improvement District No. 1	0.0	7242.0
+9466	http://www.townoflimon.com/	Limon, Town of	2002.0	133.0
+9467	http://www.cityofhoschton.com/	Hoschton	2002.0	15.0
+9468	http://www.co.clear-creek.co.us/	Clear Creek	1999.0	1233.0
+9469	http://www.cheyennesd.net/	Cheyenne County RE-5	2006.0	1.0
+9470	http://www.rubyranch.com	Willow Brook Metropolitan District	2000.0	2.0
+9472	http://www.lakehurstwater.org	Lakehurst Water and Sanitation District	2007.0	19.0
+9473	http://www.evergreenmetrodistrict.com/west_jeff/district_west_jeff.htm	West Jefferson County Metropolitan District	2011.0	2.0
+9474	http://www.mesacounty.us	Mesa County	2004.0	834.0
+9475	http://www.pitkincolorado.com/	Pitkin, Town of	2000.0	56.0
+9476	http://www.walsheagles.com/	Walsh RE-1	2006.0	37.0
+9477	http://www.cimarronhillsfire.org/	Cimarron Hills Fire Protection District	0.0	3.0
+9479	http://www.peetzschool.org/site/default.aspx?PageID=1	Plateau RE-5	2013.0	8.0
+9480	http://www.seweldcd-co.org	Southeast Weld Conservation District	2013.0	6.0
+9481	http://www.garfieldre2.k12.co.us/education/components/scrapbook/default.php?sectionid=1	Garfield RE-2 School District	2011.0	8.0
+9482	http://www.sheridank12.org	Sheridan 2 School District	2001.0	1.0
+9483	http://www.mountain-village.co.us/	Mountain Village, Town of	2000.0	474.0
+9485	http://www.northkingstown.org/	North Kingstown	2000.0	2118.0
+9486	http://www.ci.west-bend.wi.us/	West Bend	1998.0	769.0
+9487	http://www.parkco.us	Park County	2004.0	989.0
+9488	http://www.tadems.com/	Trinidad Ambulance District	2013.0	10.0
+9490	http://www.thompson.k12.co.us/site/default.aspx?PageID=1	Thompson R-2J School District	2013.0	8.0
+9491	http://www.lochbuie.org/	Lochbuie, Town of	2004.0	170.0
+9493	http://www.greenwoodvillage.com/	Greenwood Village, City of	1998.0	653.0
+9494	http://www.plattecanyon.org/	Platte Canyon Water and Sanitation District	2007.0	440.0
+9495	http://www.cityoflakeforest.com	Lake Forest	2001.0	1835.0
+9496	http://www.villageofroundlakebeach.com/	Round Lake Beach	2000.0	632.0
+9498	http://ken-carylranch.org/	Ken-Caryl Ranch Metropolitan District	1998.0	104.0
+9500	http://www.simlafire.org	Big Sandy Fire Protection District	2003.0	29.0
+9501	http://macedonia.oh.us/	Macedonia	1998.0	1421.0
+9502	http://www.cde.state.co.us/stateinfo	State Publications Library (CDE)	2001.0	1981.0
+9503	http://www.town.west-bend.wi.us/	West Bend	1999.0	33.0
+9504	http://www.littletonpublicschools.net/	Littleton 6	2004.0	634.0
+9505	http://www.co.morgan.co.us/index.html	Morgan	2004.0	75.0
+9507	http://www.mcsd.org	Montrose County RE-1J School District	1997.0	1444.0
+9508	http://www.ci.wheatridge.co.us/	Wheat Ridge, City of	1999.0	1199.0
+9509	http://www.lakevillatownship.org/home.aspx	Lake Villa	2009.0	65.0
+9511	http://www.townofminden.com	Minden	2003.0	43.0
+9512	http://www.yumacountyfire.com	Yuma County Fire Protection District	2013.0	2.0
+9513	http://www.hylandhills.org/	Hyland Hills Park and Recreation District	1998.0	44.0
+9514	http://www.antioch.il.gov	Antioch	2005.0	63.0
+9515	http://www.greeleydowntown.com/	Greeley Downtown Development Authority	2002.0	494.0
+9516	http://www.sos.state.co.us/pubs/elections/main.htm	Elections Division (SOS)	0.0	304.0
+9517	http://www.ci.longmont.co.us/	Longmont, City of	1998.0	4510.0
+9519	http://www.zipshuttle.com/	Flatiron Improvement District	2002.0	1.0
+9521	http://www.salidalibrary.org/	Salida Regional Library	2002.0	2.0
+9522	http://www.colorado.gov/	State Government	2001.0	4272.0
+9524	http://www.carbondalegov.org/	Carbondale, Town of	2006.0	512.0
+9525	http://www.alamosacounty.org/	Alamosa	2005.0	801.0
+9526	http://www.westernrioblanco.org	Western Rio Blanco Metropolitan Recreation & Park District	2003.0	7.0
+9527	http://www.eaglefd.com/groups/greatereaglefireprotectiondistrict/	Greater Eagle Fire Protection District	2010.0	412.0
+9531	http://www.cityofmaize.org/	Maize	2002.0	59.0
+9532	http://www.cotopaxire3.org/	Cotopaxi RE-3	2004.0	18.0
+9533	http://north.co.schoolwebpages.com/education/district/district.php?sectionid=1	North Conejos RE-1J	2007.0	3.0
+9534	http://www.steamboatlibrary.org	East Routt Library District	2001.0	1155.0
+9535	http://www.bennett29j.k12.co.us/	Bennett 29J	2004.0	11762.0
+9536	http://www.townofjohnstown.com/	Johnstown, Town of	2002.0	241.0
+9537	http://www.foothillsfire.org	Foothills Fire Protection District	2002.0	26.0
+9538	http://dfs.state.co.us/	Fire Safety, Division of (CDPS)	2004.0	91.0
+9539	http://www.custercountygov.com/	Custer	2001.0	1.0
+9540	http://dhsem.state.co.us/emergency-management/emergency-management	Emergency Management, Division of (DOLA)	2013.0	84.0
+9541	http://www.miamiyoder.org/	Miami/Yoder 60 JT	2007.0	2.0
+9542	http://www.townofkiowa.com/	Kiowa, Town of	2004.0	17.0
+9544	http://www.deltahospital.org/getpage.php?name=hospital_board	Delta County Memorial Hospital District	0.0	345.0
+9545	http://www.concordwisconsin.org/	Concord	2001.0	63.0
+9546	http://www.myrtlecreek-oregon.org	Myrtle Creek	2002.0	0.0
+9547	http://www.escanaba.org/	Escanaba	1999.0	176.0
+9548	http://www.fountaincolorado.org/	Fountain, City of	2002.0	1905.0
+9549	http://durangoschools.org/	Durango 9-R	2006.0	9122.0
+9550	http://www.co.weld.co.us	Weld County Chambers Tracts Subdivision Water and Sewer Local Improvement District No. 2003-1	2000.0	587.0
+9551	http://www.telluride-co.gov	Telluride	2008.0	427.0
+9552	http://www.bouldercounty.org/pages/default.aspx	Boulder County Gunbarrel General Improvement District	2010.0	1676.0
+9553	http://www.parachutecolorado.com/	Parachute, Town of	2002.0	168.0
+9554	http://www.telluridelibrary.org	San Miguel Library District 1-Telluride	2004.0	395.0
+9555	http://www.coloradosupremecourt.com/ble/ble_home.htm	Law Examiners, Board of	2002.0	14.0
+9556	http://greeleygov.com/default.aspx	Greeley, City of	2007.0	636.0
+9557	http://www.colorado.gov/cs/Satellite/TownofWinterPark/CBON/1249681774149	Winter Park, Town of	2012.0	125.0
+9558	http://www.fridayharbor.org/	Friday Harbor	1998.0	21.0
+9559	http://www.westgrand.k12.co.us/	West Grand 1-JT.	1999.0	7033.0
+9560	http://pess.cdle.state.co.us/	Public Employees' Social Security Program (CDLE)	1998.0	4.0
+9565	http://www.wescottfire.org	Donald Wescott Fire Protection District	1999.0	60.0
+9566	http://www.copley.oh.us/	Copley	1998.0	909.0
+9567	http://mancoslibrary.org	Mancos Public Library	2010.0	51.0
+9568	http://www.egsd.org	East Grand 2	2003.0	963.0
+9569	http://www.townofdillon.com/	Dillon, Town of	0.0	1165.0
+9570	http://www.wprwater.com	Winter Park Ranch Water and Sanitation District	2011.0	392.0
+9571	http://www.coloradostatefair.com/	Colorado State Fair	1999.0	225.0
+9573	http://www.cde.state.co.us/	Education, Department of	1996.0	1821.0
+9575	http://www.strattonschools.org	Stratton R-4 School District	2002.0	107.0
+9576	http://www.heritagehillsmetro.org	Heritage Hills Metropolitan District	2010.0	5.0
+9577	http://www.coloradocitymetro.us	Colorado City Metropolitan District	2007.0	118.0
+9578	http://www.fairmountfire.org	Fairmount Fire Protection District	2003.0	16.0
+9579	http://ouray.k12.co.us/site/default.aspx?PageID=1	Ouray R-1	2013.0	7.0
+9580	http://www.decaturalabamausa.com/pleaseredirect/index.html	Decatur	2011.0	1.0
+9584	http://seymourcity.com/	Seymour	2002.0	40.0
+9585	http://canoncityfiredistrict.org	Canon City Area Fire Protection District	2007.0	24.0
+9586	http://www.sssd.k12.co.us	Steamboat Springs RE-2 School District	2003.0	254.0
+9589	http://parkvillewater.org	Parkville Water District	2010.0	10.0
+9590	http://www.lakewood.org/	Lakewood, City of	1998.0	720.0
+9591	http://www.lincolncountyco.us/	Lincoln County	2004.0	43.0
+9592	http://www.rmsel.org/	Expeditionary Board of Cooperative Educational Services	2000.0	45.0
+9593	http://www.louisvilleco.gov	Louisville, City of	2009.0	153.0
+9594	http://www.cityofmadisonsd.com/	Madison	2003.0	255.0
+9595	http://www.ci.cornelius.or.us/	Cornelius	2000.0	703.0
+9599	http://wecmrd.org	Western Eagle County Metropolitan Recreation District	0.0	56.0
+9600	http://www.strattoncolorado.com/	Stratton, Town of	2001.0	11.0
+9601	http://www.eadseagles.org/	Eads RE-1	0.0	119.0
+9602	http://swmetrowater.org	Southwest Metropolitan Water & Sanitation District	2007.0	522.0
+9606	http://www.eastgrandfire.com	East Grand County Fire Protection District No. 4	2001.0	37.0
+9607	http://www.bvschools.org/	Buena Vista R-31	2007.0	125.0
+9610	http://www.colorado.gov/cs/Satellite/CDPHE-Main/CBON/1251622332257	Health, Board of (CDPHE)	2013.0	615.0
+9612	http://flaglerschools.co.afs.schoolinsites.com/	Arriba-Flagler C-20 School District	2010.0	32.0
+9613	http://www.coalcreekcanyonprd.org	Coal Creek Canyon Park and Recreation District	2010.0	22.0
+9616	http://www.cityofbirchwood.com/	Birchwood	2014.0	196.0
+9619	http://cottonwoodwater.org	Cottonwood Water & Sanitation District	2004.0	53.0
+9620	http://www.adamsboces.org/	Adams County Board of Cooperative Educational Services	2005.0	102.0
+9621	http://www.colorado.gov/cs/Satellite/CDPHE-CHEIS/CBON/1251593016880	Health Statistics & Vital Records, Bureau of (CDPHE)	2012.0	527.0
+9623	http://www.villageofbeachpark.com/	Beach Park	1998.0	524.0
+9625	http://ccpl.lib.co.us	Canon City Public Library	2000.0	56.0
+9626	http://www.idaliaco.us/	Idalia RJ-3	2007.0	677.0
+9628	http://www.southstrabane.com/	South Strabane	2001.0	28.0
+9629	http://www.laveta.k12.co.us	La Veta RE-2 School District	2000.0	75.0
+9630	http://www.cvcmetro.org	Cordillera Valley Club Metropolitan District	2012.0	15.0
+9631	http://www.slvbocs.org/	San Luis Valley Board of Cooperative Educational Services	2000.0	1.0
+9632	http://www.willoughbyhills-oh.gov	Willoughby Hills	2008.0	148.0
+9635	http://www.hp-patriots.com	Hi-Plains R-23	2007.0	32.0
+9636	http://www.flemingschools.org/education/school/school.php?sectionid=2	Frenchman RE-3	2006.0	3.0
+9637	http://www.crowleycounty.net	Crowley County	2002.0	37.0
+9638	http://huerfanosd.schoolinsites.com/	Huerfano RE-1	2013.0	4654.0
+9639	http://www.weld-re1.k12.co.us/	Weld County RE-1	1999.0	218.0
+9640	http://www.buenavistaco.gov/	Buena Vista Sanitation District	2006.0	37.0
+9641	http://www.lpwd.org	Longs Peak Water District	2011.0	31.0
+9642	http://www.boulderlibrary.org	Boulder Public Library	2001.0	99.0
+9643	http://www.elpasoco.com/Pages/default.aspx	El Paso County	2012.0	75.0
+9644	http://www.highlandrescue.org	Highland Rescue Team Ambulance District	2001.0	22.0
+9645	http://www.greeleyschools.org/site/default.aspx?PageID=1	Greeley 6	2011.0	9.0
+9646	http://www.silvertonschool.org	Silverton 1 School District	2003.0	60.0
+9647	http://www.adams12.org	Adams 12 Five Star Schools	2001.0	924.0
+9648	http://www.meekerrecdistrict.com	Eastern Rio Blanco Metropolitan Recreation & Park District	2003.0	15.0
+9649	http://www.ken-carylwater.org	Ken-Caryl Ranch Water & Sanitation District	2009.0	15.0
+9650	http://www.valleycenterks.org/	Valley Center	2001.0	602.0
+9651	http://www.westcusterlibrary.org/	West Custer County Library District	2014.0	100.0
+9653	http://www.ci.oakdale.mn.us/	Oakdale	1998.0	531.0
+9654	http://alamosa.k12.co.us/dist/	Alamosa RE-11J	2007.0	116.0
+9655	http://www.phillipscountyco.org/	Phillips	2003.0	16.0
+9656	http://www.cityofblackhawk.org/	Black Hawk, City of	2001.0	60.0
+9657	http://www.ci.hillsboro.or.us/	Hillsboro	1996.0	3691.0
+9660	http://co.laplata.co.us	La Plata County	1997.0	1595.0
+9661	http://www.ecboces.org	East Central BOCES	2004.0	329.0
+9662	http://www.bayfieldgov.org	Bayfield, Town of	2008.0	22.0
+9667	http://www.elbertschool.org/	Elbert 200	2004.0	451.0
+9668	http://www.weld8.org/	Weld County S/D RE-8	2008.0	158.0
+9669	http://www.colorado.gov/cs/Satellite/CDPHE-WQ/CBON/1251583425927	Water Quality Control Division (CDPHE)	2012.0	738.0
+9670	http://www.coloradofilm.org/	Motion Picture and Television Commission, Colorado	1996.0	24.0
+9671	http://www.colorado.gov/cs/Satellite/TownofBowMar/CBON/1251624281512	Bow Mar, Town of	2013.0	52.0
+9672	http://www.ci.quincy.il.us/	Quincy	1996.0	247.0
+9673	http://www.poudrelibraries.org/site-changed.php?key=library	Poudre River Public Library District	0.0	0.0
+9674	http://www.allensparkfire.com	Allenspark Fire Protection District	2003.0	16.0
+9676	http://www.huntel.net/community/fortcalhoun/	Fort Calhoun	0.0	43.0
+9677	http://www.sechosp.org	Southeast Colorado Hospital District	0.0	89.0
+9678	http://tvems.com/joomla/	Thompson Valley Health Services District	2011.0	0.0
+9679	http://www.gary.in.us/	Gary	1999.0	114.0
+9680	https://dcsdk12.org/	Douglas County RE 1	2003.0	30.0
+9683	http://www.springfieldcolorado.com/countygov.html	Baca	2003.0	118.0
+9685	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358909&pagename=CBONWrapper	Outfitters Licensing Board, Office of (DORA)	0.0	1092.0
+9686	http://www.manitouspringsgov.com/	Manitou Springs, City of	2011.0	166.0
+9687	http://www.mtvernon.com/	Mount Vernon	1999.0	580.0
+9688	http://www.mosquitobytes.org	Alamosa Mosquito Control District	2008.0	23.0
+9689	http://www.mineralcountycolorado.com/	Mineral	2009.0	315.0
+9690	http://www.udfcd.org/	Urban Drainage and Flood Control District	1998.0	246.0
+9691	http://www.prospectdistrict.org/	Prospect Recreation and Park District	2004.0	34.0
+9692	http://www.cityofhastings.org/	Hastings	2002.0	1007.0
+9693	http://www.guffeyfire.net	Southern Park County Fire District	2009.0	52.0
+9696	http://www.buenavistalibrary.org	Northern Chaffee County Lib Dist-Buena Vista	2001.0	614.0
+9697	http://www.vailrec.com/	Vail Recreation District	2000.0	203.0
+9698	http://co.cheyenne.co.us/specialdistricts.htm	Cheyenne Wells Metropolitan Recreation District	2011.0	49.0
+9700	http://www.colorado.gov/treasury/gcp/	Great Colorado Payback - Department of the Treasury	2006.0	13.0
+9701	http://www.kenner.la.us/	Kenner	1998.0	142.0
+9705	http://www.town-ophir.co.gov/	Ophir, Town of	2006.0	11.0
+9706	http://town.morrison.co.us/	Morrison, Town of	1998.0	254.0
+9708	http://www.crgov.com/	Castle Rock	2003.0	1547.0
+9709	http://www.spld.org	Spanish Peaks Library District	2001.0	545.0
+9710	http://www.northperry.org/	North Perry	2000.0	45.0
+9711	http://www.ci.ouray.co.us/	Ouray, City of	2004.0	62.0
+9713	http://lyonsfire.org/	Lyons Fire Protection District	2004.0	90.0
+9714	http://www.ci.hugo.mn.us/	Hugo	2000.0	1112.0
+9715	http://www.lakecountyschools.net/	Lake County R-1	2001.0	854.0
+9716	http://www.libbymontana.com/	Libby	1999.0	2.0
+9717	http://www.dividefire.org	Divide Fire Protection District	2001.0	16.0
+9718	http://douglascountylibraries.org/	Douglas County Libraries	2003.0	5086.0
+9719	http://www.mtn-sys.com/mesa/index.html	Mesa Cortina Water and Sanitation District	0.0	8.0
+9720	http://www.pwsd.org	Parker Water & Sanitation District	2000.0	137.0
+9721	http://www.creede.com	Creede, City of	1998.0	2299.0
+9724	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632229357&pagename=CBONWrapper	Dental Examiners, Board of (DORA)	0.0	1241.0
+9726	http://www.poudrevalleyfireprotectiondistrict.org	Poudre Valley Fire Protection District	2014.0	649.0
+9727	http://www.hinsdalecountycolorado.us/	Hinsdale County	2002.0	32.0
+9728	http://www.cityofgolden.net/	Golden	2001.0	920.0
+9730	http://www.mountsopriscd.org/	South Side Conservation District	2011.0	14.0
+9731	http://www.ci.alexandria.mn.us/	Alexandria	2005.0	265.0
+9732	http://www.re3j.com/	Keenesburg RE-3(J)	2005.0	437.0
+9733	http://www.townofsuperior.net/	Superior	2005.0	4.0
+9734	http://www.villageoftowerlakes.com/	Tower Lakes	2000.0	182.0
+9737	http://pueblourbanrenewal.org/	Pueblo Urban Renewal Authority	2008.0	117.0
+9738	http://www.charlestownri.org/	Charlestown	2001.0	450.0
+9739	http://highered.colorado.gov/cche.html	Commission on Higher Education, Colorado (CCHE)	2007.0	368.0
+9740	http://www.sanjuancountycolorado.us/	San Juan	2007.0	111.0
+9742	http://www.colorado.gov/cs/Satellite/TownofBennett/CBON/1251597695651	Antelope Hills General Improvement District, Town of Bennett, CO	2012.0	478.0
+9743	http://www.vailgov.com/	Vail, Town of	2001.0	1210.0
+9744	http://www.healthdistrict.org/	Poudre Health Services District	1998.0	473.0
+9745	http://www.mtnboces.org/	Mountain Board of Cooperative Educational Services	2001.0	996.0
+9747	http://www.colorado.gov/revenue/tax	Taxpayer Service Division (DOR)	2008.0	1340.0
+9748	http://www.waterburyvt.com/	Waterbury	1999.0	184.0
+9751	http://www.colorado.gov/cs/Satellite/OIT-Main/CBON/1249667231891	Telecommunications, DoIT (OIT)	2010.0	24.0
+9753	http://roxboroughmetrodistrict.org/	Roxborough Village Metropolitan District	2008.0	12.0
+9757	http://www.warrenvt.org/	Warren	2004.0	195.0
+9758	http://www.doloreslibrary.org/	Dolores Public Library	2000.0	963.0
+9759	http://www.ci.north-platte.ne.us/	North Platte	2001.0	1181.0
+9760	http://www.rangely.com/	Rangely, Town of	1999.0	312.0
+9761	http://www.rfsd.k12.co.us/	Roaring Fork RE-1	1998.0	392.0
+9762	http://www.rtd-denver.com/	Regional Transportation District (RTD)	1996.0	230.0
+9764	http://cwcb.state.co.us/about-us/about-the-ibcc-brts/pages/main.aspx	Interbasin Compact Committee (DNR)	2010.0	6.0
+9765	http://www.ci.steamboat.co.us/	Steamboat Springs	1998.0	1.0
+9766	http://www.townofkremmling.org/	Kremmling, Town of	2003.0	18.0
+9767	http://www.willowswater.org	Willows Water District	2001.0	79.0
+9768	http://www.idahospringsco.com/	Idaho Springs, City of	1999.0	13.0
+9771	http://www.centralcitycolorado.us/	Central City	2004.0	81.0
+9773	http://www.cityofwalsenburg.com/	Walsenburg, City of	2007.0	30.0
+9776	http://www.dolores.k12.co.us/	Dolores RE-4a	2001.0	57.0
+9777	http://www.town.exeter.ri.us/	Exeter	1999.0	22.0
+9778	http://www.belaireks.org/	Bel Aire	2002.0	107.0
+9779	http://www.colorado.gov/cs/Satellite/CDPHE-AP/CBON/1251582562056	Air Pollution Control, Division of (CDPHE)	2012.0	694.0
+9781	http://www.town-richfield.com/	Richfield	2001.0	1.0
+9784	http://delnorte.schoolfusion.us/	Del Norte C-7	2010.0	2468.0
+9789	http://www.madisontwp.org/	Madison	2001.0	2.0
+9792	http://www.calhanschool.org/	Calhan RJ-1	2005.0	809.0
+9793	http://www.unbocs.org/	Uncompahgre Board of Cooperative Educational Services	2000.0	220.0
+9796	http://www.sdc.schoolfusion.us/	Sangre De Cristo RE-22J	2009.0	525.0
+9798	http://www.evld.org	Eagle Valley Library District	2000.0	55.0
+9801	http://www.leg.state.co.us/osa/coauditor1.nsf/home?openform	State Auditor's Office - Colorado General Assembly	2004.0	132.0
+9802	http://lonestarschool.net/	Lone Star 101	2011.0	59.0
+9803	http://www.lakecityschool.org/	Hinsdale County RE 1	2006.0	93.0
+9804	http://co.washington.co.us/	Washington	2006.0	14.0
+9805	http://www.madisonga.com/	Madison	1998.0	1205.0
+9807	http://www.columbinelakewater.com	Columbine Lake Water District	2013.0	9.0
+9808	http://www.vaillibrary.com	Vail Public Library	2001.0	2.0
+9809	http://www.ruidosodowns.us/	Ruidoso Downs	2004.0	149.0
+9810	http://www.applewoodsan.org	Applewood Sanitation District	2013.0	8.0
+9811	http://www.gcld.org	Grand County Library District	2002.0	1077.0
+9812	http://eadseagles.com	Eads RE-1 School District	2002.0	18.0
+9815	http://www.goldengatefire.org	Golden Gate Fire Protection District	2004.0	23.0
+9816	http://www.westdouglasfire.org	West Douglas County Fire Protection District	2010.0	21.0
+9818	http://www.lawrenceks.org/	Lawrence	2000.0	4318.0
+9819	http://www.aguilarco.us	Aguilar, Town of	2010.0	107.0
+9820	http://www.southgatedistricts.org	Southgate Sanitation District	2007.0	29.0
+9821	http://www.colorado.gov/oit/imc.html	Commission on Information Management (OIT)	2006.0	123.0
+9822	http://cwcb.state.co.us/Pages/CWCBHome.aspx	Colorado Water Conservation Board (DNR)	2010.0	210.0
+9825	http://www.cityoflafayette.com/	Lafayette, City of	1998.0	1400.0
+9826	http://ruidoso-nm.gov/	Ruidoso	2006.0	139.0
+9827	http://rockyford.colibraries.org	Rocky Ford Public Library	2009.0	277.0
+9828	http://www.re1valleyschools.org/	Valley RE-1	2001.0	256.0
+9829	http://www.kildeervillage.com/	Kildeer	1999.0	106.0
+9832	http://www.erieco.gov	Erie, Town of	2005.0	689.0
+9833	http://coloradovirtuallibrary.org/	Colorado Virtual Library (CDE)	2011.0	204.0
+9835	http://www.burlingtoncolo.com/index.aspx?nid=160	Burlington Public Library	0.0	621.0
+9836	http://www.fortluptonfire.org	Fort Lupton Fire Protection District	2007.0	27.0
+9837	http://www.northfieldcenter.com/	Northfield Center	2006.0	25.0
+9838	http://www.fowlercolorado.com/	Fowler, Town of	2006.0	34.0
+9839	http://www.munroefalls.com/	Munroe Falls	1998.0	300.0
+9843	http://www.glendale.co.us/	Glendale, City of	1999.0	430.0
+9844	http://www.yumacounty.net/index.htm	Yuma County	2007.0	23.0
+9845	http://www.monticelloutah.org/	Monticello	2001.0	279.0
+9846	http://aurorak12.org/	Adams-Arapahoe 28J School District	2009.0	5072.0
+9847	http://www.deltacounty.com	Delta County	2000.0	488.0
+9848	http://www.dcconservation.com	Douglas County Conservation District	2001.0	24.0
+9849	http://www.re-2.org/	Fremont RE-2	2004.0	72.0
+9850	http://www.gcmetrec.com	Gunnison County Metropolitan Recreation District	2009.0	10.0
+9851	http://www.cityofoakgrove.com/	Oak Grove	2001.0	151.0
+9852	http://wellington.colibraries.org	Wellington Public Library	2008.0	552.0
+9853	http://jefferson.lib.co.us	Jefferson County Public Library	1996.0	29364.0
+9855	http://www.arnoldmo.org/	Arnold	2000.0	1433.0
+9856	http://npsd.schoolfusion.us/	North Park R-1 School District	2009.0	2911.0
+9857	http://www.ci.lamar.co.us/	Lamar, City of	2002.0	316.0
+9859	http://sargent.k12.co.us/	Sargent RE-33J	2003.0	1336.0
+9860	http://www.logancountyco.gov/	Logan	2009.0	120.0
+9863	http://www.fclwd.com	Fort Collins - Loveland Water District	2001.0	12.0
+9864	http://www.sterlingruralfire.com/	Sterling Rural Fire Protection District	2010.0	29.0
+9865	http://www.co.montezuma.co.us/	Montezuma	2002.0	926.0
+9867	http://www.pueblo.us	Southpointe Special Improvement Maintenance District	2003.0	1451.0
+9868	http://www.mcbwsd.com/	Mt. Crested Butte Water & Sanitation District	2010.0	25.0
+9869	http://mtwaterandsan.com	Mountain Water & Sanitation District	2008.0	11.0
+9870	http://www.wpsdk12.org	Woodland Park RE-2 School District	2002.0	145.0
+9871	http://www.ellicottschools.org/	Ellicott 22	2002.0	416.0
+9873	http://www.cityofwestliberty.com/	West Liberty	2001.0	14.0
+9874	http://www.lakevieworegon.org	Lakeview	2009.0	26.0
+9875	http://www.debeque.k12.co.us	DeBeque 49JT School District	2001.0	1.0
+9876	http://www.ci.westminster.co.us/Libraries.aspx	Westminster Public Library	2011.0	1285.0
+9878	http://www.manzanola.k12.co.us/	Manzanola 3J	2002.0	30.0
+9879	http://www.lasalletown.com/	La Salle, Town of	2002.0	6.0
+9880	http://www.starwood.org	Starwood Metropolitan District	2001.0	10.0
+9882	http://www.ci.merrill.wi.us/	Merrill	1997.0	1004.0
+9884	http://www.mylibrary.us	High Plains Library District	2006.0	128.0
+9888	http://www.stow.oh.us/index.php	Stow	2011.0	102.0
+9889	http://www.cottage-grove.org/	Cottage Grove	1998.0	828.0
+9890	http://www.bloomfieldnm.com	Bloomfield	2002.0	346.0
+9891	http://www.mancosre6.edu/	Mancos RE-6	1998.0	226.0
+9892	http://www.wiggins50.k12.co.us/	Wiggins RE-50(J)	1996.0	1209.0
+9894	http://www.fortlupton.org/	Fort Lupton, City of	2001.0	400.0
+9895	http://www.swink.k12.co.us/	Swink 33	2002.0	2.0
+9896	http://www.coloradowingcap.org/	Civil Air Patrol (DMVA)	1999.0	24.0
+9897	http://www.elranchoflorida.org/	El Rancho Florida Metropolitan District	2011.0	128.0
+9898	http://www.fmlibrary.org	Fort Morgan Public Library	2002.0	7.0
+9900	http://www.ci.palmer-lake.co.us/	Palmer Lake, Town of	2000.0	61.0
+9901	http://www.hollyschool.org/	Holly RE-3	0.0	19.0
+9902	http://www.colorado.gov/cs/Satellite/DOLA-Main/CBON/1251590375290	Housing, Division of (DOLA)	2011.0	220.0
+9903	http://www.wilburwa.com/	Wilbur	2000.0	40.0
+9907	http://www.hudson.oh.us/	Hudson	2000.0	789.0
+9908	http://www.cityofglendaleor.com	Glendale	2004.0	47.0
+9909	http://www.fortatkinsonwi.net	Fort Atkinson	2004.0	716.0
+9910	http://www.gatewayofsnowmass.org/	Gateway Metropolitan District	2011.0	5.0
+9911	http://www.co.rio-blanco.co.us/	Rio Blanco	2002.0	152.0
+9912	http://cpnmd.org/	Castle Pines North Metropolitan District	2005.0	136.0
+9913	http://mining.state.co.us/Pages/Home.aspx	Reclamation Mining and Safety, Division of (DRMS) (DNR)	2013.0	110.0
+9914	https://www.colorado.gov/archives	State Archives, Colorado (DPA)	2013.0	1130.0
+9915	http://www.meadowbrookwaterdistrict.com	Meadowbrook Water District	2002.0	7.0
+9916	http://www.co.routt.co.us/	Routt	1998.0	787.0
+9917	http://avalanche.state.co.us/	Avalanche Information Center (DNR)	2006.0	100.0
+9918	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-DFS/DORALayout&cid=1251614735949&pagename=CBONWrapper	Financial Services (DORA)	0.0	1510.0
+9919	http://www.townofbreckenridge.com/	Breckenridge, Town of	1999.0	1829.0
+9920	http://www.cityofmonongahela-pa.gov/	Monongahela	2008.0	36.0
+9922	http://www.rwbfire.org	Red, White & Blue Fire Protection District	1999.0	217.0
+9923	http://akronrams.schoolwires.net/site/default.aspx?PageID=1	Akron R-1	0.0	12.0
+9925	http://psdr3.k12.co.us/education/district/district.php?sectionid=1	Park (Estes Park) R-3 School District	2010.0	1.0
+9927	http://www.genoanevada.org	Genoa	2003.0	74.0
+9929	http://www.prospectky.com/	Prospect	1998.0	231.0
+9930	http://www.crestviewwater.com	Crestview Water & Sanitation District	2007.0	11.0
+9931	http://manitousprings.colibraries.org/	Manitou Springs Public Library	2007.0	2.0
+9932	http://www.coalcreekcanyonfd.org/	Coal Creek Canyon Fire Protection District	2007.0	155.0
+9933	http://www.svlhwcd.org/Pages/default.aspx	St. Vrain & Left Hand Water Conservancy District	2014.0	38.0
+9934	http://www.skylandonline.com/	Skyland Metropolitan District	2002.0	302.0
+9935	http://www.parkcountyre2.org/	Park County RE-2	2001.0	26.0
+9936	http://ci.arvada.co.us/	Arvada	1996.0	507.0
+9937	http://www.mesa.k12.co.us/index.cfm	Mesa County Valley 51	0.0	22.0
+9938	http://www.parkeronline.org/	Parker, Town of	2000.0	383.0
+9939	http://www.louisvillefire.com	Louisville Fire Protection District	2001.0	58.0
+9940	http://www.vernonhills.org/	Vernon Hills	1999.0	770.0
+9941	http://midwayranchesfpd.org	Midway Ranches Fire Protection District	2011.0	180.0
+9943	http://www.centennialcolorado.com/	Centennial, City of	1998.0	369.0
+9944	http://brightonco.gov/	Brighton, City of	2003.0	1729.0
+9947	http://lincolncounty.colibraries.org	Limon Memorial Library	2008.0	294.0
+9948	http://www.genoahugo.org/	Genoa-Hugo C113	2004.0	11.0
+9951	http://www.southroutt.k12.co.us/	South Routt RE 3	2003.0	298.0
+9952	http://highered.colorado.gov/academics/colleges/	Universities and Colleges, public 2 and 4 year - DHE	2008.0	10.0
+9954	http://www.yumacounty.net/	Yuma	2004.0	23.0
+9955	http://frboces.org/	Front Range BOCES	2001.0	12.0
+9956	http://www.dhsem.state.co.us/	Homeland Security - Governor's Office	2013.0	257.0
+9957	http://www.fremontco.com/	Fremont	2001.0	342.0
+9958	http://www.spbcfpd.org	Spanish Peaks and Bon Carbo Fire Protection District	2009.0	13.0
+9959	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632324357&pagename=CBONWrapper	Pharmacy, Board of (DORA)	0.0	1207.0
+9961	http://www.longgrove.net/	Long Grove	1998.0	572.0
+9962	http://www.silvertoncolorado.com/	Silverton, Town of	2003.0	2.0
+9963	http://www.pagosa.k12.co.us/	Archuleta County 50 JT	1998.0	197.0
+9964	http://www.sanmiguelcounty.org	San Miguel County	2002.0	78.0
+9965	http://www.madisonvillage.org/	Madison	2000.0	82.0
+9967	http://www.creedek12.net/	Creede School District	2004.0	48.0
+9968	http://www.co.teller.co.us/	Teller	2000.0	152.0
+9969	http://www.rangelyk12.org/	Rangely RE-4	2004.0	855.0
+9971	http://arapahoelibraries.org/	Arapahoe Library District	1997.0	5282.0
+9972	http://www.broomfield.org/index.aspx?NID=276	Broomfield-Eisenhower Public Library	2013.0	1899.0
+9973	http://www.deerfield.il.us/	Deerfield	2009.0	894.0
+9976	http://www.townofeagle.org/	Eagle, Town of	2000.0	344.0
+9977	http://www.perrytownship-lake.com/	Perry	2001.0	36.0
+9978	http://www.byers32j.k12.co.us/	Byers 32J School District	2004.0	136.0
+9979	http://www.libertyschoolj4.com/	Liberty J-4	2004.0	46.0
+9981	http://www.stregispark.com/	St Regis Park	2003.0	1.0
+9982	http://www.cherrycreekschools.org/SitePages/Page%20Moved.aspx	Cherry Creek 5 School District	2014.0	2.0
+9984	http://www.evergreenmetrodistrict.com	Evergreen Metropolitan District	2002.0	31.0
+9987	http://www.ccsdre1.org	Clear Creek RE-1 School District	2002.0	423.0
+9988	http://www.bennettbearcreekfarmsdistrict.com	Bennett Bear Creek Farm Water & Sanitation District	2010.0	6.0
+9989	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632233022&pagename=CBONWrapper	Chiropractic Examiners, Board of (DORA)	0.0	1222.0
+9992	http://www.swcotv.org	Montezuma-Dolores County Metropolitan Recreation District	2004.0	13.0
+9997	http://www.ci.woodbury.mn.us/	Woodbury	1996.0	1822.0
+9998	http://cpw.state.co.us/	Colorado State Parks (DNR)	2014.0	1417.0
+9999	http://www.pinewoodspringsfire.org/	Pinewood Springs Fire Protection District	2004.0	249.0
+10000	http://arvada.org/	Arvada, City of	2000.0	1025.0
+10002	http://www.hartselfire.org	Hartsel Fire Protection District	2011.0	33.0
+10003	http://www.lake-villa.org/	Lake Villa	2001.0	944.0
+10004	http://la-schools.com/	Las Animas RE-1 School District	2011.0	3016.0
+10006	http://www.thecityofnewport.net/	Newport	2001.0	466.0
+10007	http://www.rdmetro1.org/default.aspx	Riverdale Dunes Metropolitan District No. 1	0.0	111.0
+10010	http://www.clearcreekvalleysanitationdist.org	Clear Creek Valley Water and Sanitation District	2011.0	8.0
+10011	http://www.steamboatsprings.net/	Steamboat Springs, City of	2001.0	775.0
+10012	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-DB/DORALayout&cid=1251614735965&pagename=CBONWrapper	Banking, Division of (DORA)	0.0	1182.0
+10013	http://www.parkcity.org/	Park City	2002.0	858.0
+10014	http://www.cityofloveland.org/index.aspx?page=154	Loveland Public Library	0.0	7232.0
+10016	http://scsd.echalk.com/find_school.aspx	South Conejos RE-10 School District	0.0	1.0
+10017	http://www.kitcarsoncounty.org/	Kit Carson	2002.0	35.0
+10020	http://www.poudrelibraries.org/	Poudre River Public Library District	2009.0	93.0
+10021	http://www.hrrmc.com/getpage.php?name=index	Salida Hospital District	2010.0	355.0
+10022	http://d49.org	Falcon 49 School District	2001.0	24.0
+10023	http://ci.mount-dora.fl.us/	Mount Dora	1996.0	866.0
+10025	https://sites.google.com/a/burlingtonk12.org/main/	Burlington RE-6J School District	0.0	869.0
+10028	http://willoughbyohio.com/	Willoughby	1998.0	382.0
+10029	http://www.kcmo.org/	Kansas City	1997.0	2213.0
+10030	http://www.denverlibrary.org	Denver Public Library	2003.0	5488.0
+10031	http://ci.montrose.co.us/	Montrose	2000.0	3.0
+10032	http://wheatlandsmetro.org	Wheatlands Metropolitan District	2012.0	53.0
+10035	http://silvercliffco.com/	Silver Cliff, Town of	2006.0	13.0
+10036	http://www.waterloowis.com/	Waterloo	2002.0	96.0
+10039	http://www.tri-lakesfire.com	Tri-Lakes Monument Fire Protection District	2003.0	18.0
+10040	http://www.aspenpitkin.com/	Aspen, City of	2002.0	1488.0
+10043	http://www.cortez.k12.co.us/	Montezuma-Cortez RE-1	2000.0	2113.0
+10047	http://www.upboces.org	Ute Pass BOCES	2011.0	82.0
+10050	http://www.avon.org/	Avon, Town of	1998.0	645.0
+10051	http://southparkambulance.com/	South Park Ambulance District	2002.0	13.0
+10052	http://www.primeroschool.org/	Primero Reorganized 2	2006.0	8.0
+10054	http://www.csdb.org/	Colorado School for the Deaf and the Blind (CDE)	2000.0	3262.0
+10055	http://www.advancecolorado.com/	Foreign Trade Office (OEDIT)	2005.0	397.0
+10057	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-DCR/DORALayout&cid=1251614735957&pagename=CBONWrapper	Civil Rights Commission, Colorado (DORA)	0.0	1270.0
+10060	http://www.cck12.net	Ordway Combined Community Library	2008.0	35.0
+10061	http://highlandsranch.org/	Highlands Ranch Metro District	1998.0	524.0
+10062	http://www.victorcolorado.com/cityofvictor.htm	Victor, City of	2007.0	31.0
+10063	http://www.city-woodlandpark.org/home/	Woodland Park, City of	2011.0	236.0
+10066	http://www.southmetro.org	South Metro Fire Rescue Authority	2000.0	257.0
+10067	http://www.colorado.gov/cs/Satellite/DOLA-Main/CBON/1251590375296	Property Taxation, Division of (DOLA)	2011.0	190.0
+10068	http://www.sherwoodoregon.gov/	Sherwood	2010.0	3789.0
+10069	http://www.crwcd.org/	Colorado River Water Conservation District	2001.0	171.0
+10070	http://www.colorado.gov/ag	Agriculture, Department of (DPA)	2008.0	2503.0
+10072	http://highered.colorado.gov/	Higher Education, Department of	2006.0	359.0
+10073	http://www.burlingtoncolo.com/	Burlington, City of	1999.0	428.0
+10078	http://www.minneola.us/	Minneola	2007.0	900.0
+10079	http://www.southkingstownri.com/	South Kingstown	2001.0	1097.0
+10081	http://www.cliftonwaterdistrict.org	Clifton Water District	2010.0	28.0
+10082	http://www.rockyfordk12.org/	Rocky Ford R-2	2013.0	936.0
+10083	http://www.southarkfire.com	South Arkansas Fire Protection District	2011.0	13.0
+10084	http://www.coloradolottery.com/	Colorado Lottery (DOR)	1998.0	684.0
+10085	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632130538&pagename=CBONWrapper	Engineers, Professional, State Board of Registrations (DORA)	0.0	1197.0
+10086	http://www.crystalparkvfd.org/metro/	Crystal Park Metropolitan District	0.0	12.0
+10087	http://www.lamarschools.org/home	Lamar RE-2	2013.0	104.0
+10088	http://www.douglas.co.us	Douglas County Local Improvement District No. 01-01 (Country Club Drive), Douglas County, Colorado	1997.0	789.0
+10089	http://www.delta-co.gov/	Delta, City of	2005.0	54.0
+10091	http://www.leg.state.co.us/clics/clics2013a/cslfrontpages.nsf/homesplash?openform	State Legislature	2013.0	11.0
+10092	http://www.roundlakepark.us/	Round Lake Park	2002.0	2.0
+10093	http://www.coloradoboces.org/	Grand Valley BOCES	2002.0	668.0
+10094	http://www.colorado.gov/revenue/liquor	Tobacco Enforcement Unit (DOR)	2008.0	255.0
+10095	http://www.ci.grandjct.co.us/	Grand Junction	2001.0	465.0
+10096	http://campoco.sharepoint.com/pages/default.aspx	Campo RE-6	2012.0	42.0
+10098	http://www.ccvschools.org/	Cripple Creek-Victor RE-1	2010.0	178.0
+10100	http://www.gcpld.org/about-us/branches/silt-branch-library	Garfield County Library - Silt	0.0	15.0
+10101	http://www.trpr.org	Thompson Rivers Park and Recreation District	2002.0	30.0
+10102	http://www.colorado.gov/cs/Satellite/DOLA-Main/CBON/1251590375256	Board of Assessment Appeals (DOLA)	2011.0	172.0
+10103	http://explorecarbondale.com/	Carbondale	2009.0	1166.0
+10105	http://www.springdaletown.com/	Springdale	2004.0	214.0
+10106	http://www.hanoverhornets.org	Hanover 28	2010.0	361.0
+10108	http://www.ifoothills.org	Foothills Park & Recreation District	2005.0	382.0
+10109	http://www.dcadems.com	Delta County Ambulance District	2011.0	11.0
+10110	http://www.northforkfire.org	North Fork Fire Protection District	2006.0	45.0
+10112	http://www.wigginsco.com/	Wiggins, Town of	0.0	22.0
+10113	http://www.gvrmetrodistrict.com	GVR Metropolitan District	2003.0	31.0
+10115	http://penrose.colibraries.org	Penrose Library District	2007.0	533.0
+10117	http://www.cityofclermontfl.com/	Clermont	2006.0	225.0
+10119	http://www.cityofbanks.org/	Banks	2002.0	598.0
+10120	http://www.colorado.gov/cs/Satellite/CDPS-CBIMain/CBON/1251621089773	Bureau of Investigation, Colorado (CBI) - (CDPS)	2012.0	697.0
+10122	http://www.fffd.us	Frederick-Firestone Fire Protection District	2006.0	81.0
+10123	http://www.fowler.k12.co.us/	Fowler R-4J	2002.0	289.0
+10124	http://www.colorado.gov/cs/Satellite/CDPHE-EM/CBON/1251589439749	Emergency Medical Services, Division of (CDPHE)	2012.0	578.0
+10125	http://www.littletongov.org/	Littleton, City of	2000.0	3263.0
+10126	http://www.mapleton.us/	Mapleton 1	2004.0	4837.0
+10127	http://www.haxtunschools.com/	Haxtun RE-2J	2012.0	13.0
+10128	http://www.larimer.org/	Larimer	2001.0	5334.0
+10129	http://www.sterlingcolo.com	Sterling Public Library	2000.0	176.0
+10130	http://www.wrfire.org/	Wheat Ridge Fire Protection District	1998.0	105.0
+10131	http://www.rmpccpa.com/edwards-metro-district	Edwards Metropolitan District	2011.0	0.0
+10133	http://www.weldre9.k12.co.us	Ault-Highland RE-9 School District	2003.0	573.0
+10134	https://www.colorado.gov/osc	State Controller, Office of the (DPA)	2013.0	1543.0
+10135	http://ci.madras.or.us/	Madras	2003.0	102.0
+10136	http://www.weldonvalley.org/	Weldon Valley RE-20(J) School District	2002.0	0.0
+10138	http://www.peterstownship.com	Peters	2002.0	160.0
+10139	http://www.alexandriatownship.org/	Alexandria	2001.0	38.0
+10141	http://www.colorado.gov/cs/Satellite/StatePatrol-Main/CBON/1251592908196	Colorado State Patrol (CDPS)	2011.0	1049.0
+10142	http://clearcreek.colibraries.org	Clear Creek Library District	2009.0	120.0
+10143	http://www.horizondrivedistrict.com	Horizon Drive Association Business Improvement District	2012.0	203.0
+10145	http://www.wvfpd.org	Woodmen Valley Fire Protection District	2003.0	11.0
+10147	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632281526&pagename=CBONWrapper	Optometrists, Board of (DORA)	0.0	1093.0
+10149	http://www.eroundlake.com/	Round Lake	2001.0	55.0
+10150	http://www.lakecountyco.com/	Lake County	2008.0	433.0
+10152	http://www.fruitlandpark.org/	Fruitland Park	2000.0	24.0
+10153	http://www.fremontsanitation.com	Fremont Sanitation District	2004.0	7.0
+10155	http://www.vilasschools.org/	Vilas RE-5	2011.0	677.0
+10156	http://www.lajuntaschools.org/	East Otero R-1 School District	2009.0	269.0
+10157	https://www.colorado.gov/dfp/travel	Statewide Travel Management Program (DPA)	2014.0	46.0
+10159	http://www.asd20.org/pages/default.aspx	Academy 20	2013.0	226.0
+10160	http://www.goddardks.gov/	Goddard	2012.0	592.0
+10161	http://www.sylvanc.govoffice3.com/	Sylva	2011.0	174.0
+10163	https://childsupport.state.co.us/	Child Support Enforcement (CDHS)	1999.0	114.0
+10164	http://www.ruston.org/	Ruston	1998.0	236.0
+10165	http://www.ccvprd.org	Cherry Creek Vista Metropolitan Recreation & Park District	2007.0	11.0
+10166	http://www.sgcity.org/	St George	2000.0	6060.0
+10167	http://lajunta.colibraries.org	La Junta-Woodruff Memorial Library	2007.0	431.0
+10169	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251631939032&pagename=CBONWrapper	Veterinary Medicine, Board of (DORA)	0.0	1242.0
+10170	http://edgewaterco.govoffice3.com/	Edgewater, City of	2013.0	1276.0
+10171	http://sc-sd.org/	South Conejos RE-10	2013.0	37.0
+10172	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358699&pagename=CBONWrapper	Electrical Board, State (DORA)	0.0	1416.0
+10175	http://franktownfire.org	Franktown Fire Protection District	2006.0	25.0
+10176	http://www.wfpd.org	Wellington Fire Protection District	1998.0	41.0
+10177	http://www.eastvalleywater.20m.com	East Valley Metropolitan District	2001.0	5.0
+10178	http://www.flaglercolorado.com/	Flagler, Town of	2001.0	9.0
+10179	http://www.swfpd.com	Snowmass-Wildcat Fire Protection District	2001.0	54.0
+10180	http://www.gcpld.org/about-us/branches/rifle-branch-library	Garfield County Public Library - Rifle	2014.0	19.0
+10182	http://www.eastadamscd.org	East Adams Conservation District	2011.0	7.0
+10183	http://www.eustis.org/	Eustis	1996.0	65.0
+10184	http://aspenparkmetropolitandistrict.org	Aspen Park Metropolitan District	2011.0	13.0
+10185	http://www.ci.stillwater.mn.us/	Stillwater	1998.0	492.0
+10188	http://www.rioblancoboces.org/	Rio Blanco Board of Cooperative Educational Services	2006.0	190.0
+10190	http://www.fruita.org/	Fruita, City of	1997.0	41.0
+10191	http://www.meridianranchmetro.org	Meridian Service Metropolitan District	2011.0	54.0
+10192	http://www.basalt.net/	Basalt, Town of	2000.0	316.0
+10193	http://www.eastdillon.com	East Dillon Water District	2001.0	14.0
+10195	http://www.englewoodgov.org/	Englewood	0.0	1250.0
+10196	http://www.upperpinefpd.org	Upper Pine River Fire Protection District	2001.0	34.0
+10197	http://ci.hartford.wi.us/	Hartford	2002.0	67.0
+10198	http://nwfd.org/	North Washington Fire Protection District	2000.0	57.0
+10199	http://plattevillegov.org/	Platteville	2003.0	132.0
+10201	http://www.bvmd.biz/	Blue Valley Metropolitan District	2012.0	78.0
+10202	http://www.florencecolorado.org/	Florence, City of	2001.0	48.0
+10203	http://www.plsd.org	Palmer Lake Sanitation District	2011.0	22.0
+10204	http://www.cwcwd.com	Central Weld County Water District	2002.0	7.0
+10205	http://heginbotham.ipac.dynixasp.com/	Holyoke-Heginbotham Library	0.0	199.0
+10206	http://redskyranchmetro.com	Red Sky Ranch Metropolitan District	2013.0	9.0
+10207	http://www.vernontownship.com/	Vernon	2001.0	44.0
+10208	http://www.bransonschoolonline.com/	Branson Reorganized 82	2002.0	291.0
+10209	http://www.colorado.gov/cs/Satellite/DOLA-Main/CBON/1251589672852	Local Affairs, Department of (DOLA)	2011.0	256.0
+10210	http://www.gjcity.org/	Grand Junction, City of	2001.0	479.0
+10211	http://www.damascus.org/	Damascus	1997.0	145.0
+10212	http://www.cityoftoledo.org/	Toledo	1999.0	37.0
+10214	http://www.bayfield.k12.co.us	Bayfield 10 JT.-R School District	1998.0	82.0
+10216	http://www.gcpld.org/about-us/branches/new-castle-branch-library	Garfield County Library - New Castle	0.0	15.0
+10217	http://lincolncreekvillage.com/	Lincoln Creek Metropolitan District	2013.0	7.0
+10218	http://yampavalley.info/centers/libraries/organizations/hayden_public_library_-_west_routt_library_district	West Routt Library District-Hayden	2010.0	14.0
+10219	http://www.salida.k12.co.us/	Salida R-32 School District	1999.0	46.0
+10220	http://www.northfranklintownship.com/site7/	North Franklin	2014.0	0.0
+10221	http://www.cityofgunnison-co.gov/	Gunnison, City of	0.0	250.0
+10222	http://www.ovidcolorado.com/	Ovid, Town of	2007.0	18.0
+10223	http://www.nwcwd.org	North Weld County Water District	2001.0	21.0
+10224	http://www.historycolorado.org/	Colorado History Society (DHS)	2010.0	1226.0
+10227	http://www.parachutebattlementparkandrec.org	Parachute/Battlement Mesa Park & Recreation District	2009.0	27.0
+10228	http://rattlesnakefirerescue.com	Rattlesnake Fire Protection District	0.0	35.0
+10230	http://www.cwrpda.com/	Colorado Water Resources and Power Development Authority	2001.0	57.0
+10231	http://www.aspenfire.com	Aspen Fire Protection District	2003.0	39.0
+10232	http://www.donalawater.org	Donala Water & Sanitation District	2004.0	92.0
+10233	http://netellerfire.org	Northeast Teller County Fire Protection District	2010.0	12.0
+10234	http://www.evergreenrecreation.com/	Evergreen Park & Recreation District	2004.0	729.0
+10235	http://www.aztecnm.com/	Aztec	1999.0	275.0
+10236	http://www.wichita.gov/Pages/default.aspx	Wichita	2013.0	1803.0
+10238	http://www.coloradocreativeindustries.org/	State Arts Agency - Colorado Council on the Arts (OEDIT)	2011.0	106.0
+10240	http://www.ldfr.org	Lake Dillon Fire Protection District	1999.0	246.0
+10241	http://www.eastlakeohio.com/	Eastlake	1998.0	199.0
+10244	http://www.crestedbutte-co.gov/	Crested Butte, Town of	2006.0	898.0
+10246	http://www.richmondri.com/	Richmond	2000.0	436.0
+10247	http://www.peytonfiredistrict.com	Peyton Fire Protection District	2008.0	7.0
+10248	http://www.tsd1.org/	Trinidad 1	2009.0	333.0
+10249	http://www.co.morgan.co.us	Morgan County	2010.0	71.0
+10251	http://www.greenmountainfalls.org/towninfo.htm	Green Mountain Falls, Town of	2006.0	463.0
+10255	http://aspensan.com	Aspen Consolidated Sanitation District	2001.0	24.0
+10256	http://www.colorado.gov/revenue	Revenue, Department of	2008.0	1452.0
+10257	http://www.yumaschools.org/	Yuma 1 School District	2001.0	1649.0
+10260	http://highered.colorado.gov/dpos/	Division of Private Occupational Schools (DPOS)	2008.0	28.0
+10262	http://home.elpasotexas.gov/	El Paso	2012.0	584.0
+10264	http://www.carnegiepubliclibrary.org	Trinidad-Carnegie Public Library	2006.0	463.0
+10266	http://www.ci.omaha.ne.us/	Omaha	1998.0	499.0
+10268	http://www.ci.federal-heights.co.us/	Federal Heights, City of	2003.0	0.0
+10270	http://www.wrayco.net/	Wray, City of	2002.0	31.0
+10271	http://www.cripplecreekgov.com/	Cripple Creek, City of	2007.0	62.0
+10273	http://scfd.org/	Scientific & Cultural Facilities District	2000.0	168.0
+10274	http://www.cityoffairlawn.com/	Fairlawn	2001.0	442.0
+10276	http://bachelorgulchmetro.org	Bachelor Gulch Metropolitan District	2011.0	11.0
+10277	http://www.glenwoodfire.com	Glenwood Springs Rural Fire Protection District	1999.0	13.0
+10278	http://www.sanfordschools.org/	Sanford 6J	2003.0	956.0
+10280	http://centennialwater.org/	Centennial Water & Sanitation District	2011.0	34.0
+10283	http://www.parkmeadowsmetrodistrict.org	Park Meadows Metropolitan District	2011.0	56.0
+10284	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-DI/DORALayout&cid=1251623445671&pagename=CBONWrapper	Insurance, Division of (DORA)	0.0	1485.0
+10286	http://www.pinerywater.com	Denver Southeast Suburban Water & Sanitation District	2001.0	36.0
+10287	http://www.city.hobart.in.us	Hobart	2002.0	0.0
+10288	http://www.arvadafire.com	Arvada Fire Protection District	1998.0	63.0
+10292	http://www.eastboulderwater.com/	East Boulder County Water District	2004.0	113.0
+10293	http://www.gcpld.org/about-us/branches/carbondale-branch-library	Garfield County Library - Gordon Cooper	2014.0	19.0
+10295	http://www.westmetrofire.org/	West Metro Fire Protection District	1998.0	1156.0
+10296	http://www.co.adams.co.us	Adams County	1998.0	983.0
+10297	http://www.akronrams.net/site/default.aspx?PageID=1	Akron R-1 School District	2013.0	12.0
+10299	http://www.washingtonpa.us/	Washington	2003.0	94.0
+10303	http://www.aboces.org/	Adams County BOCES	2011.0	13.0
+10304	http://www.colorado.gov/cs/Satellite/CDPHE-DCEED/CBON/1251607754746	Environmental Epidemiology, Disease Control &, Division of (CDPHE)	2012.0	711.0
+10305	http://www.chipetawater.org/	Chipeta Water District	2011.0	7.0
+10306	http://www.dolorescounty.org/	Dolores	2002.0	126.0
+10309	http://www.ci.craig.co.us/	Craig, City of	1999.0	238.0
+10311	http://www.bluespringsgov.com/	Blue Springs	2001.0	718.0
+10314	http://www.ricocolorado.org/gov/frame_gov.html	Rico, Town of	2001.0	43.0
+10315	http://www.pawneeschool.org/	Pawnee RE-12	2011.0	15.0
+10316	http://www.cde.state.co.us/cdeboard	Board of Education, State (CDE)	2007.0	2045.0
+10317	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA/DORALayout&cid=1249686120221&pagename=CBONWrapper	Regulatory Agencies, Department of	0.0	2428.0
+10318	http://www.riograndecounty.org/	Rio Grande	2003.0	216.0
+10320	http://www.roxwater.org	Roxborough Water and Sanitation District	2010.0	54.0
+10321	http://www.mcclaveschool.org/	Mc Clave RE-2	0.0	41.0
+10325	http://www.villageofroundlakeheights.com	Round Lake Heights	2004.0	44.0
+10327	http://www.julesburg.org/	Julesburg RE-1	2004.0	3.0
+10328	http://www.kcedfonline.org/sheridanlake.htm	Sheridan Lake, Town of	2008.0	1.0
+10329	http://coloradopeak.force.com/	Colorado Benefits Management System	2013.0	26.0
+10330	http://www.gcpld.org/about-us/branches/parachute-branch-library	Garfield County Library - Parachute	0.0	19.0
+10332	http://www.gilpinlibrary.org/	Gilpin County Library District	2001.0	8.0
+10333	http://www.saguachecounty.net/	Saguache	2007.0	796.0
+10334	http://www.carbondalefire.org	Carbondale & Rural Fire Protection District	2000.0	80.0
+10335	http://www.ccsdre1.org/home.aspx	Clear Creek RE-1	2006.0	0.0
+10336	http://www.colorado.gov/energy/	Colorado Governor's Office of Energy Management and Conservation	2007.0	2.0
+10337	http://cortezfire.com/	Cortez Fire Protection District	2003.0	51.0
+10338	http://www.co.arapahoe.co.us	Arapahoe County	1998.0	1336.0
+10339	http://www.eaton.k12.co.us	Eaton RE-2	2001.0	30.0
+10340	http://www.pueblocityschools.us/	Pueblo City 60	2008.0	114.0
+10341	http://www.northshorewaterdistrict.com	North Shore Water District	2013.0	9.0
+10343	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358890&pagename=CBONWrapper	Plumbers, Board of (DORA)	0.0	924.0
+10345	http://www.sjboces.org/	San Juan Board of Cooperative Educational Services	2008.0	75.0
+10346	http://www.lakebluff.org/	Lake Bluff	1999.0	884.0
+10348	http://www.southernmetrodistrict.com/	Southern Metropolitan District	2011.0	6.0
+10351	http://www.yumahospital.org	Yuma District Hospital	2003.0	35.0
+10355	http://www.townofmead.org	Mead, Town of	2011.0	197.0
+10356	http://www.custercountymedical.com/invalid.html	West Custer County Hospital District	2014.0	99.0
+10358	http://www.sos.state.co.us/	State, Secretary of (SOS)	2000.0	140.0
+10364	http://www.sierragrandeschool.net/	Sierra Grande R-30	2009.0	10.0
+10365	http://www.ci.medford.or.us/	Medford	1996.0	1991.0
+10367	http://www.elbertcounty-co.gov/	Elbert County	2004.0	121.0
+10370	http://www.aguilarschools.org/	Aguilar Reorganized 6	2011.0	14.0
+10371	http://www.dc2j.org/	Dolores County RE No.2	2013.0	91.0
+10373	http://www.townofsilverplume.org/	Silver Plume, Town of	2008.0	167.0
+10374	http://www.ci.dacono.co.us/	Dacono, City of	2003.0	294.0
+10375	http://ssd2.org/	Sheridan 2	2011.0	392.0
+10376	http://www.kcedfonline.org/haswell.htm	Haswell, Town of	2008.0	1.0
+10377	http://poudrecanyonfpd.org	Poudre Canyon Fire Protection District	2012.0	15.0
+10378	http://www.alamosalibrary.org	Alamosa-Southern Peaks Public Library	2003.0	33.0
+10379	http://www.townofelizabeth.org/	Elizabeth, Town of	2001.0	33.0
+10383	http://www.cherokeemetro.org/	Cherokee Metropolitan District	2007.0	251.0
+10384	http://www.colorado.gov/cs/Satellite/CDPHE-HF/CBON/1251583470236	Health Facilities Authority, Colorado (CDPHE)	2012.0	573.0
+10386	http://wrightfarmsmetropolitandistrict.com/wfmd/	Wright Farms Metropolitan District	2009.0	12.0
+10388	http://www.gunnisonschools.net/	Gunnison Watershed RE1J	2003.0	487.0
+10389	http://cheraw.k12.co.us/education/components/scrapbook/default.php?sectionid=2&url_redirect=1	Cheraw 31 School District	2011.0	1.0
+10391	http://www.springfield.k12.co.us/find_school.aspx	Springfield RE-4 School District	0.0	1.0
+10392	http://www2.cde.state.co.us/ctbl/	Colorado Talking Book Library (CDE)	2001.0	227.0
+10393	http://www.laplawd.org	La Plata Archuleta Water District	2004.0	12.0
+10394	http://www.lookoutmountainwaterdistrict.org	Lookout Mountain Water District	2001.0	126.0
+10396	http://www.hamiltoncreek.org	Hamilton Creek Metropolitan District	2001.0	4.0
+10399	http://www.centennialschool.net/	Centennial R-1	2010.0	23.0
+10400	http://www.valleyne.org/	Valley	2002.0	120.0
+10402	http://sacwsd.org	South Adams County Water & Sanitation District	2000.0	309.0
+10403	http://www.windsorhighlandsmetrodistrict.com	Windsor Highlands Metropolitan District No. 1	2011.0	9.0
+10404	http://www.townofsilt.org/	Silt, Town of	0.0	63.0
+10405	http://www.northjeffco.org/	North Jeffco Park & Recreation District	1998.0	2553.0
+10408	http://geosurvey.state.co.us/Pages/CGSHome.aspx	Geological Survey, Colorado (DNR)	2011.0	1459.0
+10410	http://www.gcpld.org/about-us/branches/glenwood-springs-branch-library	Garfield County Library - Glenwood Springs	0.0	19.0
+10411	http://www.archuletacounty.org	Archuleta County	2000.0	734.0
+10412	http://montrosefire.org/	Montrose Fire Protection District	2008.0	24.0
+10414	http://www.coloradodot.info/	Transportation, Department of	2009.0	1950.0
+10415	http://www.empirecoloradogov.com/site-configuration/auth/login.php?redirect_url=%2Fsite-configuration%2Fmain%2Fhome.php	Empire, Town of	0.0	3.0
+10417	http://nederland.colibraries.org/	Nederland Community Library District	2008.0	503.0
+10418	http://www.sftboces.org	Santa Fe Trail BOCES	2013.0	28.0
+10419	http://intercanyonfire.org	Inter-Canyon Fire Protection District	2002.0	97.0
+10420	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251626796369&pagename=CBONWrapper	Acupuncture Licensure, Office of (DORA)	0.0	1088.0
+10421	http://www.villageofislandlake.com/	Island Lake	2000.0	172.0
+10422	http://www.boxeldersanitation.org	Boxelder Sanitation District	2007.0	9.0
+10423	http://www.debeque.org/	De Beque, Town of	2003.0	34.0
+10424	http://www.ci.forest-lake.mn.us/	Forest Lake	2005.0	580.0
+10425	http://berthoud.org/	Berthoud, Town of	2001.0	500.0
+10426	http://cpngov.com/	Castle Pines, City of	2009.0	20.0
+10427	http://www.aprd.org	Arapahoe Park & Recreation District	2002.0	3.0
+10428	http://www.norwoodk12.org/	Norwood R-2J	2011.0	44.0
+10429	http://www.townofpalisade.org/	Palisade, Town of	2002.0	327.0
+10430	http://www.greenoaks.org/	Green Oaks	2000.0	32.0
+10431	https://www.epmedcenter.com/	Park Hospital District	2001.0	204.0
+10433	http://www.townofblueriver.com/	Blue River, Town of	2002.0	0.0
+10434	http://ignaciolibrary.org	Ignacio Library District	2014.0	343.0
+10435	http://bonemesawater.com	Bone Mesa Domestic Water District	2011.0	24.0
+10436	http://basaltlibrary.org/	Basalt Regional Library District	2010.0	13.0
+10437	http://rampart.colibraries.org	Rampart Library District-Woodland Parkflorissant	2006.0	27.0
+10438	http://norwoodfiredistrict.org/	Norwood Fire Protection District	2011.0	19.0
+10439	http://www.lewispalmer.org/	Lewis-Palmer 38	2004.0	283.0
+10440	http://www.ci.monte-vista.co.us/site-configuration/auth/login.php?redirect_url=%2Fsite-configuration%2Fmain%2Fhome.php	Monte Vista, City of	0.0	3.0
+10441	http://www.perrypark.org/	Perry Park Metropolitan District	2003.0	0.0
+10444	http://www.clvfd.org	Crystal Lakes Fire Protection District	2007.0	30.0
+10445	http://dcj.state.co.us/	Criminal Justice, Division of (CDPS)	2002.0	42.0
+10446	http://fairplayco.us/	Fairplay, Town of	2007.0	15.0
+10448	http://www.minturn.org/	Minturn, Town of	1999.0	135.0
+10449	http://www.uprad.org	Ute Pass Regional Ambulance District	2007.0	1.0
+10451	http://www.leesburgflorida.gov/	Leesburg	2004.0	655.0
+10452	http://www.smithtownship.org/	Smith	2002.0	19.0
+10453	http://holyoke.schoolfusion.us/	Holyoke RE-1J	2008.0	1860.0
+10454	http://www.co.summit.co.us/	Summit	1999.0	1181.0
+10456	http://www.ci.waterville.wa.us/	Waterville	2001.0	55.0
+10457	http://www.calumettwp-in.gov/	Calumet	2004.0	33.0
+10458	http://www.cityofnorton.org/	Norton	2000.0	2.0
+10459	http://www.smokyhillmetrodistrict.org	Smoky Hill Metropolitan District	2009.0	7.0
+10460	http://bigsandy.ppboces.org/	Big Sandy 100J	2003.0	0.0
+10463	http://www.weldre5j.k12.co.us/	Johnstown-Milliken RE-5J	2001.0	93.0
+10464	http://www.villageofwadsworth.org/	Wadsworth	2002.0	292.0
+10465	http://www.baldwincity.org/	Baldwin City	2002.0	190.0
+10467	http://www.plattevalley.schoolfusion.us/	Platte Valley RE-3	2010.0	236.0
+10468	http://www.brookforestwater.org	Brook Forest Water District	2013.0	7.0
+10473	http://www.ccvwater.org	Cherry Creek Valley Water & Sanitation	2010.0	10.0
+10474	http://www.seboces.k12.co.us/find_school.aspx	Southeastern Colorado Board of Cooperative Educational Services	0.0	1.0
+10475	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358986&pagename=CBONWrapper	Passenger Tramway Safety Board (DORA)	0.0	1130.0
+10477	http://www.villageofjackson.com/	Jackson	2002.0	300.0
+10478	http://www.cityofralston.com/	Ralston	2000.0	44.0
+10479	http://www.townofault.org/	Ault, Town of	2006.0	294.0
+10483	http://www.colorado.gov/cs/Satellite/BrightonFire/CBON/1251608839101	Greater Brighton Fire Protection District	2012.0	79.0
+10485	http://mesacountylibraries.org/	Mesa County Public Library District	2011.0	330.0
+10486	http://www.hsd2.org/	Harrison 2	2004.0	981.0
+10487	http://www.riverwoods-il.net/	Riverwoods	2000.0	640.0
+10488	http://www.lavetalibrary.org	La Veta Regional Library District	2009.0	4171.0
+10489	http://www.woodmoorwater.com	Woodmoor Water and Sanitation District No. 1	2001.0	85.0
+10490	http://mountainvalleyschool.org/	Mountain Valley RE 1	2012.0	192.0
+10491	http://www.cityofripley.org	Ripley	2004.0	23.0
+10492	http://www.summittwp.com/	Summit	1999.0	108.0
+10497	http://www.cuchara.org	Cucharas Sanitation & Water District	2001.0	9.0
+10499	http://www.villageofbrooklyn.com/	Brooklyn	2001.0	39.0
+10500	http://www.colorado.gov/cs/Satellite/CICJIS_V2/CBON/1251603341934	Colorado Integrated Criminal Justice Information System (CICJIS)	2012.0	1055.0
+10501	http://www.lincolncity.org/	Lincoln City	1998.0	514.0
+10502	http://www.clearwaterks.org/	Clearwater	2001.0	3286.0
+10503	http://www.ci.independence.mo.us/	Independence	1996.0	1399.0
+10505	http://www.rmwsd.com	Round Mountain Water & Sanitation District	2010.0	7.0
+10506	http://www.brushcolo.com/	Brush, City of	1998.0	76.0
+10507	http://www.cityofoakparkheights.com/	Oak Park Heights	2001.0	164.0
+10508	http://merino-sd.schoolfusion.us/	Buffalo RE-4	2009.0	2367.0
+10509	http://www.ci.forest-grove.or.us/	Forest Grove	2001.0	0.0
+10510	http://www.cityofstanthony.org/	St Anthony	0.0	45.0
+10512	http://www.townoffrisco.com/	Frisco, Town of	1998.0	252.0
+10513	http://www.villageofcloudcroft.com/	Cloudcroft	2001.0	9.0
+10514	http://www.coloradoattorneygeneral.gov/ca	Collection Agency Board - Law, Department of	2013.0	947.0
+10515	http://www.aspentrailsmd.com	Aspen Trails Metropolitan District	2008.0	7.0
+10516	http://www.durangopubliclibrary.org	Durango Public Library	2003.0	94.0
+10517	http://www.teasd.com/	Tea	2001.0	232.0
+10518	http://www.ashland.or.us/	Ashland	1996.0	18228.0
+10519	http://www.ci.lake-mills.wi.us/	Lake Mills	2001.0	423.0
+10520	http://www.wsd3.k12.co.us	Widefield 3 School District	1997.0	2.0
+10521	http://cityofls.net/	Lees Summit	2009.0	2074.0
+10522	http://www.durangogov.org/	Durango, City of	2001.0	940.0
+10526	http://cscl.colibraries.org/	Supreme Court Law Library	2010.0	20.0
+10527	https://www.psdschools.org/	Poudre R-1	2003.0	1265.0
+10528	http://www.wiley.k12.co.us/	Wiley RE-13 JT	2004.0	10.0
+10529	http://indianhillswater.com	Indian Hills Water District	2004.0	259.0
+10531	http://www.colorado.gov/cs/Satellite/ag_Main/CBON/1251599402890	Soil Conservation Board (CDA)	2012.0	60.0
+10532	http://pagosa.colibraries.org	Upper San Juan Library District	2008.0	2.0
+10533	http://www.catamountmetro.org	Catamount Metropolitan District	2011.0	9.0
+10534	http://www.townofcastlerock.org/	Castle Rock, Town of	2001.0	1456.0
+10535	http://www.woodmenhills.org	Woodmen Hills Metropolitan District	2013.0	24.0
+10538	http://www.whitebearankele.com/clients/cherry-hills-city-metropolitan-district	Cherry Hills City Metropolitan District	0.0	0.0
+10539	http://www.townofmeeker.org/	Meeker, Town of	2004.0	182.0
+10540	http://www.colorado.gov/cs/Satellite/TownofIgnacio/CBON/1251594448256	Ignacio, Town of	2012.0	53.0
+10545	http://www.cityoffortmorgan.com/	Fort Morgan, City of	2002.0	1028.0
+10546	http://www.colorado.gov/revenue/gaming	Gaming, Colorado Division of (DOR)	2008.0	265.0
+10547	http://www.historictrinidad.com/	Trinidad	2002.0	30.0
+10548	http://trustlands.state.co.us/pages/slb.aspx	State Land Board, Colorado (DNR)	2009.0	52.0
+10549	http://www.adams50.org/site/default.aspx?PageID=1	Westminster 50	2012.0	6.0
+10551	http://www.shadycove.net/	Shady Cove	1999.0	26.0
+10553	http://www.flmfire.org	Fort Lewis Mesa Fire Protection District	2007.0	115.0
+10556	http://www.evergreenfirerescue.com	Evergreen Fire Protection District	2004.0	41.0
+10557	http://www.adams14.org/	Adams County 14	2008.0	232.0
+10559	http://www.spre4.org/	Springfield RE-4	0.0	49.0
+10561	http://www.durham-oregon.us/	Durham	0.0	38.0
+10562	http://www.washingtoncity-ut.net/	Washington	2000.0	20.0
+10563	http://www.edison54jt.schoolfusion.us/	Edison 54 JT	2010.0	449.0
+10565	http://www.invernesswater.org	Inverness Water & Sanitation District	2011.0	17.0
+10566	http://www.ci.firestone.co.us/	Firestone, Town of	2001.0	1233.0
+10567	http://cityofmentor.com/	Mentor	2001.0	3.0
+10568	https://www.colorado.gov/dfp	State Buildings, Division of Purchasing and (DPA)	2013.0	1321.0
+10569	http://www.wecadems.com	Western Eagle County Health Services District	2004.0	893.0
+10571	http://elizabeth.k12.co.us	Elizabeth C-1 School District	2000.0	135.0
+10573	http://www.townofwellington.com/	Wellington, Town of	2004.0	682.0
+10575	http://www.columbinevalley.org/	Columbine Valley, Town of	2003.0	63.0
+10576	http://www.summit.k12.co.us/site/default.aspx?PageID=1	Summit RE-1	2012.0	17.0
+10577	http://www.morgan.k12.co.us/	Fort Morgan RE-3	2000.0	21.0
+10578	http://www.aspenspringsmetro.org	Aspen Springs Metropolitan District	2010.0	10.0
+10579	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-PUC/DORALayout&cid=1251614750747&pagename=CBONWrapper	Public Utilities Commission (DORA)	0.0	975.0
+10584	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632229493&pagename=CBONWrapper	Nursing, Board of (DORA)	0.0	1296.0
+10585	http://www.pagosasprings.co.gov/	Pagosa Springs, Town of	2008.0	550.0
+10587	http://www.mpmc.org	Kremmling Memorial Hospital District	2008.0	158.0
+10591	http://www.richfieldvillageohio.org/	Richfield	2002.0	0.0
+10592	http://www.aspenvalleyhospital.org/	Aspen Valley Hospital District	2008.0	112.0
+10593	http://www.sedgwickcountygov.net/	Sedgwick	2008.0	34.0
+10594	http://www.warrentownship.net/	Warren	1999.0	145.0
+10596	http://www.telluridefire.com	Telluride Fire Protection District	2002.0	15.0
+10597	http://www.cdboces.org	Colorado Digital Board of Cooperative Educational Services	2013.0	28.0
+10598	http://www.cityofsanluis.org/	San Luis	2002.0	304.0
+10600	http://www.springtwp.com/	Springfield	2005.0	50.0
+10603	http://www.pacificflyway.gov/	Pacific Flyway Council	2002.0	12.0
+10605	http://ouraycountyco.gov/	Ouray County	2006.0	301.0
+10606	http://www.csfs.colostate.edu/index.shtml/	Forestry, Division of (DNR)	2009.0	34.0
+10607	http://www.cityofgrainvalley.org/	Grain Valley	2001.0	11.0
+10608	http://www.fourmilefire.net	Four Mile Fire Protection District	2011.0	4.0
+10609	http://www.rifleco.org/	Rifle, City of	2000.0	362.0
+10611	http://www.bearcreekwater.org/	Bear Creek Water and Sanitation District	2002.0	81.0
+10612	http://water.state.co.us/groundwater/gwadmin/pages/default.aspx	Colorado Ground Water Commission	2010.0	6.0
+10613	http://www.derbyweb.com/	Derby	1997.0	644.0
+10615	http://www.ubsd.org/	Upper Blue Sanitation District	2009.0	12.0
+10616	http://www.swacfire.com	Southwest Adams County Fire Protection District	2002.0	16.0
+10617	http://www.evergreenmetrodistrict.com/upper_bear/district_upper_bear.htm	Upper Bear Creek Water & Sanitation District	2011.0	2.0
+10618	http://www.mvfpd.org/	Mountain View Fire Protection District	2008.0	250.0
+10619	http://www.highland.in.gov	Highland	2004.0	162.0
+10620	http://www.grandfire.org	Grand Fire Protection District No. 1	0.0	41.0
+10621	http://www.courts.state.co.us/	State Courts - Judicial Department	1998.0	1951.0
+10622	http://www.ppwsd.org	Perry Park Water & Sanitation District	2007.0	1.0
+10624	http://www.englewoodschools.net/	Englewood 1	2010.0	2.0
+10625	http://www.deltaschools.com	Delta County 50(J)	2001.0	103.0
+10626	http://dnr.state.co.us/Pages/DNRDefault.aspx	Natural Resources, Department of	2011.0	42.0
+10630	http://www.lakecountypubliclibrary.org	Lake County Public Library	2006.0	52.0
+10632	http://www.colorado.gov/cs/Satellite/CNTY-Moffat/CBON/1251574649345	Moffat	2010.0	190.0
+10634	http://www.eatonco.org/	Eaton, Town of	2003.0	362.0
+10635	http://www.bvsd.org/Pages/default.aspx	Boulder Valley RE 2	2008.0	354.0
+10636	http://www.karvalschool.org/	Karval RE-23	2007.0	29.0
+10637	http://www.town.georgetown.co.us/	Georgetown, Town of	2001.0	26.0
+10638	http://www.plattevalley.k12.co.us/	Platte Valley RE-7	2001.0	241.0
+10639	http://townoflarkspur.org/	Larkspur, Town of	2002.0	388.0
+10640	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632226143&pagename=CBONWrapper	Medical Examiners, Board of (DORA)	0.0	1113.0
+10642	http://bcn.boulder.co.us/emergency/fourmile/	Four Mile Fire Protection District	2001.0	10.0
+10643	http://www.denmarktownship.org/	Denmark	2002.0	184.0
+10645	http://www.sjwcd.org	San Juan Water Conservancy District	2007.0	31.0
+10646	http://www.leg.state.co.us/clics/clics2014A/cslFrontPages.nsf/HomeSplash?OpenForm	House of Representatives - Colorado General Assembly	2014.0	11.0
+10647	http://www.ci.la-junta.co.us/	La Junta, City of	2002.0	78.0
+10648	http://www.portarthur.net/	Port Arthur	1999.0	52.0
+10649	http://grhd.org	Grand River Hospital District	2003.0	179.0
+10650	http://www.trustlands.state.co.us/Pages/SLB.aspx	Colorado State Land Board (DNR)	2009.0	48.0
+10652	http://www.southfork.org/	South Fork, Town of	1998.0	1094.0
+10653	http://www.cityofafton.net/	Afton	2001.0	1.0
+10654	http://www.csi.state.co.us/	Charter School Institute	2005.0	837.0
+10656	http://www.northrouttfire.org	North Routt Fire Protection District	2011.0	334.0
+10657	http://cliftonfire.com/	Clifton Fire Protection District	2008.0	90.0
+10659	http://www.newcastlecolorado.org/	New Castle, Town of	2002.0	1194.0
+10660	http://www.stsan.com	St. Vrain Sanitation District	2001.0	47.0
+10662	http://cogcc.state.co.us/	Oil and Gas Conservation Commission, Colorado (DNR)	2007.0	89.0
+10665	http://www.sneadsfl.com/	Sneads	2001.0	67.0
+10666	http://www.kimk12.org/	Kim Reorganized 88	0.0	46.0
+10667	http://www.tosv.com/	Snowmass Village, Town of	2000.0	824.0
+10668	http://cityofnp.org/	North Plains	0.0	276.0
+10669	http://www.pvsd50.org/	Plateau Valley 50	2011.0	25.0
+10670	http://www.cityofzion.com/	Zion	1999.0	45.0
+10671	http://www.conejoscounty.org/	Conejos	2010.0	379.0
+10674	http://www.cubatownship.com/	Cuba	2002.0	37.0
+10675	https://www.stjohnin.com/	St John	2000.0	188.0
+10676	http://www.sd27j.org/	School District 27J	2007.0	5.0
+10677	https://www.coloradoci.com/	Correctional Industries	2004.0	2.0
+10678	http://www.gilpin.k12.co.us	Gilpin County RE-1	2001.0	102.0
+10679	http://www.cde.state.co.us/cdelib/	State Library (CDE)	2000.0	159.0
+10681	http://www.springfieldcolorado.com/citygov.html	Springfield, Town of	2003.0	119.0
+10684	http://www.sugar-creek.mo.us/	Sugar Creek	0.0	94.0
+10687	http://www.mancoscolorado.com/	Mancos, Town of	2002.0	95.0
+10688	http://www.downtowndenver.com/	Downtown Denver Business Improvement District	1998.0	707.0
+10690	http://www.northchicago.org/	North Chicago	2000.0	1865.0
+10691	http://www.emchdist.org	East Morgan County Hospital District	2011.0	1.0
+10692	http://www.frederickco.gov/	Frederick, Town of	2003.0	805.0
+10693	http://www.shannonwater.org	Shannon Water and Sanitation District	2008.0	13.0
+10694	http://townofrome.com/	Rome	2011.0	13.0
+10695	http://www.prowerscounty.net/	Prowers County	2002.0	511.0
+10696	http://www.cedaredgecolorado.com/	Cedaredge, Town of	2000.0	91.0
+10698	http://www.plainviewhawks.org/	Plainview RE-2	0.0	24.0
+10700	http://www.cfpd.org	Cunningham Fire Protection District	2001.0	65.0
+10701	http://www.pueblorural.org/	Pueblo Rural Fire Protection District	2011.0	1.0
+10702	http://www.cityofeaglepoint.org	Eagle Point	2001.0	532.0
+10705	http://www.eagleriverfire.org	Eagle River Fire Protection District	2010.0	41.0
+10707	http://www.barretown.org/	Barre	2002.0	5.0
+10708	http://www.ponchaspringscolorado.us/	Poncha Springs, Town of	2003.0	36.0
+10709	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251614750513&pagename=CBONWrapper	Registrations, Division of (DORA)	0.0	2156.0
+10711	http://www.montevistalibrary.org	Rio Grande Library District	2004.0	11.0
+10712	http://www.town.ridgway.co.us/	Ridgway, Town of	2004.0	32.0
+10714	http://www.westerly.govoffice.com/	Westerly	2006.0	227.0
+10715	http://www.rivertonwy.gov/	Riverton	2005.0	121.0
+10716	http://lefthandwater.org/	Left Hand Water District	2007.0	49.0
+10718	http://www.salemjeffoh.com	Salem	2009.0	5.0
+10719	http://www.villageofwauconda.com/	Wauconda	2001.0	19.0
+10720	http://www.hudsoncolorado.org/	Hudson, Town of	2000.0	264.0
+10722	http://www.plumcreekmetrodistrict.com/	Plum Creek Metropolitan District	2004.0	9.0
+10723	http://www.co.larimer.co.us	Larimer County	1996.0	2552.0
+10725	http://www.limonbadgers.com/	Limon RE-4J	2007.0	45.0
+10726	http://www.cityofmontrose.org/	Montrose, City of	2003.0	2242.0
+10727	http://www.denvergov.org/	Denver, City And County of	1999.0	3276.0
+10728	http://www.littletongov.org/index.aspx?page=128	Littleton-Bemis Public Library	2013.0	3187.0
+10729	http://www.durango.k12.co.us	Durango 9-R School District	1998.0	0.0
+10730	http://www.laverkin.org/	La Verkin	2004.0	249.0
+10732	http://www.haxtunhealth.org	Haxtun Hospital District	2010.0	40.0
+10733	http://www.pawsd.org	Pagosa Area Water & Sanitation District	2003.0	45.0
+10734	http://triviewmetro.com	Triview Metropolitan District	2008.0	11.0
+10735	http://www.beavercreekmetro.com/	Beaver Creek Metropolitan District	2011.0	31.0
+10738	http://sd14web.mssd14.k12.co.us	Manitou Springs 14 School District	2000.0	152.0
+10739	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358670&pagename=CBONWrapper	Barber and Cosmetologist Licensing, Office of (DORA)	0.0	1136.0
+10741	http://www.osdco.com	Otis R-3 School District	2001.0	208.0
+10742	http://www.brfd.org	Boulder Rural Fire Protection District	0.0	3.0
+10743	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-OCC/DORALayout&cid=1251614750580&pagename=CBONWrapper	Consumer Counsel, Office of (DORA)	0.0	866.0
+10745	http://www.canoncity.org/	Canon City, City of	2004.0	6.0
+10746	http://www.foxlake.org/	Fox Lake	2000.0	267.0
+10747	http://www.briggsdaleschool.org/	Briggsdale RE-10	2004.0	11.0
+10748	http://www.granadaschools.org/	Granada RE-1	0.0	30.0
+10750	http://parkcounty.colibraries.org	Park County Public Library	2007.0	665.0
+10752	http://www.cityofbeaumont.com/	Beaumont	1998.0	445.0
+10754	http://www.montroselibrary.org	Montrose Regional Library District	2004.0	663.0
+10757	http://www.mssd14.org/	Manitou Springs 14	2006.0	155.0
+10758	http://www.foxfieldcolorado.com	Foxfield, Town of	2008.0	46.0
+10759	http://www.cityofcortez.com/	Cortez, City of	2001.0	740.0
+10760	http://meadowoodhomeowners.org/home/index.cfm	Meadowood Metropolitan District	2011.0	2.0
+10763	http://pdweb.coloradodefenders.us/	State Public Defender's Office	2008.0	97.0
+10764	http://www.ci.superior.wi.us/	Superior	1999.0	326.0
+10765	http://www.bathtownship.org/	Bath	1999.0	22.0
+10769	http://www.wsd3.org/	Widefield 3	2001.0	825.0
+10770	https://www.colorado.gov/spb	State Personnel Board	2009.0	1052.0
+10771	http://www.gcpld.org/about-us	Garfield County Public Libary District	2011.0	782.0
+10774	http://www.securitywsd.com	Security Sanitation District	2002.0	14.0
+10775	http://www.pueblolibrary.org	Pueblo City-County Library District	2000.0	406.0
+10777	http://www.dbschools.org/	De Beque 49JT	2011.0	1.0
+10778	http://www.clintonokla.org/	Clinton	2002.0	489.0
+10779	http://www.mwwater.com	Mt. Werner Water & Sanitation District	2000.0	37.0
+10782	http://www.cityoflafayette.com/library	Lafayette Public Library	1998.0	1330.0
+10783	http://www.dyeronline.com/	Dyer	1998.0	678.0
+10788	http://www.colorado.gov/governor/	Governor, Office of the	2004.0	3.0
+10789	http://www.coloradoattorneygeneral.gov/	Attorney General, Office of the State	2009.0	1221.0
+10790	http://www.akronohio.gov/	Akron	2010.0	611.0
+10792	http://www.berlinvt.org/	Berlin	2003.0	51.0
+10797	http://www.co.cheyenne.co.us/	Cheyenne	2007.0	12.0
+10798	http://www.east-wenatchee.com/	East Wenatchee	2001.0	3423.0
+10799	http://www.stonewallfire.us	Stonewall Fire Protection District	2007.0	19.0
+10800	http://www.jeffcopublicschools.org/	Jefferson County R-1	2008.0	735.0
+10802	http://www.greenmountainwater.org/RelId/33637/ISvars/default/Home.htm	Green Mountain Water & Sanitation District	0.0	2.0
+10803	http://cdn.colorado.gov/cs/Satellite?c=Page&childpagename=DORA-Reg/DORALayout&cid=1251632358530&pagename=CBONWrapper	Accountancy, State Board of (DORA)	0.0	1124.0
+10804	http://www.phoenixoregon.net	Phoenix	2002.0	959.0
+10806	http://www.evergreenmetrodistrict.com/el_rancho/district_el_rancho.htm	El Rancho Metropolitan District	2011.0	2.0
+10807	http://louisvilleky.gov/	Louisville	2005.0	2595.0
+10808	http://agate.aurorak12.org/	Agate 300	2009.0	23.0
+10809	http://www.garfield-county.com/	Garfield	2001.0	657.0
+10811	http://www.ladylake.org/	Lady Lake	2001.0	62.0
+10814	http://www.kcedfonline.org/eads.htm	Eads, Town of	2008.0	1.0
+10815	http://www.chaffeecounty.org	Chaffee County	2003.0	28.0
+10818	http://www.northglenn.org/	Northglenn, City of	1998.0	911.0
+10819	http://www.deertrailcd.org	Deer Trail Conservation District	2013.0	7.0
+10820	http://www.echsd.org	Eagle County Health Service District	2004.0	791.0
+10824	http://www.ntmwater.org	North Table Mountain Water & Sanitation District	2006.0	11.0
+10825	http://water.state.co.us/Home/Pages/default.aspx	Colorado Division of Water Resources (Office of the State Engineer) (DNR)	2010.0	2.0
+10826	http://www.dpsk12.org/	Denver County 1 School District	0.0	4.0
+10827	https://www.colmigateway.com/vosnet/Default.aspx	Labor Market Information, Office of (CDLE)	2014.0	1227.0
+10828	http://www.whitebearankele.com/clients/ritoro-metropolitan-district	Ritoro Metropolitan District	0.0	2.0
+10829	http://www.gunnisoncounty.org/	Gunnison County	2006.0	976.0
+10830	http://www.peyton.k12.co.us/	Peyton 23 JT	2003.0	6.0
+10831	http://www.ci.broomfield.co.us/index.aspx?NID=276	Mamie Doud Eisenhower Public Library	2013.0	1913.0
+10832	https://groups.yahoo.com/neo/groups/pinewoodlakefireprotectiondistrict/info	Pinewood Lake Fire Protection District	0.0	3.0
+10835	http://www.colorado.gov/treasury/	Treasury, Department of	2006.0	63.0
+10836	http://www.johnsoncitytn.com/	Johnson City	1998.0	896.0
+10837	http://www.tlac.net/	Las Animas	2001.0	3.0
+10839	http://www.lamar.k12.co.us/find_school.aspx	Lamar RE-2 School District	0.0	1.0
+10841	http://www.braselton.net/	Braselton	2000.0	38.0
+10844	http://routtcountycd.com/	Routt County Conservation District	2012.0	44.0
+10845	https://www.colorado.gov/dpa	Personnel and Administration, Department of	2003.0	1590.0
+10848	http://www.castlepinesmetro.com	Castle Pines Metropolitan District	2001.0	46.0
+10851	http://elizabethpr.com	Elizabeth Park & Recreation District	2007.0	11.0
+10852	http://www.moffatsd.org/	Moffat County RE:No 1 School District	1998.0	986.0
+10856	http://www.silverbay.com/	Silver Bay	1996.0	52.0
+10857	http://www.coloradoattorneygeneral.gov/departments/consumer_protection	Consumer Protection - Attorney General's Office	2009.0	396.0
+10861	http://eatonfire.org	Eaton Fire Protection District	2002.0	9.0
+10864	http://www.ci.sheridan.co.us/	Sheridan, City of	2001.0	327.0

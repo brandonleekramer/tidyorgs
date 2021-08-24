@@ -1,0 +1,1050 @@
+NodeId	NodeURL	NodeName	Year	pages
+23812	http://msrc.ky.gov/Pages/default.aspx	Mine Safety Review Commission	2010.0	14.0
+23813	http://floyd.phs.schoolfusion.us/?sessionid=db04f3183c53faac26a8aba13dc1ffe7&t	Prestonsburg High School	0.0	583.0
+23815	http://www.whitley.kyschools.us/pages/wchs.web/wchs/home.html	Whitley County High School	2011.0	4.0
+23816	http://www.grant.kyschools.us/highschool_home.aspx	Grant County High School	2010.0	496.0
+23817	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=4	Catlettsburg Elementary School	2011.0	608.0
+23818	http://nhs.nelson.kyschools.us/	New Haven School	2012.0	117.0
+23819	http://www.kyhistory.org/	Kentucky Historical Society	1998.0	8.0
+23820	http://finance.ky.gov/offices/adminservices/pages/default.aspx	Administrative Services, Office of (Finance and Administration)	2012.0	8.0
+23822	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=1	Boyd County High School	2011.0	1674.0
+23824	https://irserver.eku.edu/reports/factbook/	EKU Fact Book	2012.0	109.0
+23826	http://shopville.pulaski.schoolfusion.us/?sessionid=5c0f9c7347d1b6efb756ca31911f3cfe&t	Shopville Elementary School	0.0	847.0
+23829	http://www.mckeeelementary.net/	McKee Elementary School	2012.0	323.0
+23830	http://www.hazard.kyschools.us/	Hazard Independent	2007.0	61.0
+23832	http://www.adair.k12.ky.us/school_home.aspx?schoolid=6	Colonel William Casey Elementary School	2012.0	1569.0
+23835	http://dmre.ky.gov/Pages/default.aspx	Mine Reclamation and Enforcement, Division of	2010.0	54.0
+23836	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=2	Boyd County Middle School	2011.0	1772.0
+23837	http://www.boylepublib.org	Boyle County Public Library	2005.0	204.0
+23838	http://beta.calloway.kyschools.us/schools/preschool/default.aspx	Calloway County Preschool	2010.0	125.0
+23839	http://www.paintsville.kyschools.us/school_home.aspx?schoolid=1	Paintsville High School	2011.0	2276.0
+23840	http://publicschools.spencercounty.ky.gov/sch/schs/	Spencer County High School	2010.0	28.0
+23841	http://veterans.ky.gov/Pages/default.aspx	Veterans' Affairs, Department of	2013.0	79.0
+23842	http://www.floyd.kyschools.us/	Floyd County	2009.0	149.0
+23843	http://jcps.jefferson.kyschools.us/conway/	Conway Middle School	0.0	1491.0
+23845	http://www.calloway.k12.ky.us/	Calloway County	2000.0	5.0
+23846	http://www.bardstown.kyschools.us/	Bardstown Independent	2007.0	594.0
+23847	http://www.jefferson.k12.ky.us/schools/high/valley/index.html	Valley Traditional High School	2007.0	24.0
+23848	http://www.dsprings.k12.ky.us/	Dawson Springs Independent	2002.0	272.0
+23849	http://www.lyon.kyschools.us/	Lyon County	2008.0	517.0
+23850	http://ww2.bullittschools.org/zonetonms/	Zoneton Middle School	2011.0	109.0
+23851	http://www.washingtonkylibrary.org	Washington County Public Library	2006.0	1.0
+23852	http://www.montgomery.k12.ky.us/school_home.aspx?schoolid=6	Camargo Elementary School	2010.0	2075.0
+23853	http://chfs.ky.gov/ohp/con/default.htm	Certificate of Need, Office of	2005.0	8.0
+23854	http://www.montgomery.k12.ky.us/school_home.aspx?schoolid=3	Mt. Sterling Elementary School	2010.0	2020.0
+23855	http://www.montgomery.k12.ky.us/school_home.aspx?schoolid=2	McNabb Middle School	2010.0	1745.0
+23856	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=3	Cannonsburg Elementary School	2011.0	1631.0
+23857	http://www.jenkins.k12.ky.us/jenkinselem.htm	Jenkins Elementary School	2001.0	22.0
+23858	http://www.cityofhendersonky.org/	Henderson	2002.0	486.0
+23859	http://chfs.ky.gov/os/oig/default.htm	Fraud, Waste, and Abuse Identification and Prevention, Division of	2008.0	54.0
+23860	http://www.winchesterky.com/	Winchester	1998.0	403.0
+23861	http://beta.calloway.kyschools.us/schools/middle%20school/pages/ccmswebhome.aspx	Calloway County Middle School	2011.0	12.0
+23862	http://www.kentuckygsa.com/	Governor's School for the Arts	2002.0	3.0
+23863	http://www.mayfield.kyschools.us/highschool/schools/highschoolhomepage.aspx	Mayfield High School	2011.0	0.0
+23864	http://pineknotprimary.ky.mcp.schoolinsites.com/	Pine Knot Primary School	2011.0	19.0
+23865	http://www.warrencountyschools.org/school_home.aspx?schoolid=20	Richardsville Elementary School	2011.0	23167.0
+23866	http://conservation.ky.gov/Pages/default.aspx	Conservation, Division of	2010.0	32.0
+23867	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/abchandler	A.B. Chandler Elementary School	2010.0	77.0
+23868	http://www.hoptown.org/	Hopkinsville	2001.0	57.0
+23869	http://www.osbd.state.ky.us/	Office of State Budget Director	2001.0	38.0
+23870	http://www.jessamine.kyschools.us/	Jessamine County	2007.0	2153.0
+23872	http://www.monroe.kyschools.us/school_home.aspx?schoolid=2	Monroe County Middle School	2009.0	2130.0
+23873	http://www.fortthomas.kyschools.us/	Ft. Thomas Independent	2007.0	320.0
+23874	http://blind.ky.gov/Pages/default.aspx	Department for the Blind	2011.0	29.0
+23875	http://horizons.nelson.kyschools.us/	Horizons Academy	2008.0	58.0
+23877	http://www.hardin.kyschools.us/northmiddle/new_web_page_2012/default.htm	North Middle School	0.0	13.0
+23878	http://www.fleming.kyschools.us/school_home.aspx?schoolid=6	Hillsboro Elementary School	2012.0	1050.0
+23879	http://www.mercer.kyschools.us/	Mercer County	2006.0	84.0
+23880	http://louisville.edu/institutionalresearch/?fuseaction=factbook	UofL factbook	2010.0	279.0
+23881	http://www.kcdhh.ky.gov/	Deaf and Hard of Hearing, Kentucky Commission on the	2003.0	62.0
+23882	http://www.fleming.kyschools.us/school_home.aspx?schoolid=1	Fleming County High School	2012.0	1275.0
+23883	http://www.etown.k12.ky.us/	Elizabethtown Independent	1998.0	116.0
+23884	http://members.iglou.com/scpl/	Spencer County Public Library	2000.0	12.0
+23885	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3553	Phelps Elementary School	0.0	615.0
+23886	http://ovr.ky.gov/	Vocational Rehabilitation, Office of	2004.0	96.0
+23888	http://www.statefairboard.ky.gov/	State Fair Board, Kentucky	2003.0	40.0
+23889	http://minepermits.ky.gov/Pages/default.aspx	Mine Permits, Division of	2010.0	54.0
+23890	http://www.kyagr.com/consumer/	Consumer and Environmental Protection, Office for	2012.0	24.0
+23891	http://www.jesspublib.org	Jessamine County Public Library	2001.0	85.0
+23892	http://www.marion.kyschools.us/school_home.aspx?schoolid=4	Calvary Elementary School	2013.0	2420.0
+23893	http://www.franklin.kyschools.us/ems.aspx	Elkhorn Middle School	2012.0	648.0
+23894	http://www.powelllib.org	Powell County Public Library	2004.0	21.0
+23895	http://www.frankfort.k12.ky.us/	Frankfort Independent	2000.0	475.0
+23896	http://kydlgweb.ky.gov/	Local Government, Department for	2010.0	125.0
+23897	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3539	Kimper Elementary School	0.0	615.0
+23898	http://chfs.ky.gov/os/oig/auditsinv.htm	Audits and Investigation, Division of (Health and Family Services)	2008.0	54.0
+23899	http://psc.ky.gov/sitemap.htm#ec	Filings, Division of (Public Service Commission)	2013.0	480.0
+23900	http://podiatry.ky.gov/	Podiatry, Board of	2006.0	14.0
+23901	http://www.jefferson.k12.ky.us/schools/high/central/index.html	Central High School	2005.0	75.0
+23902	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=39	Whites Tower Elementary School	2009.0	4769.0
+23903	http://www.ashland.k12.ky.us/	Ashland Independent	1997.0	1006.0
+23904	http://www.warren.k12.ky.us/~oakland/oakland/home.html	Oakland Elementary School	2012.0	1.0
+23905	http://www.mclean.k12.ky.us/	McLean County	2001.0	1957.0
+23906	http://www.crestviewhills.com/	Crestview Hills	1998.0	227.0
+23907	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/clc	Central Learning Center	2010.0	51.0
+23908	http://corrections.ky.gov/depts/ai/pages/default.aspx	Adult Institutions, Office of	2011.0	2.0
+23909	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3550	Southside Elementary School	0.0	615.0
+23910	http://www.kltprc.net	Kentucky Long-Term Policy Research Center	2000.0	81.0
+23911	http://oilandgas.ky.gov/Pages/Welcome.aspx	Oil and Gas, Division of	2010.0	17.0
+23912	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=6	Summit Elementary School	2011.0	1628.0
+23913	http://ilearn.clarkschools.net/web/central/	Central Elementary School	2009.0	18.0
+23914	http://revenue.ky.gov/	Revenue, Department of	2002.0	494.0
+23917	http://www.kentuckytourism.com/	Tourism Development Cabinet	1998.0	10143.0
+23918	http://school.robertson.k12.ky.us/education/school/school.php?sectionid=4574	Robertson County	2002.0	0.0
+23919	http://www.russell.k12.ky.us/school_home.aspx?schoolid=4	Jamestown Elementary School	2012.0	857.0
+23921	http://www.knottcountylibrary.com	Knott County Public Library	2008.0	10.0
+23922	http://www.harlan.k12.ky.us/hchs/	Harlan County High School	2010.0	83.0
+23923	http://somerset.kctcs.edu/	Gateway Community & Technical College	2002.0	455.0
+23924	http://www.jacksonind.kyschools.us/	Jackson Independent	2013.0	1.0
+23927	http://www.harlan.k12.ky.us/ges/	Green Hills Elementary School	2002.0	8.0
+23928	http://publicschools.spencercounty.ky.gov/	Spencer County	2010.0	197.0
+23929	http://www.boyd.k12.ky.us/	Boyd County	2000.0	1742.0
+23931	http://www.rowan.k12.ky.us/school_home.aspx?schoolid=2	Rowan County Middle School	2010.0	1598.0
+23933	http://www.trigg.k12.ky.us/	Trigg County	2002.0	236.0
+23934	http://www.shelby.kyschools.us/	Shelby County	2007.0	4291.0
+23935	http://www.kyagr.com/statevet/	Veterinarian, Office of State	2007.0	16.0
+23936	http://www.franklin.kyschools.us/ees.aspx	Elkhorn Elementary School	2012.0	357.0
+23937	http://thebookplace.org	Boyd County Public Library	1999.0	1049.0
+23939	http://www.anderson.k12.ky.us/	Anderson County	1996.0	513.0
+23941	http://kbrc.ky.gov/Pages/default.aspx	Respiratory Care, Board of	2011.0	17.0
+23942	http://www.grant.kyschools.us/	Grant County	2007.0	429.0
+23943	http://www.daviesskyschools.org/school_home.aspx?schoolid=7	Audubon Elementary School	2010.0	3017.0
+23944	http://www.jchsky.net/	Jefferson County High School	2005.0	1.0
+23945	http://www.fcps.net/schools/middle/southern	Southern Middle School	2008.0	14.0
+23946	http://fw.ky.gov/Pages/default.aspx	Fish and Wildlife Resources, Kentucky	2013.0	487.0
+23947	http://www.scott.k12.ky.us/school_home.aspx?schoolid=6	Scott County Ninth Grade School	2007.0	2921.0
+23950	http://ww2.bullittschools.org/ems/	Eastside Middle School	2007.0	85.0
+23952	http://www.russellind.kyschools.us/rhs/	Russell High School	2011.0	0.0
+23953	http://dep-enforcement.ky.gov/Pages/default.aspx	Enforcement, Division of (Environmental Protection)	2010.0	5.0
+23954	http://transportation.ky.gov/motor-vehicle-licensing/Pages/default.aspx	Motor Vehicle Licensing, Division of	2011.0	8.0
+23955	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=29	Beechgrove Elementary School	2009.0	4893.0
+23957	http://shelbyvalley.ky.pch.schoolinsites.com/	Shelby Valley High School	2009.0	22.0
+23958	http://www.woodford.k12.ky.us/	Woodford County	1996.0	892.0
+23959	http://chfs.ky.gov/	Disability Determination Services, Department for	2004.0	2740.0
+23960	http://www.wku.edu/instres/fact_book.php	WKU factbook	2011.0	73.0
+23961	http://floyd.sfms.schoolfusion.us/?sessionid=d435a3830fbf1510f5366e7a037b766c&t	South Floyd Middle School	0.0	374.0
+23962	http://countyhs.pulaski.schoolfusion.us/?sessionid=4274aa1e2ab592593f048a267d770d16&t	Pulaski County High School	0.0	1298.0
+23963	http://www.clark.k12.ky.us/	Clark County	2000.0	1.0
+23964	http://www.franklin.kyschools.us/fchs.aspx	Franklin County High School	2012.0	366.0
+23965	http://www.russellville.kyschools.us/	Russellville Independent	2006.0	224.0
+23966	http://www.russellind.kyschools.us/	Russell Independent	2007.0	1020.0
+23967	http://lyoncountymiddle.ky.lym.schoolinsites.com/	Lyon County Middle School	2013.0	10.0
+23968	http://scottky.com/	Scott	2004.0	61.0
+23969	http://www.cassidy.fcps.net/	Cassidy Elementary School	2001.0	107.0
+23970	http://auditor.ky.gov/Pages/default.aspx	Examination and Information Technology, Division of	2012.0	27.0
+23971	http://www.campbellcountyky.org/	Campbell	1998.0	1557.0
+23974	http://chandlers.logan.kyschools.us/	Chandlers Elementary School	2012.0	1185.0
+23975	http://garrardpublib.state.ky.us	Garrard County Public Library	2002.0	13.0
+23976	http://www.jefferson.k12.ky.us/schools/middle/newburg/index.html	Newburg Middle School	2006.0	13.0
+23977	http://www.covingtonky.gov/	Covington	2004.0	1286.0
+23978	http://kyepsb.net/	Education Professional Standards Board	2002.0	114.0
+23979	http://www.cville.k12.ky.us/school_home.aspx?schoolid=1	Campbellsville High School	2010.0	985.0
+23980	http://corrections.ky.gov/depts/ai/bcfc/pages/default.aspx	Bell County Forestry Camp Division	2011.0	12.0
+23981	http://www.cville.k12.ky.us/school_home.aspx?schoolid=3	Campbellsville Elementary School	2010.0	1007.0
+23983	http://westkentucky.kctcs.edu/	West Kentucky Community & Technical College	2002.0	641.0
+23984	http://www.whitleylibrary.org	Whitley County Public Library	2004.0	30.0
+23986	http://www.fortthomas.kyschools.us/school_home.aspx?schoolid=1	Highlands High School	2007.0	324.0
+23987	http://www.hardin.k12.ky.us/ehms/	East Hardin Middle School	2000.0	1.0
+23988	http://www.madison.k12.ky.us/madisonsouthern	Madison Southern High School	2012.0	8529.0
+23989	http://www.owen.k12.ky.us/school_home.aspx?schoolid=2	Maurice Bowling Middle School	2011.0	523.0
+23990	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3538	Johns Creek Elementary School	0.0	615.0
+23991	http://www.eminencekentucky.com/	Eminence	2001.0	160.0
+23994	http://ses.pulaski.schoolfusion.us/?sessionid=5c0f9c7347d1b6efb756ca31911f3cfe&t	Southern Elementary School	0.0	1060.0
+23995	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/southmiddle	South Middle School	2010.0	58.0
+23996	http://www.pikeville.k12.ky.us/school_home.aspx?schoolid=2	Pikeville Elementary School	2011.0	740.0
+23998	http://www.daytonky.com/	Dayton	1999.0	1392.0
+24002	http://energy.ky.gov/Pages/default.aspx	Energy Development and Independence, Department for	2010.0	97.0
+24003	http://www.owencountylibrary.org	Owen County Public Library District	2003.0	0.0
+24004	http://www.moreheadstate.edu/error/404.aspx?aspxerrorpath=/opb/index.aspx	MoSU Operating Budgets	0.0	2.0
+24006	http://www.fcps.net/schools/elementary/sandersville	Sandersville Elementary School	2008.0	37.0
+24007	http://www.fcps.net/	Fayette County	2000.0	4178.0
+24008	http://www.martin.k12.ky.us/	Martin County	1997.0	82.0
+24009	http://dbhdid.ky.gov/error404.aspx	Mental Health and Substance Abuse Services, Division of	2014.0	68.0
+24010	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3542	Mullins Elementary School	0.0	625.0
+24011	http://www.caseylibrary.org	Casey County Public Library	2001.0	415.0
+24012	http://www.s-g.k12.ky.us/	Silver Grove Independent	2001.0	72.0
+24014	http://www.kylottery.com/apps/	Lottery, Kentucky	2011.0	1284.0
+24015	http://chfs.ky.gov/dis/cse.htm	Child Support, Division of	2008.0	4.0
+24016	http://www.kentuckyhousing.org/	Kentucky Housing Corporation	1998.0	223.0
+24017	http://www.casey.kyschools.us/	Casey County	2009.0	888.0
+24018	http://commerce.ky.gov/	Commerce Cabinet	2004.0	305.0
+24020	http://www.jacksoncomiddle.net/	Jackson County Middle School	2012.0	360.0
+24021	http://www.cityofglasgow.org/	Glasgow	2001.0	92.0
+24022	http://www.russell.kyschools.us/	Russell County	2008.0	985.0
+24023	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3546	Robinson Creek Elementary School	0.0	615.0
+24025	http://naturepreserves.ky.gov/Pages/default.aspx	Nature Preserves Commission, Kentucky State	2010.0	106.0
+24027	http://www.owensboro.k12.ky.us/ohs/	Owensboro High School	1999.0	13.0
+24028	http://kidsnow.ky.gov/pages/default.aspx	Governors Office of Early Childhood	2012.0	165.0
+24030	http://www.lee.k12.ky.us/school_home.aspx?schoolid=2	Lee County Middle School	2010.0	1228.0
+24031	http://www.lee.k12.ky.us/school_home.aspx?schoolid=1	Lee County High School	2010.0	807.0
+24032	http://ktrs.ky.gov/	Teachers' Retirement System, Kentucky (KTRS)	2004.0	10.0
+24033	http://centralhs.pulaski.schoolfusion.us/?sessionid=d437f6c1981ca4997b1ff7e8168c4035&t	Pulaski Central High School	0.0	1.0
+24034	http://www.mcplib.info	Mercer County Public Library	2002.0	54.0
+24035	http://www.warrencountyschools.org/greenwood	Greenwood High School	2012.0	18235.0
+24036	http://corrections.ky.gov/Pages/default.aspx	Probation and Parole, Division of	2011.0	292.0
+24037	http://swh.pulaski.schoolfusion.us/?sessionid=228afabc153ef0c688b0f24e6e40ef61&t	Southwestern High School	0.0	2277.0
+24038	http://transportation.ky.gov/Pages/default.aspx	Property and Supply Services, Division of (Transportation Cabinet)	2011.0	812.0
+24039	http://shepherdsville.net/	Shepherdsville	0.0	107.0
+24040	http://transportation.ky.gov/planning/pages/default.aspx	Planning, Division of	2011.0	530.0
+24041	http://www.kyepsb.net/index.asp	Education Professional Standards Board	2004.0	86.0
+24043	http://revenue.ky.gov/business/salesanduse.htm	Sales and Excise Taxes, Office of	2005.0	23.0
+24044	http://www.labor.ky.gov/Pages/LaborHome.aspx	Ombudsman and Specialist Services, Division of	2011.0	182.0
+24045	http://bmt.ky.gov/Pages/default.aspx	Massage Therapy, Kentucky Board of Licensure for	2011.0	11.0
+24046	http://www.harlan-ind.k12.ky.us/	Harlan Independent	2000.0	1062.0
+24047	http://www.livingston.kyschools.us/	Livingston County	2007.0	510.0
+24048	http://www.dayton.kyschools.us/school_home.aspx?schoolid=1	Dayton High School	2012.0	2825.0
+24049	http://www.montgomery.k12.ky.us/school_home.aspx?schoolid=1	Montgomery County High School	2010.0	2280.0
+24050	http://www2.moreheadstate.edu/files/units/ira/090501_2009sp_nutshell.pdf	MoSU quick facts	0.0	0.0
+24051	http://governor.ky.gov/Pages/default.aspx	Governor's Office	2011.0	39.0
+24052	http://wolfecountypubliclibrary.org	Wolfe County Public Library	2001.0	13.0
+24053	http://www.informationplace.org	Pike County Public Library District	2002.0	35.0
+24054	http://www.madison.k12.ky.us/madisoncentral	Madison Central High School	2012.0	8569.0
+24055	http://www.mayfield.kyschools.us/	Mayfield Independent	2008.0	90.0
+24056	http://www.ludlow.org/	Ludlow	2000.0	414.0
+24058	http://www.newportwildcats.org/	Newport Independent	2001.0	1077.0
+24059	http://www.elizabethtownky.org/	Elizabethtown	2001.0	99.0
+24060	http://eqc.ky.gov/Pages/default.aspx	Environmental Quality Commission, Kentucky	2010.0	21.0
+24062	http://history.ky.gov/	Museums, Division of	2003.0	339.0
+24063	http://kci.ky.gov/Pages/home.aspx	Correctional Industries, Division of	2013.0	119.0
+24066	http://www.russell.k12.ky.us/school_home.aspx?schoolid=1	Russell County High School	2012.0	672.0
+24067	http://www.bellevue.kyschools.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3915	Grandview Elementary School	0.0	1131.0
+24068	http://www.jefferson.k12.ky.us/schools/high/jeffersontown/index.html	Jeffersontown High School	2010.0	80.0
+24069	http://www.graysoncountylibrary.org	Grayson County Public Library	2000.0	20.0
+24070	http://www.meadereads.org	Meade County Public Library	0.0	97.0
+24072	http://www.mccreary.k12.ky.us/	McCreary County	1999.0	167.0
+24073	https://acsapps.wku.edu/pls/prod/dirpkg.prompt	WKU campus directory	0.0	2.0
+24074	http://www.hart.k12.ky.us/school_home.aspx?schoolid=1	Hart County High School	2011.0	686.0
+24075	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=5	Hager Elementary School	2011.0	1609.0
+24076	http://www.simpson.k12.ky.us/	Simpson County	2000.0	1277.0
+24077	http://www.perrycountylibrary.org	Perry County Public Library	2004.0	19.0
+24079	http://www.bcplibrary.org	Breckinridge County Public Library	2007.0	17.0
+24080	http://chfs.ky.gov/dph/info/dwh/legislationdefault.htm	Women's Physical and Mental Heath, Division of	2010.0	11.0
+24081	http://www.kbwa.ky.gov/Pages/default.aspx	Boxing and Wrestling Authority, Kentucky	2011.0	4.0
+24082	http://www.lewis.kyschools.us/school/lchs/	Lewis County High School	2008.0	31.0
+24083	http://www.jefferson.k12.ky.us/schools/middle/highland/index.html	Highland Middle School	2002.0	22.0
+24084	http://www.barren.k12.ky.us/school_home.aspx?schoolid=3	Barren County Middle School	2008.0	2583.0
+24086	http://ilearn.clarkschools.net/web/clarkmiddle/	Clark Middle School	2010.0	331.0
+24087	http://www.kentuckyartisancenter.ky.gov/index.aspx	Artisan Center at Berea, Kentucky	2003.0	732.0
+24088	http://www.anderson.k12.ky.us/saffellstreetelementary_home.aspx	Saffell Street Elementary School	2011.0	264.0
+24090	http://www.uky.edu/	UK Web site	1997.0	2647.0
+24091	http://kidshealth.ky.gov/en/	Children's Health Insurance, Division of	2008.0	23.0
+24092	https://personnel.ky.gov/Pages/default.aspx	Department of Personnel	2013.0	171.0
+24093	http://barbering.ky.gov/	Barbering, Board of	2006.0	25.0
+24094	http://kentucky.gov/pages/home.aspx	State Government	2008.0	65.0
+24095	http://chfs.ky.gov/dail/default.htm	Aging and Independent Living, Department for	2009.0	52.0
+24096	http://dep.ky.gov/Pages/default.aspx	Environmental Protection, Department for	2010.0	21.0
+24097	http://www.kyvl.org/	Kentucky Virtual Library	2000.0	231.0
+24098	http://dhbc.ky.gov/Pages/default.aspx	Building Codes Enforcement, Division of	2011.0	95.0
+24099	http://www.mybrownschool.org/	Brown School	2012.0	21.0
+24100	http://www.hardin.k12.ky.us/jhhs/	John Hardin High School	2001.0	64.0
+24101	http://www.hopkins.k12.ky.us/	Hopkins County	0.0	2508.0
+24103	http://waynepubliclibrary.net/	Wayne County Public Library	2002.0	0.0
+24104	http://dfiweb.ky.gov/dfipublic/	Financial Institutions, Department of	2011.0	55.0
+24105	http://psc.ky.gov	Public Service Commission, Kentucky	2003.0	6827.0
+24106	http://mccrearyraiders.ky.mcc.schoolinsites.com/	McCreary Central High School	2011.0	13.0
+24107	http://www.pcplibrary.org	Pendleton County Public Library	2008.0	518.0
+24108	https://webapps.nku.edu/secureapps/phonebook/	NKU campus directory	2010.0	5.0
+24109	http://keec.ky.gov/Pages/default.aspx	Environmental Education Council, Kentucky	2013.0	30.0
+24110	http://nha.ky.gov/Pages/default.aspx	Nursing Home Administrators, Board of	2012.0	8.0
+24111	http://chfs.ky.gov/os/oig/	Inspector General, Office of (Health and Family Services)	2008.0	54.0
+24112	http://www.lrc.state.ky.us/	Kentucky Legislature	1996.0	16.0
+24113	http://www.lansdowne.fcps.net/	Lansdowne Elementary School	2001.0	112.0
+24114	http://www.archlou.org/	Louisville Diocese	1996.0	20760.0
+24115	http://www.fcps.net/schools/elementary/squires	Squires Elementary School	2008.0	37.0
+24116	http://www.mboro.k12.ky.us/school_home.aspx?schoolid=3	Middlesboro Middle School	2007.0	0.0
+24117	http://www.boc.ky.gov/Pages/default.aspx	Claims, Board of	2011.0	7.0
+24118	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=27	Twenhofel Middle School	2009.0	4821.0
+24119	http://www.cvcb.ky.gov/Pages/default.aspx	Crime Victims Compensation Board	2011.0	8.0
+24120	http://www.hardin.k12.ky.us/chhs/index.asp	Central Hardin High School	2012.0	0.0
+24121	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3541	Millard School	0.0	615.0
+24122	http://www.oldhamcounty.net/	Oldham	2000.0	21.0
+24123	http://www.barren.k12.ky.us/school_home.aspx?schoolid=8	Red Cross Elementary School	2008.0	3557.0
+24124	http://bos.nelson.kyschools.us/	Boston School	2010.0	79.0
+24125	http://www.covschools.us/education/school/school.php?sectionid=3&	Holmes High School	0.0	1.0
+24126	http://www.khrc.ky.gov/Pages/default.aspx	Horse Racing Commission, Kentucky	2011.0	25.0
+24127	http://www.kyhorsepark.com/	Horse Park, Kentucky	2000.0	550.0
+24129	http://www.crittenden.kyschools.us/static/not_found.html	Crittenden County High School	2013.0	1.0
+24130	http://www.scottpublib.org	Scott County Public Library	2000.0	61.0
+24132	http://finance.ky.gov/services/ofm/pages/default.aspx	Financial Management, Office of	2012.0	23.0
+24134	http://www.kyepsb.net/teacherprep/	Educator Preparation, Division of	2004.0	29.0
+24135	http://www.union.kyschools.us/site/default.aspx?PageID=1	Union County	2012.0	23.0
+24137	http://www.anderson.k12.ky.us/andersoncountyhighschool_home.aspx	Anderson County High School	2011.0	419.0
+24138	http://transportation.ky.gov/driver-licensing/Pages/default.aspx	Driver Licensing, Division of	2011.0	32.0
+24139	http://kia.ky.gov/	Kentucky Infrastructure Authority	2006.0	172.0
+24140	http://bms.nelson.kyschools.us/	Bloomfield Middle School	2007.0	161.0
+24141	http://www.bchs.boone.kyschools.us/	Boone County High School	2006.0	1161.0
+24142	http://ces.breck.kyschools.us/	Custer Elementary School	2010.0	70.0
+24143	http://heritageland.ky.gov/Pages/default.aspx	Kentucky Heritage Land Conservation Fund	2010.0	58.0
+24144	http://www.ksb.k12.ky.us/	Kentucky School for the Blind	2001.0	257.0
+24145	http://www.boone.kyschools.us/school_home.aspx?schoolid=7	Conner Middle School	2013.0	1357.0
+24146	http://cpe.ky.gov/	Postsecondary Education, Council on	2005.0	628.0
+24148	http://chfs.ky.gov/dcbs/default.htm	Community Based Services	2005.0	133.0
+24149	http://www.taylor.k12.ky.us/school_home.aspx?schoolid=1	Taylor County High School	2012.0	659.0
+24150	http://bluegrass.kctcs.edu/	Bluegrass Community & Technical College	2002.0	928.0
+24151	http://www.knox.kyschools.us/knoxcentral/	Knox Central High School	2014.0	144.0
+24152	http://www.livingston.k12.ky.us/school_home.aspx?schoolid=1	Livingston Central High School	2012.0	547.0
+24153	http://transportation.ky.gov/aviation/Pages/default.aspx	Aviation, Department of	2011.0	16.0
+24154	http://www.williamstown.kyschools.us/	Williamstown Independent	2008.0	535.0
+24155	http://www.webster.k12.ky.us/	Webster County	2003.0	22.0
+24158	http://klec.ky.gov	Legislative Ethics Commission, Kentucky	2005.0	41.0
+24159	http://ww2.bullittschools.org/nbhs/	North Bullitt High School	2006.0	66.0
+24160	http://www.kentoncounty.org/	Kenton	1999.0	138.0
+24161	http://tourismartsheritage.ky.gov/	Tourism, Arts, and Heritage Cabinet	2008.0	303.0
+24163	http://owensboro.kctcs.edu/	Gateway Community & Technical College	2002.0	514.0
+24164	http://www.kyconvention.org/	Kentucky International Convention Center	2000.0	33.0
+24165	http://www.rowan.kyschools.us/	Rowan County	2007.0	755.0
+24166	http://www.trimble.k12.ky.us/	Trimble County	1998.0	0.0
+24168	http://www.anderson.k12.ky.us/robertb.turnerelementary_home.aspx	Robert B. Turner Elementary School	2011.0	389.0
+24170	http://pharmacy.ky.gov/	Pharmacy, Board of	2003.0	36.0
+24172	http://www.hopkins.k12.ky.us/grapevineelementary.cfm?subpage=617565	Grapevine Elementary School	0.0	2156.0
+24173	http://beta.calloway.kyschools.us/schools/highschool/pages/default.aspx	Calloway County High School	2011.0	4.0
+24174	http://floyd.sfhs.schoolfusion.us/?sessionid=db04f3183c53faac26a8aba13dc1ffe7&t	South Floyd High School	0.0	744.0
+24175	http://www.jefferson.k12.ky.us/schools/high/waggener/index.html	Waggener Traditional High School	2002.0	35.0
+24177	http://lyoncountyelem.ky.lye.schoolinsites.com/	Lyon County Elementary School	2011.0	35.0
+24178	http://www.jefferson.k12.ky.us/schools/middle/kammerer/site/kms.html	Kammerer Middle School	2011.0	2.0
+24179	http://www.wku.edu/finadmin/budget/	WKU Operating Budgets	2011.0	17.0
+24180	http://www.thinkkentucky.com/kyedc/searchabledbs.aspx?param=1	Research and Information Technology, Office of	2006.0	48.0
+24181	http://www2.moreheadstate.edu/abc/index.aspx?id=5793	MoSU Financial Statements	2006.0	0.0
+24182	http://www.carroll.kyschools.us/school_home.aspx?schoolid=1	Carroll County High School	2011.0	2890.0
+24183	http://www.madison.kyschools.us/	Madison County	2006.0	5979.0
+24184	http://www.carroll.kyschools.us/school_home.aspx?schoolid=4	Carroll County Middle School	2012.0	2879.0
+24185	http://www.kyagr.com/	Agriculture, Department of	1999.0	375.0
+24186	http://www.fortwright.com/	Fort Wright	1998.0	75.0
+24187	http://www.campbell.k12.ky.us/school_home.aspx?schoolid=1	Campbell County High School	2012.0	2321.0
+24190	http://www.barren.k12.ky.us/school_home.aspx?schoolid=4	Austin Tracy Elementary School	2008.0	2892.0
+24191	http://www.cloverport.kyschools.us/	Cloverport Independent	2012.0	487.0
+24194	http://www.russellcountylibrary.com	Russell County Public Library District	2004.0	52.0
+24196	http://parks.ky.gov/	Parks, Kentucky Department of	2003.0	387.0
+24197	http://www.fcps.net/schools/middle/ltms	Lexington Traditional Magnet School	2008.0	14.0
+24198	http://agpolicy.ky.gov/Pages/default.aspx	Governor's Office of Agricultural Policy	2013.0	40.0
+24201	http://www.hopkins.kyschools.us/hopkinscounty.cfm?subpage=617569	Hopkins County Central High School	0.0	2056.0
+24202	http://www.breathitt.k12.ky.us/school_home.aspx?schoolid=3	LBJ Elementary School	2011.0	345.0
+24203	http://www.carroll.kyschools.us/	Carroll County	2006.0	3279.0
+24204	http://www.marshallcolibrary.org	Marshall County Public Library System	2001.0	5942.0
+24205	http://chfs.ky.gov/dcbs/dpp/	Protection and Permanency, Division of	2005.0	54.0
+24206	http://transportation.ky.gov/civil-rights-and-small-business-development/pages/default.aspx	Business and Occupational Development, Office for (Transportation Cabinet)	2011.0	11.0
+24207	http://www.hcpl.info	Hardin County Public Library	2002.0	223.0
+24208	http://www.fcps.net/schools/high/henry-clay	Henry Clay High School	2008.0	7.0
+24209	http://www.gardensprings.fcps.net/	Garden Springs Elementary School	2001.0	100.0
+24210	http://www.ky.gov/agencies/kcma/	Military Affairs, Commission on	2003.0	42.0
+24211	http://dnr.ky.gov/Pages/default.aspx	Natural Resources, Department for	2010.0	23.0
+24212	http://elect.ky.gov/Pages/default.aspx	Elections, Board of	2011.0	98.0
+24213	http://his.ky.gov/pages/default.aspx	Hearing Instruments, Board of Licensing for Specialists in	2012.0	10.0
+24215	https://secureweb.moreheadstate.edu/directory/	MoSU campus directory	2010.0	2.0
+24216	http://www.madisonlibrary.org	Madison County Public Library	2001.0	39.0
+24217	http://www.sos.ky.gov/Pages/default.aspx	Secretary of State	2013.0	139.0
+24218	http://www.hcky.org/	Hardin	2001.0	87.0
+24219	http://phelps.ky.pch.schoolinsites.com/	Phelps High School	2009.0	21.0
+24220	http://www.christian.kyschools.us/	Hopkinsville High School	2006.0	695.0
+24221	http://www.somerset.kyschools.us/	Somerset Independent	2007.0	1227.0
+24222	http://www.kytreasury.com/	Treasury, Kentucky State	1998.0	26.0
+24223	http://www.glasgow.k12.ky.us/school_home.aspx?schoolid=1	Glasgow High School	2011.0	1078.0
+24225	http://www.powell.k12.ky.us/	Powell County	1996.0	636.0
+24226	http://finance.ky.gov/services/surplus/pages/default.aspx	Surplus Properties, Division of	2012.0	6.0
+24227	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=26	Turkey Foot Middle School	2009.0	5039.0
+24228	http://www.cc-pl.org	Campbell County Public Library District	2000.0	505.0
+24230	http://bsw.ky.gov/forms/pages/default.aspx	Social Work, Board of	2012.0	7.0
+24231	http://kref.ky.gov	Election Finance, Kentucky Registry of	2002.0	54.0
+24232	http://technology.ky.gov/Pages/default.aspx	Computing Services, Division	2010.0	155.0
+24233	http://www.scott.kyschools.us/school_home.aspx?schoolid=16	Eastern Elementary School	2007.0	3038.0
+24236	http://www.kentuckystatepolice.org/ksporgan.htm#dops	Operations Division	2014.0	1034.0
+24237	http://www.wv.kyschools.us/Pages/default.aspx	Walton-Verona Independent	2010.0	134.0
+24239	http://www.allen.kyschools.us/	Allen County	2007.0	322.0
+24240	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/niagara	Niagra Elementary School	2010.0	53.0
+24241	http://www.boone.kyschools.us/school_home.aspx?schoolid=6	Camp Ernst Middle School	2013.0	1273.0
+24244	http://www.montgomery.k12.ky.us/	Montgomery County	1997.0	2493.0
+24245	http://cchs-ccs-ky.schoolloop.com/	Caldwell County High School	2010.0	12920.0
+24246	http://www.ftthomas.org/	Fort Thomas	1999.0	361.0
+24249	http://www.adair.kyschools.us/school_home.aspx?schoolid=7	John Adair Intermediate School	2011.0	1652.0
+24250	http://anchorage-school.org/	Anchorage Public School	0.0	47.0
+24251	http://www.lewis.k12.ky.us/school/lcms/	Lewis County Middle School	2001.0	22.0
+24252	http://www.cardinalvalley.fcps.net/	Cardinal Valley Elementary School	2001.0	109.0
+24253	http://www.barbourvilleind.com/elem.html	Barbourville Elementary School	2001.0	0.0
+24254	http://www.fcps.net/schools/middle/morton	Morton Middle School	2008.0	14.0
+24255	http://chfs.ky.gov/os/omb/	Ombudsman, Office of the	2008.0	8.0
+24257	http://chfs.ky.gov/ohp/dhppd/	Policy Development, Division of	2005.0	5.0
+24259	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/eastheights	East Heights Elementary School	2010.0	53.0
+24263	http://www.kctcs.edu/KCTCS%20Search.aspx?q=faculty%20staff	KCTCS Financial Statements	2012.0	570.0
+24264	http://www.hardin.k12.ky.us/jta/	James T. Alton Middle School	2001.0	0.0
+24265	http://www.fleming.kyschools.us/school_home.aspx?schoolid=5	Flemingsburg Elementary School	2012.0	1063.0
+24266	http://www.fleming.kyschools.us/school_home.aspx?schoolid=4	Ewing Elementary School	2012.0	1130.0
+24267	https://docjt.ky.gov/index.html	Criminal Justice Training, Department of	2004.0	86.0
+24268	http://www.marioncopublic.org	Marion County Public Library	0.0	321.0
+24271	http://www.fleming.kyschools.us/school_home.aspx?schoolid=3	E.P. Ward Elementary School	2012.0	1235.0
+24272	http://www.boone.kyschools.us/school_home.aspx?schoolid=5	Randall K. Cooper High School	2013.0	1447.0
+24276	http://www.trimble.kyschools.us/school_home.aspx?schoolid=1	Trimble County High School	2012.0	1095.0
+24277	http://www.breck.kyschools.us/	Breckinridge County	2008.0	361.0
+24278	http://www.jenkins.k12.ky.us/	Jenkins Middle High School	2000.0	9.0
+24279	http://etown.kyschools.us/sch_ehs/defaultehs.htm	Elizabethtown High School	2008.0	11.0
+24280	http://www.eku.edu/contact-us	EKU Campus Directory	2012.0	140.0
+24281	http://wv.kyschools.us/students/highschool/pages/default.aspx	Walton-Verona High School	2010.0	3.0
+24282	http://www.adair.kyschools.us/school_home.aspx?schoolid=1	Adair County High School	2011.0	1599.0
+24284	http://www.pulaski.net/	Pulaski County	1998.0	405.0
+24286	http://www.laurel.k12.ky.us/school_home.aspx?schoolid=1	North Laurel High School	2011.0	3105.0
+24289	http://www.marshall.kyschools.us/	Marshall County	2007.0	61.0
+24290	http://ohiocountypubliclibrary.org	Ohio County Public Library	2005.0	15.0
+24291	http://dcg.ky.gov/Pages/default.aspx	Charitable Gaming, Department of	2011.0	15.0
+24292	http://hazard.kctcs.edu/	Gateway Community & Technical College	2002.0	446.0
+24293	http://transportation.ky.gov/motor-carriers/Pages/default.aspx	Vehicle Regulation, Department of	2011.0	37.0
+24294	http://www.masoncountylibrary.com	Mason County Public Library	2005.0	12.0
+24295	http://gcpl.org	Graves County Public Library	0.0	178.0
+24296	http://www.laruelibrary.org	Larue County Public Library	2002.0	15.0
+24297	http://www.uky.edu/Trustees/	UK Board of Trustees	2001.0	32.0
+24298	http://www.lebanon.k12.pa.us/middle/aboutus.php	Lebanon Middle School	2007.0	6.0
+24299	http://www.hardin.k12.ky.us/west/	West Hardin Middle School	2001.0	28.0
+24300	http://www.am.dodea.edu/campbell/	Ft. Campbell Dependent	2004.0	38.0
+24301	http://www.pendleton.kyschools.us/	Pendleton County	2006.0	657.0
+24302	http://ilearn.clarkschools.net/web/providence/	Providence Elementary School	2011.0	55.0
+24303	http://personnelboard.ky.gov/	Personnel Board	2004.0	26.0
+24304	http://ashland.kctcs.edu/	Ashland Community & Technical College	2002.0	438.0
+24305	http://jcps.jefferson.kyschools.us/ramsey/	Ramsey Middle School	0.0	454.0
+24306	http://ww2.bullittschools.org/oldmillel/	Old Mill Elementary School	2011.0	35.0
+24307	http://www.monroe.kyschools.us/school_home.aspx?schoolid=1	Monroe County High School	2009.0	1699.0
+24309	http://www.erlanger.k12.ky.us/schools/lloyd.html	Lloyd High School	2007.0	1.0
+24310	http://ethics.ky.gov/Pages/default.aspx	Executive Branch Ethics Commission	2011.0	27.0
+24311	http://www.cdlex.org/	Lexington Diocese	1998.0	387.0
+24312	http://optometry.ky.gov/Pages/default.aspx	Optometric Examiners, Board of	2014.0	14.0
+24313	http://www.justice.ky.gov/	Management and Administrative Services, Office of (Justice and Public Safety)	2003.0	48.0
+24314	http://chfs.ky.gov/os/oats/	General Accounting, Division of	2008.0	4.0
+24316	http://muhlenberg.kyschools.us/mchs/	Muhlenberg County High School	2009.0	462.0
+24317	http://www.hopkins.k12.ky.us/earlingtonelementary.cfm?subpage=617563	Earlington Elementary School	0.0	1817.0
+24318	http://louisville.edu/find.html	UofL campus directory	2004.0	3518.0
+24319	http://www.breathitt.k12.ky.us/school_home.aspx?schoolid=4	Highland-Turner Elementary School	2011.0	398.0
+24320	http://www.bmspirates.com/	Belfry Middle School	2009.0	657.0
+24321	http://www.chfs.ky.gov/dms/	Medicaid Services, Department for	2004.0	235.0
+24322	http://www.caverna.k12.ky.us/	Caverna Independent	2013.0	1216.0
+24323	http://www.breathitt.k12.ky.us/school_home.aspx?schoolid=1	Breathitt County High School	2011.0	421.0
+24326	http://www.kentuckystatepolice.org/	State Police, Department of Kentucky	2001.0	1031.0
+24327	http://www.jefferson.k12.ky.us/schools/middle/lassiter.html	Lassiter Middle School	1997.0	2.0
+24328	http://www.marion.kyschools.us/school_home.aspx?schoolid=1	Marion County High School	2013.0	1465.0
+24330	http://www.jefferson.k12.ky.us/schools/high/pleasureridgepark/index.html	Pleasure Ridge Park High School	2012.0	53.0
+24331	http://www.jefferson.k12.ky.us/schools/middle/frost/index.html	Frost Middle School	2011.0	18.0
+24333	http://publicschools.spencercounty.ky.gov/sch/scms/	Spencer County Middle School	2010.0	49.0
+24335	http://www.klc.org/	Kentucky League of Cities	1997.0	495.0
+24336	http://www.jefferson.k12.ky.us/schools/middle/meyzeek/index.html	Meyzeek Middle School	1999.0	61.0
+24339	http://henderson.kctcs.edu/	Gateway Community & Technical College	2002.0	448.0
+24341	http://www.ludlow.kyschools.us/	Ludlow Independent	2006.0	2365.0
+24342	http://floyd.acms.schoolfusion.us/?sessionid=41cf5e2ea85588f91468dd2af6e88370&t	Allen Central Middle School	0.0	508.0
+24343	http://floyd.blhs.schoolfusion.us/?sessionid=46c0c1971e70f3edeb84606e208a0cf2&t	Betsy Layne High School	0.0	1068.0
+24344	http://rcdok.org/	Owensboro Diocese	2009.0	662.0
+24345	http://www.barren.kyschools.us/	Barren County	2007.0	2587.0
+24346	http://www.labor.ky.gov/workersclaims/Pages/Department-of-Workers'-Claims.aspx	Workers Claims, Office of	2011.0	21.0
+24348	http://www.pendleton.k12.ky.us/school_home.aspx?schoolid=1	Pendleton County High School	2012.0	1114.0
+24349	http://ABC.ky.gov/Pages/default.aspx	Alcoholic Beverage Control, Department of	2011.0	23.0
+24351	http://www.southgateky.org	Southgate	2004.0	1095.0
+24352	http://www.nicholascountylibrary.com	Nicholas County Public Library	2002.0	8.0
+24353	http://www.dsprings.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3810	Dawson Springs High School	0.0	265.0
+24354	http://www.fcps.net/schools/high/bryan-station-	Bryan Station High School	2008.0	8.0
+24355	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/bendgate	Bend Gate Elementary School	2010.0	59.0
+24356	http://commerce.ky.gov/officesecretary/	Secretary, Office of the (Commerce)	2004.0	4.0
+24357	http://www.wolfe.k12.ky.us/school_home.aspx?schoolid=5	Campton Elementary School	2011.0	968.0
+24358	http://madisonville.kctcs.edu/	Gateway Community & Technical College	2002.0	553.0
+24360	http://lyoncountyhigh.ky.lyh.schoolinsites.com/	Lyon County High School	2011.0	16.0
+24361	http://www.eminence.k12.ky.us/school_home.aspx?schoolid=1	Eminence High School	2011.0	354.0
+24363	http://www.ockerman.ms.groupfusion.net/	Ockerman Middle School	2007.0	49.0
+24364	http://www.hardin.k12.ky.us/burkhead/default.html	G. C. Burkhead Elementary School	2000.0	26.0
+24365	http://ww2.bullittschools.org/behs2/	Bullitt East High School	2011.0	352.0
+24366	http://www.fcps.net/schools/middle/winburn	Winburn Middle School	2008.0	14.0
+24367	http://www.morgan.kyschools.us/	Morgan County	2011.0	45.0
+24368	http://www.wburg.k12.ky.us/	Williamsburg Middle School	1996.0	71.0
+24370	http://www.clinton.kyschools.us/	Clinton County	2010.0	790.0
+24371	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=7	W.R. McNeill Elementary School	2010.0	2144.0
+24374	http://kdla.ky.gov/Pages/default.aspx	Libraries and Archives, Department for	2011.0	287.0
+24375	http://www.moreheadstate.edu/error/404.aspx?aspxerrorpath=/bor/index.aspx	MoSU Board of Regents	0.0	2.0
+24376	http://www.bullittschools.org/wp/	Bullitt County	2010.0	3031.0
+24377	http://kbce.ky.gov/Pages/default.aspx	Chiropractic Examiners, Board of	2014.0	17.0
+24378	http://www.pspl.org	Franklin County Library District	2000.0	41.0
+24379	http://www.kentonlibrary.org	Kenton County Public Library	2005.0	1086.0
+24380	http://regents.eku.edu/	EKU Board of Regents	2012.0	14.0
+24381	http://odcp.ky.gov/	Substance Abuse Policy, Agency for	2004.0	22.0
+24382	http://hopkinsville.kctcs.edu/	Gateway Community & Technical College	2002.0	433.0
+24384	http://www.eminence.k12.ky.us/	Eminence Independent	1999.0	510.0
+24386	http://www.fcps.net/schools/middle/edythe-j-hayes	Edythe J. Hayes Middle School	2008.0	14.0
+24387	http://www.taylor.k12.ky.us/	Taylor County	1999.0	686.0
+24388	http://bourbonlibrary.org/	Paris-Bourbon County Library	2001.0	71.0
+24389	http://www.kenton.kyschools.us/	Kenton County	2006.0	6850.0
+24391	http://chfs.ky.gov/dph/info/lab/	Laboratory Services, Division of	2005.0	7.0
+24392	http://www.warrencountyschools.org/alvaton	Alvaton Elementary School	2011.0	18278.0
+24393	http://www.breathittcountylibrary.com	Breathitt County Public Library	2001.0	9.0
+24394	http://www.cityofwarsawky.org/	Warsaw	2004.0	10.0
+24395	http://www.danvilleky.org/	Danville	2003.0	685.0
+24396	http://insurance.ky.gov/home.aspx	State Risk and Insurance Services, Division of	0.0	259.0
+24398	http://www.hardin.k12.ky.us/bluegrass/	Bluegrass Middle School	1998.0	0.0
+24399	http://air.ky.gov/Pages/default.aspx	Air Quality, Division for	2010.0	55.0
+24400	http://gateway.kctcs.edu/	Gateway Community & Technical College	2002.0	588.0
+24401	http://www.nku.edu/	NKU Web site	0.0	724.0
+24402	http://kentuckycareercenter.ky.gov/	Workforce Services, Division of	2013.0	40.0
+24404	http://hartcountypubliclibrary.org	Hart County Public Library	2003.0	47.0
+24405	http://www.scott.k12.ky.us/	Scott County	1996.0	4569.0
+24406	http://www.caldwell.kyschools.us/cces	Caldwell County Elementary School	2010.0	3299.0
+24408	http://www.publiclibrary.org	Hopkins County-Madisonville Public Library	1998.0	247.0
+24409	http://kentucky.gov/Pages/home.aspx	Commonwealth of Kentucky	2008.0	65.0
+24410	http://www.kctcs.edu/colleges_and_campuses.aspx	KCTCS campus directory	2009.0	414.0
+24411	http://ilearn.clarkschools.net/web/strodestation/	Strode Station Elementary School	2009.0	23.0
+24412	http://www.clarkschools.net/pilotview/	Pilot View Elementary School	2008.0	33.0
+24413	http://abc.ky.gov/pages/abcboard.aspx	Alcoholic Beverage Control Legal Division	2011.0	24.0
+24414	http://rockcastle.kyschools.us/rchs/	Rockcastle County High School	2007.0	400.0
+24415	http://louisville.edu/finance/budget/opbuds/budgetdocs.html	UofL Operating Budgets	2010.0	0.0
+24417	http://echs.edmonson.k12.ky.us/	Edmonson County High School	1998.0	128.0
+24418	http://maysville.kctcs.edu/	Maysville Community & Technical College	2002.0	421.0
+24419	http://www.kytech.ky.gov/	Office of Career and Technical Education	2002.0	5.0
+24420	http://www.raceland.k12.ky.us/rwhs/index.htm	Raceland-Worthington High School	2003.0	24.0
+24421	http://nelson.kyschools.us/our-schools/okhms/	Old Kentucky Home Middle School	2013.0	8.0
+24424	http://cmrsboard.ky.gov/	911 Coordinator, Office of the	2004.0	34.0
+24425	http://www.osbd.ky.gov/	Budget Director, Office of the State	2004.0	38.0
+24426	http://www.boone.kyschools.us/school_home.aspx?schoolid=4	Larry A. Ryle High School	2013.0	1509.0
+24428	http://www.weldonpubliclibrary.org	Mary Wood Weldon Memorial Public Library	2004.0	66.0
+24429	http://www.model.eku.edu/	Model Laboratory High School	1998.0	273.0
+24430	http://www.paducah.kyschools.us/	Paducah Independent	2008.0	361.0
+24431	http://www.menifee.kyschools.us/	Menifee County	2009.0	1321.0
+24432	http://www2.youseemore.com/greenco/	Green County Public Library	2009.0	0.0
+24433	http://www.campbell.k12.ky.us/school_home.aspx?schoolid=2	Campbell County Middle School	2012.0	1775.0
+24434	http://www.lcld.org	Harry M. Caudill Memorial Library	2003.0	35.0
+24435	http://www.kctcs.edu/about_kctcs/kctcs_board_of_regents.aspx	KCTCS Board of Regents	2009.0	93.0
+24436	http://ilearn.clarkschools.net/web/shearer/	Shearer Elementary School	2013.0	40.0
+24437	http://cdpvtc.ky.gov/	Carl D. Perkins Rehabilitation Center, Division of	2007.0	46.0
+24438	http://www.paris.k12.ky.us/schools/pariselementaryhome.aspx	Paris Elementary School	2012.0	117.0
+24440	http://www.ballard.k12.ky.us/	Ballard County	1998.0	235.0
+24441	http://www.cityofmaysville.com/	Maysville	1999.0	536.0
+24443	http://belfry.ky.pch.schoolinsites.com/	Belfry High School	2009.0	43.0
+24444	http://www.frankfortconventioncenter.com/	Frankfort Convention Complex	2002.0	28.0
+24445	http://www.leslie.k12.ky.us/	Leslie County Middle School	1998.0	6031.0
+24446	http://www.mboro.k12.ky.us/	Middlesboro Independent	2002.0	187.0
+24447	http://www.jefferson.k12.ky.us/schools/high/ballard/index.html	Ballard High School	2000.0	21.0
+24448	http://www.harlan.kyschools.us/	Harlan County	2008.0	20.0
+24449	http://www.oldham.kyschools.us/goshen/	Goshen Elementary School	2007.0	4111.0
+24451	http://www.garrard.kyschools.us/	Garrard County	2007.0	918.0
+24452	http://ilearn.clarkschools.net/web/trapp/	Trapp Elementary School	2009.0	16.0
+24454	http://www.magoffin.kyschools.us/	Magoffin County	2009.0	1388.0
+24455	http://ogi.ky.gov/	Geographic Information , Division of	2003.0	12.0
+24457	http://www.fcps.net/schools/high/paul-laurence-dunbar	Paul Laurence Dunbar High School	2008.0	7.0
+24459	http://www.raceland.kyschools.us/	Raceland-Worthington Independent	2009.0	40.0
+24461	http://www.todd.kyschools.us/	Todd County	2006.0	886.0
+24463	http://www2.moreheadstate.edu/ira/index.aspx?id=49773	MoSU factbook	2010.0	0.0
+24464	http://www.beechwood.kyschools.us/	Beechwood Independent	0.0	861.0
+24465	http://perrycentralhigh.ky.pcc.schoolinsites.com/	Perry County Central High School	2013.0	19.0
+24467	http://homelandsecurity.ky.gov/	Homeland Security, Kentucky Office of	2005.0	79.0
+24468	http://westportms.jefferson.kyschools.us/	Wesport Middle School	2013.0	27.0
+24469	http://johnson.jefferson.kyschools.us/home	Johnson Traditional Middle School	2012.0	22.0
+24470	http://mchs.masoncoschools.com/	Mason County High School	2009.0	0.0
+24472	http://blind.ky.gov/consumerservices/pages/default.aspx	Consumer Services, Division of (Office for the Blind)	2011.0	11.0
+24473	http://www.harlan.k12.ky.us/bme/	Black Mountain Elementary School	2001.0	7.0
+24474	http://kwcfc.ky.gov	Workers Compensation Funding Commission, Kentucky	2005.0	17.0
+24475	http://gsp.ky.gov/	Governor's Scholars Program	2007.0	33.0
+24476	http://www.jefferson.k12.ky.us/schools/middle/farnsley/index.html	Farnsley Middle School	2004.0	32.0
+24477	http://justice.ky.gov/departments/me/default.htm	Medical Examiner, Office of the State	2005.0	18.0
+24478	http://psc.ky.gov/sitemap.htm#ci	Consumer Services, Division of	2013.0	484.0
+24479	http://www.lewiscountylibrary.net	Lewis County Public Library	2009.0	6.0
+24481	http://chfs.ky.gov/dph/epi/default.htm	Epidemiology and Health Planning, Division of	2005.0	67.0
+24482	http://green.kyschools.us/	Green County	2011.0	25.0
+24484	http://www.boonecountyky.org/	Boone	1998.0	787.0
+24485	http://louisville.edu/president/trustees/	UofL Board of Trustees	2006.0	0.0
+24486	https://docjt.ky.gov/organization/administrative/index.html	Administrative Division (Department of Criminal Justice Training)	2005.0	2.0
+24487	http://jcps.jefferson.kyschools.us/moore/	Moore Traditional High School	0.0	375.0
+24488	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3535	Elkhorn City Elementary	0.0	615.0
+24489	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3536	Feds Creek Elementary School	0.0	615.0
+24492	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3532	Blackberry Elementary School	0.0	615.0
+24493	http://www.lrc.ky.gov/	Legislative Research Commission	2003.0	606.0
+24494	http://elizabethtown.kctcs.edu/	Elizabethtown Community & Technical College	2002.0	441.0
+24495	http://www.angelfire.com/ky/toddcopl/	Todd County Public Library	2000.0	8.0
+24496	http://www.montgomery.kyschools.us/school_home.aspx?schoolid=4	Mapleton Elementary School	2010.0	2343.0
+24498	http://www.kentuckystatepolice.org/ksporgan.htm#kspfs	Forensic Services Division	2014.0	1034.0
+24499	http://www.oldham.kyschools.us/	Oldham County	2006.0	835.0
+24500	http://www.estill.k12.ky.us/echs/	Estill County High School	0.0	2942.0
+24501	http://bes.nelson.kyschools.us/	Bloomfield Elementary School	2009.0	128.0
+24503	http://www.kentuckystatepolice.org/ksporgan.htm#ad	Administrative Division (Kentucky State Police)	2014.0	1034.0
+24506	http://ltgovernor.ky.gov/Pages/Default.aspx	Lieutenant Governor	2012.0	16.0
+24507	http://rockcastle.kyschools.us/res/	Roundstone Elementary School	2008.0	166.0
+24508	http://www.fcps.net/schools/middle/crawford	Crawford Middle School	2008.0	14.0
+24509	http://www.science.k12.ky.us/	Science Hill Independent	2002.0	7591.0
+24510	http://ww2.bullittschools.org/cges/	Cedar Grove Elementary School	2006.0	13.0
+24511	http://www.russell.k12.ky.us/school_home.aspx?schoolid=2	Russell County Middle School	2012.0	734.0
+24514	http://floyd.jms.schoolfusion.us/?sessionid=d0cdf2177adedffa7b8b06446f425752&t	Stumbo Elementary School	0.0	2337.0
+24515	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=7	Oakview Elementary School	2011.0	1450.0
+24518	http://www.fcps.net/schools/elementary/rosa-parks	Rosa Parks Elementary School	2008.0	37.0
+24519	http://www.livingston.k12.ky.us/school_home.aspx?schoolid=2	Livingston County Middle School	2012.0	577.0
+24520	http://www.monroe.k12.ky.us/	Monroe County	1998.0	808.0
+24521	http://artscouncil.ky.gov/	Arts Council, Kentucky	2003.0	4.0
+24522	http://www.paris.kyschools.us/	Paris Independent	2008.0	642.0
+24524	http://www.cityoffranklin.com/	Franklin	2001.0	79.0
+24525	http://kccrb.ky.gov/	Community Crisis Response Board, Kentucky	2005.0	53.0
+24526	http://floyd.achs.schoolfusion.us/?sessionid=42b5f527362478051b41a37ba82327de&t	Allen Central High School	0.0	2256.0
+24527	http://chfs.ky.gov/ccshcn/	Children with Special Health Care Needs, Commission for	2005.0	26.0
+24528	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=2	Verity Middle School	2011.0	1338.0
+24529	http://floyd.aes.schoolfusion.us/?sessionid=d0cdf2177adedffa7b8b06446f425752&t	Allen Elementary School	0.0	534.0
+24530	http://www.letcher.kyschools.us/default.aspx	Letcher County	2010.0	1026.0
+24532	http://www.harlancountylibraries.org	Harlan County Public Library	2005.0	15.0
+24533	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=3	Charles Russell Elementary School	2011.0	2597.0
+24534	http://www.fairview.k12.ky.us/school_home.aspx?schoolid=1	Fairview High School	2011.0	630.0
+24535	http://www.graves.k12.ky.us/	Graves County	2000.0	166.0
+24536	http://kycraft.ky.gov/	Craft Marketing Program, Kentucky	2003.0	4.0
+24537	http://www.boone.kyschools.us/school_home.aspx?schoolid=21	Ockerman Elementary School	2013.0	1377.0
+24539	http://bjes.breck.kyschools.us/	Ben Johnson Elementary School	2010.0	205.0
+24540	http://www.jefferson.k12.ky.us/	Jefferson County	1996.0	58.0
+24541	http://www.murray.kyschools.us/	Murray Independent	2007.0	162.0
+24542	http://jcps.jefferson.kyschools.us/fhsonline/	Fairdale High School	0.0	181.0
+24543	http://blind.ky.gov/kbe/pages/default.aspx	Kentucky Business Enterprise, Division of	2013.0	7.0
+24544	http://www.jefferson.k12.ky.us/schools/elementary/bowen/index.html	Bowen Elementary School	2001.0	40.0
+24545	http://www.berea.kyschools.us/	Berea Independent	2008.0	20.0
+24546	http://www.jackson.k12.ky.us/	Jackson County	2001.0	304.0
+24547	http://nchs.nelson.kyschools.us/	Nelson County High School	2007.0	200.0
+24549	http://www.crittenden.k12.ky.us/portal/school_list	Crittenden County	2013.0	22.0
+24550	http://www.morgancountyschools.com/mchs/morgan_county_high/welcome.html	Morgan County High School	2011.0	1.0
+24551	http://www.covingtondiocese.org/	Covington Diocese	2002.0	49.0
+24552	http://www.newportwildcats.org/school_home.aspx?schoolid=2	Newport Middle School	2010.0	1190.0
+24556	http://www.dma.ky.gov/	Military Affairs, Department of	2003.0	9.0
+24558	http://www.larue.k12.ky.us/school_home.aspx?schoolid=1	LaRue County High School	2011.0	0.0
+24559	http://www.kyfairexpo.org/media/news.aspx	Public Relations and Media, Division of (Fair and Exposition Center)	2012.0	0.0
+24560	http://www.owen.k12.ky.us/school_home.aspx?schoolid=1	Owen County High School	2011.0	517.0
+24562	http://www.hopkins.kyschools.us/jamesmadison.cfm?subpage=617571	James Madison Middle School	0.0	2096.0
+24564	http://www.fortmitchell.com/	Fort Mitchell	1999.0	145.0
+24566	http://www.hendersonschools.net/	Henderson County	2002.0	2.0
+24567	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=8	Poage Elementary School	2011.0	1173.0
+24568	http://www.barbourvilleind.com/	Barbourville Independent	2001.0	449.0
+24569	http://www.state.ky.us/agencies/khc/khchome.htm	Heritage Council, Kentucky	1997.0	526.0
+24570	http://www.thinkkentucky.com/	Cabinet for Economic Development	2000.0	67.0
+24571	http://www.fleming.kyschools.us/	Fleming County	2007.0	1075.0
+24572	http://www.fcps.net/schools/high/lafayette	Lafayette High School	2008.0	7.0
+24573	https://www.kheaa.com/website/kheaa/home	Kentucky Higher Education Assistance Authority	2007.0	811.0
+24574	http://revenue.ky.gov/property+tax/	Property Valuation (Individuals), Office of	0.0	3.0
+24576	http://www.clinton.k12.ky.us/school_home.aspx?schoolid=1	Clinton County High School	2011.0	542.0
+24577	http://bdn.ky.gov/Pages/default.aspx	Dietitians and Nutritionists, Board of Licensure and Certification for	2012.0	8.0
+24583	http://www.henry.k12.ky.us/	Henry County	1998.0	743.0
+24585	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/jefferson	Jefferson Elementary School	2010.0	52.0
+24586	http://ppc.ky.gov/Pages/default.aspx	Public Protection Cabinet	2011.0	9.0
+24587	http://waste.ky.gov/Pages/default.aspx	Waste Management, Division of	2010.0	84.0
+24588	http://www.labor.ky.gov/pages/generalcounsel.aspx	Labor Legal Division	2011.0	184.0
+24589	http://www.mboro.k12.ky.us/school_home.aspx?schoolid=4	Middlesboro High School	2007.0	0.0
+24590	http://www.allen.kyschools.us/highschool_home.aspx	Allen County Scottsville High School	2010.0	449.0
+24591	http://nelsoncountyky.com/	Nelson	2005.0	31.0
+24592	http://www.crescent-springs.ky.us/	Crescent Springs	1999.0	27.0
+24593	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=36	Ryland Heights Elementary School	2009.0	3812.0
+24594	http://www.jefferson.k12.ky.us/schools/high/seneca/index.html	Seneca High School	2000.0	30.0
+24595	http://www.somerset.k12.ky.us/school_home.aspx?schoolid=1	Somerset High School	2012.0	2054.0
+24596	http://www.scott.k12.ky.us/school_home.aspx?schoolid=1	Scott County High School	2007.0	2914.0
+24597	http://laurellibrary.org	Laurel County Public Library	2003.0	379.0
+24598	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=35	River Ridge Elementary School	2009.0	3670.0
+24599	http://www.boone.kyschools.us/	Boone County	2006.0	1757.0
+24600	http://www.meade.kyschools.us/	Meade County	2007.0	554.0
+24602	http://kbn.ky.gov/	Nursing, Board of	2003.0	243.0
+24603	http://education.ky.gov/Pages/default.aspx	Education, Department of	2013.0	1593.0
+24604	http://www.nicholas.k12.ky.us/nchs/	Nicholas County High School	2003.0	11.0
+24605	http://www.scott.k12.ky.us/school_home.aspx?schoolid=7	Cardinal Academy	2007.0	2906.0
+24606	http://www.woodford.kyschools.us/	Woodford County High School	2013.0	894.0
+24608	http://www.burgin.kyschools.us/	Burgin Independent	2009.0	12.0
+24610	http://ww2.bullittschools.org/brooksel/	Brooks Elementary School	2010.0	31.0
+24611	http://www.laurel.k12.ky.us/school_home.aspx?schoolid=2	South Laurel High School	2011.0	3638.0
+24612	http://www.lincoln.kyschools.us/	Lincoln County	2007.0	2689.0
+24614	http://www.masoncoschools.com/	Mason County	2008.0	461.0
+24615	http://www.ohio.k12.ky.us/school_home.aspx?schoolid=7	Fordsville Elementary School	2011.0	1575.0
+24616	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=38	Taylor Mill Elementary School	2009.0	3894.0
+24617	http://gallatincountyky.com/	Sparta	2001.0	218.0
+24619	http://www.boone.kyschools.us/school_home.aspx?schoolid=10	R.A. Jones Middle School	2013.0	2205.0
+24620	http://jcps.jefferson.kyschools.us/liberty/	Liberty High School	0.0	1485.0
+24621	http://EEC.ky.gov/Pages/default.aspx	Energy and Environment Cabinet	2010.0	19.0
+24623	http://chfs.ky.gov/dcbs/serviceregions.htm	Service Regions, Division of	2006.0	96.0
+24624	http://www.kyhumanities.org/	Kentucky Humanities Council	2000.0	112.0
+24625	http://www.mberg.k12.ky.us/	Muhlenberg County	2001.0	2.0
+24627	http://www.labor.ky.gov/dows/oshp/pages/osh-standards-board.aspx	Occupational Safety and Health Standards Board	2011.0	14.0
+24628	http://www.bgky.org/	Bowling Green	1999.0	2236.0
+24629	http://www.campbellcountyschools.org/	Campbell County	2006.0	1409.0
+24631	http://www.erlanger.k12.ky.us/	Erlanger-Elsmere Independent	1998.0	18.0
+24632	http://aml.ky.gov/Pages/default.aspx	Abandoned Mine Lands, Division of	2010.0	22.0
+24633	http://elktonky.com/	Elkton	2000.0	162.0
+24634	http://www.fulton-ind.k12.ky.us/	Fulton High School	1999.0	1009.0
+24635	http://www.jefferson.k12.ky.us/schools/high/doss/index.html	Doss High School Magnet Career Academy	2003.0	39.0
+24636	http://www.bath.kyschools.us/school_home.aspx?schoolid=2	Bath County Middle School	2013.0	811.0
+24638	http://www.corbinschools.org/	Corbin Independent	2003.0	21.0
+24639	http://www.hardin.k12.ky.us/	Hardin County	1996.0	424.0
+24640	http://www1.youseemore.com/robertsoncountypl/	Robertson County Public Library	2010.0	106.0
+24641	http://www.carrollcountylibrary.org/	Carroll County Public Library District	2008.0	14.0
+24642	http://www.georgetown-kentucky.gov/	Georgetown	2003.0	71.0
+24643	http://www.fultonind.kyschools.us/	Fulton Independent	2008.0	1007.0
+24644	http://rockcastle.kyschools.us/rcms/	Rockcastle County Middle School	2008.0	277.0
+24645	http://www.cumberlandlibrarylcd.com	Cumberland County Public Library	2003.0	1.0
+24647	http://www.johnson.k12.ky.us/	Johnson County	1998.0	8.0
+24648	http://krec.ky.gov/Pages/default.aspx	Real Estate Commission	2010.0	41.0
+24649	http://www.johnson.kyschools.us/schools/jchs/	Johnson Central High School	2012.0	15.0
+24651	http://www.clay.k12.ky.us/	Clay County	1996.0	2354.0
+24652	http://www.uky.edu/Directory/	UK campus directory	2004.0	5.0
+24653	http://www.fcps.net/schools/middle/beaumont	Beaumont Middle School	2008.0	14.0
+24655	http://www3.laruecounty.net/	Larue	2003.0	1.0
+24656	http://www.ket.org/	Kentucky Educational Television (KET)	1997.0	7934.0
+24658	http://www.powell.kyschools.us/school_home.aspx?schoolid=2	Powell County Middle School	2011.0	1058.0
+24659	http://www.powell.kyschools.us/school_home.aspx?schoolid=1	Powell County High School	2011.0	1122.0
+24660	http://www.cville.kyschools.us/	Campbellsville Independent	2007.0	826.0
+24661	http://www.jefferson.k12.ky.us/schools/middle/jctms/index.html	Jefferson County Traditional Middle School	2006.0	25.0
+24662	http://www.boone.kyschools.us/school_home.aspx?schoolid=15	Goodridge Elementary School	2013.0	1140.0
+24663	http://frankfort.ky.gov/	Frankfort	2007.0	4116.0
+24666	http://www.uky.edu/OPBPA/budget.htm	UK Operating Budgets	2005.0	12.0
+24669	http://ww2.bullittschools.org/hebronms/	Hebron Middle School	2013.0	52.0
+24670	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=23	Success Academy	2009.0	3893.0
+24671	http://www.rowan.k12.ky.us/school_home.aspx?schoolid=1	Rowan County Senior High School	2010.0	1097.0
+24672	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=25	Summitt View Middle School	2009.0	3961.0
+24673	http://www.danvilleschools.net/	Danville Independent	2010.0	1295.0
+24674	http://www.bgreen.kyschools.us/	Bowling Green Independent	2007.0	3458.0
+24675	http://grayson.clarkson.schooldesk.net/	Clarkson Elementary School	2011.0	44.0
+24676	http://www.bracken.k12.ky.us/education/district/district.php?sectionid=3059	Bracken County	2002.0	3.0
+24677	http://www.lexpublib.org	Lexington Public Library	1997.0	1043.0
+24678	http://www.boone.kyschools.us/school_home.aspx?schoolid=8	Gray Middle School	2013.0	1298.0
+24679	http://dpa.ky.gov/div/pt.htm	Post-Trial Services, Division of	2009.0	6.0
+24680	http://www.boone.kyschools.us/school_home.aspx?schoolid=14	Florence Elementary School	2013.0	1224.0
+24681	http://creativeservices.ky.gov/Pages/default.aspx	Office of Creative Services	2013.0	12.0
+24682	http://www.kyarts.org/	Kentucky Arts Council	1998.0	2.0
+24683	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=3	Simon Kenton High School	2009.0	4767.0
+24686	http://www.johnsoncountypubliclibrary.org	Johnson County Public Library	2007.0	18.0
+24687	http://www.oldham.k12.ky.us/sohs/	South Oldham High School	2011.0	97.0
+24688	http://www.warren.kyschools.us/	Warren County	2007.0	17905.0
+24689	http://www.pike.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3533	Dorton Elementary School	0.0	615.0
+24690	http://www.bellevue.kyschools.us/	Bellevue Independent	2010.0	1180.0
+24691	http://hccpl.org	Hopkinsville-Christian County Public Library	2001.0	8.0
+24692	http://www.franklin.k12.ky.us/hes.aspx	Hearn Elementary School	2012.0	357.0
+24694	http://www.estill.k12.ky.us/	Estill County	2002.0	7675.0
+24697	http://www.oldham.k12.ky.us/ocms/	Oldham County Middle School	2011.0	196.0
+24698	http://www.larue.k12.ky.us/	LaRue County	1998.0	482.0
+24699	http://mcplib.org/	Muhlenberg County Public Libraries	2000.0	570.0
+24700	http://rockcastle.kyschools.us/	Rockcastle County	2007.0	1595.0
+24701	http://www.loganlib.org/	Logan County Public Library	2013.0	4170.0
+24706	http://www.kbhc.ky.gov/	Hairdressers and Cosmetologists, Board of	2007.0	20.0
+24707	http://meade.ky.mch.schoolinsites.com/	Meade County High School	2009.0	187.0
+24709	http://www.mayfield.kyschools.us/middleschool/schools/middleschoolhomepage.aspx	Mayfield Middle School	2011.0	0.0
+24710	http://richmond.ky.us/	Richmond	2000.0	125.0
+24711	http://www.ohio.k12.ky.us/school_home.aspx?schoolid=2	Ohio County Middle School	2011.0	1501.0
+24712	http://www.ohio.k12.ky.us/school_home.aspx?schoolid=1	Ohio County High School	2011.0	1651.0
+24713	http://www.tclibrary.org	John L. Street Public Library	1998.0	38.0
+24714	http://www.btown.k12.ky.us/protected/GeneralError.aspx?aspxerrorpath=/bardstownmiddleschool_home.aspx	Bardstown Middle School	0.0	104.0
+24716	http://jcps.jefferson.kyschools.us/knight/	Knight Middle School	0.0	972.0
+24718	http://transportation.ky.gov/equipment/Pages/default.aspx	Equipment, Division of	2011.0	5.0
+24719	http://finance.ky.gov/services/eprocurement/pages/default.aspx	Material and Procurement Services, Office of	2012.0	26.0
+24720	http://www.marion.kyschools.us/	Marion County	2008.0	1203.0
+24721	http://www.thinkkentucky.com/kyedc/busloc.aspx	New Business Development, Department for	2006.0	47.0
+24722	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=2	Scott High School	2009.0	4587.0
+24723	http://chfs.ky.gov/os/oig/dhcfs.htm	Health Care, Division of	2008.0	64.0
+24724	http://www.bracken.k12.ky.us/education/school/school.php?sectiondetailid=22119&linkid=nav-menu-container-1-16873	Bracken County High School	2005.0	14.0
+24725	http://ovr.ky.gov/statewidecouncils/	Statewide Council for Vocational Rehabilitation	2009.0	8.0
+24726	http://www.leslie.k12.ky.us/lchs/	Leslie County High School	2001.0	9768.0
+24728	http://www.oet.ky.gov/des/ui/ui.htm	Unemployment Insurance, Division of	2006.0	40.0
+24729	http://www.bellcountypubliclibraries.org	Bell County Public Library District	2004.0	1591.0
+24730	http://www.logan.kyschools.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=4609	Logan County High School	0.0	0.0
+24731	http://www.ksd.k12.ky.us/	Kentucky School for the Deaf	1998.0	952.0
+24732	http://www.fcps.net/schools/middle/scapa	SCAPA at Bluegrass	2011.0	14.0
+24733	http://dca.ky.gov/Pages/default.aspx	Compliance Assistance, Division of	2010.0	84.0
+24734	http://www.daviesskyschools.org/school_home.aspx?schoolid=14	Highland Elementary School	2010.0	6024.0
+24735	http://ww2.bullittschools.org/bullittcentralhs/	Bullitt Central High School	2010.0	1.0
+24737	http://cityofunionky.org/	Union	2001.0	277.0
+24738	http://abc.ky.gov/pages/enforcement.aspx	Enforcement Division (Alcoholic Beverage Control)	2011.0	24.0
+24740	http://www.moreheadstate.edu/	MoSU Web site	2000.0	1681.0
+24741	http://www.jefferson.k12.ky.us/schools/high/male/index.html	Louisville Male High School	2004.0	20.0
+24742	http://www.callowaycountylibrary.org	Calloway County Public Library	2007.0	59.0
+24743	http://www.brackenlibrary.net	Bracken County Public Library	2008.0	0.0
+24744	http://chfs.ky.gov/os/opb/	Police and Budget, Office of	2008.0	2.0
+24745	http://www.warrenpl.org	Warren County Public Library	2009.0	8.0
+24746	http://www.hopkins.k12.ky.us/hansonelementary.cfm?subpage=617567	Hanson Elementary School	0.0	1795.0
+24747	http://kchr.ky.gov/	Human Rights, Kentucky Commission on	2004.0	341.0
+24748	http://www.boone.kyschools.us/school_home.aspx?schoolid=24	A.M. Yealey Elementary School	2013.0	1236.0
+24749	http://www.bath.kyschools.us/school_home.aspx?schoolid=1	Bath County High School	2013.0	44020.0
+24750	http://www.lawrence.kyschools.us/	Lawrence County	2008.0	1041.0
+24751	http://historicproperties.ky.gov	Historic Properties, Division of	2007.0	181.0
+24753	http://www.adair.kyschools.us/	Adair County	2008.0	1335.0
+24755	http://boa.ky.gov/Pages/default.aspx	Architects, Kentucky Board of	2012.0	15.0
+24756	http://www.barren.k12.ky.us/school_home.aspx?schoolid=7	Park City Elementary School	2008.0	2218.0
+24759	http://estilcolib.tripod.com/	Estill County Public Library	2004.0	1.0
+24760	http://www.bath.kyschools.us/	Bath County	2006.0	6109.0
+24761	http://www.warrencountyschools.org/school_home.aspx?schoolid=2	South Warren High School	2011.0	18421.0
+24762	http://ag.ky.gov/Pages/default.aspx	Attorney General	2012.0	183.0
+24763	http://www.kyepsb.net/certification/index.asp	Certification, Division of	2004.0	43.0
+24765	http://www.cca.ky.gov/	Capital City Airport	2005.0	14.0
+24766	http://www.simpson.k12.ky.us/school_home.aspx?schoolid=2	Franklin-Simpson Middle School	2008.0	998.0
+24767	http://fbush.clarkschools.net/home.html	Fannie Bush Elementary School	2011.0	12.0
+24771	http://justice.ky.gov/default.htm	Investigations, Office of (Justice and Public Safety)	2003.0	0.0
+24773	http://cpa.ky.gov	Accountancy, Board of	2003.0	39.0
+24774	http://www.hopkins.k12.ky.us/jessestuart.cfm?subpage=617573	Jesse Stuart Elementary School	0.0	1811.0
+24775	http://www.jefferson.k12.ky.us/schools/middle/barret/index.html	Barrett Traditional Middle School	2002.0	33.0
+24776	http://www.estill.k12.ky.us/ecms/	Estill County Middle School	0.0	5271.0
+24777	http://www.kentuckystatepolice.org/ksporgan.htm#kspts	Technical Services Division (Kentucky State Police)	2014.0	1032.0
+24778	http://www.beechwood.k12.ky.us/highschool.cfm	Beechwood High School	0.0	844.0
+24779	http://omsl.ky.gov/Pages/default.aspx	Mine Safety and Licensing, Office of	2010.0	35.0
+24780	http://www.boone.kyschools.us/school_home.aspx?schoolid=16	Kelly Elementary School	2013.0	1229.0
+24781	http://bellevueky.org/	Bellevue	1999.0	237.0
+24782	http://louisville.edu/institutionalresearch/?fuseaction=jtf	UofLjust thefacts	2012.0	279.0
+24783	http://lagrangeelementary.com/	La Grange Elementary School	0.0	0.0
+24784	http://chfs.ky.gov/os/oig/drcc.htm	Regulated Child Care, Division of (Health and Family Services)	2008.0	54.0
+24785	http://raa.ky.gov/Pages/default.aspx	Registered Athlete Agents, Kentucky Directory of	2011.0	7.0
+24787	http://www2.moreheadstate.edu/ira/	MoSU Institutional Research and Assessment	2007.0	2.0
+24788	http://www.fairview.kyschools.us/	Fairview Independent	2011.0	547.0
+24789	http://oah.ky.gov/Pages/default.aspx	Administrative Hearings, Office of (EPPC)	2010.0	5.0
+24790	http://adc.ky.gov/pages/default.aspx	Alcohol and Drug Abuse Counselors, Board of	2012.0	10.0
+24791	http://www.paintsville.kyschools.us/	Paintsville Independent	2007.0	873.0
+24792	http://transportation.ky.gov/highway-safety/Pages/default.aspx	Employee Safety and Health, Division of	2011.0	34.0
+24793	http://www.mccreary.kyschools.us/	Eagle Elementary School	2007.0	176.0
+24794	http://auctioneers.ky.gov/	Auctioneers, Board of	2003.0	17.0
+24795	http://www.henrycountygov.com/index.html	Henry	2006.0	27.0
+24796	http://www.hart.k12.ky.us/	Hart County	1998.0	399.0
+24797	http://www.garrard.kyschools.us/Error.aspx?refid=1092218	Garrard County High School	0.0	753.0
+24799	http://www.hickman.k12.ky.us/	Hickman County	1998.0	204.0
+24800	http://www.wku.edu/owensboro/	WKU-Owensboro Web site	2003.0	96.0
+24801	http://www.thinkkentucky.com/kyedc/whoweare.aspx	Secretary, Office of the (Economic Development)	2006.0	48.0
+24802	http://www.barren.k12.ky.us/school_home.aspx?schoolid=1	Barren County High School	2008.0	3128.0
+24803	http://www.jefferson.k12.ky.us/schools/middle/myers/index.html	Myers Middle School	2012.0	0.0
+24804	http://revenue.ky.gov/individual/	Income Taxation, Office of	2005.0	10.0
+24806	http://www.fcps.net/schools/high/tates-creek	Tates Creek High School	2008.0	7.0
+24807	http://www.ecplibrary.com/	Edmonson County Public Library	2011.0	9.0
+24808	http://finance.ky.gov/offices/pages/policyaudit.aspx	Policy and Audit, Office of	2012.0	12.0
+24809	http://southoldhammiddle.com/	South Oldham Middle School	2011.0	1.0
+24810	http://floyd.pes.schoolfusion.us/?t	Prestonsburg Elementary School	0.0	900.0
+24811	http://www.scott.k12.ky.us/school_home.aspx?schoolid=20	Elkhorn Crossing School	2007.0	2930.0
+24813	http://www.kyfairexpo.org/general.aspx	Fair and Expositions Center Operations, Kentucky	2012.0	40.0
+24815	http://www.owensboro.org/	Owensboro	1998.0	318.0
+24816	http://kctcs.edu/About_KCTCS.aspx	KCTCS factbook	2009.0	1579.0
+24817	http://rockcastle.kyschools.us/bes/	Brodhead Elementary School	2008.0	154.0
+24818	http://www.washington.kyschools.us/wchs/default.htm	Washington County High School	2013.0	46.0
+24820	http://www.justice.ky.gov/parolebd/default.htm	Parole Board	2004.0	48.0
+24823	http://www.hopkins.k12.ky.us/browningsprings.cfm?subpage=617561	Browning Springs Middle School	0.0	1765.0
+24825	http://www.kyfairexpo.org/ticketoffice/ticketoffice.aspx	Sales, Division of	2012.0	0.0
+24826	http://www.nelsoncopublib.org	Nelson County Public Library	2000.0	64.0
+24828	http://www.greenup.kyschools.us/	Greenup County	2007.0	181.0
+24830	http://www.am.dodea.edu/knox/fkcsco/	Fort Knox Community Schools	2005.0	21.0
+24831	http://www.owensboro.kyschools.us/	Owensboro Independent	2005.0	244.0
+24833	http://www.boyd.k12.ky.us/school_home.aspx?schoolid=5	Ponderosa Elementary School	2011.0	1682.0
+24834	http://chfs.ky.gov/dph/mch/default.htm	Maternal and Child Health	2009.0	78.0
+24835	http://chfs.ky.gov/os/oats/default.htm	Technology, Office of Information  (CHFS)	2008.0	5.0
+24836	http://ww2.bullittschools.org/bernheimms/	Bernheim Middle School	2010.0	15.0
+24837	http://grayson.hwwilkey.schooldesk.net/	H. W. Wilkey Elementary School	2011.0	45.0
+24839	http://chfs.ky.gov/dcbs/dfs/	Family Support, Division of	2005.0	7.0
+24840	http://www.metcalfe.kyschools.us/	Metcalfe County	2008.0	564.0
+24842	http://louisville.edu/	UofL Web site	1997.0	10332.0
+24845	http://www.pike.kyschools.us/	Pike County	2007.0	1014.0
+24847	http://grayson.gchs.schooldesk.net/	Grayson County High School	2011.0	182.0
+24848	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=1	Bowling Green High School	2010.0	2726.0
+24850	http://www.knott.k12.ky.us/	Knott County	2000.0	190.0
+24851	http://www.oldham.k12.ky.us/eoms/	East Oldham Middle School	2011.0	63.0
+24852	http://bigsandy.kctcs.edu/	Big Sandy Community & Technical College	2002.0	322.0
+24855	http://www.crittendenlibrary.org	Crittenden County Public Library	2007.0	12.0
+24856	http://www.henry.k12.ky.us/school_home.aspx?schoolid=1	Henry County High School	2012.0	914.0
+24857	http://www.fcps.net/schools/middle/jessie-clark	Jessie Clark Middle School	2012.0	14.0
+24859	http://www.kyeducators.org/	Education Professional Standards Board	2002.0	33.0
+24860	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=1	Dixie Heights High School	2009.0	5089.0
+24861	http://www.andersonpubliclibrary.org	Anderson County Public Library	2002.0	552.0
+24863	http://www.ohio.kyschools.us/	Ohio County	2008.0	851.0
+24864	http://tnhs.nelson.kyschools.us/	Thomas Nelson High School	2012.0	223.0
+24866	http://www.nicholas.k12.ky.us/	Nicholas County Elementary School	1998.0	21.0
+24869	http://www.ci.paducah.ky.us/	Paducah	2000.0	378.0
+24870	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/cairo	Cairo Elementary School	2010.0	57.0
+24871	http://www.cland.k12.ky.us/	Cumberland County	2001.0	646.0
+24875	http://www.kentuckyartisancenter.ky.gov/	Artisan Center	2003.0	732.0
+24876	http://www.graysoncountyschools.com/	Grayson County	2006.0	84.0
+24877	http://insurance.ky.gov/home.aspx?div_id=4	Consumer Protection and Education, Division of	0.0	236.0
+24878	http://insurance.ky.gov/home.aspx?div_id=7	Health and Life, Division of	0.0	237.0
+24879	http://insurance.ky.gov/home.aspx?div_id=6	Financial Standards, Division of	0.0	253.0
+24882	http://www.hardin.k12.ky.us/lakewood/	Lakewood Elementary School	2004.0	4.0
+24884	http://www.labor.ky.gov/dows/doesam/appandtraining/pages/apprenticeship-and-training.aspx	Employment Standards, Apprenticeship and Training, Division of	2011.0	8.0
+24887	http://insurance.ky.gov/home.aspx?div_id=11	Kentucky Access, Division of	0.0	239.0
+24888	http://www.bardstown.kyschools.us/protected/GeneralError.aspx?aspxerrorpath=/bardstownearlychildhoodeducationcenter_home.aspx	Bardstown Early Childhood Education Centers	0.0	113.0
+24889	http://insurance.ky.gov/home.aspx?div_id=12	Insurance Legal Services	0.0	235.0
+24890	http://insurance.ky.gov/home.aspx?div_id=15	Property and Casualty Division	0.0	237.0
+24891	http://dentistry.ky.gov/	Dentistry, Board of	2003.0	63.0
+24892	http://www.washington.k12.ky.us/	Washington County	1998.0	2.0
+24893	http://www.glendover.fcps.net/	Glendover Elementary School	2001.0	106.0
+24895	http://www.anderson.k12.ky.us/emmab.wardelementary_home.aspx	Emma B. Ward Elementary School	2011.0	210.0
+24898	http://www.hopkins.kyschools.us/madisonvillenorth.cfm?subpage=617575	Madisonville North Hopkins High School	0.0	2381.0
+24899	http://floyd.des.schoolfusion.us/modules/slideshow/org_display_slideshow.php?id=152747&sessionid=d0cdf2177adedffa7b8b06446f425752	Duff Elementary School	0.0	21.0
+24900	http://mccrearycountymiddle.ky.mcm.schoolinsites.com/	McCreary County Middle School	2011.0	23.0
+24901	http://www.greensburgonline.com/	Greensburg	2003.0	359.0
+24902	http://rockcastle.kyschools.us/mves/	Mt. Vernon Elementary School	2009.0	173.0
+24903	http://www.thinkkentucky.com/kyedc/kybizince.aspx	Financial Incentives, Department for	2006.0	47.0
+24904	http://www.eku.edu/	EKU Web site	1996.0	439.0
+24905	http://women.ky.gov/Pages/default.aspx	Women, Kentucky Commission on	2013.0	21.0
+24906	http://www.mccrearylibrary.org	Mccreary County Public Library District	2003.0	23.0
+24907	http://www.franklin.kyschools.us/bms.aspx	Bondurant Middle School	2012.0	379.0
+24908	http://www.madisonvillegov.com/Madisonville_Kentucky/	Madisonville	2010.0	188.0
+24909	http://www.jefferson.k12.ky.us/schools/high/atherton/index.html	Atherton High School	2002.0	13.0
+24910	http://www.daviessky.org/	Daviess	1999.0	118.0
+24912	http://taylorcountypubliclibrary.org	Taylor County Public Library	2003.0	25.0
+24913	http://www.floyd.bles.schoolfusion.us/	Betsy Layne Elementary School	2010.0	215.0
+24914	http://water.ky.gov/Pages/default.aspx	Water, Division of	2010.0	256.0
+24915	http://www.kycares.net/	KyCARES: Kentucky Resource Directory	2000.0	2581.0
+24916	http://www.owen.kyschools.us/	Owen County	2006.0	434.0
+24917	http://pikecounty.ky.pch.schoolinsites.com/	Pike County Central High School	2009.0	25.0
+24918	http://www.bardstown.kyschools.us/protected/GeneralError.aspx?aspxerrorpath=/bardstownelementaryschool_home.aspx	Bardstown Elementary School	0.0	113.0
+24919	http://www.madisoncountyky.us/	Madison	2003.0	270.0
+24920	http://pt.ky.gov/Pages/default.aspx	Physical Therapy, Board of	2013.0	26.0
+24921	http://www.cityofflorenceky.com/	Florence	2000.0	226.0
+24923	http://ag.ky.gov/criminal/pac/pages/attorneys.aspx	Attorneys, Commonwealth	2012.0	6.0
+24925	http://www.e-bernstadt.k12.ky.us/	East Bernstadt Independent	2001.0	2735.0
+24926	http://www.warrencountyschools.org/school_home.aspx?schoolid=21	Rockfield Elementary School	2011.0	19326.0
+24927	http://www.warrencountyschools.org/school_home.aspx?schoolid=22	Warren Elementary School	2011.0	18130.0
+24928	http://www.cityofmayfield.org/	Mayfield	2004.0	66.0
+24929	http://kreab.ky.gov/Pages/default.aspx	Real Estate Appraisers Board	2012.0	32.0
+24930	http://fhes.nelson.kyschools.us/	Foster Heights Elementary School	2007.0	130.0
+24931	http://www.warrencountyschools.org/school_home.aspx?schoolid=3	Warren Central High School	2011.0	18622.0
+24932	http://www.hopkins.k12.ky.us/prideelementary.cfm?subpage=617580	Pride Elementary School	0.0	1860.0
+24933	http://heritage.ky.gov/kaahc/	African-American Heritage Commission, Kentucky	2008.0	5.0
+24934	http://www.glasgow.kyschools.us/	Glasgow Independent	2007.0	984.0
+24936	http://www.hardin.k12.ky.us/creekside/	Creekside Elementary School	2006.0	39.0
+24937	http://finance.ky.gov/offices/support/pages/realproperties.aspx	Real Properties, Division of	2012.0	9.0
+24938	http://www.kyepsb.net/assessment/	Professional Learning and Assessment, Division of	2004.0	4.0
+24939	http://www.grantco.org/	Grant	1999.0	2.0
+24942	http://www.lewis.k12.ky.us/	Lewis County	1998.0	2.0
+24943	http://www.paris.k12.ky.us/schools/parismiddlehome.aspx	Paris Middle School	2012.0	95.0
+24944	http://www.marion.kyschools.us/school_home.aspx?schoolid=3	St. Charles Middle School	2013.0	1237.0
+24946	http://www.knott.k12.ky.us/knottcountycentralhighschool_home.aspx	Knott County Central High School	2010.0	376.0
+24948	http://www.friendshipcity.com/	Erlanger	1999.0	492.0
+24949	http://www.harrison.kyschools.us/	Harrison County	2006.0	441.0
+24950	http://www.fcps.net/schools/middle/tates-creek-	Tates Creek Middle School	2008.0	15.0
+24951	http://www.jefferson.k12.ky.us/schools/middle/olmstednorth/index.html	Frederick Law Olmsted Academy North	2008.0	21.0
+24952	http://eastridge.ky.pch.schoolinsites.com/	East Ridge High School	2009.0	12.0
+24953	http://ag.ky.gov/criminal/pac/Pages/default.aspx	Unified Prosecutorial System	2012.0	5.0
+24954	http://floyd.oes.schoolfusion.us/?sessionid=d0cdf2177adedffa7b8b06446f425752&t	Osborne Elementary School	0.0	260.0
+24957	http://www.henderson.kyschools.us/hchs/StudentLife/DailyAnnouncements.aspx	Henderson County High School	2010.0	0.0
+24959	http://www.lagrangeky.net	La Grange	2004.0	26.0
+24960	http://www.gmpl.org	Goodnight Memorial Library	2011.0	21.0
+24962	http://www.caldwell.k12.ky.us/portal/school_list	Caldwell County	2011.0	22.0
+24963	http://www.barren.k12.ky.us/school_home.aspx?schoolid=2	Trojan Academy High School	2008.0	2496.0
+24965	http://www.ced.ky.gov/kyedc/existbus.aspx?param=0	Regional Development, Department for	2006.0	43.0
+24966	http://chfs.ky.gov/dfrcvs/kccvs/	Community Volunteerism and Service, Kentucky Commission on	2008.0	22.0
+24968	http://www.butlerschools.net/	Butler County	2008.0	1110.0
+24969	http://dpa.ky.gov/pa.htm	Protection and Advocacy Division	2009.0	64.0
+24970	http://www.murrayky.gov/	Murray	2004.0	134.0
+24971	http://www.barren.k12.ky.us/school_home.aspx?schoolid=9	Temple Hill Elementary School	2008.0	2580.0
+24973	http://www.pulaskielementary.com/	Pulaski Elementary School	2002.0	198.0
+24974	http://www.wtownky.org/	Williamstown	2002.0	80.0
+24976	http://www.cynthianalibrary.org	Cynthiana-Harrison County Public Library	2004.0	1.0
+24977	http://www.oldham.kyschools.us/nohs/	North Oldham High School	2007.0	880.0
+24978	http://hcplky.org/wordpress/	Hancock County Public Library	2013.0	32.0
+24979	http://dpa.ky.gov/	Public Advocacy, Department of	2003.0	64.0
+24983	http://www.kaco.org/	Kentucky Association of Counties	2000.0	162.0
+24984	http://finance.ky.gov/Pages/default.aspx	Finance and Administration Cabinet	2012.0	260.0
+24985	http://www.butlerschools.net/school_home.aspx?schoolid=1	Butler County High School	2010.0	839.0
+24988	http://www.augusta.k12.ky.us/school_home.aspx?schoolid=1	Augusta High School	2011.0	656.0
+24989	http://www.ludlow.k12.ky.us/school_home.aspx?schoolid=2	Mary A. Goetz Elementary School	2012.0	1574.0
+24990	http://www.martincolibrary.com/location_view.aspx?id=5	Rufus M. Reed Public Library	2012.0	714.0
+24991	http://www.boone.kyschools.us/school_home.aspx?schoolid=12	Collins Elementary School	2013.0	1499.0
+24993	http://ww1.mccrackencountyschools.net/	McCracken County	2014.0	0.0
+24995	http://www.lee.kyschools.us/	Lee County	2007.0	764.0
+24996	http://grayson.lawler.schooldesk.net/	Oran P. Lawler Elementary School	2011.0	51.0
+24997	http://www.jefferson.k12.ky.us/schools/high/manual/index.htm	DuPont Manual High School	2007.0	39.0
+24999	http://www.bsms.fcps.net/	Bryan Station Traditional Magnet School	2001.0	117.0
+25000	http://chfs.ky.gov/dph/default.htm	Public Health, Department for	2005.0	351.0
+25001	http://www.kysu.edu/	KSU Web site	1997.0	2509.0
+25003	http://www.pikeville.k12.ky.us/school_home.aspx?schoolid=1	Pikeville High School	2011.0	418.0
+25005	http://courts.ky.gov/Pages/default.aspx	Kentucky Court of Justice	2012.0	418.0
+25006	http://www.leslielibrary.com	Leslie County Public Library	2007.0	9.0
+25008	http://www.pikeville.k12.ky.us/	Pikeville Independent	2001.0	408.0
+25010	http://www.bourbon.kyschools.us/	Bourbon County	2007.0	1906.0
+25011	http://www.oldham.k12.ky.us/ochs/	Oldham County High School	1998.0	343.0
+25012	http://eppcoig.ky.gov/Pages/default.aspx	Inspector General, Office of (EPPC)	2010.0	8.0
+25013	http://revenue.ky.gov/ombudsman.htm	Taxpayer Ombudsman, Office of the	2005.0	499.0
+25014	http://floyd.mcdowell.schoolfusion.us/?sessionid=a5c443c4a2b2e927af82df8efe701ed3&t	McDowell Elementary School	0.0	469.0
+25015	http://www.kyagr.com/strategic/	Strategic Planning and Administration, Office for (Department of Agriculture)	2007.0	2.0
+25016	http://www.jefferson.k12.ky.us/schools/high/western/index.html	Western High School Early College	2002.0	19.0
+25019	http://www.hcpl.org	Henderson County Public Library	2000.0	71.0
+25020	http://www.mclib.net	Mccracken County Public Library	2000.0	77.0
+25021	http://www.brandenburgky.org/	Brandenburg	2002.0	30.0
+25022	http://www.btown.k12.ky.us/protected/GeneralError.aspx?aspxerrorpath=/bardstownhighschool_home.aspx	Bardstown High School	2013.0	113.0
+25023	http://www.oldham.kyschools.us/buckner/	Buckner Elementary School	2012.0	53.0
+25024	http://www.kentuckycenter.org/	Center for the Arts, Kentucky	2001.0	141.0
+25025	http://educationcabinet.ky.gov/	Education Cabinet	2004.0	585.0
+25026	http://insurance.ky.gov/	Insurance, Department of	0.0	258.0
+25027	http://www.wolfe.kyschools.us/	Wolfe County	2009.0	1534.0
+25028	http://www.kbta.ky.gov/Pages/default.aspx	Tax Appeals, Board of	2011.0	7.0
+25031	http://www.simpson.k12.ky.us/school_home.aspx?schoolid=1	Franklin-Simpson High School	2008.0	1196.0
+25032	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=28	Woodland Middle School	2009.0	4803.0
+25034	http://www.westpoint.kyschools.us/	West Point Independent	2009.0	7.0
+25035	http://www.elliott.kyschools.us/	Elliott County	2008.0	952.0
+25036	http://www.gallatin.kyschools.us/	Gallatin County	2008.0	993.0
+25037	http://muhlenberg.kyschools.us/ges/	Greenville Elementary School	2011.0	27.0
+25038	http://www.kycss.org/index2.php	Center for School Safety, Board of Directors for the	2012.0	199.0
+25039	http://chfs.ky.gov/dph/info/phps/	Public Health Protection and Safety, Division of	2005.0	3.0
+25041	http://paris.k12.ky.us/schools/parishighhome.aspx	Paris High School	2011.0	74.0
+25042	http://www.carlisle.kyschools.us/	Carlisle County	2008.0	2082.0
+25043	http://southeast.kctcs.edu/	Gateway Community & Technical College	2002.0	744.0
+25044	http://parks.ky.gov/site_map.aspx?error=404	Golf Courses, Division of	2011.0	368.0
+25045	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=4	Crabbe Elementary School	2011.0	1170.0
+25046	http://www.kyepsb.net/legal/	Legal Services, Division of	2004.0	11.0
+25047	http://www.franklin.kyschools.us/cles.aspx	Collins Lane Elementary School	2012.0	329.0
+25048	http://www.fclib.org/page.php?33	Floyd County Public Library	0.0	99.0
+25050	http://www.ashland.k12.ky.us/school_home.aspx?schoolid=1	Paul G. Blazer High School	2011.0	1245.0
+25051	https://kyret.ky.gov/Pages/default.aspx	Kentucky Retirement Systems	2013.0	200.0
+25052	http://www.owen.k12.ky.us/school_home.aspx?schoolid=4	Owen County Primary	2011.0	379.0
+25053	http://www.kyagr.com/marketing/	Agricultural Marketing and Product Promotion, Office for	2012.0	113.0
+25055	http://www.laurel.k12.ky.us/	Laurel County	1998.0	3769.0
+25056	http://www.owen.k12.ky.us/school_home.aspx?schoolid=3	Owen County Elementary School	2011.0	2390.0
+25057	http://www.dayton.k12.ky.us/	Dayton Independent	2000.0	1093.0
+25058	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=33	Kenton Elementary School	2009.0	4910.0
+25059	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=32	Hinsdale Elementary School	2009.0	4876.0
+25060	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=31	Ft. Wright Elementary School	2009.0	4817.0
+25061	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=30	Caywood Elementary School	2009.0	4940.0
+25062	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=37	Summit View Elementary School	2009.0	4902.0
+25063	http://ada.ky.gov/	ADA Coordinator, Office of the	2003.0	44.0
+25064	http://www.breathitt.kyschools.us/	Breathitt County	2011.0	377.0
+25065	http://www.kenton.k12.ky.us/school_home.aspx?schoolid=34	Piner Elementary School	2009.0	4964.0
+25068	http://southcentral.kctcs.edu/	Southcentral Kentucky Community and Technical College	2013.0	361.0
+25069	http://www.rockcastlelibrary.org/	Rockcastle County Public Library	2012.0	16.0
+25071	http://www.grchs.com/	George Rogers Clark High School	2011.0	1.0
+25072	http://www.ashlandky.gov/	Ashland	2009.0	1306.0
+25074	http://www.corbinhigh.org/	Corbin High School	2013.0	55.0
+25075	http://www.jefferson.k12.ky.us/schools/middle/carrithers/index.html	Carrithers Middle School	0.0	15.0
+25076	http://www.kctcs.edu/	KCTCS Web site	2002.0	465.0
+25078	http://kyem.ky.gov/Pages/default.aspx	Emergency Management, Division of	2012.0	249.0
+25079	http://www.dcplibrary.org	Daviess County Public Library District	2005.0	178.0
+25080	http://www.boyle.kyschools.us/	Boyle County	2013.0	1054.0
+25081	http://www.southgate.k12.ky.us/	Southgate Independent	2000.0	27.0
+25082	http://www.fcps.net/schools/elementary/russell-cave	Russell Cave Elementary School	2008.0	37.0
+25083	http://www.cityofindependence.org/	Independence	2000.0	113.0
+25084	http://www.warrencountyschools.org/school_home.aspx?schoolid=19	Rich Pond Elementary School	2011.0	19565.0
+25085	http://www.wku.edu/finadmin/financial/	WKU Financial Statements	2011.0	2.0
+25086	http://www.franklin.kyschools.us/whhs.aspx	Western Hills High School	2012.0	431.0
+25087	http://www.oldhampl.org	Oldham County Public Library	1998.0	29.0
+25088	http://www.newportwildcats.org/school_home.aspx?schoolid=1	Newport High School	2010.0	1174.0
+25089	http://www.claysmill.fcps.net/	Clays Mill Elementary School	2001.0	110.0
+25090	http://www.martincolibrary.com	Martin County Public Library	2004.0	709.0
+25091	http://www.daviesskyschools.org/school_home.aspx?schoolid=12	Deer Park Elementary School	2010.0	3087.0
+25093	http://www.clarkschools.net/hannahmcclure/	Hannah McClure Elementary School	2008.0	8.0
+25094	http://klarb.ky.gov/Pages/default.aspx	Landscape Architects, Board of	2013.0	15.0
+25096	http://www.fultonlibrary.com	Fulton Public Library	2003.0	15.0
+25097	http://transportation.ky.gov/maintenance/Pages/default.aspx	Maintenance, Division of	2011.0	31.0
+25098	http://www.warrencountyschools.org/school_home.aspx?schoolid=4	Warren East High School	2011.0	18023.0
+25099	http://floyd.ams.schoolfusion.us/?sessionid=40520e8127406065087c69ca62652248&t	Adams Middle School	0.0	432.0
+25101	http://www.wku.edu/	WKU Web site	1998.0	5455.0
+25102	http://dpa.ky.gov/div/lawops.htm	Law Operations, Division of	2009.0	2.0
+25103	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=6	T.C. Cherry Elementary	2010.0	2102.0
+25104	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=5	Potter Gray Elementary School	2010.0	3820.0
+25105	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=4	Parker-Bennett-Curry Elementary School	2010.0	2242.0
+25106	http://www.b-g.k12.ky.us/school_home.aspx?schoolid=3	Dishman-McGinnis Elementary School	2010.0	2248.0
+25107	http://forestry.ky.gov/Pages/default.aspx	Forestry, Division of	2010.0	80.0
+25108	http://www.henderson.kyschools.us/default.aspx?alias=www.henderson.kyschools.us/northmiddle	North Middle School	2010.0	62.0
+25109	http://www.fcps.net/schools/middle/leestown	Leestown Middle School	2008.0	14.0
+25110	http://www.perry.kyschools.us/	Perry County	2007.0	792.0
+25111	http://ovr.ky.gov/programservices/	Program Services, Division of	2009.0	2.0
+25113	http://www.jefferson.k12.ky.us/schools/middle/crosby/index.html	Crosby Middle School	2009.0	10.0
+25115	http://www.franklin.kyschools.us/	Franklin County	2007.0	322.0
+25116	http://www.uky.edu/EVPFA/Controller/sponsor.htm	UK Financial Statements	2008.0	20.0
+25117	http://www.livingstonco.ky.gov/library	Livingston County Public Library	2009.0	48.0
+25118	http://www.newportky.gov/	Newport	2005.0	62.0
+25119	http://djj.ky.gov/	Administrative Services, Division of (Juvenile Justice)	2003.0	16.0
+25121	http://www.boone.kyschools.us/school_home.aspx?schoolid=20	North Pointe Elementary School	2013.0	1265.0
+25123	http://www.henry.k12.ky.us/school_home.aspx?schoolid=3	Campbellsburg Elementary School	2012.0	1280.0
+25124	http://www.bcpl.org	Boone County Public Library District	1998.0	195.0
+25125	http://www.bcplib.org	Bullitt County Library District	1999.0	20.0
+25126	http://louisville.edu/finance/controller/finst	UofL Financial Statements	2012.0	0.0
+25129	http://www.jefferson.k12.ky.us/schools/high/iroquois/index.html	Iroquois High School	2004.0	0.0
+25131	http://woodfordcountylibrary.com/	Logan Helm Woodford County Library	2004.0	69.0
+25132	http://www.whitley.kyschools.us/	Whitley County	2009.0	71.0
+25133	http://ww2.bullittschools.org/mtwashingtonms/	Mt. Washington Middle School	2011.0	21.0
+25134	http://www.murraystate.edu/	MuSU Web site	1998.0	2050.0
+25136	http://www.boone.kyschools.us/school_home.aspx?schoolid=3	Conner High School	2013.0	1407.0
+25137	http://www.hancock.k12.ky.us/	Hancock County	1996.0	395.0
+25138	http://www.bellevue.k12.ky.us/default.asp?l=0&lmid=&pn=schools2&divisionid=&departmentid=&subdepartmentid=&subp=school&schoolid=3914	Bellevue High School	0.0	1129.0
+25141	http://www.fcps.net/schools/elementary/southern	Southern Elementary School	2008.0	37.0
+25142	http://www.cityofwalton.org/	Walton	1999.0	229.0
+25144	http://www.owsley.kyschools.us/site/default.aspx?PageID=1	Owsley County	2012.0	11.0
+25145	http://chfs.ky.gov/os/ohrm/default.htm	Human Resource Management, Office of	2009.0	2.0
+25146	http://kyae.ky.gov/	Department for Adult Education and Literacy	2005.0	2.0
+25147	http://grayson.gcms.schooldesk.net/	Grayson County Middle School	2011.0	58.0
+25149	http://jefferson.kctcs.edu/	Gateway Community & Technical College	2002.0	538.0
+25151	http://www.uky.edu/IRPE/fast_facts/fact_booklet.html	UK fact book and other reports	2009.0	456.0
+25152	http://www.wbhmlibrary.org/	William B. Harlan Memorial Library	2008.0	9.0
+25153	http://ilearn.clarkschools.net/web/conkwright/	Conkwright Middle School	2013.0	94.0
+25154	http://www.lfpl.org	Louisville Free Public Library	1997.0	5755.0
+25155	http://kyboels.ky.gov/Pages/default.aspx	Professional Engineers and Land Surveyors, Board of Registration for	2013.0	27.0
+25156	http://www.boone.kyschools.us/school_home.aspx?schoolid=13	Erpenbeck Elementary School	2013.0	1600.0

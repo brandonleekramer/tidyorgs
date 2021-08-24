@@ -1,0 +1,404 @@
+NodeId	NodeURL	NodeName	Year	pages
+51941	http://www.sf.k12.sd.us/	Sioux Falls School	1998.0	1695.0
+51942	http://hand.sdcounties.org/	Hand County	2011.0	27.0
+51943	http://pierre.k12.sd.us/	Pierre School	1997.0	21.0
+51944	http://www.fortpierre.com/	Fort Pierre	1998.0	102.0
+51945	http://tridel.k12.sd.us/	Tripp-Delmont School	2001.0	24.0
+51946	http://www.scotland.k12.sd.us/SitePages/Home.aspx	Scotland School	2012.0	3.0
+51947	http://www.lakecountysd.com	Lake County	2007.0	39.0
+51948	http://dps.sd.gov/	Public Safety	2009.0	103.0
+51949	http://sisseton.k12.sd.us/default.aspx	Sisseton School	2009.0	8.0
+51950	http://www.aberdeen.sd.us/	Aberdeen	2000.0	1191.0
+51951	http://www.gettysburgsd.net/	Gettysburg	2007.0	312.0
+51952	http://www.winnersd.com/	Winner	2001.0	33.0
+51953	http://sanborncentral.com/	Sanborn Central School	2004.0	34.0
+51954	http://www.yanktonchristianschool.com/	Yankton Christian School	2003.0	11.0
+51955	http://doc.sd.gov/	Corrections	2008.0	108.0
+51956	http://viborg-hurley.k12.sd.us/	Viborg-Hurley School	2012.0	9.0
+51957	http://www.castlewoodcity.com/	Castlewood	2002.0	124.0
+51958	http://legis.sd.gov/	Legislative Research Council	2013.0	7.0
+51959	http://southeastareacoop.org/	Southeast Area Coop School	2009.0	0.0
+51960	http://www.bigstonecitysd.govoffice2.com/	Big Stone City	2007.0	65.0
+51961	http://www.siouxlandlib.org/contactus/branches/brandon.aspx	Brandon Branch Library	2007.0	0.0
+51962	http://www.woonsocketsd.com	Woonsocket Community Library	2000.0	2.0
+51963	http://colome.k12.sd.us/	Colome School	2001.0	8.0
+51964	http://www.bowdlesd.govoffice2.com/	Bowdle	2008.0	652.0
+51965	http://sdic.sd.gov/	South Dakota Investment Council	2010.0	9.0
+51966	http://www.salemsd.com/	Salem	2001.0	123.0
+51967	http://www.herreidsd.com/	Herreid	2006.0	128.0
+51968	http://philip.k12.sd.us/education/school/school.php?sectionid=4	Haakon School	2009.0	2.0
+51970	http://sdsos.gov/elections/default.aspx	South Dakota Elections	2011.0	601.0
+51971	http://www.gwtc.net/~tclib/	Tripp County Library - Grossenburg Memorial	2000.0	2.0
+51972	http://www.arlingtonsd.com/	Arlington	2000.0	28.0
+51973	http://www.colmansd.com/	Colman	2007.0	38.0
+51974	http://zionmobridge.org/home/2182/zls.htm	Zion Lutheran (Mobridge, SD) School	2008.0	40.0
+51975	http://dhs.sd.gov/	Human Services	2007.0	177.0
+51976	http://www.cityofhoward.com/	Howard	2009.0	144.0
+51977	http://www.faith.govoffice.com/	Faith	2006.0	55.0
+51978	http://www.brandonsd.com/	Brandon	2000.0	237.0
+51980	http://wagner.k12.sd.us/education/school/school.php?sectionid=3	Wagner School	2008.0	3.0
+51981	http://www.bellefourche.com/	Belle Fourche	1997.0	8.0
+51982	http://brulecounty.org/	Brule County	2006.0	29.0
+51983	http://www.brookingslibrary.org	Brookings Public Library	2000.0	819.0
+51984	http://www.trippsd.com/	Tripp	2003.0	13.0
+51985	http://doe.sd.gov/	Education	2005.0	353.0
+51986	http://www.cityofwagner.org/	Wagner	2008.0	157.0
+51988	http://avon.k12.sd.us/	Avon School	1999.0	53.0
+51990	http://www.lemmonsd.com/	Lemmon	1999.0	68.0
+51991	http://wilmot.k12.sd.us/	Wilmot School	2000.0	8.0
+51992	http://www.tlsd.us/	Timber Lake	2004.0	11.0
+51993	http://flandreau.k12.sd.us/education/components/scrapbook/default.php?sectionid=3&url_redirect=1	Flandreau School	2010.0	8.0
+51994	http://www.tcsdk12.org/	Todd County School	1998.0	545.0
+51996	http://open.sd.gov/?loc=schools	Open Schools	0.0	2.0
+51997	http://bellefourche.k12.sd.us/	Belle Fourche School	2001.0	35.0
+51998	http://www.spinkcounty-sd.org/	Spink County	2008.0	33.0
+51999	http://www.wessingtonsprings.com/	Wessington Springs	1998.0	45.0
+52000	http://www.beresfordsd.com/	Beresford	2002.0	660.0
+52002	http://iroquois.k12.sd.us/	Iroquois School	2001.0	30.0
+52003	http://britton.k12.sd.us/site/default.aspx?PageID=1	Britton-Hecla School	2014.0	4.0
+52004	http://volgachristianschool.org/	Volga Christian School	2007.0	57.0
+52005	http://www.sunshinebible.org/	Sunshine Bible Academy School	2000.0	56.0
+52007	http://doland.k12.sd.us/	Doland School	1999.0	19.0
+52008	http://www.hurleysd.us/	Hurley	2007.0	9.0
+52009	http://flandreau.k12.sd.us/education/components/scrapbook/default.php?sectionid=177	Moody County Resource Center	2011.0	8.0
+52010	http://echs.k12.sd.us/	Edmunds Central School	2001.0	44.0
+52011	http://www.cityofvalleysprings.com/	Valley Springs	2006.0	201.0
+52012	http://sd.gov/governor/	Governor Dennis Daugaard	2010.0	71.0
+52014	http://www.sddot.com/	Transportation	2001.0	202.0
+52016	https://public.rcas.org/Pages/Default.aspx	Rapid City School	2008.0	149.0
+52017	http://www.mitchelltech.edu/	Mitchell Technical Institute	2005.0	679.0
+52018	http://baltic.k12.sd.us/	Baltic School	2000.0	6.0
+52019	http://vermillionpubliclibrary.org/	Vermillion Public Library	2013.0	278.0
+52020	http://www.vermillion.us/	Vermillion	2006.0	373.0
+52021	http://abo.k12.sd.us/	Sully Area Library	2002.0	20.0
+52022	http://selby.k12.sd.us/	Selby Area School	2002.0	16.0
+52023	http://armour.k12.sd.us/	Armour School	2001.0	27.0
+52024	http://beresford.k12.sd.us/site/default.aspx?PageID=1	Beresford School	2011.0	7.0
+52025	http://www.mennosd.org/	Menno	2002.0	344.0
+52026	http://www.delmontsd.org/	Delmont	2001.0	31.0
+52028	http://www.siouxlandlib.org/contactus/branches/caille.aspx	Caille Branch Library	2007.0	0.0
+52029	http://www.sturgis-sd.gov/	Sturgis	2006.0	643.0
+52031	http://chamberlain.k12.sd.us/	Chamberlain School	2001.0	81.0
+52032	http://www.pollocksouthdakota.com/	Pollock	2003.0	39.0
+52033	http://www.beadlecounty.org/	Beadle County	2002.0	2581.0
+52034	http://southcentral.k12.sd.us/	South Central School	2010.0	15.0
+52035	http://ethan.k12.sd.us/	Ethan School	2000.0	60.0
+52036	http://www.huronsd.com/	Huron	1998.0	6.0
+52037	http://lemmon.k12.sd.us/	Lemmon School	2001.0	11.0
+52038	http://langford.k12.sd.us/	Langford School	2002.0	48.0
+52039	http://st-thomas.k12.sd.us/	St. Thomas School	1999.0	17.0
+52040	http://www.watertownsd.us/	Watertown	2005.0	1185.0
+52041	http://parker.k12.sd.us/site/default.aspx?PageID=1	Parker School	2014.0	3.0
+52042	http://www.ipswich-sd.com/	Ipswich	2001.0	208.0
+52043	http://roberts.sdcounties.org/	Roberts County	2011.0	22.0
+52044	http://www.freemansd.com/	Freeman Public Library	1999.0	1751.0
+52045	http://www.webstersd.com/	Webster	1998.0	483.0
+52046	http://www.letchersd.com/	Letcher	2001.0	37.0
+52047	http://oelrichs.k12.sd.us/	Oelrichs School	2001.0	14.0
+52048	http://lakepreston.k12.sd.us/SitePages/home%20page.aspx	Lake Preston School	2014.0	23.0
+52049	http://www.siouxfalls.org	Sioux Falls	1998.0	0.0
+52050	http://www.moodycounty.net/	Moody County	2008.0	28.0
+52051	http://www.johnson.senate.gov/public/	Senator Tim Johnson	2010.0	523.0
+52052	http://huron.k12.sd.us/education/district/district.php?sectionid=1	Huron School	2008.0	2.0
+52053	http://johnpaul2.org/	John Paul II School	2001.0	27.0
+52054	http://www.harrisburg.govoffice.com/	Harrisburg	2006.0	1172.0
+52055	http://bison.k12.sd.us/SitePages/Home%20Page.aspx	Bison School	2011.0	29.0
+52056	http://montrose.k12.sd.us/default.aspx	Montrose School	2011.0	36.0
+52057	http://hardingcounty.k12.sd.us/	Harding County School	2002.0	13.0
+52058	http://rpllib.sdln.net	R E Rawlins Municipal Library	2000.0	6.0
+52059	http://lyman.k12.sd.us/	Lyman School	2001.0	4.0
+52060	http://wall.k12.sd.us/	Wall School	2003.0	44.0
+52061	http://stanleycounty.org/	Stanley County	2008.0	424.0
+52063	http://www.armoursd.com/	Armour	1999.0	20.0
+52064	http://gregory.k12.sd.us/	Gregory School	2001.0	15.0
+52065	http://ujs.sd.gov/error.aspx?aspxerrorpath=/sc/default.aspx	Supreme Court Justice Glen Severson	2013.0	289.0
+52066	http://siouxfallslutheran.com	Sioux Falls Lutheran School	2002.0	43.0
+52067	http://rosholt.k12.sd.us/	Rosholt School	2002.0	16.0
+52068	http://www.redfield-sd.com/redfield	Redfield	2013.0	704.0
+52069	http://www.lakepreston.com/	Lake Preston	1998.0	116.0
+52070	http://www.huronsd.com/living-in-huron/huron-public-library	Huron Public Library	2011.0	4.0
+52071	http://butte.sdcounties.org/	Butte County	2011.0	55.0
+52072	http://hssd.k12.sd.us/education/school/school.php?sectionid=3	Hot Springs School	2010.0	1.0
+52073	http://castlewood.k12.sd.us/education/components/layout/default.php?sectionid=3&url_redirect=1	Castlewood School	0.0	1.0
+52074	http://dss.sd.gov/	Social Services	2006.0	759.0
+52075	http://kimball.k12.sd.us/	Kimball School	2000.0	22.0
+52076	http://lead-deadwood.k12.sd.us/	Lead-Deadwood School	1998.0	20.0
+52077	http://grantcountylibrary.com	Grant County Public Library	2004.0	32.0
+52078	http://www.fredericksd.com/	Frederick	2007.0	18798.0
+52079	http://www.brookingscountysd.gov/	Brookings County	2004.0	555.0
+52080	http://www.cityofspearfish.com/	Spearfish	2006.0	81.0
+52081	http://bowdle.k12.sd.us/	Bowdle School	2001.0	10.0
+52082	http://irene-wakonda.k12.sd.us/	Irene-Wakonda School	2007.0	22.0
+52083	http://timberlakeschool.org/	Timber Lake School	2012.0	1.0
+52084	http://www.southeasttech.edu/	Southeast Technical Institute	2002.0	325.0
+52085	http://www.pennco.org/	Pennington County	2001.0	626.0
+52086	http://www.mobridge.org/	Mobridge	1998.0	375.0
+52087	http://coltonsd.com/	Colton	2009.0	37.0
+52088	http://unioncountysd.org/	Union County	2008.0	81.0
+52089	http://webster.k12.sd.us/	Webster School	0.0	183.0
+52090	http://www.chamberlainsd.org/	Chamberlain	1998.0	610.0
+52091	http://www.claycountysd.org/	Clay County	2004.0	28.0
+52092	http://howard.k12.sd.us/	Howard School	2000.0	15.0
+52093	http://cantonsd.org/	Canton	2013.0	0.0
+52094	http://teaschools.k12.sd.us/site/default.aspx?PageID=1	Tea Area Schools	2012.0	32.0
+52095	http://sdda.sd.gov/	Agriculture	2010.0	533.0
+52096	http://www.sisseton.com/	Sisseton	1999.0	30.0
+52098	http://bit.sd.gov/	Bureau of Information and Telecommunications	2010.0	199.0
+52099	http://dor.sd.gov/	Revenue	2012.0	598.0
+52100	http://www.siouxfallschristian.org/	Sioux Falls Christian Schools	0.0	154.0
+52101	http://mitlib.sdln.net	Mitchell Public Library	2000.0	186.0
+52102	http://www.brown.sd.us/	Brown County	2000.0	225.0
+52103	http://charlesmix.sdcounties.org/	Charles Mix County	2011.0	25.0
+52104	http://svs.k12.sd.us	Sioux Valley School	2002.0	61.0
+52105	http://open.sd.gov/?loc=counties	Open Counties	0.0	2.0
+52106	http://www.rcgov.org/Library/	Rapid City Public Library	2011.0	71.0
+52107	http://dakotavalley.k12.sd.us/default.aspx	Dakota Valley School	2012.0	211.0
+52108	http://www.clarksd.com/	Clark	1999.0	69.0
+52109	http://www.cityofmitchell.org/	Mitchell	2001.0	907.0
+52110	http://www.garysd.com/	Gary	2006.0	182.0
+52111	http://noem.house.gov/	Representative Kristi L. Noem	2011.0	390.0
+52112	http://www.hudsonsd.org/	Hudson	2003.0	1.0
+52114	http://www.kimballsd.org/	Kimball	2000.0	118.0
+52115	http://www.siouxlandlib.org/contactus/branches/baltic.aspx	Baltic Branch Library	2009.0	0.0
+52116	http://www.elkpoint.org/	Elk Point	2000.0	40.0
+52117	http://www.alpenasd.com/	Alpena	2008.0	9.0
+52118	http://puc.sd.gov/kristiefiegen/default.aspx	Kristie Fiegen	2011.0	2.0
+52119	http://www.bhsu.edu/	Black Hills State University	1998.0	5338.0
+52120	http://deuel.k12.sd.us/default.aspx	Deuel School	2013.0	11.0
+52121	http://www.brittonpubliclibrary.com	Britton Public Library	2009.0	20.0
+52122	http://www.cityofflandreau.com/	Flandreau	2002.0	95.0
+52123	http://tri-valley.k12.sd.us/	Tri-Valley School	2001.0	42.0
+52124	http://www.willowlakesd.org/	Willow Lake	2011.0	1.0
+52125	http://ysd.k12.sd.us/pages/default.aspx	Yankton School	2013.0	13.0
+52126	http://aberdeen.k12.sd.us/	Aberdeen School	1996.0	74.0
+52127	http://www.minnehahacounty.org/	Minnehaha County	2000.0	8.0
+52128	http://www.cresbardsd.com/	Cresbard	2004.0	21.0
+52129	http://iroquoissd.com/	Iroquois	2008.0	10.0
+52130	http://www.clearlakesd.com/	Clear Lake	2002.0	16.0
+52131	http://www.cityofbrookings.org/	Brookings	2001.0	997.0
+52132	http://www.mtvernonsd.com/	Mount Vernon	2004.0	28.0
+52133	http://centerville.k12.sd.us/	Centerville School	2000.0	4.0
+52134	http://boa.sd.gov/	Bureau of Administration	2013.0	32.0
+52135	http://summit.k12.sd.us/default.aspx	Summit School	2012.0	22.0
+52136	http://sdsbvi.northern.edu	South Dakota School for the Blind & Visually Impaired	2006.0	57.0
+52137	http://doh.sd.gov/	Health	2007.0	943.0
+52138	http://www.baltic.govoffice.com/	Baltic	2006.0	65.0
+52139	http://faith.k12.sd.us/	Faith School	2001.0	19.0
+52140	http://warner.k12.sd.us/	Warner School	2000.0	2.0
+52142	http://www.hughescounty.org/	Hughes County	2007.0	42.0
+52143	https://sdsos.gov/default.aspx	Secretary of State Jason M. Gant	2011.0	617.0
+52144	http://bhr.sd.gov/	Bureau of Human Resources	2012.0	25.0
+52145	http://fallriver.sdcounties.org/	Fall River County	2011.0	215.0
+52147	http://whiteriverschools.com/	White River School	2014.0	5.0
+52148	http://atg.sd.gov/	Attorney General Marty Jackley	2010.0	349.0
+52149	http://bonhomme.k12.sd.us/	Bon Homme School	2001.0	52.0
+52150	http://northsiouxcity-sd.gov	North Sioux City Community Library	2006.0	7.0
+52151	http://freeman.k12.sd.us	Freeman School	1998.0	5.0
+52152	http://www.rootsweb.ancestry.com/~sdmcpher/	McPherson County	2008.0	18.0
+52153	http://www.canistotasd.com/	Canistota	2001.0	106.0
+52154	http://kadoka.k12.sd.us/education/school/school.php?sectionid=3	Kadoka School	2010.0	3.0
+52155	http://brookings.k12.sd.us/education/district/district.php?sectionid=1	Brookings School	2010.0	2.0
+52156	http://aberdeenroncalli.org/	Aberdeen Catholic School	2003.0	356.0
+52157	http://meade.k12.sd.us/	Meade School	1998.0	271.0
+52158	http://www.turnercountysd.com	Turner County	2010.0	13.0
+52159	http://www.milbanksd.com/	Milbank	1999.0	2.0
+52160	http://chester.k12.sd.us/	Chester School	1998.0	100.0
+52161	http://crazyhorse.k12.sd.us/	Crazy Horse School	2006.0	28.0
+52162	http://waverly.k12.sd.us/default.aspx	Waverly-South Shore School	2010.0	103.0
+52163	http://www.sdauditor.gov/	State Auditor Steve Barnett	2004.0	14.0
+52165	http://dupreesd.com/	Dupree	2005.0	14.0
+52166	http://www.shannon.ws/	Shannon County School	2002.0	78.0
+52167	http://ci.pierre.sd.us/	Pierre	2001.0	526.0
+52168	http://oldhamramona.k12.sd.us/	Oldham-Ramona School	2001.0	2.0
+52169	http://www.sullycounty.net	Sully County	2004.0	40.0
+52170	http://www.leolasd.com/	Leola	2008.0	54.0
+52171	http://cityofworthing.com/	Worthing	2008.0	84.0
+52172	http://www.desmet.k12.sd.us/	De Smet School	2000.0	71.0
+52175	http://bigstonecity.k12.sd.us/	Big Stone City School	2002.0	21.0
+52176	http://www.plankinton.com/	Plankinton	2001.0	5.0
+52178	http://day.sdcounties.org/	Day County	2011.0	20.0
+52179	http://www.centervillesd.com/	Centerville	2002.0	54.0
+52180	http://www.davisoncounty.org/	Davison County	2001.0	82.0
+52182	http://menno.k12.sd.us	Menno Community-School Library	2000.0	47.0
+52183	http://www.plattesd.org/	Platte	2000.0	251.0
+52184	http://www.sdrs.sd.gov/	South Dakota Retirement System	2005.0	152.0
+52185	http://www.henrysd.com/	Henry	2002.0	1.0
+52186	http://woonsocket.k12.sd.us/	Woonsocket School	2003.0	9204.0
+52187	http://willowlake.k12.sd.us/	Willow Lake School	2004.0	48.0
+52188	http://www.faulktoncity.org/	Faulkton	2001.0	157.0
+52189	http://www.hovensd.com/	Hoven	2004.0	80.0
+52191	http://www.springfieldsd.com/	Springfield	2001.0	42.0
+52192	http://kilian.edu/	Kilian Community College	2003.0	173.0
+52193	http://bfm.sd.gov/	Bureau of Finance and Management	2011.0	53.0
+52194	http://siouxlandlib.org/	Siouxland Libraries	2005.0	0.0
+52195	http://tourism.sd.gov/	Tourism	2011.0	10.0
+52196	http://florence.k12.sd.us/	Florence School	2002.0	1.0
+52197	http://397news.com/	Wage Memorial Library	2011.0	2.0
+52199	http://open.sd.gov/	OpenSD	0.0	2.0
+52201	http://www.boxelder.us/	Box Elder	2003.0	837.0
+52202	http://marion.k12.sd.us/	Marion School	2000.0	56.0
+52203	http://www.colman-egan.k12.sd.us/	Colman-Egan School	2000.0	10080.0
+52204	http://stmarycatholicschools.org/	St. Mary Catholic Schools	2003.0	1.0
+52205	http://gayvillevolin.k12.sd.us/_layouts/15/start.aspx#/SitePages/Home.aspx	Gayville-Volin School	2014.0	2.0
+52206	http://www.swc.tc/	Sisseton Wahpeton College	2002.0	44.0
+52207	http://puc.sd.gov/	Public Utilities Commission	2007.0	265.0
+52208	http://crowcreek.k12.sd.us/	Crow Creek School	2002.0	57.0
+52209	http://leadmethere.org/	Lead	2001.0	176.0
+52210	http://corsica.k12.sd.us/	Corsica School	1999.0	52.0
+52211	http://watertown.k12.sd.us/education/district/district.php?sectionid=1	Watertown School	2012.0	2.0
+52213	http://bennettco.k12.sd.us/site/default.aspx?PageID=1	Bennett County School	2011.0	3.0
+52214	http://mccookcentral.k12.sd.us/	McCook Central School	2001.0	6.0
+52215	http://www.custercountysd.com/	Custer County	2005.0	45.0
+52216	http://westcentral.k12.sd.us/	West Central School	2000.0	429.0
+52217	http://www.lakeareatech.edu/	Lake Area Technical Institute	2002.0	6.0
+52218	http://leola.k12.sd.us/	Leola School	2000.0	10901.0
+52219	http://www.faulkton.k12.sd.us/	Faulkton School	2001.0	215.0
+52220	http://www.sdtribalrelations.com/	Tribal Relations	2004.0	37.0
+52221	http://library.olc.edu/content.php?pid=576348	Oglala Lakota College Library Resource Center	2014.0	109.0
+52224	http://www.sfisk12.org/education/school/school.php?sectionid=3	St. Francis Indian School	2010.0	5.0
+52225	http://open.sd.gov/?loc=cities	Open Cities	0.0	2.0
+52226	http://www.sdreadytowork.com/	Governor's Office of Economic Development	2006.0	383.0
+52227	http://www.minercountysd.org/	Miner County	2008.0	178.0
+52228	http://canistota.k12.sd.us/default.aspx	Canistota School	2012.0	7.0
+52229	http://www.parkersd.org/	Parker	2003.0	133.0
+52230	http://www.meadecounty.org/	Meade County	2008.0	301.0
+52231	http://www.lakenorden.govoffice.com/	Lake Norden	2006.0	319.0
+52232	http://burke.k12.sd.us/	Burke School	2001.0	5.0
+52233	http://waubay.k12.sd.us/	Waubay School	2001.0	1.0
+52234	http://www.lincolncountysd.org/	Lincoln County	2008.0	98.0
+52235	http://www.watertownsd.us/index.aspx?NID=162	Watertown Regional Library	2013.0	1049.0
+52236	http://boa.sd.gov/divisions/procurement/	Office of Procurement Management	2013.0	53.0
+52237	http://newell.k12.sd.us/	Newell School	2000.0	22.0
+52238	http://wolsey-wessington.k12.sd.us/	Wolsey-Wessington School	2004.0	169.0
+52239	http://ipswich.k12.sd.us/education/school/school.php?sectionid=65	Ipswich School	2010.0	3.0
+52240	http://www.murdosd.com/	Murdo	2001.0	3033.0
+52241	http://vetaffairs.sd.gov/default.aspx	Veterans Affairs	2013.0	81.0
+52242	http://www.rcgov.org/	Rapid City	2001.0	650.0
+52243	http://winner.k12.sd.us/default.aspx	Winner School	2011.0	1.0
+52244	http://www.sdbor.edu/	Board of Regents	1998.0	9.0
+52245	http://highmore-harrold.k12.sd.us/	Highmore-Harrold School	2008.0	177.0
+52246	http://bridgewater-emery.k12.sd.us/default.aspx	Bridgewater-Emery School	2013.0	0.0
+52247	http://grant-deuel.k12.sd.us/default.aspx	Grant-Deuel School	2011.0	8.0
+52249	http://www.midlandsd.com/	Midland	1998.0	15.0
+52250	http://deubrook.com/	Deubrook School	1999.0	19.0
+52251	http://mtvernon.k12.sd.us/	Mount Vernon School	2001.0	36.0
+52252	http://lawrence.sd.us/	Lawrence County	1998.0	102.0
+52253	http://hamlin.k12.sd.us/	Hamlin School	2001.0	14.0
+52254	http://www.vermillion.k12.sd.us/site/default.aspx?PageID=1	Vermillion School	2012.0	10.0
+52255	http://www.bristolsd.com/	Bristol	2007.0	183.0
+52256	http://mitchell.k12.sd.us/	Mitchell School	2000.0	98.0
+52257	http://denr.sd.gov/	Environment and Natural Resources	2009.0	2.0
+52258	http://hitchcock-tulare.k12.sd.us/	Hitchcock-Tulare School	2004.0	3.0
+52259	http://www.humboldt.govoffice.com/	Humboldt	2006.0	419.0
+52260	http://www.mclaughlin.k12.sd.us/default.aspx	McLaughlin School	2012.0	2.0
+52261	http://www.lymancounty.org/page.php?2	Lyman County	2011.0	23.0
+52262	http://www.midstatesd.net/~whitelakelibrary/	White Lake Community Library	2002.0	5.0
+52263	http://www.carthagesd.com/	Carthage	2001.0	1.0
+52264	http://faulktonelementary.k12.sd.us/	Faulkton Elementary School	2001.0	5.0
+52265	http://libraries.sf.k12.sd.us/	Sioux Falls Libraries School	2001.0	5.0
+52266	http://www.cityofdeadwood.com/	Deadwood	2001.0	477.0
+52267	http://stjosephpierre.k12.sd.us/	Pierre Catholic School	2006.0	4.0
+52268	http://dlr.sd.gov/	Labor and Regulation	2011.0	635.0
+52269	http://parkston.k12.sd.us/site/default.aspx?PageID=1	Parkston School	2014.0	5.0
+52270	http://www.aberdeen.sd.us/index.aspx?nid=22	Alexander Mitchell Library	2010.0	1200.0
+52271	http://lennox.k12.sd.us/default.aspx	Lennox School	2011.0	58.0
+52272	http://hanson.k12.sd.us/default.aspx	Hanson School	2011.0	16.0
+52273	http://www.newunderwood.com/	New Underwood	2008.0	402.0
+52274	http://www.millersd.org/miller	Miller	2013.0	585.0
+52275	http://garretson.k12.sd.us/default.aspx	Garretson School	2011.0	13.0
+52276	http://www.co.yankton.sd.us	Yankton County	2001.0	10.0
+52277	http://www.onida.org/	Onida	1998.0	7.0
+52278	http://dupree.k12.sd.us/education/district/district.php?sectionid=1	Dupree School	2012.0	2.0
+52279	http://www.whitewood.govoffice.com/	Whitewood	2006.0	124.0
+52280	http://shannon.sdcounties.org/	Shannon County	2011.0	122.0
+52281	http://www.philipsouthdakota.com/	Philip	2002.0	32.0
+52282	http://dr-k12.org/	Dell Rapids School	0.0	1120.0
+52283	http://www.cantonsdk12.org/district41-1/	Canton School	2013.0	144.0
+52286	http://codington.org/	Codington County	2001.0	78.0
+52287	http://spearfish.k12.sd.us/	Spearfish School	1997.0	945.0
+52289	http://bisonsd.com/	Bison	2003.0	102.0
+52291	http://www.hartfordsd.us/	Hartford	2003.0	879.0
+52293	http://ujs.sd.gov/	Unified Judicial System	2006.0	291.0
+52294	http://www.hitchcocksd.com/	Hitchcock	2000.0	34.0
+52295	http://puc.sd.gov/garysbio/default.aspx	Gary Hanson	2007.0	2.0
+52296	http://www.sdpb.org/home/	Public Broadcasting	2013.0	2.0
+52297	http://sd.gov/governor/ltduties.aspx	Lieutenant Governor Matt Michels	2011.0	71.0
+52298	http://clearlakesd.net/	Clear Lake City Library	2002.0	0.0
+52299	http://edgemont.k12.sd.us/	Edgemont School	2000.0	86.0
+52301	http://cityofhotspringssd.org/	Hot Springs	2006.0	2.0
+52302	http://northwestern.k12.sd.us/	Northwestern Area School	2001.0	12.0
+52303	http://arlington.k12.sd.us/	Arlington School	2000.0	39.0
+52305	http://www.alexandriasd.com/	Alexandria	2004.0	247.0
+52306	http://www.scotlandsd.org/	Scotland	2001.0	47.0
+52307	http://www.wall-badlands.com/	Wall	1998.0	89.0
+52309	http://alcester-hudson.k12.sd.us/default.aspx	Alcester-Hudson School	2011.0	3.0
+52310	http://www.thune.senate.gov/public/	Senator John Thune	2005.0	718.0
+52311	http://www.eureka.k12.sd.us/	Eureka School	2001.0	79.0
+52312	http://www.wdt.edu/	Western Dakota Technical Institute	2007.0	609.0
+52313	http://www.cityofgregory.com/	Gregory	2006.0	187.0
+52314	http://www.deuelcountysd.com/	Deuel County	2003.0	30.0
+52315	http://henry.k12.sd.us/default.aspx	Henry School	2011.0	0.0
+52317	http://corsicasd.com/	Corsica	1999.0	3.0
+52318	http://hillcity.k12.sd.us/	Hill City School	1999.0	1.0
+52320	http://mcintosh.k12.sd.us/	McIntosh School	2001.0	11.0
+52321	http://www.elkton.govoffice.com/	Elkton	2006.0	121.0
+52322	http://redfield.k12.sd.us/	Redfield School	2001.0	36.0
+52323	http://www.andescentral.k12.sd.us/	Andes Central School	2001.0	0.0
+52324	http://www.epj.k12.sd.us	Elk Point-Jefferson Community-School Li	2000.0	127.0
+52325	http://sfcss.org	Sioux Falls Catholic School	2001.0	382.0
+52326	http://grotonsd.gov/	Groton	2004.0	112.0
+52327	http://whiteeaglechristianacademy.com/	White Eagle Christian Academy School	2001.0	4.0
+52328	http://www.cityofyankton.org/	Yankton	2001.0	642.0
+52329	http://www.platte-geddes.k12.sd.us/se3bin/clientschool.cgi?schoolname=school662	Platte-Geddes School	2014.0	1.0
+52330	http://www.white.govoffice2.com/	White	2010.0	120.0
+52331	http://bridgewatersd.com/	Bridgewater	2002.0	916.0
+52332	http://whitelake.k12.sd.us/	White Lake School	2000.0	131.0
+52334	http://puc.sd.gov/chrisnelsonbio/default.aspx	Chris Nelson	2011.0	2.0
+52335	http://www.dsdk12.net/	Douglas School	1997.0	178.0
+52337	http://www.eurekasd.com/	Eureka	2000.0	41.0
+52338	http://gplhs.org/	Great Plains Lutheran School	1998.0	331.0
+52339	http://mva.sd.gov/default.html	Military	2008.0	7.0
+52340	http://brandonvalley.k12.sd.us/	Brandon Valley School	2001.0	61.0
+52341	http://www.custer.govoffice.com/	Custer	2006.0	210.0
+52342	http://dwdlib.sdln.net	Deadwood Public Library	2000.0	16.0
+52343	http://harrisburgdistrict41-2.org/	Harrisburg School	2013.0	361.0
+52344	http://www.cityoflennoxsd.com/	Lennox	2006.0	638.0
+52346	http://smee.k12.sd.us/default.aspx	Smee School	2011.0	14.0
+52347	http://legislativeaudit.sd.gov	Legislative Audit	2010.0	20.0
+52348	http://sd.gov/	State Government	2007.0	2080.0
+52349	http://www.watertownchristianschool.com/	Watertown Christian School	0.0	21.0
+52350	http://www.artscouncil.sd.gov/	Arts Council	2005.0	155.0
+52351	http://gfp.sd.gov/	Game, Fish and Parks	2010.0	7602.0
+52352	http://rutland.k12.sd.us/	Rutland School	2001.0	9.0
+52353	http://plankinton.k12.sd.us/	Plankinton School	2001.0	13.0
+52354	http://www.marionsd.com/	Marion	2002.0	33.0
+52355	http://www.csd.k12.sd.us/site/default.aspx?PageID=1	Custer School	2013.0	11.0
+52356	http://www.artesiansd.com/	Artesian	2001.0	8.0
+52357	http://mobridge-pollock.k12.sd.us/	Mobridge-Pollock School	2008.0	128.0
+52358	http://www.kadokasd.com/	Kadoka	2001.0	67.0
+52359	http://groton.k12.sd.us/	Groton Area School	2001.0	82.0
+52361	http://www.visitgarretson.com/	Garretson	2014.0	482.0
+52362	http://www.sdpubliclands.com/	School and Public Lands Commissioner Vern Larson	2003.0	3.0
+52363	http://walworthco.org/	Walworth County	2010.0	32.0
+52365	http://stanleycounty.k12.sd.us/	Stanley County School	2001.0	138.0
+52366	http://sdsd.sdbor.edu/	SD School for the Deaf	1998.0	32.0
+52368	http://legis.sd.gov/legislators/legislators/default.aspx?Session=2014	State Legislators	2014.0	436.0
+52369	http://history.sd.gov/	State Historical Society	2010.0	43.0
+52370	http://stickney.k12.sd.us/	Stickney School	2001.0	130.0
+52371	http://www.desmet.govoffice2.com/	De Smet	2006.0	222.0
+52372	http://www.bmtc.net/~libone/	Beresford Public Library	1999.0	7.0
+52373	http://newunderwood.k12.sd.us/	New Underwood School	2000.0	41.0
+52374	http://www.edgemont-sd.com/	Edgemont	1998.0	39.0
+52375	http://www.alcestersd.org/	Alcester	2003.0	34.0
+52376	http://www.brittonsouthdakota.com/	Britton	2004.0	18.0
+52377	http://www.selbysd.govoffice2.com/	Selby	2006.0	552.0
+52378	http://www.volgacity.com/	Volga	2003.0	51.0
+52379	http://elkton.k12.sd.us/	Elkton School	2008.0	15.0
+52384	http://miller.k12.sd.us/	Miller School	2000.0	109.0
+52385	http://lottery.sd.gov/	South Dakota Lottery	2009.0	106.0
+52387	http://www.whitelakesd.com/	White Lake	2004.0	9.0
+52388	http://www.cityofdellrapids.org/	Dell Rapids	2009.0	120.0
+52389	http://www.sdtreasurer.gov/	State Treasurer Rich Sattgast	2009.0	59.0
+52390	http://gettysburg.k12.sd.us/	Gettysburg School	2001.0	105.0
+52391	http://www.parkston.com/	Parkston	1998.0	18.0
+52392	http://www.estellineschool.com/	Estelline School	2013.0	176.0

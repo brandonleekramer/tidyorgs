@@ -1,0 +1,1093 @@
+NodeId	NodeURL	NodeName	Year	pages
+15444	http://www.jekyllisland.com/jekyll-island-authority/	Jekyll Island Authority	2013.0	5.0
+15445	http://www.dawsoncountyschools.org	Dawson County School District	2007.0	544.0
+15447	http://www.wayne.k12.ga.us/jesup.cfm?subpage=193461	Jesup Elementary School	0.0	1448.0
+15448	http://www.gradycountyga.gov	Grady County	2006.0	58.0
+15449	http://www.thclibrary.net	Troup-Harris Regional Library	2001.0	1.0
+15450	http://www.cityofguyton.com	Guyton	2008.0	184.0
+15452	http://www.clinchcounty.com/	Clinch County	2000.0	69.0
+15454	http://www.daltonpublicschools.com	Dalton City School District	2004.0	37.0
+15455	http://www.daltonpublicschools.com/brookwood.cfm	Brookwood Elementary School	2005.0	38.0
+15456	http://www.gordonstate.edu/	Gordon State College	2012.0	1003.0
+15457	http://powersferry.weebly.com/	Powers Ferry Elementary School	2012.0	170.0
+15458	http://www.bainbridgecity.com	Bainbridge	2002.0	3593.0
+15459	http://sces.sumterschools.org	Sumter County Elementary School	2007.0	88.0
+15460	http://www.gavirtualschool.org/	Georgia Virtual School School District	2005.0	49.0
+15461	http://www.daltonpublicschools.com/daltonmiddle.cfm	Dalton Middle School	2006.0	38.0
+15462	http://spalding.k12.ga.us/cowan/default.htm	Cowan Road Elementary School	1999.0	259.0
+15463	http://www.cityofspringfield.com	Springfield	2000.0	21.0
+15464	http://www.miller.k12.ga.us	Miller County Elementary School	2001.0	195.0
+15465	http://www.crispcounty.com	Crisp County	2003.0	15.0
+15466	http://www.sehdph.org	Southeast Health District	2006.0	102.0
+15468	http://www.toombs.k12.ga.us	Toombs County School District	2001.0	102.0
+15470	http://www.cobbk12.org/daniell/	Daniell Middle School	2009.0	18.0
+15472	http://www.morgan.k12.ga.us/mchs	Morgan County High School	2001.0	344.0
+15473	http://www.parrottga.com/	Parrott	2001.0	23.0
+15477	http://www.dds.ga.gov/	Georgia Department of Driver Services	2005.0	259.0
+15478	http://www.stonemountainpark.org/	Stone Mountain Memorial Association	1996.0	47.0
+15479	http://www.cityoftybee.org	Tybee Island	2000.0	166.0
+15480	http://www.stewart.k12.ga.us	Stewart County Elementary School	2003.0	72.0
+15481	http://www.pickens.k12.ga.us	Pickens County School District	2001.0	65.0
+15482	http://www.cobbk12.org/campbellms/	Campbell Middle School	2009.0	14.0
+15483	http://www.cobbk12.org/powdersprings/	Powder Springs Elementary School	2009.0	24.0
+15484	http://www.cityofdarienga.com	Darien	2007.0	95.0
+15485	http://schools.bibb.k12.ga.us/burdell	Burdell Elementary School	2013.0	6477.0
+15488	http://ngrl.org/	Northwest Georgia Regional Library System	2001.0	962.0
+15490	http://www.augustatech.edu	www.augustatech.edu	2003.0	310.0
+15491	http://www.norcrossga.net	Norcross	2007.0	1083.0
+15492	http://www.gadoe.org/Pages/Home.aspx	Georgia Department of Education	2012.0	1295.0
+15493	http://www.fortvalleyusa.com	Fort Valley	2002.0	118.0
+15494	http://www.georgiawildlife.com/	Georgia Department of Natural Resources, Wildlife Resources Division	2000.0	3112.0
+15495	http://oig.georgia.gov/	Office of the State Inspector General	2004.0	24.0
+15496	http://www.kidspeace.org/locations.aspx?id=380	KidsPeace	2008.0	439.0
+15497	http://www.quitman.k12.ga.us	Quitman County High School	2003.0	277.0
+15498	http://www.murraycountyga.org	Murray County	2011.0	545.0
+15499	http://www.daltonpublicschools.com/westwood.cfm	Westwood Elementary School	2005.0	38.0
+15500	http://duewest.blogs.com/duewest/	Due West Elementary School	2010.0	257.0
+15501	http://www.oxfordgeorgia.org	Oxford	2008.0	31.0
+15503	http://www.franklinforest.com/	Franklin Forest Elementary	2006.0	31.0
+15504	http://www.upsoncountyga.org	Upson County	2007.0	22.0
+15505	http://www.cobbk12.org/birney/	Birney Elementary School	2009.0	12.0
+15506	http://schools.bibb.k12.ga.us/miller	Miller Magnet Middle School	2012.0	6521.0
+15507	http://riversideprimary.typepad.com/	Riverside Primary School	2009.0	36.0
+15508	http://www.madison.k12.ga.us/schools/hullsanfordelementary/	Hull-Sanford Elementary School	2012.0	40.0
+15509	http://www.co.henry.ga.us	Henry County	2000.0	276.0
+15510	http://www.wilkes.k12.ga.us	Wilkes County School District	2000.0	274.0
+15511	http://www.echolscountygeorgia.com/	Echols County	2009.0	19.0
+15512	http://www.cityofthomaston.com	Thomaston	2002.0	9.0
+15513	http://www.milledgevillega.us	Milledgeville	2003.0	524.0
+15514	http://www.georgiatolls.com/	State Road and Tollway Authority	1998.0	40.0
+15515	http://www.cobbk12.org/pope/	Pope High School	2009.0	59.0
+15516	http://fannincountyga.org/	Fannin County	2005.0	34.0
+15517	http://www.madisoncountyga.us	Madison County	2007.0	211.0
+15518	http://www.taylor.k12.ga.us	Taylor County Upper Elementary	1998.0	10.0
+15519	http://www.ucschools.org	Union County Middle School	2003.0	272.0
+15520	http://www.cobbk12.org/kingsprings/	King Springs Elementary School	2009.0	10.0
+15521	http://www.sequoyahregionallibrary.org	Sequoyah Regional Library System	2003.0	32.0
+15522	http://www.cityofwestpointga.com	West Point	2004.0	23.0
+15523	http://www.cityofcalhoun-ga.com	Calhoun	2008.0	113.0
+15524	http://ww2.eaglets.org/	New Montgomery County Elementary School	0.0	0.0
+15525	http://www.cityofstatham.com	Statham	0.0	26.0
+15526	http://www.gachd.org	Coastal Health District	2005.0	323.0
+15527	http://www.franklincountyga.com/	Franklin County	2004.0	1.0
+15528	http://www.gocats.org	J. L. Lomax Elementary School	2000.0	626.0
+15533	http://www.brookhavenga.gov	Brookhaven	2013.0	174.0
+15534	http://www.long.k12.ga.us	Long County School District	2000.0	24.0
+15535	http://www.rockmart-ga.gov	Rockmart	2004.0	208.0
+15536	http://www.tattnallschools.org	Glennville Elementary School	2004.0	143.0
+15537	http://www.savannahga.gov	Savannah	2008.0	1460.0
+15538	http://www.polk.k12.ga.us	Polk County School District	2001.0	2386.0
+15539	http://www.oconee.k12.ga.us/rbes/	Rocky Branch Elementary School	2002.0	666.0
+15541	http://kennesawes.typepad.com/kes/	Kennesaw Elem School	2013.0	43.0
+15546	http://glcp.georgia.gov/	Georgia Land Conservation Program	2008.0	56.0
+15547	http://www.agr.georgia.gov/	Georgia Department of Agriculture	2004.0	892.0
+15549	http://www.baxley.org	Appling County	2000.0	482.0
+15550	http://www.wilkinson.k12.ga.us	Wilkinson County School District	2004.0	52.0
+15551	http://www.jonescountyga.org	Jones County	2007.0	155.0
+15552	http://mes.pierce.k12.ga.us	Midway Elementary School	2010.0	56.0
+15554	http://www.cobbk12.org/clay//	Clay Elementary School	2010.0	17.0
+15555	http://www.cook.k12.ga.us	Cook County School District	1999.0	479.0
+15557	http://charlton.k12.ga.us	Charlton County School District	2009.0	106.0
+15559	http://www.perry-ga.gov	Perry	2003.0	86.0
+15561	http://www.district4health.org	DISTRICT 4 PUBLIC HEALTH	2004.0	75.0
+15562	http://ung.edu/	University of North Georgia	2012.0	4806.0
+15563	http://www.greene.k12.ga.us	Greene County School District	2000.0	1288.0
+15565	http://www.unioncountyga.gov	Union County	2004.0	347.0
+15569	http://meadows.ga.vce.schoolinsites.com/	Sally Dailey Meadows Elementary School	2010.0	400.0
+15570	http://www.roswellgov.com	Roswell	2001.0	1624.0
+15572	http://prlib.org/	Piedmont Regional Library System	2006.0	323.0
+15573	http://www.lowndes.k12.ga.us/hes	Hahira Elementary School	2002.0	15102.0
+15574	http://www.effinghamcounty.org	Effingham County	2002.0	97.0
+15575	http://www.georgiaencyclopedia.org	New Georgia Encyclopedia	2003.0	2751.0
+15576	http://www.grayga.us	Gray	2013.0	33.0
+15577	http://www.pembrokega.net	Pembroke	2003.0	54.0
+15578	http://www.sandyspringsga.org	Sandy Springs	2005.0	1219.0
+15579	http://gwinnettonlinecampus.com	Gwinnett Campus	2009.0	58.0
+15580	http://www.pelhamchamber.org	Pelham	2010.0	160.0
+15581	http://www.gnrhealth.com	East Metro Health District	2012.0	216.0
+15582	http://brooks.public.lib.ga.us	Brooks County Public Library System	2001.0	10.0
+15583	http://www.edline.net/pages/Upson-Lee_Middle_School	Upson-Lee Middle School	0.0	13.0
+15584	http://www.habershamschools.com	Habersham County School District	2001.0	147.0
+15585	http://rmlibrary.org/	Roddenbery Memorial Library System	2005.0	578.0
+15586	http://www.cityofbutlerga.com	Butler	0.0	109.0
+15587	http://www.bufordcityschools.org	Buford Elementary School	2000.0	31.0
+15588	http://www.tiftcounty.org	Tift County	1997.0	242.0
+15589	http://www.atlantatech.edu	www.atlantatech.edu	2006.0	415.0
+15591	http://www.franklin.k12.ga.us	Central Franklin Elementary School	2000.0	301.0
+15592	http://www.dol.state.ga.us/	Georgia Department of Labor	0.0	299.0
+15593	http://www.hancock.k12.ga.us	Hancock Central Middle School	2002.0	67.0
+15594	http://www.ecgrl.org	East Central Georgia Regional Library System	2004.0	573.0
+15595	http://www.cityoflilburn.com	Lilburn	2001.0	482.0
+15598	http://www.warecounty.com/	Ware County	2001.0	234.0
+15600	http://www.ega.edu/	East Georgia State College	2002.0	1699.0
+15601	http://www.margaretharrisct.dekalb.k12.ga.us/	Margaret Harris Comprehensive School	0.0	18.0
+15602	http://www.lanierms.org/index.php	Lanier Middle School	2004.0	33.0
+15603	http://www.co.camden.ga.us	Camden County	2001.0	623.0
+15604	http://www.berrien.k12.ga.us	Berrien County School District	2000.0	58.0
+15605	http://www.socialcircleschools.com	Social Circle City School District	2009.0	462.0
+15606	http://www.gcssk12.net/cesweb	Centennial Arts Academy	2006.0	887.0
+15607	http://www.jackson.k12.ga.us	Jackson County School District	2000.0	2704.0
+15608	http://www.pike.k12.ga.us	Pike County School District	0.0	858.0
+15609	http://www.heard.k12.ga.us	Heard County School District	2000.0	713.0
+15610	http://freyelementary.typepad.com/frey/	Frey Elementary School	2010.0	56.0
+15611	http://www.effinghamschools.com/ecms	Effingham County Middle School	2004.0	4811.0
+15612	http://www.lowndes.k12.ga.us/mbes	Moulton-Branch Elementary School	2002.0	14922.0
+15613	http://www.grady.k12.ga.us	Grady County School District	2001.0	220.0
+15614	http://www.morgan.k12.ga.us/site/default.aspx	Morgan County School District	2012.0	29.0
+15615	http://gastateparks.org/	Georgia Department of Natural Resources, State Parks and Historic Sites Division	1998.0	155.0
+15616	http://www.cobbk12.org/cheathamhill/	Cheatham Hill Elementary School	2009.0	15.0
+15617	http://www.crispschools.org	Crisp County High School	2010.0	272.0
+15618	http://www.ellavillega.com	Schley County	2004.0	420.0
+15621	http://www.lowndes.k12.ga.us/lhs	Lowndes High School	2003.0	11552.0
+15622	http://www.daltonpublicschools.com/blueridge.cfm	Blue Ridge School	2005.0	38.0
+15624	http://www.cityofsugarhill.com	Sugar Hill	2001.0	950.0
+15625	http://www.cobbk12.org/bryant/	Bryant Elementary School	2012.0	12.0
+15626	http://www.cobbk12.org/sanders/	Sanders Elementary School	2011.0	9.0
+15627	http://spalding.k12.ga.us/jordan/	Jordan Hill Road Elementary School	2001.0	233.0
+15629	http://www.eastpointcity.org	East Point	2001.0	634.0
+15630	http://www.lee.ga.us/	Lee County	1998.0	19.0
+15631	http://www.dublincityschools.us	Dublin High SChool	2010.0	6930.0
+15632	http://www.treutlen.k12.ga.us	Treutlen Middle/High School	2001.0	309.0
+15633	http://www.lanier.k12.ga.us	Lanier County School District	2001.0	304.0
+15634	http://schools.bibb.k12.ga.us/westside	Westside High	2012.0	6703.0
+15635	http://gbp.georgia.gov/	Georgia Board of Pharmacy	2013.0	144.0
+15636	http://www.corneliageorgia.org	Cornelia	2005.0	28.0
+15637	http://www.galottery.com/	Georgia Lottery Corporation	1998.0	300.0
+15638	http://www.willacoochee.com	Willacoochee	2001.0	13.0
+15639	http://www.gilmerschools.com	Clear Creek Middle School	2001.0	81.0
+15640	http://www.cobbk12.org/garrisonmill/	Garrison Mill Elementary School	2009.0	41.0
+15642	http://schools.bibb.k12.ga.us/southwest	Southwest High School	2012.0	6655.0
+15643	http://www.cobbk12.org/keheley/	Keheley Elementary School	2009.0	6.0
+15644	http://www.cityofporterdale.com	Porterdale	2003.0	113.0
+15645	http://www.putnam.k12.ga.us/pchs/	Putnam County High School	2002.0	475.0
+15646	http://www.carrolltoncityschools.net	Carrollton City School District	1999.0	577.0
+15647	http://www.spsu.edu/	Southern Polytechnic State University	1998.0	1535.0
+15648	http://www.dcor.state.ga.us/	Georgia Department of Corrections	1999.0	177.0
+15650	http://www.senate.ga.gov/en-us/default.aspx	Senate	2011.0	344.0
+15651	http://schools.bibb.k12.ga.us/heard	Heard Elementary School	2012.0	6357.0
+15652	http://www.gru.edu	Georgia Regents University	2013.0	3503.0
+15653	http://www.heardcountyga.com/	Heard County	2008.0	88.0
+15655	http://www.fcboe.org	Sara Harp Minter Elementary School	1998.0	749.0
+15656	http://www.claytonpl.org	Clayton County Library System	2005.0	73.0
+15657	http://www.hapeville.org	Hapeville	2000.0	801.0
+15658	http://houpl.org/	Houston County Public Libraries System	2006.0	71.0
+15659	http://www.trionschools.org	Trion Elementary School	2002.0	748.0
+15660	http://schools.bibb.k12.ga.us/morgan	Morgan Elementary School	2012.0	6380.0
+15661	http://www.augustaga.gov	Augusta-Richmond County	2003.0	2444.0
+15662	http://www.wilcox.k12.ga.us	Wilcox County Elementary School	2001.0	456.0
+15663	http://www.wayne.k12.ga.us/high.cfm?subpage=193443	Wayne County High School	0.0	1846.0
+15664	http://scobb.sumterschools.org	Sarah Cobb Elementary School	2007.0	9.0
+15665	http://www.carverhighschool.com/	Carver High School	2002.0	18.0
+15667	http://sos.ga.gov/	Georgia Secretary of State	2007.0	726.0
+15668	http://www.bartowga.org	Bartow County	2002.0	189.0
+15669	http://liberty.stephens.k12.ga.us	Liberty Elementary School	2008.0	2519.0
+15671	http://www.monroecountygeorgia.com/	Monroe County	2002.0	100.0
+15672	http://www.dekalblibrary.org	Dekalb County Public Library System	2002.0	3548.0
+15673	http://www.echols.k12.ga.us/education/district/district.php?sectionid=1	Echols County School District	2010.0	0.0
+15674	http://www.vidaliacity.schoolinsites.com	Vidalia City School District	2010.0	57.0
+15675	http://www.oconee.k12.ga.us/cfes/	Colham Ferry Elementary School	2000.0	348.0
+15676	http://schools.bibb.k12.ga.us/skyview	Skyview Elementary School	2013.0	6432.0
+15678	http://www.murray.k12.ga.us	Murray County School District	2000.0	660.0
+15681	http://www.brooksga.com	Brooks	2003.0	13.0
+15682	http://www.upson.k12.ga.us	Thomaston-Upson County School District	1998.0	36.0
+15683	http://www.spaldingcounty.com	Spalding County	1998.0	88.0
+15684	http://www.metter.org	Candler County School District	1999.0	732.0
+15687	http://www.putnam.k12.ga.us	Putnam County School District	2000.0	498.0
+15690	http://www.greensboroga.gov	Greensboro	2006.0	41.0
+15692	http://doas.ga.gov/statelocal/surplus/pages/home.aspx	Department of Administrative Services	2010.0	9.0
+15694	http://www.gpdsc.com/	Georgia Public Defender Standards Council	2003.0	2.0
+15695	http://www.putnam.k12.ga.us/pces/	Putnam County Elementary School	2002.0	240.0
+15696	http://www.youngharrisga.net/	Young Harris	2011.0	55.0
+15697	http://www.cobbk12.org/tritt/	Tritt Elementary School	2009.0	22.0
+15698	http://www.fannin.k12.ga.us	Fannin County School District	2000.0	335.0
+15700	http://villarica.org/	Villa Rica	2001.0	131.0
+15701	http://www.plainsgeorgia.org	Plains	2004.0	59.0
+15702	http://sbwc.georgia.gov/	State Board of Workers' Compensation	2004.0	156.0
+15704	http://www.early.k12.ga.us	Early County School District	1999.0	26.0
+15705	http://ethics.ga.gov/	Georgia Government Transparency & Campaign Finance Commission	2007.0	547.0
+15707	http://www.clay.k12.ga.us	Clay County Middle School	2003.0	73.0
+15708	http://www.tallapoosaga.gov	Tallapoosa	2007.0	63.0
+15709	http://www.bleckley.k12.ga.us	Bleckley County School District	1998.0	723.0
+15710	http://www.albany.ga.us	Dougherty County	1998.0	767.0
+15711	http://www.abac.edu	Abraham Baldwin Agricultural College	2002.0	1149.0
+15712	http://www.twiggsk12ga.com/	Jeffersonville Elementary	2011.0	763.0
+15713	http://www.gaports.com/	Georgia Ports Authority	1997.0	700.0
+15714	http://gbd.georgia.gov/	Georgia Board of Dentistry	2013.0	131.0
+15715	http://www.atkinson.k12.ga.us/site/default.aspx?PageID=1	Atkinson County School District	2012.0	9.0
+15716	http://schools.bibb.k12.ga.us/danforth	King - Danforth Elementary School	2013.0	6376.0
+15717	http://www.publichealthathens.com	Northeast Health District	2001.0	115.0
+15718	http://www.gpb.org/	Georgia Public Broadcasting	1996.0	4098.0
+15719	http://www.mcduffie.k12.ga.us	McDuffie County School District	0.0	2112.0
+15720	http://www.floydboe.net	Floyd County School District	1999.0	1493.0
+15721	http://ga.provostacademy.com/	Provost Academy Georgia School District	2010.0	106.0
+15723	http://www.fayetteville-ga.gov	Fayetteville	2003.0	213.0
+15724	http://www.oconee.k12.ga.us	North Oconee High School	1999.0	276.0
+15725	http://www.forsythpl.org	Forsyth County Public Library System	2002.0	254.0
+15726	http://www.sgrl.org	South Georgia Regional Library System	1999.0	12.0
+15727	http://www.benhillcounty.com	Ben Hill County	2000.0	84.0
+15729	http://www.gntc.edu	www.gntc.edu	2009.0	481.0
+15730	http://www.dasherga.com	Dasher	2011.0	17.0
+15731	http://www.gapost.org/	Peace Officers' Standards and Training Council	1999.0	98.0
+15735	http://www.unioncityga.org	Union City	0.0	2752.0
+15738	http://www.baldwincountyga.com	Baldwin County	2002.0	94.0
+15739	http://www.hiawasseega.gov	Hiawassee	2013.0	16.0
+15740	http://www.wcms.white.k12.ga.us/	White County Middle School	2012.0	28.0
+15741	http://www.cobbk12.org/palmer/	Palmer Middle School	2009.0	7.0
+15742	http://www.stephens.k12.ga.us	Stephens County School District	2007.0	3484.0
+15743	http://www.oconee.k12.ga.us/oces/	Oconee County Elementary School	2000.0	976.0
+15746	http://www.cedartowngeorgia.gov	Cedartown	0.0	88.0
+15747	http://www.oconee.k12.ga.us/ochs/	Oconee County High School	1999.0	332.0
+15748	http://ckeysville.com/	Keysville	2013.0	1.0
+15749	http://www.austellga.gov/	Austell	2009.0	573.0
+15750	http://bes.pierce.k12.ga.us	Blackshear Elementary School	2006.0	11.0
+15752	http://www.washingtonwilkes.org	Wilkes County	2002.0	71.0
+15753	http://www.cobbk12.org/lewis/	Lewis Elementary School	2009.0	5.0
+15754	http://www.valdosta.edu/	Valdosta State University	1998.0	983.0
+15755	http://www.cobb.k12.ga.us	Cobb County School District	1998.0	21.0
+15756	http://www.cobbk12.org/eastcobb/	East Cobb Middle School	2009.0	23.0
+15757	http://pickenscountyga.gov/	Pickens County	2006.0	73.0
+15758	http://www.columbusga.org	Columbus	1999.0	488.0
+15759	http://spalding.k12.ga.us/moore/default.htm	Moore Elementary School	1999.0	197.0
+15760	http://www.forsyth.k12.ga.us/iachieve	i-Achieve Academy	2011.0	3042.0
+15762	http://www.georgiagames.org/	Georgia State Games Commission	1998.0	131.0
+15764	http://www.dadecountyschools.org	Dade County School District	2003.0	345.0
+15766	http://www.pinemountain.org/	Pine Mountain	1999.0	135.0
+15771	http://schools.bibb.k12.ga.us/barden	Barden Elementary School	2013.0	6305.0
+15773	http://www.cobbk12.org/lovinggood/	Lovinggood Middle School	2009.0	8.0
+15774	https://www.muscogee.k12.ga.us/Pages/MCSDHome.aspx	Muscogee County School District	2011.0	335.0
+15775	http://www.crispcountyschools.org	Blackshear Trail Elementary School	2008.0	1.0
+15776	http://www.lowndes.k12.ga.us/	Pine Grove Middle School	1999.0	11978.0
+15777	http://gvra.georgia.gov/	Georgia Vocational Rehabilitation Agency	2012.0	280.0
+15780	http://spalding.k12.ga.us/moreland/	Moreland Road Elementary	0.0	247.0
+15781	http://www.spalding.k12.ga.us	Rehoboth Road Middle School	1999.0	251.0
+15782	http://www.rcboe.org/	Richmond County School District	2006.0	325.0
+15783	http://www.cityofpendergrass.com	Pendergrass	2005.0	8.0
+15784	http://www.pierce.k12.ga.us	Pierce County School District	2000.0	295.0
+15785	http://www.griffinhighschool.org	Griffin High School	2012.0	1054.0
+15786	http://www.pinelakega.com	Pine Lake	2001.0	480.0
+15788	http://www.cobbk12.org/dickerson/	Dickerson Middle School	2009.0	18.0
+15790	http://doolyschools.com	Dooly County School District	2007.0	1.0
+15791	http://www.eton-ga.gov	Eton	2008.0	27.0
+15793	http://spalding.k12.ga.us/futralroad/	Futral Road Elementary School	2001.0	334.0
+15794	http://harriscountyga.gov/	Harris County	2007.0	93.0
+15795	http://www.cityofringgold.com	Ringgold	2001.0	171.0
+15797	http://cityofchickamauga.org/	Chickamauga	2012.0	27.0
+15798	http://www.cobbk12.org/chalker/	Chalker Elementary School	2009.0	10.0
+15799	http://www.dot.ga.gov/Pages/default.aspx	Georgia Department of Transportation	2008.0	392.0
+15800	http://www.jeff-davis.k12.ga.us	Jeff Davis Middle School	2001.0	233.0
+15801	http://www.leecountylibrary.org	Lee County Public Library System	2002.0	75.0
+15802	http://www.ocrl.org	Oconee Regional Library System	2005.0	16.0
+15803	http://spalding.k12.ga.us/anne/default.htm	Anne Street Elementary School	2000.0	242.0
+15804	http://biga.stephens.k12.ga.us	Big A Elementary School	2008.0	9398.0
+15805	http://www.georgiahumanities.org/	Georgia Humanities Council	2000.0	364.0
+15807	http://www.fultonschools.org/en	Fulton County School District	2014.0	498.0
+15809	http://www.barrow.k12.ga.us/ahs/	Apalachee High School	2001.0	11.0
+15810	http://www.cityofportwentworth.com	Port Wentworth	2006.0	23.0
+15811	http://www.georgia.org/	Georgia Department of Economic Development	1998.0	698.0
+15813	http://www.cityoftoccoa.com/index.cfm	Toccoa	2013.0	169.0
+15816	http://www.djj.state.ga.us/	Department of Juvenile Justice School District	1999.0	14.0
+15817	http://www.southeasterntech.edu	www.southeasterntech.edu	2003.0	407.0
+15818	http://www.cobbk12.org/hollydale/	Hollydale Elementary School	2009.0	13.0
+15819	http://www.barrow.k12.ga.us./wbms/	Winder-Barrow Middle School	1999.0	10.0
+15821	http://www.bloomingdale-ga.com	Bloomingdale	1999.0	373.0
+15823	http://www.cobbk12.org/mtview/	Mountain View Elementary School	2009.0	11.0
+15825	http://spalding.k12.ga.us/atkinson/default.htm	Atkinson Elementary School	2000.0	285.0
+15827	http://www.wiregrass.edu	www.wiregrass.edu	2010.0	322.0
+15828	http://www.wayne.k12.ga.us/screven.cfm?subpage=193468	Screven Elementary School	0.0	1490.0
+15829	http://www.millcreekhs.com/	Mill Creek High School	2011.0	1076.0
+15830	http://towns.k12.ga.us	Towns County Elementary School	1999.0	15.0
+15831	http://www.riverdalega.gov	Riverdale	2005.0	346.0
+15833	http://www.bryan.k12.ga.us	Bryan County School District	2000.0	167.0
+15835	http://cityoflafayettega.org/	LaFayette	2001.0	74214.0
+15836	http://www.co.habersham.ga.us	Habersham County	2000.0	876.0
+15839	http://www.cobbk12.org/smitha/	Smitha Middle School	2009.0	20.0
+15840	http://rms.tattnallschools.org	Reidsville Middle School	2005.0	74.0
+15841	http://www.waltonhigh.org	Walton High School	0.0	1596.0
+15842	http://www.chattahoochee.k12.ga.us/education/district/district.php?sectionid=1	Chattahoochee County School District	2011.0	2.0
+15844	http://www.tcitys.org	Thomasville City School District	2000.0	463.0
+15849	http://www.sjrls.org	Screven-Jenkins Regional Library System	2001.0	53.0
+15850	http://www.bankscountychamber.com/	Banks County	2010.0	14.0
+15851	http://schools.bibb.k12.ga.us/rice	Rice Elementary School	2013.0	6267.0
+15852	http://eastanollee.stephens.k12.ga.us	Eastanollee Elementary School	2008.0	8409.0
+15853	https://etax.dor.ga.gov/	Georgia Department of Revenue	2005.0	133.0
+15854	http://www.mitchell.k12.ga.us	Mitchell County School District	1999.0	86.0
+15855	http://www.cityofquitmanga.com	Quitman	2009.0	4.0
+15856	http://www.cityofforsyth.net	Forsyth	2007.0	50.0
+15857	http://www.chattahoocheetech.edu	www.chattahoocheetech.edu	2009.0	773.0
+15858	http://ww2.thecolumbuslibrary.org/	Chattahoochee Valley Regional Library System	2013.0	0.0
+15859	http://www.romelibrary.org	Sara Hightower Regional Library System	2004.0	43.0
+15860	http://www.cityofdallasga.com	Dallas	2009.0	113.0
+15862	http://www.bakercountyga.org	Baker County	2011.0	2.0
+15864	http://www.gsu.edu/	Georgia State University	1997.0	135.0
+15867	http://www.stewartcountyga.gov	Stewart County	2008.0	167.0
+15868	http://www.alpharetta.ga.us	Alpharetta	1997.0	1754.0
+15869	http://www.bostonga.com	Boston	2003.0	28.0
+15870	http://www.gcbe.org	Gordon County School District	2000.0	85.0
+15871	http://www.lincolncountyschools.org	Lincoln County School District	2004.0	483.0
+15872	http://www.cityofclevelandga.org	Cleveland	2012.0	575.0
+15874	http://www.talbot.k12.ga.us	Talbot County School District	2003.0	56.0
+15876	http://schools.bibb.k12.ga.us/bernd	Bernd Elementary School	2013.0	6319.0
+15877	http://chattoogacountyga.com	Chattooga County	2009.0	1.0
+15879	http://www.cobbk12.org/mcclure/	McClure Middle School	2009.0	16.0
+15880	http://www.brookscountyschools.com	Brooks County School District	2005.0	901.0
+15881	http://www.tattnall.com	Tattnall County	1997.0	48.0
+15882	http://www.peachcounty.net	Peach County	2000.0	266.0
+15883	http://www.daltonpublicschools.com/parkcreek.cfm	Park Creek Elementary School	2005.0	37.0
+15884	http://www.cobbk12.org/griffin/	Griffin Middle School	2009.0	14.0
+15886	http://www.barrow.k12.ga.us./wms/	Westside Middle School	1999.0	17.0
+15888	http://www.cityofcavespring.com	Cave Spring	2005.0	2.0
+15889	http://www.barrow.k12.ga.us./ses/	Statham Elementary School	1999.0	10.0
+15890	http://www.hollyspringsga.us	Holly Springs	2009.0	271.0
+15891	http://georgetown-quitman.com/	Georgetown-Quitman County	2008.0	9.0
+15893	http://www.srlsys.org	Satilla Regional Library System	2005.0	39.0
+15895	http://oca.georgia.gov/	Office of the Child Advocate	2004.0	64.0
+15896	http://www.gwinnetttech.edu	www.gwinnetttech.edu	2004.0	1055.0
+15897	http://www.lawrencevillega.org	Lawrenceville	2005.0	148.0
+15898	http://schoolwires.henry.k12.ga.us/he/domain/3428	Hampton Elementary School	2012.0	1.0
+15899	http://www.connectionsacademy.com/georgia-virtual-school/home.aspx	Georgia Connections Academy School District	2013.0	119.0
+15902	http://schoolwires.henry.k12.ga.us/site/default.aspx?PageID=1	Henry County School District	2012.0	26.0
+15903	http://www.forsythco.com	Forsyth County	2001.0	1000.0
+15904	http://schoolwires.henry.k12.ga.us/domain/3197	Wesley Lakes Elementary School	2012.0	3320.0
+15905	http://monticelloga.org/	Monticello	2001.0	85.0
+15906	http://cityoflakeparkga.com/	Lake Park	2010.0	307.0
+15908	http://www.paulding.k12.ga.us	Paulding County School District	1998.0	3389.0
+15909	http://www.montgomerycountyga.com/	Montgomery County	2007.0	2.0
+15910	http://www.moultrietech.edu	www.moultrietech.edu	2003.0	905.0
+15911	http://www.barrow.k12.ga.us	Barrow County School District	1999.0	94.0
+15912	http://www.co.newton.ga.us/	Newton County	1999.0	656.0
+15914	http://www.grec.state.ga.us/	Georgia Real Estate Commission & Appraisers Board	2000.0	70.0
+15915	http://www.gadnr.org/	Georgia Department of Natural Resources	2003.0	58.0
+15916	http://www.thomas.k12.ga.us/	Garrison-Pilcher Elementary School	2003.0	1595.0
+15918	http://www.sgsc.edu/	South Georgia State College	2013.0	493.0
+15919	http://www.sumterschools.org	Staley Middle School	2005.0	458.0
+15920	http://www.newtoncountyschools.org/middle_ridge	Middle Ridge Elementary School	2013.0	797.0
+15921	http://cityofswainsboro.org/	Swainsboro	2001.0	333.0
+15922	http://www.oconee.k12.ga.us/ocms/	Oconee County Middle School	2000.0	406.0
+15923	http://www.bremenga.gov	Bremen	2004.0	57.0
+15924	http://www.boe.dcboe.com/	Decatur County School District	2011.0	1136.0
+15925	http://schools.bibb.k12.ga.us/burghard	Burghard Elementary School	2013.0	6282.0
+15926	http://www.senate.ga.gov/en-US/default.aspx	Georgia Senate	2011.0	343.0
+15927	http://tllsga.org/	Twin Lakes Library System	2007.0	537.0
+15928	http://www.cobbk12.org/murdock/	Murdock Elementary School	2009.0	8.0
+15929	http://www.cityofmiltonga.us	Milton	2006.0	3073.0
+15930	http://www.habershamga.com	Demorest	2007.0	881.0
+15931	http://scms.sumterschools.org	Sumter County Middle School	2007.0	23.0
+15932	https://www.gsccca.org/	Georgia Superior Court Clerks' Cooperative Authority	1998.0	113.0
+15933	http://www.taliaferro.k12.ga.us	Taliaferro County School District	2000.0	8.0
+15935	http://www.kennesaw.edu/	Kennesaw State University	1997.0	454.0
+15936	http://www.georgiashpo.org/	Georgia Department of Natural Resources, Historic Preservation Division	2011.0	175.0
+15937	http://www.cobbk12.org/blackwell/	Blackwell Elementary School	2009.0	11.0
+15939	http://www.pelham-city.k12.ga.us	Pelham City School District	2002.0	533.0
+15940	http://www.daltonpublicschools.com/roan.cfm	Roan Elementary School	2005.0	37.0
+15942	http://www.bainbridge.edu/	Bainbridge State College	2002.0	1444.0
+15943	http://opb.georgia.gov/	Governor's Office of Planning and Budget	2012.0	71.0
+15945	http://www.georgiaarchives.org	Georgia Archives	2002.0	48.0
+15946	http://www.soperton-treutlen.org	Treutlen County	2011.0	4.0
+15948	http://www.cityofdouglas.com	Douglas	2001.0	817.0
+15949	http://www.cobbk12.org/barber/	Barber  Middle School	2009.0	10.0
+15950	http://chs.cook.k12.ga.us/	Cook High School	2008.0	468.0
+15952	http://gceo.state.ga.us/	Georgia Commission of Equal Opportunity	2001.0	23.0
+15953	http://www.templega.us	Temple	2007.0	21.0
+15954	http://www.sowegak12.org/	Randolph County School District	2001.0	84.0
+15955	http://www.phdistrict2.org	North Health District	2006.0	62.0
+15956	http://www.centralgatech.edu	www.centralgatech.edu	2003.0	395.0
+15959	http://medicalboard.georgia.gov/	Georgia Composite Medical Board	2005.0	190.0
+15960	http://www.herty.com	Herty Advanced Materials Development Center	2001.0	119.0
+15961	http://www.bryancountyga.org	Bryan County	2003.0	194.0
+15962	http://www.claytoncountypublichealth.org	Clayton County Health District	2009.0	272.0
+15964	http://www.chickamaugacityschools.org	Chickamauga City School District	2001.0	413.0
+15965	http://www.oci.ga.gov/	Office of Insurance and Safety Fire Commissioner	2010.0	696.0
+15966	http://www.schleyk12.org	Schley County School District	2006.0	57.0
+15968	http://www.legis.ga.gov/en-US/default.aspx	Georgia General Assembly	2011.0	1711.0
+15969	http://www.lcboe.net/	East Laurens Elementary School	2001.0	676.0
+15970	http://pearson-ga.com	Pearson	2001.0	185.0
+15971	http://ww35.ochlocknee.info/	Ochlocknee	2013.0	2581.0
+15972	http://www.hallco.org/ehms/site/	East Hall Middle School	2010.0	0.0
+15973	http://www.mariettaga.gov	Marietta	2004.0	939.0
+15974	http://benhillcounty.schoolinsites.com/	Ben Hill County Middle School	2011.0	282.0
+15976	http://www.co.wayne.ga.us/	Wayne County	2001.0	815.0
+15977	http://www.negeorgialibraries.org	Northeast Georgia Regional Library System	2008.0	9.0
+15978	http://www.cityofrincon.com	Rincon	2003.0	51.0
+15980	http://www.carrollton-ga.gov	Carrollton	2003.0	6.0
+15981	http://www.columbusstate.edu/	Columbus State University	2010.0	49.0
+15983	http://www.cobbcounty.org	Cobb County	1999.0	1351.0
+15984	http://dch.georgia.gov	Georgia Department of Community Health	2004.0	836.0
+15985	http://www.gcssk12.net/eesweb	Enota Multiple Intelligences Academy	2002.0	593.0
+15987	http://www.senoia.com	Senoia	1999.0	184.0
+15988	http://www.kennesaw-ga.gov	Kennesaw	2005.0	236.0
+15990	http://www.open.georgia.gov/	Georgia Department of Audits and Accounts	2009.0	26.0
+15991	http://emersoncityhall.com/	Emerson	2010.0	56.0
+15996	http://gta.georgia.gov	Georgia Technology Authority	2003.0	573.0
+15997	http://www.fayettecountyga.gov/default.htm	Fayette County	2004.0	851.0
+15998	http://www.cityofvienna.org	Vienna	2001.0	36.0
+15999	http://odysseycharterschool.net/	Odyssey  School School District	2002.0	106.0
+16000	http://daculaga.gov/	Dacula	2005.0	112.0
+16001	http://www.harrisonhigh.org/	Harrison High School	2001.0	117.0
+16003	http://gefa.georgia.gov/	Georgia Environmental Finance Authority	2004.0	198.0
+16005	http://www.newtoncountyschools.org/	Rocky Plains Elementary School	2001.0	1725.0
+16006	http://www.wayne.k12.ga.us/arthurwilliams.cfm?subpage=193449	Arthur Williams Middle School	0.0	1542.0
+16007	http://www.terrell.k12.ga.us	Carver Elementary School	2010.0	237.0
+16008	http://www.arabiamtnhs.dekalb.k12.ga.us/	Arabia Mountain High School - Academy of Engineering, Medicine and Environmental Studies	2014.0	56.0
+16009	http://www.walkerschools.org	Chattanooga Valley Elementary School	1998.0	60.0
+16010	http://www.albanytech.edu	www.albanytech.edu	2003.0	5528.0
+16011	http://www.ccga.edu/	College of Coastal Georgia	2008.0	36.0
+16012	http://www.fbhcl.org	Fitzgerald-Ben Hill County Library	2008.0	14.0
+16013	http://www.morgan.k12.ga.us/mcms	Morgan County Middle School	2001.0	345.0
+16014	http://www.baldwin-county-schools.com	Baldwin County School District	1998.0	189.0
+16015	http://www.cityofdanielsville.us	Danielsville	2008.0	21.0
+16017	http://www.toombsmontgomerychamber.com	Toombs County	2005.0	968.0
+16019	http://www.hallcountylibrary.org	Hall County Library System	2003.0	2259.0
+16020	http://www.dadechamber.com/	Dade County	2001.0	720.0
+16021	http://www.wayne.k12.ga.us/odum.cfm?subpage=193465	Odum Elementary School	0.0	1585.0
+16022	http://www.banks.k12.ga.us	Banks County Elementary School	2001.0	1423.0
+16024	http://www.barrow.k12.ga.us./hes/	Holsenbeck Elementary School	2000.0	5.0
+16025	http://www.southwestgeorgiapublichealth.org	Southwest Health District	2004.0	71.0
+16026	http://schools.bibb.k12.ga.us/williams	Williams Elementary School	2012.0	6312.0
+16027	http://www.johnscreekga.gov/Home.aspx	Johns Creek	2011.0	2481.0
+16028	http://schools.bibb.k12.ga.us/howard	Howard Middle School	2012.0	6804.0
+16029	http://www.carrollcountyga.com	Carroll County	2000.0	252.0
+16030	http://www.centervillega.org	Centerville	2006.0	42.0
+16031	http://www.jchs.com/	Jenkins County School District	1998.0	4.0
+16034	http://www.butts.k12.ga.us	Butts County School District	2001.0	158.0
+16035	http://www.gapsc.com/	Georgia Professional Standards Commission	1996.0	483.0
+16036	http://www.flowerybranchga.org	Flowery Branch	2004.0	918.0
+16037	http://www.ccboc.com	Colquitt County	2005.0	56.0
+16038	http://sitf.georgia.gov	Subsequent Injury Trust Fund	2006.0	50.0
+16039	http://www.visitdarien.com/	McIntosh County	2008.0	53.0
+16040	http://www.onlineoglethorpe.com/	Oglethorpe County	2001.0	175.0
+16042	http://poab.georgia.gov/	Peace Officers' Annuity & Benefit Fund	2008.0	49.0
+16044	http://www.lowndes.k12.ga.us/lpes	Lake Park Elementary School	2002.0	15671.0
+16045	http://pchs.pierce.k12.ga.us	Pierce County High School	2006.0	22.0
+16046	http://www.colquitt.k12.ga.us	Colquitt County School District	1997.0	352.0
+16047	http://www.cityofpowdersprings.org	Powder Springs	2001.0	596.0
+16049	http://www.awtreyvikings.com/	Awtrey Middle School	2011.0	46.0
+16051	http://www.dsa.dekalb.k12.ga.us/	DeKalb School of the Arts	2013.0	80.0
+16052	http://loganville-ga.gov/	Loganville	2006.0	99.0
+16053	http://www.cityofalmaga.gov	Alma	2010.0	59.0
+16054	http://www.cobbk12.org/allatoona/	Allatoona High School	2009.0	63.0
+16056	http://www.camillaga.net	Camilla	2001.0	16.0
+16058	http://www.coastalgadnr.org/	Georgia Department of Natural Resources, Coastal Resources Division	2009.0	734.0
+16059	http://www.wilkinsoncounty.net	Wilkinson County	2006.0	74.0
+16060	http://www.talkingrockga.com	Talking Rock	2008.0	13.0
+16061	http://www.cobbk12.org/cooper/	Cooper Middle School	2009.0	8.0
+16063	http://www.cityofgrayson.org	Grayson	2001.0	8.0
+16064	http://workforce.georgia.gov/	Governor's Office of Workforce Development	2012.0	24.0
+16066	http://www.brunswickga.org	Brunswick	2001.0	33.0
+16068	http://www.gahighwaysafety.org/	Governor's Office of Highway Safety	2004.0	503.0
+16069	http://www.newtoncountyschools.org/porterdale	Porterdale Elementary School	2001.0	688.0
+16070	http://www.laniercountyboc.com	Lanier County	2013.0	8.0
+16071	http://www.cobbk12.org/kincaid/	Kincaid Elementary School	2009.0	24.0
+16073	http://schools.bibb.k12.ga.us/hartley	Hartley Elementary School	2012.0	6410.0
+16074	http://www.wayne.k12.ga.us/jeb.cfm?subpage=193459	Bacon Elementary School	0.0	1532.0
+16076	http://eastvalley.typepad.com/	Eastvalley Elementary School	2007.0	35.0
+16078	http://www.cowetaschools.org/	Coweta County School District	2002.0	2255.0
+16079	http://www.eatontonga.us	Eatonton	2006.0	17.0
+16082	http://www.tiftschools.com	Tift County School District	2000.0	580.0
+16084	http://www.northhighshoals.org	North High Shoals	2009.0	24.0
+16085	http://dps.georgia.gov/	Georgia Department of Public Safety	2003.0	714.0
+16086	http://www.valdostacity.com	Valdosta	0.0	814.0
+16089	http://veterans.georgia.gov	Georgia Department of Veterans Service	2012.0	211.0
+16090	http://schoolwires.henry.k12.ga.us/domain/2916	Union Grove Middle	2012.0	3320.0
+16092	http://www.historicmidway.com	Midway	2007.0	62.0
+16093	http://www.georgiasouthern.edu/	Georgia Southern University	2003.0	36.0
+16094	http://www.ers.ga.gov/default.aspx	Employees' Retirement System of Georgia	2010.0	38.0
+16096	http://main.jeffcityschools.org/index.html	Jefferson Middle School	2012.0	47.0
+16099	http://www.almaone.com	Bacon County	2011.0	12.0
+16100	http://www.fultoncountyga.gov/dhw-home	Fulton County Department of Health & Wellness	2011.0	1214.0
+16101	http://www.cityofstockbridge.com	Stockbridge	1998.0	1339.0
+16102	http://www.peachschools.org	Peach County School District	2002.0	781.0
+16104	http://school.fultonschools.org/es/oakley/Pages/default.aspx	Oakley Elementary School	2013.0	26.0
+16105	http://gfstconline.org/	Georgia Firefighter Standards and Training Council	2007.0	331.0
+16106	http://wgrl.net/	West Georgia Regional Library System	2005.0	364.0
+16107	http://www.hallco.org/boe/site/	Hall County School District	2013.0	271.0
+16108	http://dfcs.dhs.georgia.gov	Department of Human Services, Division of Family and Children Services	2009.0	513.0
+16109	http://www.cityofhogansville.org/	Hogansville	2009.0	47.0
+16111	http://www.cobbk12.org/hayes/	Hayes Elementary School	2009.0	24.0
+16112	http://www.cobbk12.org/davis/	Davis Elementary School	2009.0	18.0
+16114	http://www.talmo-ga.com	Talmo	2006.0	18.0
+16116	http://crawfordhigh.ga.cch.schoolinsites.com/	Crawford County High School	2013.0	36.0
+16117	http://www.cobbk12.org/simpson/	Simpson Middle School	2009.0	12.0
+16118	http://ocss.dhs.georgia.gov	Department of Human Services, Division of Child Support Services	2010.0	544.0
+16119	http://www.cityofdanvillega.com/	Danville	2011.0	11.0
+16120	http://bartowga.tripod.com/	Bartow	2002.0	13.0
+16123	http://www.gasupreme.us/	Supreme Court of Georgia	2004.0	34.0
+16127	http://www.cobbk12.org/tapp/	Tapp Middle School	2009.0	14.0
+16128	http://schools.bibb.k12.ga.us/lane	Lane Elementary School	2013.0	6431.0
+16129	http://schools.bibb.k12.ga.us/brookdale	Brookdale Elementary School	2013.0	6338.0
+16130	http://www.academy.white.k12.ga.us/	White County 9th Grade Academy	2012.0	33.0
+16132	http://www.jeffersoncountyga.gov	Jefferson County	2011.0	21.0
+16133	http://www.btrl.net	Bartram Trail Regional Library System	2009.0	2.0
+16134	http://www.turnercounty.com/	Turner County	2000.0	43.0
+16135	http://www.clarke.k12.ga.us	Clarke County School District	0.0	1684.0
+16136	https://tcsg.edu/	Technical College System of Georgia	2008.0	1485.0
+16137	http://calhouncountyga.com	Calhoun County	2009.0	13.0
+16138	http://www.gardencity-ga.gov	Garden City	0.0	304.0
+16139	http://www.gwinnett.k12.ga.us/gcps-mainweb01.nsf	Gwinnett County School District	2000.0	0.0
+16140	http://www.reynoldsga.com	Reynolds	2001.0	31.0
+16142	http://www.georgiacivilwar.org	Georgia Civil War Commission	2007.0	19.0
+16143	http://www.putnam.k12.ga.us/pcms/	Putnam County Middle School	2002.0	290.0
+16145	http://www.columbustech.edu	www.columbustech.edu	2003.0	383.0
+16147	http://www.mcssga.org	Meriwether County School District	2011.0	66.0
+16148	http://www.montezuma-ga.org	Montezuma	1999.0	26.0
+16149	http://www.gaappeals.us/	Georgia Court of Appeals	2003.0	16.0
+16150	http://www.adairsvillega.net	Adairsville	2010.0	22.0
+16151	http://www.barrowga.org	Barrow County	2004.0	414.0
+16152	http://www.cobbk12.org/riversideintermediate/	Riverside Intermediate School	2010.0	9.0
+16153	http://www.wayne.k12.ga.us/marthapuckett.cfm?subpage=193447	Martha Puckett Middle School	0.0	1792.0
+16155	http://www.warrencountyga.org/	Warren County	2002.0	11.0
+16156	http://www.meriwether.k12.ga.us	George E. Washington Elementary School	2000.0	1.0
+16157	http://www.cobbk12.org/campbellhs/	Campbell High School	2011.0	20.0
+16158	http://peachtreecornersga.org/	Peachtree Corners	2013.0	30.0
+16159	http://www.cityofhinesville.org	Hinesville	2005.0	408.0
+16162	http://www.lookoutmtnga.com	Lookout Mountain	2006.0	44.0
+16163	http://www.cobbk12.org/acworth/	Acworth Intermediate School	2009.0	20.0
+16164	http://www.donalsonvillega.com	Donalsonville	1998.0	43.0
+16165	http://www.rose.net	Thomasville	1998.0	1589.0
+16167	http://www.suwanee.com	Suwanee	1998.0	126.0
+16168	http://www.citypalmetto.com	Palmetto	2008.0	228.0
+16170	http://dph.georgia.gov/	Georgia Department of Public Health	2013.0	1250.0
+16171	http://www.daltonstate.edu/	Dalton State College	2000.0	128.0
+16173	http://www.cityofbaldwin.org	Baldwin	2010.0	16.0
+16174	http://www.gcdd.org/	Georgia Council On Developmental Disabilities	2002.0	2808.0
+16175	http://www.catoosa.com	Catoosa County	1996.0	1.0
+16177	http://jones.schooldesk.net/	Jones County School District	2013.0	165.0
+16178	http://www.decaturga.com	Decatur	1998.0	2117.0
+16179	http://www.cobbk12.org/mtbethel/	Mount Bethel Elementary School	2011.0	9.0
+16182	http://www.chattooga.k12.ga.us	Chattooga County School District	2001.0	1.0
+16183	http://www.harlemga.org	Harlem	2003.0	69.0
+16184	http://www.columbusga.com	Columbus-Muscogee County	1996.0	17.0
+16186	http://www.cobbk12.org/still/	Still Elementary School	2009.0	8.0
+16187	http://www.comptonblogs.typepad.com/compton/	Compton Elementary School	2010.0	1.0
+16188	http://www.cobbk12.org/hillgrove/	Hillgrove High School	2009.0	29.0
+16189	http://www.cobbk12.org/harmonyleland/	Harmony-Leland Elementary School	2009.0	11.0
+16190	http://www.cityofblueridgega.gov	Blue Ridge	2010.0	197.0
+16191	http://www.liberty.k12.ga.us	Liberty County School District	0.0	1584.0
+16194	http://www.mcraega.org	McRae	2011.0	27.0
+16196	http://www.ircusa.com/jakin/	Jakin	2011.0	11.0
+16197	http://buchananga.com	Buchanan	2003.0	110.0
+16198	http://www.clayton.edu/	Clayton State University	0.0	3284.0
+16199	http://www.cobbk12.org/milford/	Milford Elementary School	2009.0	8.0
+16202	http://www.skyvalleyga.com	Sky Valley	2005.0	62.0
+16203	http://www.newtoncountyschools.org/eastside	Eastside High School	2001.0	773.0
+16204	http://www.thunderboltga.org	Thunderbolt	2007.0	28.0
+16205	http://www.afplweb.com	Atlanta Fulton Public Library System	2002.0	1.0
+16207	http://www.fairburn.com	Fairburn	2000.0	151.0
+16211	http://www.bartowlibraryonline.org	Bartow County Library System	2002.0	111.0
+16214	http://www.cherokeega.com	Cherokee County	2002.0	428.0
+16215	http://www.cityofdalton-ga.gov	Dalton	2005.0	728.0
+16217	http://www.gilmercounty-ga.gov/	Gilmer County	2005.0	32.0
+16222	http://puckettsmill.org/home.html	Puckett's Mill Elementary School	2008.0	1.0
+16223	http://www.georgiamedicalcenterauthority.org/	Georgia Medical Center Authority	2003.0	2.0
+16225	http://www.cityofbarnesville.com	Barnesville	2000.0	59.0
+16227	http://jcbooth.org/	Booth Middle School	2001.0	37.0
+16229	http://www.irwin.k12.ga.us	Irwin County School District	2000.0	205.0
+16230	http://www.dodgecountyga.com	Dodge County	2009.0	8.0
+16232	http://www.wilcoxcountygeorgia.com	Wilcox County	2013.0	11.0
+16233	http://www.elbertco.net/	Elbert County	2007.0	24.0
+16235	http://scms.stephens.k12.ga.us	Stephens County Middle School	2008.0	10256.0
+16236	http://www.douglas.k12.ga.us	Douglas County School District	1999.0	640.0
+16237	http://www.nelsongeorgia.com	Nelson	2010.0	36.0
+16238	http://www.cityofhampton-ga.gov	Hampton	2007.0	102.0
+16239	http://doc.frrls.net	Flint River Regional Library System	2001.0	33.0
+16240	http://www.moultriega.com	Moultrie	2001.0	230.0
+16241	http://www.baker.k12.ga.us	Baker County K12 School	2001.0	43.0
+16242	http://www.cobbk12.org/lostmountain/	Lost Mountain Middle School	2009.0	14.0
+16243	http://www.emanuelchamber.org/	Emanuel County	2000.0	241.0
+16244	http://www.cobbk12.org/addison/	Addison Elementary School	2009.0	17.0
+16245	http://crawfordelem.ga.cce.schoolinsites.com/	Crawford County Elementary School	2013.0	23.0
+16246	http://www.elbert.k12.ga.us	Elberton Education Center	1998.0	362.0
+16247	http://pataula.org	Pataula Charter Academy School District	2011.0	66.0
+16248	https://secure.gacollege411.org/default.aspx	Georgia Student Finance Commission	2010.0	557.0
+16249	http://www.metter-candler.com	Metter	1998.0	196.0
+16250	http://www.cobbk12.org/rockymount/	Rocky Mount Elementary School	2009.0	26.0
+16251	http://www.shallowfordfalls.typepad.com/	Shallowford Falls Elementary School	2006.0	3.0
+16252	http://spalding.k12.ga.us/orrs/	Orrs Elementary School	2003.0	329.0
+16253	http://www.savannahtech.edu	www.savannahtech.edu	2003.0	556.0
+16254	http://www.cobbk12.org/eastside/	Eastside School	2009.0	34.0
+16255	http://www.cityoflovejoy.com	Lovejoy	2009.0	287.0
+16256	http://www.cobbk12.org/dodgen/	Dodgen Middle School	2009.0	12.0
+16257	http://www.cityofoakwood.net	Oakwood	2008.0	2.0
+16258	http://www.newtoncountyschools.org/east_newton	East Newton Elementary School	2001.0	1242.0
+16259	http://townofbyromville.homestead.com/	Byromville	2008.0	18.0
+16260	http://www.southgatech.edu	www.southgatech.edu	2004.0	4385.0
+16261	http://www.washington.k12.ga.us	Washington County School District	2000.0	89.0
+16262	http://www.cprl.org	Coastal Plain Regional Library System	2001.0	24.0
+16263	http://www.jesupga.gov	Jesup	2008.0	34.0
+16264	http://www.cowetacharter.org	Coweta Charter Academy School District	2010.0	14.0
+16265	http://www.cityofmorrow.com	Morrow	1999.0	109.0
+16266	http://www.lee.k12.ga.us	Lee County School District	1999.0	39.0
+16268	http://www.webstercountyga.org	Webster County	2010.0	7.0
+16269	http://www.cobbk12.org/dowell/	Dowell Elementary School	2009.0	6.0
+16270	http://www.wrga.gov	Warner Robins	2011.0	536.0
+16272	http://www.cityofwinterville.com	Winterville	2000.0	34.0
+16273	http://www.cityofauburn-ga.org	Auburn	2001.0	525.0
+16274	http://www.cobbk12.org/mccallprimary/	McCall Primary School	2009.0	28.0
+16275	http://sedaliapark.typepad.com/thepark/	Sedalia Park Elementary School	2010.0	144.0
+16277	http://www.gwcc.com/	Georgia World Congress Center Authority	1997.0	151.0
+16278	http://ces.cook.k12.ga.us/	Cook Elementary School	2008.0	35.0
+16279	http://worthcountyboc.com	Worth County	2005.0	30.0
+16280	http://www.thecityofwarmspringsga.com	Warm Springs	2011.0	0.0
+16281	http://www.grantvillega.org	Grantville	2010.0	179.0
+16282	http://dahlonega.org/	Dahlonega	1997.0	2926.0
+16285	http://www.maconbibb.us/	Bibb County	2014.0	177.0
+16288	http://www.syrupcity.net	Cairo	2001.0	36.0
+16289	http://schools.bibb.k12.ga.us/riley	Riley Elementary School	2013.0	6290.0
+16290	http://www.sumtercountyga.us	Sumter County	2008.0	354.0
+16295	http://schools.bibb.k12.ga.us/northeast	Northeast High School	2012.0	6350.0
+16296	http://www.whitfieldcountyga.com	Whitfield County	2001.0	94.0
+16297	http://www.cobbk12.org/nortonpark/	Norton Park Elementary School	2009.0	9.0
+16300	http://www.locustgrove-ga.gov	Locust Grove	2005.0	22.0
+16302	http://www.ugoccc.us/	Cusseta-Chattahoochee County	2005.0	43.0
+16305	http://www.crawfordcountyga.org	Crawford County	2009.0	250.0
+16307	http://www.mceachernhigh.org/page/	McEachern High School	2012.0	701.0
+16308	http://www2.fvsu.edu/	Fort Valley State University	1998.0	2.0
+16309	http://www.morgan.k12.ga.us/mcps	Morgan County Primary School	2000.0	384.0
+16310	http://www.troup.k12.ga.us	Troup County School District	2000.0	56.0
+16311	http://www.hartcountyga.gov	Hart County	2012.0	265.0
+16312	http://gataxtribunal.georgia.gov/	Georgia Tax Tribunal	2013.0	17.0
+16313	http://www.swgrl.org	Southwest Georgia Regional Library System	2004.0	55.0
+16315	http://www.cobbk12.org/lindley/	Lindley Middle School	2009.0	9.0
+16316	http://www.manchester-ga.com	Manchester	1998.0	31.0
+16319	http://www.ps.white.k12.ga.us/	Jack P Nix Primary	2012.0	17.0
+16320	http://www.laurenscoga.org	Laurens County	2003.0	50.0
+16321	http://www.chattoogacountylibrary.org	Chattooga County Library System	2006.0	20.0
+16322	http://www.gwinnettpl.org	Gwinnett County Public Library System	2000.0	647.0
+16323	http://www.starrsmillhighschool.org	Starrs Mill High School	2003.0	59.0
+16325	http://www.cityofgriffin.com	Griffin	1999.0	406.0
+16327	http://gaswcc.georgia.gov/	Georgia Soil and Water Conservation Commission	2008.0	206.0
+16328	http://www.cobbk12.org/labelle/	LaBelle Elementary School	2009.0	21.0
+16330	http://www.cityofgrovetown.com	Grovetown	2009.0	209.0
+16331	http://www.dstrl.org/	Desoto Trail Regional Library System	2010.0	34.0
+16332	http://www.pulaskico.com/	Pulaski County	1998.0	60.0
+16333	http://www.socialcirclega.us/index.html	Social Circle	2012.0	35.0
+16334	http://aging.dhs.georgia.gov	Department of Human Services, Division of Aging Services	2010.0	678.0
+16335	http://schools.bibb.k12.ga.us/ingram	Ingram/Pye Elementary School	2013.0	6434.0
+16336	http://www.thomson-mcduffie.com	McDuffie County	2006.0	98.0
+16338	http://www.cobbk12.org/pitner/	Pitner Elementary School	2009.0	8.0
+16339	http://www.cityofballground.com	Ball Ground	2001.0	10.0
+16340	http://southcentralhealth.info/	South Central Health District	2008.0	168.0
+16341	http://decal.ga.gov/	Georgia Department of Early Care and Learning	2009.0	308.0
+16342	http://www.gcssk12.net/gmsweb	Gainesville Middle School	2002.0	903.0
+16343	http://www.cityofashburn.net	Ashburn	2006.0	38.0
+16344	http://www.cobbk12.org/argyle/	Argyle Elementary School	2009.0	25.0
+16345	http://www.hawkinsvillega.net	Hawkinsville	2002.0	50.0
+16346	http://www.evans.k12.ga.us	Evans County School District	0.0	636.0
+16347	http://www.dekalbhealth.net	DeKalb Health District	2001.0	227.0
+16348	http://www.ellavillega.org	Ellaville	2007.0	32.0
+16349	http://www.csdecatur.net	Decatur City School District	0.0	53.0
+16350	http://www.gatrees.org	Georgia Forestry Commission	2004.0	186.0
+16352	http://www.walnutgrovegeorgia.com	Walnut Grove	2008.0	42.0
+16355	http://georgiasportshalloffame.com/site/	Sports Hall of Fame Authority	2013.0	25.0
+16356	http://www.cobbk12.org/varner/	Varner Elementary School	2009.0	8.0
+16357	http://www.milnerga.com	Milner	2008.0	12.0
+16358	http://banks.ga.schoolblast.com/	Banks County High School	2012.0	1.0
+16359	http://www.colquitt-georgia.com	Miller County	2010.0	10.0
+16361	http://www.fortogov.com	Fort Oglethorpe	2004.0	44.0
+16362	http://www.co.bibb.ga.us/library/	Middle Georgia Regional Library System	1998.0	1.0
+16363	http://www.cobbk12.org/baker/	Baker Elementary School	2009.0	7.0
+16364	http://www.clayton.k12.ga.us	Clayton County School District	2001.0	315.0
+16365	http://www.laniertech.edu	www.laniertech.edu	2003.0	320.0
+16366	http://www.cityofcochran.com	Cochran	2007.0	7.0
+16367	http://www.wayne.k12.ga.us/marthasmith.cfm?subpage=193463	Martha Rawls Smith Elementary School	0.0	1481.0
+16368	http://www.cityofwinder.com	Winder	2001.0	629.0
+16369	http://www.cityofcumming.net	Cumming	2001.0	25.0
+16371	http://www.jasper.k12.ga.us	Jasper County School District	2000.0	441.0
+16373	http://www.georgianationalfair.com	Georgia Agricultural Exposition Authority	2001.0	63.0
+16374	http://www.mga.edu	Middle Georgia State College	2013.0	2597.0
+16375	http://www.cherokee.k12.ga.us/Pages/Welcome.aspx	Cherokee County School District	2008.0	77.0
+16376	http://www.house.ga.gov/en-US/default.aspx	Georgia House of Representatives	2012.0	252.0
+16377	http://ashn.sumterschools.org	Americus Sumter County High North	2009.0	102.0
+16378	http://www.dawsoncounty.org	Dawson County	2001.0	133.0
+16379	http://www.cobbk12.org/wheeler/	Wheeler High School	2009.0	55.0
+16380	http://www.gcssk12.net/gesweb	Gainesville Exploration Academy	2003.0	903.0
+16382	http://woodbinegeorgia.net/index.php	Woodbine	2010.0	80.0
+16383	http://www.chestateelibrary.org	Chestatee Regional Library System	2002.0	181.0
+16384	http://www.darton.edu/	Darton State College	2002.0	2670.0
+16385	http://www.stonemountaincity.org	Stone Mountain	2000.0	641.0
+16387	http://www.terrellcounty-ga.com/	Terrell County	2002.0	11.0
+16388	http://www.summervillega.org	Summerville	2005.0	24.0
+16389	http://www.cityofglennville.com	Glennville	2009.0	28.0
+16391	http://schoolwires.henry.k12.ga.us/ele/domain/4107	East Lake Elementary	2012.0	2.0
+16392	http://www.hallcounty.org	Hall County	1998.0	1212.0
+16394	http://www.newtonlibrary.org	Newton County Library System	2005.0	940.0
+16398	http://www.pulaski.k12.ga.us	Pulaski County School District	2001.0	599.0
+16399	http://brantleycountyga.blogspot.com/	Brantley County	2011.0	16.0
+16401	http://www.screvencounty.com/	Screven County	1999.0	620.0
+16402	http://www.dodge.k12.ga.us	Dodge County School District	2000.0	281.0
+16403	http://www.jaspercountyga.org	Jasper County	2007.0	14.0
+16405	http://www.jacksoncountygov.com	Jackson County	2002.0	891.0
+16406	http://cjcc.georgia.gov/	Georgia Criminal Justice Coordinating Council	2012.0	325.0
+16407	http://www.mountainparkgov.com/	Mountain Park	2012.0	799.0
+16408	http://ashs.sumterschools.org	Americus Sumter County High South	2005.0	37.0
+16409	http://www.lowndes.k12.ga.us/hms	Hahira Middle School	2002.0	11320.0
+16412	http://www.glascock.k12.ga.us	Glascock County School District	2005.0	9970.0
+16413	http://www.chambleega.com	Chamblee	1999.0	530.0
+16414	http://www.dekalb.k12.ga.us	DeKalb County School District	1998.0	727.0
+16416	http://www.whitecounty.net	White County	2001.0	52.0
+16417	http://www.cobbk12.org/kennesawmountain/	Kennesaw Mountain High School	2009.0	42.0
+16420	http://www.co.dekalb.ga.us	DeKalb County	1997.0	2.0
+16421	http://toccoa.stephens.k12.ga.us	Toccoa Elementary School	2009.0	2116.0
+16423	http://www.gpstc.org/	Georgia Public Safety Training Center	2001.0	411.0
+16424	http://www.bremencs.com	Jones Elementary School	2001.0	1572.0
+16426	http://www.uncleremus.org	Uncle Remus Regional Library System	2000.0	78.0
+16427	http://lchs.lincolncountyschools.org/home	Lincoln County High School	2010.0	781.0
+16428	http://www.newtoncountyschools.org/heard_mixon	Heard-Mixon Elementary School	2013.0	829.0
+16429	http://www.montgomery.k12.ga.us	Montgomery County School District	2004.0	148.0
+16432	http://www.ggc.edu/	Georgia Gwinnett College	2009.0	1908.0
+16433	http://claytoncountyga.gov	Clayton County	2010.0	2919.0
+16434	http://pap.georgia.gov/	State Board of Pardons and Paroles	2012.0	508.0
+16435	http://www.columbushealth.com/chd/columbusHealth/index.cfm	West Central Health District	2010.0	158.0
+16436	http://www.gema.ga.gov/	Georgia Emergency Management Agency	2008.0	463.0
+16437	http://www.newtoncountyschools.org/west_newton	West Newton Elementary School	2013.0	684.0
+16438	http://www.barrow.k12.ga.us./wbhs/	Winder-Barrow High School	1999.0	2.0
+16439	http://www.lagrange-ga.org	LaGrange	1996.0	26.0
+16440	http://pcms.pierce.k12.ga.us	Pierce County Middle School	2006.0	179.0
+16441	http://www.lamar.k12.ga.us	Lamar County School District	1998.0	360.0
+16442	http://www.chatthillsga.us	Chattahoochee Hills	2008.0	70.0
+16443	http://www.gcsu.edu/	Georgia College & State University	1998.0	1664.0
+16446	http://atlncs.org/	Neighborhood Charter School	2011.0	1827.0
+16447	http://www.fultoncountyga.gov	Fulton County	2006.0	1550.0
+16450	http://www.armstrong.edu/	Armstrong Atlantic State University	1997.0	3312.0
+16452	http://www.mitchellcountyga.net	Mitchell County	2003.0	85.0
+16453	http://www.chartercat.org	CCAT School School District	2002.0	4421.0
+16454	http://www.benefield.org/home.html	Benefield Elementary School	2007.0	40.0
+16455	http://brookwoodelementary.com/home.htm	Brookwood Elementary School	2008.0	1.0
+16456	http://www.wcis.white.k12.ga.us/	White Co. Intermediate	2012.0	58.0
+16459	http://tyrone.org/	Tyrone	1998.0	180.0
+16460	http://gsfic.georgia.gov	Georgia State Financing and Investment Commission	2004.0	189.0
+16461	http://www.docolib.org	Dougherty County Public Library System	2000.0	49.0
+16462	http://www.edline.net/pages/Upson-Lee_South_Elementary_Sch	Upson-Lee South Elementary	2013.0	15.0
+16463	http://www.canongeorgia.com	Canon	2008.0	45.0
+16464	http://sopecreeklibrary.typepad.com/blogs/	Sope Creek Elementary School	2007.0	57.0
+16465	http://www.hardawayhawks.com/	Hardaway High School	2002.0	145.0
+16466	http://www.richmondhill-ga.gov	Richmond Hill	2006.0	349.0
+16468	http://www.ci.st-marys.ga.us	St. Marys	2002.0	96.0
+16469	http://www.twiggscounty.us/	Twiggs County	2006.0	41.0
+16470	http://www.carltonjkellhighschool.com/	Kell High School	2013.0	17.0
+16471	http://www.putnam.k12.ga.us/pcps/	Putnam County Primary School	2012.0	229.0
+16472	http://www.cobbk12.org/russell/	Russell Elementary School	2009.0	57.0
+16475	http://georgia.gov/	State Government	2002.0	3224.0
+16476	http://www.dca.ga.gov/	Georgia Department of Community Affairs	2009.0	822.0
+16477	http://www.cobbk12.org/bigshanty/	Big Shanty Elementary School	2009.0	6.0
+16478	http://orls.org/wordpress/	Ocmulgee Regional Library System	2013.0	63.0
+16479	http://www.athensclarkecounty.com	Athens-Clarke County	2000.0	1505.0
+16480	http://www.lcgagov.org/	Lincoln County	2013.0	63.0
+16481	http://www.okefenokeetech.edu	www.okefenokeetech.edu	2003.0	1908.0
+16482	http://www.piercecountyga.org	Pierce County	2007.0	135.0
+16483	http://www.burkecounty-ga.gov	Burke County	2005.0	134.0
+16484	http://www.forestparkga.org	Forest Park	2000.0	14.0
+16485	http://www.kingslandgeorgia.com	Kingsland	1998.0	565.0
+16486	http://www.turner.k12.ga.us	Turner County School District	1999.0	142.0
+16487	http://www.mymec.org/	Mountain Education Center School School District	2012.0	85.0
+16488	http://www.elitescholarsacademy.com/?fof=Y	Elite Scholars Academy School	0.0	1.0
+16490	http://www.vidaliaga.com	Vidalia	1998.0	37.0
+16491	http://www.allatoona.org/	Lake Allatoona Preservation Authority	2001.0	10.0
+16492	http://www.cobbanddouglaspublichealth.com/	Cobb/Douglas Health District	2008.0	438.0
+16493	http://www.gatech.edu/	Georgia Institute of Technology	1996.0	212.0
+16495	http://www.gcssk12.net/wma	Wood's Mill Academy	2011.0	897.0
+16496	http://cityoffairmountga.com	Fairmount	2011.0	11.0
+16497	http://www.cobbk12.org/pickettsmill/	Pickett's Mill Elementary	2011.0	9.0
+16498	http://www.rutledgega.us	Rutledge	2005.0	141.0
+16499	http://www.ci.newnan.ga.us	Newnan	1999.0	85.0
+16500	http://georgiafmc.com/	Georgia Fiscal Management Council	2007.0	20.0
+16501	http://www.grta.org/	Georgia Regional Transportation Authority	0.0	25.0
+16502	http://www.cobbk12.org/brumby/	Brumby Elementary School	2009.0	8.0
+16503	http://www.barrow.k12.ga.us./aes/	Auburn Elementary School	1999.0	17.0
+16505	http://schools.bibb.k12.ga.us/appling	Appling Middle School	2012.0	3763.0
+16506	http://www.cobbk12.org/hendricks/	Austell Intermediate School	2012.0	15.0
+16507	http://schools.bibb.k12.ga.us/alexii	Alexander II Magnet School	2012.0	1131.0
+16508	http://www.greenecountyga.gov	Greene County	2004.0	229.0
+16509	http://www.waltoncountyga.org/	Walton County	2001.0	133.0
+16511	http://www.appling.k12.ga.us	Appling County School District	2000.0	3855.0
+16512	http://schools.bibb.k12.ga.us/carter	Carter Elementary School	2012.0	3754.0
+16513	http://www.chrl.org	Cherokee Regional Library System	2005.0	60.0
+16514	http://www.peachtree-city.org	Peachtree City	1998.0	579.0
+16515	http://www.westga.edu/	University of West Georgia	1997.0	4077.0
+16516	http://www.usg.edu	Board of Regents, University System of Georgia	1998.0	1939.0
+16517	http://www.cityofcomer.com	Comer	2011.0	8.0
+16518	http://schools.bibb.k12.ga.us/ballard	Ballard Hudson Middle School	2012.0	1714.0
+16520	http://www.evanscountyga.com	Evans County	2007.0	0.0
+16523	http://wcs.whitfield.k12.ga.us/	Whitfield County School District	2013.0	497.0
+16525	http://www.cartersville.k12.ga.us	Cartersville City School District	1998.0	293.0
+16526	http://dso.georgia.gov/	Governor's Office of Disability Services Ombudsman	2010.0	13.0
+16529	http://www.berkeley-lake.com	Berkeley Lake	1998.0	803.0
+16531	http://www.abac.edu/museum	Georgia Museum of Agriculture and Historic Village	2010.0	1458.0
+16532	http://www.jasper-ga.us	Jasper	2006.0	24.0
+16533	http://www.johnson.k12.ga.us	Johnson County Elementary School	2003.0	37.0
+16534	http://gaa.georgia.gov	Georgia Aviation Authority	2012.0	7.0
+16535	http://rabun.k12.ga.us/	Rabun County School District	2002.0	3529.0
+16536	http://schools.bibb.k12.ga.us/heritage	Heritage Elementary School	2013.0	6185.0
+16537	http://www.gordoncounty.org	Gordon County	2000.0	634.0
+16539	http://www.daltonpublicschools.com/citypark.cfm	City Park School	2005.0	38.0
+16540	http://trippe.ga.vcm.schoolinsites.com/	J. R. Trippe Middle School	2010.0	101.0
+16541	http://www.nwgapublichealth.org	Northwest Georgia Health District	2008.0	126.0
+16542	http://www.osah.ga.gov/	Office of State Administrative Hearings	2006.0	36.0
+16543	http://www.white.k12.ga.us	White County School District	2000.0	186.0
+16544	http://www.acworth.org	Acworth	2000.0	1497.0
+16545	http://www.georgialibraries.org/	Georgia Public Library Service	2003.0	492.0
+16549	http://www.cobbk12.org/greenacres/	Green Acres Elementary School	2010.0	28.0
+16550	http://law.ga.gov/	Office of Attorney General	2007.0	2031.0
+16552	http://www.orgsites.com/ga/veteransmemorialmiddle/	Veterans Memorial Middle School	2007.0	8.0
+16553	http://gov.georgia.gov	Governor's Office	2008.0	1203.0
+16554	http://www.monroe.k12.ga.us	Monroe County School District	1999.0	28.0
+16555	http://www.cobbk12.org/nicholson/	Nicholson Elementary School	2009.0	10.0
+16559	http://www.cobbk12.org/osborne/	Osborne High School	2011.0	85.0
+16560	http://www.dawsonville-ga.gov	Dawsonville	2009.0	14.0
+16562	http://www.cobbk12.org/austell/	Austell Primary School	2009.0	9.0
+16563	http://www.snellville.org	Snellville	1997.0	1646.0
+16564	http://www.dunwoodyga.gov/splash.aspx	Dunwoody	2010.0	300.0
+16565	http://www.co.douglas.ga.us	Douglas County	1999.0	1187.0
+16566	http://www.seminolecountyga.com	Seminole County	2009.0	15.0
+16567	http://johnsonco.org	Johnson County	2010.0	54.0
+16569	http://www.hart.k12.ga.us	Hart County School District	2003.0	2521.0
+16570	http://www.doolychamber.com/	Dooly County	1998.0	153.0
+16571	http://www.banks.k12.ga.us/bcps/	Banks County Primary School	2003.0	56.0
+16572	http://www.hartwell-ga.info	Hartwell	2008.0	39.0
+16573	http://www.uga.edu/	University of Georgia	1997.0	1173.0
+16577	http://bullochcounty.net/	Bulloch County	2002.0	376.0
+16579	http://jnc.georgia.gov/	Judicial Nominating Commission	2012.0	56.0
+16581	http://www.clayton.k12.ga.us/facilities/schools/028.asp	Sequoyah Middle School	2005.0	304.0
+16582	http://www.cityofhelen.org	Helen	2002.0	348.0
+16583	http://www.townofresaca.com	Resaca	2008.0	8.0
+16585	http://www.brookscountyga.us/	Brooks County	2013.0	7.0
+16586	http://cityofmaysvillega.org	Maysville	2009.0	27.0
+16587	http://www.georgiaindiancouncil.org/	Council on American Indian Concerns	2008.0	14.0
+16588	http://www.wchs.white.k12.ga.us/	White County High School	2012.0	23.0
+16592	http://www.cityofjenkinsburg.com	Jenkinsburg	2010.0	26.0
+16593	http://www.meigs-ga.com	Meigs	2010.0	1.0
+16595	http://schools.bibb.k12.ga.us/howardhs	Howard High School	2012.0	6881.0
+16597	http://www.trsga.com/	Teachers' Retirement System	1999.0	152.0
+16599	http://www.cityofhiramga.gov	Hiram	2010.0	234.0
+16600	http://www.cobbk12.org/nickajack/	Nickajack Elementary School	2009.0	10.0
+16601	http://www.gcssk12.net/nhweb	New Holland Core Knowledge Academy	2003.0	900.0
+16602	http://www.edline.net/pages/Upson-Lee_North_Elementary_Sch	Upson-Lee North Elementary School	2013.0	13.0
+16603	http://schools.bibb.k12.ga.us/weaver	Weaver Middle School	2012.0	6435.0
+16604	http://www.gnpec.org/	Nonpublic Postsecondary Education Commission	2001.0	10.0
+16605	http://www.emanuel.k12.ga.us	Emanuel County School District	2001.0	83.0
+16606	http://www.bowdon.net	Bowdon	1999.0	42.0
+16608	http://www.lowndes.k12.ga.us/ces	Clyattville Elementary School	2002.0	12209.0
+16609	http://schools.bibb.k12.ga.us/vineville	Vineville Academy	2012.0	6356.0
+16610	http://portal.rockdale.k12.ga.us/Pages/default.aspx	Rockdale County School District	2011.0	293.0
+16612	http://www.madison.k12.ga.us	Madison County School District	2004.0	526.0
+16613	http://www.cobbk12.org/southcobb/	South Cobb High School	2011.0	10.0
+16614	http://www.hcbe.net	Houston County School District	2000.0	345.0
+16615	http://www.smyrnacity.com	Smyrna	0.0	1424.0
+16616	http://www.rcs.rome.ga.us	North Heights Elementary School	1999.0	18.0
+16617	http://www.glascockcountyga.com/	Glascock County	2006.0	2.0
+16618	http://www.libertycountyga.com	Liberty County	2001.0	402.0
+16621	http://gdna.georgia.gov/	Georgia Drugs and Narcotics Agency	2003.0	35.0
+16623	http://www.jefferson.public.lib.ga.us	Jefferson County Library System	1998.0	17.0
+16624	http://www.warren.k12.ga.us/	Warren County School District	2004.0	19.0
+16625	http://www.mtyonah.white.k12.ga.us/	Mount Yonah Elementary School	2012.0	13.0
+16626	http://www.cityofwaleska.com	Waleska	2006.0	42.0
+16627	http://www.doravillega.us	Doraville	2004.0	162.0
+16628	http://candlercounty.schoolinsites.com/	Metter Elementary School	2007.0	628.0
+16629	http://www.sctech.edu	www.sctech.edu	2010.0	367.0
+16631	http://gbpw.georgia.gov/	Georgia Board for Physician Workforce	2006.0	54.0
+16633	http://www.mcboe.net	Montgomery County Middle School	2004.0	117.0
+16634	http://www.banks.k12.ga.us/bcms/	Banks County Middle School	2003.0	32.0
+16635	http://www.waycrossga.com	Waycross	1998.0	245.0
+16637	http://www.henry.public.lib.ga.us	Henry County Library System	2001.0	96.0
+16638	http://www.downtownelementary.com/	Downtown Elementary Magnet Academy	2001.0	1.0
+16639	http://ost.georgia.gov/	Office of the State Treasurer	2012.0	41.0
+16640	http://www.cityofdublin.org	Dublin	1998.0	62.0
+16641	http://www.cobbk12.org/mccleskey/	McCleskey Middle School	2009.0	7.0
+16642	http://www.docoschools.org/	Dougherty County School District	2004.0	34.0
+16644	http://nicholson-ga.com/	Nicholson	2007.0	18.0
+16645	http://www.mcintosh.k12.ga.us	McIntosh County School District	2003.0	527.0
+16647	http://www.cityofjeffersonga.com	Jefferson	2004.0	65.0
+16648	http://www.carrollcountyschools.com	Sharp Creek Elementary School	2001.0	566.0
+16649	http://www.walkerga.us/	Walker County	2008.0	40.0
+16650	http://www.union.k12.ga.us	Union County School District	1998.0	733.0
+16651	http://www.savannahstate.edu/	Savannah State University	2008.0	541.0
+16652	http://www.newbornga.com	Newborn	2010.0	18.0
+16653	http://www.oconee.k12.ga.us/mbes/	Malcom Bridge Elementary School	2000.0	608.0
+16654	http://www.troupcountyga.org	Troup County	2000.0	64.0
+16655	http://www.morgan.k12.ga.us/mces	Morgan County Elementary School	2001.0	340.0
+16656	http://www.newtoncountyschools.org/indian_creek	Indian Creek Middle School	2012.0	901.0
+16658	http://schools.bibb.k12.ga.us/taylor	Rosa Taylor Elementary School	2013.0	6406.0
+16659	http://ltgov.georgia.gov	Lieutenant Governor's Office	2004.0	302.0
+16660	http://www.athenstech.edu	www.athenstech.edu	2003.0	358.0
+16661	http://www.cityofcordele.com	Cordele	1998.0	84.0
+16662	http://www.macon.k12.ga.us	Macon County School District	2001.0	116.0
+16665	http://www.cobbk12.org/bellsferry/	Bells Ferry Elementary School	2009.0	5.0
+16667	http://collegeparkga.com	College Park	1998.0	652.0
+16668	http://www.screven.k12.ga.us	Screven County School District	2000.0	128.0
+16671	http://www.shellmanga.com	Shellman	2001.0	96.0
+16673	http://www.cityofbogart.com	Bogart	2009.0	17.0
+16674	http://www.marietta-city.org/	Marietta Center for Advanced Academics	2001.0	7.0
+16679	http://spalding.k12.ga.us/jackson/default.htm	Jackson Road Elementary School	2000.0	214.0
+16680	http://internet.savannah.chatham.k12.ga.us/default.aspx	Chatham County School District	2010.0	3416.0
+16681	http://www.nghd.org	North Georgia Health District	2004.0	675.0
+16683	http://www.williamson-ga.us	Williamson	2011.0	21.0
+16684	http://www.newtoncountyschools.org/oak_hill	Oak Hill Elementary School	2012.0	1463.0
+16685	http://krlibrary.org/	Kinchafoonee Regional Library System	2008.0	18.0
+16686	http://www.cobbk12.org/vaughan/	Vaughan Elementary School	2009.0	12.0
+16687	http://www.unionpointga.org	Union Point	2008.0	25.0
+16688	http://rabuncounty.ga.gov/	Rabun County	2012.0	25.0
+16689	http://www.berriencountygeorgia.com/	Berrien County	2008.0	165.0
+16690	http://www.websterbobcats.org	Webster County Elementary/Middle School	2013.0	104.0
+16691	http://www.house.ga.gov/en-us/default.aspx	House	2012.0	254.0
+16692	http://www.atlm.edu/	Atlanta Metropolitan State College	2002.0	207.0
+16694	http://www.canton-georgia.com	Canton	2000.0	53.0
+16695	http://www.seminole.k12.ga.us	Seminole County School District	1998.0	51.0
+16696	http://www.thomascountyboc.org/	Thomas County	2000.0	40.0
+16697	http://dbhdd.georgia.gov/	Georgia Department of Behavioral Health and Developmental Disabilities	2009.0	497.0
+16699	http://www.cityofaragon.org/	Aragon	2010.0	1.0
+16701	http://www.hallco.org/sses/site/	Spout Springs Elementary School	2012.0	0.0
+16702	http://www.cobbk12.org/garrett/	Garrett Middle School	2009.0	16.0
+16705	http://www.hahira.ga.us	Hahira	1998.0	118.0
+16707	http://www.gcssk12.net	Gainesville City School District	2001.0	590.0
+16708	http://www.duluthga.net	Duluth	2003.0	401.0
+16709	http://www.dekalb.k12.ga.us/hooperalexander/	DeKalb Elementary School of the Arts	2007.0	2.0
+16712	http://www.cobbk12.org/pinemountain/	Pine Mountain Middle School	2009.0	18.0
+16714	http://www.lowndescounty.com	Lowndes County	2000.0	171.0
+16715	http://www.oconeecounty.com	Oconee County	1999.0	1252.0
+16716	http://www.georgiaepd.org/	Georgia Department of Natural Resources, Environmental Protection Division	2007.0	285.0
+16717	http://www.putnamcountyga.us	Putnam County	2003.0	132.0
+16718	http://www.woodstockga.gov	Woodstock	2006.0	501.0
+16720	http://www.cobbk12.org/teasley/	Teasley Elementary School	2009.0	6.0
+16721	http://dickerson.ga.vcp.schoolinsites.com/	J. D. Dickerson Primary School	2010.0	67.0
+16722	http://www.lumpkincounty.gov/	Lumpkin County	2001.0	148.0
+16723	http://gsw.edu/	Georgia Southwestern State University	1999.0	2372.0
+16724	http://www.worthschools.net	Worth County School District	2010.0	1044.0
+16725	http://www.dunwoodyes.dekalb.k12.ga.us/	Dunwoody Elementary School	2014.0	44.0
+16727	http://schools.bibb.k12.ga.us/jones	Jones Elementary School	2012.0	6354.0
+16729	http://www.cityofsylvaniaga.com/index.cfm	Sylvania	2013.0	76.0
+16731	http://southhealthdistrict.com/	South Health District	2006.0	286.0
+16733	http://www.conyersga.com	Conyers	1999.0	159.0
+16734	http://www.atkinsonga.org/	Atkinson County	2011.0	11.0
+16736	http://www.morganga.org	Morgan County	2001.0	583.0
+16738	http://www.ohoopeelibrary.org	Ohoopee Regional Library System	2005.0	14.0
+16740	http://www.altamahatech.edu	www.altamahatech.edu	2003.0	1374.0
+16741	http://www.tcpls.org/	Thomas County Public Library System	2000.0	903.0
+16742	http://gba.georgia.gov/	Georgia Building Authority	2007.0	142.0
+16743	http://motor.etax.dor.ga.gov/motor/mvdonline.aspx	Georgia Department of Revenue, Motor Vehicle Division	2008.0	145.0
+16744	http://www.newtoncountyschools.org/cousins/	Cousins Middle School	2001.0	457.0
+16745	http://www.townofmtairy.com	Mount Airy	2011.0	22.0
+16746	http://www.cobbk12.org/kemp/	Kemp Elementary School	2009.0	27.0
+16747	http://www.newingtonga.com/Pages/default.aspx	Newington	2012.0	12.0
+16748	http://www.cityofjacksonga.com	Jackson	2007.0	264.0
+16750	http://www.lassiterhigh.org/	Lassiter High School	2011.0	138.0
+16751	http://www.bulloch.k12.ga.us	Bulloch County School District	1998.0	12983.0
+16752	http://www.andrewshs.dekalb.k12.ga.us/	Elizabeth Andrews High School	0.0	49.0
+16755	http://scsc.georgia.gov/	State Charter Schools Commission	2013.0	81.0
+16757	http://www.cobbk12.org/belmonthills/	Belmont Hills Elementary School	2009.0	11.0
+16762	http://www.romega.us	Rome	2003.0	12114.0
+16763	http://holocaust.georgia.gov/	Georgia Commission on the Holocaust	2004.0	224.0
+16764	http://vidalia.ga.vch.schoolinsites.com/	Vidalia Comprehensive High School	2010.0	295.0
+16765	http://www.edline.net/pages/Upson-Lee_High_School	Upson-Lee High School	2012.0	17.0
+16767	http://avondaleestates.org	Avondale Estates	2000.0	84.0
+16769	http://www.townscountyga.com/	Towns County	2004.0	1.0
+16770	http://ada.georgia.gov/	State ADA Coordinator's Office	2008.0	129.0
+16771	http://www.cityofeastdublin.org	East Dublin	2010.0	98.0
+16773	http://www.mcdonoughga.org	McDonough	2004.0	836.0
+16774	http://schools.bibb.k12.ga.us/hutchings	William S. Hutchings Career Center	2012.0	6328.0
+16775	http://www.strl.info	Statesboro Regional Library System	2007.0	66.0
+16776	http://consumer.georgia.gov/	Governor's Office of Consumer Protection	2006.0	476.0
+16777	http://www.cityofsylvester.com	Sylvester	2001.0	235.0
+16778	http://crawfordmiddle.ga.ccm.schoolinsites.com/	Crawford County Middle School	2012.0	23.0
+16780	http://www.decatur-city.k12.ga.us	Winnona Park Elementary School	2000.0	53.0
+16783	http://www.columbiacountyga.gov	Columbia County	0.0	1936.0
+16784	http://www.haralson.k12.ga.us	Haralson County School District	2001.0	132.0
+16785	http://www.cobbk12.org/lindley6/index.aspx	Lindley 6th Grade Academy	2013.0	14.0
+16786	http://www.ellijay-ga.gov/	Ellijay	2010.0	40.0
+16787	http://www.mansfieldga.com/	Mansfield	2013.0	23.0
+16788	http://www.barrow.k12.ga.us./bres/	Bramlett Elementary School	1999.0	12.0
+16789	http://www.cobbk12.org/ford/	Ford Elementary School	2009.0	9.0
+16791	http://www.coffee.k12.ga.us/	Coffee County School District	2001.0	218.0
+16792	http://www.marion.k12.ga.us	Marion County School District	2000.0	1808.0
+16793	http://www.cityofdudley.com	Dudley	2011.0	2.0
+16796	http://www.waynesboroga.com	Waynesboro	2000.0	399.0
+16797	http://www.barrow.k12.ga.us./yes/	Yargo Elementary School	2002.0	13.0
+16798	http://www.legis.ga.gov/en-us/default.aspx	State Legislature	2011.0	1712.0
+16799	http://pes.pierce.k12.ga.us	Patterson Elementary School	2006.0	43.0
+16800	http://www.mountainregionallibrary.org	Mountain Regional Library System	2004.0	106.0
+16801	http://www.blackshearga.com	Blackshear	2005.0	30.0
+16802	http://www.cityofbuford.com	Buford	2002.0	95.0
+16803	http://scps.sumterschools.org	Sumter County Primary School	2006.0	14.0
+16804	http://www.cobbk12.org/pebblebrook/	Pebblebrook High School	2009.0	31.0
+16805	http://www.georgiacourts.gov/	Administrative Office of the Courts	2009.0	742.0
+16809	http://www.townoflyerly.com/	Lyerly	2012.0	32.0
+16810	http://www.cityofnashvillega.net	Nashville	2004.0	307.0
+16811	http://www.jenkinscountyga.com	Jenkins County	2008.0	24.0
+16813	http://www.cobbk12.org/sprayberry/	Sprayberry High School	2009.0	44.0
+16814	http://tchs.tattnallschools.org	Tattnall County High School	2004.0	31.0
+16815	http://www.camden.k12.ga.us	Camden County School District	2002.0	1104.0
+16816	http://www.ciclt.net/sn/clt/bsitf/default.aspx?ClientCode=bsitf	Brain and Spinal Injury Trust Fund Commission	2007.0	3.0
+16817	http://gspc.georgia.gov/	State Properties Commission	2008.0	83.0
+16818	http://www.euharlee.com	Euharlee	2001.0	49.0
+16819	http://www.pinemtnlibrary.org	Pine Mountain Regional Library System	2009.0	34.0
+16820	http://www.gainesville.org	Gainesville	1997.0	1500.0
+16821	http://www.gdaonline.com/	Georgia Development Authority	2001.0	21.0
+16823	http://schools.bibb.k12.ga.us/springdale	Springdale Elementary School	2012.0	6460.0
+16824	http://gbi.georgia.gov/	Georgia Bureau of Investigation	2004.0	678.0
+16826	http://dbf.georgia.gov/	Department of Banking and Finance	2004.0	323.0
+16827	http://www.lavonia-ga.com	Lavonia	2004.0	66.0
+16828	http://www.byronga.com	Byron	1999.0	59.0
+16829	http://visitharalson.org/	Haralson County	2007.0	28.0
+16831	http://claycountyga.org/	Clay County	2006.0	98.0
+16832	http://www.mcintyrega.com/	McIntyre	2009.0	125.0
+16833	http://schoolwires.henry.k12.ga.us/domain/2504	Austin Road Middle School	2012.0	3293.0
+16835	http://www.cityofblakely.net	Blakely	2010.0	10.0
+16836	http://www.cobbk12.org/mabry/	Mabry Middle School	2009.0	13.0
+16837	http://schools.bibb.k12.ga.us/porter	Porter Elementary School	2012.0	6365.0
+16838	http://www.oftc.edu	www.oftc.edu	2011.0	330.0
+16839	http://schools.bibb.k12.ga.us/rutlandhs	Rutland High School	2012.0	6589.0
+16841	http://www.pacga.org/	Prosecuting Attorneys' Council of Georgia	2004.0	219.0
+16843	http://www.rockdalecounty.org	Rockdale County	2006.0	970.0
+16844	http://schoolwires.henry.k12.ga.us/cie	Cotton Indian Elementary School	2012.0	15937.0
+16845	http://www.atlantaga.gov	Atlanta	2003.0	1472.0
+16846	http://www.lbrls.org	Lake Blackshear Regional Library System	2005.0	760.0
+16847	https://www.northgatech.edu/default.aspx	www.northgatech.edu	2012.0	597.0
+16848	http://www.georgiasuperiorcourts.org	Council of Superior Court Judges of Georgia	2013.0	32.0
+16849	http://www.romefloyd.com/	Floyd County	2010.0	12213.0
+16850	http://www.cobbk12.org/hightowertrail/	Hightower Trail Middle School	2009.0	11.0
+16851	http://www.decaturcountyga.org	Decatur County	2006.0	42.0
+16852	http://www.chathamcounty.org	Chatham County	2000.0	70.0
+16853	http://www.cobbk12.org/floyd/	Floyd Middle School	2009.0	9.0
+16854	http://www.oglethorpe.k12.ga.us	Oglethorpe County School District	2000.0	103.0
+16858	http://www.ecphd.com/common/content.asp?PAGE=521	East Central Health District	2006.0	179.0
+16859	http://www.commercecityschools.org/	Commerce Elementary School	2013.0	311.0
+16860	http://int.ivyprepacademy.org/	Ivy Preparatory Academy School School District	2012.0	116.0
+16861	http://www.gptc.edu/	www.gptc.edu/	2011.0	0.0
+16862	http://www.southwestgatech.edu	www.southwestgatech.edu	2003.0	1585.0
+16863	http://www.cobbk12.org/fairoaks/	Fair Oaks Elementary School	2009.0	26.0
+16864	http://www.timberridge.typepad.com/	Timber Ridge Elementary School	2008.0	38.0
+16866	http://www.westgatech.edu	www.westgatech.edu	2003.0	463.0
+16867	http://www.cobbcat.org	Cobb County Public Library System	1999.0	1387.0
+16868	http://schools.bibb.k12.ga.us/rutlandms	Rutland Middle School	2013.0	6316.0
+16869	http://www.cobbk12.org/bullard/	Bullard Elementary School	2009.0	49.0
+16871	http://www.gcssk12.net/fsweb	Fair Street International Baccalaureate World School	2003.0	887.0
+16873	http://www.coweta.ga.us	Coweta County	0.0	930.0
+16874	http://www.cityoffolkston-ga.gov	Folkston	2011.0	2.0
+16875	http://www.orgsites.com/ga/dce/	Double Churches Elementary School	2007.0	10.0
+16876	http://www.gaarts.org/	Georgia Council for the Arts	2001.0	101.0
+16877	http://www.ware.k12.ga.us	Ware County School District	2000.0	30.0
+16878	http://www.cobbk12.org/durham/	Durham Middle School	2009.0	9.0
+16879	http://www.jordanhs.com/	Jordan Vocational High School	2002.0	0.0
+16880	http://www.ogeecheetech.edu	www.ogeecheetech.edu	2003.0	672.0
+16881	http://www.wayne.k12.ga.us	Wayne County School District	0.0	2011.0
+16882	http://www.cityofcartersville.org	Cartersville	2001.0	353.0
+16884	http://children.georgia.gov/	Governor's Office for Children and Families	2009.0	269.0
+16886	http://www.highlands.edu/	Georgia Highlands College	2005.0	4179.0
+16889	http://www.clarkstonga.gov/	Clarkston	2013.0	422.0
+16890	http://www.glynncounty.org	Glynn County	1999.0	1251.0
+16891	http://www.barrow.k12.ga.us./rms/	Russell Middle School	1999.0	20.0
+16893	http://www.maconcountyga.gov	Macon County	2009.0	221.0
+16894	http://www.paulding.gov	Paulding County	2001.0	806.0
+16895	http://www.bethlehemga.org	Bethlehem	2007.0	9.0
+16899	http://www.tennille-ga.gov	Tennille	2004.0	5.0
+16901	http://www.barrow.k12.ga.us/kes/	Kennedy Elementary School	1999.0	8.0
+16902	http://www.cobbk12.org/northcobb/	North Cobb High School	2009.0	38.0
+16904	http://schs.stephens.k12.ga.us	Stephens County High School	2008.0	1620.0
+16905	http://www.fitzgeraldga.org	Fitzgerald	1998.0	1099.0
+16907	http://www.odumgeorgia.com	Odum	2005.0	34.0
+16908	http://barnesville.org/	Lamar County	1998.0	381.0
+16911	http://www.hartcountylibrary.com/modules/news/	Hart County Library System	2005.0	10.0
+16913	http://dhs.georgia.gov/	Georgia Department of Human Services	2009.0	1841.0
+16914	http://www.marioncountyga.org	Marion County	2011.0	6.0
+16915	http://www.blairsville-ga.gov/	Blairsville	2007.0	16.0
+16916	http://www.catoosa.k12.ga.us	Catoosa County School District	1998.0	301.0
+16917	http://gosa.georgia.gov	Governor's Office of Student Achievement	2013.0	144.0
+16920	https://www.asurams.edu/	Albany State University	1999.0	713.0

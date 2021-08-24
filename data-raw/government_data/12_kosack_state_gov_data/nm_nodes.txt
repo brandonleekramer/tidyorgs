@@ -1,0 +1,412 @@
+NodeId	NodeURL	NodeName	Year	pages
+39273	http://www.sos.state.nm.us/	Secretary of State	1997.0	35.0
+39274	http://planet.cnm.edu/library/	Central New Mexico Community College - Libraries	2006.0	0.0
+39276	http://www.bosquefarmspubliclibrary.com	Bosque Farms Public Library	2010.0	9.0
+39277	http://www.osi.state.nm.us/	Insurance Division, Office of Superintendent of Insurance	2013.0	9.0
+39278	http://www.nmfilm.com/	Film Office, New Mexico	2000.0	168.0
+39279	http://sde.state.nm.us/	Department of Education	1996.0	31.0
+39280	http://www.unm.edu/~maxwell/	Maxwell Museum of Anthropology	1997.0	60.0
+39282	http://www.emnrd.state.nm.us/nmparks/	State Parks	1997.0	1.0
+39283	http://vtsv.org/	Taos Ski Valley	1999.0	1019.0
+39284	http://nmdaweb.nmsu.edu/	Agriculture, New Mexico Department of	1998.0	25.0
+39285	http://www.villageofhatch.org	Hatch	2002.0	35.0
+39286	http://www.rooseveltcounty.com/	Roosevelt County	2001.0	140.0
+39288	http://www.abqboychoir.org/	Albuquerque Boy's Choir	2004.0	430.0
+39289	http://manzano.cabq.gov/cmaqpublic	Albuquerque - Daily pollen count	0.0	125.0
+39290	http://www.fortsumner.net/content.asp?custcomkey=87568&categorykey=87571&pn=page	Fort Sumner Public Library	0.0	7.0
+39291	http://www.sandovalcounty.com/	Sandoval County, New Mexico	2000.0	793.0
+39292	http://www.catroncounty.us/	Catron	2013.0	113.0
+39293	http://rgis.unm.edu/	RGIS - New Mexico Resource Geographic Information System Program	1998.0	9.0
+39294	http://www.loslunasnm.gov/	Los Lunas, Village of	2004.0	563.0
+39295	http://www.dulceschools.com	Dulce School District	2001.0	0.0
+39296	http://www.laschools.net/site/default.aspx?PageID=1	Los Alamos School District	2012.0	3.0
+39297	http://www.rld.state.nm.us/pharmacy/	Pharmacy, New Mexico Board of	2007.0	12.0
+39298	http://www.smcounty.net	San Miguel	2001.0	40.0
+39299	http://www.dvs.state.nm.us/	Veterans' Services, New Mexico Department of	2006.0	146.0
+39300	http://www.nmmb.state.nm.us/	Medical Board, New Mexico	2004.0	29.0
+39301	http://www.torcnm.org/	Truth Or Consequences	2008.0	12.0
+39302	http://www.nmcpr.state.nm.us/nmac/	Administrative Code, New Mexico (NMAC)	2001.0	3.0
+39303	http://www.nmlbonline.com/	Livestock Board, New Mexico	2008.0	90.0
+39304	http://geoinfo.nmt.edu/	Geology and Mineral Resources, New Mexico Bureau of	1996.0	1348.0
+39306	http://taos.unm.edu/index.html	University of New Mexico - Taos	2009.0	9.0
+39307	http://www.clovis.edu/	Clovis Community College	2002.0	510.0
+39308	http://www.corrections.state.nm.us/	Corrections Department, State of New Mexico	2002.0	48.0
+39309	http://www.reserve.k12.nm.us/	Reserve School District	2001.0	24.0
+39310	http://www.silverschools.org/	Silver School District	2008.0	285.0
+39312	http://www.pecos.k12.nm.us/	Pecos School District	2000.0	33.0
+39313	http://www.tomudall.senate.gov/	Tom Udall, U.S. Senator from New Mexico	2009.0	333.0
+39314	http://www.cdhh.state.nm.us/	Deaf and Hard of Hearing Persons, New Mexico Commission for	2006.0	64.0
+39315	http://www.indianartsandculture.org/	Museum of Indian Arts and Culture	2006.0	218.0
+39316	http://www.generalservices.state.nm.us/stateprinting/	Printing and Graphic Services	2011.0	21.0
+39317	http://sheriffalerts.com/cap_office_disclaimer.php?office=55290&fwd=aHR0cDovL2NvbW11bml0eW5vdGlmaWNhdGlvbi5jb20vY2FwX21haW4ucGhwP29mZmljZT01NTI5MA==	Sex Offender Information, Department of Public Safety	2013.0	4.0
+39318	http://seconddistrictcourt.nmcourts.gov/	District Court, 2nd Judicial	2012.0	3.0
+39319	http://www.santafelibrary.org/	Oliver La Farge Library	2003.0	26.0
+39321	http://www.palaceofthegovernors.org/index.php	Palace of the Governors	2007.0	39.0
+39322	http://www.nmjustice.net/website/controller.php	Justice Network, New Mexico	2006.0	1.0
+39323	http://www.townofsilvercity.org/	Silver City, Town of	2001.0	377.0
+39324	http://www.portalesnm.gov/	Portales	2013.0	644.0
+39326	http://www.internationalfolkart.org/	Museum of International Folk Art	2006.0	27.0
+39327	http://www.nnmt.net/	Mora High School	1999.0	12.0
+39328	http://www.hsd.state.nm.us/mad/index.html	Medicaid, Medical Assistance Division, HSD, New Mexico	2006.0	1.0
+39329	http://www.newmexico.gov/veterans/	Veterans' Service Commission	0.0	2.0
+39330	http://alamo.nmsu.edu/	New Mexico State University at Alamogordo	0.0	271.0
+39331	http://rah.gmcs.k12.nm.us/	Ramah High School	2003.0	19.0
+39332	http://www.nmrhca.state.nm.us/	Retiree Healthcare Authority, New Mexico	1999.0	9.0
+39334	http://www.tularosa.k12.nm.us/	Tularosa School District	2003.0	326.0
+39335	http://pearce.house.gov/	Steve Pearce, U.S. Representative from New Mexico's 2nd District	2004.0	519.0
+39336	http://exponm.com/	Expo New Mexico	2004.0	180.0
+39337	http://riometro.org/	RailRunner Express	2008.0	1169.0
+39338	http://www.artesianmlibrary.org	Artesia Public Library	2009.0	2.0
+39339	http://www.nmlegis.gov/lcs/	Legislature, New Mexico	2008.0	789.0
+39341	http://www.generalservices.state.nm.us/	General Services Department, New Mexico	2007.0	208.0
+39342	http://www.claytonnewmexico.net/	Clayton, City of	2004.0	78.0
+39343	http://www.generalservices.state.nm.us/riskmanagement/	Risk Management Division	2011.0	52.0
+39344	http://www.nmjsc.org/	Judicial Standards Commission	2009.0	17.0
+39345	http://www.cnm.edu/depts/taxhelp	Tax Help NM	2012.0	1072.0
+39346	http://www.taoscounty.org	Taos	2003.0	1285.0
+39349	http://www.sipi.edu/	Southwestern Indian Polytechnic Institute	2008.0	125.0
+39350	http://www.cabq.gov/onlinesvcs/crimestats/	Albuquerque Crime Statistics	2003.0	2.0
+39351	http://www.12thdistrict.net/	District Court, 12th Judicial	2004.0	31.0
+39352	http://www.lincolncountynm.net	Lincoln	2003.0	52.0
+39353	http://www.jvps.org/	Jemez Valley School District	2002.0	316.0
+39354	http://www.hatch.k12.nm.us/	Hatch Valley School District	2002.0	80.0
+39355	http://www.workerscomp.state.nm.us/	Workers' Compensation Administration, State of New Mexico	2006.0	73.0
+39356	http://www.socorronm.gov	Socorro	2004.0	204.0
+39358	http://www.nmborder.com/	Border Authority, New Mexico	2004.0	77.0
+39359	http://www.cyfd.org/	Children, Youth and Families Department, New Mexico	2001.0	327.0
+39360	http://www.portalesschools.com/	Portales School District	2000.0	7.0
+39362	http://www.unm.edu/libraries/	Libraries at UNM	2008.0	2.0
+39364	http://www.nmstatelands.org/default.aspx	State Land Office, New Mexico	2005.0	260.0
+39365	http://placitaslibrary.com	Placitas Community Library	2004.0	24.0
+39366	http://columbusvillage.lib.nm.us/	Columbus Village Library	2005.0	10.0
+39367	http://www.cms.k12.nm.us	Clovis School District	1998.0	35.0
+39369	http://toh.gmcs.k12.nm.us/	Tohatchi High School	2003.0	79.0
+39370	http://www.santafecountynm.gov/	Santa Fe County	2012.0	1002.0
+39371	http://www.phonebook.state.nm.us/	Government Telephone Directory, State of New Mexico	2003.0	1.0
+39372	http://grants.nmsu.edu/	New Mexico State University at Grants	1996.0	659.0
+39373	http://talpacc.bravehost.com	Talpa Community Center Library	2014.0	2.0
+39374	http://attorneys.statelocalgov.net/all/new-mexico	New Mexico Attorney Database	2014.0	10266.0
+39375	http://www.rrps.net/	Rio Rancho School District	2001.0	1441.0
+39376	https://mylocalgov.com/Unavailable/NoLongerAvailable.htm	Catron County	2012.0	1.0
+39377	http://www.nmaging.state.nm.us/	Aging and Long-Term Services Department, New Mexico	2000.0	57.0
+39380	http://www.delnorteknights.com/	Del Norte High School	2001.0	686.0
+39381	http://lcps.k12.nm.us/	Las Cruces School District	1998.0	5556.0
+39382	http://www.newmexico.gov/advsearch.php	Search New Mexico State Government	2005.0	88.0
+39384	http://www.co.eddy.nm.us/	Eddy County	2003.0	85.0
+39385	http://fhs.fms.k12.nm.us/	Farmington High School	2001.0	92.0
+39386	http://www.abqarts.org/	Albuquerque Arts Alliance	1998.0	34.0
+39387	http://www.bsin.k12.nm.us	Bloomfield School District	2000.0	353.0
+39391	http://www.sfps.info/	Santa Fe School District	2008.0	709.0
+39392	http://lascruces.lcps.k12.nm.us/	Las Cruces High School	2004.0	56.0
+39395	http://www.cvrc.state.nm.us/	Crime Victims Reparation Commission, New Mexico	2006.0	53.0
+39398	http://library.losalamosnm.us	Los Alamos County Library System	0.0	785.0
+39399	http://www.cybercardinal.com/	Las Vegas City School District	2001.0	95.0
+39400	http://www.cmsbears.org/	Cloudcroft School District	2002.0	178.0
+39401	http://www.la-panthers.org/	Lake Arthur School District	2001.0	0.0
+39402	http://www.hed.state.nm.us/	Education Department, Higher	2005.0	342.0
+39403	http://www.santarosanm.org/	Santa Rosa, City of	2003.0	18.0
+39404	http://www.newmexico.gov/category/phonebook/index.html	Government Telephone Directory	0.0	2.0
+39405	http://www.belen-nm.gov/library.htm	Belen Public Library	2008.0	48.0
+39406	http://www.bplnm.org	Bloomfield Public Library	2007.0	6.0
+39407	http://www.nmlottery.com/takeover/?dest=%2f&appmode=true	Lottery, New Mexico	0.0	149.0
+39408	http://dabcc.nmsu.edu/	Doa Ana Branch Community College	2004.0	682.0
+39410	http://www.library.cityofclovis.org	Clovis Carver Public Library	2004.0	51.0
+39411	http://www.tatumschools.org/home.aspx	Tatum School District	0.0	20.0
+39412	http://www.osanm.org/	Auditor, New Mexico Office of the State	2010.0	88.0
+39413	http://missingmoney.com/	Unclaimed Property, State of New Mexico	1999.0	14.0
+39414	http://www.losalamosnm.us/Pages/home.aspx	Los Alamos County	2011.0	835.0
+39415	http://www.nmenv.state.nm.us/	Environment Department, New Mexico	1996.0	220.0
+39416	http://www.rio-arriba.org/	Rio Arriba County	2003.0	204.0
+39417	http://www.sierracounty.net/	Sierra County	2005.0	0.0
+39418	http://www.sanjuancollege.edu/pages/1.asp	San Juan College	2004.0	923.0
+39420	http://www.lwvabc.org/	League of Women Voters - Albuquerque/Bernalillo County	1998.0	15.0
+39421	http://www.cochitilake.org/library.htm	Irene S. Sweetkind Public Library	2005.0	1.0
+39422	http://www.riogranderavens.com/	Rio Grande High School	2001.0	10.0
+39425	http://www.ashiwi.org/library/zuni%20public%20library.html	Zuni Public Library	2006.0	10.0
+39426	http://www.cabq.gov/culturalservices/albuquerque-museum/albuquerque-museum	Albuquerque Museum of Art and History	2012.0	111.0
+39428	http://www.newmexico.gov/government/new_mexico_judicial_branch.aspx	Courts	2011.0	18.0
+39429	http://www.jmsk12.com/	Jemez Mountain School District	2004.0	36.0
+39433	http://nmml.org/	New Mexico Municipal League	1997.0	239.0
+39434	http://www.dvrgetsjobs.com/	Vocational Rehabilitation, State of New Mexico Division of	2001.0	13.0
+39435	http://www.ratonnm.gov	Raton	2009.0	262.0
+39439	http://www.grantcountynm.com	Grant	2001.0	230.0
+39440	http://www.cabq.gov/culturalservices/balloonmuseum	Anderson-Abruzzo Albuquerque International Balloon Museum	2012.0	316.0
+39441	http://manzano.aps.edu/	Manzano High School	1998.0	2102.0
+39442	http://www.newmexico.org/	Tourism, Department of	1996.0	463.0
+39443	http://www.abq.org/	Albuquerque Economic Development	1998.0	119.0
+39444	http://www.highlandhornets.com/	Highland High School	2001.0	6.0
+39445	http://www.nmsto.gov/	Treasury, State of New Mexico	2012.0	65.0
+39446	http://losalamos.unm.edu/	University of New Mexico - Los Alamos	2013.0	3.0
+39447	http://adobelibrary.org	Socorro Public Library	2005.0	35.0
+39450	http://www.governor.state.nm.us/	Governor's Office, New Mexico	1997.0	94.0
+39451	http://www.emnrd.state.nm.us/	Energy, Minerals and Natural Resources Department, New Mexico	1997.0	413.0
+39452	http://www.melroseschools.org/home.aspx	Melrose School District	2007.0	0.0
+39453	http://www.redriver.org/	Red River, Town of	2000.0	300.0
+39456	http://www.nuclearmuseum.org/	National Atomic Museum	2009.0	106.0
+39459	http://www.dwiresourcecenter.org/	DWI Resource Center	2000.0	82.0
+39460	http://www.nmbvm.org/	Veterinary Medicine, New Mexico Board of	2011.0	1530.0
+39463	http://earthquake.usgs.gov/regional/asl/	Albuquerque Seismological Laboratory, USGS	2006.0	28.0
+39465	http://www.hsd.state.nm.us/	Human Services Department, New Mexico	2006.0	208.0
+39466	http://www.nmsu.edu/	New Mexico State University, Las Cruces	1997.0	67.0
+39468	http://www.gisd.k12.nm.us/	Gadsden School District	2001.0	109.0
+39469	http://www.ose.state.nm.us/	Engineer, New Mexico Office of the State	1998.0	745.0
+39471	http://www.newmexico.gov/nursing/	Board of Nursing	0.0	2.0
+39472	http://www.cabq.gov/	Albuquerque, City of	1997.0	4280.0
+39473	http://www.newmexicoculture.org/index.php	Cultural Affairs, New Mexico Department of	2007.0	21.0
+39474	http://www.nmt.edu/	New Mexico Institute of Mining and Technology	1997.0	3257.0
+39476	http://www.doraschools.com/home.aspx	Dora School District	0.0	26.0
+39477	http://www.nmhistoricpreservation.org/	Historic Preservation Division, New Mexico	2004.0	276.0
+39479	http://www.socorrocounty.net/	Socorro	2013.0	132.0
+39480	http://www.vaughn.k12.nm.us/	Vaughn School District	2010.0	1.0
+39481	http://www.socorronm.gov/	Socorro, City of	2004.0	207.0
+39482	http://www.cio.state.nm.us/	Chief Information Officer	1997.0	95.0
+39483	http://www.coronacardinals.com/highsch.html	Corona High School	2007.0	1.0
+39485	http://www.taosschools.org/	Taos School District	2003.0	105.0
+39486	http://www.dexterdemons.org/site/default.aspx?PageID=1	Dexter School District	2011.0	20.0
+39488	http://www.dot.state.nm.us/content/nmdot/en.html	Transportation, New Mexico Department of	2012.0	2.0
+39489	http://www.ftsumnerk12.com/home.aspx	Fort Sumner High School	2007.0	0.0
+39490	http://www.mountainairnm.gov	Mountainair	2008.0	24.0
+39492	http://www.balloonfiesta.com/	Balloon Fiesta, Albuquerque International	1998.0	646.0
+39493	http://missingpersons.dps.state.nm.us/	Missing Persons Information, Department of Public Safety	2013.0	8.0
+39494	http://www.cobre.k12.nm.us	Cobre School District	2003.0	179.0
+39495	http://www.claytonschools.us/claytonschools/	Clayton School District	0.0	59.0
+39496	http://www.stopfraud.org/	Insurance Fraud Bureau, Office of Superintendent of Insurance	1996.0	3.0
+39497	http://www.nmmi.edu/index.htm	New Mexico Military Institute	2006.0	604.0
+39498	http://www.onrt.state.nm.us/	Natural Resources Trustee, Office of	2005.0	2.0
+39499	https://www.newmexicokids.org/	New Mexico Kids	2000.0	47.0
+39500	http://www.teachnm.org/	Teach New Mexico	2003.0	152.0
+39501	http://www.dps.nm.org/	Department of Public Safety	0.0	124.0
+39502	http://www.ltgovernor.state.nm.us/	Lieutenant Governor, State of New Mexico Office of the	2005.0	1.0
+39503	http://www.hillsborocommunitylibrary.com	Hillsboro Community Library	2011.0	8.0
+39504	http://www.dws.state.nm.us/	Workforce Solutions, New Mexico Department of	0.0	2412.0
+39505	http://www.amlegal.com/albuquerque_nm/	Albuquerque, New Mexico Code of Ordinances	2001.0	1.0
+39507	http://www.metrocourt.state.nm.us/	Bernalillo County Metropolitan Court	0.0	138.0
+39508	http://wnmu.edu/	Western New Mexico University	1996.0	1192.0
+39510	http://www.doit.state.nm.us/	Information Technology, Department of	2008.0	96.0
+39512	http://www.newmexico.gov/nmrec/	New Mexico Real Estate Commission	0.0	2.0
+39513	http://www.tax.newmexico.gov/	Taxation and Revenue, New Mexico	2014.0	241.0
+39514	http://www.supremecourtlawlibrary.com/	Supreme Court Law Library, New Mexico	0.0	5.0
+39515	http://www.pera.state.nm.us/	Public Employees Retirement Association of New Mexico	2003.0	41.0
+39516	http://www.gatheringofnations.com/	Gathering of Nations	1997.0	372.0
+39517	http://lujan.house.gov/	Ben Lujn, Jr., U.S. Representative from New Mexico's 3rd District	2009.0	725.0
+39518	http://www.bhc.state.nm.us/	Behavioral Health Collaborative, New Mexico	2006.0	181.0
+39521	http://www.abqchamber.com/	Albuquerque Chamber of Commerce	2004.0	61.0
+39522	http://www.acomaskycity.org/home.html	Acoma Sky City Cultural Center	2013.0	71.0
+39523	http://www.countyofmora.com/	Mora	2011.0	52.0
+39525	http://albuquerque.isotopes.milb.com/index.jsp?sid=t342	Albuquerque Isotopes Baseball Club	2009.0	5.0
+39526	http://www.cityofcarlsbadnm.com/	Carlsbad, City of	2002.0	121.0
+39528	http://www.edgewood-nm.gov	Edgewood	2005.0	193.0
+39529	http://www.cimarronschools.org/	Cimarron School District	2003.0	151.0
+39530	http://nmdfa.state.nm.us/Board_of_Finance.aspx	Finance, New Mexico State Board of	2011.0	330.0
+39531	http://www.vglibrary.org	Vista Grande Public Library	2004.0	48.0
+39532	http://www.vitalrecordsnm.org/birth.shtml	Birth Certificates, State of New Mexico	2009.0	0.0
+39533	http://www.iad.state.nm.us/	Indian Affairs Department, New Mexico	2006.0	46.0
+39534	http://www.ftsumnerk12.com/	Fort Sumner School District	2006.0	166.0
+39535	http://www.enmu.edu/	Eastern New Mexico University, Portales, NM	1996.0	357.0
+39536	http://www.museumeducation.org/	Museum Outreach Department	2001.0	0.0
+39537	http://www.co.chaves.nm.us/	Chaves County	2003.0	101.0
+39538	http://www.riorancholibraries.org/	Rio Rancho Public Library	2013.0	453.0
+39539	http://lagunalibrary.com/	Laguna Public Library	2013.0	899.0
+39540	http://www.ci.rio-rancho.nm.us/	Rio Rancho, City of	1999.0	876.0
+39542	http://www.cabq.gov/culturalservices/biopark/biopark	Albuquerque Biological Park	2013.0	329.0
+39543	http://www.redrivernewmexico.com/libweb/	Red River Public Library	2004.0	3.0
+39545	http://www.jemezsprings.org/	Jemez Springs, City of	0.0	456.0
+39546	http://www.unm.edu/~unmvc/	University of New Mexico - Valencia	1996.0	2.0
+39547	http://www.unm.edu/	University of New Mexico, Albuquerque	1996.0	1024.0
+39548	http://www.pdd.state.nm.us/	Public Defender Department, New Mexico	2006.0	4.0
+39549	http://www.fortsumner.net/	Fort Sumner	2003.0	7.0
+39551	http://www.cityofespanola.org/	Espanola	2003.0	34.0
+39552	http://www.aps4kids.org/	Alamogordo School District	0.0	1251.0
+39553	http://www.bernco.gov	Bernalillo County	0.0	1832.0
+39554	http://abclibrary.org/home	Alamosa-Robert L. Murphy Memorial Library	2013.0	1712.0
+39555	http://www.co.mckinley.nm.us/	McKinley County	2004.0	51.0
+39556	http://www.newmexico.gov/gsd/gsd.html	General Services Department	0.0	2.0
+39558	http://www.hobbsnm.org/	Hobbs, City of	2000.0	47.0
+39560	http://www.srnm.org	Santa Rosa	2001.0	0.0
+39561	http://www.nmcpr.state.nm.us/nmregister/	Register, New Mexico	2002.0	243.0
+39562	http://www.nmdhsem.org/	Homeland Security and Emergency Management, New Mexico Department of	2007.0	80.0
+39563	http://www.gonm.biz/	Economic Development Department	2003.0	104.0
+39564	http://www.nmartmuseum.org/	New Mexico Museum of Art	2008.0	139.0
+39565	http://www.usa.gov/gobiernousa/	USA.gov en Espaol: Prtico Web Oficial de Gobierno de EEUU	2007.0	567.0
+39567	http://www.oaaa.state.nm.us/	African American Affairs, Office of	2006.0	54.0
+39568	http://www.angelfirenm.gov/	Angel Fire	2011.0	769.0
+39569	http://www.nnmc.edu/	Northern New Mexico College	2005.0	715.0
+39570	http://www.newmexico.gov/	New Mexico State Government Information	2004.0	91.0
+39573	http://www.cms.k12.nm.us/chs/index.html	Clovis High School	2001.0	7.0
+39576	http://www.magdalena.k12.nm.us/	magdalena School District	1999.0	746.0
+39577	http://mvhs.mesavista.org/	Mesa Vista High School	2009.0	185.0
+39579	http://www.sjcounty.net	San Juan	2003.0	1967.0
+39580	http://www.ongard.state.nm.us/	ONGARD, State of New Mexico	2002.0	17.0
+39583	http://www.nmdfa.state.nm.us/	Finance and Administration, New Mexico Department of	2006.0	216.0
+39584	http://www.llschools.net/education/components/scrapbook/default.php?sectionid=1	Los Lunas School District	2011.0	3.0
+39585	http://www.tax.newmexico.gov/404.aspx?aspxerrorpath=/forms-and-publications/forms/gross-receipts/pages/home.aspx	Taxation and Revenue, Gross Receipts Taxes	2014.0	242.0
+39586	http://www.health.state.nm.us/	Health, New Mexico Department of	2004.0	636.0
+39588	http://nmbon.sks.com/	Nursing, New Mexico Board of	2012.0	56.0
+39589	http://www.carrizozoschools.org/	Carrizozo School District	2007.0	69.0
+39590	http://www.lovington.org/	Lovington	2010.0	39.0
+39592	http://www.nmmagazine.com/	Department of Tourism: New Mexico Magazine	1998.0	139.0
+39593	http://www.zpsd.org/	Zuni School District	2008.0	468.0
+39594	http://www.townofbernalillo.org/	Bernalillo, Town of	2003.0	66.0
+39595	http://www.bobcat.net/	Hagerman School District	1999.0	69.0
+39596	http://www.da.state.nm.us/	District Attorneys, Administrative Office of the	1999.0	6.0
+39597	http://www.sblpes.state.nm.us/	Engineers and Surveyors, New Mexico State Board of Licensure for Professional	2006.0	33.0
+39598	http://www.eldoradoeagles.com/	Eldorado High School	2000.0	23.0
+39599	http://www.torc.k12.nm.us/	Truth or Consequences School District	2001.0	1.0
+39600	http://www.belen-nm.gov/	Belen, City of	2008.0	48.0
+39601	http://www.nmcl.org/	Literacy, Coalition for - The New Mexico Coalition for Literacy	1999.0	555.0
+39602	http://www.aztecschools.com	Aztec School District	2000.0	2611.0
+39603	http://www.co.santa-fe.nm.us/	Santa Fe	1999.0	980.0
+39604	http://www.gmcs.k12.nm.us/	Gallup/McKinley School District	1998.0	127.0
+39607	http://www.cobrehigh.com/	Cobre High School	2003.0	1563.0
+39610	http://www.co.cibola.nm.us/	Cibola County	2009.0	21.0
+39611	http://www.acellus.com/	Cloudcroft High School	2002.0	58.0
+39612	http://www.mrgcd.com/	Conservancy District - The Middle Rio Grande Conservancy District	2001.0	94.0
+39613	http://www.generalservices.state.nm.us/statepurchasing/	Purchasing Division (General Services Department)	2011.0	44.0
+39614	http://www.cabq.gov/gis/	Albuquerque GIS	2001.0	26.0
+39616	http://gph.gmcs.k12.nm.us/home.aspx	Gallup High School	0.0	33.0
+39617	http://www.currycounty.org/	Curry	2000.0	157.0
+39620	http://www.newmexico.gov/tax/	Taxation and Revenue Department	2013.0	2.0
+39621	http://www.nmarts.org/	Arts, New Mexico	1998.0	69.0
+39622	http://www.ped.state.nm.us/	Education Department, Public	2003.0	31.0
+39624	http://townofbernalillo.org/depts/library.htm	Town Of Bernalillo Public Library	2007.0	8.0
+39626	http://www.nmmi.edu/	New Mexico Military Institute	2002.0	604.0
+39627	http://www.11thjdc.com/	District Court, 11th Judicial	2005.0	28.0
+39628	http://www.mesavista.org/	Mesa Vista School District	2003.0	180.0
+39629	http://www.nmbea.org/	Architects, Board of Examiners for New Mexico	2000.0	3.0
+39631	http://www.cityofdeming.org/	Deming	2000.0	247.0
+39632	http://www.dps.state.nm.us/	Department of Public Safety, New Mexico State Police	1996.0	124.0
+39633	http://www.emnrd.state.nm.us/SPD/	Parks Division, New Mexico State	2012.0	197.0
+39635	http://www.newmexico.gov/cgi-bin/emp_email_lookup/inetaddr.cgi/	State Employee Email Lookup	0.0	2.0
+39636	http://www.nmocc.state.nm.us/	Organic Commodity Commission, New Mexico	2004.0	1.0
+39639	http://www.ratonschools.org	Raton School District	2010.0	49.0
+39640	http://www.torrancecountynm.org/	Torrance	2004.0	84.0
+39641	http://www.nmpsfa.org/	Public School Facilities Authority, State of New Mexico	2009.0	2.0
+39642	http://www.mesillanm.gov/	Mesilla	2013.0	189.0
+39643	http://www.jalnm.org/	Jal School District	1999.0	366.0
+39644	http://www.hsd.state.nm.us/csed/index.html	Child Support Enforcement Division, State of New Mexico	2007.0	1.0
+39645	http://quaycounty-nm.gov/	Quay	2008.0	25.0
+39646	http://lunacountynm.us/index.html	Luna	2006.0	79.0
+39647	http://www.hobbsschools.net/	Hobbs School District	2000.0	209.0
+39651	http://www.nmmlksc.com/	Martin Luther King Jr. Commission, New Mexico	2006.0	33.0
+39652	http://www.corraleslibrary.org	Corrales Community Library	2008.0	11.0
+39653	http://omi.unm.edu/	Medical Investigator, Office of New Mexico, UNM School of Medicine	2000.0	3.0
+39655	https://nmsupremecourt.nmcourts.gov/	Supreme Court, New Mexico	2007.0	4.0
+39657	http://www.mvd.newmexico.gov/Default.aspx	Motor Vehicle Division - Taxation and Revenue, New Mexico	2014.0	487.0
+39659	http://www.cityoftucumcari.com/	Tucumcari	1999.0	0.0
+39660	http://www.leacounty.net/	Lea County	1999.0	187.0
+39661	http://www.newmexico.gov/hsd/	Human Services Department	0.0	2.0
+39662	http://district.fms.k12.nm.us/	Farmington School District	2009.0	271.0
+39668	http://www.ahcnm.org/	Albuquerque Hispano Chamber of Commerce	1997.0	87.0
+39669	http://www.nmspacemuseum.org/	Museum of Space History, New Mexico	2006.0	84.0
+39673	http://www.maxwellp12.com/	Maxwell School District	2004.0	205.0
+39674	http://www.gallup.unm.edu/	University of New Mexico - Gallup	1996.0	280.0
+39675	http://cph.gmcs.k12.nm.us	Crownpoint High School	2003.0	23.0
+39676	http://www.wildlife.state.nm.us/	Game and Fish, New Mexico Department of	2003.0	3.0
+39677	http://www.shuterlibrary.net	Shuter Library Of Angel Fire	2008.0	9.0
+39678	http://www.artesianm.gov/	Artesia, City of	2012.0	460.0
+39681	http://www.las-cruces.org/	Las Cruces, City of	1999.0	1275.0
+39683	http://www.hobbspubliclibrary.org	Hobbs Public Library	2007.0	12.0
+39684	http://www.socorro.k12.nm.us/	Socorro School District	2001.0	72.0
+39685	http://www.santafenm.gov/page_not_found	Santa Fe	2013.0	2173.0
+39686	http://www.nmcourts.com/	Courts Information Center, New Mexico	1998.0	60.0
+39687	http://www.spo.state.nm.us/	Personnel Office, State of New Mexico	2007.0	79.0
+39688	http://www.gccs.cc/education/school/school.php?sectionid=5&	Grants High School	2011.0	3.0
+39689	http://www.newmexico.gov/spd/	General Services Department: State Purchasing Division	0.0	2.0
+39690	http://www.taosgov.com/	Taos, City of	2001.0	52.0
+39691	http://carlsbad.k12.nm.us/	Carlsbad School District	1998.0	4.0
+39692	http://www.texicoschools.com/home.aspx	Texico School District	2006.0	0.0
+39693	http://www.tularosapubliclibrary.org	Tularosa Public Library	2007.0	10.0
+39694	http://www.newmexicomusic.org/	Music Commission, New Mexico	2005.0	99.0
+39695	http://pvs.k12.nm.us/	Pojoaque School District	1996.0	99.0
+39696	http://www.springerschools.org/	Springer School District	2003.0	12.0
+39697	http://www.nmfarmandranchmuseum.org/	Farm and Ranch Heritage Museum	2008.0	259.0
+39698	http://bber.unm.edu/demograp2.htm	Demographics: Population Estimates and Projections, New Mexico	2009.0	254.0
+39700	http://cuba.k12.nm.us/	Cuba School District	1996.0	91.0
+39704	http://nph.gmcs.k12.nm.us/	Navajo Pine High School	2003.0	52.0
+39706	http://www.animask12.net/	Animas School District	2002.0	63.0
+39708	http://www.lunacountynm.us	Luna County	2006.0	78.0
+39709	http://www.roswellpubliclibrary.org	Roswell Public Library	2001.0	83.0
+39710	http://www.cnm.edu/	Central New Mexico Community College	2006.0	2061.0
+39715	http://www.mesalands.edu/	Mesalands Community College	2002.0	406.0
+39716	http://taos.unm.edu/	University of New Mexico - Taos	2004.0	8.0
+39717	http://www.houseschools.net/home.aspx	House School District	2008.0	0.0
+39718	http://www.quemadoschools.org/	quemado School District	2003.0	68.0
+39719	http://elritolibrary.org/	El Rito Public Library	2001.0	354.0
+39720	http://www.cityofgrants.org/	Grants	2011.0	67.0
+39721	http://www.tax.newmexico.gov/404.aspx?aspxerrorpath=/online-services/pages/personal-income-tax-e-filing.aspx	Taxation and Revenue - File online, State of New Mexico	0.0	242.0
+39723	http://www.capitantigers.org/	Capitan School District	2012.0	75.0
+39725	http://nmstatelibrary.org/	Library, New Mexico State	2008.0	1588.0
+39726	http://www.housingnm.org/	Mortgage Finance Authority, New Mexico	2002.0	323.0
+39728	http://www.amafca.org/	Albuquerque Metropolitan Arroyo Flood Control Authority (AMAFCA)	2003.0	6.0
+39729	http://donaanacounty.org/	Doa Ana County	2006.0	2788.0
+39730	http://www.sic.state.nm.us/	Investment Council, New Mexico State	2006.0	73.0
+39731	http://parent.unm.edu/	UNM Parent and Families	2007.0	5.0
+39732	http://www.sierracountynm.gov/	Sierra	2011.0	109.0
+39733	http://www.nmacequiacommission.state.nm.us/	Acequia Commission, New Mexico	2006.0	15.0
+39734	http://nmsua.edu/	New Mexico State University at Alamogordo	2008.0	271.0
+39735	http://www.villageoftularosa.com/	Tularosa, Village of	2007.0	9.0
+39736	http://www.taoslibrary.org	Taos Public Library	1998.0	3.0
+39737	http://www.sanjonschools.com/	San Jon School District	2007.0	18.0
+39738	http://poehcenter.org/	Poeh Cultural Center and Museum	2013.0	74.0
+39741	http://www.nmcounties.org/	New Mexico Association of Counties	2000.0	268.0
+39742	http://www.cityofclovis.org/	Clovis	2002.0	188.0
+39743	http://www.nmag.gov/	Attorney General, New Mexico	2007.0	233.0
+39744	http://www.aps.edu/	Albuquerque School District	1996.0	5891.0
+39745	http://www.co.valencia.nm.us/	Valencia	2000.0	4.0
+39746	http://www.lovingschools.com/	Loving School District	2002.0	2.0
+39747	http://www.saonm.org/	State Auditor	1998.0	79.0
+39748	http://www.nmstatelands.org/	State Land Office	2001.0	259.0
+39749	https://firstdistrictcourt.nmcourts.gov/	District Court, 1st Judicial	2013.0	92.0
+39750	http://gch.gmcs.k12.nm.us/home.aspx	Gallup Central High School	0.0	16.0
+39751	http://www.nmcpr.state.nm.us/	Records Center and Archives, State - New Mexico Commission of Public Records	2001.0	2.0
+39753	http://www.newmexicohistory.org/	Historian, New Mexico Office of the State	2004.0	80.0
+39756	https://caselookup.nmcourts.gov/caselookup/home.html	DWI Offender History, New Mexico	2013.0	1.0
+39758	http://www.nmhu.edu/	New Mexico Highlands University	1996.0	561.0
+39759	http://glenwoodlibrary.com	Glenwood Community Library	2011.0	11.0
+39760	http://www.loganschool.net/	Logan School District	2013.0	19.0
+39762	http://www.socorro-nm.com/	Socorro County	1998.0	92.0
+39763	http://www.albuquerque300.org/	Albuquerque Tri-centennial	2004.0	19.0
+39765	http://www.kirtland.af.mil/	Kirtland Air Force Base	1997.0	1046.0
+39766	http://belen.schoolfusion.us/	Belen School District	2008.0	749.0
+39768	http://www.santafenm.gov/	Santa Fe, City of	2005.0	2268.0
+39769	http://www.nmgcb.org/	Gaming Control Board, State of New Mexico	1999.0	3.0
+39770	http://www.fifthdistrictcourt.com/	District Court, 5th Judicial	1999.0	58.0
+39772	http://www.floydbroncos.com/home.aspx	Floyd School District	0.0	33.0
+39774	http://www.thirddistrictcourt.com/	District Court, 3rd Judicial	2001.0	138.0
+39777	http://www.k12espanola.org/	Espanola School District	2002.0	125.0
+39778	http://www.corrales-nm.org	Corrales	2005.0	32.0
+39780	http://www.nmche.org/	New Mexico Commission on Higher Education	1996.0	4.0
+39782	http://www.elidaschools.net/home.aspx	Elida School District	0.0	20.0
+39785	http://www.gccs.cc/education/district/district.php?sectionid=1	Grants Cibola School District	2009.0	3.0
+39786	http://www.nmstatemonuments.org/	Monuments, New Mexico State	2004.0	72.0
+39788	http://www.capitanlibrary.org	Capitan Public Library	2006.0	34.0
+39789	http://www.nmrc.state.nm.us/	Racing Commission, New Mexico	2001.0	42.0
+39791	http://www.vhsvikings.com/	Valley High School	2003.0	1.0
+39794	http://www.lmsed.org/	Lordsburg School District	2004.0	20.0
+39795	http://www.ose.state.nm.us/isc_index.html	Interstate Stream Commission	2005.0	350.0
+39796	http://www.gradyschool.com/home.aspx	Grady School District	2007.0	0.0
+39797	http://www.hidalgocounty.org/	Hidalgo	2001.0	96.0
+39798	http://www.roswell.enmu.edu/	Eastern New Mexico University - Roswell	1998.0	1184.0
+39801	http://www.nmsbdc.org/	New Mexico Small Business Development Center at SFCC	1998.0	93.0
+39802	http://www.cimarronschools.org/vnews/display.v/SEC/Cimarron%20High%20School	Cimarron High School	2012.0	32.0
+39803	http://www.insurenewmexico.state.nm.us/	Insure New Mexico!	2004.0	29.0
+39804	http://nmsc.unm.edu/	Sentencing Commission, New Mexico	2008.0	5.0
+39805	http://www.conwaygreene.com/nmsu/lpext.dll?f=templates&fn=main-h.htm&2.0	Statutes and Constitution of the State of New Mexico	0.0	9.0
+39806	http://www.pelrb.state.nm.us/home.php	Public Employee Labor Relations Board	0.0	30.0
+39807	http://www.infoway.org	Farmington Public Library	2004.0	282.0
+39813	http://www.loslunasnm.gov/index.aspx?nid=103	Los Lunas Public Library	2010.0	556.0
+39814	http://www.abqcalendar.org/	Albuquerque Community Calendar	2004.0	1.0
+39817	http://www.azteclibrary.org	Aztec Public Library	2001.0	3.0
+39818	http://www.indianpueblo.org/	Indian Pueblo Cultural Center	1999.0	100.0
+39820	http://www.santaclarapueblo.org/library	Santa Clara Pueblo Community Library	2006.0	1.0
+39822	http://lawschool.unm.edu/	University of New Mexico School of Law	1998.0	10.0
+39823	http://www.co.colfax.nm.us/	Colfax County	2006.0	31.0
+39825	http://www.lacuevabears.com/	La Cueva High School	2000.0	1462.0
+39826	http://www.unionnm.us/	Union	2013.0	94.0
+39828	http://carlsbad.nmsu.edu/	New Mexico State University at Carlsbad	2006.0	239.0
+39829	http://thh.gmcs.k12.nm.us/home.aspx	Thoreau High School	0.0	23.0
+39831	http://www.rld.state.nm.us/	Regulation and Licensing Department, New Mexico	1999.0	717.0
+39833	http://www.nmprc.state.nm.us/	Public Regulation Commission, New Mexico	1999.0	3.0
+39834	http://www.cfb.state.nm.us/	Commission for the Blind, New Mexico	2006.0	59.0
+39835	http://www.cityofeunice.org/library.html	Eunice Public Library	2008.0	0.0
+39836	http://www.las-cruces.org/Departments/Public%20Services/Services/Branigan%20Library.aspx	Thomas Branigan Memorial Library	2011.0	163.0

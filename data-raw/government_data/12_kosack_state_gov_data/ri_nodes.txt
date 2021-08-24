@@ -1,0 +1,295 @@
+NodeId	NodeURL	NodeName	Year	pages
+49818	http://www.fg.k12.ri.us	Ponaganset Middle School	0.0	9977.0
+49819	http://www.northsmithfieldschools.com/schools	Dr. Harry L. Halliwell Memorial School	2010.0	404.0
+49820	http://www.ccri.edu/	Community College of Rhode Island	2002.0	1755.0
+49821	http://www.rihistoriccemeteries.org/	Historical Cemetery Commission	2013.0	24.0
+49822	http://br.skschools.net/	Broad Rock Middle School	2009.0	213.0
+49823	http://www.narragansettri.com	Narragansett RI, Town of	2000.0	30.0
+49825	http://www.coventrylibrary.org	Coventry Public Library	2001.0	266.0
+49826	http://smithfieldri.com/	Smithfield RI, Town of	2001.0	181.0
+49827	http://www.northsmithfieldschools.com	North Smithfield Elementary School	2004.0	406.0
+49828	http://www.preservation.ri.gov	Historical Preservation and Heritage Commission	2003.0	155.0
+49829	http://www.mbe.ri.gov	Minority Business Enterprise	2004.0	459.0
+49830	http://www.middletownri.com	Middletown RI, Town of	1998.0	433.0
+49831	http://content.ersri.org/	Employees' Retirement System of RI	2014.0	42.0
+49832	http://www.cityofnewport.com/	Newport	1997.0	1777.0
+49833	http://www.warwickschools.org	Drum Rock Early Childhood Center	1999.0	19.0
+49834	http://www.audits.ri.gov	Audits, Bureau of	2003.0	15.0
+49836	http://ashfreelib.org	Ashaway Free Library	2001.0	5.0
+49837	http://www.skpl.org	South Kingstown Public Library	2005.0	407.0
+49838	http://www.egsd.net/eldredge.cfm?subpage=620387	James H. Eldredge El. School	0.0	453.0
+49839	http://providenceschools.org/elementary-schools/king	Dr. Martin Luther King, Jr. Elementary School	2012.0	204.0
+49841	http://www.dem.ri.gov	Environmental Management, Department of	2003.0	15.0
+49842	http://www.burrillville.org/	Burrillville	2001.0	345.0
+49843	http://www.goprovidence.com/	Providence Warwick Convention & Visitors Bureau	2001.0	3265.0
+49845	http://www3.barringtonschools.org/default.aspx	Sowams Elementary School	2006.0	318.0
+49847	http://www.ltgov.ri.gov	Lieutenant Governor Elizabeth Roberts	2003.0	3.0
+49848	http://www.chariho.k12.ri.us	Chariho Regional Middle School	1998.0	1203.0
+49849	http://www.centralfallsri.us	Central Falls RI, City of	2002.0	94.0
+49850	http://www.ripta.com	Public Transit Authority	1998.0	236.0
+49851	http://www.ci.woonsocket.ri.us	Woonsocket RI, City of	1998.0	58.0
+49852	http://www.warwickschools.org/pilgrim/default.htm	Pilgrim High School	2005.0	2.0
+49853	http://www.elections.ri.gov	Elections, Board of	2003.0	976.0
+49857	http://cpsed.net/whills/	Western Hills Middle School	2002.0	34.0
+49859	http://www.warwickschools.org/lippitt/default.htm	Lippitt School	2006.0	3.0
+49861	http://providenceschools.org/elementary-schools/messer	Asa Messer Elementary School	2012.0	204.0
+49862	http://providenceschools.org/elementary-schools/carnevale	Anthony Carnevale Elementary School	2012.0	204.0
+49864	http://providenceschools.org/high-schools/mount-pleasant	Mount Pleasant High School	2012.0	1.0
+49866	http://www.tiverton.ri.gov/	Tiverton	2005.0	3.0
+49867	http://www.narragansett.k12.ri.us/nhs/	Narragansett High School	2002.0	60.0
+49868	http://www.bsd-ri.net/schools	Steere Farm Elementary School	2009.0	172.0
+49869	http://www.wgtownri.org/	West Greenwich	2003.0	2.0
+49871	http://www.riema.ri.gov	Emergency Management Agency	2004.0	95.0
+49872	http://www.eastprovidenceri.net/	East Providence	2004.0	308.0
+49873	http://www.cflibrary.org	Central Falls Free Public Library	2004.0	200.0
+49874	http://wa.skschools.net/	Wakefield Elementary School	2009.0	141.0
+49875	http://asfms.net/	Alan Shawn Feinstein Middle School Of Coventry	2007.0	290.0
+49876	http://www.wrb.ri.gov	Water Resources Board	2003.0	47.0
+49880	http://www.northsmithfieldri.com	North Smithfield RI, Town of	1999.0	1.0
+49881	http://www.westwarwickri.org	West Warwick RI, Town of	2001.0	515.0
+49883	http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=2769&linkid=nav-menu-	Portsmouth High School	0.0	18.0
+49885	http://www.bdp.ri.gov	Design Professionals, Board of	2003.0	49.0
+49886	http://providenceschools.org/elementary-schools/dabate	William D'Abate Elementary School	2012.0	204.0
+49887	http://www.newportlibraryri.org/npl/	Newport Public Library	2011.0	124.0
+49888	http://cpsed.net/pview/	Park View Middle School	2002.0	80.0
+49889	http://www.crossmills.org	Cross Mills Public Library	2004.0	8.0
+49890	http://cpsed.net/chsw/index.htm	Cranston High School West	2002.0	22.0
+49891	http://www.little-compton.com/	Little Compton	2007.0	3.0
+49892	http://www.warwicklibrary.org	Warwick Public Library	2005.0	694.0
+49893	http://hs.skschools.net/	South Kingstown High School	2009.0	281.0
+49895	http://www.northprovidenceri.com/	North Providence	2000.0	2.0
+49898	http://www.chariho.k12.ri.us/chs	Chariho Regional High School	1999.0	469.0
+49899	http://www.portsmouthri.com	Portsmouth RI, Town of	1997.0	455.0
+49900	http://providenceschools.org/elementary-schools/veazie	Veazie Street School	2012.0	204.0
+49901	http://providenceschools.org/elementary-schools/bailey	Robert L Bailey IV, Elementary School	2012.0	204.0
+49902	http://providenceschools.org/high-schools/e-cubed	E-Cubed Academy	2012.0	6.0
+49904	http://providenceschools.org/high-schools/alvarez	Dr. Jorge Alvarez High School	2012.0	6.0
+49905	http://www.dlt.ri.gov	Labor and Training, Department of	2003.0	508.0
+49906	http://www.riseo.ri.gov	Energy Office	2003.0	52.0
+49907	http://risk.cfschools.net	Ella Risk School	0.0	25.0
+49908	http://www.cumberlandri.org/	Cumberland	2001.0	44.0
+49909	http://www.hr.ri.gov	Human Resources, Division of	2010.0	71.0
+49910	http://www.westwarwickpublicschools.com/education/district/district.php?sectionid=1	Maisie E. Quinn Elementary School	2003.0	0.0
+49912	http://www.tax.ri.gov	Taxation, Division of	2003.0	411.0
+49913	http://www2.nksd.net/education/school/school.php?sectionid=13	Suzanne M. Henseler Quidnessett Elementary School	2006.0	0.0
+49914	http://www2.nksd.net/education/components/scrapbook/default.php?sectionid=12&url_redirect=1	North Kingstown Senior High School	0.0	0.0
+49915	http://www.provcomlib.org/	South Providence Library	2009.0	2523.0
+49916	http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=117&linkid=nav-menu-c	Howard Hathaway School	0.0	17.0
+49918	http://www.coventryschools.net	Washington Oak School	2000.0	76.0
+49920	http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=89&linkid=nav-menu-co	Melville Elementary School	0.0	17.0
+49921	http://www.warwickri.gov/	Warwick	2004.0	3072.0
+49923	http://www.brownell-libraryri.org	Brownell Library, Home Of Little Compton	2008.0	1423.0
+49925	http://providenceschools.org/elementary-schools/lima	Alfred Lima, Sr. Elementary School	2012.0	204.0
+49926	http://controller.admin.ri.gov	Accounts and Controls, Office of	2003.0	31.0
+49929	http://www.lincolnlibrary.com	Lincoln Public Library	1998.0	32.0
+49930	http://www.westerlylibrary.org	Westerly Public Library	2004.0	142.0
+49931	http://www.cdhh.ri.gov	Deaf and Hard of Hearing, Commission on the	2004.0	2.0
+49932	http://www.ridlc.org	Disability Law Center, Rhode Island	2000.0	36.0
+49933	http://www.eastgreenwichri.com	East Greenwich RI, Town of	1999.0	61.0
+49935	http://www.nsmithfieldri.org/	North Smithfield	2008.0	129.0
+49936	http://www.ripuc.org	Public Utilities Commission	1996.0	543.0
+49937	http://www.courts.ri.gov/default.aspx	Judiciary, RI State	2011.0	308.0
+49938	http://warwickschools.org/scott/	Harold F. Scott School	2007.0	2.0
+49939	http://www.crb.ri.gov	Contractors' Registration Board	2003.0	2366.0
+49941	http://www.lincolnri.com/	Lincoln	2000.0	18.0
+49942	http://www.cse.ri.gov	Child Support, Rhode Island	2005.0	36.0
+49943	http://www.tivertonschools.org	Walter E. Ranger School	2007.0	13.0
+49944	http://www.ricw.state.ri.us	Women, Commission on	2000.0	30.0
+49945	http://www.networkri.org	netWORKri One-Stop Career System	1998.0	42.0
+49946	http://www.pawtucketri.com	Pawtucket RI, City of	2001.0	93.0
+49947	http://www.yourlibrary.ws	Greenville Public Library	2002.0	43.0
+49948	http://providenceschools.org/elementary-schools/kizirian	Harry Kizirian Elementary School	2012.0	204.0
+49949	http://www.rihumanities.org	Humanities, Council for the	2004.0	145.0
+49950	http://fosterlibraries.org/	Tyler Free Library	2008.0	83.0
+49951	http://www.bw.k12.ri.us/	Kickemuit Middle School	2000.0	0.0
+49952	http://providenceschools.org/middle-schools/hopkins	Esek Hopkins Middle School	2012.0	6.0
+49953	http://calcutt.cfschools.net	Dr. Earl F. Calcutt Middle School	0.0	38.0
+49954	http://www.cranstonri.com	Cranston RI, City of	1998.0	318.0
+49955	http://www.freemarketri.org	Free Market Reusable Goods Listing Service	2003.0	2581.0
+49956	http://www.ohic.ri.gov	Health Insurance Commissioner, The Office of	2008.0	156.0
+49957	http://www.dea.ri.gov	Elderly Affairs, Department of	2003.0	63.0
+49960	http://www.fire-marshal.ri.gov	Fire Marshal's Office, State	2004.0	14.0
+49962	http://cfhs.cfschools.net	Central Falls Senior High School	0.0	22.0
+49963	http://www.ors.ri.gov	Rehabilitation Services, Office of	2003.0	55.0
+49964	http://providenceschools.org/elementary-schools/kennedy	Robert F. Kennedy Elementary School	2012.0	204.0
+49965	http://schools.coventryschools.net/tiogue/	Tiogue School	2005.0	13.0
+49966	http://providenceschools.org/middle-schools/greene	Nathanael Greene Middle School	2012.0	6.0
+49967	http://www.dcyf.ri.gov	Children, Youth, and Families, Department of	2003.0	75.0
+49968	http://providenceschools.org/middle-schools/bishop	Nathan Bishop Middle School	2012.0	6.0
+49969	http://www.atap.ri.gov	Assistive Technology Project	2003.0	19.0
+49970	http://jamestownri.com/library/	Jamestown Philomenian Library	2000.0	3.0
+49971	http://www.cranstonlibrary.org/	William Hall Library	2004.0	80.0
+49974	http://www.ripd.org	Public Defender's Office	2004.0	67.0
+49975	http://www.eastsmithfieldpubliclibrary.org/	East Smithfield Public Library	2008.0	18.0
+49977	http://providenceschools.org/elementary-schools/west	George J. West Elementary School	2012.0	204.0
+49978	http://providenceschools.org/elementary-schools/webster	Webster Avenue School	2012.0	204.0
+49979	http://www.ewgrsd.org/	Exeter-West Greenwich Regional  Junior High	2014.0	108.0
+49980	http://www.paineschool.org/	Captain Isaac Paine Elementary School	2012.0	4.0
+49981	http://townofjohnstonri.com/	Johnston	2008.0	28.0
+49982	http://www.tmc.state.ri.us	Rhodeways	2001.0	2.0
+49984	http://www.ri.net/middletown/forest/index.html	Forest Avenue School	2003.0	4.0
+49985	http://www.eastgreenwichlibrary.org	East Greenwich Free Library	2000.0	31.0
+49986	http://scituatelibrary.org/	North Scituate Public Library	2002.0	55.0
+49987	http://www3.barringtonschools.org/hms/default.aspx	Hampden Meadows School	2013.0	35.0
+49989	http://www.georgehail.org	George Hail Free Library	2003.0	121.0
+49990	http://new.cityofnewport.com	Newport RI, City of	2003.0	1772.0
+49992	http://www.cpcri.org	College Planning Center of Rhode Island	2002.0	66.0
+49994	http://pd.skschools.net/	Peace Dale Elementary School	2009.0	46.0
+49996	http://www.dot.ri.gov	Transportation, Department of	2003.0	118.0
+49997	http://blockislandschool.net	Block Island School	2007.0	525.0
+49998	http://www.ri.gov/	State Government	2001.0	2134.0
+50001	http://www.ci.barrington.ri.us	Barrington RI, Town of	1998.0	0.0
+50002	http://www.fiscalfitness.ri.gov	Fiscal Fitness	2006.0	5.0
+50003	http://www.dbr.ri.gov	Business Regulation, Department of	2003.0	2.0
+50004	http://www.olis.ri.gov	Library and Information Service, Office of	2003.0	16.0
+50005	http://www3.barringtonschools.org/phs/default.aspx	Primrose Hill School	2013.0	23.0
+50006	http://www.narragansett.k12.ri.us/nps/	Narragansett Pier School	2001.0	51.0
+50007	http://www.paroleboard.ri.gov	Parole Board & Sex Offender Community Notification Unit	2005.0	15.0
+50008	http://cpsed.net/chse/	Cranston High School East	2002.0	654.0
+50009	http://veterans.cfschools.net	Veterans Memorial Elementary	0.0	15.0
+50011	http://wk.skschools.net/	West Kingston Elementary School	2010.0	16.0
+50013	http://www.glocesterri.org/	Glocester	2000.0	42.0
+50014	http://www.rilin.state.ri.us/Pages/Default.aspx	General Assembly	2012.0	40.0
+50016	http://www.newportrischools.org/pell	Claiborne Pell Elementary School	0.0	977.0
+50017	http://www.lincolnri.org	Lincoln RI, Town of	2001.0	18.0
+50018	http://www.provlib.org	Providence Public Library	1998.0	1296.0
+50019	http://www.newportrischools.org/domain/8	Rogers High School	2011.0	135.0
+50020	http://www.newportrischools.org/domain/9	Frank E. Thompson Middle School	2011.0	135.0
+50021	http://www.oag.ri.gov	Auditor General, Office of	2003.0	14.0
+50022	http://www.riheaa.org	Higher Education Assistance Authority	1999.0	61.0
+50023	http://www3.barringtonschools.org/BHS/default.aspx	Barrington High School	2014.0	114.0
+50024	http://www2.nksd.net/education/school/school.php?sectionid=16	Wickford Middle School	2007.0	0.0
+50025	http://www2.nksd.net/education/school/school.php?sectionid=10	Hamilton Elementary School	2006.0	0.0
+50026	http://ww2.northprovidencehighschool.com/	North Providence High School	0.0	106.0
+50028	http://nshs.northsmithfieldschools.com/	North Smithfield High School	2010.0	389.0
+50029	http://www.nspl.info	North Smithfield Public Library	2012.0	64.0
+50031	http://providenceschools.org/high-schools/classical	Classical High School	2012.0	6.0
+50032	http://ww2.uri.edu/	University of Rhode Island	2012.0	429.0
+50034	http://exeterpubliclibrary.org/	Exeter Public Library	2004.0	25.0
+50035	http://cpsed.net/stonehil/	Stone Hill School	2007.0	11.0
+50036	http://www.johnstonschools.org	Nicholas A. Ferri Middle School	2011.0	101.0
+50037	http://nsms.northsmithfieldschools.com/	North Smithfield Middle School	2010.0	257.0
+50039	http://www.health.ri.gov	Health, Department of	2002.0	783.0
+50040	http://www.arts.ri.gov	Arts, Rhode Island State Council on the	2003.0	2904.0
+50042	http://hopeschoolri.weebly.com/	Hope Elementary School	0.0	6.0
+50043	http://www.dor.ri.gov	Revenue, Department of	2008.0	12.0
+50045	http://www.nplib.com	Mayor Salvatore Mancini Union Free Library	2008.0	76.0
+50047	http://bhs.bsd-ri.net/	Burrillville High School	2010.0	137.0
+50048	http://www.cumberlandlibrary.org	Cumberland Public Library	2001.0	302.0
+50049	http://www.townofwarren-ri.gov	Warren RI, Town of	2004.0	11.0
+50050	http://www.bhddh.ri.gov	Behavioral Healthcare, Developmental Disabilities and Hospitals, Department of	2010.0	2.0
+50051	http://www.ethics.ri.gov	Ethics Commission	2005.0	51.0
+50052	http://www.tivertonlibrary.org/	Union Free Library	2002.0	659.0
+50054	http://www.woonsocketlibrary.org/	Fairmount Branch	2004.0	150.0
+50055	http://www.richr.ri.gov	Human Rights, Commission for	2004.0	26.0
+50057	http://bms.bsd-ri.net/	Burrillville Middle School	2012.0	278.0
+50059	http://www.scituateri.org/	Scituate	1998.0	90.0
+50060	http://www.rilin.state.ri.us/pages/default.aspx	State Legislature	2012.0	39.0
+50061	http://www.child-advocate.ri.gov	Child Advocate, Office of the	2003.0	2.0
+50062	http://providenceschools.org/elementary-schools/young--woods	The Sgt. Cornel Young, Jr & Charlotte Woods Elementary School @ The B. Joe Clanton Complex	2012.0	204.0
+50064	http://langworthylibrary.org/	Langworthy Public Library	2005.0	39.0
+50070	http://www.ric.edu/	Rhode Island College	1996.0	3.0
+50071	http://schools.coventryschools.net/blackrock/	Blackrock School	2005.0	18.0
+50072	http://www.eastprovidencelibrary.org/epl/	Riverside Branch	2013.0	92.0
+50073	http://schools.coventryschools.net/hh/	Hopkins Hill School	2006.0	16.0
+50075	http://www.narragansett.k12.ri.us/nes/index.html	Narragansett Elementary School	2007.0	122.0
+50078	http://www.skschools.net	South Kingstown Integrated Pre-school	2003.0	78.0
+50079	http://www.dem.ri.gov/brownfields/default.htm	Brownfields. Reinvesting in	2005.0	52.0
+50080	http://providenceschools.org/elementary-schools/reservoir	Reservoir Avenue School	2012.0	204.0
+50081	http://www.crmc.ri.gov	Coastal Resources Management Council	0.0	41.0
+50082	http://www.fsc.ri.gov	Fire Safety Code Board of Appeal and Review	2003.0	51.0
+50083	http://www2.nksd.net/education/school/school.php?sectionid=9	Forest Park Elementary School	2007.0	0.0
+50084	http://www2.nksd.net/education/school/school.php?sectionid=8	Fishing Cove Elementary School	2006.0	0.0
+50085	http://www.budget.ri.gov	Budget Office, RI State	2003.0	19.0
+50086	http://www2.nksd.net/education/school/school.php?sectionid=7	Davisville Middle School	2007.0	0.0
+50091	http://www.ri911.ri.gov	Emergency 911	2003.0	11.0
+50092	http://www.barringtonlibrary.org/	Barrington Public Library	2000.0	0.0
+50093	http://providenceschools.org/elementary-schools/pleasant-view	Pleasant View School	2012.0	204.0
+50094	http://www.ribghe.org	Higher Education, Board of Governors for	2000.0	114.0
+50095	http://commerceri.com	Commerce Corporation	2014.0	7.0
+50096	http://providenceschools.org/elementary-schools/feinstein-at-broad	Alan Shawn Feinstein Elementary at Broad Street	2012.0	204.0
+50098	http://www.nklibrary.org	North Kingstown Free Library	2004.0	323.0
+50100	http://providenceschools.org/elementary-schools/gregorian	Vartan Gregorian Elementary School	2012.0	204.0
+50102	https://ri-newhire.com/	New Hires, Directory of	2011.0	19.0
+50104	http://www.rijustice.ri.gov	Justice Commission	2003.0	3.0
+50105	http://www3.barringtonschools.org/bms/default.aspx	Barrington Middle School	2013.0	103.0
+50106	http://providenceschools.org/high-schools/central	Central High School	2012.0	6.0
+50107	http://sos.ri.gov	Secretary of State A. Ralph Mollis	2009.0	3637.0
+50108	http://www.dhs.ri.gov	Human Services, Department of	2003.0	170.0
+50109	http://www.pvdairport.com	Airport, T.F. Green International	2000.0	94.0
+50111	http://www.riinspection.org	Automobile Emissions and Testing Program	2007.0	3.0
+50112	http://www.risp.ri.gov	State Police	2003.0	152.0
+50113	http://www.rilot.com	Lottery Commission	1999.0	1253.0
+50114	http://schools.coventryschools.net/western/	Western Coventry School	2005.0	11.0
+50115	http://northprovidenceri.gov/	North Providence RI, Town of	2008.0	95.0
+50116	http://www.hrc.ri.gov	Housing Resources Commission	2003.0	2.0
+50117	http://www.littlecomptonschools.org	Wilbur and McMahon Schools	2005.0	0.0
+50119	http://www.edc.uri.edu	URI Natural Resources and Environmental Management	1997.0	132.0
+50120	http://www.admin.ri.gov	Administration, Department of	2006.0	3.0
+50121	http://www.mpsri.net/page.cfm?p=887	Middletown High School	2009.0	535.0
+50122	http://www.treasury.ri.gov	General Treasurer Gina M. Raimondo	2004.0	2.0
+50123	http://www.osccc.ri.gov	Ocean State Clean Cities Coalition	2003.0	113.0
+50125	http://www.dmv.ri.gov	Motor Vehicles, Division of	2003.0	105.0
+50126	http://www.psdri.net	William E Tolman Senior High School	2001.0	252.0
+50128	http://providenceschools.org/middle-schools/stuart	Gilbert Stuart Middle School	2012.0	6.0
+50129	http://www.doc.ri.gov	Corrections, Department of	2003.0	5.0
+50131	http://www.riddc.org	Developmental Disabilities Council	1998.0	136.0
+50132	http://www.ricw.ri.gov	Women, Rhode Island Commission on	2003.0	30.0
+50135	http://bristolri.us/	Bristol	2006.0	46.0
+50137	http://www.PROXSHARE.com/	Redistricting Commission	2009.0	1.0
+50139	http://www.jamestownri.net/	Jamestown	2002.0	11.0
+50142	http://hunt.cfschools.net	Capt. G. Harold Hunt School	0.0	46.0
+50143	http://adrc.ohhs.ri.gov	Aging and Disabilities Resource Center	2004.0	106.0
+50146	http://www.planning.ri.gov	Statewide Planning Program	2003.0	3.0
+50149	http://www.rirrc.org/content/	Resource Recovery Corporation	2010.0	179.0
+50150	http://www.new-shoreham.com/	New Shoreham	2002.0	61.0
+50151	http://www.islandfreelibrary.org	Island Free Library	2002.0	2.0
+50152	http://ricampaignfinance.com/RIPublic/Homepage.aspx	Campaign Finance	2005.0	8.0
+50153	http://www.riparks.com	Parks & Recreation, Division of	1998.0	15.0
+50154	http://providenceschools.org/elementary-schools/feinstein-at-sackett	Lillian Feinstein Elementary, Sackett Street	2012.0	237.0
+50155	http://providenceschools.org/elementary-schools/fortes	Charles N. Fortes Elementary School	2012.0	204.0
+50157	http://www.muni-info.ri.gov	Municipal Affairs, Office of	2003.0	12.0
+50160	http://www.pawtucketlibrary.org	Pawtucket Public Library	2003.0	59.0
+50162	http://www.riag.ri.gov	Attorney General Peter Kilmartin	2003.0	96.0
+50163	http://cc.skschools.net/	Curtis Corner Middle School	2009.0	191.0
+50164	http://www.portsmouthschoolsri.net/education/school/school.php?sectiondetailid=75&linkid=nav-menu-co	Portsmouth Middle School	0.0	18.0
+50165	http://www.townoffoster.com	Foster	2008.0	110.0
+50166	http://www.narragansettri.gov/	Narragansett	2007.0	709.0
+50167	http://www3.barringtonschools.org/nayatt/default.aspx	Nayatt School	2013.0	52.0
+50169	http://portsmouthlibrary.org	Portsmouth Free Public Library	2008.0	1266.0
+50172	http://www.risla.com	Student Loan Authority, Rhode Island	1997.0	63.0
+50173	http://mohrlibrary.org	Marian J. Mohr Memorial Library	2007.0	53.0
+50174	http://www.governor.ri.gov	Governor Lincoln D. Chafee	2003.0	2.0
+50175	http://www.doit.ri.gov	Information Technology, Office of	2004.0	36.0
+50177	http://cpsed.net/gladstone/	Gladstone Street School	2002.0	70.0
+50178	http://www.davisvillefreelibrary.org	Davisville Free Library	2005.0	12.0
+50180	http://www.scituateri.net/nses/	North Scituate Elementary School	2002.0	1.0
+50181	http://www.jamestownri.com/school/lawnave.htm	Jamestown School-Lawn	2004.0	24.0
+50182	http://www.rbfc.state.ri.us	Rehabilitation Building and Fire Code for Existing Buildings and Structures	2002.0	6.0
+50183	http://www.woonsocketschools.org/	Kevin K. Coleman Elementary School	2013.0	66.0
+50184	http://www.jamestownri.com/school/melroseave.htm	Jamestown School-Melrose	2004.0	31.0
+50185	http://www.narlib.org	Narragansett Public Library	2008.0	10.0
+50186	http://schools.coventryschools.net/highschool/	Coventry High School	2005.0	2.0
+50187	http://www.film.ri.gov	Film Office	2005.0	448.0
+50188	http://www.sheriffs.ri.gov	Sheriff's Department	2006.0	13.0
+50190	http://providenceschools.org/elementary-schools/lauro	Carl G. Lauro Elementary School	2012.0	204.0
+50192	http://westerly.k12.ri.us	Springbrook Elementary School	2000.0	9726.0
+50193	http://providenceschools.org/elementary-schools/frank-spaziano--annex	Frank D. Spaziano Elementary School Annex	2012.0	204.0
+50194	http://www.recovery.ri.gov	Recovery and Reinvestment, Rhode Island Office of	2009.0	2.0
+50196	http://www.rhodeislandhousing.org/	Rhode Island Housing	2007.0	216.0
+50197	http://www.warwickschools.org/obeach/	Oakland Beach Elementary School	2006.0	4.0
+50198	http://www.eohhs.ri.gov	Health and Human Services, Executive Office of	2006.0	657.0
+50199	http://www.ricwfa.com/	Clean Water Finance Agency	2004.0	27.0
+50200	http://www.visitrhodeisland.com	Tourism, Division of	1996.0	5066.0
+50201	http://www.ride.ri.gov	Education, Department of Elementary and Secondary	2005.0	1312.0
+50202	http://www.purchasing.ri.gov	Purchases, Division of	2003.0	12.0
+50206	http://www.middletownpubliclibrary.org/	Middletown Public Library	2001.0	100.0
+50207	http://www.clarklib.org	Clark Memorial Library	2002.0	19.0
+50213	http://robertson.cfschools.net	Margaret I. Robertson School	2013.0	55.0
+50215	http://www.rihric.com	Human Resource Investment Council	2002.0	35.0
+50220	http://www.hopkintonri.org/	Hopkinton	2004.0	35.0
+50221	http://www.gcd.ri.gov	Disabilities, Governor's Commission on	2003.0	3.0
+50222	http://www.mpsri.net	Joseph H. Gaudet Learning Academy	2006.0	594.0
+50224	http://mt.skschools.net/	Matunuck School	2009.0	152.0
+50226	http://www.ritba.org	Turnpike and Bridge Authority	2002.0	39.0
+50227	http://www.ri.net/middletown/aquidneck/index.html	Aquidneck School	2003.0	6.0

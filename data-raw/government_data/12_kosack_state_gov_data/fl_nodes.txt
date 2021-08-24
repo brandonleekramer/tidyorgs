@@ -1,0 +1,2264 @@
+NodeId	NodeURL	NodeName	Year	pages
+12599	http://www.balharbourgov.com/	Bal Harbour	2001.0	165.0
+12600	http://www.sjcpls.org/content/bartram-trail-branch	Bartram Trail Branch Library	2008.0	663.0
+12601	http://treasureisland.dadeschools.net/	Treasure Island Elementary School	2004.0	13.0
+12602	http://www.juno-beach.fl.us/	Juno Beach	1999.0	977.0
+12603	http://www.duvalschools.org/bartramsprings	Bartram Springs Elementary	2010.0	15748.0
+12604	http://www.lenorabsmithelementary.com/	Lenora Braynon Smith Elementary	0.0	35.0
+12605	http://schools.polk-fl.net/dsa/	Davenport School Of The Arts	2009.0	1.0
+12606	http://wlre.dadeschools.net	Dr. Henry W. Mack/West Little River K-8 Center	2004.0	20.0
+12607	http://www.duvalschools.org/rlbrown	Richard L. Brown Elementary School	2008.0	15851.0
+12608	http://myvolusiaschools.org/school/hinsonmiddle/pages/default.aspx	David C Hinson Sr Middle School	2013.0	28.0
+12609	http://www.edline.net/pages/golden_grove_elementary_school	Golden Grove Elementary School	2008.0	14.0
+12610	http://www.ufl.edu/	University of Florida	1997.0	338.0
+12612	http://www.fortmyerstech.edu/	Fort Myers Institute Of Technology	2012.0	157.0
+12613	http://www.clay.k12.fl.us/les/	Lakeside Elementary School	0.0	10.0
+12614	http://www.floridapsc.com	Public Service Comm.	2000.0	1146.0
+12615	http://www.duvalschools.org/hsg	Hogan-Spring Glen Elementary School	2008.0	15687.0
+12616	http://schools.polk-fl.net/wwe/	Wendell Watson Elementary School	2009.0	17.0
+12617	http://www.pc.fsu.edu/	Florida State University: Panama City	1996.0	274.0
+12618	http://www.sarasotacountyschools.net/schools/bayhaven/	Bay Haven School Of Basics Plus	2012.0	105.0
+12619	http://www.palmbeach.k12.fl.us/boyntonbeachhs/	Boynton Beach Community High	2001.0	84.0
+12620	http://banyan.dadeschools.net/	Banyan Elementary School	2002.0	1.0
+12621	http://wakulla.crawfordville.schooldesk.net/	Crawfordville Elementary School	2013.0	240.0
+12622	http://nkc.dadeschools.net/	Neva King Cooper Educational Center	2002.0	6.0
+12623	http://www.duvalschools.org/henrykite	Henry F. Kite Elementary School	2008.0	15769.0
+12624	http://ojus.dadeschools.net/	Ojus Elementary School	2002.0	1271.0
+12625	http://myvolusiaschools.org/Pages/default.aspx	Volusia County Superintendent's Office	2012.0	111.0
+12626	http://www.pp-es.pinellas.k12.fl.us	Pinellas Park Elementary School	2004.0	2.0
+12627	http://www.highlands.k12.fl.us/~snl/	Sun 'n Lake Elementary School	2001.0	27.0
+12628	http://www.madisoncountyfl.com/	Madison County	2007.0	168.0
+12631	http://www.bartowhighschool.com/	Bartow Senior High School	2003.0	669.0
+12632	http://www.edline.net/pages/everglades_elementary	Everglades Elementary	2010.0	14.0
+12633	http://drawithme.com/index.php?B=5487	Eastern Florida State College  Melbourne Campus	0.0	1.0
+12635	https://www.oasiselementaryschool.net/	Oasis Charter Elementary School	2012.0	94.0
+12637	http://www.edline.net/pages/grassy_waters_elementaryschool	Grassy Waters Elementary School	2010.0	19.0
+12638	http://miamibeachhigh.schoolwires.com/site/default.aspx?PageID=1	Miami Beach Senior High School	2013.0	25.0
+12639	http://cre.dade.k12.fl.us/	Cutler Ridge Elementary School	1998.0	2.0
+12640	http://www.centralridgeelementary.org	Central Ridge Elementary School	2008.0	8.0
+12642	http://www.fortwhitehighschool.org/	Fort White High School	2003.0	176.0
+12643	http://www.seacoastcharteracademy.org	Seacoast Charter Academy	2011.0	613.0
+12644	http://www.crystal-river.com/	Crystal River	1998.0	6.0
+12645	http://www.lighthousepoint.com/	Lighthouse Point	1997.0	25.0
+12646	http://www.edline.net/pages/discovery_key_elementary	Discovery Key Elementary School	2010.0	18.0
+12647	http://lake.k12.fl.us/les	Leesburg Elementary School	2012.0	4065.0
+12649	http://schools.stlucie.k12.fl.us/lpa/	Lincoln Park Academy	2012.0	58.0
+12650	http://www.volusia.org/	Volusia County	1997.0	1484.0
+12651	http://www.edline.net/pages/Palm_Bay_Elementary_School	Palm Bay Elementary School	2010.0	455.0
+12652	http://avonpark.cc/	Avon Park	2001.0	136.0
+12653	http://nmiamid.dadeschools.net/	North Miami Middle School	2002.0	22.0
+12654	http://lake.k12.fl.us/ems	Eustis Middle School	2012.0	10083.0
+12656	http://littlecarver.dadeschools.net	George W. Carver Elementary School	2003.0	14.0
+12659	http://www.omnimiddle.org	Omni Middle School	2000.0	9.0
+12660	http://schools.polk-fl.net/jessekeenelementary/	Jesse Keen Elementary School	2008.0	8.0
+12661	http://aearhart.dadeschools.net/	Amelia Earhart Elementary School	2002.0	1.0
+12663	http://znhurston.dadeschools.net/	Zora Neale Hurston Elementary School	2003.0	5.0
+12664	http://myvolusiaschools.org/school/tomoka/pages/default.aspx	Tomoka Elementary School	0.0	25.0
+12665	http://www.fscj.edu/campus-life/campuses-centers/north-campus/	Florida State College at Jacksonville  North Campus	2014.0	6.0
+12666	http://www.flaglercounty.org	Flagler County Public Library	1999.0	1528.0
+12667	http://www.pacecenter.org/centers/volusia-flagler	Pace Center For Girls	2013.0	778.0
+12668	http://www.largo.com/	Largo	1996.0	2350.0
+12669	http://www.connectionsacademy.com/home.aspx	Nassau Virtual Instruction Program	2009.0	2198.0
+12670	http://www.ci.miramar.fl.us/	Miramar	2001.0	256.0
+12671	http://www.edline.net/pages/glade_view_elementary_school	Glade View Elementary School	2011.0	18.0
+12672	http://www.aandm.net	South Dade Educational Center	0.0	629.0
+12673	http://www.charterschool.com	Charter School Of Excellence At Davie	1998.0	23.0
+12675	http://www-hce.stjohns.k12.fl.us/	Hickory Creek Elementary School	2006.0	36.0
+12676	http://www.edline.net/pages/Apollo_Elementary_School/	Apollo Elementary School	2013.0	87.0
+12677	http://lake.k12.fl.us/mms	Mt. Dora Middle School	2012.0	2992.0
+12678	http://www.edline.net/pages/northboro_elementary_school	Northboro Elementary School	2010.0	14.0
+12679	http://myfwc.com	Fish & Wildlife Conserv.	2002.0	4011.0
+12680	http://mnorland.dadeschools.net/	Miami Norland Senior High School	2002.0	544.0
+12681	http://schools.polk-fl.net/crystallakeelementary/	Crystal Lake Elementary School	2010.0	21.0
+12682	http://aleeacademy.org/script-page.php?page=welcome	Alee Academy Charter School	2014.0	62.0
+12684	http://www.flalottery.com	Lottery	1996.0	353.0
+12685	http://www.seminolecountyfl.gov/	Seminole County	2004.0	1032.0
+12688	http://www.edline.net/pages/hcsb_wes	Westside Elementary School	2010.0	87.0
+12689	http://www.keyscharter.org/	Keys Gate Charter School	2001.0	13.0
+12691	http://mgrove.dadeschools.net/	Myrtle Grove K-8 Center	2003.0	8.0
+12692	http://www.cityofnsb.com/	New Smyrna Beach	2002.0	792.0
+12693	http://www.sfcollege.edu/centers/blount/	Santa Fe College  Charles L. Blount Downtown Center	2011.0	7.0
+12694	http://hendry-schools.org/education/school/school.php?sectionid=10&sc_id=1171294169	Central Elementary School	2005.0	4.0
+12695	http://lake.k12.fl.us/oms	Oak Park Middle School	2012.0	11902.0
+12696	http://www.fkcc.edu/	Florida Keys Community College  Middle Keys Center	2004.0	398.0
+12697	http://mms.jcsb.org	Marianna Middle School	2011.0	25.0
+12698	http://www.sarasota.k12.fl.us/suncoast/	Sarasota Suncoast Academy	2005.0	40.0
+12699	http://www.columbia.k12.fl.us/pinemount/	Pinemount Elementary School	2011.0	20.0
+12700	http://www.stluciecharter.org	Renaissance Charter School Of St. Lucie	2009.0	11.0
+12701	http://www.baker.k12.fl.us	Baker Virtual Instruction Program (district Provided)	2002.0	397.0
+12702	http://www.cityofparkland.org	Parkland Library	2003.0	926.0
+12703	http://www.swflymca.org/locations/sky-academy/sky-academy-where-success-has-no-boundaries-a-tuition-free-public-charter-school/	Sky Academy	2013.0	2.0
+12705	http://wiltonmanors.com/index.aspx?NID=168	Richard C. Sullivan Public Library Of Wilton Manors	2013.0	500.0
+12706	http://www.leadershipacademywest.org	Leadership Academy West	2007.0	14.0
+12707	http://www.plantcitygov.com/	Plant City	2001.0	709.0
+12708	http://www.walsingham-es.pinellas.k12.fl.us	Walsingham Elementary School	2001.0	2.0
+12709	http://www.wiltonmanors.com/	Wilton Manors	1998.0	486.0
+12713	http://www.brevardcounty.us/publiclibraries/branches/merrittisland/home	Merritt Island Public Library	2012.0	9.0
+12714	http://fwb.org/	Ft. Walton Beach	1998.0	786.0
+12715	http://www.edline.net/pages/rosenwald_elementary_school	Rosenwald Elementary School	2013.0	10.0
+12716	http://schools.polk-fl.net/dixieland/	Dixieland Elementary School	2010.0	12.0
+12717	http://mse.dadeschools.net/	Miami Springs Elementary School	2003.0	16.0
+12718	http://www.walton.k12.fl.us/	Walton County Superintendent's Office	1998.0	1045.0
+12719	http://mes.putnamschools.org/	Melrose Elementary School	2005.0	35.0
+12720	http://www.ci.dania-beach.fl.us/	Dania Beach	1999.0	1097.0
+12721	http://it.pinellas.k12.fl.us/schools/dropout-prevent/	Dropout Prevention School	2005.0	10.0
+12723	http://www.duvalcharterhigh.org	Duval Charter High School At Baymeadows	2011.0	11.0
+12724	http://www.duvalschools.org/spe	Sabal Palm Elementary School	2008.0	14339.0
+12725	http://www.einsteinmontessori.com/	Einstein Montessori School	2003.0	1.0
+12726	http://www.unf.edu	University of North Florida	1997.0	6588.0
+12729	http://it.pinellas.k12.fl.us/schools/dropout-prevent/juveniledetention.html	Pinellas Juvenile Det Center	2005.0	10.0
+12730	http://flamingo.dadeschools.net/	Flamingo Elementary School	2003.0	56.0
+12731	http://myvolusiaschools.org/school/campbell/pages/default.aspx	Campbell Middle School	0.0	24.0
+12734	http://jpl.coj.net/lib/branches/wst.html	West Regional Library	2007.0	26.0
+12735	http://www.discoveryacademy.org/	Discovery Academy Of Lake Alfred	2002.0	51.0
+12736	http://www.caec.pinellas.k12.fl.us	Clearwater Adult Education Center	2001.0	7.0
+12737	http://www.polk-fl.net/gardengrove	Garden Grove Elementary School	2003.0	11.0
+12739	http://it.pinellas.k12.fl.us/schools/homebound/	Hospital/Homebound	2003.0	12.0
+12740	http://www.duvalschools.org/scea	Saint Clair Evans Academy	2008.0	14347.0
+12741	http://www.nwrls.lib.fl.us	Northwest Regional Library System	1998.0	116.0
+12742	http://stirrupelementary.dadeschools.net	E.W.F. Stirrup Elementary School	2006.0	54.0
+12743	http://madisonmiddle.dadeschools.net/	Madison Middle School	2002.0	5.0
+12744	http://www.edline.net/pages/cypress_trails_es	Cypress Trails Elementary School	2010.0	18.0
+12746	http://scottlake.dadeschools.net/	Scott Lake Elementary School	2003.0	32.0
+12748	http://floridayouthchallengeacademy.org/	Florida Youth Challenge Academy	2013.0	51.0
+12752	http://www.brevardcounty.us/publiclibraries/branches/cocoabeach/home	Cocoa Beach Public Library	2012.0	10.0
+12754	http://lsms.dadeschools.net/	Lake Stevens Middle School	2002.0	13.0
+12755	http://www.columbia.k12.fl.us/columbiacity/index.html	Columbia City Elementary School	2004.0	12.0
+12757	http://www.nfcc.edu/	North Florida Community College  Main Campus	2002.0	428.0
+12758	http://www.polk-fl.net/padgett	Edgar L. Padgett Elementary	2004.0	8.0
+12759	http://oaklandparkfl.org/index.cfm	Oakland Park	2010.0	205.0
+12760	http://schools.polk-fl.net/winston/	Winston Elementary School	2009.0	12.0
+12761	http://www.myflorida.com/	State Portal	2000.0	184.0
+12765	http://fulford.dadeschools.net/	Fulford Elementary School	2004.0	4.0
+12768	http://www.hdsb.org/	Holmes County Superintendent's Office	2005.0	245.0
+12769	http://www.ci.gulfport.fl.us/	Gulfport	1999.0	168.0
+12770	http://schools.polk-fl.net/bdoc/	Bill Duncan Opportunity Center	2010.0	17.0
+12771	http://www.staugustinegovernment.com/	St. Augustine	2002.0	90.0
+12772	http://www.myfloridalicense.com/dbpr/	Business & Profess. Reg.	2008.0	524.0
+12773	http://www.desotoschools.com/	Desoto County Superintendent's Office	1999.0	507.0
+12774	http://www.swfpsa.org	Southwest Florida Public Service Academy	2008.0	86.0
+12775	http://www.sarasotacountyschools.net/schools/emmaebooker/	Emma E. Booker Elementary School	2011.0	92.0
+12776	https://www.pcsb.org/	Pinellas County Superintendent's Office	2001.0	14.0
+12777	http://www.platoacademy.net/web/guest/seminole	Plato Seminole	2011.0	11.0
+12778	http://dor.myflorida.com/dor/	Revenue	2006.0	1473.0
+12779	http://www.clayvirtual.net	Clay Virtual Instruction Program	2011.0	26.0
+12782	http://www.palmbeach.k12.fl.us/pahokeemiddlesrhigh/	Pahokee Middle-Senior High	2000.0	17.0
+12783	http://www.edline.net/pages/berkshire_elementary_school	Berkshire Elementary School	2010.0	14.0
+12785	http://schools.stlucie.k12.fl.us/dcs//	Dale Cassens Education Complex	2012.0	40.0
+12787	http://www.childrenfirst.net	Children First	2000.0	15.0
+12788	http://virtualschool.pcsb.org	Pinellas Virtual Instruction (course Offerings)	2009.0	52.0
+12789	http://pwbell.dadeschools.net/	Bunche Park Elementary School	2002.0	17.0
+12790	http://www.curtis-es.pinellas.k12.fl.us	Curtis Fundamental Elementary	2002.0	2.0
+12792	http://www.sbafla.com/	Board of Administration	2003.0	166.0
+12793	http://www-mce.stjohns.k12.fl.us/	Mill Creek Elementary School	1999.0	34.0
+12794	http://palmettomiddleschool.org/	Palmetto Middle School	0.0	528.0
+12795	http://www.edison.edu/collier/	Edison State College  Collier County Campus	2005.0	18.0
+12796	http://ses.dadeschools.net/	Shenandoah Elementary School	2001.0	31.0
+12797	http://crdrew.dadeschools.net/	Charles R. Drew Middle School	2004.0	6.0
+12800	http://www.bocc.citrus.fl.us/	Citrus County	2000.0	327.0
+12803	http://tcplreads.com	Taylor County Public Library	2009.0	9.0
+12804	http://www.colpsc.com/	Chain Of Lakes Collegiate High	2010.0	1.0
+12805	http://www.coe.fau.edu/schoolandk12programs/	Florida Atlantic University Schools County Superintendent's Office	2011.0	28.0
+12806	http://www.mysuwanneeriver.com/	Suwannee River	2001.0	573.0
+12807	http://web.miamibeachfl.gov/	Miami Beach	2007.0	1302.0
+12808	http://www.dhaec.pinellas.k12.fl.us	Dixie Hollins Adult Education Center	2002.0	13264.0
+12809	http://www.southtechacademy.com	South Tech Academy	2006.0	6.0
+12810	http://www.westernacademycharter.com	Western Academy Charter School	2006.0	366.0
+12811	http://www.newpointschools.org	Newpoint Bay Charter High School	2008.0	16.0
+12812	http://schools.polk-fl.net/sandhill/	Sandhill Elementary School	2009.0	13.0
+12813	http://www.delraylibrary.org	Delray Beach Library	1998.0	132.0
+12814	http://schools.polk-fl.net/ee/	Eastside Elementary School	2009.0	11.0
+12815	http://www.myfloridahouse.gov	Florida House of Representatives	2003.0	1282.0
+12816	http://joehall.dadeschools.net	Joe Hall Elementary School	2002.0	18.0
+12817	http://www.wildernesscoast.org	Wilderness Coast Public Libraries	2001.0	16.0
+12818	http://myvolusiaschools.org/school/southdaytona/pages/default.aspx	South Daytona Elementary School	2013.0	22.0
+12820	http://www.edline.net/pages/seminole_ridge_community_hs	Seminole Ridge Community High School	2011.0	18.0
+12821	http://fcmartin.dadeschools.net/	Frank Crawford Martin K-8 Center	2002.0	26.0
+12822	http://dma.myflorida.com/	Military Affairs	2010.0	128.0
+12823	http://price.putnamschools.org/	C. H. Price Middle School	2005.0	187.0
+12825	http://www.myquincy.net/i/	Quincy	2013.0	221.0
+12827	http://myvolusiaschools.org/school/champion/pages/default.aspx	Champion Elementary School	0.0	24.0
+12828	http://schools.polk-fl.net/highland%5Fcity/	Highland City Elementary School	2008.0	10.0
+12829	http://www-pbm.stjohns.k12.fl.us	Pacetti Bay Middle School	2007.0	48.0
+12830	http://www.cityofsebastian.org/	Sebastian	1998.0	793.0
+12831	http://www.gatewaycharterhigh.org	Gateway Charter High School	2004.0	12.0
+12832	http://www.windsorprep.org	Windsor Charter School	2012.0	99.0
+12833	http://www.cflacademy.org	Central Florida Leadership Academy Charter	2010.0	15.0
+12834	http://www.ci.zephyrhills.fl.us/	Zephyrhills	2003.0	674.0
+12835	http://www.sfcollege.edu/centers/davis/	Santa Fe College  Davis Center	2011.0	7.0
+12836	http://www.duvalschools.org/alimacani	Alimacani Elementary School	2007.0	14363.0
+12837	http://www.miamikillianhs.com/	Miami Killian Senior High School	0.0	1517.0
+12838	http://www.brevardcounty.us/publiclibraries/branches/eaugallie/home	Eau Gallie Public Library	2012.0	12.0
+12839	http://www.advantageacademyhillsborough.com	Advantage Academy Middle School	2009.0	12.0
+12840	http://www.cityofrockledge.org/	Rockledge	2000.0	573.0
+12841	http://daytonabeach.erau.edu/	Embry Riddle Aeronautical University	2009.0	410.0
+12843	http://schools.polk-fl.net/combeeel/	Combee Elementary School	2009.0	8.0
+12845	http://www.gulfcoast.edu/maps/default.htm	Gulf Coast State College  Panama City Campus	2008.0	2.0
+12846	http://www.duvalschools.org/rhpearson	Rutledge H. Pearson Elementary School	2009.0	14355.0
+12847	http://www.fcsw.net/	Commission on the Status of Women	2002.0	45.0
+12848	http://cyh.leeschools.net/	Cypress Lake High School	2008.0	1.0
+12849	http://www.ut.edu/	University of Tampa	1997.0	2970.0
+12850	http://mcbe.dadeschools.net	Dr. Manuel C. Barreiro Elementary School	2008.0	15.0
+12851	http://schools.polk-fl.net/boonemiddle/	Shelley S. Boone Middle School	2009.0	373.0
+12852	http://www.edline.net/pages/equestrian_trails_elementary	Equestrian Trails Elementary	2010.0	11.0
+12853	http://www.flsenate.gov	Florida Senate	2008.0	3712.0
+12854	http://www.duvalschools.org/mhs	Mandarin High School	2008.0	16076.0
+12855	http://gglades.dadeschools.net/	Golden Glades Elementary School	2004.0	27.0
+12856	http://www.taylor.k12.fl.us/schools/pre-k/	Child Development Center	2002.0	8.0
+12857	http://dlk8.dadeschools.net	David Lawrence Jr. K-8 Center	2006.0	1.0
+12858	http://www.sosjax.org	School Of Success Academy-Sos	2003.0	3.0
+12859	http://schools.polk-fl.net/medulla/	Medulla Elementary School	2008.0	13.0
+12861	http://www.edline.net/pages/ocms	Osceola Creek Middle School	2010.0	14.0
+12862	http://www.oakhurst-es.pinellas.k12.fl.us	Oakhurst Elementary School	2000.0	2.0
+12863	http://schools.polk-fl.net/valleyview/	Valleyview Elementary School	2009.0	11.0
+12864	http://www.duvalschools.org/msec	Marine Science Education Center	2008.0	15826.0
+12865	http://www.columbia.k12.fl.us/lakecitymiddle/index.htm	Lake City Middle School	2009.0	0.0
+12866	http://www.clay.k12.fl.us/poe/	Plantation Oaks Elementary School	0.0	17.0
+12867	http://www.edline.net/pages/Palm_Bay_High_School/	Palm Bay Magnet Senior High School	2010.0	78.0
+12868	http://fce.dadeschools.net	Florida City Elementary School	2002.0	40.0
+12869	http://www.brevardcounty.us/publiclibraries/branches/mlk/home	Dr. Martin Luther King Jr. Library	2012.0	10.0
+12871	http://www.regionalcampuses.ucf.edu/	University of Central Florida: Sanford/Lake Mary	2003.0	575.0
+12872	http://schools.polk-fl.net/kmsa/	Karen M. Siegel Academy	2009.0	18.0
+12873	http://www.stlucieschools.org	St. Lucie County Superintendent's Office	2007.0	43.0
+12874	http://www.duvalschools.org/mvr	Mattie V Rutherford Alt Ed Center	2010.0	15793.0
+12875	http://www.dashschool.org	Design & Architecture Senior High	2005.0	383.0
+12876	http://www.cityofmascotte.com	Mascotte	2003.0	207.0
+12879	http://www.fiu.edu	Florida International University	1997.0	46.0
+12880	http://www.stcloud.org/	St. Cloud	1998.0	586.0
+12881	http://www.duvalschools.org/jbe	Jacksonville Beach Elementary School	2008.0	15733.0
+12882	http://www.seminolestate.edu	Seminole State College	2009.0	725.0
+12883	http://www.osceola.k12.fl.us	Thacker Avenue Elementary School For International Studies	1997.0	94.0
+12884	http://www.manatee.k12.fl.us	James Tillman Elementary Magnet School	0.0	53.0
+12885	http://www.fuguitt-es.pinellas.k12.fl.us	Fuguitt Elementary School	2002.0	2.0
+12886	http://www.brooker-es.pinellas.k12.fl.us	Brooker Creek Elementary School	2001.0	13306.0
+12887	http://winstonpark.dadeschools.net/	Winston Park K-8 Center	2003.0	7.0
+12888	http://www.edline.net/pages/jeaga_middle_school	Jeaga Middle School	2010.0	15.0
+12889	http://www.fldoe.org	Education	2002.0	1374.0
+12890	http://valenciacollege.edu/west/	Valencia College  West Campus	2011.0	264.0
+12891	http://www.sdhc.k12.fl.us	Doby Elementary School	1999.0	1418.0
+12894	http://mbes.putnamschools.org/	Middleton-Burney Elementary School	2005.0	19.0
+12895	http://www.achievementacademy.com/	Achievement Academy	2000.0	30.0
+12896	http://lake.k12.fl.us/uel	Umatilla Elementary School	2012.0	11700.0
+12897	http://erg.dadeschools.net	Ernest R. Graham K-8 Center	2007.0	1.0
+12898	http://www.duvalschools.org/loretto	Loretto Elementary School	2009.0	15768.0
+12899	http://scf.edu/aboutscf/locations/scflakewoodranch/default.asp	State College of Florida, Manatee-Sarasota  Lakewood Ranch	2010.0	14.0
+12900	http://www.duvalschools.org/crownpoint	Crown Point Elementary School	2008.0	15796.0
+12901	http://www.tampagov.net/	Tampa	2001.0	1908.0
+12902	http://westland.dadeschools.net	Westland Hialeah Senior High School	2007.0	22.0
+12903	http://www.clay.k12.fl.us/gcj/	Green Cove Springs Junior High School	0.0	20.0
+12904	http://howarddrive.dadeschools.net	Howard Drive Elementary School	2002.0	1.0
+12905	http://lattmaxcymemoriallibrary.blogspot.com/	Latt Maxcy Memorial Library	2011.0	107.0
+12906	http://brentwood.dadeschools.net/	Brentwood Elementary School	2003.0	8.0
+12907	http://gkesp.dadeschools.net/	Gertrude K. Edleman/Sabal Palm Elementary School	2003.0	17.0
+12908	http://www.sutherland-es.pinellas.k12.fl.us	Sutherland Elementary School	1999.0	12600.0
+12909	http://myfloridalegal.com/	Attorney General	2003.0	687.0
+12910	http://www.locklintech.com/	Locklin Technical Center	2007.0	43.0
+12911	http://www.highlands.k12.fl.us/~klc/	The Kindergarten Learning Center	2007.0	29.0
+12912	http://www.lakeworth.org	Lake Worth Public Library	1998.0	130.0
+12913	http://www.myflorida.com/audgen/	Auditor General	2002.0	58.0
+12915	http://www.humanitiesandfacs.com	Humanities And Fine Arts Charter School	2010.0	23.0
+12916	http://citrusgrovee.dadeschools.net/	Citrus Grove Elementary School	2002.0	31.0
+12917	http://www.charterschoolsusa.com	Renaissance Charter School At Summit	1999.0	160.0
+12918	http://www.altamonte.org/	Altamonte Springs	1998.0	602.0
+12919	http://www.cityoflakewales.com/	Lake Wales	1998.0	559.0
+12920	http://hendry-schools.org/education/school/school.php?sectionid=11&sc_id=1171294169	Eastside Elementary School	2004.0	9.0
+12921	http://www.mdc.edu/iac/	Miami Dade College  InterAmerican Campus	2003.0	52.0
+12922	http://www.tarpon-es.pinellas.k12.fl.us	Tarpon Springs Elementary School	2000.0	2.0
+12924	http://sumter.librarycatalog.info/polaris/	Sumter County Public Library System	0.0	6292.0
+12926	http://apmays.dadeschools.net	Arthur And Polly Mays Conservatory Of The Arts	2002.0	3.0
+12927	http://www.co.leon.fl.us/lchd/index.asp	Leon County Health Department	2003.0	0.0
+12928	http://www.hugedomains.com/domain_profile.cfm?d=ircms&e=com	Loggers' Run Community Middle School	0.0	1764.0
+12929	http://www.daytonastate.edu/maps/westmap.html	Daytona State College  DeLand Campus	2008.0	13.0
+12930	http://www.sjcpls.org/content/technical-services	St. Johns County Public Library Technical Services	2009.0	429.0
+12931	http://www.sarasotahealth.org/	Sarasota County Health Department	2006.0	2.0
+12932	http://www.sfcollege.edu/centers/	Santa Fe College  Northwest Campus	2011.0	50.0
+12933	http://www.duvalschools.org/splivingston	Smart Pope Livingston Elementary	2009.0	14301.0
+12934	http://www.academiedavinci.com	Academie Da Vinci Charter School	2002.0	2581.0
+12935	http://mcnair.ms.brevard.k12.fl.us	Ronald McNair Magnet Middle	2001.0	97.0
+12936	http://schools.polk-fl.net/alturaselementary/	Alturas Elementary School	2009.0	11.0
+12939	http://www.duvalschools.org/greenlandpines	Greenland Pines Elementary School	2008.0	14471.0
+12940	http://www.palmbeach.k12.fl.us/johnileonardhs/	John I. Leonard High School	1998.0	25.0
+12941	http://www.edison.edu/charlotte/	Edison State College  Charlotte County Campus	2004.0	37.0
+12942	http://www.igenacademy.org	Igeneration Empowerment Academy Of Collier County	2012.0	1.0
+12944	http://www.edline.net/pages/hidden_oaks_elementary_school	Hidden Oaks Elementary School	2010.0	17.0
+12945	http://www.ccpl.lib.fl.us	Clay County Public Library System	1998.0	221.0
+12946	http://www.citruslibraries.org	Citrus County Library System	2008.0	335.0
+12947	http://www.imaginesouthlake.org	Imagine Schools At South Lake	2009.0	97.0
+12948	http://www.auburndalehighschool.com/	Auburndale Senior High School	2000.0	14.0
+12949	http://www.fortmyersbeach.org/	Ft. Myers Beach	1996.0	160.0
+12950	http://www.charlottecountyfl.gov/Pages/default.aspx	Charlotte County	2012.0	90.0
+12951	http://mypolkhealth.org	Polk County Health Department	2012.0	2.0
+12952	http://wms.levyschools.org/r/default.asp?iId=EDHKKFM	Williston Middle School	2012.0	89.0
+12953	http://www.osceola.org/	Osceola County	1996.0	840.0
+12954	http://schools.polk-fl.net/palmettoknights/	Palmetto Elementary School	2008.0	22.0
+12956	http://www.fec.state.fl.us/	FL Elections Commission	2000.0	32.0
+12958	http://www.gcps.k12.fl.us/	Gadsden County Superintendent's Office	2001.0	1418.0
+12959	http://www.newpointpinellas.org	Newpoint Pinellas Academy	2013.0	60.0
+12960	http://uwf.edu/	University of West Florida	1997.0	5657.0
+12961	http://www.columbia.k12.fl.us	Columbia County Superintendent's Office	2000.0	116.0
+12963	http://www.carrschool.org	Carr Elementary & Middle School	2008.0	174.0
+12964	http://vms.wcsdschools.com	Vernon Middle School	2013.0	7.0
+12965	http://www.edline.net/pages/jerry_thomas_elementary_school	Jerry Thomas Elementary School	2008.0	12.0
+12966	http://www.tisbocagrande.org	The Island School	2008.0	66.0
+12967	http://www.edline.net/pages/washingtonelementaryschool	Washington Elementary Magnet School	2011.0	11.0
+12968	http://www.stambaughmiddle.com/	Jere L. Stambaugh Middle	2002.0	21.0
+12969	http://myvolusiaschools.org/school/woodward/pages/default.aspx	Woodward Avenue Elementary School	2013.0	25.0
+12971	http://myvolusiaschools.org/school/citrusgrove/pages/default.aspx	Citrus Grove Elementary	2013.0	30.0
+12972	http://www.edline.net/pages/Tropical_Elementary_School	Tropical Elementary School	2010.0	228.0
+12973	http://www.goodwillsouthflorida.org	Postsecondary Alternatives For Secondary Students-Pass	2010.0	262.0
+12974	http://www.djj.state.fl.us/programs-facilities/residential-facilities/residential-facility-details/cypress	Cypress Creek Academy	2012.0	0.0
+12975	http://www.duvalschools.org/tlam	Twin Lakes Academy Middle School	2008.0	14340.0
+12977	http://www.southflorida.edu/campuses/lakeplacid/	South Florida State College  Lake Placid Center	2010.0	3.0
+12978	http://lake.k12.fl.us/slh	South Lake High School	2012.0	12008.0
+12979	http://www.duvalschools.org/tlae	Twin Lakes Academy Elementary School	2007.0	14476.0
+12981	http://lecityk8dolphins.dadeschools.net	Leisure City K-8 Center	2003.0	10.0
+12982	http://schools.polk-fl.net/rbw/	R. Bruce Wagner Elementary School	2009.0	15.0
+12983	http://redlandelem.dadeschools.net/	Redland Elementary School	2004.0	15.0
+12985	http://www.sarasotacountyschools.net/schools/venicemiddle/	Venice Middle School	2010.0	80.0
+12986	http://www.floir.com/	Office of Insurance Regulation	2005.0	355.0
+12987	http://www.cityofbartow.net/index.aspx?page=149	Bartow Public Library	2011.0	1019.0
+12988	http://leonschools.net	Leon County Superintendent's Office	2010.0	2.0
+12989	http://www.hainescityhighschool.com/	Haines City Senior High School	2001.0	28.0
+12990	http://schools.polk-fl.net/jewettschoolofthearts/	Jewett School Of The Arts	2009.0	1.0
+12993	http://www.rehabworks.org/	Division of Vocational Rehabilitation	2001.0	146.0
+12994	http://www.palmbeach.k12.fl.us/palmbeachcentralhs/	Palm Beach Central High Adult Education	2003.0	20.0
+12995	http://fmh.leeschools.net/	Fort Myers High School	2008.0	51.0
+12997	http://www.plantation.org/	Plantation	1999.0	411.0
+12998	http://sdm.dadeschools.net	South Dade Middle School	2008.0	7.0
+12999	http://www.sfcc.edu/	Santa Fe Community College	2002.0	830.0
+13004	http://www.satellitebeach.org/	Satellite Beach	1998.0	10.0
+13005	http://www.edline.net/pages/hcsb_pms	Powell Middle School	2010.0	14.0
+13007	http://schools.stlucie.k12.fl.us/oak/	Oak Hammock K-8 School	2012.0	45.0
+13008	http://www.pensacolastate.edu/includes/maps/pcolaareamap.pdf	Pensacola State College  Naval Air Station Center	2010.0	0.0
+13010	http://sweetwaterelementary.dadeschools.net/	Sweetwater Elementary School	2002.0	21.0
+13011	http://www-swe.stjohns.k12.fl.us/	South Woods Elementary School	2005.0	39.0
+13013	http://www.duvalschools.org/sadietillis	Sadie T. Tillis Elementary School	2008.0	15820.0
+13014	http://kpe.dadeschools.net	Kensington Park Elementary School	2003.0	15.0
+13015	http://www.starsmiddleschool.org/	Stars Middle School	2007.0	423.0
+13016	http://www.wildwood-fl.gov/	Wildwood	2008.0	519.0
+13017	http://www.sarasotacountyschools.net/schools/bookermiddle/	Booker Middle School	2010.0	134.0
+13018	http://www.edline.net/pages/port_malabar_elementary_school/	Port Malabar Elementary School	2010.0	51.0
+13019	http://emerson.dadeschools.net/	Emerson Elementary School	2002.0	8.0
+13022	http://www.clay.k12.fl.us/tbe/	Thunderbolt Elementary School	0.0	19.0
+13025	http://www.brevardcounty.us/publiclibraries/branches/palmbay/home	Palm Bay Public Library	2012.0	13.0
+13026	http://www.edline.net/pages/emerald_cove_middle_school	Emerald Cove Middle School	2010.0	21.0
+13027	http://schools.polk-fl.net/lakeshippelementary/	Lake Shipp Elementary School	2009.0	27.0
+13028	http://www.sumter.k12.fl.us/	Sumter County Superintendent's Office	1999.0	46.0
+13030	http://phsc.edu/	Pasco-Hernando Community College	2014.0	3606.0
+13031	http://cml.dadeschools.net	N Dade Center For Modern Language	2011.0	13.0
+13032	http://www.nsbhigh.com/	New Smyrna Beach High School	2012.0	64.0
+13033	http://www.myflorida.com/myflorida/cabinet/	Florida Cabinet	2003.0	25.0
+13034	http://it.pinellas.k12.fl.us/schools/pinellas-sec/	Pinellas Secondary School	2010.0	17.0
+13035	http://www.edline.net/pages/WMelbourne_Science/	W. Melbourne Elementary School For Science	2011.0	87.0
+13036	http://ces.jcsb.org	Cottondale Elementary School	2011.0	14.0
+13037	http://www.fmuniv.edu/	Florida Memorial  University	2005.0	564.0
+13039	http://www.cityofsafetyharbor.com/index.aspx?nid=60	Safety Harbor Public Library	2009.0	646.0
+13040	http://www.edline.net/pages/suncoast_high_school	Suncoast Community High School	2008.0	18.0
+13041	http://www.edline.net/pages/Surfside_Elementary_School/	Surfside Elementary School	2012.0	75.0
+13042	http://pwe.dadeschools.net/	Parkway Elementary School	2002.0	27.0
+13043	http://www.environmental-school.org	Academy Of Environ. Sciences	2001.0	412.0
+13044	http://www.wrpc.cc/	Withlacoochee	2001.0	33.0
+13045	http://www.brevardcounty.us/publiclibraries/branches/melbournebeach/home	Melbourne Beach Library	2012.0	11.0
+13046	http://www.cypress-es.pinellas.k12.fl.us	Cypress Woods Elementary School	2002.0	12210.0
+13048	http://www.perkins-es.pinellas.k12.fl.us	Perkins Elementary School	2001.0	12707.0
+13049	http://www.edline.net/pages/Holland_ES/	Spessard L. Holland Elementary School	2010.0	85.0
+13050	http://www.alfredadlerschool.com	Alfred Adler Elementary School	2012.0	108.0
+13051	http://www.newstartacademy.org	Enterprise Charter High School	2011.0	9.0
+13052	http://www.belcher-es.pinellas.k12.fl.us	Belcher Elementary School	1999.0	17.0
+13053	http://moseley.putnamschools.org/	William D. Moseley Elementary School	2005.0	61.0
+13054	http://www.edline.net/pages/Golfview_EMS/	Golfview Elementary Magnet Sch	2014.0	51.0
+13055	http://www.edline.net/pages/hcsb_ses	Suncoast Elementary School	2010.0	21.0
+13056	http://www.duvalschools.org/centralriverside	Central Riverside Elementary School	2007.0	15801.0
+13057	http://adamerritt.dadeschools.net/	Ada Merritt K-8 Center	2003.0	22.0
+13058	http://www.edline.net/pages/Mila_Elementary_School/	Mila Elementary School	2010.0	59.0
+13059	http://www.tamarac.org/	Tamarac	1998.0	521.0
+13061	http://www.edline.net/pages/Imagine_Schools_West_Melbourne	Imagine Schools At West Melbourne	2013.0	260.0
+13062	http://careersourceflorida.com/	Workforce Florida, Inc.	2014.0	86.0
+13064	http://www.duvalschools.org/landon	Julia Landon College Prepartory & Leadership Development School	2008.0	14452.0
+13065	http://www.taylor.k12.fl.us/	Taylor County Superintendent's Office	1998.0	28.0
+13066	http://sylvaniaheights.dadeschools.net/	Sylvania Heights Elementary School	2002.0	45.0
+13067	http://www.brevardcounty.us/publiclibraries/branches/capecanaveral/home	Cape Canaveral Public Library	2012.0	10.0
+13069	http://skywayelementary.dadeschools.net/	Skyway Elementary School	2002.0	17.0
+13070	http://www.duvalschools.org/fishweir	Fishweir Elementary School	2008.0	15686.0
+13071	http://rubendarioms.org/	Ruben Dario Middle School	0.0	825.0
+13072	http://nmiamielem.dadeschools.net/	North Miami Elementary School	2003.0	26.0
+13073	http://mybradford.us/brooker/	Brooker Elementary School	2007.0	0.0
+13074	http://lindsey.dadeschools.net/	Lindsey Hopkins Technical Ed Center	2003.0	43.0
+13075	http://lake.k12.fl.us/rle	Round Lake Elementary School	2012.0	11775.0
+13076	http://www.duvalschools.org/chaffeetrail	Chaffee Trail Elementary	2008.0	15771.0
+13077	http://frederickdouglass.dadeschools.net/	Frederick R. Douglass Elementary	2003.0	338.0
+13078	http://lit.leeschools.net//	Dr Carrie D Robinson Littleton Elementary School	2009.0	1.0
+13079	http://stingerterritory.dadeschools.net/	Carrie P. Meek/Westview K-8 Center	2003.0	6.0
+13081	http://www.pplcs.net	Panhandle Public Library Cooperative System	2003.0	19.0
+13082	http://www.northmiamifl.gov/	North Miami	2004.0	248.0
+13083	http://www.duvalschools.org/pineforest	Pine Forest Elementary School	2008.0	15782.0
+13085	http://browardchd.org/	Broward County Health Department	2000.0	375.0
+13086	http://www.co.broward.fl.us/Pages/Welcome.aspx	Broward County	2010.0	3748.0
+13087	http://lake.k12.fl.us/moe	Minneola Elementary School	2012.0	12284.0
+13088	http://www.pasco.k12.fl.us	Pasco	1996.0	926.0
+13089	http://www.edline.net/pages/calusa_elementary	Calusa Elementary School	2008.0	19.0
+13091	http://www.sarasotacountyschools.net/schools/oakpark/	Oak Park School	2010.0	203.0
+13092	http://www.clay.k12.fl.us/mbe/	Middleburg Elementary School	0.0	18.0
+13093	http://209.155.76.243/	Archimedean Middle Conservatory	2010.0	3190.0
+13095	http://svelem.dadeschools.net/	Springview Elementary School	2003.0	18.0
+13096	http://msdouglas.dadeschools.net	Marjory Stoneman Douglas Elem	2003.0	34.0
+13097	http://pinellasprep.org/	Pinellas Primary Academy	2003.0	276.0
+13100	http://www.edline.net/pages/pierce_hammock_elementary	Pierce Hammock Elementary School	2010.0	15.0
+13101	http://nbe.dadeschools.net/	Natural Bridge Elementary School	2003.0	25.0
+13102	http://lake.k12.fl.us/tre	Triangle Elementary School	2012.0	11768.0
+13104	http://www.duvalschools.org/wolfson	Samuel W. Wolfson High School	2007.0	14311.0
+13105	http://www.citrus.k12.fl.us/ims/	Inverness Middle School	2001.0	24.0
+13106	http://schools.polk-fl.net/altavista/	Alta Vista Elementary School	2009.0	10.0
+13110	http://www.belleair-es.pinellas.k12.fl.us	Belleair Elementary School	2008.0	12210.0
+13111	http://www.edline.net/pages/banyan_creek_elementary_school	Banyan Creek Elementary School	2008.0	15.0
+13112	http://www.clay.k12.fl.us/opj/	Orange Park Junior High School	0.0	19.0
+13113	http://schools.polk-fl.net/ojp/	Oscar J. Pope Elementary School	2010.0	9.0
+13114	http://www.duvalschools.org/brentwood	Brentwood Elementary School	2007.0	14387.0
+13116	http://www.osceola-hs.pinellas.k12.fl.us/	Osceola Fundamental High	2006.0	34.0
+13118	http://www.amikids.org	Amikids Volusia	2004.0	35.0
+13119	http://www.samsulaacademy.org/	Samsula Academy	2009.0	1.0
+13120	http://lake.k12.fl.us/mse	Mascotte Elementary School	2012.0	11770.0
+13121	http://www.duvalschools.org/sanjose	San Jose Elementary School	2007.0	7447.0
+13122	http://myvolusiaschools.org/school/volusiapines/pages/default.aspx	Volusia Pines Elementary School	0.0	24.0
+13123	http://naturecoastmiddle.com/	Nature Coast Middle School	2008.0	15.0
+13124	http://www.edline.net/pages/westward_elementary	Westward Elementary School	2010.0	12.0
+13126	http://www.icuf.org/newdevelopment/	Independent Colleges and Universities of Florida	2010.0	42.0
+13127	http://www.duvalschools.org/tphs	Terry Parker High School	2008.0	97.0
+13128	http://www.nlauderdale.org/	North Lauderdale	2001.0	110.0
+13132	http://www.atlanticsharks.com/	Atlantic High School	2002.0	93.0
+13134	http://myvolusiaschools.org/school/creekside/pages/default.aspx	Creekside Middle School	2013.0	25.0
+13135	http://www.pcbgov.com/	Panama City Beach	2001.0	84.0
+13136	http://www.somersetprepjax.com/	Somerset Preparatory Academy	2014.0	37.0
+13138	http://www.broward.org/library/locationshours/branches/pages/da.aspx	Dania Beach Paul Demaio Branch	2010.0	47.0
+13139	http://www.palmharborlibrary.org/	Palm Harbor Library	2002.0	15.0
+13140	http://myvolusiaschools.org/school/manateecove/pages/default.aspx	Manatee Cove Elementary School	0.0	25.0
+13141	http://mpsh.dadeschools.net/	Miami Palmetto Senior High School	2002.0	15.0
+13142	http://www.duvalschools.org/hms	Highlands Middle School	2008.0	15723.0
+13144	http://www.edline.net/pages/citrus_cove_elementary_school	Citrus Cove Elementary School	2010.0	82.0
+13145	http://www.sfcollege.edu/centers/andrews/	Santa Fe College  Andrews Center	2011.0	12.0
+13146	http://www.bdchs.org/index.php	Brooks Debartolo Collegiate High School	2007.0	3.0
+13147	http://www.myclearwater.com/cpl/	Clearwater Public Library System	2004.0	84.0
+13148	http://www.hccfl.edu/	Hillsborough Community College	2002.0	3997.0
+13149	http://www.edline.net/pages/forest_hill_elementary	Forest Hill Elementary School	2010.0	13.0
+13151	http://westviewmiddle.dadeschools.net/	Westview Middle School	2003.0	1.0
+13152	http://www.uflib.ufl.edu/fefdl/counties/lafayette.html	Lafayette County	2001.0	216.0
+13153	http://scti.edu/	Sarasota County Technical Institute	2009.0	752.0
+13154	http://schools.polk-fl.net/bms/	Bartow Middle School	2008.0	15.0
+13155	http://www.clay.k12.fl.us/blc/	R. C. Bannerman Learning Center	0.0	18.0
+13156	http://www.duvalschools.org/site/Default.aspx?PageType=19	Duval Virtual Instruction (course Offerings)	2014.0	9.0
+13157	http://www.justiceadmin.org/	Justice Administrative Commission (JAC)	2004.0	130.0
+13158	http://lake.k12.fl.us/ael	Astatula Elementary School	2012.0	12394.0
+13160	http://www.venicegov.com/	Venice	2002.0	182.0
+13161	http://pinevilla.dadeschools.net/	Pine Villa Elementary School	2003.0	2.0
+13162	http://www.sfrpc.com/	South Florida	1996.0	111.0
+13165	http://www.dunedin-ms.pinellas.k12.fl.us	Dunedin Highland Middle School	2003.0	12210.0
+13166	http://www.westareaadult.com/	West Area Adult/Community School	2008.0	33.0
+13167	http://www.tomlinson.pinellas.k12.fl.us	Tomlinson Adult Learning Center	2004.0	26.0
+13168	http://www.mb-ms.pinellas.k12.fl.us/	Madeira Beach Fundamental K-8	2001.0	2.0
+13169	http://dms.desotoschools.com/	Desoto Middle School	2012.0	34.0
+13170	http://www.putnam-fl.com/	Putnam County	2002.0	954.0
+13172	http://www.pcgov.org/	Panama City	2010.0	485.0
+13173	http://hgms.dadeschools.net	Hialeah Gardens Middle School	2008.0	54.0
+13174	http://www.awdsoa.org	Alexander W Dreyfoos Junior School Of The Arts	2005.0	39.0
+13175	http://www-sms.stjohns.k12.fl.us	Sebastian Middle School	2000.0	39.0
+13176	http://www.hendersoncharter.org	Henderson Hammock Charter School	2012.0	10.0
+13177	http://www.edline.net/pages/pine_grove_elementary_school	Pine Grove Elementary School	2010.0	15.0
+13178	http://www.duvalschools.org/normandyvillage	Normandy Village Elementary School	2009.0	15638.0
+13179	http://www.edline.net/pages/bear_lakes_middle_school	Bear Lakes Middle School	2010.0	8.0
+13180	http://www.beaconcollege.edu	Beacon College	1998.0	297.0
+13181	http://www.floridahealth.gov/AlternateSites/KidCare/	FL KidCare	2013.0	34.0
+13182	http://www.duvalschools.org/biltmore	Biltmore Elementary School	2012.0	15656.0
+13183	http://www.atlantisfl.gov	Atlantis Beach	2008.0	52.0
+13184	http://www.edline.net/pages/Meadowlane_Elementary_School/	Meadowlane Primary Elementary School	2011.0	90.0
+13185	http://jdgordon.dadeschools.net	Jack David Gordon Elementary School	2011.0	35.0
+13186	http://www.lakewood-es.pinellas.k12.fl.us	Lakewood Elementary School	2002.0	14.0
+13187	http://rainbowpark.dadeschools.net	Rainbow Park Elementary School	2007.0	10.0
+13188	http://www.adhus.fau.edu	A.D. Henderson University School & Fau High School	2000.0	82.0
+13189	http://www.rlc2000.com	Renaissance Learning Center	2003.0	10.0
+13192	http://www.bfiais.com	Bright Futures Academy	2004.0	34.0
+13193	http://www.edline.net/pages/Columbia_elem/	Columbia Elementary School	2012.0	77.0
+13194	http://pes.dadeschools.net/	Palmetto Elementary School	2002.0	9.0
+13195	http://seminole.dadeschools.net/	Seminole Elementary School	2008.0	10.0
+13196	http://leewood.dadeschools.net	Leewood K-8 Center	2003.0	68.0
+13197	http://www.duvalschools.org/site/default.aspx?PageID=1	Pretrial Detention Facility	2013.0	15.0
+13198	http://www.edline.net/pages/southelem	South Elementary School	0.0	6.0
+13199	http://www-wce.stjohns.k12.fl.us/	Wards Creek Elementary School	2007.0	123.0
+13201	http://www.azalea-es.pinellas.k12.fl.us	Azalea Elementary School	2000.0	12085.0
+13202	http://hunterscreekcharter.org/	Renaissance Charter School At Hunters Creek	2013.0	11.0
+13203	https://www.scgov.net/library/Pages/default.aspx	Sarasota County Public Libraries	2013.0	4.0
+13204	http://www.clearwater.edu/	Clearwater Christian College	1998.0	503.0
+13205	http://archcreek.dadeschools.net	Archcreek Elementary School	2008.0	18.0
+13206	http://www.edline.net/pages/atlantic_high_school	Atlantic High School	2010.0	13.0
+13207	http://www.duvalschools.org/jaa	J. Allen Axson Elementary School	2008.0	15682.0
+13209	http://www.edline.net/pages/palm_beach_lakes_high_school	Palm Beach Lakes High School	2010.0	14.0
+13210	http://www.edline.net/pages/morikami_park_elementary	Morikami Park Elementary School	2010.0	13.0
+13212	http://www.edline.net/pages/Edgewood_JSH/	Edgewood Jr/Sr High School	2010.0	173.0
+13215	http://www.chipola.edu/	Chipola College  Main Campus	2002.0	747.0
+13217	http://www.inletgrovehs.com	Inlet Grove Community High School	2008.0	34.0
+13220	http://www.indianriverschool.org	Wabasso School	0.0	804.0
+13221	http://www.jacksonvillebeach.org/	Jacksonville Beach	2000.0	1455.0
+13223	http://www.opalockafl.gov/	Opa-locka	2007.0	535.0
+13224	http://www.duvalschools.org/tjefferson	Thomas Jefferson Elementary	2008.0	15700.0
+13225	http://grs.jcsb.org	Grand Ridge School	2011.0	11.0
+13226	http://www.myfloridacfo.com/	Financial Services	2002.0	2521.0
+13227	http://fdocgrower.com/economics/economic-research/	Citrus - Econ. Research	2011.0	15.0
+13228	http://www.edline.net/pages/pioneer_park_elementary_school	Pioneer Park Elementary School	2013.0	16.0
+13230	http://www.duvalschools.org/kernantrail	Kernan Trail Elementary School	2008.0	15697.0
+13231	http://www.usfsp.edu/	University of South Florida: St. Petersburg	2011.0	1374.0
+13232	http://volusiaonlinelearning.com/site/	Volusia Virtual Instruction (course Offerings)	2014.0	20.0
+13234	http://www.hugedomains.com/domain_profile.cfm?d=hillsboroughvirtual&e=com	Hillsborough Virtual Instruction Course Offerings	0.0	740.0
+13235	http://iprep.dadeschools.net	I Preparatory Academy	2010.0	42.0
+13236	http://www.tbrpc.org/	Tampa Bay	2000.0	194.0
+13237	http://www2.fiu.edu/~bbc/	Florida International University: Biscayne Bay	2003.0	10.0
+13238	http://union.lbms.schooldesk.net/	Lake Butler Middle School	2013.0	39.0
+13239	http://www.mdc.edu/homestead/	Miami Dade College  Homestead Campus	2003.0	61.0
+13241	http://www.duvalschools.org/whitehouse	Whitehouse Elementary School	2007.0	15731.0
+13242	http://tap.dadeschools.net	Teenage Parent Program	2003.0	9.0
+13243	http://www.sjrstate.edu/campusopc.html	St. Johns River State College  Orange Park Campus	2011.0	408.0
+13244	http://www.titusville.brevard.k12.fl.us	Titusville High School	2004.0	201.0
+13248	http://www.ci.pensacola.fl.us/	Pensacola	1998.0	902.0
+13249	http://www.columbia.k12.fl.us/eastside/index.html	Eastside Elementary School	2004.0	13.0
+13250	http://www.daytonastate.edu/maps/deltonamap.html	Daytona State College  Deltona Campus	2009.0	12.0
+13251	http://www.hillsboroughcounty.org/	Hillsborough County	1998.0	1164.0
+13253	http://union.lbes.schooldesk.net/	Lake Butler Elementary School	2013.0	49.0
+13254	http://schools.polk-fl.net/gause/	Gause Academy Of Leadership	2009.0	21.0
+13255	http://www.edline.net/pages/Cocoa_High_School/	Cocoa High School	2011.0	213.0
+13257	http://mlms.dadeschools.net/	Miami Lakes Middle School	2003.0	22.0
+13258	http://www.duvalschools.org/donbrewer	Don Brewer Elementary School	2008.0	15652.0
+13259	http://www.aventuracharter.org	Aventura City Of Excellence School	2002.0	193.0
+13260	http://www.levy.k12.fl.us	Levy Virtual Instruction Program	2002.0	15.0
+13261	http://wes.desotoschools.com/	West Elementary School	2012.0	49.0
+13262	http://ci.neptune-beach.fl.us/	Neptune Beach	2000.0	272.0
+13263	http://myvolusiaschools.org/school/discovery/pages/default.aspx	Discovery Elementary School	0.0	22.0
+13264	http://www.myflorida.com/myflorida/accessibility.html	Accessibility	2003.0	5.0
+13265	http://www.ecfrpc.org/	East Central Florida	0.0	352.0
+13267	http://www.clay.k12.fl.us/chs/	Clay High School	0.0	28.0
+13269	http://fairlawn.dadeschools.net/	Fairlawn Elementary School	2002.0	64.0
+13270	http://www.edline.net/pages/pine_jog_elementary_school	Pine Jog Elementary School	2008.0	13.0
+13271	http://www.fgcu.edu/	Florida Gulf Coast University	1997.0	2293.0
+13272	http://www.lynch-es.pinellas.k12.fl.us/	Lynch Elementary School	2006.0	12446.0
+13273	http://www.duvalschools.org/wmrh	William M. Raines High School	2008.0	15872.0
+13274	http://homesteadhigh.dadeschools.net/	Homestead Senior High School	2007.0	15.0
+13275	http://www.stpetebeach.org/	St. Pete Beach	1998.0	129.0
+13276	http://www.thefloridacenter.org/index.php	The Florida Center For Child And Family Development	2013.0	42.0
+13277	http://www.clay.k12.fl.us/spc/	Swimming Pen Creek Elementary School	0.0	9.0
+13279	http://www.edline.net/pages/Cocoa_Beach_JSHS/	Cocoa Beach Junior/Senior High School	2010.0	64.0
+13280	http://www.sprucecreekhigh.com/	Spruce Creek High School	2001.0	81.0
+13281	http://www.imagineschoolsstpetersburg.com	Imagine Middle School	2008.0	0.0
+13282	http://www.fscj.edu/campus-life/campuses-centers/open-campus-deerwood-center/	Florida State College at Jacksonville  Open Campus	2014.0	14.0
+13283	http://www.staugbch.com/	St. Augustine Beach	2000.0	47.0
+13284	http://www-kes.stjohns.k12.fl.us/	Ketterlinus Elementary School	1998.0	50.0
+13285	http://www.evergladesacademy.com/	Everglades Preparatory Academy	2010.0	2581.0
+13286	http://schools.stlucie.k12.fl.us/mda/	Mosaic Digital Academy	2012.0	302.0
+13287	http://www.seminolestate.edu/oviedo/	Seminole State College of Florida  Oviedo	2009.0	14.0
+13288	http://myvolusiaschools.org/school/mcinnis/pages/default.aspx	Louise S. McInnis Elementary School	0.0	17.0
+13289	http://gablese.dadeschools.net/	Coral Gables Preparatory Academy	2003.0	51.0
+13290	http://www.hamiltonfl.com/	Hamilton County Superintendent's Office	2007.0	152.0
+13291	http://www.ncf.edu	New College of Florida	2001.0	829.0
+13292	http://www.ci.orlando.fl.us/	Orlando	1996.0	2.0
+13293	http://lauderhill-fl.gov/	Lauderhill	2003.0	2056.0
+13294	http://riviera.dadeschools.net	Riviera Middle School	2003.0	2.0
+13295	http://www.traviss.edu/	Maynard A. Traviss Career Center	2008.0	26.0
+13297	http://gloriafloyd.dadeschools.net/	Gloria Floyd Elementary School	2002.0	28.0
+13298	http://dadorsey.dadeschools.net/	D.A. Dorsey Educational Center	2002.0	60.0
+13299	http://www.clay.k12.fl.us/aes/	Argyle Elementary School	0.0	27.0
+13300	http://www.eastlakelibrary.org/	East Lake Community Library	2000.0	47.0
+13302	http://www.edline.net/pages/Williams__ES	Ralph M Williams Junior Elementary	2011.0	140.0
+13303	http://www.duvalschools.org/lle	Lake Lucina Elementary School	2009.0	15769.0
+13304	http://www.ewc.edu/	Edward Waters College	1998.0	331.0
+13305	http://ehmiller.putnamschools.org/	Eleanor H. Miller School	2005.0	32.0
+13306	http://schools.polk-fl.net/sikes/	James W. Sikes Elementary School	2008.0	10.0
+13307	http://wakulla.schooldesk.net/	Wakulla County Superintendent's Office	2013.0	988.0
+13308	http://fchr.state.fl.us/	Florida Commission on Human Relations	2000.0	1006.0
+13309	http://www.edline.net/pages/olympic_heights_community_hs	Olympic Heights Community High	2010.0	13.0
+13310	http://www.bay.k12.fl.us/	Bay County Superintendent's Office	1997.0	1013.0
+13313	http://www.duvalschools.org/justina	Justina Road Elementary School	2008.0	15791.0
+13314	http://www.nwfsc.edu/niceville/	Northwest Florida State College  Niceville Campus	2009.0	0.0
+13316	http://www.edline.net/pages/West_Shore_JSH	Westshore Junior/Senior High School	2010.0	372.0
+13317	http://www.southmckeel.com/	South McKeel Academy	2007.0	245.0
+13318	http://www.edline.net/pages/north_palm_beach_es	North Palm Beach Elementary School	2011.0	2.0
+13319	http://www.ladylakelibrary.com/	Lady Lake Public Library	2000.0	16.0
+13320	http://www.sarasotagov.com/	Sarasota	2008.0	87.0
+13321	http://www.studentleadershipacademy.org	Student Leadership Academy	2005.0	1.0
+13322	http://schools.stlucie.k12.fl.us/cam/	Chester A. Moore Elementary School	2012.0	23.0
+13323	http://www.cityofgainesville.org/	Gainesville	2002.0	897.0
+13324	http://mybradford.us/starke/	Starke Elementary School	2007.0	0.0
+13325	http://countryclubmiddle.org/	Country Club Middle School	2012.0	2.0
+13327	http://coconutcreek.net/	Coconut Creek	2006.0	317.0
+13328	http://www.seminolestate.edu/altamonte-springs/	Seminole State College of Florida  Altamonte Springs Campus	2011.0	19.0
+13330	http://www.edline.net/pages/west_riviera_elementary	West Riviera Elementary School	2011.0	12.0
+13331	http://kses.putnamschools.org/	Kelley Smith Elementary School	2005.0	15.0
+13333	http://www.edline.net/pages/john_f_kennedy_middle_school	John F. Kennedy Middle School	2008.0	14.0
+13334	http://www.alphainternationalacademy.com	Alpha International Academy	2013.0	9.0
+13335	http://www.usf.edu	University of South Florida	1997.0	518.0
+13336	http://www.duvalschools.org/greenfield	Greenfield Elementary School	2008.0	15807.0
+13337	http://www.palmbayflorida.org/	Palm Bay	2000.0	2307.0
+13338	http://schools.stlucie.k12.fl.us/fpm/	Fort Pierce Magnet School Of The Arts	2012.0	21.0
+13339	http://lve.dadeschools.net	Lakeview Elementary School	2005.0	45.0
+13340	http://www.clay.k12.fl.us/ljh/	Lakeside Junior High School	0.0	16.0
+13341	http://myvolusiaschools.org/school/pinetrail/pages/default.aspx	Pine Trail Elementary School	0.0	23.0
+13342	http://www.ci.deltona.fl.us/	Deltona	1998.0	364.0
+13343	http://www.palmbeachfl.com/	Palm Beach Town	1998.0	2466.0
+13344	http://www.sarasotacountyschools.net	Sarasota County Superintendent's Office	2003.0	1127.0
+13346	http://www.palmettobay-fl.gov/	Village of Palmetto Bay	2003.0	261.0
+13348	http://www.spcollege.edu/tsc/	St. Petersburg College  Tarpon Springs Campus	2003.0	9.0
+13350	http://www.brevardcounty.us/PublicLibraries	Brevard County Library System	2012.0	683.0
+13352	http://www.seagull.org	Seagull Academy	1997.0	32.0
+13353	http://www.duvalschools.org/timucuan	Timucuan Elementary School	2008.0	15835.0
+13354	http://www.pinecrestorlando.org	Pinecrest Preparatory Charter	2010.0	97.0
+13355	http://www.mtvernon-es.pinellas.k12.fl.us	Mount Vernon Elementary School	2003.0	12638.0
+13356	http://www.clay.k12.fl.us/mbh/	Middleburg High School	0.0	19.0
+13358	http://www.edline.net/pages/hcsb_star	Endeavor Academy	2010.0	15.0
+13359	http://southside.dadeschools.net/	Southside Elementary School	2002.0	13.0
+13360	http://www.mdc.edu/kendall/	Miami Dade College  Kendall Campus	2003.0	222.0
+13361	http://www.southflorida.edu/campuses/desoto/	South Florida State College  Desoto Campus	2010.0	3.0
+13362	http://www.edline.net/pages/Rockledge_Senior_High_School/	Rockledge Senior High School	2010.0	198.0
+13363	http://www.highlands.k12.fl.us/~aph/	Avon Park High School	2001.0	92.0
+13364	http://www-wdh.stjohns.k12.fl.us/	W. Douglas Hartley Elementary	1999.0	51.0
+13367	http://riverhills.mysdhc.org	Riverhills Elementary Magnet School	2007.0	27.0
+13368	http://www.duvalschools.org/woodson	Carter G. Woodson Elementary School	2008.0	15781.0
+13369	http://www.hccfl.edu/campus-information/distance-learning.aspx	Hillsborough Community College  eCampus	2009.0	14.0
+13370	http://www.bartowacademy.com/	Bartow Elementary Academy	2004.0	9.0
+13371	http://www.polk-fl.net/djjep/southcounty.htm	Polk County Sheriff's Central Center	2007.0	59.0
+13372	http://www.sarasotacountyschools.net/schools/woodland/	Woodland Middle School	2011.0	90.0
+13374	http://floridavets.org/	Veterans' Affairs	2000.0	94.0
+13375	http://www.fgdl.org/	FL Geographical Info. Bd.	2000.0	1.0
+13377	http://schools.stlucie.k12.fl.us/wbe/	Weatherbee Elementary School	2012.0	18.0
+13378	http://www.northwest-es.pinellas.k12.fl.us	Northwest Elementary School	2004.0	12654.0
+13379	http://www.edline.net/pages/jupiter_middle_school	Jupiter Middle School	2010.0	11.0
+13380	http://www.duvalschools.org/sanmateo	San Mateo Elementary School	2008.0	15587.0
+13381	http://www.74th-es.pinellas.k12.fl.us	Seventy-Fourth St. Elementary	2002.0	12166.0
+13382	http://www.edline.net/pages/u_b_kinsey_palmview_es	U. B. Kinsey/Palmview Elementary	2010.0	47.0
+13383	http://www.crossbayou-es.pinellas.k12.fl.us	Cross Bayou Elementary School	2003.0	12229.0
+13384	http://lwcharterschools.com/polkave	Polk Avenue Elementary School	2004.0	0.0
+13385	http://mybradford.us/southside/	Southside Elementary School	2007.0	0.0
+13386	http://www.edline.net/pages/Brevard_County_Schools/	Brevard Virtual Instruction (course Offerings)	2010.0	322.0
+13387	http://www.davie-fl.gov/	Davie	1998.0	1544.0
+13388	http://floridadisaster.org/	Emergency Mgmt.	1999.0	238.0
+13389	http://mes.desotoschools.com/	Memorial Elementary School	2012.0	38.0
+13390	http://www.townofsurfsidefl.gov/	Surfside	2005.0	637.0
+13391	http://www.citrus.k12.fl.us/lhs/	Lecanto High School	2002.0	90.0
+13392	http://jbe.levyschools.org/r/home	Joyce M. Bullock Elementary School	2010.0	35.0
+13393	http://www.ucf.edu/	University of Central Florida	1996.0	308.0
+13394	http://schools.polk-fl.net/lenavista/	Lena Vista Elementary School	2010.0	10.0
+13395	http://rok.dadeschools.net/	Ruth Owens Kruse Education Center	2002.0	21.0
+13396	http://www.edline.net/pages/melaleuca_elementary_school	Melaleuca Elementary School	2011.0	12.0
+13398	http://www.westmelbourne.org/	West Melbourne	1998.0	568.0
+13399	http://www.townofhillsborobeach.com/	Hillsboro Beach	2002.0	169.0
+13400	http://myvolusiaschools.org/school/pierson/pages/default.aspx	Pierson Elementary School	0.0	23.0
+13401	http://schools.polk-fl.net/caldwell/	Walter Caldwell Elementary School	2009.0	10.0
+13403	http://www.edline.net/pages/Riviera_Elementary_School/	Riviera Elementary School	2011.0	52.0
+13405	http://www.clewiston-fl.gov/	Clewiston	2005.0	1464.0
+13406	http://www.duvalschools.org/kms	Kernan Middle School	2009.0	15745.0
+13407	http://www.edline.net/pages/belle_glade_elementary_school	Belle Glade Elementary School	2011.0	22.0
+13408	http://www.cityofstuart.com/	Stuart	1998.0	750.0
+13409	http://www.scps.k12.fl.us/	Seminole County Superintendent's Office	1998.0	868.0
+13412	http://www.duvalschools.org/fch	First Coast High School	2007.0	15713.0
+13413	http://www.duvalschools.org/fcm	Fort Caroline Middle School	2009.0	15734.0
+13414	http://www.sewallspoint.org/	Sewall's Point	1999.0	2.0
+13415	http://www.cfrpc.org/	Central Florida	1998.0	141.0
+13416	http://www.duvalschools.org/fce	Fort Caroline Elementary School	2009.0	15689.0
+13417	http://www.longwoodfl.org/	Longwood	2003.0	477.0
+13418	http://www.fsdb.k12.fl.us/	Florida School For The Deaf And Blind Superintendent's Office	1997.0	4138.0
+13419	http://www.edline.net/pages/IndianRidge	Indian Ridge School	0.0	11.0
+13420	http://www.clearwater-fl.com/	Clearwater	1999.0	725.0
+13422	http://www.duvalschools.org/ajhs	Andrew Jackson High School	2009.0	15699.0
+13424	http://www.campbell-es.pinellas.k12.fl.us	Campbell Park Elementary School	2001.0	2.0
+13426	http://www.edline.net/pages/Allen_Elementary_School	Roy Allen Elementary School	2010.0	328.0
+13427	http://www.miamigardens-fl.gov/	Miami Gardens	2003.0	88.0
+13428	http://schools.polk-fl.net/swe/	Southwest Elementary School	2010.0	9.0
+13429	http://myvolusiaschools.org/school/spirit/pages/default.aspx	Spirit Elementary School	0.0	27.0
+13430	http://www.fldoe.org/board/	State Board of Education	2003.0	2.0
+13431	http://www.edline.net/pages/gold_coast_community_school	Gold Coast Community School	2010.0	13.0
+13432	http://miamicarolcity.wix.com/indexmccsh	Miami Carol City Senior High	2012.0	1.0
+13433	http://rms.wcsdschools.com	Roulhac Middle School	2013.0	7.0
+13434	http://www.duvalschools.org/hendricks	Hendricks Avenue Elementary School	2008.0	15643.0
+13435	http://myvolusiaschools.org/school/heritagemiddle/pages/default.aspx	Heritage Middle School	2013.0	26.0
+13439	http://www.charterschoolatwaterstone.com	The Charter School At Waterstone	2005.0	11.0
+13442	http://www.edline.net/pages/seminole_trails_es	Seminole Trails Elementary School	2011.0	14.0
+13443	http://www.lssc.edu/maps/pages/sumter.aspx	Lake-Sumter State College  Sumter Campus	0.0	7.0
+13444	http://schools.polk-fl.net/ace/	Auburndale Central Elementary School	2010.0	13.0
+13445	http://hch.hamiltonfl.com	Hamilton County High School	2012.0	593.0
+13446	http://www.duvalschools.org/dupont	Alfred I. Dupont Middle School	2008.0	15685.0
+13447	http://www.nefrpc.org/	Northeast Florida	1998.0	6.0
+13448	http://www.clay.k12.fl.us/oph/	Orange Park High School	0.0	48.0
+13449	http://www.sjcpls.org/content/southeast-branch	Southeast Branch Library	2009.0	653.0
+13450	http://mis.putnamschools.org/	George C. Miller, Junior Intermediate	2005.0	22.0
+13451	http://www.boynton-beach.org/	Boynton Beach	2001.0	329.0
+13452	http://www.frontier-es.pinellas.k12.fl.us	Frontier Elementary School	2004.0	2.0
+13453	http://www.hendrylibraries.org/	Hendry County Library System	2001.0	1.0
+13454	http://www.daytonastate.edu/maps/flaglermap.html	Daytona State College  Flagler/Palm Coast Campus	2008.0	12.0
+13455	http://www.cfcc.cc.fl.us/departments/hampton/index.htm	College of Central Florida  Hampton Center	0.0	5.0
+13456	http://www.sarasotacountyschools.net/schools/garden/	Garden Elementary School	2012.0	101.0
+13457	http://www.duvalschools.org/parkwood	Parkwood Heights Elementary School	2007.0	15783.0
+13458	http://www.freshfromflorida.com/Divisions-Offices/Energy	Florida Energy Commission	2013.0	1068.0
+13460	http://www.edline.net/pages/crystal_lakes_elementaryschool	Crystal Lakes Elementary School	2010.0	14.0
+13461	http://www.edline.net/pages/gove_elementary_school	Gove Elementary School	2012.0	11.0
+13463	http://www.edline.net/pages/Saturn_Elementary_School/	Saturn Elementary School	2014.0	83.0
+13464	http://www.duvalschools.org/newberlin	New Berlin Elementary School	2008.0	15823.0
+13465	http://www.cityofpsl.com/	Port St. Lucie	1998.0	196.0
+13467	http://www-nhs.stjohns.k12.fl.us	Allen D Nease Senior High School	1998.0	87.0
+13468	http://www.osceolahealth.org/	Osceola County Health Department	2001.0	2.0
+13470	http://www.lakewood-cs.pinellas.k12.fl.us/	Lakewood Community	2007.0	8.0
+13473	http://southpointe.schoolwires.com/site/default.aspx?PageID=1	South Pointe Elementary School	0.0	35.0
+13474	http://www.fmb.lib.fl.us	Fort Myers Beach Public Library	1999.0	50.0
+13475	http://orlandoscience.org	Orlando Science Middle High Charter	2009.0	689.0
+13477	http://www.cityofnorthport.com/	North Port	0.0	2472.0
+13478	http://www.gulfcoast.edu/default.htm	Gulf Coast State College  Tyndall AFB	2002.0	554.0
+13479	http://leelibrary.net/Pages/default.aspx	Lee County Library System	2012.0	277.0
+13481	http://warner.edu/	Warner Southern College	1997.0	677.0
+13482	http://www.coralgables.com/	Coral Gables	2005.0	1746.0
+13483	http://www.fddc.org	Florida Developmental Disabilities Council	1998.0	884.0
+13484	http://www.palmbeach.k12.fl.us/91eeehs/index.htm	Park Vista Community High School	2003.0	47.0
+13486	http://wes.levyschools.org/r/home	Williston Elementary School	2011.0	35.0
+13488	http://lake.k12.fl.us/cms	Carver Middle School	2012.0	12332.0
+13489	http://arvida.dade.k12.fl.us/	Arvida Middle School	2000.0	1785.0
+13491	http://myvolusiaschools.org/school/deltonamiddle/pages/default.aspx	Deltona Middle School	2013.0	28.0
+13492	http://www.dms.myflorida.com/other_programs/florida_statewide_advocacy_council	Florida Statewide Advocacy Council	2009.0	3.0
+13493	http://www.bocaratoncharterschool.org	Boca Raton Charter School	2006.0	6.0
+13494	http://ccjshs.putnamschools.org/	Crescent City Junior/Senior High School	2005.0	48.0
+13495	http://schools.stlucie.k12.fl.us/fks/	Frances K. Sweet Elementary School	2012.0	25.0
+13496	http://snively.polk-fl.net/	John Snively Elementary	2013.0	36.0
+13497	http://tles.dadeschools.net/	Twin Lakes Elementary School	2004.0	9.0
+13498	http://jfk.dadeschools.net	John F. Kennedy Middle School	2007.0	14.0
+13499	http://www.edline.net/pages/Sea_Park_Elementary_School	Sea Park Elementary School	2010.0	332.0
+13500	http://www.skycrest-es.pinellas.k12.fl.us	Skycrest Elementary School	2001.0	12627.0
+13501	http://www.davis-es.pinellas.k12.fl.us	Leila Davis Elementary School	2004.0	12206.0
+13502	http://www.royalpalmbeach.com/	Royal Palm Beach	1996.0	471.0
+13503	http://www.monroecounty-fl.gov/	Monroe County	2003.0	1001.0
+13504	http://gratigny.dadeschools.net	Virginia A Boone-Highland Oaks School	2006.0	4.0
+13505	http://lakelandmontessori.com/	Lakeland Montessori School House	2003.0	62.0
+13506	http://carolcitymiddle.dadeschools.net/	Carol City Middle School	2003.0	1.0
+13507	http://www.newbhs.net	New Beginnings High School	2011.0	20.0
+13510	http://www.edline.net/pages/McAuliffe_ES	Christa McAuliffe Elementary School	2012.0	377.0
+13512	http://www.mywepla.org	We Phillips Learning Academy	2012.0	48.0
+13513	http://www.edline.net/pages/barton_es	Barton Elementary School	2013.0	11.0
+13514	http://www.ci.punta-gorda.fl.us/	Punta Gorda	1998.0	509.0
+13515	http://health.flaglercounty.org/	Flagler County Health Department	2007.0	2.0
+13516	http://milburnschools.org/	Richard Milburn Academy Middle School	2009.0	1.0
+13517	http://www.duvalschools.org/mlking	Martin Luther King, Jr Elementary School	2008.0	15664.0
+13518	http://sarasotamilitaryacademy.org/	Sarasota Military Academy	2002.0	155.0
+13519	http://www.fitzgerald-ms.pinellas.k12.fl.us	Fitzgerald Middle School	2002.0	12122.0
+13520	http://www.palmettofl.org/	Palmetto	2001.0	1145.0
+13521	http://www.ridgecrest-es.pinellas.k12.fl.us	Ridgecrest Elementary School	2003.0	12623.0
+13522	http://www.melbourneflorida.org/	Melbourne	1999.0	228.0
+13523	http://schools.polk-fl.net/spookhill/	Spook Hill Elementary School	2009.0	21.0
+13524	http://www.myoldsmar.com/	Oldsmar	2010.0	911.0
+13526	http://www.edline.net/pages/benoist_farms_elementaryschool	Benoist Farms Elementary School	2011.0	11.0
+13527	http://clo.putnamschools.org/	C. L. Overturf Jr 6th Grade Center	2013.0	51.0
+13529	http://myvolusiaschools.org/school/friendship/pages/default.aspx	Friendship Elementary School	0.0	23.0
+13530	http://www.covb.org/	Vero Beach	1998.0	1909.0
+13531	http://www.cityofcapecanaveral.org/	Cape Canaveral	2009.0	829.0
+13532	http://www.stone.brevard.k12.fl.us	Stone Magnet Middle School	2003.0	26.0
+13534	http://www.clay.k12.fl.us/che/	Clay Hill Elementary School	0.0	36.0
+13535	http://www.tshs.pinellas.k12.fl.us	Tarpon Springs High School	1999.0	0.0
+13537	http://milam.dadeschools.net/	Marcus A. Milam K-8 Center	2002.0	17.0
+13538	http://flagamielementary.dadeschools.net/	Flagami Elementary School	2003.0	2.0
+13539	http://www.ftc.state.fl.us/	Transportation Commission	2000.0	28.0
+13541	http://www.clay.k12.fl.us/roe/	Rideout Elementary School	0.0	19.0
+13543	http://www.meadowlawn-ms.pinellas.k12.fl.us	Meadowlawn Middle School	2003.0	12609.0
+13544	http://www.edline.net/pages/lake_shore_middle_school	Lake Shore Middle School	2008.0	14.0
+13545	http://lake.k12.fl.us/gms	Gray Middle School	2012.0	12503.0
+13548	http://www.duvalschools.org/brookview	Brookview Elementary School	2007.0	15741.0
+13549	http://www.duvalschools.org/kingstrail	Kings Trail Elementary School	2014.0	15684.0
+13551	http://www.hialeahfl.gov/index.php?lang=en	Hialeah	2012.0	884.0
+13553	http://southhialeahelementary.org/	South Hialeah Elementary School	0.0	680.0
+13555	http://lake.k12.fl.us/bse	Beverly Shores Elementary School	2012.0	12457.0
+13556	http://www.azalea-ms.pinellas.k12.fl.us	Azalea Middle School	2007.0	12186.0
+13557	http://www.citylabelle.com/	LaBelle	2006.0	24.0
+13558	http://www.duvalschools.org/ehs	Englewood High School	2007.0	15720.0
+13560	http://a4pl.com/	Academy For Positive Learning	2010.0	53.0
+13563	http://www.fscj.edu/campus-life/campuses-centers/nassau-center/	Florida State College at Jacksonville  Nassau Center	2014.0	5.0
+13564	http://talgov.com/Main/Home.aspx	Tallahassee	2012.0	1573.0
+13565	http://www.sebastianlibrary.com/	North Indian River County Library	2000.0	1.0
+13567	http://www-jce.stjohns.k12.fl.us/	Julington Creek Elementary School	1998.0	74.0
+13568	http://www.edline.net/pages/Roosevelt__ES/	Theodore Roosevelt Elementary	2011.0	160.0
+13569	http://www.polk-fl.net/djjep/horizon.htm	New Horizons	2007.0	59.0
+13570	http://www.edline.net/pages/verde_elementary_school	Verde Elementary School	2010.0	19.0
+13572	http://joella.dadeschools.net	Joella Good Elementary School	2004.0	1.0
+13573	http://www.recscharter.org	Renaissance Elementary Charter School	2004.0	12.0
+13575	http://www.spcollege.edu/spg/	St. Petersburg College  St. Pete/Gibbs Campus	2003.0	23.0
+13576	http://www.edline.net/pages/okeechobeehs	Okeechobee High School	2013.0	8.0
+13577	http://www.abletrust.org/	Able Trust	1998.0	51.0
+13578	http://www.coralsprings.org/	Coral Springs	1996.0	843.0
+13579	http://schools.polk-fl.net/fmshs/	Frostproof Middle/Senior High	2008.0	22.0
+13580	http://www.floridacityfl.us/	Florida City	2003.0	25.0
+13582	http://cypress.dadeschools.net/	Cypress Elementary School	2003.0	20.0
+13584	http://www.lantana.org/	Lantana	1998.0	112.0
+13585	http://schools.polk-fl.net/loughmanoaks/	Loughman Oaks Elementary School	2009.0	12.0
+13587	http://www.lcsbonline.org/	Liberty County Superintendent's Office	2008.0	100.0
+13589	https://www.fgc.edu/	Florida Gateway College  Main Campus	2010.0	464.0
+13590	http://www.ethics.state.fl.us/	Commission on Ethics	1998.0	7.0
+13593	http://www.ivyhawnschool.com/	Ivy Hawn Charter School Of The Arts	2010.0	20.0
+13595	http://www.mytreasureisland.org/	Treasure Island	2005.0	49.0
+13597	http://www.planetshes.com	Safety Harbor Elementary School	2002.0	12634.0
+13598	http://lake.k12.fl.us/sse	Seminole Springs Elementary School	2012.0	12383.0
+13599	http://richmondheightsmiddle.org/	Richmond Heights Middle School	0.0	571.0
+13600	http://myvolusiaschools.org/school/riverspringsmiddle/pages/default.aspx	River Springs Middle School	2013.0	29.0
+13601	http://crhs.dadeschools.net/	Coral Reef Senior High School	2011.0	61.0
+13602	http://schools.stlucie.k12.fl.us/slk//	St. Lucie West K-8 School	2012.0	28.0
+13603	http://southmiamimiddle.org/	South Miami Middle School	2013.0	35.0
+13604	http://schools.polk-fl.net/elbertelementary/	Elbert Elementary School	2009.0	9.0
+13605	http://www.duvalschools.org/arm	Annie R. Morgan Elementary School	2008.0	15741.0
+13606	http://peskoe.dadeschools.net/	Irving & Beatrice Peskoe K-8 Center	2001.0	39.0
+13608	http://www.edline.net/pages/christa_mcauliffe_middleschool	Christa McAuliffe Middle School	2008.0	22.0
+13609	http://www.duvalschools.org/are	Andrew A. Robinson Elementary School	2008.0	15745.0
+13610	http://www.brevardcounty.us/publiclibraries/branches/titusville/home	North Brevard Public Library	2012.0	10.0
+13611	http://hendry-schools.org/education/school/school.php?sectionid=13&sc_id=1171294169	Labelle Youth Developmental Academy	2006.0	3.0
+13612	http://www.deerfield-beach.com/	Deerfield Beach	1998.0	321.0
+13613	http://www.sarasotacountyschools.net/schools/venicehigh/	Venice Senior High School	2010.0	240.0
+13615	http://mwalters.dadeschools.net/	Mae M. Walters Elementary School	2003.0	1.0
+13616	http://www.townofpalmbeach.com/	Palm Beach	1999.0	791.0
+13617	http://jmcmiddle.dadeschools.net	Jorge Mas Canosa Middle School	2007.0	9.0
+13618	http://www.sarasotacountyschools.net/schools/cranberry/	Cranberry Elementary School	2011.0	106.0
+13619	http://www.putnamschools.org/	Putnam County Superintendent's Office	1998.0	124.0
+13620	http://www.sarasotacountyschools.net/schools/laurelnokomis/	Laurel Nokomis School	2011.0	158.0
+13621	http://garner.polk-fl.net/	Fred G. Garner Elementary School	0.0	746.0
+13622	http://myvolusiaschools.org/school/sugarmill/pages/default.aspx	Sugar Mill Elementary School	2013.0	28.0
+13623	http://www.flagler.edu/	Flagler College	1996.0	3045.0
+13624	http://myvolusiaschools.org/school/coronadobeach/pages/default.aspx	Coronado Beach Elementary School	0.0	25.0
+13625	http://www.gulfcounty-fl.gov/	Gulf County	2006.0	763.0
+13626	http://rcp.leeschools.net/	Rayma C. Page Elementary School	2008.0	1.0
+13627	http://www.duvalschools.org/gardencity	Garden City Elementary School	2008.0	15696.0
+13628	http://www.cocoafl.org/	Cocoa	1998.0	1330.0
+13629	http://www.fscj.edu/campus-life/campuses-centers/advanced-technology-center/	Florida State College at Jacksonville  Advanced Technology Center	2014.0	8.0
+13630	http://delandhs.org/home.htm	Deland High School	2009.0	17.0
+13631	http://gilchrist.fl.us/	Gilchrist County	2003.0	21.0
+13632	http://www.edline.net/pages/Fairglen_Elementary_School/	Fairglen Elementary School	2010.0	74.0
+13633	http://www.edline.net/pages/waters_edge_elementary_school	Waters Edge Elementary School	2010.0	11.0
+13634	http://yankeetown.levyschools.org/r/home	Yankeetown School	2013.0	24.0
+13635	http://www.edline.net/pages/Eau_Gallie_High_School/	Easter Seals Florida, Inc.	2010.0	83.0
+13636	http://merrick.dadeschools.net/	Brucie Ball Educational Center	2004.0	17.0
+13637	http://www.webber.edu/	Webber International University	1997.0	3139.0
+13638	http://www.capecoral.net/	Cape Coral	1996.0	542.0
+13641	http://schools.stlucie.k12.fl.us/fln//	Fairlawn Elementary School	2012.0	30.0
+13642	http://www.pinellas-park.com/	Pinellas Park	2000.0	428.0
+13644	http://www.daytonastate.edu/	Daytona State College	2008.0	1750.0
+13645	http://myvolusiaschools.org/school/rjlongstreet/pages/default.aspx	R. J. Longstreet Elementary School	0.0	24.0
+13648	http://generals.dadeschools.net/	Miami Jackson Senior High School	2002.0	7.0
+13650	http://tccrowder.dadeschools.net/	Thena Crowder Early Childhood Diagnostic Special Education Center	2002.0	15.0
+13652	http://ewd.leeschools.net/	Edgewood Academy	2009.0	1.0
+13653	http://lakeregionthunder.com/	Lake Region High School	2001.0	1148.0
+13654	http://valenciacollege.edu/lakenona/	Valencia College  Lake Nona Campus	2011.0	23.0
+13655	http://www.sarasotacountyschools.net/schools/brentwood/	Brentwood Elementary School	2010.0	144.0
+13658	http://www.cityoflakewales.com/library/	Lake Wales Public Library	2000.0	12.0
+13659	http://schools.stlucie.k12.fl.us/fgm//	Forest Grove Middle School	2012.0	23.0
+13660	http://www.edline.net/pages/Freedom7/	Freedom 7 Elementary School Of International Studies	2010.0	253.0
+13661	http://www.bond.leon.k12.fl.us	Bond Elementary School	1997.0	45.0
+13663	http://www.brighthorizons.com/	Jfk Medical Center Charter School	1996.0	391.0
+13664	http://68.208.86.59/weblink8/	Sanford	2013.0	1.0
+13667	http://www.saintleo.edu/	Saint Leo University	1997.0	1817.0
+13669	http://www.suwcounty.org/	Suwannee County	2008.0	411.0
+13670	http://mylakealfred.com/	Lake Alfred	2003.0	243.0
+13671	http://www.sarasotacountyschools.net/schools/veniceelementary/	Venice Elementary School	2010.0	120.0
+13672	http://www.duvalschools.org/gwcarver	George Washington Carver Elementary	2007.0	15651.0
+13673	http://www.dep.state.fl.us/geology/aboutthefgs/index.htm	FL Geological Survey	2001.0	8.0
+13674	http://www.edline.net/pages/Longleaf_Elementary_School/	Longleaf Elementary School	2011.0	80.0
+13675	http://www.duvalschools.org/nbe	Neptune Beach Elementary School	2007.0	15792.0
+13677	http://trp.leeschools.net/	Tropic Isles Elementary School	2009.0	1.0
+13678	http://lake.k12.fl.us/gle	Grassy Lake Elementary School	2012.0	12617.0
+13679	http://www.edline.net/pages/Lockmar_Elementary_School/	Lockmar Elementary School	2011.0	70.0
+13680	http://www.irsc.edu/aboutirsc/campuslocations/chastaincampus/chastaincampus.aspx?id=480	Indian River State College  Chastain Campus	2010.0	3.0
+13681	http://www.flhsmv.gov/	Highway Safety & MV	2008.0	317.0
+13682	http://www.townofpembrokepark.com/	Pembroke Park	2001.0	55.0
+13683	http://lake.k12.fl.us/uhs	Umatilla High School	2012.0	12437.0
+13684	http://www.edline.net/pages/k_e_cunningham_canal_point_es	K. E. Cunningham/Canal Point Elementary	2010.0	14.0
+13685	http://www.edline.net/pages/centralelem	Central Elementary School	0.0	12.0
+13686	http://www.bakercountyfl.org/	Baker County	2001.0	4.0
+13687	http://mems.dadeschools.net/	Miami Edison Middle School	2002.0	1.0
+13688	http://devonaire.dadeschools.net	Devon Aire K-8 Center	2002.0	10.0
+13689	http://www.edline.net/pages/royal_palm_beach_es	Royal Palm Beach Elementary School	2010.0	11.0
+13690	http://www.edline.net/pages/Jefferson_MiddleSchool/	Thomas Jefferson Middle School	2011.0	98.0
+13691	http://sh-ms.sites.pcsb.org/	Safety Harbor Middle School	2012.0	3.0
+13692	http://chs.wcsdschools.com	Chipley High School	2013.0	27.0
+13693	http://norwood.dadeschools.net/	Norwood Elementary School	2003.0	9.0
+13694	http://lake.k12.fl.us/clm	Clermont Middle School	2012.0	12596.0
+13695	http://www.baypoint-ms.pinellas.k12.fl.us	Bay Point Middle School	2003.0	12143.0
+13697	http://www.palmbeachschools.org/9304/	Educational Services Program-East	2010.0	12.0
+13698	http://www.ridgecommunityhigh.com/	Ridge Community High School	2005.0	16.0
+13699	http://bensheppard.dadeschools.net/	Ben Sheppard Elementary School	2002.0	40.0
+13700	http://www.fsu.edu	Florida State University	1997.0	122.0
+13701	http://www.clay.k12.fl.us/ove/	Oakleaf Village Elementary School	0.0	11.0
+13702	http://www.flbog.edu/aboutsus/universities/	State University System of Florida	2009.0	14.0
+13703	http://www.myflorida.com/myflorida/copyright.html	Copyright Florida Department of Education 2005 - 2013	2000.0	5.0
+13704	http://coralreefe.dadeschools.net/	Coral Reef Elementary School	2002.0	29.0
+13706	http://dacms.dadeschools.net	Doral Academy Charter Middle School	2007.0	43.0
+13708	http://www.broward.org/library/locationshours/branches/pages/wr.aspx	West Regional Library	2010.0	47.0
+13709	http://www.dadehealth.org/	Dade County Health Department	1999.0	19.0
+13710	http://cityofniceville.org/library.html	Niceville Public Library	2004.0	40.0
+13711	http://www.polk-fl.net	Polk County Superintendent's Office	2002.0	901.0
+13712	http://www.ci.greenacres.fl.us/	Greenacres	1998.0	19.0
+13713	http://www.indialantic.com/	Indialantic	1998.0	159.0
+13714	http://www.laketech.org/	Lake Technical Center	2000.0	665.0
+13715	http://www.dhs.pinellas.k12.fl.us	Dunedin High School	2001.0	12211.0
+13716	http://www.lakelandgov.net/library/home.aspx	Lakeland Public Library	2011.0	137.0
+13717	http://williamlehman.dadeschools.net/	William H. Lehman Elementary School	2002.0	18.0
+13718	http://www.cityoflynnhaven.com/	Lynn Haven	2000.0	338.0
+13719	http://www.titusville.com/	Titusville	1996.0	2724.0
+13720	http://www.duvalschools.org/majones	Mamie Agnes Jones Elementary School	2008.0	15839.0
+13721	http://www.sarasotacountyschools.net/schools/gocio/	Gocio Elementary School	2011.0	123.0
+13722	https://fpc.state.fl.us/	Parole Commission	2002.0	33.0
+13723	http://www.cityofaventura.com/	Aventura	0.0	659.0
+13724	http://alachualearningcenter.com/	Alachua Learning Center, Inc. Elementary	2005.0	1609.0
+13725	http://www.st-lucie.lib.fl.us	St. Lucie County Library System	1998.0	1.0
+13729	http://www.rpbhs.org/	Royal Palm Beach High School	2011.0	384.0
+13731	http://lsh.leeschools.net/	Lehigh Senior High School	2008.0	1.0
+13732	http://www.edline.net/pages/osceolamiddle	Osceola Middle School	2013.0	13.0
+13733	http://mast3.com/	Jose Marti Mast 6-12 Academy	0.0	855.0
+13735	http://www.duvalschools.org/lakeforest	Lake Forest Elementary School	2008.0	15823.0
+13736	http://lake.k12.fl.us/erm	East Ridge Middle School	2012.0	12672.0
+13737	http://www.edline.net/pages/Jupiter_ES/	Jupiter Elementary School	2011.0	83.0
+13738	http://www.hopkins-ms.pinellas.k12.fl.us	John Hopkins Middle School	2001.0	12459.0
+13739	http://www.hccfl.edu/campus-information/macdill.aspx	Hillsborough Community College  MacDill Air Force Base	2008.0	1.0
+13740	http://gws.hamiltonfl.com	Greenwood School	2013.0	505.0
+13741	http://lake.k12.fl.us/erh	East Ridge High School	2012.0	12682.0
+13742	http://academy.wayman.org	Wayman Academy Of The Arts	2008.0	1.0
+13743	http://schools.polk-fl.net/ridge/	Ridge Career Center	2008.0	26.0
+13744	http://www.marion.k12.fl.us/	Marion County Superintendent's Office	2002.0	632.0
+13745	http://micanopymiddle.com/	Micanopy Middle School, Inc.	2008.0	12.0
+13746	http://chiefes.levyschools.org/r/home	Chiefland Elementary School	2012.0	51.0
+13748	http://www.boyntonlibrary.org	Boynton Beach City Library	2007.0	25.0
+13749	http://www.aclib.us	Alachua County Library District	2004.0	672.0
+13750	http://www.union.k12.fl.us/	Union Virtual Instruction Program (district Provided)	2002.0	198.0
+13751	http://www.kipp.org/school-content/kipp-voice-elementary-school	River City Science Elementary Academy	2012.0	1.0
+13752	http://mies.dadeschools.net	Madie Ives Community Elementary School	2003.0	22.0
+13754	http://www.lakelandgov.net/	Lakeland	2001.0	2251.0
+13756	http://whg.dadeschools.net/	West Hialeah Gardens Elementary School	2008.0	1.0
+13757	http://cpadult.dadeschools.net/	Miami Coral Park High Adult Education	2004.0	17.0
+13758	http://www.duvalschools.org/achs	Atlantic Coast High School	2010.0	15845.0
+13759	http://www.eckerd.org	Ewes-Eckerd Youth Challenge	1998.0	449.0
+13760	http://schools.stlucie.k12.fl.us/man/	Manatee Academy K-8	2011.0	100.0
+13761	http://www.citrus.k12.fl.us/lps/	Lecanto Primary School	2001.0	28.0
+13762	http://www.fau.edu/psl/	Florida Atlantic University: Treasure Coast	2004.0	2.0
+13763	http://www.largo-ms.pinellas.k12.fl.us	Largo Middle School	2004.0	12455.0
+13764	http://holmes.dadeschools.net	Holmes Elementary School	2005.0	16.0
+13765	http://www.carsoup.com/vehicle/detail.aspx?vehicletypeid=1&marketid=3&makeid=15&modelid=6305&year=2009&vehicleid=13559416&invtypeid=2&Generated=07%2F23%2F2011_03%3A10%3A53	Eastern Florida State College  Cocoa Campus	0.0	99.0
+13766	http://schools.stlucie.k12.fl.us/apf/	Allapattah Flats K-8	2012.0	58.0
+13767	http://lafayette.schooldesk.net	Lafayette Virtual Instruction Course Offerings	2012.0	258.0
+13768	http://www.edline.net/pages/harbor_city_elementary_school/	Harbor City Elementary School	2010.0	41.0
+13770	http://www.clay.k12.fl.us/sbj/	S Bryan Jennings Elementary School	0.0	9.0
+13771	http://hendry-schools.org/education/school/school.php?sectionid=3&sc_id=1171294169	Labelle High School	2006.0	3.0
+13772	http://www.goodwilllifeacademy.org	Goodwill Life Academy	2005.0	12.0
+13773	http://www.duvalschools.org/northshore	North Shore Elementary	2008.0	15772.0
+13774	http://phsc.edu/campuses/east-campus	Pasco-Hernando State College  East Campus	0.0	18.0
+13775	http://www.duvalschools.org/rms	Jean Ribault Middle School	2008.0	15635.0
+13776	http://cms.leoncountyfl.gov/	Leon County	2011.0	426.0
+13777	http://www.duvalschools.org/beauclerc	Beauclerc Elementary School	2008.0	15765.0
+13778	http://fdocgrower.com/	Citrus	2009.0	265.0
+13779	http://www.ircgov.com/	Indian River County	2002.0	29.0
+13780	http://llk-8.dadeschools.net	Linda Lentin K-8 Center	2009.0	13.0
+13781	http://tropical.dadeschools.net/	Tropical Elementary School	2003.0	71.0
+13783	http://www.flailc.org/	FL Independent Living Council	1998.0	6.0
+13784	http://www.dunedingov.com/	Dunedin	0.0	2437.0
+13785	http://www.edline.net/pages/Pinewood_ES	Pinewood Elementary School	2011.0	320.0
+13786	http://tfe.leeschools.net/	Trafalgar Elementary School	2008.0	1.0
+13787	http://www.hccfl.edu/yc.aspx	Hillsborough Community College  Ybor City Campus	2008.0	548.0
+13788	http://www.schools.polk.net/boswell/	Clarence Boswell Elementary School	2010.0	30.0
+13790	http://www.floridajobs.org/	Economic Opportunity	1998.0	789.0
+13792	http://www.broward.k12.fl.us/bved/	Broward Virtual Instruction Program (district Provided)	2006.0	42.0
+13793	http://www.edline.net/pages/south_olive_elementary_school	South Olive Elementary School	2011.0	61.0
+13794	http://www.clay.k12.fl.us/exception_student_education.htm	Lighthouse Learning Center	0.0	26.0
+13795	http://schools.polk-fl.net/dslc/	Doris A. Sanders Learning Center	2009.0	12.0
+13797	http://www.lauderdalelakes.org/	Lauderdale Lakes	2001.0	589.0
+13798	http://www-pmhs.stjohns.k12.fl.us/	Pedro Menendez High School	2002.0	227.0
+13799	http://www.brevardcounty.us/publiclibraries/branches/franklindegroodt/home	Franklin T. Degroodt Memorial Library	2012.0	11.0
+13800	http://www.ci.oviedo.fl.us/	Oviedo	2000.0	2381.0
+13801	http://www.myhcpl.org/	Holmes County Public Library	2008.0	17.0
+13803	http://www.palmbeachschools.org	Palm Beach County Superintendent's Office	2002.0	382.0
+13804	http://readingedgeacademy.org/	The Reading Edge Academy	2008.0	57.0
+13805	http://hendry-schools.org/education/school/school.php?sectionid=12&sc_id=1171294169	Westside Elementary School	2004.0	4.0
+13806	http://schools.stlucie.k12.fl.us/spm/	Southport Middle School	2012.0	31.0
+13807	http://schools.stlucie.k12.fl.us/wmp/	Windmill Point Elementary School	2012.0	18.0
+13808	http://www.lynn.edu/	Lynn University	1996.0	1605.0
+13809	http://www.rlacademy.com	Renaissance Learning Academy	2004.0	1.0
+13810	http://zgm.dadeschools.net	Zelda Glazer Middle School	2009.0	13.0
+13811	http://homesteadmiddle.org/	Homestead Middle School	0.0	423.0
+13812	http://www.mdc.edu/hialeah/	Miami Dade College  Hialeah Campus	2006.0	37.0
+13813	http://www.fortlauderdale.gov/	Ft. Lauderdale	2003.0	2714.0
+13814	http://www.rivierabch.com	Riviera Beach Public Library	2001.0	268.0
+13815	http://deerpark.mysdhc.org	Deer Park Elementary	2007.0	86.0
+13818	http://www.edline.net/pages/carver_middle_school	Carver Middle School	2008.0	4.0
+13819	http://outreach.dadeschools.net/	Miami Behavioral Health Institute	2002.0	12.0
+13820	http://www.lakegibsonmiddle.com/	Lake Gibson Middle School	2003.0	19.0
+13822	http://www.edisonparkk8.org/	Edison Park K-8 Center	0.0	1.0
+13823	http://www.plumb-es.pinellas.k12.fl.us	Plumb Elementary School	1999.0	10.0
+13824	http://www.fairmount-es.pinellas.k12.fl.us	Fairmount Park Elementary School	1999.0	12104.0
+13825	http://www.clay.k12.fl.us/mce/	Montclair Elementary School	0.0	14.0
+13826	http://myhlc.org/	Heartland Library Cooperative	2002.0	161.0
+13828	http://www.duvalschools.org/abesspark	Abess Park Elementary School	2008.0	15818.0
+13829	http://www.itsmymaitland.com/	Maitland	2001.0	2355.0
+13830	http://www.columbia.k12.fl.us/ese/index.html	Residential Services	2003.0	15.0
+13831	http://www.brevardcounty.us/publiclibraries/branches/satellitebeach/home	Satellite Beach Public Library	2012.0	10.0
+13832	http://www.edline.net/pages/hammock_pointe_es	Hammock Pointe Elementary School	2010.0	14.0
+13833	http://schools.stlucie.k12.fl.us/som/	Southern Oaks Middle School	2012.0	25.0
+13835	http://www.pinescharter.net	The Pembroke Pines Florida	2010.0	32.0
+13836	http://schools.polk-fl.net/lghs/	Lake Gibson Senior High School	2008.0	92.0
+13837	http://www.floridahealth.gov/	Health	2013.0	787.0
+13838	http://myvolusiaschools.org/school/ortona/pages/default.aspx	Osceola Elementary School	0.0	24.0
+13840	http://hoover.dadeschools.net/	Oliver Hoover Elementary School	2002.0	15.0
+13841	http://www.ocalafl.org/	Ocala	1998.0	67.0
+13844	http://www.polk-fl.net/djjep/halfway.htm	Polk Halfway House	2007.0	59.0
+13845	http://www.highpoint-es.pinellas.k12.fl.us	High Point Elementary School	2001.0	9.0
+13847	http://www.edline.net/pages/meadow_park_elementary	Meadow Park Elementary School	2011.0	14.0
+13848	http://www.duvalschools.org/stuart	J. E. B. Stuart Middle School	2008.0	15834.0
+13849	http://nes.desotoschools.com/	Nocatee Elementary School	2012.0	38.0
+13850	http://schools.stlucie.k12.fl.us/tch/	Treasure Coast High School	2012.0	37.0
+13851	http://lake.k12.fl.us/loe	Lost Lake Elementary School	2012.0	12899.0
+13852	http://www-raider.stjohns.k12.fl.us/	Switzerland Point Middle School	1996.0	41.0
+13853	http://filer.dadeschools.net/	Henry H. Filer Middle School	2002.0	19.0
+13854	http://hendry-schools.org/education/school/school.php?sectionid=8&sc_id=1171294169	Edward A. Upthegrove Elementary	2006.0	4.0
+13855	http://schools.polk-fl.net/clevelandcourt/	Cleveland Court Elementary School	2010.0	16.0
+13856	http://www.clay.k12.fl.us/dis/	Doctors Inlet Elementary School	0.0	36.0
+13857	http://www.edline.net/pages/marsh_pointe_elementary	Marsh Pointe Elementary	2010.0	13.0
+13860	http://www.browardschools.com	Broward County Superintendent's Office	1997.0	699.0
+13861	http://www.edison.edu	Edison State College	1997.0	709.0
+13862	http://yourdiplomayourway.com/	North Park High School Charter	2008.0	8.0
+13863	http://bethune.polk-fl.net/	Bethune Academy	2014.0	25.0
+13865	http://www.clay.k12.fl.us/rve/	Ridgeview Elementary School	0.0	31.0
+13866	http://www.edline.net/pages/Cambridge_Elementary_School/	Cambridge Elementary Magnet School	2011.0	119.0
+13867	http://www.platoacademy.net/web/guest/tarpon-springs	Plato Academy Charter School Tarpon Springs	2012.0	11.0
+13868	http://www.cityofmarcoisland.com/	Marco Island	0.0	1749.0
+13869	http://www.eustismemoriallibrary.org	Eustis Memorial Library	2000.0	37.0
+13870	http://www.brockwaylibrary.org	Brockway Memorial Library	0.0	8.0
+13871	http://www.irsc.edu/aboutirsc/campuslocations/muellercampus/muellercampus.aspx?id=452	Indian River State College  Mueller Campus	2010.0	3.0
+13872	http://bghs.dadeschools.net/	Barbara Goleman Senior High	2001.0	59.0
+13873	http://www.pacecenter.org/	Pace	2000.0	1485.0
+13874	http://coconutpalm.dadeschools.net	Coconut Palm K-8 Academy	2008.0	28.0
+13875	http://ecc.jcsb.org	Jackson County Early Childhood Center	2011.0	11.0
+13877	http://www.jdiegoms.org/	Jose De Diego Middle School	0.0	1.0
+13878	http://www.edline.net/pages/independence_middle_school	Independence Middle School	2010.0	14.0
+13879	http://edison.dadeschools.net/	Miami Edison Senior High School	2003.0	16.0
+13880	http://mhs.jcsb.org	Marianna High School	2003.0	39.0
+13881	http://www.duvalschools.org/merrillroad	Merrill Road Elementary School	2008.0	15645.0
+13884	http://ci.miami.fl.us/	Miami	1996.0	11.0
+13885	http://evergladesk8.dadeschools.net/	Everglades K-8 Center	2002.0	11.0
+13887	http://www.okeeheelee.org/	Okeeheelee Middle School	2011.0	264.0
+13888	http://www.calhounflschools.org	Calhoun Virtual Instruction (course Offerings)	2008.0	755.0
+13889	http://www.edison.edu/wp/echs/	Edison Collegiate High School	2013.0	0.0
+13890	http://www.djbtechnicalacademy.org	Djb Technical Academy	2013.0	21.0
+13891	http://schools.polk-fl.net/brighamacademy/	Frank E. Brigham Academy	2009.0	10.0
+13892	http://www.sarasotacountyschools.net/schools/toledoblade/	Toledo Blade Elementary School	2010.0	171.0
+13893	http://aventurawaterwaysk8.dadeschools.net	Aventura Waterways K-8 Center	2008.0	15.0
+13895	http://myvolusiaschools.org/alternative-education/pages/department-of-juvenile-justice-sites.aspx	Dept. Of Corrections Educational Program	2013.0	6.0
+13896	http://whpl.mywinterhaven.com/	Winter Haven Public Library - Kathryn L. Smith Memorial	2007.0	31.0
+13897	http://www.edline.net/pages/roosevelt_middle_school	Roosevelt Middle School	2010.0	12.0
+13898	http://www.southflorida.edu/	South Florida Community College	2002.0	745.0
+13899	http://perrineelementary.dadeschools.net/	Dr. Henry E. Perrine Academy Of The Arts	2002.0	30.0
+13901	http://www.stetson.edu/home/	Stetson University	2003.0	2.0
+13902	http://myvolusiaschools.org/school/enterprise/pages/default.aspx	Enterprise Elementary School	2013.0	26.0
+13903	http://www.edline.net/pages/north_grade_elementary_school	North Grade Elementary School	2011.0	16.0
+13904	http://www.edline.net/pages/congressmiddleschool	Congress Community Middle School	2010.0	49.0
+13905	http://www.duvalschools.org/ramona	Ramona Boulevard Elementary School	2008.0	15753.0
+13907	http://www.jeffersonschooldistrict.org/	Jefferson County Superintendent's Office	2014.0	666.0
+13908	http://www.duvalschools.org/sje	Stonewall Jackson Elementary School	2008.0	15740.0
+13909	http://www.edline.net/pages/Nassau_County_School_District	Nassau County Superintendent's Office	2010.0	15.0
+13910	http://www.mckeelacademy.com/	McKeel Academy Of Technology	2000.0	164.0
+13912	http://cdms.dadeschools.net	Campbell Drive Middle School	2002.0	1.0
+13913	http://www.fscj.edu/campus-life/campuses-centers/urban-resource-center/	Florida State College at Jacksonville  Urban Resource Center	2014.0	3.0
+13914	http://www.bardmoor-es.pinellas.k12.fl.us/	Bardmoor Elementary School	2000.0	12222.0
+13915	http://www.healthyhighlands.com/	Highlands County Health Department	2009.0	171.0
+13918	http://www.ci.milton.fl.us/	Milton	2001.0	51.0
+13919	http://vblanton.dadeschools.net/	Van E. Blanton Elementary School	2002.0	3.0
+13920	http://myvolusiaschools.org/school/taylor/pages/default.aspx	T. Dewitt Taylor Middle-High School	0.0	32.0
+13921	http://www.flgov.com/	Governor's Office	1999.0	1401.0
+13922	http://mastmedical.org/	Medical Academy For Science And Technology (M.A.S.T.) @ Homestead	0.0	737.0
+13923	http://www.gulfport-es.pinellas.k12.fl.us	Gulfport Montessouri Elementary School	2002.0	12109.0
+13924	http://www.citrus.k12.fl.us/lms/	Lecanto Middle School	2001.0	12.0
+13925	http://schools.polk-fl.net/khs/	Kathleen Senior High School	2008.0	19.0
+13926	http://www.pinellasacademy.com	Pinellas Academy Of Math And Science	2013.0	18.0
+13927	http://www.cityofcallaway.com/	Callaway	2002.0	443.0
+13928	http://rockwayelementary.dadeschools.net/	Rockway Elementary School	2002.0	50.0
+13929	http://union.uchs.schooldesk.net/	Union County High School	2013.0	60.0
+13930	http://kle.dadeschools.net	Kendale Lakes Elementary School	2003.0	31.0
+13931	http://www.duvalschools.org/mandarin	Mandarin Middle School	2008.0	15784.0
+13932	http://www.waverlyacademy.org	Waverly Academy	2011.0	276.0
+13933	http://www.edline.net/pages/hcsb_pges	Pine Grove Elementary School	2010.0	27.0
+13934	http://www.spcollege.edu/se/	St. Petersburg College  Seminole Campus	2002.0	90.0
+13936	http://livelytech.com/	Lively Technical Center	1998.0	270.0
+13937	http://www.edline.net/pages/elbridge_gale_es	Elbridge Gale Elementary School	2010.0	74.0
+13938	http://www.co.st-johns.fl.us/	St. Johns County	1996.0	583.0
+13940	http://www.bearcreek-es.pinellas.k12.fl.us	Bear Creek Elementary School	2003.0	16.0
+13941	http://consensus.fsu.edu/	Conflict Resolution	0.0	122.0
+13942	http://www.ssas.org	Sarasota School Of Arts/Sciences	2000.0	15.0
+13944	http://www.southflorida.edu/campuses/hardee/	South Florida State College  Hardee Center	2010.0	3.0
+13945	http://www.expressionsacademy.org/	Expressions Learning Arts Academy	2003.0	513.0
+13946	http://www.cityofliveoak.org/	Live Oak	2000.0	761.0
+13947	http://www.oppaga.state.fl.us/	OPPAGA	1998.0	3153.0
+13949	http://www.edline.net/pages/Turner__ES/	John F. Turner, Senior Elementary	2014.0	49.0
+13950	http://www.duvalschools.org/ortega	Ortega Elementary School	2008.0	15797.0
+13951	http://www.edline.net/pages/Johnson_MS/	Lyndon B. Johnson Middle School	2012.0	66.0
+13952	http://www.orangecountyfl.net/	Orange County	2002.0	2078.0
+13953	http://www-oes.stjohns.k12.fl.us/	Osceola Elementary School	1998.0	49.0
+13954	http://myvolusiaschools.org/school/southwesternmiddle/pages/default.aspx	Southwestern Middle School	0.0	28.0
+13955	http://lake.k12.fl.us/ths	Tavares High School	2012.0	12531.0
+13956	http://myvolusiaschools.org/school/palmterrace/pages/default.aspx	Palm Terrace Elementary School	0.0	19.0
+13957	http://www.edline.net/pages/hcsb_wwk8	Winding Waters K-8	2011.0	22.0
+13958	http://www.okaloosaschools.com/	Okaloosa County Superintendent's Office	2002.0	976.0
+13959	http://www.franklincountyschools.org	Franklin County Superintendent's Office	2002.0	23.0
+13960	http://www.northshore-es.pinellas.k12.fl.us	North Shore Elementary School	2001.0	12629.0
+13961	http://www.lms.stjohns.k12.fl.us	Alice B. Landrum Middle School	1996.0	62.0
+13962	http://chs.jcsb.org	Cottondale High School	2011.0	17.0
+13963	http://www.lakeview-es.pinellas.k12.fl.us	Lakeview Fundamental Elementary	2000.0	12629.0
+13964	http://www.duvalschools.org/lovegrove	Love Grove Elementary School	2009.0	15735.0
+13965	http://schools.stlucie.k12.fl.us/mse//	Morningside Elementary School	2012.0	15.0
+13966	http://www.sherwood.brevard.k12.fl.us	Sherwood Elementary School	2000.0	33.0
+13967	http://www.dc.state.fl.us/	Corrections Commission	1998.0	378.0
+13969	http://www.imaginebroward.org	Imagine Charter School Of Broward	2008.0	0.0
+13970	http://www.edline.net/pages/hcsb_shes	Spring Hill Elementary School	2010.0	53.0
+13971	http://schools.polk-fl.net/swms/	Southwest Middle School	2008.0	1108.0
+13973	http://www.citrus.k12.fl.us/	Citrus County Superintendent's Office	2000.0	19.0
+13975	http://www.edline.net/pages/Carroll_ES/	Lewis Carroll Elementary School	2012.0	54.0
+13977	http://atmourning.dadeschools.net/	Alonzo And Tracy Mourning Senior High Biscayne Bay Campus	2009.0	83.0
+13978	http://www.mymanatee.org/home/government/departments/neighborhood-services/library.html	Manatee County Public Library System	2010.0	113.0
+13979	http://www.edline.net/pages/hcsb_dspms	D. S. Parrott Middle School	2010.0	401.0
+13980	http://www.fapsc.org	Florida Association of Postsecondary Schools and Colleges	1998.0	101.0
+13981	http://www.gulf.k12.fl.us	Gulf Virtual Franchise	1998.0	76.0
+13982	http://www.miamisouthridge.com/	Miami Southridge Senior High	2000.0	1355.0
+13983	http://www.lakeline.lib.fl.us/	Marianne Beck Memorial Library	1999.0	709.0
+13984	http://www.baypoint-es.pinellas.k12.fl.us	Bay Point Elementary School	2004.0	12299.0
+13986	http://pinelake.dadeschools.net/	Pine Lake Elementary School	2003.0	10.0
+13989	http://myvolusiaschools.org/school/forestlake/pages/default.aspx	Forest Lake Elementary School	0.0	25.0
+13990	http://www.duvalschools.org/pinedale	Pinedale Elementary School	2009.0	15770.0
+13991	http://rrmoton.dadeschools.net/	Robert Russa Moton Elementary School	2002.0	1.0
+13992	http://www.teamdesoto.com/	DeSoto County	2010.0	2.0
+13993	http://schools.polk-fl.net/slhe/	Spessard L Holland Elementary	2009.0	12.0
+13995	http://www.edline.net/pages/crossroads_academy	Crossroads Academy	2010.0	7.0
+13996	http://kropseniorhigh.org/	Dr Michael M. Krop Senior High	0.0	813.0
+13998	http://www.edline.net/pages/beacon_cove_intermediateschool	Beacon Cove Intermediate School	2010.0	35.0
+13999	http://www.palmbeach.k12.fl.us/spanishriverhs/	Spanish River Community High School	2000.0	41.0
+14000	http://doolin.dadeschools.net/	Bowman Ashe/Doolin K-8 Academy	2001.0	15.0
+14002	http://miamipark.dadeschools.net/	Miami Park Elementary School	2003.0	416.0
+14003	http://www.mybradford.us	Bradford Intervention Center	2007.0	4.0
+14004	http://www.edline.net/pages/Central_Middle/	Central Middle School	2012.0	112.0
+14005	http://ae.jcsb.org	Marianna Adult Center	2011.0	14.0
+14006	http://www.edline.net/pages/yulee_primary_school	Yulee Primary School	2010.0	45.0
+14007	http://www.cfcc.cc.fl.us/departments/levy/	College of Central Florida  Levy Center	2006.0	12.0
+14009	https://www.tcc.fl.edu/Pages/default.aspx	Tallahassee Community College  Main Campus	2012.0	1440.0
+14010	http://www.leeschools.net/	Lee County Superintendent's Office	2003.0	63.0
+14012	http://www.whisperingwindscharter.com/	Whispering Winds Charter School	2008.0	162.0
+14013	http://palmettoad.dadeschools.net/	Miami Palmetto Senior High Adult	2003.0	25.0
+14016	http://www.bocaciega.org/	Boca Ciega High School	2001.0	7164.0
+14017	http://arcolalake.dadeschools.net/	Arcola Lake Elementary School	2002.0	37.0
+14018	http://wachapman.dadeschools.net/	William A. Chapman Elementary School	2004.0	25.0
+14019	http://www.co.hernando.fl.us/	Hernando County	1997.0	370.0
+14020	http://www.edline.net/pages/oaa	Okeechobee Achievement Academy	2013.0	11.0
+14021	http://ci.brooksville.fl.us/	Brooksville	1998.0	3331.0
+14023	http://myvolusiaschools.org/school/debary/pages/default.aspx	Debary Elementary School	0.0	27.0
+14024	http://www.madeirabeachfl.gov/	Madeira Beach	2008.0	72.0
+14025	http://www.pbchd.com	Palm Beach County Health Department	2003.0	2.0
+14027	http://www.duvalschools.org/ssee	Southside Estates Elementary School	2008.0	15759.0
+14028	http://www.sarasotacountyschools.net/schools/sarasotahigh/	Sarasota High School	2011.0	238.0
+14029	http://www.seasideschool.net/	Seaside Neighborhood School	2002.0	74.0
+14031	http://www.countryside-hs.pinellas.k12.fl.us/	Countryside High School	2011.0	12183.0
+14032	http://citrus.cf.edu/	College of Central Florida  Citrus Campus	2006.0	43.0
+14033	http://www.edline.net/pages/lantana_middle_school	Lantana Middle School	2010.0	13.0
+14034	http://www.clarkadvancedlearningcenter.org	Clark Advanced Learning Center	2005.0	63.0
+14035	http://www.duvalschools.org/hydepark	Hyde Park Elementary School	2009.0	15719.0
+14036	http://www.edline.net/pages/wynnebrook_elementary	Wynnebrook Elementary School	2010.0	11.0
+14038	http://palmsprings.dadeschools.net/	Palm Springs Elementary School	2004.0	15.0
+14039	http://gatewayk8.dadeschools.net	Gateway Environmental K-8 Learning Center	2010.0	22.0
+14040	http://www-mes.stjohns.k12.fl.us	Otis A. Mason Elementary School	1998.0	48.0
+14041	http://www.duvalschools.org/upson	Ruth N. Upson Elementary School	2009.0	16032.0
+14042	http://www.apopka.net/	Apopka	1999.0	274.0
+14043	http://www.duvalschools.org/windyhill	Windy Hill Elementary School	2008.0	15727.0
+14044	http://chm.leeschools.net/	Challenger Middle School	2008.0	1.0
+14046	http://hes.dadeschools.net/	Hialeah Elementary School	2002.0	11.0
+14047	http://www.platoacademy.net	Plato Academy Charter School	2001.0	45.0
+14048	http://www.coopercityfl.org/	Cooper City	2001.0	1192.0
+14049	http://bch.leeschools.net/	Fort Myers Beach Elementary School	2008.0	1.0
+14052	http://www.edline.net/pages/hcsb_ces	Chocachatti Elementary School	2010.0	51.0
+14053	http://schools.polk-fl.net/dja/	Daniel Jenkins Academy Of Technology Middle School	2008.0	11.0
+14055	http://www.edline.net/pages/turning_points_academy	Turning Points Academy	2010.0	15.0
+14056	http://pivotcharterschool.com/	Pivot Charter School	2011.0	10.0
+14057	http://gap.hdsb.org	Graduation Assistance Program	2007.0	7.0
+14059	http://debary.org/	De Bary	2001.0	150.0
+14060	http://www.ocls.info	Orlando Public Library	2002.0	6000.0
+14061	http://www.wfrpc.org/	West Florida(external link)	2007.0	7689.0
+14063	http://res.jcsb.org	Riverside Elementary School	2011.0	17.0
+14064	http://schools.polk-fl.net/fmmshs/	Fort Meade Middle/Senior High School	2009.0	15.0
+14065	http://schools.stlucie.k12.fl.us/sle//	St. Lucie Elementary School	2012.0	34.0
+14066	http://www.palmbayacademy.org	Palm Bay Academy Charter School	2008.0	119.0
+14067	http://www.educationalhorizons.net	Educational Horizons Charter	2003.0	58.0
+14069	http://jgd.dadeschools.net	John G. Dupuis Elementary School	2004.0	11.0
+14070	http://www.nccharter.org	North County Charter School	2008.0	1.0
+14073	http://www.florida-everglades.com/evercty/echome.htm	Everglades City	1997.0	5.0
+14074	http://www.atlantis.brevard.k12.fl.us/	Atlantis Elementary School	2001.0	65.0
+14075	http://www.auburndalefl.com/	Auburndale Beach	1999.0	63.0
+14076	http://www.duvalschools.org/fhs	Duncan U. Fletcher High School	2008.0	15777.0
+14077	http://www.edline.net/pages/Sabal_Elementary_School/	Sabal Elementary School	2012.0	83.0
+14078	http://smhe.dadeschools.net/	South Miami Heights Elementary	2002.0	2.0
+14080	http://www.edline.net/pages/Endeavor_Elementary_Magnet/	Endeavour Elementary Magnet	2011.0	84.0
+14081	http://www.tarponfund-es.pinellas.k12.fl.us	Tarpon Springs Fundamental Ele	2004.0	12635.0
+14082	http://www.discoveryacademy.info	Discovery Academy Of Science Charter School	2013.0	220.0
+14083	http://www.pinecrest-fl.gov/	Pinecrest	0.0	800.0
+14084	http://greynolds.dadeschools.net/	Greynolds Park Elementary School	2002.0	4.0
+14085	http://www.edline.net/pages/lake_worth_middle_school	Lake Worth Community Middle	2010.0	13.0
+14086	http://miamidade.gov/	Miami-Dade County	0.0	2.0
+14087	http://wespanthers.com/	Westside Elementary School	2011.0	58.0
+14088	http://mydelraybeach.com/	Delray Beach	2008.0	1807.0
+14089	http://www.uflib.ufl.edu/fefdl/counties/holmes.html	Holmes County	2001.0	216.0
+14090	http://www.rollins.edu/	Rollins College	1996.0	595.0
+14091	http://lake.k12.fl.us/tms	Tavares Middle School	2012.0	12486.0
+14093	http://lake.k12.fl.us/mdh	Mt. Dora High School	2012.0	12760.0
+14094	http://www.edline.net/pages/Quest_Elementary_School	Quest Elementary School	2010.0	334.0
+14095	http://www.coralgablescavaliers.org/	Coral Gables Senior High School	0.0	2053.0
+14097	http://www.swfwmd.state.fl.us/	Southwest Florida	1999.0	2507.0
+14098	http://www.seminole-hs.pinellas.k12.fl.us	Seminole High School	2000.0	12645.0
+14099	http://www.edline.net/pages/northmore_elementary	Northmore Elementary School	2011.0	12.0
+14100	http://www.edline.net/pages/binks_forest_elementary_school	Binks Forest Elementary School	2010.0	13.0
+14102	http://www.sarasotacountyschools.net/schools/riverview/	Riverview High School	2010.0	457.0
+14104	http://drew.dadeschools.net/	Charles R Drew K-8 Center	2003.0	8.0
+14105	http://schools.polk-fl.net/scottlake/	Scott Lake Elementary School	2009.0	9.0
+14106	http://nhe.hamiltonfl.com/	North Hamilton Elementary School	2013.0	485.0
+14107	http://www.duvalschools.org/southside	Southside Middle School	2007.0	15887.0
+14109	http://www.hccfl.edu/pc.aspx	Hillsborough Community College  Plant City Campus	2008.0	3018.0
+14110	http://www.eastareaadult.com/	East Area Adult School	2008.0	17.0
+14111	http://cpatc.org/	College Preparatory Academy Of The Treasure Coast	0.0	1065.0
+14113	http://usfsm.edu/	University of South Florida: Sarasota	2012.0	1403.0
+14114	http://www.respectofflorida.org/	RESPECT of FL	1999.0	122.0
+14115	http://hdmcmillan.dadeschools.net/	Howard D. McMillan Middle School	2002.0	21.0
+14116	http://it.pinellas.k12.fl.us/schools/dropout-prevent/pace.html	Pace Center For Girls	2005.0	10.0
+14117	http://www.edline.net/pages/riviera_beach_prep	Riviera Beach Preparatory & Achievement Academy	2013.0	11.0
+14118	http://sbl.leeschools.net/	The Sanibel School	2009.0	1.0
+14119	http://myvolusiaschools.org/school/westside/pages/default.aspx	Westside Elementary School	0.0	23.0
+14121	http://mcmcharter.dadeschools.net	Miami Children's Museum Charter School	2007.0	10.0
+14123	http://www.matergardens.com//	Mater Gardens Academy Middle School	0.0	1235.0
+14124	http://www.edline.net/pages/Gemini_Elementary_School/	Gemini Elementary School	2011.0	44.0
+14125	http://www.duvalschools.org/wae	Woodland Acres Elementary School	2007.0	15651.0
+14126	http://robertrenick.dadeschools.net/	Robert Renick Education Center	2004.0	9.0
+14127	http://www.rockwaymiddleschool.org/	Rockway Middle School	0.0	1114.0
+14129	http://www.duvalschools.org/johnlove	John Love Elementary School	2007.0	15870.0
+14130	http://www.winterspringsfl.org/	Winter Spring	2000.0	285.0
+14131	http://smsh.dadeschools.net/	South Miami Senior High School	2003.0	168.0
+14133	http://www.brevardcounty.us/publiclibraries/branches/central/home	Central Brevard Library And Reference Center	2012.0	10.0
+14134	http://www.edline.net/pages/Sunrise_Elementary_School/	Sunrise Elementary School	2011.0	55.0
+14135	http://www.sarasotacountyschools.net/schools/lakeview/	Lakeview Elementary School	2010.0	115.0
+14137	http://keybiscayne.fl.gov/	Key Biscayne	2003.0	1328.0
+14138	http://poincianastem.org/	Poinciana Elementary School	2012.0	209.0
+14139	http://www.bradford-co-fla.org/	Bradford County	2001.0	33.0
+14140	http://www.rasmussen.edu/locations/florida/tampa/new-port-richey/	Rasmussen College	2011.0	2.0
+14141	http://myvolusiaschools.org/school/pride/pages/default.aspx	Pride Elementary School	2013.0	22.0
+14142	http://pivotftmyers.com/	Pivot Charter School	2013.0	22.0
+14143	http://www.lifeskillshs.com/	Stellar Leadership Academy	2013.0	80.0
+14144	http://www.edline.net/pages/foresthillhighschool	Forest Hill Community High School	2010.0	26.0
+14146	http://www.hillscountyhealth.org/	Hillsborough County Health Department	1998.0	13.0
+14147	http://www.coachman-ms.pinellas.k12.fl.us/	Clearwater Fundamental Middle School	2001.0	0.0
+14148	http://myvolusiaschools.org/school/starke/pages/default.aspx	Edith I. Starke Elementary School	2013.0	15.0
+14149	http://www.mdc.edu/wolfson/	Miami Dade College  Wolfson Campus	2003.0	182.0
+14152	http://www.clay.k12.fl.us/ope/	Orange Park Elementary School	0.0	17.0
+14153	http://www-gats.stjohns.k12.fl.us	St. Johns County Transition Program	2009.0	11.0
+14155	http://www.jamerson-es.pinellas.k12.fl.us	Douglas L. Jamerson Jr. Elementary	2003.0	12492.0
+14156	http://www.gcpls.org	Gadsden County Public Library	2004.0	1.0
+14157	http://dhs.desotoschools.com/	Desoto County High School	2012.0	108.0
+14158	http://www.sculptorcharter.org/cms/	Sculptor Charter School	2013.0	405.0
+14159	http://columbia.k12.fl.us/richardson/	Richardson Middle School	2010.0	14.0
+14160	http://www.myflfamilies.com/	Children & Families	2012.0	743.0
+14161	http://www.odysseycharterschool.com	Odyssey Charter School	2004.0	53.0
+14162	http://apd.myflorida.com	Persons with Disabilities	2004.0	167.0
+14163	http://www.sarasotacountyschools.net/schools/wilkinson/	Wilkinson Elementary School	2011.0	130.0
+14167	http://www.sanlib.org	Sanibel Public Library	1999.0	38.0
+14169	http://www.cityofflaglerbeach.com/	Flagler Beach	2001.0	351.0
+14170	http://site.desotoschools.com/ecc/	Early Education Center	2011.0	18.0
+14172	http://www.uflib.ufl.edu/fefdl/counties/okeechobee.html	Okeechobee County	2001.0	216.0
+14173	http://www.ponce-es.pinellas.k12.fl.us	Ponce De Leon Elementary School	2003.0	12647.0
+14174	http://drek8.dadeschools.net	Dr. Rolando Espinosa K-8 Center	2008.0	16.0
+14176	http://www.eisenhower-es.pinellas.k12.fl.us	Eisenhower Elementary School	2002.0	5.0
+14177	http://claudepepper.dadeschools.net/	Claude Pepper Elementary School	2002.0	8.0
+14178	http://www.edline.net/pages/hcsb_mes	Moton Elementary School	2010.0	59.0
+14179	http://maverickshigh.com/	Mavericks High School At Palm Springs	2009.0	87.0
+14180	http://www.edline.net/pages/limestone_creek_es	Limestone Creek Elementary School	2008.0	19.0
+14181	http://www.sfwmd.gov/	South Florida	1998.0	11.0
+14182	http://www.duvalschools.org/grandpark	Grand Park Career Center	2008.0	15717.0
+14183	http://flwaterpermits.com/	Water Management Districts	2004.0	5.0
+14184	http://www.manateeschools.net/	Manatee County Superintendent's Office	2002.0	47.0
+14185	http://schools.polk-fl.net/pvs/	Polk Virtual Franchise	2009.0	23.0
+14186	http://www.coj.net/	Jacksonville	1998.0	829.0
+14187	http://www.arcsj.org/communitycampus.html	St. Johns Community Campus	2013.0	35.0
+14188	http://hardeechd.org/	Hardee County Health Department	2011.0	12.0
+14189	http://www.spaceflorida.gov	Space Florida	2006.0	162.0
+14190	http://www.edline.net/pages/hcsb_wwhs	Weeki Wachee High School	2010.0	161.0
+14192	http://myvolusiaschools.org/school/freedom/pages/default.aspx	Freedom Elementary School	0.0	26.0
+14193	http://www.springfieldfl.org/	Springfield	2005.0	3.0
+14194	http://www.hoggetowne.org/	Hoggetowne Middle School	2003.0	3.0
+14195	http://k12.apps.fsu.edu/	Fsus Virtual School Franchise	2011.0	1.0
+14196	http://www.miami.edu/	University of Miami	1997.0	1623.0
+14197	http://wakulla.medart.schooldesk.net/	Medart Elementary School	2013.0	86.0
+14198	http://myvolusiaschools.org/school/hollyhill/pages/default.aspx	Holly Hill School	2013.0	23.0
+14199	http://www.duvalschools.org/highlands	Highlands Elementary School	2009.0	15791.0
+14200	http://www.edline.net/pages/forest_park_es	Forest Park Elementary School	2010.0	16.0
+14201	http://www.shiningstaracademyota.com/	Shining Star Academy Of The Arts	2012.0	16.0
+14202	http://www.duvalschools.org/forrest	Nathan B. Forrest High School	2009.0	0.0
+14203	http://ghbraddock.dadeschools.net/	G. Holmes Braddock Senior High	2002.0	61.0
+14204	http://uwf.edu/emeraldcoast/	University of West Florida: Fort Walton Beach/Elgin	2006.0	36.0
+14205	http://www.sarasotacountyschools.net/schools/altavista/	Alta Vista Elementary School	2012.0	144.0
+14206	http://www.mdpls.org	Miami-Dade Public Library System	1998.0	225.0
+14207	http://www.edline.net/pages/manatee_elementary_school	Manatee Elementary School	2008.0	91.0
+14208	http://www.franklin-academy.org	Franklin Academy Charter School B	2010.0	11.0
+14209	http://www.highlands.k12.fl.us/~cte/	Cracker Trail Elementary School	2001.0	32.0
+14210	http://www.edline.net/pages/boca_raton_middle_school	Boca Raton Community Middle School	2010.0	24.0
+14211	http://mdo.dadeschools.net	Miami Dade Online Academy-Virtual Instruction Course Offerings	2009.0	14.0
+14212	http://www.bakeraviation.edu	George T. Baker Aviation School	2005.0	490.0
+14214	http://www.hollywoodfl.org/	Hollywood	1996.0	1464.0
+14215	http://www.duvalschools.org/hydegrove	Hyde Grove Elementary School	2009.0	15741.0
+14216	http://www.fau.edu	Florida Atlantic University	1997.0	5137.0
+14217	http://perc.myflorida.com/	PERC	0.0	33.0
+14218	http://www.duvalschools.org/palmavenue	Palm Avenue Excep. Student Center	2008.0	15851.0
+14220	http://www.brevardcounty.us/publiclibraries/branches/westmelbourne/home	West Melbourne Public Library	2012.0	33.0
+14222	http://www.duvalschools.org/rhs	Jean Ribault High School	2008.0	15930.0
+14223	http://www.putnamacademy.org	Putnam Academy Of Arts And Sciences	2012.0	60.0
+14224	http://www.escambiahealth.com/	Escambia County Health Department	2007.0	205.0
+14225	http://www.edline.net/pages/Croton_School	Croton Elementary School	2011.0	326.0
+14229	http://www.edline.net/pages/Indialantic_Elementary_School/	Indialantic Elementary School	2010.0	44.0
+14230	http://www.hamilton.pinellas.k12.fl.us	Hamilton Disston School	2000.0	19.0
+14231	https://www.nsrc.myflorida.com/	Northwood Shared Resource Center	2009.0	53.0
+14232	http://myvolusiaschools.org/school/turietsmall/pages/default.aspx	Turie T. Small Elementary School	0.0	23.0
+14233	http://schools.polk-fl.net/lhms/	Lakeland Highlands Middle School	2008.0	31.0
+14235	http://www.sjcpls.org/content/hastings-branch	Hastings Branch Library	2010.0	532.0
+14236	http://www.hallandalebeachfl.gov/	Hallandale Beach	2003.0	734.0
+14237	http://www.gatewaycharterschool.org	Gateway Charter Intermediate School	2004.0	12.0
+14239	http://www.northeast-hs.pinellas.k12.fl.us	Northeast High School	2003.0	12540.0
+14242	http://www.greencovesprings.com/	Green Cove Springs	1998.0	325.0
+14243	http://www.duvalschools.org/sheffield	Louis S. Sheffield Elementary School	2008.0	15860.0
+14244	http://www.sanjose-es.pinellas.k12.fl.us	San Jose Elementary School	2005.0	2.0
+14246	http://www.clay.k12.fl.us/rhs/	Ridgeview High School	0.0	28.0
+14247	http://www.edline.net/pages/hcsb_hhs	Hernando High School	2010.0	140.0
+14248	http://nhes.dadeschools.net/	North Hialeah Elementary School	2003.0	413.0
+14250	http://ww5.dixie-county.com/	Dixie County	2012.0	3.0
+14251	http://lake.k12.fl.us/lmh	Lake Minneola High School	2012.0	12798.0
+14252	http://www.edline.net/pages/sunset_palms_elementary	Sunset Palms Elementary School	2010.0	11.0
+14253	http://www.kipp.org	Kipp Impact Middle School	2000.0	505.0
+14255	http://lake.k12.fl.us/pre	Pine Ridge Elementary School	2012.0	12534.0
+14256	http://washingtonholmestechcenter.schoolinsites.com/	Washington-Holmes Technical Center	2013.0	91.0
+14259	http://tfm.leeschools.net//	Trafalgar Middle School	2008.0	1.0
+14260	http://www.duvalschools.org/springpark	Spring Park Elementary School	2007.0	15906.0
+14261	http://www.marshall-ms.pinellas.k12.fl.us	Thurgood Marshall Fundamental	2004.0	1.0
+14262	http://www.claycountygov.com/	Clay County	2000.0	687.0
+14263	http://www.sarasota.k12.fl.us/pvs/	Pine View School	2001.0	10.0
+14264	http://www.palmbeachstate.edu/locations/boca-raton/default.aspx	Palm Beach State College  Boca Raton Campus	2012.0	23.0
+14265	http://schools.polk-fl.net/kingsford/	Kingsford Elementary School	2009.0	11.0
+14267	http://www.uhstitans.com/	University High School	2010.0	2229.0
+14268	http://www.eastlake-hs.pinellas.k12.fl.us	East Lake High School	2002.0	2.0
+14269	http://www.sarasotacountyschools.net/schools/tuttle/	Tuttle Elementary School	2011.0	132.0
+14271	http://lamp.leeschools.net/	Lee Adolescent Mothers Program	2013.0	10.0
+14272	http://www.sarasotacountyschools.net/schools/heroncreek/	Heron Creek Middle School	2010.0	100.0
+14273	http://www.duvalschools.org/moe	Mandarin Oaks Elementary School	2007.0	15749.0
+14274	http://pwes.dadeschools.net/	Phyllis Wheatley Elementary School	2002.0	18.0
+14275	http://sunlandpark.browardschools.com	Sunland Park Elementary School	2011.0	650.0
+14276	http://jefferson.dadeschools.net/	Thomas Jefferson Middle School	2003.0	31.0
+14278	http://www.santarosa.fl.gov/	Santa Rosa County	2004.0	66.0
+14279	http://www.hopecenterforautism.org	The Hope Charter Center For Autism	2004.0	45.0
+14282	http://www.edline.net/pages/hcsb_fcms	Fox Chapel Middle School	2010.0	19.0
+14283	http://www.bengamlapalmbeach.org/	Ben Gamla-Palm Beach	0.0	494.0
+14284	http://rpalm.dadeschools.net/	Royal Palm Elementary School	2002.0	18.0
+14285	http://www.sarasotacountyschools.net/schools/gulfgate/	Gulf Gate Elementary School	2011.0	129.0
+14286	http://schools.stlucie.k12.fl.us/vge//	Village Green Environmental Studies School	2012.0	238.0
+14287	http://it.pinellas.k12.fl.us/schools/sanders/	Richard L. Sanders School	2006.0	3.0
+14289	http://wcpl.wildernesscoast.org/	Wakulla County Public Library	2013.0	24.0
+14291	http://www.flasports.com/	Florida Sports Foundation	1998.0	393.0
+14292	http://www.mdc.edu/main/	Miami-Dade Community College	2007.0	2469.0
+14293	http://benttree.dadeschools.net/	Bent Tree Elementary School	2002.0	23.0
+14295	http://www.somersetboca.com	Somerset Academy Boca East	0.0	716.0
+14296	http://www.fldoe.org/fcs/	Florida Community Colleges System	2013.0	2.0
+14297	http://cms.leoncountyfl.gov/Library	Leroy Collins Leon County Public Library Syst	2013.0	175.0
+14298	http://www.spcollege.edu/corporate-training/	St. Petersburg College  ICOT Center	2014.0	3.0
+14299	http://myvolusiaschools.org/school/indianriver/pages/default.aspx	Indian River Elementary School	2013.0	24.0
+14301	http://www.schools4future.org	School For The Future	2011.0	13.0
+14302	http://www.edline.net/pages/timber_trace_elementary_school	Timber Trace Elementary School	2010.0	12.0
+14304	http://www.cookman.edu/	Bethune-Cookman  University	1998.0	1352.0
+14305	http://www.ponce-inlet.org/	Ponce Inlet	2002.0	90.0
+14306	http://www.cityofchattahoochee.com/	Chattahoochee	2008.0	15.0
+14307	http://www.edline.net/pages/rolling_green_elementary_schoo	Rolling Green Elementary School	2011.0	17.0
+14308	http://hope.jcsb.org	Hope School	2011.0	19.0
+14309	http://www.sarasotacountyschools.net/schools/glenallen/	Glenallen Elementary School	2011.0	126.0
+14310	http://www.lwchs.org/	Lake Worth High School	1998.0	179.0
+14311	http://www.hccfl.edu/br.aspx	Hillsborough Community College  Brandon Campus	2008.0	3140.0
+14312	http://jsa.leeschools.net/	James Stephens International Academy	2009.0	1.0
+14313	http://www.gladesedu.org	Glades County Superintendent's Office	2013.0	1074.0
+14316	http://www.lcmaknightsonline.com/	Lawton Chiles Middle Academy	2005.0	33.0
+14317	http://whigham.dadeschools.net/	Dr. Edward L. Whigham Elementary School	2004.0	22.0
+14318	http://www.mypompanobeach.org/	Pompano Beach	2005.0	128.0
+14320	http://www.daytonastate.edu/maps/southmap.html	Daytona State College  New Smyrna/Edgewater Campus	2008.0	13.0
+14321	http://www.edline.net/pages/greenacres_elementary_school	Greenacres Elementary School	2011.0	9.0
+14322	http://www.duvalschools.org/longbranch	Long Branch Elementary School	2008.0	15795.0
+14324	http://aiecharterschool.org/	Academy For International Education Charter School	0.0	511.0
+14325	http://www-pvmkr.stjohns.k12.fl.us/	Ponte Vedra Palm Valley- Rawlings Elementary School	2006.0	42.0
+14326	http://mayportmiddle.org	Mayport Middle School	2013.0	2.0
+14327	http://www.duvalschools.org/susietolbert	Susie E. Tolbert Elementary School	2009.0	15796.0
+14328	http://www.dunnellon.org/	Dunnellon	2001.0	412.0
+14329	http://www.edline.net/pages/Manatee_Elementary/	Manatee Elementary	2012.0	194.0
+14330	http://www.palmbeachstate.edu/locations/lake-worth/default.aspx	Palm Beach State College  Lake Worth Campus	2012.0	7.0
+14332	http://lake.k12.fl.us/eel	Eustis Elementary School	2012.0	12423.0
+14333	http://schools.polk-fl.net/drnerobertsel/	Dr. Ne Roberts Elementary School	2009.0	8.0
+14334	http://www.scps.us	Scps Early Learning Coalition	2012.0	809.0
+14335	http://www.edline.net/pages/OakPark_ES/	Oak Park Elementary School	2014.0	141.0
+14336	http://lpe.dadeschools.net	Lorah Park Elementary School	2002.0	3.0
+14337	http://vhs.wcsdschools.com	Vernon High School	2013.0	19.0
+14339	http://www-sahs.stjohns.k12.fl.us	St. Augustine High School	1998.0	61.0
+14340	http://www.duvalschools.org/sanpablo	San Pablo Elementary School	2008.0	15924.0
+14342	http://www.duvalschools.org/biscayne	Biscayne Elementary School	2007.0	15788.0
+14343	http://www.sarasotacountyschools.net/schools/ashton/	Ashton Elementary School	2010.0	157.0
+14344	http://nfa.leeschools.net/	North Fort Myers Academy For The Arts	2008.0	1.0
+14345	http://www.carwise-ms.pinellas.k12.fl.us	Joseph L. Carwise Middle School	2004.0	2.0
+14346	http://www.osceolalibrary.org	Osceola County Library System	2003.0	2.0
+14347	http://maya.dadeschools.net	Maya Angelou Elementary School	2003.0	7.0
+14348	http://www.hypoluxo.org/	Hypoluxo	1998.0	23.0
+14349	http://palmlakes.dadeschools.net/	Palm Lakes Elementary School	2003.0	74.0
+14351	http://www.duvalschools.org/venetia	Venetia Elementary School	2012.0	15753.0
+14353	http://schools.polk-fl.net/socrum/	Socrum Elementary School	2008.0	13.0
+14355	http://www.rawlings-es.pinellas.k12.fl.us	Marjorie Kinnan Rawlings Elem	2000.0	2.0
+14356	http://ci.homestead.fl.us/	Homestead	1997.0	1686.0
+14357	http://www.edline.net/pages/Madison_MiddleSchool	James Madison Middle School	2007.0	317.0
+14358	http://www.coralreefmontessori.com/	Coral Reef Montessori Academy Charter	2012.0	104.0
+14359	http://www.edgewood.cc/	Edgewood	2002.0	2.0
+14360	http://www.pbclibrary.org	Palm Beach County Library System	2001.0	1622.0
+14361	http://www.cityofedgewater.org/	Edgewater	2000.0	803.0
+14363	http://www.lakelandhighschool.com/	Lakeland Senior High School	1998.0	4401.0
+14364	http://islandvillage.org/	Island Village Montessori School	2001.0	343.0
+14365	http://redlandmiddle.dadeschools.net	Redland Middle School	2006.0	15.0
+14366	http://schools.polk-fl.net/fes/	Frostproof Elementary School	2010.0	19.0
+14368	http://www.edison.edu/wp/echslee/	Edison Collegiate High School	2013.0	0.0
+14371	http://www.cityoffortmeade.com/	Ft. Meade	2007.0	46.0
+14372	http://www.duvalschools.org/lee	Robert E. Lee High School	2008.0	16185.0
+14373	http://www.famu.edu/	Florida Agricultural and Mechanical University	1996.0	2489.0
+14374	http://m.visitflorida.com/en-us.mobile.html	VISIT FLORIDA	2013.0	5490.0
+14375	http://lcsaunders.dadeschools.net	Laura C. Saunders Elementary School	2003.0	7.0
+14377	http://www.dchd.net/	Duval County Health Department	2001.0	22.0
+14378	http://www.dot.state.fl.us/ctd/	Transportation Disadvantaged	1998.0	5.0
+14379	http://www.starkey-es.pinellas.k12.fl.us	Starkey Elementary School	2004.0	12684.0
+14380	http://www.sjrstate.edu/campuspac.html	St. Johns River State College  Palatka Campus	2011.0	409.0
+14381	http://www.pp-ms.pinellas.k12.fl.us	Pinellas Park Middle School	2004.0	2.0
+14382	http://www.casselberry.org/	Casselberry	1998.0	602.0
+14383	http://ghs.jcsb.org	Graceville High School	2011.0	62.0
+14384	http://comstockelementary.dadeschools.net/	Comstock Elementary School	2003.0	20.0
+14386	http://www.seminolecountyfl.gov/Libraries/index.aspx	Seminole County Public Library System	2011.0	111.0
+14387	http://ponce.dadeschools.net/	Ponce De Leon Middle School	2002.0	4.0
+14388	http://www.edline.net/pages/Southwest__MS/	Southwest Middle School	2011.0	95.0
+14389	http://www.edline.net/pages/Ocean_Breeze_Elementary_School	Ocean Breeze Elementary School	2010.0	468.0
+14390	http://www.sfcollege.edu/centers/kirkpatrick/	Santa Fe College  Kirkpatrick Center	2011.0	31.0
+14391	http://miamiheights.dadeschools.net/	Miami Heights Elementary School	2002.0	2.0
+14392	http://www.edline.net/pages/hcsb_whms	West Hernando Middle School	2010.0	53.0
+14394	http://sunsetadult.dadeschools.net	Miami Sunset Adult Education Center	2008.0	16.0
+14395	http://www.citrus.k12.fl.us/fcs/	Floral City Elementary School	2001.0	23.0
+14397	http://www.blakeacademy.com/	Rosabelle W. Blake Academy	2002.0	2.0
+14398	http://www.edline.net/pages/grove_park_elementary_school	Grove Park Elementary School	2011.0	13.0
+14399	http://golson.jcsb.org	Frank M. Golson Elementary School	2011.0	18.0
+14400	http://www.splibraries.org/	St. Petersburg Public Library	2003.0	77.0
+14401	http://www.edline.net/pages/wellington_elementary_school	Wellington Elementary School	2008.0	13.0
+14402	http://www.varelahs.com/	Felix Varela Senior High School	2002.0	0.0
+14403	http://myvolusiaschools.org/school/deland/pages/default.aspx	Deland Middle School	2013.0	26.0
+14404	http://www.edline.net/pages/crosspointe_elementary	Crosspointe Elementary School	2011.0	15.0
+14405	http://healthcouncils.org/	The Health Councils, Inc	2001.0	17.0
+14406	http://www.dadeschools.net	Dade County Superintendent's Office	2000.0	36.0
+14407	http://www.bonitaspringscharter.org	Bonita Springs Charter School	2002.0	10.0
+14408	http://santaclara.dadeschools.net	Santa Clara Elementary School	2005.0	31.0
+14411	http://www.flofr.com/	Office of Financial Regulation	2005.0	99.0
+14413	http://www.margatefl.com/	Margate	1999.0	684.0
+14414	http://ahca.myflorida.com/	Health Care Admin.	2005.0	159.0
+14416	http://msms.dadeschools.net/	Miami Springs Middle School	2002.0	19.0
+14417	http://www.gulfbeacheslib.org/	Gulf Beaches Public Library	2008.0	941.0
+14419	http://www-sjths.stjohns.k12.fl.us	St. Johns Technical High School	2006.0	30.0
+14421	http://schools.stlucie.k12.fl.us/wce//	White City Elementary School	2012.0	32.0
+14422	http://broadmoor.dadeschools.net/	Broadmoor Elementary School	2003.0	7.0
+14423	http://phsc.edu/campuses/north-campus	Pasco-Hernando State College  North Campus	0.0	18.0
+14425	http://schools.polk-fl.net/nle/	North Lakeland Elementary School Of Choice	2008.0	16.0
+14427	http://www.edline.net/pages/highland_elementary	Highland Elementary School	2011.0	27.0
+14428	http://andover.dadeschools.net/andover/	Andover Middle School	2008.0	21.0
+14429	http://snappercreek.dadeschools.net/	Snapper Creek Elementary School	2002.0	1.0
+14430	http://www.columbia.k12.fl.us/melrosepark/index.html	Melrose Park Elementary School	2004.0	13.0
+14431	http://www.duvalschools.org/oakhill	Oak Hill Elementary School	2008.0	15913.0
+14432	http://mandarinlakesacademy.dadeschools.net	Mandarin Lakes K-8 Academy	2009.0	5.0
+14433	http://www.edline.net/pages/frontier_elementary_school	Frontier Elementary School	2010.0	16.0
+14435	http://www.miamibeachadult.com/	Miami Beach Adult & Community Ed Center	2011.0	36.0
+14436	http://schools.stlucie.k12.fl.us/bay/	Bayshore Elementary School	2012.0	47.0
+14437	http://www.edline.net/pages/palmetto_elementary_school	Palmetto Elementary School	2011.0	42.0
+14438	http://www.cornerstonecharter.com	Cornerstone Charter Academy High School	0.0	1571.0
+14439	http://www.gulfcoast.edu/gulf_franklin/default.htm	Gulf Coast State College  Gulf/Franklin Campus	2008.0	22.0
+14440	http://www.imagineschoolflagler.com/	Imagine School At Town Center	2008.0	1.0
+14442	http://rges.dadeschools.net/	Royal Green Elementary School	2002.0	6.0
+14444	http://www.dms.myflorida.com/	Management Services	2004.0	2652.0
+14445	http://www.dms.myflorida.com/workforce_operations/state_group_insurance	State Group Insurance	2013.0	114.0
+14446	http://rhe.leeschools.net/	River Hall Elementary School	2008.0	1.0
+14447	http://ebt.dadeschools.net/	Eugenia B. Thomas K-8 Center	2002.0	60.0
+14448	http://www.broward.org/library/locationshours/branches/pages/sl.aspx	Stirling Road Branch	2010.0	47.0
+14449	http://beckford.dadeschools.net/	Ethel F. Beckford/Richmond Elementary School	2002.0	14.0
+14450	http://www.duvalschools.org/cedarhills	Cedar Hills Elementary School	2007.0	15825.0
+14451	http://www.edline.net/pages/santaluces_high_school	Santaluces Community High	2008.0	31.0
+14452	http://www.edline.net/pages/DrWJ_Creel_Elementary_School/	Dr. W.J. Creel Elementary School	2011.0	52.0
+14454	http://www.edline.net/pages/coral_reef_elementary_school	Coral Reef Elementary School	2010.0	13.0
+14455	http://virtualschool.scps.k12.fl.us/	Seminole Academy Of Digital Learning	2010.0	32.0
+14456	http://schools.polk-fl.net/mhs/	Mulberry Senior High School	2008.0	15.0
+14457	http://www.ochwilla.org/	Ochwilla Elementary School	1998.0	0.0
+14458	http://parkwaymiddle.dadeschools.net/	Parkway Middle Community School	2004.0	10.0
+14459	http://www.templeterrace.com/	Temple Terrace	1998.0	435.0
+14460	http://www.cityofbelleairbeach.com/	Belleair Beach	2001.0	110.0
+14461	http://www.duvalschools.org/ahe	Arlington Heights Elementary School	2008.0	15789.0
+14462	http://www.edline.net/pages/coral_sunset_elementary	Coral Sunset Elementary School	2010.0	15.0
+14463	http://kendale.dadeschools.net/	Kendale Elementary School	2003.0	58.0
+14464	http://alcc.leeschools.net/	Alternative Learning Center Central	2008.0	1.0
+14465	http://www.siatech.org/schools/florida.php	School For Integrated Academic (north Campus)	2006.0	30.0
+14466	https://www.ocps.net/cs/services/options/schoolchoice/Pages/default.aspx	Orange County Virtual Instruction Program	2010.0	8.0
+14468	http://www.edline.net/pages/acreage_pines_elementaryschool	Acreage Pines Elementary School	2011.0	10.0
+14470	http://myvolusiaschools.org/school/portorange/pages/default.aspx	Port Orange Elementary School	2013.0	26.0
+14471	http://www.dot.state.fl.us	Transportation	1996.0	472.0
+14472	http://www.fbfl.us/	Fernandina Beach	2007.0	889.0
+14473	http://mellon.putnamschools.org/	Mellon Elementary School	2005.0	33.0
+14474	http://flaglerschools.com/iflagler/	Iflagler-Virtual Franchise	2009.0	9.0
+14475	http://www.palmbeach.k12.fl.us/plumosaes/	Plumosa School Of The Arts	2005.0	1.0
+14476	http://www.ppines.com/	Pembroke Pines	1999.0	1365.0
+14477	http://cdwyche.dadeschools.net/	Charles David Wyche, Jr Elementary School	2003.0	14.0
+14480	http://westbocahighschool.net	West Boca Raton High School	2010.0	150.0
+14481	http://sumtercountyfl.gov/	Sumter County	2005.0	739.0
+14482	http://schools.polk-fl.net/pes/	Pinewood Elementary School	2010.0	10.0
+14483	http://acw.leeschools.net/	Alternative Learning Center West	2009.0	1.0
+14484	http://www.duvalschools.org/lavilla	Lavilla School Of The Arts	2008.0	16161.0
+14485	http://www.volunteerflorida.org/	Volunteer Florida	2001.0	284.0
+14486	http://davethomas.browardschools.com/	Dave Thomas East	2011.0	676.0
+14487	http://www.tampatraining.com/	Hillsborough Community College  Corporate Training Center	2001.0	64.0
+14488	http://southwestmiamiadultcenter.dadeschools.net	Southwest Miami Adult & Community Education Center	2008.0	5.0
+14489	http://www.anona-es.pinellas.k12.fl.us	Anona Elementary School	2004.0	9.0
+14490	http://schools.polk-fl.net/stephens/	James E. Stephens Elementary School	2009.0	2.0
+14491	http://www.brevardcounty.us/publiclibraries/branches/southmainlandmicco/home	South Mainland Public Library	2012.0	9.0
+14492	http://doralacademyes.org/	Doral Academy	0.0	1618.0
+14493	http://www.djj.state.fl.us/programs-facilities/residential-facilities	Okeechobee Youth Development Center	2012.0	90.0
+14494	http://www.edline.net/pages/jupiter_farms_elementaryschool	Jupiter Farms Elementary School	2010.0	77.0
+14495	http://www.sarasotacountyschools.net/schools/northporthigh/	North Port High School	2012.0	207.0
+14497	http://www.devereux.org/site/PageServer	Devereux Treatment Program	2002.0	331.0
+14498	http://www.clay.k12.fl.us/adult_community_education.htm	Clay County Center For Adult & Community Education	0.0	0.0
+14500	http://www.putnamedge.org/	Putnam Edge High School	2013.0	77.0
+14502	http://www.mybridges.org	Bridges Btc, Inc	2007.0	37.0
+14503	http://www.easternflorida.edu/index.cfm?mainframe=/know_bcc/campus_locations/titusville/&subnavframe=/know_bcc/campus_locations/titusville/sub_nav.cfm	Eastern Florida State College  Titusville Campus	0.0	2125.0
+14504	http://myvolusiaschools.org/school/edgewater/pages/default.aspx	Edgewater Public School	0.0	26.0
+14505	http://www.mysota.com	Gardens School Of Technology Arts Inc	2011.0	14.0
+14506	http://www.edline.net/pages/DeLaura_Middle_School	Delaura Middle School	2010.0	365.0
+14507	http://hubertosibley.dadeschools.net	Hubert O. Sibley K-8 Center	2006.0	20.0
+14508	http://www.clay.k12.fl.us/cge/	Coppergate Elementary School	0.0	28.0
+14509	http://schools.stlucie.k12.fl.us/sga/	Samuel S. Gaines Academy K-8	2011.0	42.0
+14511	http://myvolusiaschools.org/school/readpattillo/pages/default.aspx	Read-Pattillo Elementary School	0.0	17.0
+14514	http://copecenternorth.dadeschools.net/	Cope Center North	2002.0	8.0
+14516	http://myvolusiaschools.org/school/deltonalakes/pages/default.aspx	Deltona Lakes Elementary School	0.0	27.0
+14517	http://auburndale.dadeschools.net/	Auburndale Elementary School	2002.0	18.0
+14520	http://jsr.dadeschools.net/	Jane S. Roberts K-8 Center	2003.0	17.0
+14521	http://www.sjcpls.org/content/main-library	St. Johns County Public Library	2009.0	568.0
+14522	http://virtual.levyschools.org/home	Levy Virtual Franchise	2013.0	3.0
+14523	http://www.lakepark-fl.gov	Lake Park Public Library	2003.0	105.0
+14524	http://sib.dadeschools.net	Norman S. Edelcup/Sunny Isles Beach K-8	2008.0	1.0
+14525	http://www.edline.net/pages/Kennedy_Middle_School	John F. Kennedy Middle School	2010.0	283.0
+14526	http://www.agingwithdignity.org/	Aging with Dignity	1998.0	151.0
+14527	http://www.fscj.edu/campus-life/campuses-centers/kent-campus/	Florida State College at Jacksonville  Kent Campus	2014.0	6.0
+14528	http://cityofniceville.org/	Niceville	2004.0	49.0
+14529	http://www.lasr.us/	Learning Academy Of Santa Rosa	2007.0	12.0
+14530	http://seabreezehigh.org/	Seabreeze High School	2001.0	61.0
+14531	http://www.wppl.org	Winter Park Public Library	1998.0	115.0
+14532	http://vpsfl.org/Index.aspx?NID=269	Palm Springs Public Library	2013.0	545.0
+14534	http://www.fdle.state.fl.us/Content/home.aspx	Law Enforcement	2009.0	1453.0
+14537	http://www.jupiter.fl.us/	Jupiter	1998.0	1436.0
+14538	http://www.garrison-es.pinellas.k12.fl.us	Garrison-Jones Elementary School	2001.0	12140.0
+14539	http://schoolsites.schoolworld.com/schools/hialeah/	Hialeah-Miami Lakes Senior High	0.0	172.0
+14540	http://myvolusiaschools.org/school/newsmyrnabeach/pages/default.aspx	New Smyrna Beach Middle School	2013.0	28.0
+14541	http://www.pp-hs.pinellas.k12.fl.us	Pinellas Park High School	2004.0	2.0
+14542	http://lake.k12.fl.us/vel	The Villages Elementary Of Lady Lake School	2012.0	12588.0
+14543	http://www.gadsdengov.net/	Gadsden County	2002.0	586.0
+14544	http://dun.leeschools.net//	Paul Laurence Dunbar Middle School	2008.0	1.0
+14545	http://www.clay.k12.fl.us/lae/	Lake Asbury Elementary School	0.0	17.0
+14546	http://www.platoacademy.net/web/guest/palm-harbor	Plato Academy North K-8 Charter School	2010.0	11.0
+14547	http://www.edline.net/pages/palm_springs_c_m_s	Palm Springs Middle School	2010.0	14.0
+14549	http://jas.jcsb.org	Jackson Alternative School	2011.0	11.0
+14550	http://www.famudrs.org	Florida A & M University Lab School County Superintendent's Office	2009.0	59.0
+14551	http://www.dos.state.fl.us	State	1997.0	966.0
+14556	http://www.clay.k12.fl.us/ceb/	Charles E. Bennett Elementary School	0.0	13.0
+14557	http://plc.dadeschools.net	Primary Learning Center	2011.0	10.0
+14558	http://www.martinschools.org/	Martin County Superintendent's Office	2010.0	56.0
+14559	http://labelleelementaryschool.weebly.com/	Labelle Elementary School	0.0	10.0
+14560	http://www.lssc.edu/maps/pages/southlake.aspx	Lake-Sumter State College  South Lake Campus	0.0	7.0
+14561	http://www.woodlawn-es.pinellas.k12.fl.us	Woodlawn Elementary School	2004.0	12646.0
+14562	http://www.floridahealth.gov/chdStLucie/index.htm	St. Lucie County Health Department	2014.0	12.0
+14563	http://www.co.walton.fl.us/	Walton County	2000.0	1063.0
+14565	http://schools.stlucie.k12.fl.us/npk/	Northport K-8 School	2012.0	44.0
+14566	http://miamispringsad.dadeschools.net/	Miami Springs Senior High Adult	2002.0	13.0
+14568	http://www.dixie.k12.fl.us	Dixie County Superintendent's Office	2003.0	29.0
+14570	http://schools.stlucie.k12.fl.us/mar/	Mariposa Elementary School	2012.0	46.0
+14571	http://www.spacecoast.brevard.k12.fl.us	Space Coast Junior/Senior High School	2005.0	139.0
+14574	http://www.edline.net/pages/hcsb_chs	Central High School	2010.0	34.0
+14575	http://www.edline.net/pages/panther_run_elementary_school	Panther Run Elementary School	2010.0	13.0
+14576	http://www.keycolonybeach.net/	Key Colony Beach	2000.0	49.0
+14577	http://www.kkahs.org	Kings Kids Academy Of Health Sciences	2012.0	2.0
+14578	http://www.pascocountyfl.net/	Pasco County	2001.0	2359.0
+14579	http://www.marcoislandacademy.com	Marco Island Academy	0.0	566.0
+14580	http://www.edline.net/pages/Audubon_Elementary_School	Audubon Elementary School	2010.0	367.0
+14581	http://schools.polk-fl.net/churchwell/	R. Clem Churchwell Elementary School	2008.0	12.0
+14583	http://schools.polk-fl.net/shms/	Sleepy Hill Middle School	2009.0	11.0
+14584	http://mybradford.us/bms/	Bradford Middle School	2007.0	0.0
+14586	http://www.materacademyis.com/	Mater Academy Middle School Of International Studies	2010.0	764.0
+14588	http://www.edline.net/pages/Challenger7/	Challenger 7 Elementary School	2010.0	83.0
+14590	http://myvolusiaschools.org/school/ormondbeach/pages/default.aspx	Ormond Beach Elementary School	0.0	24.0
+14591	https://www.santarosa.k12.fl.us/	Santa Rosa Online Virtual Instruction Program	1997.0	265.0
+14592	http://www.duvalschools.org/rvdaniels	R. V. Daniels Elementary School	2008.0	15732.0
+14593	http://www.choicesinlearning.org/	Choices In Learning Charter	0.0	415.0
+14594	http://bronsonmiddlehigh.levyschools.org/r/home	Bronson Middle/High School	2013.0	69.0
+14595	http://www.fscj.edu/campus-life/campuses-centers/downtown-campus/	Florida State College at Jacksonville  Downtown Campus	2013.0	6.0
+14596	http://alternativesunlimited.com/	Drop Back In Academy Of Duval County	2001.0	0.0
+14597	http://www.edline.net/pages/conniston_middle_school	Conniston Middle School	2010.0	28.0
+14598	http://www.curlew-es.pinellas.k12.fl.us	Curlew Creek Elementary School	2004.0	5.0
+14599	http://www.edline.net/pages/Astronaut_High_School/	Astronaut High School	2010.0	168.0
+14600	http://www.pba.edu/	Palm Beach Atlantic University	2002.0	2282.0
+14602	http://www.sarasotacountyschools.net/schools/phillippi/	Phillippi Shores Elementary School	2010.0	166.0
+14603	http://www.mywinterhaven.com/index.htm	Winter Haven	2006.0	97.0
+14605	http://schools.stlucie.k12.fl.us/phs/	Port St. Lucie High School	2011.0	61.0
+14606	http://www.melrose-es.pinellas.k12.fl.us	Melrose Elementary School	2000.0	8.0
+14607	http://www.cityofsafetyharbor.com/	Safety Harbor	1999.0	632.0
+14608	http://www.edline.net/pages/yearlingmiddle	Yearling Middle School	2013.0	12.0
+14609	http://www.biscayneschool.com/	Biscayne Elementary School	2013.0	31.0
+14610	http://macarthursouth.dadeschools.net/	Miami Macarthur South	2003.0	34.0
+14611	http://www.wheschool.com/	West Homestead Elementary School	2013.0	825.0
+14612	http://schools.stlucie.k12.fl.us/fpc/	Fort Pierce Central High School	2011.0	40.0
+14613	http://www.edline.net/pages/crestwood_ms	Crestwood Community Middle	2010.0	10.0
+14614	http://www.spcollege.edu/downtown/	St. Petersburg College  SPC Downtown	2003.0	29.0
+14615	http://myvolusiaschools.org/school/ormondbeachmiddle/pages/default.aspx	Ormond Beach Middle School	0.0	20.0
+14616	http://hs.robertmorganeducenter.org/index.jsp	Robert Morgan Educational Center	0.0	475.0
+14617	http://ischs.net/	International Studies Charter High School	0.0	1081.0
+14618	http://www.duvalschools.org/wjes	West Jacksonville Elementary School	2009.0	15904.0
+14619	http://www.ci.tarpon-springs.fl.us/	Tarpon Springs	1997.0	59.0
+14620	http://www.edline.net/pages/evergladeselem	Everglades Elementary School	2013.0	14.0
+14621	http://www.brevardcounty.us/publiclibraries/branches/portstjohn/home	Port St. John Public Library	2012.0	11.0
+14625	http://schools.stlucie.k12.fl.us/sre/	Savanna Ridge Elementary School	2012.0	16.0
+14626	http://www.sarasotacountyschools.net/schools/suncoastpolytechnical/	Suncoast Polytechnical High School	2010.0	160.0
+14627	http://www.myflorida.com/cio/	Chief Information Officers Association	2006.0	48.0
+14628	http://ludlam.dadeschools.net/	Ludlam Elementary School	2003.0	30.0
+14630	http://cym.leeschools.net/	Cypress Lake Middle School	2008.0	1.0
+14631	http://www.columbia.k12.fl.us/fortwhiteelem/index.html	Fort White Elementary School	2010.0	12.0
+14632	http://lstevens.dadeschools.net	Lake Stevens Elementary School	2003.0	14.0
+14633	http://www.seminolestate.edu/heathrow/	Seminole State College of Florida  Heathrow Campus	2009.0	18.0
+14634	http://ncfrpc.org/	North Central Florida	1998.0	38.0
+14635	http://bjh.dadeschools.net/	Barbara Hawkins Elementary School	2004.0	14.0
+14636	http://www.edline.net/pages/libertyparkes	Liberty Park Elementary School	2012.0	16.0
+14638	http://www.citynmb.com/	North Miami Beach	2001.0	1714.0
+14639	http://pie.leeschools.net/	Pine Island Elementary School	2008.0	1.0
+14640	http://www.duvalschools.org/lakeshore	Lake Shore Middle School	2008.0	15742.0
+14641	http://www.duvalschools.org/johneford	John E. Ford K-8 School	2008.0	15788.0
+14644	http://www.duvalschools.org/matthewgilbert	Matthew W. Gilbert Middle School	2009.0	15798.0
+14645	http://it.pinellas.k12.fl.us/schools/dropout-prevent/pmi.html	Ami Kids Pinellas	2005.0	10.0
+14646	http://hammocks.dadeschools.net/	Hammocks Middle School	2001.0	737.0
+14647	http://www.edline.net/pages/Discovery_Elementary_School	Discovery Elementary School	2010.0	318.0
+14648	http://www.polk-fl.net/clms	Crystal Lake Middle School	2007.0	38.0
+14649	http://villagegreen.dadeschools.net/	Village Green Elementary School	2003.0	16.0
+14650	http://www.bayvista-es.pinellas.k12.fl.us	Bay Vista Fundamental Elementary School	2004.0	12649.0
+14651	http://www.edline.net/pages/polo_park_middle_school	Polo Park Middle School	2010.0	46.0
+14652	http://www.edline.net/pages/western_pines_middle_school	Western Pines Community Middle	2008.0	5.0
+14653	http://ace.dadeschools.net	Academy For Community Education (ace)	2002.0	7.0
+14654	http://www.edline.net/pages/village_academy	Village Academy On The Art & Sara Jo Kobacker Campus	2010.0	13.0
+14655	http://coralparkelementary.dadeschools.net/	Coral Park Elementary School	2003.0	10.0
+14656	http://www.shoreacres-es.pinellas.k12.fl.us	Shore Acres Elementary School	2000.0	12653.0
+14657	http://www.hamiltoncountyflorida.com/	Hamilton County	2003.0	43.0
+14658	http://www.edline.net/pages/lantana_elementary_school/	Lantana Elementary School	2008.0	12.0
+14659	http://www.clay.k12.fl.us/wec/	W E Cherry Elementary School	0.0	37.0
+14660	http://www.clay.k12.fl.us/ols/	Oakleaf Junior High	0.0	16.0
+14661	http://hendry-schools.org/education/school/school.php?sectionid=14&sc_id=1171294169	Clewiston Youth Developmental Academy	2004.0	2.0
+14662	http://www.charlottecountyfl.com/library/	Charlotte-Glades Library System	0.0	0.0
+14663	http://www-pes.stjohns.k12.fl.us/	Palencia Elementary School	2012.0	91.0
+14664	http://www.co.pinellas.fl.us/bcc/	Pinellas County	1998.0	8.0
+14665	http://www.dixie-hs.pinellas.k12.fl.us	Dixie M. Hollins High School	2002.0	12435.0
+14666	http://www.sarasotacountyschools.net/schools/englewood/	Englewood Elementary School	2010.0	53.0
+14667	http://hmladult.dadeschools.net/	Hialeah-Miami Lakes Senior Adult	2002.0	241.0
+14668	http://dcps.duvalschools.org/anderson	Douglas Anderson School Of The Arts	2013.0	16249.0
+14670	http://earlingtonheightselem.dadeschools.net/	Earlington Heights Elementary School	2003.0	1.0
+14672	http://www.hendry-schools.org/education/district/district.php?sectionid=1697	County Wide Exceptional Student Education	2007.0	2.0
+14674	http://www.pathwaysacademy.net	Pathways Academy High School	2007.0	0.0
+14677	http://www.marioncountyfl.org/	Marion County	1998.0	23975.0
+14678	http://www.co.jefferson.fl.us	Jefferson County	1996.0	159.0
+14679	http://www-ope.stjohns.k12.fl.us/	Ocean Palms Elementary School	1998.0	33.0
+14680	http://www.edline.net/pages/co_taylor_kirklane_es	Clifford O Taylor/Kirklane Elementary	2010.0	15.0
+14681	http://emmajewelcharter.net	Emma Jewel Charter Academy	2013.0	34.0
+14682	http://www.hunsinger.pinellas.k12.fl.us	Calvin A. Hunsinger School	2004.0	5.0
+14683	http://schools.polk-fl.net/laurellions/	Laurel Elementary School	2008.0	15.0
+14684	http://www.lake.k12.fl.us/site/default.aspx?PageID=1	Lake County Superintendent's Office	2012.0	38.0
+14686	http://ibh.leeschools.net/	Ida S. Baker High School	2008.0	1.0
+14687	http://www.edline.net/pages/diamond_view_elementary_school	Diamond View Elementary School	2010.0	15.0
+14688	http://www.pasadena-es.pinellas.k12.fl.us	Pasadena Fundamental Elementary School	2003.0	12669.0
+14689	http://www.polk-fl.net/purcell	Purcell Elementary School	2003.0	12.0
+14690	http://www.edison.edu/lee/	Edison State College  Lee County Campus	2005.0	13.0
+14692	http://shadowlawn.dadeschools.net/	Shadowlawn Elementary School	2003.0	3.0
+14693	http://keysschools.schoolfusion.us/	Monroe County Superintendent's Office	2011.0	2835.0
+14694	http://www.okaloosaschools.com/schools/okaloosa-online	Okaloosa Online Non Franchised	2013.0	59.0
+14695	http://www.edline.net/pages/woodlands_middle_school	Woodlands Middle School	2010.0	20.0
+14696	http://www.jaxpubliclibrary.org	Jacksonville Public Library	2007.0	319.0
+14697	http://westsidecharter.org/	Duval Charter School At Westside	2001.0	10.0
+14698	http://www.cfcc.cc.fl.us/	Central Florida Community College	1996.0	6.0
+14700	http://mgardens.dadeschools.net/	Miami Gardens Elementary School	2003.0	0.0
+14702	http://hendry-schools.org/education/school/school.php?sectionid=4&sc_id=1171294169	Clewiston High School	2005.0	5.0
+14704	http://www.alachuacounty.us/Pages/AlachuaCounty.aspx	Alachua County	2010.0	3494.0
+14705	http://bgec.dadeschools.net/	Bob Graham Education Center	2002.0	23.0
+14706	http://palmspringsmiddleschool.net/	Palm Springs Middle School	2006.0	166.0
+14707	http://meadowlane.dadeschools.net/	Meadowlane Elementary School	2003.0	14.0
+14708	http://www.southflorida.edu/campuses/highlands/	South Florida State College  Highlands Campus	2010.0	2.0
+14709	http://www.bayside-hs.pinellas.k12.fl.us	Bayside High School	2005.0	12404.0
+14710	http://www.broward.org/library/locationshours/branches/pages/sr.aspx	South Regional-Bc Library	2010.0	47.0
+14711	http://www.highlands.k12.fl.us/~lph/	Lake Placid High School	2001.0	20.0
+14714	http://alp.leeschools.net//	Allen Park Elementary School	2009.0	1.0
+14715	http://www.thegulfcoastacademy.com	Gulf Coast Academy	2013.0	0.0
+14716	http://www.edline.net/pages/hcsb_bes	Brooksville Elementary School	2010.0	153.0
+14717	http://www.taylortech.org/	Taylor Co Area Vocational-Technical/Adult	2001.0	15.0
+14718	http://www.leg.state.fl.us/Welcome/index.cfm?CFID=328545158&CFTOKEN=68192372	Legislature	0.0	273.0
+14719	http://www.readokaloosa.org	Okaloosa County Public Library Cooperative	2003.0	6.0
+14720	http://cnl.leeschools.net//	Colonial Elementary School	2008.0	1.0
+14722	http://www.columbia.k12.fl.us/niblack/index.html	Niblack Elementary School	2004.0	15.0
+14723	http://bpes.putnamschools.org/	Browning-Pearce Elementary School	2005.0	24.0
+14725	http://www.clay.k12.fl.us/gpe/	Grove Park Elementary School	0.0	21.0
+14726	http://www.uflib.ufl.edu/fefdl/counties/calhoun.html	Calhoun County	2001.0	216.0
+14727	http://www.pplc.us	Pinellas Public Library Cooperative	2002.0	49.0
+14728	http://www.brevardcounty.us/publiclibraries/branches/melbourne/home	Melbourne Public Library	2012.0	10.0
+14729	http://www.clay.k12.fl.us/tes/	Tynes Elementary School	0.0	22.0
+14731	http://www.edline.net/pages/Bayside_High_School/	Bayside High School	2010.0	132.0
+14734	http://dantefascellelementary.org/	Dante B. Fascell Elementary School	0.0	64.0
+14735	http://scf.edu/aboutscf/locations/scfvenice/default.asp	State College of Florida, Manatee-Sarasota  Venice Campus	2010.0	3.0
+14736	http://www.edline.net/pages/galaxy_es	Galaxy Elementary School	2012.0	9.0
+14737	http://www.wtionline.cc/	Withlacoochee Technical Institute	2001.0	70.0
+14738	http://schools.stlucie.k12.fl.us/lwe/	Lawnwood Elementary School	2013.0	21.0
+14739	http://www.highland-es.pinellas.k12.fl.us	Highland Lakes Elementary School	2001.0	12556.0
+14740	http://www.tradition.fau.edu	Fau/Slcsd Palm Pointe Educational Research School @ Tradition	2007.0	96.0
+14741	http://www.broward.edu/Pages/home.aspx	Broward College	2012.0	843.0
+14742	http://www-rbh.stjohns.k12.fl.us/	R. B. Hunt Elementary School	1998.0	61.0
+14743	http://beckham.dadeschools.net/	Ethel Koger Beckham Elementary	2002.0	35.0
+14744	http://www.orangegrove-es.pinellas.k12.fl.us	Orange Grove Elementary School	2004.0	3.0
+14745	http://www.miamishoresvillage.com/	Miami Shores	2000.0	1238.0
+14746	http://www.duvalschools.org/fhp	Frank H. Peterson Academies	2008.0	15796.0
+14747	http://caribbean.dadeschools.net/	Caribbean Elementary School	2003.0	1.0
+14748	http://www.sjcpls.org/content/ponte-vedra-beach-branch	Ponte Vedra Beach Branch Library	2008.0	501.0
+14749	http://www.polk.edu/fallfest/campus-maps/	Polk State College  Lakeland	2013.0	0.0
+14750	http://www.spschoolofexcellence.com/Home.html	St. Paul School Of Excellence (spse)	2012.0	59.0
+14751	http://www-lpa.stjohns.k12.fl.us/	Liberty Pines Academy	2008.0	63.0
+14752	http://www.acclaimcharter.com/duval/	Acclaim Academy Charter School Duval Center	0.0	0.0
+14754	http://www.burnsscitech.org/	Burns Science And Technology Charter School	2010.0	24.0
+14755	http://www.palmbeachstate.edu/locations/palm-beach-gardens/default.aspx	Palm Beach State College  Palm Beach Gardens	2012.0	8.0
+14756	http://hendry-schools.org/education/school/school.php?sectionid=9&sc_id=1171294728	Country Oaks Elementary School	2006.0	3.0
+14757	http://www.duvalschools.org/cle	Chimney Lakes Elementary School	2007.0	15812.0
+14758	http://www.orchd.com/	Orange County Health Department	2000.0	28.0
+14759	http://www.lakemaryfl.com/	Lake Mary	2000.0	2602.0
+14760	http://com.leeschools.net/	Caloosa Middle School	2008.0	1.0
+14763	http://schools.stlucie.k12.fl.us/swc/	St. Lucie West Centennial High	2012.0	36.0
+14764	http://scf.edu/aboutscf/locations/scfbradenton/default.asp	State College of Florida, Manatee-Sarasota  Bradenton Campus	2010.0	3.0
+14765	http://www.mildred-es.pinellas.k12.fl.us	Mildred Helms Elementary School	2002.0	2.0
+14767	http://www.duvalschools.org/dinsmore	Dinsmore Elementary School	2008.0	15780.0
+14768	http://www.mymanatee.org/home.html	Manatee County	2010.0	1774.0
+14769	http://www.floridahealth.gov/chdSeminole/	Seminole County Health Department	2014.0	12.0
+14773	http://www.southern-oak.pinellas.k12.fl.us/	Southern Oak Elementary School	2008.0	12656.0
+14774	http://schools.polk-fl.net/inwood/	Inwood Elementary School	2010.0	11.0
+14776	http://newkpe.dadeschools.net	Kinloch Park Elementary School	2002.0	14.0
+14777	http://www.pacecenter.org/centers/lee	Pace School For Girls	2013.0	778.0
+14778	http://www.ormondbeach.org/	Ormond Beach	1999.0	724.0
+14779	https://www.port-orange.org/	Port Orange	2000.0	453.0
+14780	http://lake.k12.fl.us/gel	Groveland Elementary School	2012.0	12419.0
+14782	http://www.hcpl.lib.fl.us	Hernando County Public Library System	2000.0	169.0
+14783	http://www.duvalschools.org/sandalwood	Sandalwood High School	2008.0	15947.0
+14784	http://www.sarasotacountyschools.net/schools/tatumridge/	Tatum Ridge Elementary School	2011.0	120.0
+14785	http://www.edline.net/pages/glades_central_high_school	Glades Central High School	2010.0	13.0
+14786	http://www.upaflorida.org	University Preparatory Academy Charter School	2013.0	808.0
+14790	http://www.sandylane-es.pinellas.k12.fl.us	Sandy Lane Elementary School	2002.0	2.0
+14792	http://www.hccfl.edu/dm.aspx	Hillsborough Community College  Dale Mabry Campus	2008.0	3289.0
+14793	http://lwcharterschools.com/hillcrest%e2%80%99s-simpson-named-teacher-of-year	Hillcrest Elementary School	0.0	2.0
+14794	http://www.edline.net/pages/jupiter_elementary_school	Jupiter Elementary School	2011.0	19.0
+14799	http://lake.k12.fl.us/sce	Spring Creek Charter School	2012.0	12517.0
+14800	http://www-bths.stjohns.k12.fl.us/	Bartram Trail High School	2001.0	273.0
+14801	http://www.platoacademy.net/web/guest/largo	Plato Academy South K-8 Charter School	2010.0	11.0
+14802	http://myvolusiaschools.org/school/cypresscreek/pages/default.aspx	Cypress Creek Elementary School	2013.0	25.0
+14803	http://schools.stlucie.k12.fl.us/flo//	Floresta Elementary School	2012.0	32.0
+14804	http://www.vmacademy.org	Visible Men Academy	2011.0	29.0
+14805	http://www.kissimmee.org/	Kissimmee	0.0	1971.0
+14806	http://www.duvalschools.org/landmark	Landmark Middle School	2008.0	15792.0
+14807	http://www.cityofdestin.com/	Destin	2000.0	383.0
+14808	http://www.phuhs.org/	Palm Harbor University High	2003.0	2.0
+14811	http://www.ninaharris.pinellas.k12.fl.us	Nina Harris Ese Center	2004.0	25.0
+14812	http://www.jcsb.org	Jackson County Superintendent's Office	2003.0	1005.0
+14814	http://www.miamispringshawks.org/	Miami Springs Senior High School	0.0	380.0
+14815	http://lcevans.dadeschools.net	Lillie C. Evans K-8 Center	2003.0	22.0
+14816	http://www.citrus.k12.fl.us/crp/	Crystal River Primary School	2006.0	15.0
+14817	http://nges.dadeschools.net/	North Glade Elementary School	2003.0	9.0
+14819	http://www.fccj.org/	Florida State College at Jacksonville	0.0	323.0
+14820	http://www.calusaschool.org/	Calusa Elementary School	0.0	607.0
+14821	http://www-cshs.stjohns.k12.fl.us/	Creekside High School	2008.0	185.0
+14822	http://www.nwfwmd.state.fl.us/	Northwest Florida	2005.0	340.0
+14826	http://scorpnet.brevard.k12.fl.us	Satellite Senior High School	1996.0	119.0
+14828	http://www.fscj.edu/campus-life/campuses-centers/cecil-center/aviation-programs/	Florida State College at Jacksonville  Aviation Center	2014.0	2.0
+14829	http://www.wakullahealthdept.com/	Wakulla County Health Department	2013.0	53.0
+14830	http://groveland-fl.gov/	Groveland	2006.0	396.0
+14831	http://sarasotacountyschools.net/schools/atwater/	Atwater Elementary	2010.0	190.0
+14832	http://palatka-fl.gov/	Palatka	2010.0	280.0
+14833	http://www.washingtonfl.com/	Washington County	2002.0	29.0
+14834	http://schools.polk-fl.net/lmce/	Lake Marion Creek Elementary School	2009.0	13.0
+14836	http://www.mygulfport.us/gpl/index.htm	Gulfport Public Library	2009.0	2.0
+14837	http://www.clay.k12.fl.us/sle/	Shadowlawn Elementary School	0.0	14.0
+14838	http://schools.polk-fl.net/eaglelake/	Eagle Lake Elementary School	2010.0	10.0
+14839	http://www.duvalschools.org/jeffdavis	Jefferson Davis Middle School	2007.0	15747.0
+14840	http://www.baymeadowscharter.org	Duval Charter At Baymeadows	2011.0	11.0
+14842	http://mles.dadeschools.net/	Miami Lakes K-8 Center	2002.0	27.0
+14844	http://www.edline.net/pages/indian_pines_elementary	Indian Pines Elementary School	2011.0	13.0
+14845	http://schools.stlucie.k12.fl.us/dmm/	Dan McCarty School	2012.0	82.0
+14846	http://www.dadecityfl.com/	Dade City	2001.0	21.0
+14847	http://www.coj.net/departments/tax-collector.aspx	Duval County	2011.0	1792.0
+14848	http://lake.k12.fl.us/ums	Umatilla Middle School	2012.0	12977.0
+14849	http://www.stjohns.k12.fl.us/	St. Johns County Superintendent's Office	2000.0	97.0
+14852	http://www-fcs.stjohns.k12.fl.us/	Fruit Cove Middle School	2002.0	44.0
+14853	http://long.putnamschools.org/	James A. Long Elementary School	2005.0	52.0
+14854	http://www.ywpafl.org/	Young Womens Preparatory Academy	0.0	623.0
+14855	http://malone.jcsb.org	Malone High School	2011.0	11.0
+14856	http://che.hamiltonfl.com	Central Hamilton Elementary School	2013.0	485.0
+14857	http://phsc.edu/campuses/porter-campus-wiregrass-ranch	Pasco-Hernando State College  Porter Campus at Wiregrass Ranch	0.0	18.0
+14858	http://www.edline.net/pages/RLStevenson_Elementary/	Robert L. Stevenson Elementary	2010.0	185.0
+14860	http://www.edline.net/pages/palm_beach_gardens_es	Palm Beach Gardens Elementary School	2008.0	9.0
+14861	http://schools.polk-fl.net/polkcity/	Polk City Elementary School	2010.0	2.0
+14862	http://www.stlucieco.gov/	St. Lucie County	1997.0	2433.0
+14863	http://www.learningpathacademy.com	Learning Path Academy	2013.0	43.0
+14864	http://www.mckeelcentral.com/	McKeel Elementary Academy	2013.0	175.0
+14865	http://hibiscus.dadeschools.net/	Hibiscus Elementary School	2003.0	6.0
+14866	http://www.myfrs.com/	Retirement	2001.0	213.0
+14868	http://www.polk-county.net/	Polk County	1999.0	2.0
+14869	http://www.edline.net/pages/mims_elementary_school/	Mims Elementary School	2011.0	56.0
+14870	http://www.sixmilecharter.org	Six Mile Charter Academy	2005.0	12.0
+14871	http://coab.us/	Atlantic Beach	2004.0	367.0
+14872	http://phsc.edu/campuses/spring-hill-campus	Pasco-Hernando State College  Spring Hill Campus	0.0	18.0
+14873	http://whs.levyschools.org/r/home	Williston High School	2012.0	37.0
+14874	http://valenciacollege.edu/aboutus/locations/downtown_center.cfm	Valencia College  Downtown Center	2011.0	0.0
+14875	http://www.brevardcounty.us/publiclibraries/branches/suntreeviera/home	Suntree-Viera Public Library	2012.0	10.0
+14876	http://www.edline.net/pages/lighthouse_elementary_school	Lighthouse Elementary School	2010.0	31.0
+14877	http://www.edline.net/pages/lake_park_elementary_school	Lake Park Elementary School	2011.0	13.0
+14878	http://www.doah.state.fl.us/ALJ/	Administrative Hearings	0.0	2.0
+14879	http://www.athenianacademy.org/	Athenian Academy	2002.0	11.0
+14880	http://www.santarosa.fl.gov/libraries/	Santa Rosa County Library System	2006.0	4.0
+14881	http://www.palmbeachstate.edu/locations/belle-glade/default.aspx	Palm Beach State College  Belle Glade Campus	2012.0	8.0
+14882	http://www.chromeweblab.com/sharing/R8GSNEG163/r/32811026.video	Eastern Florida State College  Virtual Campus	0.0	1.0
+14883	http://redondoelem.dadeschools.net/	Redondo Elementary School	2003.0	14.0
+14884	http://myvolusiaschools.org/school/sweetwater/pages/default.aspx	Sweetwater Elementary School	0.0	22.0
+14885	http://wrthomas.dadeschools.net/	W. R. Thomas Middle School	2003.0	15.0
+14886	http://www.spcollege.edu/spchs/	St. Petersburg Collegiate High School	2004.0	17.0
+14887	http://www-dce.stjohns.k12.fl.us/	Durbin Creek Elementary School	2003.0	49.0
+14888	http://www.hcplc.org	Hillsborough County Public Library Cooperative	2000.0	213.0
+14890	http://www.upark.brevard.k12.fl.us	University Park Elementary School	2001.0	67.0
+14892	http://www.hcbcc.net/	Highlands County	2002.0	117.0
+14894	http://schools.polk-fl.net/bhgjrbulldogs/	Ben Hill Griffin Jr Elementary School	2010.0	15.0
+14895	http://www.browardlibrary.org	Broward County Libraries Division	2000.0	5.0
+14897	http://www.sarasotacountyschools.net/schools/bookerhigh/	Booker High School	2011.0	201.0
+14898	http://lake.k12.fl.us/lhs	Leesburg High School	2012.0	12963.0
+14899	http://www.vieracharterschool.com	Viera Charter School	2013.0	25.0
+14901	http://schools.polk-fl.net/chainoflakes/	Chain Of Lakes Elementary School	2009.0	6.0
+14902	http://myvolusiaschools.org/school/silversandsmiddle/pages/default.aspx	Silver Sands Middle School	2013.0	26.0
+14903	http://www.gulfcoastmiddle.org	Gulf Coast Middle School	2013.0	28.0
+14904	http://www.nprlibrary.org	New Port Richey Public Library	2006.0	14.0
+14905	http://bright.dadeschools.net/	James H. Bright Elementary/J.W. Johnson Elementary	2003.0	8.0
+14906	http://www.edline.net/pages/middle_school_of_the_arts	Bak Middle School Of The Arts	2008.0	22.0
+14907	http://www.duvalschools.org/wres	West Riverside Elementary School	2011.0	15904.0
+14908	http://bge.dadeschools.net/	Biscayne Gardens Elementary	2002.0	26.0
+14909	http://www.leg.state.fl.us/Welcome/index.cfm?CFID=328545417&CFTOKEN=10559342	Florida Legislature	0.0	1.0
+14910	http://www.edline.net/pages/new_horizons_elementary_school	New Horizons Elementary School	2011.0	16.0
+14911	http://www.largo.com/department/?fdd=11-0	Largo Public Library	2007.0	259.0
+14912	http://schools.polk-fl.net/floral/	Floral Avenue Elementary School	2010.0	11.0
+14913	http://www.freshfromflorida.com/	Agriculture and Consumer Services	2009.0	3983.0
+14914	http://www.mylakelibrary.org	Lake County Library System	2009.0	573.0
+14915	http://www.nova.edu/	Nova Southeastern University	1997.0	1998.0
+14916	http://www.ucpcfl.org	Ucp Transitional Learning Academy High Charter	2007.0	86.0
+14917	http://www.ph-ms.pinellas.k12.fl.us/	Palm Harbor Middle School	2005.0	2.0
+14919	http://drrbi.dadeschools.net/	Dr. Robert B. Ingram/Opa-Locka Elementary School	2011.0	7.0
+14920	http://vhs.brevardschools.org/default.aspx	Viera High School	2007.0	2.0
+14922	http://www.duvalschools.org/lonestar	Lone Star Elementary School	2008.0	15764.0
+14925	http://www.edline.net/pages/Andersen_ES/	Hans Christian Andersen Elementary	2010.0	43.0
+14926	http://schools.polk-fl.net/carltonpalmore/	Carlton Palmore Elementary School	2009.0	15.0
+14929	http://www.sarasotacountyschools.net/schools/fruitville/	Fruitville Elementary School	2011.0	134.0
+14930	http://www.irsc.edu/aboutirsc/campuslocations/dixonhendrycampus/dixonhendrycampus.aspx?id=513	Indian River State College  Dixon Hendry Campus	2010.0	3.0
+14932	http://lake.k12.fl.us/ehe	Eustis Heights Elementary School	2012.0	12429.0
+14933	http://daytonastate.edu/maps/atc_map.html	Daytona State College  Advanced Technology Center	2009.0	13.0
+14935	http://www.pinellashealth.com/	Pinellas County Health Department	2002.0	95.0
+14936	http://www.jacksoncountyfl.com/	Jackson County	2003.0	365.0
+14937	http://www.edline.net/pages/hcsb_des	Deltona Elementary School	2010.0	38.0
+14938	http://www.thearpc.com/	Apalachee	2003.0	21.0
+14939	http://www.co.palm-beach.fl.us/	Palm Beach County	1997.0	5871.0
+14940	http://www.citrus.k12.fl.us/chs/	Citrus High School	2001.0	76.0
+14941	http://it.pinellas.k12.fl.us/schools/dropout-prevent/britthouse.html	Britt Halfway House	2005.0	10.0
+14942	http://www.spcollege.edu/clw/	St. Petersburg College  Clearwater Campus	2003.0	14.0
+14943	http://nwsa.mdc.edu/	New World School Of The Arts	2007.0	711.0
+14944	http://www.westonchamber.com/	Weston	1998.0	24.0
+14946	https://www.santarosa.k12.fl.us/stuserv/	Berryhill Administrative Complex	1999.0	22.0
+14947	http://www.columbia.k12.fl.us/summers/index.html	Summers Elementary School	2004.0	29.0
+14948	http://ave.leeschools.net/	The Alva School	2008.0	10.0
+14949	http://www.edline.net/pages/loxahatchee_groves_elementary	Loxahatchee Groves Elementary	2011.0	9.0
+14950	http://www.edison.edu/hendryglades/	Edison State College  Hendry/Glades Center	2006.0	12.0
+14951	http://www.polk.edu/	Polk State College	2002.0	1211.0
+14952	http://www.naplesgov.com/	Naples	2000.0	1660.0
+14953	http://kenwood.dadeschools.net/	Kenwood K-8 Center	2002.0	16.0
+14954	http://www.co.bay.fl.us/	Bay County	2000.0	190.0
+14955	http://myvolusiaschools.org/school/deltonahigh/pages/default.aspx	Deltona High School	2013.0	22.0
+14956	http://www.edline.net/pages/Westside_ES/	Westside Elementary School	2010.0	114.0
+14959	http://www.belmontacademy.com	Belmont Academy	2008.0	53.0
+14960	http://www.clay.k12.fl.us/fih/	Fleming Island High School	0.0	21.0
+14961	http://www.edline.net/pages/sandpiper_shores_es	Sandpiper Shores Elementary School	2008.0	17.0
+14962	http://www.edline.net/pages/sunrise_park_elementary_school	Sunrise Park Elementary School	2010.0	21.0
+14965	http://carolcitye.dadeschools.net/	Carol City Elementary School	2002.0	1.0
+14966	http://goulds.dadeschools.net	Goulds Elementary School	2008.0	4.0
+14967	http://ympacademy.org/	Young Men's Preparatory Academy	0.0	298.0
+14968	http://www.pincen-es.pinellas.k12.fl.us	Pinellas Central Elementary School	2002.0	12720.0
+14969	http://wakulla.riversprings.schooldesk.net/	Riversprings Middle School	2013.0	131.0
+14970	http://www.ableschool.org	Academy For Business And Leadership Education	2007.0	48.0
+14971	http://www.edline.net/pages/freedom_shores_es	Freedom Shores Elementary School	2010.0	16.0
+14972	http://djj.leeschools.net/	Sw Fl Addiction Services-The Vince Smith Center	2008.0	11.0
+14973	http://www.edline.net/pages/whispering_pines_es	Whispering Pines Elementary School	2010.0	17.0
+14974	http://www.duvalschools.org/stockton	John Stockton Elementary School	2009.0	15858.0
+14977	http://schools.polk-fl.net/wahnetael/	Wahneta Elementary School	2010.0	16.0
+14978	http://ges.jcsb.org	Graceville Elementary School	2011.0	44.0
+14979	https://www.oasismiddleschool.net/	Oasis Charter Middle School	2012.0	182.0
+14980	http://lake.k12.fl.us/rel	Rimes Early Learning & Literacy Center	2012.0	12399.0
+14983	http://ammons.dadeschools.net/	Herbert A. Ammons Middle School	2001.0	17.0
+14985	http://www.irclibrary.org	Indian River County Library	2007.0	77.0
+14986	http://www.edline.net/pages/egret_lake_elementary_school	Egret Lake Elementary School	2011.0	16.0
+14988	http://www.oakgrove-ms.pinellas.k12.fl.us	Oak Grove Middle School	2002.0	12665.0
+14989	http://ssrc.myflorida.com/	Southwood Shared Resource Center	2008.0	40.0
+14990	http://www.lssc.edu/maps/pages/leesburg.aspx	Lake-Sumter State College  Leesburg Campus	0.0	7.0
+14992	http://www.gladesacademy.org	Glades Academy Elementary School Inc	2011.0	9.0
+14993	http://www.pride-enterprises.org	PRIDE(external link)	2005.0	104.0
+14995	http://www.valp.org/	Valparaiso	2001.0	56.0
+14997	http://reagandoral.dadeschools.net/	Ronald W. Reagan/Doral Senior High School	2007.0	42.0
+14998	http://schools.polk-fl.net/drms/	Dundee Ridge Middle School	2008.0	346.0
+14999	http://www.enterpriseflorida.com/	Enterprise Florida	2008.0	965.0
+15001	http://www.duvalschools.org/hull	S. A. Hull Elementary School	2009.0	15842.0
+15002	http://lake.k12.fl.us/fpe	Fruitland Park Elementary School	2012.0	12621.0
+15004	http://lighthousepointlibrary.com/LHP/	Doreen Gauthier Lighthouse Point Library	2012.0	29.0
+15005	http://www.campuscharterschool.com	Campus Charter School	2008.0	1.0
+15007	http://www.duvalschools.org/rpayne	Rufus E. Payne Elementary School	2008.0	15898.0
+15008	http://www.edline.net/pages/Imperial_Estate_ES/	Imperial Estates Elementary School	2010.0	80.0
+15009	http://www.blanton-es.pinellas.k12.fl.us	Blanton Elementary School	2003.0	12139.0
+15010	http://www.duvalschools.org/finegan	Joseph Finegan Elementary School	2008.0	15755.0
+15012	http://www.edline.net/pages/cholee_lakes_elementary_school	Cholee Lake Elementary School	2008.0	13.0
+15013	http://www.duvalschools.org/pineestates	Pine Estates Elementary School	2010.0	15783.0
+15014	http://www.dbshores.org/	Daytona Beach Shores	1998.0	134.0
+15015	http://www.stephens.pinellas.k12.fl.us	Paul B. Stephens Ese Center	2002.0	12668.0
+15016	http://taylorcountyhighscho.ipage.com/public_html/	Taylor County High School	2013.0	0.0
+15017	http://www.swfrpc.org/	Southwest Florida	1997.0	63.0
+15018	http://www.duvalschools.org/ar	Alden Road Excep. Student Center	2010.0	15815.0
+15020	http://www.duvalcharter.org	Duval Charter School At Arlington	2010.0	9.0
+15021	http://www.broward.edu/pinesweston/	Broward College  Weston Center	2007.0	2.0
+15022	http://hialeahadult.dadeschools.net/	Hialeah Senior High Adult Education Center	2003.0	9.0
+15023	http://www.duvalschools.org/cce	Chet's Creek Elementary School	2007.0	15820.0
+15024	http://www.mdc.edu/medical/	Miami Dade College  Medical Center Campus	2003.0	368.0
+15025	http://daytonastate.edu/maps/dbmap.html	Daytona State College  Daytona Beach Campus	2009.0	12.0
+15026	https://floridapolytechnic.org/	Florida Polytechnic University	2013.0	891.0
+15027	http://www.seminole-ms.pinellas.k12.fl.us	Seminole Middle School	2006.0	12688.0
+15028	http://www.bocalibrary.org	Boca Raton Public Library	2001.0	47.0
+15030	http://schools.polk-fl.net/kathleenmiddle/	Kathleen Middle School	2009.0	12.0
+15031	http://read.nassau.lib.fl.us	Nassau County Public Library System	2008.0	130.0
+15033	http://cme.dadeschools.net/	Christina M. Eve Elementary School	2002.0	15.0
+15034	http://schools.stlucie.k12.fl.us/fpw/	Fort Pierce Westwood High School	2012.0	50.0
+15035	http://www.clay.k12.fl.us/wes/	J.L. Wilkinson Elementary School	0.0	13.0
+15036	http://riversideelementary.dadeschools.net	Riverside Elementary Community School	2006.0	9.0
+15037	http://www.citrus.k12.fl.us/csm/	Citrus Springs Middle School	2002.0	26.0
+15038	http://www.ozona-es.pinellas.k12.fl.us	Ozona Elementary School	2006.0	2.0
+15039	http://www.flsouthern.edu/home.aspx	Florida Southern College	2013.0	757.0
+15040	http://lake.k12.fl.us/sbe	Sawgrass Bay Elementary School	2012.0	12423.0
+15041	http://shs.jcsb.org	Sneads High School	2011.0	20.0
+15042	http://wpb.org/	West Palm Beach	1998.0	1779.0
+15043	http://www.hardeecounty.net/	Hardee County	2000.0	104.0
+15046	http://www.belleairbluffs.org/	Belleair Bluffs	2001.0	2359.0
+15048	http://www.sfcollege.edu/centers/watson/	Santa Fe College  Watson Center	2011.0	7.0
+15050	http://btw.dadeschools.net/	Booker T. Washington Senior High	2004.0	0.0
+15053	http://sle.dadeschools.net	Spanish Lake Elementary School	2008.0	9.0
+15054	http://www.martin.fl.us/portal/page?_pageid=353,1&_dad=portal&_schema=portal	Martin County Library System	0.0	21414.0
+15056	http://www.broward.org/library/locationshours/branches/pages/dc.aspx	Davie-Cooper City Branch	2010.0	47.0
+15058	http://www.doralacademyprep.org/	Doral Performing Arts & Entertainment Academy	0.0	3510.0
+15059	http://www.edline.net/pages/allamanda_elementary_school	Allamanda Elementary School	2011.0	19.0
+15060	http://www.hainescity.com/	Haines	2001.0	546.0
+15061	http://www.mdc.edu/north/	Miami Dade College  North Campus	2003.0	160.0
+15062	http://www.guardianadlitem.org/	Guardian Ad Litem	1998.0	254.0
+15064	http://lcms.dadeschools.net/	Lawton Chiles Middle School	2001.0	2.0
+15065	http://schools.polk-fl.net/westwood/	Westwood Middle School	2009.0	10.0
+15066	http://northmiamiadult.dadeschools.net	North Miami Senior Adult Education	2006.0	5.0
+15067	http://www.citrus.k12.fl.us/fre/	Forest Ridge Elementary School	2001.0	46.0
+15068	http://www.stu.edu/Default.aspx	St. Thomas University	2008.0	5120.0
+15069	http://myvolusiaschools.org/school/bluelake/pages/default.aspx	Blue Lake Elementary School	2013.0	37.0
+15070	http://www.pkyonge.ufl.edu/	P.K. Yonge Developmental Research School County Superintendent's Office	2010.0	525.0
+15071	http://www.somersetacademy-jacksonville.org	Somerset Eagle High School	2010.0	48.0
+15072	http://www.edline.net/pages/orchard_view_elementary_school	Orchard View Elementary School	2011.0	11.0
+15073	http://sunset.dadeschools.net/	Sunset Park Elementary School	2003.0	59.0
+15074	http://www.duvalschools.org/arlingtonelementary	Arlington Elementary School	2008.0	15799.0
+15075	http://www.lawallstarlions.com/	Lewis Anna Woodbury Elementary School	2009.0	13.0
+15076	http://www.edline.net/pages/wellington_landings_ms	Wellington Landings Middle	2010.0	8.0
+15077	http://myvolusiaschools.org/school/chisholm/pages/default.aspx	Chisholm Elementary School	0.0	26.0
+15078	http://www-ces.stjohns.k12.fl.us/	Crookshank Elementary School	1998.0	74.0
+15079	http://schools.stlucie.k12.fl.us/pkw//	Parkway Elementary School	2012.0	16.0
+15081	http://www.lsbc.net/	Lake Academy Leesburg	2001.0	10.0
+15082	http://lake.k12.fl.us/whm	Windy Hill Middle School	2012.0	12397.0
+15084	http://www.shalimarflorida.org/	Shalimar	2000.0	20.0
+15085	http://www.edline.net/pages/hcsb_jdfes	John D. Floyd K-8 School Of Environmental Science	2010.0	34.0
+15086	http://www.edline.net/pages/roosevelt_es	Roosevelt Elementary School	2011.0	74.0
+15087	https://www.cmecharter.net/	Christa McAuliffe Charter Elementary School	2012.0	103.0
+15090	http://www.hernandoschools.org	Hernando Virtual Instruction (course Offerings)	2008.0	1130.0
+15091	http://www.myfloridacfo.com/division/sfm/default.htm	Division of State Fire Marshal	2013.0	43.0
+15092	http://www.capecoralcharter.org	Cape Coral Charter School	2002.0	13.0
+15093	http://brownsville.dadeschools.net/	Brownsville Middle School	2004.0	8.0
+15094	http://www.barry.edu/	Barry University	1997.0	4373.0
+15095	http://www.enterprise.brevard.k12.fl.us	Enterprise Elementary School	1998.0	82.0
+15096	http://www.sjrstate.edu/campussac.html	St. Johns River State College  St. Augustine Campus	2011.0	409.0
+15097	http://www.eckerd.edu/	Eckerd College	1997.0	3418.0
+15098	http://www.cityofsouthmiami.net/	South Miami	2001.0	20.0
+15101	http://www.palmbeachschools.org/aec/	Adult Education Center Of Palm Beach	2012.0	26.0
+15102	http://hendry-schools.org/education/school/school.php?sectionid=6&sc_id=1171294169	Clewiston Middle School	2004.0	3.0
+15103	http://www.pbgfl.com	Palm Beach Gardens	2002.0	395.0
+15106	http://www.edline.net/pages/northelem	North Elementary School	2012.0	29.0
+15107	http://www.floridasterling.com/index.php	Florida Sterling Council	2011.0	36.0
+15108	http://www.tarpon-ms.pinellas.k12.fl.us	Tarpon Springs Middle School	2002.0	12671.0
+15109	http://www.jeffindustries.org	Ed Venture Charter School	2002.0	14.0
+15111	http://www.skyview-es.pinellas.k12.fl.us	Skyview Elementary School	2004.0	45.0
+15113	http://www.easternflorida.edu/	Brevard Community College	2013.0	2355.0
+15114	http://www.duvalschools.org/mhesc	Mt. Herman Ese Center	2008.0	15799.0
+15115	http://coconutgrove.dadeschools.net	Coconut Grove Elementary School	2011.0	407.0
+15116	http://laams.polk-fl.net/	Lake Alfred-Addair Middle School	2013.0	1505.0
+15117	http://www.duvalschools.org/holidayhill	Holiday Hill Elementary School	2008.0	15817.0
+15118	http://www.collierschools.com	Collier County Superintendent's Office	2002.0	755.0
+15119	http://wmes.dadeschools.net/	Wesley Matthews Elementary School	2002.0	27.0
+15121	http://www.duvalschools.org/darnellcookman	Darnell Cookman Middle/High School	2008.0	15745.0
+15122	http://www.citrus.k12.fl.us/pge/	Pleasant Grove Elementary School	2000.0	34.0
+15123	http://www.keywestcity.com/	Key West	1998.0	1283.0
+15124	http://lake.k12.fl.us/lcvs	Lake Virtual Instruction Program (district Provided)	2013.0	12368.0
+15125	http://lake.k12.fl.us/cel	Clermont Elementary School	2012.0	12548.0
+15126	http://www.fscj.edu/campus-life/campuses-centers/south-campus/	Florida State College at Jacksonville  South Campus	2014.0	15.0
+15127	http://schools.polk-fl.net/rochellearts/	Rochelle School Of The Arts	2009.0	1.0
+15128	http://www.mywakulla.com	Wakulla County	2003.0	266.0
+15129	http://fsc.desotoschools.com/	Desoto County Adult Education Center	2014.0	26.0
+15130	http://mybradford.us/bhs/	Bradford High School	2008.0	0.0
+15132	http://rivercityscience.org	River City Science Academy	2008.0	122.0
+15133	http://www.flcourts.org/	JOSHUA, Judicial System	1998.0	311.0
+15135	http://www.co.okaloosa.fl.us/	Okaloosa County	1998.0	306.0
+15137	http://sweagles.org/	Southwest Miami Senior High	0.0	1126.0
+15138	http://www.edline.net/pages/seminoleelem	Seminole Elementary School	2013.0	18.0
+15139	http://www-ccs.stjohns.k12.fl.us/	Cunningham Creek Elementary School	1999.0	75.0
+15141	http://www.law.fsu.edu/crc/	Constitution Revision	1997.0	111.0
+15142	http://www.appletonmuseum.org/	College of Central Florida  Appleton Museum of Art	2001.0	68.0
+15143	http://ci.south-pasadena.fl.us/	South Pasadena	2001.0	82.0
+15145	http://www.southdaytona.org/	South Daytona	2000.0	548.0
+15146	http://www.neflin.org/srrl/	Suwannee River Regional Library System	0.0	27.0
+15147	http://ppark.dadeschools.net/	Poinciana Park Elementary School	2003.0	0.0
+15148	http://www.columbia.k12.fl.us/columbiahigh/index.html	Columbia High School	2011.0	31.0
+15149	http://curry.dadeschools.net/	Lamar Louise Curry Middle School	2003.0	1.0
+15152	http://www.edline.net/pages/tradewinds_middle_school	Tradewinds Middle School	2010.0	11.0
+15153	http://pascolibraries.org	Pasco County Public Library Cooperative	2003.0	84.0
+15155	http://www.putnam-fl.com/bocc/index.php?option=com_content&view=category&layout=blog&id=184&Itemid=70/	Putnam County Library System	0.0	0.0
+15156	http://www.duvalschools.org/gde	Gregory Drive Elementary School	2008.0	15802.0
+15157	http://www.irsc.edu/aboutirsc/campuslocations/slwcampus/slwcampus.aspx?id=515	Indian River State College  Pruitt Campus	2010.0	4.0
+15158	http://cjfinlay.dadeschools.net/	Dr. Carlos J. Finlay Elementary	2003.0	22.0
+15159	http://www.lauderdalebythesea-fl.gov/	Lauderdale-By-The-Sea	2004.0	3.0
+15160	http://www.clay.k12.fl.us/khe/	Keystone Heights Elementary	0.0	13.0
+15162	http://www.franklincountyflorida.com/	Franklin County	2001.0	33.0
+15163	http://dbs.myflorida.com/	FL Division of Blind Services	2005.0	191.0
+15164	http://www.duvalschools.org/edwhite	Edward H. White High School	2008.0	15760.0
+15165	http://www.citrus.k12.fl.us/crest/	Crest School	2005.0	2.0
+15166	http://www.tcrpc.org/	Treasure Coast	1997.0	134.0
+15167	http://www.edline.net/pages/wellington_high_school	Wellington High School	2008.0	6.0
+15168	http://cityofwinterpark.org/	Winter Park	2008.0	443.0
+15170	http://www.gccas.org	Gulf Coast Academy Charter	2013.0	2.0
+15171	http://webster.stjohns.k12.fl.us/	The Webster School	1997.0	20.0
+15172	http://www.edline.net/pages/Nassau_Virtual_School	Nassau Virtual Instruction Program (district Provided)	2011.0	3.0
+15173	http://www.flvs.net/Pages/default.aspx	Florida Virtual School-District Office	2009.0	182.0
+15174	http://www-pvhs.stjohns.k12.fl.us/	Ponte Vedra High School	2007.0	96.0
+15175	http://www.colliergov.net/	Collier County	0.0	5386.0
+15177	http://www-mms.stjohns.k12.fl.us/	R J Murray Middle School	1998.0	72.0
+15178	http://lwcharterschools.com/janiehoward/	Janie Howard Wilson School	2004.0	0.0
+15179	http://schools.polk-fl.net/dwoc/	Don E Woods Opportunity Center	2010.0	13.0
+15180	http://www.csbb.org	Charter School Of Boynton Beach	2002.0	7.0
+15181	http://ams.dadeschools.net/	Allapattah Middle School	2002.0	7.0
+15182	http://www.duvalschools.org/mayport	Mayport Elementary School	2009.0	14547.0
+15183	http://nautilus.dadeschools.net/	Nautilus Middle School	2003.0	54.0
+15184	http://phsc.edu/campuses/west-campus	Pasco-Hernando State College  West Campus	0.0	18.0
+15185	http://www.stpetehigh.com	St. Petersburg High School	1999.0	18.0
+15186	http://www.gibbs-hs.pinellas.k12.fl.us	Gibbs High School	2004.0	17.0
+15187	http://owd.leeschools.net/	Orangewood Elementary School	2008.0	1.0
+15188	http://elderaffairs.state.fl.us/	Elder Affairs	2001.0	160.0
+15189	http://www.edline.net/pages/Cape_View_Elementary_School/	Cape View Elementary School	2014.0	78.0
+15190	http://cte.dadeschools.net	Coral Terrace Elementary School	2001.0	24.0
+15191	http://www.brevardcounty.us/	Brevard County	2002.0	955.0
+15192	http://www.clearwater-hs.pinellas.k12.fl.us	Clearwater High School	2000.0	2.0
+15193	http://www.lakeparkflorida.gov/	Lake Park	2003.0	1017.0
+15194	http://www.westgate-es.pinellas.k12.fl.us	Westgate Elementary School	2002.0	15.0
+15195	http://www.somersetcanyons.com	Somerset Academy Canyons Middle School	0.0	1714.0
+15196	http://schools.polk-fl.net/dundeeelementary/	Dundee Elementary School	2010.0	32.0
+15197	http://www.coralwayk8center.org/	Coral Way K-8 Center	2014.0	1.0
+15198	http://www.irsc.edu/aboutirsc/campuslocations/maincampus/maincampus.aspx?id=514	Indian River State College  Main Campus	2010.0	3.0
+15200	http://www.marioncountyfl.org/departments-agencies/department-a-z/public-library-system	Marion County Public Library System	2014.0	0.0
+15201	http://www.edline.net/pages/west_gate	West Gate Elementary School	2011.0	14.0
+15204	http://www.hialeahfl.gov/index.php?option=com_content&view=article&id=83&Itemid=307&lang=en	Hialeah Public Libraries	0.0	585.0
+15205	http://www.cityofokeechobee.com/	Okeechobee	2000.0	4.0
+15207	http://sjr.state.fl.us/	St. Johns River	0.0	679.0
+15208	http://sky.leeschools.net/	Skyline Elementary School	2008.0	1.0
+15209	http://www.levy.k12.fl.us/schools/chs/	Chiefland Middle High School	2004.0	101.0
+15210	http://myvolusiaschools.org/school/sunrise/pages/default.aspx	Sunrise Elementary School	0.0	22.0
+15211	http://gilchristschools.schoolfusion.us/	Gilchrist Virtual Instruction Program (district Provided)	2012.0	2218.0
+15212	http://www.seminolestate.edu/slm/	Seminole State College of Florida  Sanford/Lake Mary	2009.0	14.0
+15215	http://nmb.dadeschools.net/	North Miami Beach Senior High	2002.0	38.0
+15216	http://www.edline.net/pages/starlight_cove_es	Starlight Cove Elementary School	2010.0	14.0
+15217	http://wpeschool.org/	Whispering Pines Elementary School	0.0	452.0
+15218	http://www.staugustinemontessori.com	St. Augustine Public Montessori School (sapms)	2012.0	68.0
+15219	http://www.leegov.com/Pages/default.aspx	Lee County	2008.0	763.0
+15221	http://schools.polk-fl.net/rooseveltacademy/	Roosevelt Academy	2009.0	15.0
+15223	http://www.clay.k12.fl.us/mre/	McRae Elementary School	0.0	22.0
+15224	http://myvolusiaschools.org/school/pineridge/pages/default.aspx	Pine Ridge High School	2013.0	36.0
+15225	http://schools.stlucie.k12.fl.us/wgk/	West Gate K-8 School	2012.0	27.0
+15227	http://www.cityofalachua.com/	Alachua	2000.0	1380.0
+15228	http://www.mycroschool.org	Alachua Mycroschool Of Integrated Academics And Technologies (mycroschool Gainesville)	2011.0	427.0
+15229	http://mainlandhighschool.org/	Mainland High School	2003.0	338.0
+15231	http://myvolusiaschools.org/school/georgemarks/pages/default.aspx	George W. Marks Elementary School	2013.0	24.0
+15233	http://djjcs.dadeschools.net	Juvenile Justice Center Alt Ed	2009.0	1.0
+15234	http://www.edline.net/pages/hcsb_shs	Frank W. Springstead High School	2010.0	34.0
+15235	http://myvolusiaschools.org/school/horizon/pages/default.aspx	Horizon Elementary School	2013.0	55.0
+15236	http://www.edline.net/pages/del_prado_elementary	Del Prado Elementary School	2010.0	16.0
+15238	http://www.downtowncharter.org	Downtown Miami Charter School	2002.0	12.0
+15239	http://henryreeves.dadeschools.net/	Henry E.S. Reeves Elementary School	2003.0	17.0
+15240	http://www.edline.net/pages/Meadowlane_Intermediate/	Meadowlane Intermediate Elementary School	2012.0	65.0
+15241	http://www.edline.net/pages/hagen_road_elementary_school	Hagen Road Elementary School	2010.0	36.0
+15242	http://www.wcsdschools.com	Washington Institute For Specialized Education	2013.0	695.0
+15243	http://www.hendry-schools.org/education/school/school.php?sectionid=5	Labelle Middle School	2006.0	3.0
+15244	http://www.dep.state.fl.us	Environ. Protection	1997.0	708.0
+15245	http://www.edline.net/pages/palm_springs_elementary	Palm Springs Elementary School	2010.0	12.0
+15248	http://www.levycounty.org/	Levy County	2000.0	180.0
+15249	http://myvolusiaschools.org/school/galaxymiddle/pages/default.aspx	Galaxy Middle School	0.0	29.0
+15250	http://ses.jcsb.org	Sneads Elementary School	2011.0	11.0
+15251	http://www.gulfcoastacademy.org	Gulf Coast Academy Of Science And Technology	2003.0	35.0
+15252	http://www.oldsmarlibrary.org/	Oldsmar Public Library	2009.0	39.0
+15253	http://lake.k12.fl.us/lhe	Lake Hills School	2012.0	12305.0
+15254	http://www.cityofbradenton.com/	Bradenton	2001.0	461.0
+15256	http://www.cityofcocoabeach.com/	Cocoa Beach	2001.0	395.0
+15257	http://www.duvalschools.org/pickett	Pickett Elementary School	2007.0	6001.0
+15258	http://www.hardee.k12.fl.us/	Hardee County Superintendent's Office	2001.0	5.0
+15260	http://www.osceola-ms.pinellas.k12.fl.us	Osceola Middle School	2002.0	436.0
+15261	http://www.edline.net/pages/HeritageHS/	Heritage High School	2010.0	201.0
+15262	http://westlab.dadeschools.net/	Henry S. West Laboratory School	2002.0	24.0
+15263	http://frk.leeschools.net//	Franklin Park Elementary School	2009.0	1.0
+15264	http://nbyoung.dadeschools.net/	Nathan B. Young Elementary School	2004.0	11.0
+15265	http://lake.k12.fl.us/ehs	Eustis High School	2012.0	12688.0
+15266	http://www.edline.net/pages/elms	Eagles Landing Middle School	2010.0	20.0
+15268	http://mlking.dadeschools.net	Martin Luther King Elementary School	2003.0	2.0
+15269	http://www.duvalschools.org/englewood	Englewood Elementary School	2008.0	15787.0
+15271	http://www.jmphs.org	James Madison Preparatory Charter High School	2008.0	27.0
+15272	http://lake.k12.fl.us/twe	Treadway Elementary School	2012.0	12498.0
+15273	http://www.spcollege.edu/midtown/	St. Petersburg College  SPC Midtown	2003.0	10.0
+15275	http://www.edline.net/pages/lcsms	L C Swain Middle School	2010.0	10.0
+15276	http://morningside.dadeschools.net/	Morningside K-8 Academy	2003.0	10.0
+15277	http://www.mysanibel.com/	Sanibel	2001.0	552.0
+15278	http://aspirecharteracademy.com/	Aspire Academy Charter	2011.0	49.0
+15279	http://www.mdc.edu/main/sas/	School For Advanced Studies Homestead	2010.0	326.0
+15280	http://miamisenioradult.dadeschools.net	Miami Senior Adult Education Center	2007.0	2.0
+15283	http://www.duvalschools.org/arlingtonmiddle	Arlington Middle School	2011.0	15715.0
+15284	http://www.duvalschools.org/enterprise	Enterprise Learning Academy	2007.0	15752.0
+15285	http://www.fit.edu/	Florida Institute of Technology	1996.0	3677.0
+15286	http://valenciacollege.edu/wp/	Valencia College  Winter Park Campus	2011.0	26.0
+15287	http://www.edline.net/pages/ofc	Okeechobee Freshman Campus	0.0	12.0
+15288	http://www.sjcpls.org/content/library-administration	St. Johns County Public Library Administration	2009.0	429.0
+15292	http://olinda.dadeschools.net/	Agenoria S Paschal/Olinda Elementary School	2003.0	14.0
+15293	http://www.sarasotacountyschools.net/schools/sarasotamiddle/	Sarasota Middle School	2010.0	162.0
+15296	http://www.cityftmyers.com/	Ft. Myers	1998.0	871.0
+15297	http://www.sarasotacountyschools.net/schools/taylorranch/	Taylor Ranch Elementary School	2012.0	121.0
+15298	http://schools.polk-fl.net/ua/	Union Academy	2008.0	67.0
+15299	http://www.largo-hs.pinellas.k12.fl.us	Largo High School	2000.0	12665.0
+15300	http://www.brevardcounty.us/publiclibraries/branches/mimsscottsmoor/home	Mims-Scottmoor Public Library	2012.0	9.0
+15302	http://www.sanderlinib.com/	James B. Sanderlin Pk-8	2009.0	24.0
+15303	http://www.columbiacountyfla.com/	Columbia County	2001.0	193.0
+15304	http://www.palmbeachschools.org/9304/djjyouthserviceshome.asp	Alternative Program Central	2010.0	19.0
+15305	http://cityofnewportrichey.org/	New Port Richey	2001.0	494.0
+15306	http://www.edline.net/pages/JacksonMS/	Andrew Jackson Middle School	2011.0	118.0
+15307	http://sfm.leeschools.net/	South Fort Myers High School	2008.0	1.0
+15308	http://www.stpete.org/	St. Petersburg	1998.0	1669.0
+15309	http://www.stlucie.k12.fl.us/	St. Lucie Virtual Instruction (course Offerings)	1998.0	185.0
+15311	http://www.gulfcoast.edu/north_bay/	Gulf Coast State College  North Bay Campus	2008.0	6.0
+15312	http://www.defuniaksprings.com/	DeFuniak Springs	1998.0	9.0
+15314	http://www-tce.stjohns.k12.fl.us/	Timberlin Creek Elementary School	2006.0	116.0
+15315	http://cdes.dadeschools.net/	Colonial Drive Elementary School	2003.0	10.0
+15316	http://www.codb.us/	Daytona Beach	2005.0	598.0
+15318	http://bartels.mysdhc.org	Bartels Middle School	2013.0	3.0
+15320	http://www.thevillagescharterschool.org	Villages Charter School	2002.0	31.0
+15321	http://www.spcollege.edu/hec/	St. Petersburg College  Health Education Center	2002.0	4.0
+15323	http://schools.polk-fl.net/shes/	Sleepy Hill Elementary School	2009.0	15.0
+15324	http://www.polk-fl.net/highlandsgrove	Highlands Grove Elementary School	2007.0	8.0
+15326	http://www.tecmiami.com/	The English Center	1999.0	18.0
+15327	http://schoolofjustice.dadeschools.net	Law Enforcement Officers Memorial High School	2010.0	358.0
+15330	http://www.trda.org	Tech. R&D Authority	1999.0	8.0
+15332	http://crccs.putnamschools.org/	The Children's Reading Center	2005.0	13.0
+15335	http://lake.k12.fl.us/cre	Cypress Ridge Elementary School	2012.0	12607.0
+15336	http://lake.k12.fl.us/tel	Tavares Elementary School	2012.0	12492.0
+15338	http://www.bayvirtualschool.com	Bay Virtual Franchise	2011.0	15.0
+15341	http://schools.polk-fl.net/lae/	Lake Alfred Elementary School	2010.0	27.0
+15342	http://www.edline.net/pages/south_grade_es	South Grade Elementary School	2011.0	15.0
+15344	http://northbeach.schoolwires.com/site/default.aspx?PageID=1	North Beach Elementary School	2012.0	14.0
+15345	http://northcounty.dadeschools.net/	North County K-8 Center	2004.0	8.0
+15346	http://www.justreadflorida.com	Just Read, Florida!	2002.0	128.0
+15347	http://www.sjcpls.org/content/anastasia-island-branch	Anastasia Island Branch Library	2009.0	603.0
+15348	http://www.edline.net/pages/Coquina_Elementary_School	Coquina Elementary School	2013.0	405.0
+15349	https://www.ocps.net/lc/district/svs/Pages/default.aspx	Orange Virtual Instruction (course Offerings)	2013.0	4.0
+15350	http://flaglerschools.com/	Flagler County Superintendent's Office	2002.0	270.0
+15352	http://epe.leeschools.net/	Edison Park Creative And Expressive Arts School	2008.0	1.0
+15353	http://myvolusiaschools.org/school/sprucecreek/pages/default.aspx	Spruce Creek Elementary School	0.0	30.0
+15354	http://schools.stlucie.k12.fl.us/ree//	Rivers Edge Elementary School	2012.0	43.0
+15355	http://www.accesscharterschool.org	Access Charter	2011.0	33.0
+15356	http://www.duvalschools.org/cse	Crystal Springs Elementary School	2007.0	15781.0
+15357	http://hhs.dadeschools.net/	Hialeah Senior High School	2003.0	1.0
+15358	http://www.maximoelementary.com/	Maximo Elementary School	2009.0	2.0
+15359	http://www.bauder-es.pinellas.k12.fl.us	Bauder Elementary School	2003.0	12454.0
+15360	http://milestonescommunityschool.org/	Milestones Community School Of Lake County, Inc.	2009.0	440.0
+15361	http://hialeahgardens.dadeschools.net	Hialeah Gardens Elementary School	2003.0	855.0
+15362	http://merritt.hs.brevard.k12.fl.us	Merritt Island High School	2001.0	220.0
+15363	http://www.edline.net/pages/Melbourne_High_School/	Melbourne Senior High School	2010.0	153.0
+15364	http://www.columbia.k12.fl.us/westside/index.html	Westside Elementary School	2004.0	4.0
+15366	http://www.seminole-es.pinellas.k12.fl.us	Seminole Elementary School	2001.0	12745.0
+15367	http://www.cityofgulfbreeze.com/	Gulf Breeze	2001.0	148.0
+15368	http://schools.polk-fl.net/mms/	Mulberry Middle School	2008.0	1.0
+15369	http://www.fau.edu/jupiter/	Florida Atlantic University: John D. MacArthur	2004.0	62.0
+15371	http://www.tyrone-ms.pinellas.k12.fl.us	Tyrone Middle School	2001.0	12664.0
+15373	http://www.citrus.k12.fl.us/renaissance/	Citrus County Renaissance Center	2004.0	4.0
+15374	http://www.apalachicolabay.org/	Apalachicola	2003.0	2664.0
+15375	http://rockcrusherelementary.com/	Rock Crusher Elementary School	2008.0	35.0
+15376	http://www.imagine-nau.com	Nau Charter School	2011.0	429.0
+15377	http://ves.wcsdschools.com//	Vernon Elementary School	2013.0	52.0
+15378	http://www.ju.edu/Pages/default.aspx	Jacksonville University	2011.0	0.0
+15379	http://she.hamiltonfl.com/	South Hamilton Elementary School	2013.0	556.0
+15380	http://www.edline.net/pages/boca_raton_elementary_school	Boca Raton Elementary School	2010.0	18.0
+15381	http://www.sarasotacountyschools.net/schools/southside/	Southside Elementary School	2010.0	112.0
+15382	http://www.lealman-ms.pinellas.k12.fl.us	Lealman Intermediate	2004.0	2407.0
+15383	http://ecsd-fl.schoolloop.com/	Escambia Virtual Instructional Program (district Provided)	2012.0	12054.0
+15384	http://myvolusiaschools.org/school/pathways/pages/default.aspx	Pathways Elementary School	0.0	20.0
+15386	http://www.edline.net/pages/hopecentennial_elementary	Hope-Centennial Elementary School	2012.0	12.0
+15387	http://www.altoonaschool.org/	Altoona School	2008.0	49.0
+15388	http://schools.polk-fl.net/kathleenel/	Kathleen Elementary School	2009.0	8.0
+15389	http://kms.wcsdschools.com	Kate M. Smith Elementary School	2013.0	7.0
+15392	http://www.myflorida.com/myflorida/privacy.html	Privacy Statement	2000.0	5.0
+15393	http://www.edline.net/pages/odyssey_middle	Odyssey Middle School	2010.0	12.0
+15394	http://www.imscharter.webs.com	Innovations Middle Charter	2013.0	0.0
+15396	http://www.deland.org/	Deland Beach	1998.0	186.0
+15397	http://myvolusiaschools.org/school/timbercrest/pages/default.aspx	Timbercrest Elementary School	0.0	26.0
+15398	http://cvwe.dadeschools.net/	Crestview Elementary School	2003.0	17.0
+15399	http://www.clay.k12.fl.us/fie/	Fleming Island Elementary School	0.0	17.0
+15400	http://www.sexton-es.pinellas.k12.fl.us	John M. Sexton Elementary School	1999.0	2.0
+15401	http://www.duvalschools.org/bayview	Bayview Elementary School	2009.0	15786.0
+15402	http://gulfstreamelm.dadeschools.net/	Gulfstream Elementary School	2002.0	47.0
+15403	http://www.clay.k12.fl.us/khh/	Keystone Heights Junior/Senior High	0.0	23.0
+15405	http://jmseagles.org/	Robert H. Jenkins, Junior Middle	2011.0	168.0
+15406	http://www.psnelementary.com/	Palm Springs North Elementary School	2013.0	17.0
+15408	http://www.edline.net/pages/hcsb_ek8	Explorer K-8	2010.0	61.0
+15409	http://www.oxfordacademymiami.com/	Oxford Academy Of Miami	2006.0	38.0
+15410	https://www.ocps.net/Pages/default.aspx	Orange County Superintendent's Office	2007.0	657.0
+15411	http://gibbons.polk-fl.net/	Gibbons Street Elementary School	2014.0	734.0
+15413	http://www.duvalschools.org/oceanwayschool	Oceanway Elementary School	2008.0	1610.0
+15414	http://www.hendryfla.net/	Hendry County	2000.0	105.0
+15417	http://www.edline.net/pages/pahokee_elementary_school	Pahokee Elementary School	2011.0	22.0
+15418	http://myvolusiaschools.org/school/orangecity/pages/default.aspx	Orange City Elementary School	2013.0	24.0
+15419	http://www.doctorscharterschool.org	Doctors Charter School Of Miami Shores	2006.0	168.0
+15420	http://www.cityofannamaria.com/	Anna Maria	2002.0	169.0
+15421	http://www.edline.net/pages/jupiter_high_school	Jupiter High School	2008.0	193.0
+15423	http://www.gstarschool.org	G-Star School Of The Arts	2003.0	15.0
+15424	http://www.excelsiorlanguageacademy.com	Excelsior Language Academy Of Hialeah	0.0	174.0
+15425	http://wpb.org/mycitylibrary/	Mandel Public Library Of West Palm Beach	2014.0	62.0
+15426	http://www.uflib.ufl.edu/fefdl/counties/union.html	Union County	2001.0	216.0
+15427	http://dcps.duvalschools.org/Page/268	Stanton College Preparatory	2014.0	207.0
+15428	http://www.lakecountyfl.gov/	Lake County	2006.0	1054.0
+15429	http://www.edline.net/pages/belvedere_elementary_school	Belvedere Elementary School	2010.0	16.0
+15430	http://www.edline.net/pages/hcsb_ncths	Nature Coast Technical High	2010.0	123.0
+15431	http://www.rbmaritime.org	Riviera Beach Maritime Academy	2007.0	44.0
+15432	http://it.pinellas.k12.fl.us/schools/clearwater%2Dms/	Clearwater Intermediate	2006.0	20.0
+15433	http://www.hccfl.edu/southshore.aspx	Hillsborough Community College  SouthShore Campus	2008.0	4600.0
+15435	http://www.pinecrestacademysouth.com/	Pinecrest Academy (south Campus)	2010.0	859.0
+15436	http://www.nassauclerk.com/	Nassau County	1999.0	111.0
+15437	http://www.djj.state.fl.us	Juvenile Justice	1998.0	683.0
+15438	http://www.duvalschools.org/aprtech	A. Philip Randolph Academies	2008.0	15786.0
+15439	http://www.cf.edu/	College of Central Florida  Ocala Campus	2002.0	506.0
+15440	http://schools.polk-fl.net/griffin/	Griffin Elementary School	2008.0	11.0
+15441	http://www.cityofpalmscharter.com	City Of Palms Charter High School	2012.0	8.0

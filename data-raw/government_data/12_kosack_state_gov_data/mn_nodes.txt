@@ -1,0 +1,1528 @@
+NodeId	NodeURL	NodeName	Year	pages
+31162	http://www.chokioalberta.k12.mn.us	Chokio-Alberta Public School Dist. 0771-01	2000.0	9.0
+31163	http://www.minnetonka.k12.mn.us/schools/deephaven/Pages/default.aspx	Deephaven Elementary 0276-01-602	2008.0	5.0
+31164	http://www.ci.underwood.mn.us/	Underwood	2013.0	16.0
+31165	http://www.emid6067.net/	East Metro Integration District 6067-62	2001.0	35.0
+31166	http://www.dnr.state.mn.us/waters/groundwater_section/climatology/index.html	Climatology Office, State	2002.0	14.0
+31167	http://www.cityofbrooklyncenter.org/	Brooklyn Center	2001.0	1097.0
+31168	http://www.blackduck.k12.mn.us	Blackduck Elementary 0032-01-010	2000.0	27.0
+31169	http://www.plumcreeklibrary.org/adrian/	Adrian Branch Library	2001.0	7.0
+31170	http://www.ci.columbus.mn.us/	Columbus	2007.0	497.0
+31171	http://lacrescentmontessori.com/	La Crescent Secondary Montessori Academy 4054-07-020	2006.0	15.0
+31172	http://www.pioneerland.lib.mn.us/spicer/index.htm	Spicer Public Library	0.0	1.0
+31173	http://www.arrowhead.lib.mn.us/area-libraries/chisholm	Chisholm Public Library	2007.0	10.0
+31174	http://www.isd2184.net	Luverne Senior High 2184-01-004	2000.0	210.0
+31175	http://bentonstearns.k12.mn.us	Benton-Stearns Ed. District 6383-61	2001.0	63.0
+31176	http://www.isd623.org/pcs/	Parkview Center School 0623-01-073	0.0	97.0
+31177	http://www.owatonna.k12.mn.us/schools/alc/	Owatonna ALC 9-12 0761-01-610	2006.0	1.0
+31178	http://www.robbinsdalemn.com/	Robbinsdale	1999.0	246.0
+31179	http://www.mmb.state.mn.us/sss	Statewide Systems	2008.0	414.0
+31180	http://www.ci.fergus-falls.mn.us/	Fergus Falls	2000.0	453.0
+31181	http://www.ci.cologne.mn.us/	Cologne	2005.0	937.0
+31182	http://www.jordan.govoffice.com/	Jordan	2002.0	163.0
+31183	http://www.mnohs.org	Minnesota Online High School 4150-07-010	2005.0	213.0
+31184	http://www.cromwell.govoffice.com/	Cromwell	2008.0	203.0
+31185	http://www.mmb.state.mn.us/	Minnesota Management and Budget	2008.0	362.0
+31186	http://www.hawley.k12.mn.us	Hawley Elementary 0150-01-010	1999.0	12.0
+31187	http://chatfield.k12.mn.us/Pages/Homepage.aspx	Chatfield Elementary School 0227-01-002	2011.0	84.0
+31188	http://www.fps.mntm.org/site/default.aspx?PageID=1	Fulda Public School District 0505-01	2012.0	8.0
+31190	http://mn.gov/gcb/	Board of Gambling Control	2013.0	64.0
+31193	http://www.nhcc.edu	North Hennepin Community College	2002.0	877.0
+31194	http://www.blhsd.org/	Buffalo Lk-Hector-Stewart Public Sc 2159-01	2010.0	997.0
+31195	http://www.msrs.state.mn.us/	Minnesota State Retirement System (MSRS)	1999.0	223.0
+31196	http://www.griver.org/locations-and-hours/great-river-regional-library-monticello	Great River Regional Library - Monticello	2011.0	34.0
+31198	http://www.ci.k12.mn.us	Crosby-Ironton Public School Dist. 0182-01	1998.0	52.0
+31199	http://www.district279.org	TS North View IB World School 0279-01-786	2005.0	2321.0
+31200	http://www.co.carlton.mn.us/	Carlton County	2002.0	223.0
+31201	http://www.grygla.govoffice2.com/	Grygla	2006.0	451.0
+31202	http://www.swiftcounty.com/	Swift County	2001.0	103.0
+31203	http://www.ci.northfield.mn.us/library	Northfield Public Library	1999.0	1314.0
+31204	http://www.ci.lakeville.mn.us/	Lakeville	1998.0	3389.0
+31205	http://www.ci.victoria.mn.us/	Victoria	2000.0	577.0
+31206	http://mn.gov/sentencing-guidelines/	Sentencing Guidelines Commission	2013.0	19.0
+31207	http://www.stcroixprep.org/default.aspx	St. Croix Preparatory Academy 4120-07	2009.0	85.0
+31208	http://www.paynesvillemn.com/	Paynesville	1998.0	284.0
+31209	http://www.strideacademy.org/	STRIDE Academy Charter School 4142-07	2005.0	69.0
+31210	http://www.wayzata.org/	Wayzata	1999.0	451.0
+31212	http://www.usc.k12.mn.us	United South Central High School 2134-01-020	2013.0	3.0
+31213	http://www.kms.k12.mn.us	Kerkhoven-Murdock-Sunburg 0775-01	1999.0	384.0
+31214	http://www.madisonlibrary.info/	Madison Public Library	2006.0	16.0
+31216	http://www.co.marshall.mn.us/	Marshall County	2007.0	16.0
+31217	http://www.sowashco.k12.mn.us/pe/	Pullman Elementary 0833-01-042	2000.0	16.0
+31218	http://www.sowashco.k12.mn.us/ph/	Pine Hill Elementary 0833-01-040	2000.0	22.0
+31219	http://beclibrary.org	Blue Earth County Library	2001.0	269.0
+31220	http://www.cityofsilverlake.org/	Silver Lake	2003.0	20.0
+31221	http://www.sageacademy.org/	SAGE Academy Charter School 4087-07	2004.0	9.0
+31222	http://www.anoka.lib.mn.us	Columbia Heights Public Library	1998.0	335.0
+31224	http://ada.k12.mn.us/	Ada-Borup Public School District 2854-01	1999.0	3.0
+31225	http://www.cps.k12.mn.us	Caledonia Public School District 0299-01	2001.0	542.0
+31226	http://www.isd518.net	Worthington Area Learning Center 0518-01-006	1998.0	5153.0
+31227	http://www.plumcreeklibrary.org/slayton/	Slayton Public Library	2001.0	15.0
+31228	http://www.cityofgibbon.com/	Gibbon	2007.0	247.0
+31229	http://www.isd12.org/schools/elementary-schools/golden-lake-elementary	Golden Lake Elementary 0012-01-512	2012.0	280.0
+31232	http://www.themasteryschool.org/	Mastery School 4209-07-010	2012.0	26.0
+31233	http://nwrlib.org/godel-warren/	Godel Memorial Library	2011.0	2.0
+31234	http://www.wayzata.k12.mn.us/kimberlylane	Kimberly Lane Elementary 0284-01-812	2001.0	4987.0
+31235	http://stepaheadhs.com	STEP Ahead High School 0011-01-898	2013.0	32.0
+31236	http://www.hclib.org/agenciesaction.cfm?agency=ep	Hennepin County Library - Eden Prairie	2001.0	57.0
+31237	http://www.farmington.k12.mn.us/	Farmington Public School District 0192-01	1998.0	1078.0
+31238	http://www.hclib.org/agenciesaction.cfm?agency=ex	Hennepin County Library - Excelsior	2000.0	2.0
+31239	http://www.wayzata.k12.mn.us/alc	IS The Alternative Program (TAP) 0284-01-048	2008.0	5725.0
+31240	http://www.cityofbiwabik.com/	Biwabik	1999.0	158.0
+31243	http://www.hclib.org/agenciesaction.cfm?agency=ed	Hennepin County Library - Edina	2000.0	57.0
+31244	http://www.hclib.org/agenciesaction.cfm?agency=el	Hennepin County Library - East Lake	2004.0	57.0
+31245	http://riversedgeacademy.org	Rivers Edge Academy 4190-07	2008.0	9.0
+31246	http://www.wayzata.k12.mn.us/site/default.aspx?PageID=1	Wayzata Public School District 0284-01	2011.0	7.0
+31247	http://www.ci.sauk-rapids.mn.us/	Sauk Rapids	2001.0	810.0
+31248	http://www.shakopee.k12.mn.us/site/default.aspx?PageID=1	Shakopee Public School District 0720-01	2013.0	6.0
+31249	http://www.nce.k12.mn.us	Norman County East School District 2215-01	2001.0	6.0
+31252	http://www.mnwest.edu	Minnesota West Community and Technical College	2004.0	3735.0
+31253	http://www.ci.spring-park.mn.us/	Spring Park	2013.0	332.0
+31254	http://www.wiseschool.org/	Woodson Institute For Excellence Ch 4086-07	2007.0	14.0
+31255	http://larl.org/events/crookston-kestrels-watch-agassiz-audubon-library-program/	Crookston Public Library	0.0	7.0
+31256	http://www.ci.taylors-falls.mn.us/	Taylors Falls	2007.0	198.0
+31257	http://nclibrary.org	Nobles County Library	2001.0	10.0
+31258	http://www.springlakeparkschools.org/	Woodcrest Elementary Spanish Immersion 0016-01-774	2001.0	1317.0
+31259	http://www.ci.inver-grove-heights.mn.us/	Inver Grove Heights	2000.0	1121.0
+31260	http://mn.gov/health-licensing-boards/nursing/	Nursing, Board of	2012.0	176.0
+31261	http://www.sowashco.k12.mn.us/phs/	Park Senior High 0833-01-024	2000.0	17.0
+31262	http://www.fairmont.k12.mn.us	Fairmont Jr./Sr. High School 2752-01-060	1998.0	3695.0
+31263	http://www.ci.hastings.mn.us/	Hastings	2001.0	0.0
+31264	http://www.stillwaterlibrary.org	Stillwater Public Library	2004.0	132.0
+31265	http://hillcitymnareachamber.wordpress.com/	Hill City	2012.0	6.0
+31266	http://www.davincicharterschool.org	DaVinci Academy 4185-07-010	2008.0	89.0
+31267	http://mn.gov/elicense/	License Minnesota	2012.0	2.0
+31268	http://www.chisagolakes.k12.mn.us/	Chisago Lakes School District 2144-01	2001.0	2.0
+31269	http://www.ncw.k12.mn.us	Norman County West Elementary 2527-01-001	1999.0	291.0
+31270	http://plainview.lib.mn.us/	Plainview Public Library	2007.0	80.0
+31271	http://www.stlouiscountymn.gov/	St. Louis County	2011.0	4113.0
+31273	http://www.sowashco.k12.mn.us/ne/	Newport Elementary 0833-01-038	2000.0	65.0
+31274	http://ci.owatonna.mn.us/library/	Owatonna-Steele County Library	2010.0	163.0
+31275	http://www.esko.k12.mn.us	Winterquist Elementary 0099-01-030	1998.0	5231.0
+31276	http://www.lfalls.k12.mn.us/	Little Falls Public School District 0482-01	1998.0	501.0
+31277	http://www.alextech.edu/en/Home.aspx	Alexandria Technical and Community College	2009.0	2.0
+31278	http://nwrlib.org/red-lake-falls/	Red Lake Falls Public Library	2011.0	2.0
+31280	http://www.co.faribault.mn.us/	Faribault County	1998.0	130.0
+31281	http://www.southstpaul.org/	South St. Paul	1997.0	893.0
+31283	http://bchs.brooklyncenterschools.org	Brooklyn Center Secondary 0286-01-012	2013.0	1406.0
+31284	http://www.caledoniamn.gov/	Caledonia	2006.0	264.0
+31285	http://www.brooklyncenterschools.org	Brooklyn Center School District 0286-01	2013.0	893.0
+31286	http://www.cambridge.k12.mn.us/	Cambridge-Isanti Public School Dist 0911-01	1998.0	196.0
+31287	http://www.district279.org/welcome/	Extended School Year 0279-01-046	2005.0	2316.0
+31288	http://www.kcsmn.org	Kaleidoscope Charter School 4118-07-010	2011.0	783.0
+31290	http://www.artech.k12.mn.us/	Arcadia Charter School 4091-07	2003.0	66.0
+31291	http://www.kelliher.k12.mn.us	Kelliher Public School District 0036-01	2001.0	30.0
+31292	http://chatfieldpubliclibrary.org/	Chatfield Public Library	2006.0	455.0
+31294	http://www.nevis.k12.mn.us/	Nevis Public School District 0308-01	1999.0	60.0
+31295	http://www.health.state.mn.us/	Health Department	1997.0	3141.0
+31296	http://www.district112.org/	La Academia 0112-01-501	2000.0	197.0
+31297	http://www.babbitt-mn.com/	Babbitt	1998.0	171.0
+31298	http://www.hibbing.k12.mn.us/	Hibbing Public School District 0701-01	2000.0	431.0
+31299	http://www.physicaltherapy.state.mn.us/	Physical Therapy, Board of	2001.0	38.0
+31300	http://www.sartellmn.com/	Sartell	2000.0	204.0
+31301	http://www.paschool.org/	Partnership Academy, Inc. 4097-07	2003.0	40.0
+31302	http://www.pioneerland.lib.mn.us/brownton/index.htm	Brownton Public Library	0.0	1.0
+31303	http://www.isd362.k12.mn.us/	Littlefork-Big Falls Elementary 0362-01-020	2000.0	908.0
+31304	http://www.windom-mn.com/	Windom	2000.0	909.0
+31305	http://www.loveworksacademy.org	LoveWorks Academy For Arts 4139-07-010	2007.0	27.0
+31306	http://www.byronps.new.rschooltoday.com/	Byron Public School District 0531-01	2012.0	152.0
+31309	http://www.triowolfcreek.com	TRIO Wolf Creek Distance Learning 4095-07-010	2008.0	144.0
+31310	http://www.mnhousing.gov/wcs/Satellite?c=Page&pagename=External%2FPage%2FEXTHomeLayout&cid=1358904711497	Housing Finance Agency, Minnesota	0.0	135.0
+31311	http://www.np.k12.mn.us	New Prague Credit Recovery 0721-01-301	1996.0	1387.0
+31312	http://www.hinckley.govoffice2.com/	Hinckley	2006.0	84.0
+31313	http://www.co.watonwan.mn.us/	Watonwan County	2006.0	568.0
+31314	http://www.whitebearlake.org/	White Bear Lake	2001.0	976.0
+31315	http://www.adrian.govoffice2.com/	Adrian	2006.0	105.0
+31316	http://www.ci.worthington.mn.us/	Worthington	2002.0	515.0
+31317	http://www.grygla.k12.mn.us	Grygla Public School District 0447-01	2000.0	58.0
+31318	http://www.emsrb.state.mn.us/	Emergency Medical Services Regulatory, Board of	1998.0	52.0
+31319	http://www.arrowhead.lib.mn.us/area-libraries/marble/	Marble Public Library	2007.0	2.0
+31320	http://www.pioneerland.lib.mn.us/granitefalls/index.htm	Granite Falls Public Library	0.0	1.0
+31321	http://www.isd2135.k12.mn.us/site/default.aspx?PageID=1	Maple River School District 2135-01	2011.0	6.0
+31322	http://www.newheightsschool.com/Index.html	New Heights School, Inc. 4003-07-010	2005.0	76.0
+31323	http://www.mib.k12.mn.us/	Mountain Iron-Buhl School District 0712-01	1999.0	600.0
+31324	http://co.kittson.mn.us/	Kittson County	2007.0	111.0
+31326	http://www.mortonmn.com/	Morton	2006.0	84.0
+31327	http://www.hgacademy.org/	Higher Ground Academy 4027-07	2001.0	145.0
+31328	http://www.visitleroy.com/	Leroy	2009.0	27.0
+31329	http://www.mnerats.org/	East Range Academy of Tech-Science 4166-07-010	2007.0	2.0
+31330	http://www.bceboard.state.mn.us/	Board of Cosmetologist Examiners	2006.0	4.0
+31331	http://www.co.martin.mn.us/	Martin County	2000.0	284.0
+31332	http://www.co.renville.mn.us/	Renville County	1998.0	331.0
+31336	http://www.ridgewayschool.org/	Ridgeway Community School 4083-07	2008.0	6.0
+31337	http://www.tcu2905us.new.rschooltoday.com/	Tri-City United School District 2905-01	2012.0	20.0
+31338	http://www.andovermn.gov/	Andover	2011.0	428.0
+31339	http://cityofgrandrapidsmn.com/	Grand Rapids	2013.0	1429.0
+31341	http://www.springgrovemn.com/	Spring Grove	1999.0	28.0
+31342	http://www.co.nicollet.mn.us/	Nicollet County	1998.0	390.0
+31343	http://www.ci.bayport.mn.us/	Bayport	2011.0	92.0
+31346	http://www.mtniron.com/	Mountain Iron	1996.0	255.0
+31347	http://www.isd191.org/schools/burnsville-high-school-0	Burnsville Senior High 0191-01-014	2014.0	420.0
+31348	http://www.goldenvalleymn.gov/	Golden Valley	2010.0	468.0
+31350	http://www.hope-school.org/	HOPE Community Academy 4070-07	2003.0	54.0
+31351	http://www.district287.org	New Connection Program Summer 0287-06-529	2005.0	921.0
+31352	http://www.nrheg.k12.mn.us	NRHEG Elementary 2168-01-010	2000.0	2.0
+31353	http://www.ci.bemidji.mn.us/	Bemidji	2002.0	566.0
+31355	http://www.mnpera.org/	Public Employees Retirement Association	1998.0	420.0
+31356	http://isd75.k12.mn.us	St. Clair Elementary 0075-01-010	2001.0	1287.0
+31357	http://www.faribault.org/library/	Faribault Buckham Memorial Library	2008.0	23.0
+31358	http://www.lake-city.k12.mn.us/se3bin/clientschool.cgi?schoolname=school387	Lake City Public School District 0813-01	2007.0	1.0
+31359	http://www.district279.org/index.php?option=com_content&view=article&id=665	North View IB World School 0279-01-086	0.0	2316.0
+31360	http://www.ci.fridley.mn.us/	Fridley	1998.0	1181.0
+31361	http://www.nlcschool.org/	Northern Lights Community School 4146-07	2005.0	6.0
+31362	http://www.disability.state.mn.us/	Disability, Minnesota State Council on	1997.0	112.0
+31363	http://home.mountainlake.k12.mn.us/	Mountain Lake Public Schools 0173-01	2007.0	325.0
+31364	http://www.slayton.govoffice.com/	Slayton	2003.0	292.0
+31365	http://www.gilbertmn.org/	Gilbert	2000.0	233.0
+31366	http://www.northome.k12.mn.us	Northome Elementary 0363-01-080	1997.0	4.0
+31367	http://mn.gov/lawlib/	Minnesota State Law Library	2013.0	7.0
+31368	http://www.fisher.k12.mn.us/	Fisher Public School District 0600-01	2000.0	32.0
+31370	http://www.barnum.k12.mn.us	Barnum School Extended School Year 0091-01-003	1998.0	2.0
+31371	http://mnzoo.org/	Zoological Garden	2000.0	1041.0
+31372	http://www.hopkinsschools.org/schools/junior-high/hopkins-north-junior-high	Hopkins North Junior High 0270-01-378	2014.0	21.0
+31373	http://www.voamn.org	VOA Phoenix - SALT HS 0001-03-419	1998.0	491.0
+31374	http://www.anokatech.edu	Anoka Technical College	2005.0	1565.0
+31375	http://www.schoolcraft.org/	Schoolcraft Learning Community Chtr 4058-07	2000.0	3.0
+31376	http://www.hermantown.k12.mn.us	Hermantown Public School District 0700-01	1999.0	1211.0
+31377	http://www.afsahighschool.com	AFSA High School 4074-07-010	2012.0	19.0
+31378	http://www.nsec.k12.mn.us	Northland Learning Center 070 6076-50-070	2003.0	2.0
+31379	http://litchlibrary.blogspot.com/	Litchfield Public Library	2013.0	813.0
+31380	http://www.pioneerland.lib.mn.us/newlondon/index.htm	New London Public Library	0.0	1.0
+31381	http://www.cityofgreenislemn.org/	Green Isle	2007.0	581.0
+31382	http://www.medfordminnesota.com/	Medford	2003.0	2.0
+31383	http://www.bertha-hewitt.k12.mn.us/education/school/school.php?sectionid=3	Bertha-Hewitt Public School District 0786-01	2009.0	3.0
+31386	http://www.clcmn.edu	Central Lakes College	2002.0	288.0
+31387	http://www.rochester.k12.mn.us/	Care & Treatment Hospital/Homebound 0535-01-216	1996.0	2336.0
+31388	http://www.ci.st-bonifacius.mn.us/	St. Bonifacius	2002.0	8.0
+31390	http://www.hopkinsschools.org/schools/elementary-schools/eisenhower-elementary	Eisenhower Elementary 0270-01-566	0.0	104.0
+31393	http://www.hclib.org/agenciesaction.cfm?agency=lh	Hennepin County Library - Linden Hills	2009.0	2.0
+31395	http://www.co.grant.mn.us/	Grant County	2003.0	18.0
+31396	http://www.isla-academy.org	International Spanish Language Acad 4167-07-010	2013.0	8.0
+31397	http://www.hved.org	Hiawatha Valley South Cluster ECSE 6013-61-025	2001.0	291.0
+31398	http://www.hclib.org/agenciesaction.cfm?agency=ll	Hennepin County Library - Long Lake	2001.0	57.0
+31400	http://www.ci.otsego.mn.us/	Otsego	2001.0	396.0
+31402	http://www.cms.mntm.org/site/default.aspx?PageID=1	Cedar Mountain School District 2754-01	2012.0	12.0
+31403	http://www.dawsonboydschools.org	Dawson-Boyd Public School District 0378-01	2002.0	149.0
+31405	http://crcs-school.org	Cedar Riverside Community School 4004-07-010	2005.0	7.0
+31406	http://www.biglakemn.org/	Big Lake	2001.0	694.0
+31407	http://www.owatonna.k12.mn.us/schools/washington/	Washington Elementary 0761-01-904	2006.0	1.0
+31408	https://sites.google.com/a/isd726.org/beckerschools/	Becker ESY-SE 0726-01-006	0.0	136.0
+31410	http://www.sowashco.k12.mn.us/wms/	Woodbury Middle School 0833-01-028	2011.0	29.0
+31411	http://www.communityschoolofexcellence.org/	Community School of Excellence 4181-07	2007.0	12.0
+31414	http://www.isd194.k12.mn.us/	Lakeville Public School District 0194-01	1998.0	209.0
+31415	http://larl.org/locations/mahnomen-library/	Mahnomen Public Library	0.0	7.0
+31417	http://www.gsl.k12.mn.us	Glencoe-Silver Lake School District 2859-01	1998.0	5.0
+31418	http://www.houston.k12.mn.us	Minnesota Virtual Academy 0294-01-012	1998.0	2.0
+31419	http://www.ci.cambridge.mn.us/cambridge	Cambridge	2012.0	578.0
+31420	http://redwing.k12.mn.us/	Colvill Family Education Center 0256-01-542	1998.0	4.0
+31422	http://www.isd181.org/	Brainerd Public School District 0181-01	2003.0	317.0
+31423	http://cityoftower.com/	Tower	2007.0	48.0
+31424	http://www.griver.org/locations-and-hours/great-river-regional-library-long-prairie	Great River Regional Library - Long Prairie	2011.0	34.0
+31425	http://www.edinaschools.org/Page/1	Options At Edina High School 0273-01-621	2013.0	312.0
+31426	http://www.westonka.k12.mn.us	277 - Hilltop Elementary - TS 0287-06-758	1998.0	5806.0
+31428	http://www.excellacademy.org	Excell Academy Charter 4068-07-010	2001.0	236.0
+31429	http://www.benson.k12.mn.us/	Benson Public School District 0777-01	1998.0	1024.0
+31430	http://www.gwdc.org/	Governors Workforce Development Council	2000.0	71.0
+31431	http://www.co.dodge.mn.us/	Dodge County	2001.0	219.0
+31432	http://www.cityofmayer.com/	Mayer	2006.0	558.0
+31433	http://www.co.becker.mn.us/	Becker County	2000.0	1003.0
+31434	http://ecrl.lib.mn.us/sandstone.html	Sandstone Community Library	2009.0	39.0
+31435	http://mn.insightschools.net/	Insight School of Minnesota 0286-01-221	2009.0	39.0
+31436	http://www.montevideomn.org/	Montevideo	1998.0	125.0
+31437	http://www.cityofbigfork.com/	Bigfork	2003.0	16.0
+31438	http://www.ci.stjames.mn.us/	St. James	2012.0	465.0
+31439	http://www.lakelillian.govoffice.com/	Lake Lillian	2003.0	218.0
+31440	http://www.mnsilc.org/	Independent Living Council, Minnesota Statewide	2001.0	39.0
+31441	http://www.ci.grand-marais.mn.us/	Grand Marais	2006.0	831.0
+31443	http://www.ci.minneapolis.mn.us/	Minneapolis	1998.0	4360.0
+31444	http://cornerstone-elementary.org/	Cornerstone Montessori Elementary 4201-07-010	2011.0	28.0
+31445	http://ecrl.lib.mn.us/cambridge.html	Cambridge Public Library	2012.0	34.0
+31446	http://www.southsidefamilyschool.org/	Southside Family Charter School 4162-07-010	2001.0	4398.0
+31447	http://www.twincitiesinternationalschool.org	Twin Cities International Elem Sch. 4077-07-010	2008.0	269.0
+31448	http://www.belleplainemn.com/	Belle Plaine	2000.0	1201.0
+31450	http://www.moundsviewschools.org	Sunnyside Elementary 0621-01-034	2001.0	175.0
+31451	http://www.westconcordmn.com/	West Concord	2006.0	382.0
+31452	http://nfld.k12.mn.us/	Northfield Public School District 0659-01	1998.0	1215.0
+31453	http://www.invergrove.k12.mn.us	IGH Early Childhood Program 0199-01-580	1998.0	2174.0
+31454	http://www.co.rice.mn.us/	Rice County	2000.0	828.0
+31455	http://www.arlingtonmn.com/	Arlington	2000.0	214.0
+31457	http://www.lsc.edu	Lake Superior College	2005.0	1092.0
+31458	http://www.mncourts.gov/?page=162	Court System (Judicial Branch)	2006.0	1699.0
+31459	http://www.foley.k12.mn.us/	Foley Public School District 0051-01	1998.0	717.0
+31461	http://www.greenislecommunityschool.org	Green Isle Community School 4144-07-010	2005.0	10.0
+31462	http://www.griver.org/locations-and-hours/great-river-regional-library-royalton	Great River Regional Library - Royalton	2011.0	34.0
+31463	http://nwrlib.org/greenbush/	Greenbush Public Library	2011.0	2.0
+31465	http://www.sowashco.k12.mn.us/oms/	Oltman Middle School 0833-01-022	2011.0	72.0
+31466	http://www.rocori.k12.mn.us/	Rocori School Disrict Community Ed 0750-01-082	1998.0	735.0
+31467	http://www.urbanacademymn.org	Urban Academy Charter School 4088-07-010	2003.0	16.0
+31468	http://www.battlelake.k12.mn.us	Battle Lake Public School District 0542-01	2000.0	615.0
+31469	http://www.isd197.org	Henry Sibley High School 0197-01-053	2001.0	1077.0
+31470	http://www.scschools.net	St. Charles Public School District 0858-01	2001.0	19.0
+31471	http://www.ci.floodwood.mn.us/	Floodwood	2006.0	122.0
+31472	http://www.lakebentonminnesota.com/	Lake Benton	2002.0	52.0
+31473	http://www.cromwellwright.k12.mn.us	Cromwell-Wright Elementary 0095-01-010	1998.0	19.0
+31474	http://www.scred.k12.mn.us/	St. Croix River Education District 6009-61-010	2001.0	894.0
+31475	http://www.ci.battle-lake.mn.us/	Battle Lake	2006.0	153.0
+31476	http://www.brooten.govoffice.com/	Brooten	2002.0	187.0
+31477	http://www.mnic.org/	Minnesota Internship Center 4102-07	2002.0	32.0
+31478	http://mn.gov/deed/job-seekers/blind-visual-impaired/	State Rehabilitation Council for the Blind	2013.0	61.0
+31479	http://www.upsala.k12.mn.us	Upsala Public School District ESY 0487-01-015	1999.0	14.0
+31480	http://www.ci.waitepark.mn.us/	Waite Park	2012.0	968.0
+31481	http://mn.gov/commerce/insurance/index.jsp	Insurance, Dept of Commerce	2011.0	473.0
+31482	http://www.spectrumhighschool.org/	Spectrum High School 4160-07-010	2006.0	680.0
+31483	http://www.district196.org/	Early Childhood Learning Center 0196-01-704	2001.0	3319.0
+31484	http://www.wlschaska.org	World Learner Charter School 4016-07-010	2012.0	151.0
+31485	http://www.asec.net	Area Special Education Cooperative 0997-52-010	1998.0	15.0
+31486	http://www.pierz.k12.mn.us/	Pierz Public School District 0484-01	1999.0	236.0
+31487	http://www.walnutgrove.org/	Walnut Grove	1998.0	48.0
+31488	http://www.howard-lake.mn.us/	Howard Lake	1996.0	172.0
+31489	http://mn.gov/star/	System of Technology to Achieve Results (STAR)	2014.0	42.0
+31490	http://www.kanabeccounty.org/	Kanabec County	2006.0	432.0
+31491	http://www.gis.state.mn.us/	Geographic Information, Governors Council	2000.0	5653.0
+31492	http://www.pillager.k12.mn.us	Pillager Elementary 0116-01-010	1996.0	366.0
+31493	http://www.verndale.k12.mn.us/education/school/school.php?sectionid=2	Verndale Public School District 0818-01	2008.0	3.0
+31495	http://alplonline.org/	Albert Lea Public Library	2007.0	36.0
+31496	http://www.mountainlakepubliclibrary.org	Mountain Lake Public Library	2005.0	20.0
+31497	http://www.buhl.lib.mn.us	Buhl Public Library	1998.0	6.0
+31498	http://www.plumcreeklibrary.org/tyler/	Tyler Public Library	2001.0	6.0
+31499	http://marshalllyonlibrary.org	Marshall-Lyon County Library	2001.0	10.0
+31500	http://www.braham.com/	Braham	1998.0	22.0
+31501	http://www.wheaton.k12.mn.us/	Wheaton Area Public School District 0803-01	2001.0	166.0
+31502	http://www.isd507.k12.mn.us/	Nicollet Public School District 0507-01	2000.0	4.0
+31504	http://www.isd12.org/schools/elementary-schools/centennial-elementary	Centennial Elementary 0012-01-510	2012.0	293.0
+31505	http://www.co.redwood.mn.us/	Redwood County	2002.0	25.0
+31506	http://www.ci.aitkin.mn.us/	Aitkin	1999.0	36.0
+31508	http://www.royalton.k12.mn.us	ESY Program Site 0485-01-040	2000.0	213.0
+31510	http://www.blackduckmn.com/	Blackduck	2001.0	54.0
+31511	http://www.goodhue.k12.mn.us	Goodhue Public School District 0253-01	2000.0	611.0
+31512	http://www.tracymn.org/	Tracy	2011.0	1093.0
+31513	http://www.carlton.k12.mn.us/	Carlton Public School District 0093-01	1998.0	3.0
+31514	http://www.mninfinity.org	Infinity:Minnesota Digital Academy 6080-50-010	2008.0	22.0
+31515	http://www.ci.dodgecenter.mn.us/	Dodge Center	2005.0	150.0
+31516	http://www.hclib.org/agenciesaction.cfm?agency=rd	Hennepin County Library - Ridgedale	2000.0	2.0
+31517	http://www.owatonna.k12.mn.us/schools/mckinley/	McKinley Elementary 0761-01-902	2006.0	1.0
+31518	http://www.wayzata.k12.mn.us/oakwood	Oakwood Elementary 0284-01-807	2001.0	2791.0
+31521	http://www.mncourts.gov/default.aspx?page=550	Supreme Court	2006.0	1820.0
+31522	http://www.co.lake-of-the-woods.mn.us/	Lake of the Woods County	2001.0	21.0
+31523	http://www.wwgschools.org	Westbrook-Walnut Grove Schools 2898-01	2004.0	3726.0
+31524	http://www.co.morrison.mn.us/	Morrison County	2001.0	966.0
+31525	http://www.princeton.k12.mn.us	Princeton Senior High 0477-01-030	2000.0	5.0
+31526	http://www.hclib.org/agenciesaction.cfm?agency=gv	Hennepin County Library - Golden Valley	2001.0	2.0
+31527	http://www.mcgregor.k12.mn.us	McGregor Area Learning Program 0004-01-030	2000.0	60.0
+31529	http://mn.gov/aelslag/	Architecture, Engineering, Land Survey, Landscape Architecture, Geoscience and Interior Design Board	2012.0	34.0
+31531	http://www.sowashco.k12.mn.us/lre/	Liberty Ridge Elementary 0833-01-041	2003.0	2.0
+31532	http://cityofkarlstad.com/	Karlstad	2011.0	0.0
+31533	http://www.plumcreeklibrary.org/westbrook/	Westbrook Public Library	2001.0	6.0
+31535	http://hancockmn.org/	Hancock	2011.0	48.0
+31537	http://www.griver.org/locations-and-hours/great-river-regional-library-elk-river	Great River Regional Library - Elk River	2011.0	34.0
+31538	http://www.dc.k12.mn.us/	Dassel-Cokato Public School Dist. 0466-01	1998.0	424.0
+31539	http://www.mabelcanton.k12.mn.us/	Mabel-Canton Public School Dist. 0238-01	1999.0	11.0
+31540	http://www.roseau.k12.mn.us/	Roseau Public School District 0682-01	1999.0	3.0
+31541	http://www.stillwater.k12.mn.us	St. Croix Valley Area Learning Cntr. 0834-01-061	1996.0	1380.0
+31542	http://www.ci.east-bethel.mn.us/	East Bethel	2006.0	643.0
+31543	http://www.trimont.govoffice.com/	Trimont	2006.0	20.0
+31545	http://www.monticello.k12.mn.us/	Monticello Public School District 0882-01	2000.0	390.0
+31546	http://www.mapletonmn.com/	Mapleton	2000.0	318.0
+31548	http://www.co.kandiyohi.mn.us/	Kandiyohi County	1999.0	304.0
+31549	http://www.bjs.state.mn.us/	Judicial Standards, Board on	2001.0	26.0
+31550	http://mn.gov/bms/	Mediation Services, Bureau of	2013.0	17.0
+31551	http://www.newyorkmills.govoffice2.com/	New York Mills	2007.0	382.0
+31552	http://larl.org/locations/climax-library/	Climax Public Library	0.0	7.0
+31553	http://www.vcc.edu	Vermilion Community College	2002.0	2113.0
+31554	http://roundlk.net/	Round Lake	2003.0	102.0
+31555	http://www.griver.org/locations-and-hours/great-river-regional-library-delano	Great River Regional Library - Delano	2011.0	34.0
+31556	http://www.hutch.k12.mn.us/pageView.cfm	Crow River Area Learning Center 0423-01-070	2006.0	704.0
+31557	http://www.mnstate.edu	Minnesota State University Moorhead	2000.0	1159.0
+31558	http://www.wyomingmn.org/	Wyoming	1999.0	1007.0
+31559	http://www.co.faribault.mn.us/bricelyn/	Bricelyn	1999.0	12.0
+31560	http://ci.argyle.mn.us/	Argyle	2001.0	27.0
+31561	http://www.newulmlibrary.org	New Ulm Public Library	2006.0	1456.0
+31563	http://www.triton.k12.mn.us	Triton Middle School 2125-01-002	2001.0	1374.0
+31564	http://www.wayzata.k12.mn.us/plymouthcreek	Plymouth Creek Elementary 0284-01-810	2001.0	2742.0
+31565	http://www.njpacoop.org/	Region 5-North Central Serv. Coop. 0924-83-010	2007.0	1291.0
+31566	http://www.isd624.org/	White Bear Transition Plus Program 0624-01-839	2011.0	836.0
+31567	http://www.ci.perham.mn.us/	Perham Area Public Library	2011.0	425.0
+31568	http://www.red-wing.org/	Red Wing	2003.0	909.0
+31569	http://www.albany.k12.mn.us	Albany Area Schools Early Childhood 0745-01-035	2000.0	6.0
+31570	http://www.clbs.k12.mn.us/	Cass Lake-Bena Public Schools 0115-01	1997.0	49.0
+31571	http://www.baxtermn.gov/	Baxter	2013.0	127.0
+31572	http://www.laporte.k12.mn.us/se3bin/clientschool.cgi?schoolname=school208	Laporte Public School District 0306-01	2013.0	1.0
+31573	http://www.ci.eden-prairie.mn.us/	Eden Prairie	1998.0	5561.0
+31574	http://www.mnaging.org/	Aging, Board on	2000.0	398.0
+31575	http://www.griver.org/locations-and-hours/great-river-regional-library-upsala	Great River Regional Library - Upsala	2011.0	34.0
+31576	http://www.co.rock.mn.us/	Rock County	2000.0	3.0
+31577	http://www.glacialhills.org/site/default.aspx?PageID=1	Glacial Hills Elementary 4168-07-010	2012.0	1.0
+31578	http://www.co.washington.mn.us/index.aspx?NID=467	Washington County Library	2012.0	1081.0
+31579	http://www.hastings.k12.mn.us/	Hastings Public School District 0200-01	1998.0	269.0
+31581	http://www.staugustamn.com/	St. Augusta	2010.0	31.0
+31582	https://www.moorheadschools.org/schools/elementary-schools/sg-reinertsen-elementary/	S.G.Reinertsen Elementary 0152-01-189	2014.0	90.0
+31584	http://www.pinecity.k12.mn.us/	Pine City Area Learning Center 0578-01-692	2000.0	64.0
+31585	http://www.arrowhead.lib.mn.us/area-libraries/babbitt/	Babbitt Public Library	2007.0	2.0
+31587	http://www.co.waseca.mn.us/	Waseca County	2001.0	402.0
+31588	http://www.district279.org/index.php?option=com_content&view=article&id=665	Edinbrook Elementary 0279-01-668	0.0	2312.0
+31589	http://www.riverbendacademy.com/education/school/school.php?sectionid=2	Riverbend Academy 4066-07-010	2005.0	0.0
+31590	https://www.mnmsa.org/	Math And Science Academy 4043-07	1998.0	256.0
+31591	http://isd935.org/	Fergus Falls Area Sp. Ed. Coop. 0935-52-010 (last year 2009)	2008.0	44.0
+31592	http://www.hopkinsschools.org/schools/elementary/meadowbrook-elementary	Meadowbrook Elementary 0270-01-570	2014.0	48.0
+31593	http://lprb.mncourts.gov/pages/default.aspx	Board on Lawyers Professional Responsibility	2010.0	48.0
+31594	http://www.bluffviewmontessori.org/	Bluffview Montessori 4001-07	2008.0	3.0
+31596	http://www.rrcnet.org/%7esanborn/index.html	Sanborn	1999.0	1.0
+31597	http://www.cityofdeephaven.org/	Deephaven	2000.0	216.0
+31598	http://www.pioneerland.lib.mn.us/ortonville/index.htm	Ortonville Public Library	0.0	1.0
+31599	http://www.mapleplain.com/	Maple Plain	1996.0	406.0
+31600	http://www.desch.org	Dover-Eyota Public School District 0533-01	2000.0	1057.0
+31601	http://www.ci.hutchinson.mn.us/	Hutchinson	1998.0	117.0
+31604	http://ci.lakeland.mn.us/	Lakeland	2014.0	177.0
+31605	http://www.mdsmn.org	Metro Deaf School ESY 4005-07-020	2011.0	112.0
+31607	http://www.lifeprepschool.org	LIFE Prep 4035-07-010	0.0	113.0
+31608	http://www.seed-harvest.org	Harvest Preparatory School 4032-07-010	2003.0	25.0
+31609	http://www.badger.k12.mn.us/site/default.aspx?PageID=1	Badger Public School District 0676-01	2011.0	10.0
+31610	http://www.ci.chisholm.mn.us/	Chisholm	2008.0	278.0
+31611	http://www.lpge.org/	Long Prairie-Grey Eagle School Dist 2753-01	2013.0	1069.0
+31612	http://www.wayzata.k12.mn.us/ems	Wayzata East Middle 0284-01-052	2001.0	2839.0
+31613	http://www.pillagercharter.org	Pillager Area Charter School 4080-07	2013.0	31.0
+31614	https://www.mrc.state.mn.us/index.htm	Racing Commission	2012.0	12.0
+31615	http://cannonriverstemschool.org	Cannon River STEM School 4194-07-010	2008.0	113.0
+31616	http://www.graceville.k12.mn.us/education/school/school.php?sectionid=2	Clinton-Graceville-Beardsley Sr. 2888-01-003	2011.0	0.0
+31617	http://www.climax.k12.mn.us/	Climax-Shelly Public Schools 0592-01	1998.0	17.0
+31619	http://www.lcsc.org/site/default.aspx?PageID=1	Region 4-Lakes Country Service Coop 0926-83-010	2011.0	15.0
+31620	http://www.isd191.org/schools/edward-d-neill-elementary	Edward Neill Elementary 0191-01-483	2014.0	400.0
+31623	http://larl.org/	Lake Agassiz Regional Library	2001.0	5461.0
+31624	http://www.wrenshall.k12.mn.us/se3bin/clientschool.cgi?schoolname=school418	Wrenshall Public School District 0100-01	2013.0	0.0
+31626	https://www.moorheadschools.org	Clay County Outreach Center 0152-01-990	2012.0	528.0
+31627	http://www.ivanhoe-mn.com/	Ivanhoe	2012.0	251.0
+31628	http://www.ssd.k12.mn.us	Stewartville Public School District 0534-01	2001.0	4.0
+31630	http://www.co.traverse.mn.us/	Traverse County	2009.0	83.0
+31631	http://www.ci.mounds-view.mn.us/	Mounds View	2001.0	1175.0
+31633	http://www.cityofupsala.com/	Upsala	2009.0	3.0
+31634	http://mn.gov/dhs/	Human Services Department	2012.0	349.0
+31635	http://www.pioneerland.lib.mn.us/birdisland/index.htm	Bird Island Public Library	0.0	1.0
+31637	http://www.randall.govoffice2.com/	Randall	2006.0	381.0
+31640	http://www.centervillemn.com/	Centerville	1999.0	269.0
+31642	http://www.hpsp.state.mn.us/	Health Professionals Services Program	1999.0	12.0
+31643	http://mn.gov/deed/job-seekers/disabilities/	State Rehabilitation Council	2013.0	38.0
+31645	http://mn.gov/indianaffairs/	Indian Affairs Council, Minnesota	2014.0	38.0
+31647	http://www.evw.k12.mn.us/	Eden Valley Elementary 0463-01-010	2001.0	2.0
+31648	http://www.griver.org/locations-and-hours/great-river-regional-library-foley	Great River Regional Library - Foley	2011.0	34.0
+31649	http://www.minneapolis.edu	Minneapolis Community and Technical College	2003.0	652.0
+31650	http://www.plumcreeklibrary.org/pipestone/	Pipestone Meinders Community Library	2001.0	9.0
+31651	http://www.faribault.k12.mn.us/	Cannon River Sec Transition Ed Prog 0656-01-058	1997.0	1215.0
+31652	http://www.blossoms.k12.mn.us	Blooming Prairie Public School Dist 0756-01	2009.0	6.0
+31653	http://www.fed.k12.mn.us	Early Childhood Special Education 6004-61-070	1996.0	39.0
+31655	http://www.heronlakecity.org/	Heron Lake	2003.0	44.0
+31657	http://www.sowashco.k12.mn.us/me/	Middleton Elementary 0833-01-047	2000.0	81.0
+31658	http://www.riverland.edu	Riverland Community College	2005.0	414.0
+31659	http://www.exploreminnesota.com/index.aspx	Tourism	2010.0	2374.0
+31660	http://mn.gov/commerce/energy/	Office of Energy Security	2011.0	1188.0
+31661	http://www.pioneerland.lib.mn.us/graceville/index.htm	Graceville Public Library	0.0	1.0
+31662	http://ci.albany.mn.us/	Albany	2001.0	525.0
+31664	http://www.pinecity.govoffice.com/	Pine City	2006.0	54.0
+31665	http://stonebridgecommunityschool.org/	Stonebridge Community School 4169-07-010	2007.0	11.0
+31666	http://www.ci.corcoran.mn.us/	Corcoran	2001.0	321.0
+31667	http://www.owatonna.k12.mn.us/	Owatonna Public School District 0761-01	2000.0	8.0
+31668	http://www.edenpr.org/ehsi	Eagle Heights Spanish Immersion 0272-01-886	2012.0	1266.0
+31669	http://www.wem.k12.mn.us/	Waterville-Elysian-Morristown Public School District 2143-01	2000.0	5.0
+31670	http://www.frazee.k12.mn.us	Frazee Secondary 0023-01-020	1999.0	182.0
+31671	http://www.lighthouse.charter.k12.mn.us	Metro Schools Charter 4131-07-010	2006.0	51.0
+31672	http://www.district279.org/index.php?option=com_content&view=article&id=665	Maple Grove Junior High 0279-01-094	0.0	2286.0
+31674	http://www.cloquet.k12.mn.us	Cloquet Early Childhood Education 0094-01-106	0.0	742.0
+31675	http://edinamn.gov/	Edina	2012.0	2697.0
+31676	http://www.isd191.org/schools/eagle-ridge-junior-high	Eagle Ridge Junior High 0191-01-066	2014.0	376.0
+31677	http://www.buffalolake.org/	Buffalo Lake	2004.0	257.0
+31678	http://www.komets.k12.mn.us/	Kasson-Mantorville School District 0204-01	1997.0	159.0
+31679	http://ecrl.lib.mn.us/hinckley.html	Hinckley Public Library	2008.0	39.0
+31680	http://www.prestonmn.org/	Preston	2000.0	12.0
+31682	http://www.revenue.state.mn.us/Pages/default.aspx	Board of Assessors	2012.0	1580.0
+31684	http://harmony.lib.mn.us/	Harmony Public Library	2007.0	218.0
+31685	http://www.lanesboro.k12.mn.us/site/default.aspx?PageID=1	Lanesboro Public School District 0229-01	2013.0	7.0
+31686	http://www.ci.mora.mn.us/	Mora	2002.0	728.0
+31687	http://www.boa.state.mn.us/Licensing/	Accountancy, Board of	2009.0	24.0
+31688	http://www.ci.stpaul.mn.us/	St. Paul	1996.0	3711.0
+31689	http://lprb.mncourts.gov/Pages/Default.aspx	Lawyers Professional Responsibility Board	2010.0	47.0
+31690	http://www.ubahmedicalacademy.org/	Ubah Medical Academy Charter School 4121-07-010	2005.0	13.0
+31691	https://jmc.ortonville.k12.mn.us/	Ortonville Public Schools 2903-01	2013.0	2.0
+31692	http://www.co.dakota.mn.us/libraries/Pages/default.aspx	Dakota County Library	2012.0	3.0
+31693	http://www.pioneerland.lib.mn.us/atwater/index.htm	Atwater Public Library	0.0	1.0
+31694	http://www.bigfalls.govoffice.com/	Big Falls	2007.0	79.0
+31695	http://www.isd623.org/rahs/	Roseville Area Senior High 0623-01-069	0.0	98.0
+31696	http://www.ci.new-brighton.mn.us/	New Brighton	1998.0	555.0
+31697	http://www.gm.k12.mn.us/	Grand Meadow Public School District 0495-01	1998.0	670.0
+31698	http://www.wayzata.k12.mn.us/wps	Early Childhood Special Education 0284-01-809	2006.0	5695.0
+31699	http://www.isd623.org/edw/	Williams Elementary 0623-01-731	0.0	98.0
+31700	http://www.nettlake.k12.mn.us	Nett Lake Public School District 0707-01	2004.0	88.0
+31702	http://www.isd623.org/edg/	Edgerton Elementary 0623-01-723	0.0	98.0
+31703	http://www.lp.k12.mn.us	Lester Prairie Public School Dist. 0424-01	2001.0	439.0
+31704	http://www.cityoftonkabay.net/	Tonka Bay	2002.0	1358.0
+31705	https://www.moorheadschools.org/schools/elementary-schools/robert-asp-elementary/	R. Asp Elementary 0152-01-187	0.0	90.0
+31706	http://www.ci.redwood-falls.mn.us/	Redwood Falls	1998.0	580.0
+31708	http://www.district279.org/index.php?option=com_content&view=article&id=665	Palmer Lake Elementary 0279-01-678	0.0	2338.0
+31709	http://raiders.central.k12.mn.us/site/default.aspx?PageID=1	Central Public Schools ESY 0108-01-060	2013.0	5.0
+31710	http://www.griver.org/locations-and-hours/great-river-regional-library-belgrade	Great River Regional Library - Belgrade (Myrtle Mabee Library)	2011.0	34.0
+31711	https://dps.mn.gov/divisions/bca/Pages/default.aspx	Bureau of Criminal Apprehension	2011.0	17.0
+31712	http://www.isd77.org/	Extended School Year 0077-01-270	2008.0	389.0
+31716	http://www.mrved.com/site/default.aspx?PageID=1	MN River Valley Education District 6018-61	2012.0	5.0
+31717	http://dassel.com/	Dassel	1998.0	281.0
+31718	http://www.state.mn.us/sdsb/	State Designer Selection Board	2006.0	21.0
+31719	http://ecrl.lib.mn.us/princeton.html	Princeton Area Library	2010.0	39.0
+31720	https://dps.mn.gov/divisions/dvs/pages/default.aspx	Driver and Vehicle Services	2012.0	383.0
+31721	http://www.lyonco.org/	Lyon County	2000.0	1660.0
+31722	http://www.mpls.k12.mn.us/	Early Childhood Assessment/Special 0001-03-898	1997.0	369.0
+31724	http://www.ci.newfolden.mn.us/	Newfolden	2006.0	228.0
+31725	http://www.embarrass.org/	Embarrass	1998.0	560.0
+31726	http://www.arrowhead.lib.mn.us/area-libraries/calumet	Calumet Public Library	2007.0	10.0
+31727	http://www.mn.gov/admin/government/grants/index.jsp	Grants Management, Office of	2013.0	22.0
+31728	http://csb.mncourts.gov/pages/default.aspx	Client Security Board	2010.0	15.0
+31729	http://washburn.mpls.k12.mn.us/	Washburn Senior High 0001-03-368	2004.0	526.0
+31730	http://www.wayzata.k12.mn.us/sunsethill	Sunset Hill Elementary 0284-01-808	2001.0	2725.0
+31731	http://albertlea.k12.mn.us/	Albert Lea Public School District 0241-01	1998.0	1328.0
+31732	http://www.brightwatermontessori.org	Bright Water Elementary 4189-07-010	2004.0	50.0
+31733	http://www.ci.zumbrota.mn.us/	Zumbrota	2001.0	2353.0
+31735	http://www.tds.lib.mn.us	Waseca-Le Sueur Regional Library	1998.0	0.0
+31736	http://www.isd118.k12.mn.us/se3bin/clientschool.cgi?schoolname=school681	Northland Community Schools 0118-01	2013.0	1.0
+31737	https://dps.mn.gov/Pages/default.aspx	Public Safety Department	2011.0	3.0
+31738	http://www.warrenminnesota.com/	Warren	2001.0	483.0
+31739	http://www.redwoodfallslibrary.org	Redwood Falls Public Library	2006.0	14.0
+31740	http://www.mooselake.k12.mn.us/	Moose Lake Public School District 0097-01	1998.0	2.0
+31741	http://www.waconia.org/	Waconia	2000.0	356.0
+31742	http://cityofortonville.com/	Ortonville	2011.0	111.0
+31743	http://stewartvillelibrary.org/stewartville/	Stewartville Public Library	2009.0	27.0
+31744	http://exploregaylord.org/	Gaylord	2009.0	242.0
+31746	http://nerstrand.charter.k12.mn.us/	Nerstrand Charter School 4055-07-010	2005.0	373.0
+31747	http://www.lismore.govoffice2.com/	Lismore	2007.0	85.0
+31748	http://www.co.carver.mn.us/	Carver County	1998.0	648.0
+31749	http://runestoneareaeducationdistrict.weebly.com/	Runestone Regional Learning Center 6014-61-020	2013.0	29.0
+31750	http://www.crosslakekids.org/	Crosslake Community Charter School 4059-07-010	2001.0	62.0
+31751	http://www.hclib.org/agenciesaction.cfm?agency=wk	Hennepin County Library - Walker	2009.0	57.0
+31752	http://www.cityofnorthoaks.com/	North Oaks	2007.0	457.0
+31753	http://www.hclib.org/agenciesaction.cfm?agency=wn	Hennepin County Library - Washburn	2009.0	57.0
+31754	http://www.benha.state.mn.us/	Nursing Home Administrators, Board of Examiners for	2000.0	55.0
+31755	http://www.co.pine.mn.us/	Pine County	2007.0	997.0
+31756	http://www.hclib.org/agenciesaction.cfm?agency=wa	Hennepin County Library - Wayzata	2001.0	57.0
+31758	http://ecrl.lib.mn.us/rushcity.html	Rush City Public Library	2011.0	34.0
+31759	http://www.hopkinsschools.org/schools/elementary/gatewood-elementary	Gatewood Elementary 0270-01-569	2014.0	61.0
+31760	http://www.madeliamn.com/	Madelia	2000.0	109.0
+31761	http://www.mnsure.org/	MNsure	2013.0	289.0
+31762	http://www.co.chippewa.mn.us/	Chippewa County	0.0	1.0
+31763	http://www.msfa.com/	Metropolitan Sports Facilities Commission	1999.0	108.0
+31764	http://www.hclib.org/agenciesaction.cfm?agency=wp	Hennepin County Library - Webber Park	2009.0	57.0
+31765	http://opac.plumcreeklibrary.net	Edgerton Public Library	0.0	2288.0
+31766	http://www.hclib.org/agenciesaction.cfm?agency=wt	Hennepin County Library - Westonka	2001.0	57.0
+31767	http://www.hs.royalton.k12.mn.us/	Royalton High School 0485-01-020	2013.0	147.0
+31768	http://www.ci.austin.mn.us/	Austin	2002.0	32.0
+31769	http://goodridge.k12.mn.us	Goodridge Elementary 0561-01-010	2002.0	2.0
+31770	http://nwrlib.org/roseau/	Roseau Public Library	2011.0	2.0
+31772	http://www.vmps.org/	Roosevelt Elementary 0706-01-030	2009.0	197.0
+31775	http://www.cityoflacrescent-mn.gov/index.php	La Crescent	2013.0	60.0
+31776	http://www.ag.state.mn.us/	Attorney General	1996.0	269.0
+31777	http://www.sowashco.k12.mn.us/cge/	Cottage Grove Elementary 0833-01-037	2002.0	36.0
+31778	http://www.melrose.k12.mn.us/	Melrose Public School District 0740-01	1998.0	0.0
+31779	http://www.lscb.govoffice.com/	Lake St. Croix Beach	2006.0	267.0
+31780	http://www.co.cass.mn.us/	Cass County	2001.0	158.0
+31781	http://www.metrostate.edu	Metropolitan State University	1999.0	1025.0
+31782	http://www.cityofwinnebago.com/	Winnebago	2011.0	111.0
+31783	http://www.nexustreatment.org/treatmentsites/millelacs/about	Mille Lacs Academy (Nexus) 0480-01-030	0.0	27.0
+31784	http://www.ci.richfield.mn.us/	Richfield	1998.0	1646.0
+31785	http://www.plumcreeklibrary.org/ivanhoe/	Ivanhoe Public Library	2001.0	6.0
+31788	https://www.carverlib.org/SitePages/default.aspx	Carver County Library System	2012.0	134.0
+31789	http://www.ci.apple-valley.mn.us/	Apple Valley	1997.0	879.0
+31790	http://www.cityofisanti.us/	Isanti	2008.0	2043.0
+31791	http://www.saintpetermn.gov/library/	St. Peter Public Library	2003.0	7.0
+31793	http://medicinelake.govoffice.com/	Medicine Lake	2003.0	38.0
+31794	http://www.ssc.mntm.org/site/default.aspx?PageID=1	Heron Lake-Okabena School District 0330-01	2012.0	12.0
+31795	http://www.arrowhead.lib.mn.us/area-libraries/cook/	Cook Public Library	2007.0	2.0
+31796	http://larl.org/events/breckenridge-bookmarkers-book-discussion-group/	Breckenridge Public Library	0.0	3.0
+31797	http://www.waubun.k12.mn.us/	Waubun-Ogema-White Earth Public Sch 0435-01	2000.0	98.0
+31798	http://www.ms.royalton.k12.mn.us/	Royalton Middle School 0485-01-050	2013.0	27.0
+31799	http://www1.umn.edu/twincities/index.html	University of Minnesota	2000.0	17.0
+31800	http://www.edgertonminnesota.com/	Edgerton	2000.0	15.0
+31801	http://hcpak12.org/	Hmong College Prep Academy HS 4103-07-010	2013.0	309.0
+31802	http://www.co.ramsey.mn.us/home/index.htm	Ramsey County	2006.0	5.0
+31803	http://www.co.pope.mn.us/	Pope County	2001.0	74.0
+31804	http://www.springfield.mntm.org/site/default.aspx?PageID=1	Springfield Public School District 0085-01	2013.0	19.0
+31805	http://www.griver.org/locations-and-hours/great-river-regional-library-eagle-bend	Great River Regional Library - Eagle Bend	2011.0	34.0
+31806	http://www.mcc.mntm.org/	Murray County Central School Dist. 2169-01	2001.0	24.0
+31807	http://www.winona.edu	Winona State University	2000.0	1581.0
+31808	http://www.hclib.org/agenciesaction.cfm?agency=ap	Hennepin County Library - Augsburg Park	2000.0	57.0
+31810	http://mn.gov/oet/	MN.IT Services	2011.0	122.0
+31811	http://www.city.roseau.mn.us/	Roseau	2002.0	272.0
+31812	http://www.badgermn.govoffice3.com/index.asp	Badger	2013.0	229.0
+31813	http://www.griver.org/locations-and-hours/great-river-regional-library-melrose	Great River Regional Library - Melrose	2011.0	34.0
+31814	http://redlakefalls.k12.mn.us/	Red Lake Falls Public School Dist. 0630-01	1999.0	107.0
+31815	http://www.pioneerland.lib.mn.us/hector/index.htm	Hector Public Library	0.0	1.0
+31816	http://www.lakebentonschool.org	Lake Benton Public School District 0404-01	2004.0	11.0
+31817	http://www.bloomington.k12.mn.us	Bloomington Transition Center 0271-01-536	1996.0	3152.0
+31818	http://minnesota.connectionsacademy.com/mn/search	MTCS Connections Academy 4017-07-018	2010.0	2.0
+31819	http://www.griver.org/locations-and-hours/great-river-regional-library-staples	Great River Regional Library - Staples	2011.0	34.0
+31820	http://www.griver.org/locations-and-hours/great-river-regional-library-paynesville	Great River Regional Library - Paynesville	2011.0	34.0
+31821	http://naytahwaush.org	Naytahwaush Community School 4155-07-010	2007.0	1.0
+31822	http://www.hennepin.us/	Hennepin County	2003.0	485.0
+31824	http://www.itascacc.edu	Itasca Community College	2002.0	254.0
+31825	http://www.clearwatercity.com/	Clearwater	2002.0	586.0
+31827	http://www.pelicanrapids.k12.mn.us/education/district/district.php?sectionid=1	Pelican Rapids ALC 7-8 Targeted Svc 0548-01-210	2008.0	3.0
+31828	http://www.fdltcc.edu	Fond du Lac Tribal and Community College	2002.0	173.0
+31829	http://www.sebeka.k12.mn.us/	Sebeka Public School District 0820-01	2000.0	18.0
+31831	http://www.lincolnhi.org/site/default.aspx?PageID=1	Ivanhoe Public School District 0403-01	2011.0	8.0
+31832	http://www.ci.faribault.mn.us/	Faribault	2001.0	701.0
+31833	http://www.stcloudstate.edu	St. Cloud State University	1998.0	3090.0
+31834	http://www.isd623.org/fh/	Falcon Heights Elementary 0623-01-724	0.0	97.0
+31835	http://www.greenwoodmn.com/	Greenwood	2003.0	75.0
+31836	http://www.lincolnihs.org/	Lincoln International School 4178-07	2006.0	1.0
+31837	http://www.verndale.k12.mn.us/education/school/school.php	Verndale Elementary 0818-01-010	2009.0	4.0
+31838	http://www.hiawathaacademies.org	Hiawatha Leadership Acad-Morris Pk 4170-07-010	2010.0	127.0
+31840	http://www.stlouispark.org/	St. Louis Park	2000.0	2649.0
+31841	http://www.kelliher.govoffice.com/	Kelliher	2002.0	44.0
+31842	http://www.sac.k12.mn.us/	Stephen-Argyle Central Schools 2856-01	2003.0	28.0
+31844	http://www.dot.state.mn.us/	Transportation Department	1997.0	2433.0
+31845	http://www.revenue.state.mn.us/pages/default.aspx	Revenue Department	2012.0	1596.0
+31847	http://www.sartell.k12.mn.us	Sartell EC Service Center 0748-01-010	2001.0	1203.0
+31852	http://www.hoytlakes.com/	Hoyt Lakes	1998.0	31.0
+31853	http://www.rothsay.k12.mn.us	Rothsay Public School District 0850-01	2001.0	260.0
+31854	http://www.ci.monticello.mn.us/	Monticello	1999.0	442.0
+31855	http://ecrl.lib.mn.us/mcgregor.html	Mcgregor Public Library	2010.0	40.0
+31856	http://www.lylemn.org/	Lyle	2001.0	48.0
+31857	http://www.winona.k12.mn.us/	Winona Area Public School District 0861-01	2000.0	1259.0
+31858	http://www.hendrickspublicschools.org	Hendricks Elementary 0402-01-010	2011.0	19.0
+31859	http://www.ci.columbia-heights.mn.us/	Columbia Heights	2000.0	875.0
+31860	http://www.isd917.k12.mn.us	917 Transitional Education Serv Alt 0917-06-030	1999.0	803.0
+31861	http://www.sleepyeye-mn.com/	Sleepy Eye	2001.0	375.0
+31862	http://nashashkolamn.org/	Nasha Shkola Charter School 4208-07-010	2010.0	83.0
+31863	http://www.courtlandmn.com/aboutus.html	Courtland	2007.0	71.0
+31865	http://ecrl.lib.mn.us/northbranch.html	North Branch Area Library	2008.0	35.0
+31866	http://www.co.aitkin.mn.us/	Aitkin County	1999.0	241.0
+31868	http://www.plumcreeklibrary.org	Tracy Public Library	2000.0	119.0
+31869	http://holdingfordmn.us/	Holdingford	2006.0	380.0
+31871	http://www.ci.glencoe.mn.us/	Glencoe	2006.0	271.0
+31873	http://www.cityofwinona.com/city-services/winona-public-library/	Winona Public Library	2013.0	18.0
+31874	http://www.ci.cuyuna.mn.us/	Cuyuna	2007.0	86.0
+31875	http://www.stcroixprep.org	St. Croix Preparatory Academy Lower 4120-07-010	2004.0	86.0
+31876	http://www.sowashco.k12.mn.us/cgms/	Cottage Grove Middle School 0833-01-020	2010.0	2.0
+31877	http://www.isd12.org/schools/high-school/centennial-high-school	Centennial High School 0012-01-164	2012.0	235.0
+31878	http://www.greatexpectationsschool.com	Great Expectations 4100-07-010	2002.0	68.0
+31879	http://www.isd361.k12.mn.us	Falls Elementary 0361-01-007	1998.0	77.0
+31880	http://www.minnewaska.k12.mn.us/	Minnewaska School District 2149-01	1997.0	3199.0
+31881	http://www.co.mower.mn.us/	Mower County	1998.0	25.0
+31882	http://www.longprairie.net/	Long Prairie	2003.0	138.0
+31883	http://www.sctcc.edu	St. Cloud Technical and Community College	2012.0	1199.0
+31884	http://www.cityofwinona.com/	Winona	2002.0	259.0
+31885	http://www.windom-mn.com/city-government/boards-and-commissions/library-board/	Windom Public Library	2012.0	3.0
+31886	http://www.crookston.mn.us/	Crookston	2000.0	80.0
+31888	http://www.sevenhillsacademy.com	Seven Hills Classical Academy 4159-07-010	2006.0	250.0
+31889	http://larl.org/locations/mcintosh-library/	Mcintosh Public Library	0.0	3.0
+31890	http://www.district279.org/index.php?option=com_content&view=article&id=665	Crest View Elementary 0279-01-672	0.0	2342.0
+31891	http://www.pinetech.edu	Pine Technical College	2002.0	248.0
+31892	http://www.aitkin.k12.mn.us/	Aitkin Public School District 0001-01	1998.0	49.0
+31893	http://www.rtrschools.org	RTR Elementary School 2902-01-100	2004.0	8078.0
+31894	http://www.co.meeker.mn.us/	Meeker County	2000.0	390.0
+31896	http://www.minnesotanationalguard.org/index.php	Military Affairs (MN National Guard), Department	2006.0	4579.0
+31897	http://www.co.olmsted.mn.us/Pages/default.aspx	Olmsted County	2011.0	1204.0
+31898	http://www.belview.org/default.aspx	Belview	2007.0	180.0
+31899	http://www.sowashco.k12.mn.us/hsdc/	So Wash High School Diploma Program 0833-01-052	2012.0	3.0
+31901	http://wabasha.lib.mn.us/	Wabasha Public Library	2004.0	91.0
+31902	http://www.kensingtonmn.com/	Kensington	2001.0	15.0
+31905	http://mn.gov/irrrb/	Board of Iron Range Resources and Rehabilitation	2012.0	263.0
+31906	http://www.hclib.org/agenciesaction.cfm?agency=bd	Hennepin County Library - Brookdale	2000.0	57.0
+31907	http://www.bensonmn.org/	Benson	2000.0	151.0
+31908	http://www.hclib.org/agenciesaction.cfm?agency=bp	Hennepin County Library - Brooklyn Park	2001.0	57.0
+31909	http://www.cambridge.k12.mn.us/~rumriversec/	Rum River Special Education Coop 6079-52	2001.0	0.0
+31910	http://www.hclib.org/agenciesaction.cfm?agency=pl	Hennepin County Library - Penn Lake	2001.0	57.0
+31911	http://www.learningforleadership.org/	Learning For Leadership Charter 4163-07-010	2007.0	12.0
+31912	http://www.isd191.org/schools/marion-w-savage-elementary	M.W. Savage Elementary 0191-01-484	2014.0	395.0
+31914	http://www.hclib.org/agenciesaction.cfm?agency=pb	Hennepin County Library - Pierre Bottineau	2009.0	57.0
+31915	http://www.hclib.org/agenciesaction.cfm?agency=py	Hennepin County Library - Plymouth	2000.0	57.0
+31917	http://www.ci.enm.mn.us/	New Market	2011.0	392.0
+31918	http://www.saintpaul.edu/Pages/default.aspx	Saint Paul College	2009.0	437.0
+31920	http://www.hayfield.k12.mn.us/	Hayfield Public School District 0203-01	1998.0	790.0
+31921	http://www.isd191.org/schools/harriet-bishop-elementary	Harriet Bishop Elementary 0191-01-491	2014.0	396.0
+31922	http://www.halstad.com/	Halstad	2001.0	78.0
+31923	http://www.ci.circle-pines.mn.us/	Circle Pines	2001.0	323.0
+31925	http://www.watervillemn.com/	Waterville	2000.0	92.0
+31926	http://www.wykoff.govoffice2.com/	Wykoff	2007.0	92.0
+31927	http://www.swmn.org/site/default.aspx?PageID=1	Marshall Middle School 0413-01-006	2013.0	12.0
+31929	http://www.evansvillemn.com/	Evansville	2002.0	10.0
+31930	http://www.jccschools.com/	Jackson County Central School Dist. 2895-01	1998.0	875.0
+31932	http://www.ci.chisago.mn.us/	Chisago City	2000.0	304.0
+31935	http://www.eminnetonka.com/	Minnetonka	2001.0	416.0
+31936	http://www.middle-river.com/	Middle River	2005.0	10.0
+31937	http://www.comfreyps.new.rschooltoday.com/	Comfrey Public School District 0081-01	0.0	249.0
+31938	http://www.backusmn.com/	Backus	2001.0	24.0
+31940	http://www.ci.shorewood.mn.us/	Shorewood	1999.0	54.0
+31941	http://www.mountainlakemn.com/	Mountain Lake	2000.0	176.0
+31942	http://www.auroracharterschool.com/	Aurora Charter School 4067-07	2009.0	546.0
+31943	http://www.newmillenniumacademy.org/	New Millennium Academy Charter Sch 4143-07	0.0	975.0
+31944	http://www.newlondonmn.net/	New London	2010.0	186.0
+31945	http://www.isd12.org/schools/junior-high-schools/centennial-middle-school	Centennial Middle 0012-01-166	2012.0	125.0
+31947	http://www.vetmed.state.mn.us/	Veterinary Medicine, Board of	2001.0	39.0
+31948	http://www.harborcityschool.org/	Harbor City International Charter 4085-07	2002.0	181.0
+31949	http://www.wabasha-kellogg.k12.mn.us/	Wabasha-Kellogg Public School Dist. 0811-01	1998.0	7.0
+31950	http://www.commissions.leg.state.mn.us/lcesw/	Economic Status of Women, Legislative Commission on the	2000.0	3.0
+31951	http://www.kingsland.k12.mn.us/	Kingsland Public School District 2137-01	1998.0	552.0
+31952	http://www.ci.scandia.mn.us/	Scandia	2007.0	798.0
+31954	http://www.ci.albertville.mn.us/	Albertville	0.0	79.0
+31955	http://www.nesc.k12.mn.us	Northeast Service Coop Sp. Ed. 0927-83-010	1998.0	439.0
+31956	http://www.pineisland.k12.mn.us	Pine Island Public School Dist. 0255-01	1997.0	723.0
+31957	http://hendrummn.com/	Hendrum	2012.0	18.0
+31958	http://www.pinepoint.k12.mn.us	Pine Point Public School District 0025-01	2001.0	37.0
+31959	http://www.ci.rosemount.mn.us/	Rosemount	2000.0	667.0
+31961	http://www.ci.newport.mn.us/	Newport	2010.0	148.0
+31964	http://www.elysianmn.com/	Elysian	2000.0	1.0
+31966	http://www.morris.k12.mn.us/	Morris Area Public Schools 2769-01	2000.0	4.0
+31967	http://www.co.brown.mn.us/	Brown County	2000.0	826.0
+31968	http://www.parkrapids.k12.mn.us/	Century Middle School Within A Sch 0309-01-081	1998.0	70.0
+31969	http://www.hopkinsschools.org/schools/secondary-schools/hopkins-west-junior-high	Hopkins West Junior High 0270-01-380	2014.0	4.0
+31970	http://www.achievemn.org	Achieve Language Academy 4018-07-010	2003.0	157.0
+31971	http://www.byronmn.com/	Byron	2001.0	275.0
+31972	http://www.face2face.org	Face To Face Academy 4036-07-010	2000.0	38.0
+31973	http://www.princetonmn.org/	Princeton	1999.0	799.0
+31975	http://www.co.chisago.mn.us/	Chisago County	1998.0	886.0
+31978	http://mn.gov/mdva/	Veterans Affairs Department	2013.0	70.0
+31979	http://www.isd191.org	Learners Center 0191-01-508	2004.0	1583.0
+31980	http://www.el-colegio.org/	El Colegio Charter School 4057-07	2001.0	28.0
+31984	http://www.bagleymn.us/	Bagley	2006.0	197.0
+31985	http://www.resourcetraining.com/	Region 7 -Resource Trng And Solution 0923-83	2000.0	205.0
+31986	http://www.cityofsavage.com/	Savage	2000.0	789.0
+31987	http://www.b-e.k12.mn.us/	Brandon-Evansville Middle School 2908-01-003	2014.0	119.0
+31989	http://www.hector.govoffice.com/	Hector	2002.0	111.0
+31990	http://www.hlww.k12.mn.us/	Howard Lake-Waverly-Winsted Sec. 2687-01-002	1998.0	270.0
+31991	http://www.isd191.org/schools/sioux-trail-elementary	Sioux Trail Elementary 0191-01-485	2014.0	396.0
+31992	http://www.nemetro.k12.mn.us/site/default.aspx?PageID=1	Targeted Svcs Columbia Heights 0916-06-466	2011.0	93.0
+31993	http://www.kittson.k12.mn.us/education/components/scrapbook/default.php?sectionid=3	Kittson Central School District 2171-01	2011.0	1.0
+31995	http://www.ci.becker.mn.us/	Becker	2001.0	106.0
+31996	http://www.kimball.k12.mn.us/	Kimball Public School District 0739-01	2002.0	242.0
+31997	http://www.isd317.org	Deer River Public School District 0317-01	2008.0	237.0
+31999	http://www.ntcmn.edu	Northwest Technical College	2002.0	730.0
+32000	http://www.voyageursschool.org/	Voyageurs Expeditionary 4107-07	2013.0	11.0
+32002	http://www.virginia.lib.mn.us	Virginia Public Library	1998.0	40.0
+32003	http://www.cityofcottonwoodmn.com/	Cottonwood	2011.0	387.0
+32004	http://nwrlib.org/warroad/	Warroad Public Library	2011.0	2.0
+32005	http://www.pierzmn.org/	Pierz	2007.0	386.0
+32006	http://www.eastcentral.k12.mn.us/	East Central School District 2580-01	2001.0	332.0
+32007	http://www.pioneerland.lib.mn.us/renville/index.htm	Renville Public Library	0.0	1.0
+32008	http://www.hopkinsschools.org/schools/elementary/xinxing-academy	Xinxing Academy 0270-01-568	2014.0	62.0
+32009	http://www.nw-service.k12.mn.us/site/default.aspx?PageID=1	Region 1 And 2-Northwest Svc. Coop 0928-83	2012.0	10.0
+32011	http://www.isd12.org/	Pines School - ACS 0012-01-158	2000.0	1169.0
+32012	http://www.pioneerland.lib.mn.us/lakelillian/index.htm	Lake Lillian Public Library	0.0	1.0
+32013	http://www.cookmn.us/	Cook	2006.0	8.0
+32014	http://www.co.stevens.mn.us/	Stevens County	2001.0	297.0
+32016	http://www.dlcommunityed.com/	Lincoln Community Education 0022-01-030	2001.0	250.0
+32017	http://www.co.mille-lacs.mn.us/	Mille Lacs County	2000.0	928.0
+32018	http://www.co.isanti.mn.us/	Isanti County	2002.0	3054.0
+32019	http://www.waconia.new.rschooltoday.com/	Waconia Area Learning Center SS/AS 0110-01-602	2012.0	5.0
+32020	http://www.rushmoremn.org/	Rushmore	2009.0	13.0
+32021	http://douglascountylibrary.org	Douglas County Library	0.0	147.0
+32022	http://www.commissions.leg.state.mn.us/lcpr/lcprmain.htm	Legislative Commission on Pensions and Retirement	1998.0	95.0
+32023	http://preston.lib.mn.us	Preston Public Library	2007.0	130.0
+32024	http://www.lilydale.govoffice.com/	Lilydale	2002.0	61.0
+32025	http://www.hibbing.edu	Hibbing Community College	2004.0	292.0
+32026	http://www.mmcd.org/	Metropolitan Mosquito Control	0.0	58.0
+32027	http://www.rushford.govoffice.com/	Rushford	2001.0	70.0
+32029	http://www.anokaramsey.edu	Anoka-Ramsey Community College	2002.0	2335.0
+32030	http://mn.gov/oah/	Administrative Hearings Office	2011.0	3.0
+32031	http://spicermn.com/	Spicer	2000.0	14.0
+32032	http://www.minnetonka.k12.mn.us/schools/clearsprings/Pages/default.aspx	Clear Springs Elementary 0276-01-601	2008.0	5.0
+32035	http://www.pioneerland.lib.mn.us/grovecity/index.htm	Grove City Public Library	0.0	1.0
+32036	http://www.afa.tc	Augsburg Fairview Academy 4111-07-010	2007.0	216.0
+32037	http://www.co.steele.mn.us/	Steele County	1998.0	448.0
+32039	http://www.psychologyboard.state.mn.us/	Psychology, Board of	2003.0	88.0
+32040	http://mn.gov/capm/	Asian-Pacific Minnesotans, Council on	2013.0	36.0
+32041	http://www.glencoepubliclibrary.webs.com/	Glencoe Public Library	2011.0	0.0
+32042	http://www.bluffcountry.com/fountain.html	Fountain	2012.0	60.0
+32044	http://www.lqpv.org	Lac qui Parle Valley School Dist. 2853-01	2001.0	114.0
+32045	http://www.isd191.org/schools/nicollet-junior-high	Nicollet Junior High 0191-01-085	2014.0	392.0
+32046	http://pequotlakes.k12.mn.us	Pequot Lakes Senior High 0186-01-020	1998.0	8.0
+32047	http://www.socialwork.state.mn.us/	Social Work, Board of	2000.0	62.0
+32048	http://www.co.wabasha.mn.us/	Wabasha County	2000.0	1714.0
+32049	http://www.lakeview2167.com/site/default.aspx?PageID=1	Lakeview School District 2167-01	2013.0	6.0
+32051	http://www.ci.chaska.mn.us/	Chaska	2001.0	110.0
+32052	http://www.newfolden.k12.mn.us	Marshall County Central High 0441-01-020	1998.0	22.0
+32053	http://www.hennepinelementaryschool.org	Hennepin Elementary School 4205-07-010	2012.0	24.0
+32054	http://www.chisholm.k12.mn.us/se3bin/clientschool.cgi?schoolname=school643	Chisholm Elementary 0695-01-301	2013.0	1.0
+32055	http://www.isd500.k12.mn.us/	Southland Public School District 0500-01	2001.0	90.0
+32060	http://www.cityofnya.com/	Norwood Young American	2002.0	65.0
+32061	http://newdiscoveries.org/	New Discoveries Montessori Academy 4161-07-010	2007.0	122.0
+32063	http://www.thebestacademy.org	Best Academy 4192-07-010	2008.0	38.0
+32064	http://www.hclib.org/agenciesaction.cfm?agency=ce	Hennepin County Library - Minneapolis Central	2009.0	58.0
+32066	http://www.hclib.org/agenciesaction.cfm?agency=ch	Hennepin County Library - Champlin	2001.0	57.0
+32067	http://www.nls.k12.mn.us	New London-Spicer Extended Year 0345-01-051	1999.0	255.0
+32068	http://www.menahga.k12.mn.us	Menahga Elementary 0821-01-010	1998.0	23.0
+32069	http://stepacademymn.com/	STEP Academy Charter School 4200-07-010	2013.0	25.0
+32070	https://dps.mn.gov/divisions/msp/pages/default.aspx	State Patrol	2011.0	3.0
+32071	http://www.belleplaine.k12.mn.us/	Belle Plaine Public School District 0716-01	2000.0	36.0
+32072	http://www.phcybrd.state.mn.us/	Pharmacy, Board of	2000.0	50.0
+32073	http://nwrlib.org/hallock/	Hallock Public Library	2011.0	2.0
+32074	http://www.biglake.k12.mn.us/	Big Lake Public School District 0727-01	2000.0	19.0
+32076	http://www.wayzata.k12.mn.us/birchview	Birchview Elementary 0284-01-804	2001.0	4390.0
+32077	http://www.ci.proctor.mn.us/	Proctor	2002.0	730.0
+32078	http://www.lyle.k12.mn.us	Lyle Public School District 0497-01	2001.0	452.0
+32079	http://sspps.org	Special Education ESY 0006-03-444	2000.0	913.0
+32080	http://www.wdc2155.k12.mn.us/	Wadena-Deer Creek School District 2155-01	1998.0	63.0
+32081	http://dlschools.net/	Walker-Hackensack-Akeley School Exd 0022-01-067	2013.0	270.0
+32083	http://www.freeportmn.com/	Freeport	2001.0	22.0
+32084	http://www.eaglebendmn.com/	Eagle Bend	2002.0	442.0
+32085	http://www.cityoflesueur.com/	Le Sueur	2002.0	70.0
+32086	http://larl.org/locations/bagley-public-library/	Bagley Public Library	0.0	3.0
+32087	http://ramsey.lib.mn.us/detrv.htm	Roseville Library	2002.0	27.0
+32088	http://cologneacademy.org	Cologne Academy 4188-07-010	2008.0	144.0
+32089	http://www.cityofnewrichlandmn.com/	New Richland	2002.0	292.0
+32090	http://www.clearlakemn.govoffice2.com/	Clear Lake	2007.0	149.0
+32091	http://www.pequotlakes-mn.gov/	Pequot Lakes	2006.0	860.0
+32092	http://www.ci.saint-anthony.mn.us/	St. Anthony	1999.0	361.0
+32094	https://dps.mn.gov/divisions/ops/pages/default.aspx	Pipeline Safety	2012.0	5.0
+32095	http://www.ci.lake-crystal.mn.us/	Lake Crystal	2003.0	118.0
+32096	http://www.duluth.lib.mn.us	Duluth Public Library	1999.0	213.0
+32097	http://www.sowashco.k12.mn.us/he/	Hillside Elementary 0833-01-036	1999.0	50.0
+32098	http://www.ci.greenfield.mn.us/	Greenfield	2009.0	95.0
+32099	http://www.grandmaraislibrary.org	Grand Marais Public Library	2002.0	19.0
+32100	http://isd2071.k12.mn.us/site/default.aspx?PageID=1	Lake Crystal-Wellcome Memorial 2071-01	2012.0	32.0
+32101	http://www.rdale.org/	School of Engineering-Arts At Olson 0281-01-008	2008.0	275.0
+32102	http://www.pioneerland.lib.mn.us/raymond/index.htm	Raymond Public Library	0.0	1.0
+32103	http://www.auditor.leg.state.mn.us/	Legislative Auditor, Office of	1996.0	308.0
+32105	http://www.hanovermn.org/	Hanover	2002.0	489.0
+32107	http://www.bagley.k12.mn.us/education/district/district.php?sectionid=1	Bagley Public School District 0162-01	2008.0	3.0
+32108	http://www.dieteticsnutritionboard.state.mn.us/	Dietetics and Nutrition Practice, Board of	2003.0	36.0
+32109	http://www.co.lake.mn.us/	Lake County	2002.0	280.0
+32110	http://www.brownsvalley.k12.mn.us/education/school/school.php?sectionid=3	Browns Valley Public School Dist. 0801-01	2011.0	3.0
+32111	http://www.ci.chatfield.mn.us/	Chatfield	2002.0	340.0
+32112	http://www.kippminnesota.org	KIPP Minnesota Charter School 4191-07-010	2008.0	17.0
+32114	http://www.evelethmn.com/index.asp?type=b_basic&sec=	Eveleth Public Library	0.0	1080.0
+32118	http://www.wayzata.k12.mn.us/wms	Wayzata West Middle 0284-01-051	2001.0	5714.0
+32120	http://www.co.sibley.mn.us/	Sibley County	2000.0	445.0
+32121	http://www.wha.k12.mn.us	WHA ESY 0113-01-040	2000.0	84.0
+32122	http://www.clevelandmn.govoffice2.com/	Cleveland	2006.0	196.0
+32123	http://www.medford.k12.mn.us/se3bin/clientschool.cgi?schoolname=school420	Medford Public School District 0763-01	2013.0	1.0
+32124	http://www.litch.com/	Litchfield	1998.0	937.0
+32126	http://mn.gov/bah/	Animal Health, Board of	2012.0	51.0
+32127	http://larl.org/locations/fosston-library/	Fosston Public Library	0.0	7.0
+32130	http://www.co.koochiching.mn.us/	Koochiching County	2002.0	8.0
+32131	http://www.egf.mn/	East Grand  Forks	2010.0	623.0
+32132	http://mn.gov/admin//	Administration Department	2013.0	534.0
+32133	http://www.ghec.k12.mn.us	Granada Huntley East Chain Elem. 2536-01-015	2000.0	4.0
+32134	http://www.canbylibrary.info/	Canby Public Library	2008.0	14.0
+32135	http://www.mahnomen.govoffice.com/	Mahnomen	2006.0	52.0
+32137	http://www.bold.k12.mn.us	Bird Island-Olivia-Lake Lillian Public School District 2534-01	1998.0	11.0
+32138	http://www.cityofdanube.com/	Danube	2001.0	276.0
+32139	http://www.garfieldmn.com/	Garfield	2001.0	56.0
+32140	http://www.ci.madison-lake.mn.us/	Madison Lake	2013.0	308.0
+32141	http://www.heritagetech.net	Heritage Science & Technology 0001-03-417	2003.0	37.0
+32142	http://mn.gov/omhdd/	Mental Health and Developmental Disabilities, Ombudsman for	2013.0	23.0
+32145	http://www.griver.org/locations-and-hours/great-river-regional-library-pierz	Great River Regional Library - Pierz	2011.0	34.0
+32146	http://www.mendota-heights.com/	Mendota Heights	2002.0	329.0
+32147	http://www.bwsr.state.mn.us/	Water and Soil Resources, Board of	1999.0	212.0
+32149	http://www.co.wright.mn.us/	Wright County	1998.0	904.0
+32150	http://www.northlandcollege.edu	Northland Community and Technical College	2003.0	2212.0
+32151	http://www.isd191.org/schools/rahn-elementary	Rahn Elementary 0191-01-488	2014.0	398.0
+32152	http://www.cityofalbertlea.org/	Albert Lea	2009.0	171.0
+32153	http://www.willmarpubliclibrary.org/	Willmar Public Library	2001.0	26.0
+32154	http://www.hopkinsschools.org/schools/elementary-schools/alice-smith-elementary	Alice Smith Elementary 0270-01-561	0.0	46.0
+32155	http://www.slpmn.org/	Spring Lake Park	2011.0	70.0
+32157	http://www.cityofkasson.com/	Kasson	2001.0	218.0
+32158	http://www.hibbing.mn.us/	Hibbing	2001.0	838.0
+32159	http://www.dacsweb.org/	Dakota Area Community Charter Sch 4123-07	2004.0	20.0
+32160	http://www.bhmschools.org	Buffalo-Hanover-Montrose Public Sch 0877-01	2007.0	404.0
+32161	http://www.underwood.k12.mn.us/	Underwood Public School District 0550-01	2000.0	402.0
+32162	http://www.evps.k12.mn.us	Eagle Valley Public School District 2759-01	2003.0	322.0
+32163	http://www.minnesotasafetycouncil.org/home.cfm	Safety Council	2003.0	1348.0
+32164	http://www.isd2154.k12.mn.us/schools/nelleshean/pages/defaul	Nelle Shean Elementary 2154-01-020	0.0	1.0
+32165	http://www.lanesboro.lib.mn.us	Lanesboro Public Library	2008.0	70.0
+32166	http://www.mad.state.mn.us/	Management Analysis and Development	2009.0	26.0
+32168	http://www.tyler.govoffice.com/	Tyler	2003.0	396.0
+32169	http://www.plumcreeklibrary.org/luverne/	Rock County Community Library	2001.0	7.0
+32170	http://www.milroy.k12.mn.us/site/default.aspx?PageID=1	MILROY Area Charter School 4138-07	2014.0	12.0
+32171	http://www.arrowhead.lib.mn.us	Mountain Iron Public Library	1998.0	880.0
+32172	http://mn.gov/deed/	Minnesota Trade Office	2013.0	1980.0
+32173	http://www.zumbroed.org	Zumbro Education Targeted Services 6012-61-040	1998.0	69.0
+32174	http://www.shakopeemn.gov/	Shakopee	2014.0	2261.0
+32175	http://www.ci.maple-lake.mn.us/	Maple Lake	2010.0	363.0
+32177	http://mn.gov/commerce/weights-and-measures/	Weights and Measures	2012.0	89.0
+32178	http://www.ci.chanhassen.mn.us/	Chanhassen	1996.0	1330.0
+32179	http://www.owatonna.k12.mn.us/schools/ohs/	Owatonna Senior High 0761-01-150	2003.0	1.0
+32180	http://www.co.ym.mn.gov/	Yellow Medicine County	2011.0	300.0
+32181	http://www.hoffmanmn.com/	Hoffman	2001.0	15.0
+32182	http://www.ci.sauk-centre.mn.us/	Sauk Centre	2002.0	699.0
+32183	http://www.canby.govoffice.com/	Canby	2006.0	63.0
+32184	http://www.hclib.org/agenciesaction.cfm?agency=rg	Hennepin County Library - Rogers	2001.0	57.0
+32185	http://www.minnetonka.k12.mn.us/schools/middleschoolwest/Pages/default.aspx	Minnetonka West Middle 0276-01-175	2008.0	7.0
+32187	http://www.hclib.org/agenciesaction.cfm?agency=ro	Hennepin County Library - Roosevelt	2009.0	57.0
+32189	http://www.ogilvie.k12.mn.us/SitePages/Home.aspx	Ogilvie Public School District 0333-01	2012.0	49.0
+32190	http://www.prairiecreek.org/	Prairie Creek Community School 4090-07-010	2000.0	69.0
+32192	http://www.isd623.org/cp/	Central Park Elementary 0623-01-722	0.0	99.0
+32194	http://www.babyspace.org	Tatanka Academy 0001-03-418	2009.0	54.0
+32195	http://www.newulm.k12.mn.us/	New Ulm Public School District 0088-01	1998.0	917.0
+32196	http://www.commissions.leg.state.mn.us/commis/legadv.htm	Legislative Advisory Commission	1998.0	1.0
+32197	http://fertilebeltrami.k12.mn.us/	Fertile-Beltrami School District 0599-01	1999.0	385.0
+32198	http://www.co.stearns.mn.us/	Stearns County	1998.0	1206.0
+32200	http://wcpcs.weebly.com	West Concord Public Charter School 4214-07-010	2011.0	72.0
+32201	http://www.cityofrice.com/	Rice	2007.0	18.0
+32202	http://www.carlton.k12.mn.us/elem	South Terrace Elementary 0093-01-002	2001.0	1.0
+32203	http://www.athlosbrooklynpark.org/	Athlos Leadership Academy 4011-07-010	2014.0	480.0
+32204	http://www.griver.org/locations-and-hours/great-river-regional-library-cold-spring	Great River Regional Library - Cold Spring	2011.0	34.0
+32205	http://www.arrowhead.lib.mn.us/area-libraries/bovey/	Bovey Public Library	2007.0	2.0
+32207	http://www.falconheights.org/	Falcon Heights	2003.0	1338.0
+32208	http://www.elylibrary.org	Ely Public Library	2000.0	75.0
+32209	http://www.co.itasca.mn.us/Home/Pages/default.aspx	Itasca County	2011.0	2.0
+32210	http://www.academic-arts.org	Academic Arts High School 4119-07-010	2011.0	0.0
+32212	https://dps.mn.gov/divisions/sfm/pages/default.aspx	Fire Marshal	2011.0	6.0
+32213	http://mn.gov/frc/	Forest Resources Council, Minnesota	2013.0	86.0
+32214	http://www.clearbrook-gonvick.k12.mn.us	Clearbrook-Gonvick School District 2311-01	2001.0	138.0
+32215	http://ecrl.lib.mn.us/millelacslake.html	Mille Lacs Community Library	2010.0	40.0
+32216	http://mn.gov/health-licensing-boards/medical-practice/	Medical Practice, Board of	2012.0	61.0
+32217	http://www.ci.north-saint-paul.mn.us/	North St. Paul	2001.0	1138.0
+32218	http://www.griver.org/locations-and-hours/great-river-regional-library-little-falls	Great River Regional Library - Little Falls	2011.0	34.0
+32219	https://www.revisor.leg.state.mn.us/	Revisor of Statutes	1998.0	24883.0
+32221	http://cityofrockcreekmn.com/	Rock Creek	2011.0	436.0
+32223	http://www.sowashco.k12.mn.us/gc/	Grey Cloud Elementary 0833-01-034	2000.0	32.0
+32224	http://www.isd12.org/schools/elementary-schools/blue-heron-elementary	Blue Heron Elementary 0012-01-515	2012.0	307.0
+32225	http://cityofosakis.com/	Osakis	2007.0	51.0
+32227	http://www.rrcnet.org/java.shtml	Red Rock Central School District 2884-01	1999.0	189.0
+32228	http://olivia.mn.us/	Olivia	1997.0	133.0
+32229	http://www.co.blue-earth.mn.us/	Blue Earth County	1998.0	1369.0
+32231	http://www.isd381.k12.mn.us	Lake Superior Public School Dist. 0381-01	2000.0	75.0
+32232	http://www.cityofisle.com/	Isle	2007.0	24.0
+32233	https://dps.mn.gov/divisions/bca/boards-committees/crimnet/pages/default.aspx	CriMNet	2011.0	17.0
+32235	http://ci.park-rapids.mn.us/	Park Rapids	1999.0	129.0
+32236	http://www.fillmorecentral.k12.mn.us	Fillmore Central Senior High 2198-01-456	2002.0	854.0
+32237	http://www.ci.morris.mn.us/	Morris	2006.0	104.0
+32238	http://www.waverlymn.org/home.aspx	Waverly	2011.0	70.0
+32239	http://www.bbe.k12.mn.us	Belgrade-Brooten-Elrosa Public School District 2364-01	2001.0	5.0
+32240	http://www.iasc.k12.mn.us/	Itasca Area Schools Collaborative 6070-50	2006.0	40.0
+32241	http://explore.southcentral.edu	South Central College	2008.0	2.0
+32242	http://www.martin.k12.mn.us	Martin County West School District 2448-01	2001.0	3.0
+32243	http://www.griver.org/locations-and-hours/great-river-regional-library-waite-park	Great River Regional Library - Waite Park	2011.0	34.0
+32244	http://www.edline.net/pages/Sleepy_Eye_School	Sleepy Eye Public School District 0084-01	2012.0	17.0
+32245	http://www.swmetro.k12.mn.us	Southwest Metro Educational Coop 6088-50	2013.0	18.0
+32246	http://www.ci.burnsville.mn.us/	Burnsville	1998.0	1286.0
+32247	http://www.griver.org/locations-and-hours/great-river-regional-library-big-lake	Great River Regional Library - Big Lake	2011.0	34.0
+32248	http://mn.gov/caapb/	Board of Capitol Area Architectural and Planning	2012.0	15.0
+32249	http://www.viking.lib.mn.us	Wheaton Community Library	1999.0	55.0
+32250	http://www.owatonna.k12.mn.us/schools/wilson/	Wilson Elementary 0761-01-905	2006.0	1.0
+32251	http://www.fairmont.org/	Fairmont	1998.0	83.0
+32252	http://www.co.cottonwood.mn.us/	Cottonwood County	2006.0	141.0
+32253	https://www.minnesotatra.org/	Teachers Retirement Association	2011.0	210.0
+32254	http://www.griver.org/locations-and-hours/great-river-regional-library-swanville	Great River Regional Library - Swanville	2011.0	34.0
+32255	http://www.southernplainsedcoop.org/	Southern Plains Area Learning Cntr. 0915-52-020	2013.0	23.0
+32256	http://www.wayzata.k12.mn.us/cms	Wayzata Central Middle 0284-01-053	2001.0	4965.0
+32258	http://www.mnhs.org/	Minnesota Historical Society	1996.0	419.0
+32259	http://www.stcharlesmn.org/	St. Charles	1999.0	90.0
+32261	http://www.mda.state.mn.us/	Agriculture Department	1997.0	1680.0
+32262	http://www.ely.k12.mn.us/	Ely Public School District 0696-01	2000.0	1183.0
+32263	http://www.claremontmn.com/	Claremont	2003.0	50.0
+32264	http://www.litchfield.k12.mn.us	Litchfield Area Learning Program 0465-01-050	1999.0	241.0
+32266	http://www.ci.buffalo.mn.us/	Buffalo	0.0	87.0
+32267	http://www.stpaulcityschool.org	St. Paul City Primary School 4029-07-010	2011.0	27.0
+32268	http://www.sherburn.govoffice.com/	Sherburn	2002.0	167.0
+32269	http://www.ci.excelsior.mn.us/	Excelsior	2002.0	753.0
+32270	http://www.mnsu.edu	Minnesota State University, Mankato	2000.0	2910.0
+32272	http://www.ci.northfield.mn.us/	Northfield	1998.0	1370.0
+32276	http://www.ashby.k12.mn.us	Ashby Elementary 0261-01-010	2001.0	21.0
+32277	http://www.ci.anoka.mn.us/	Anoka	2001.0	719.0
+32278	http://www.metrocouncil.org/	Metropolitan Council	1996.0	1566.0
+32279	http://www.alexandria.k12.mn.us/site/default.aspx?PageID=1	Alexandria Public School District 0206-01	2012.0	40.0
+32280	http://www.century.edu	Century College	2004.0	456.0
+32281	http://www.greatriverschool.org	Great River School 4105-07-010	2003.0	124.0
+32282	http://www.newcityschool.org	New City School 4089-07-010	1998.0	375.0
+32283	http://www.nwric.com	NW Region Interdistrict Council 0382-52-010	0.0	6.0
+32284	http://www.stpeterschools.org	North Intermediate Elementary 0508-01-030	2001.0	892.0
+32285	http://www.hclib.org/agenciesaction.cfm?agency=su	Hennepin County Library - Sumner	2009.0	57.0
+32287	http://www.es.royalton.k12.mn.us/	Royalton Elementary 0485-01-010	0.0	231.0
+32289	http://www.hclib.org/agenciesaction.cfm?agency=sd	Hennepin County Library - Southdale	2000.0	57.0
+32290	http://www.hclib.org/agenciesaction.cfm?agency=se	Hennepin County Library - Southeast	2009.0	57.0
+32292	http://www.hclib.org/agenciesaction.cfm?agency=sa	Hennepin County Library - St. Anthony	2000.0	57.0
+32293	http://www.hclib.org/agenciesaction.cfm?agency=sb	Hennepin County Library - St. Bonifacius	2001.0	57.0
+32294	http://www.hclib.org/agenciesaction.cfm?agency=sl	Hennepin County Library - St. Louis Park	2001.0	57.0
+32295	http://www.browerville.k12.mn.us/	Browerville Public School District 0787-01	2004.0	100.0
+32296	http://www.tricounty.k12.mn.us	Tri-County School District 2358-01	2001.0	75.0
+32297	http://www.cityofmelrose.com/	Melrose	2001.0	432.0
+32298	http://krls.org	Kitchigami Regional Library	2002.0	105.0
+32299	http://www.owatonna.k12.mn.us/esc/special%20services/actions	Actions School 0761-01-154	0.0	1.0
+32300	http://www.dctc.edu	Dakota County Technical College	2003.0	1078.0
+32302	http://www.co.wadena.mn.us/	Wadena County	2001.0	67.0
+32303	http://cityofpriorlake.com/	Prior Lake	2000.0	283.0
+32304	http://rschooltoday.com/se3bin/clientschool.cgi?schoolname=school468	St. Louis Park Public School Dist. 0283-01	2013.0	2.0
+32305	http://www.hclib.org/agenciesaction.cfm?agency=fr	Hennepin County Library - Franklin	2009.0	57.0
+32306	http://www.federaldam.com/	Federal Dam	2007.0	6.0
+32307	http://www.isd2190.org	Yellow Medicine East High School 2190-01-022	2008.0	29.0
+32309	http://www.hclib.org/agenciesaction.cfm?agency=rr	Hennepin County Library - Rockford Road	2002.0	57.0
+32310	http://www.lccmr.leg.mn/	Legislative Commission on Minnesota Resources (LCMR)	2007.0	144.0
+32313	http://www.isd12.org/schools/elementary-schools/centerville-elementary	Centerville Elementary 0012-01-511	2012.0	293.0
+32314	http://www.watershedhs.org/	Watershed High School 4092-07	2001.0	11.0
+32315	http://www.pioneerland.lib.mn.us/dassel/index.htm	Dassel Public Library	0.0	1.0
+32316	http://www.lafayettecharter.k12.mn.us	Lafayette Public Charter School 4050-07-010	2003.0	228.0
+32318	http://www.plumcreeklibrary.org/lakebenton/default.htm	Lake Benton Public Library	2011.0	6.0
+32319	http://www.elkrivermn.gov/	Elk River	2012.0	1168.0
+32323	http://www.co.roseau.mn.us/	Roseau County	2006.0	100.0
+32324	http://www.cybervillageacademy.org	Cyber Village Academy 4025-07-010	2009.0	81.0
+32325	http://www.isd191.org/schools/hidden-valley-elementary	Hidden Valley Elementary 0191-01-490	2014.0	400.0
+32326	http://www.wm.k12.mn.us/	Watertown-Mayer Public School Dist. 0111-01	1998.0	15.0
+32327	http://www.atwaterchamber.com/	Atwater	2002.0	24.0
+32328	http://www.ssc.coop/site/default.aspx?PageID=1	Region 10-Southeast Service Coop 0921-83-010	2013.0	62.0
+32329	http://www.willmar.k12.mn.us/site/default.aspx?PageID=1	Willmar Area Learning Center 0347-01-949	0.0	4.0
+32330	http://lakeelmopubliclibrary.org/	Lake Elmo Public Library	0.0	800.0
+32331	http://www.hopkinsschools.org/schools/other-schools/transition-plus-program	Transition Plus 0270-01-093	2014.0	4.0
+32332	http://www.keewatin.govoffice.com/	Keewatin	2002.0	69.0
+32333	http://www.hsra.org	High School For Recording Arts 4039-07-010	2000.0	65.0
+32335	http://www.r-pschools.com	Rushford-Peterson Senior High 0239-01-002	2001.0	43.0
+32336	http://www.rctc.edu	Rochester Community and Technical College	2002.0	332.0
+32338	http://www.pioneerland.lib.mn.us/cosmos/index.htm	Cosmos Public Library	0.0	1.0
+32339	http://www.stma.k12.mn.us	Page Academy 0885-01-080	1998.0	634.0
+32340	http://larl.org/locations/ada-library/	Ada Public Library	2014.0	3.0
+32341	http://cityweb.lakesnet.net/	Detroit Lakes	2012.0	230.0
+32342	http://www.barrettmn.com/	Barrett	2004.0	153.0
+32343	http://www.hclib.org/agenciesaction.cfm?agency=mi	Hennepin County Library - Minnetonka	2000.0	57.0
+32344	http://www.cityofcrosslake.org/	Crosslake	2011.0	88.0
+32345	http://www.mnsports.org/	Amateur Sports Commission, Minnesota	2002.0	34.0
+32346	http://www.hclib.org/agenciesaction.cfm?agency=mg	Hennepin County Library - Maple Grove	2001.0	57.0
+32348	http://www.arrowhead.lib.mn.us/area-libraries/mckinley/	Mckinley Public Library	2007.0	2.0
+32349	http://www.hclib.org/agenciesaction.cfm?agency=mp	Hennepin County Library - Maple Plain	2002.0	57.0
+32350	http://larl.org/2011/04/01/fertile-mobile-dedication-april-15/	Fertile Public Library	0.0	3.0
+32351	http://www.sibleyeast.org	Sibley East School District 2310-01	2003.0	298.0
+32352	http://www.ci.north-branch.mn.us/	North Branch	2003.0	246.0
+32354	http://www.smsu.edu	Southwest Minnesota State University	1997.0	3104.0
+32355	http://www.onamia.k12.mn.us	Onamia Public School District 0480-01	2001.0	7.0
+32356	http://www.osakis.k12.mn.us	Osakis Public School District 0213-01	2001.0	464.0
+32357	http://www.ci.minnetonka-beach.mn.us/	Minnetonka Beach	2006.0	319.0
+32358	http://www.cityofkenyon.com/	Kenyon	2001.0	55.0
+32362	http://www.isd191.org/schools/gideon-pond-elementary	Gideon Pond Elementary 0191-01-482	2014.0	401.0
+32363	http://www.isd623.org/bh/	Brimhall Elementary 0623-01-721	0.0	99.0
+32364	http://cityofwahkon.com/	Wahkon	2007.0	158.0
+32366	http://www.priorlake-savage.k12.mn.us	Prior Lake-Savage Targeted Services 0719-01-035	1999.0	1085.0
+32368	http://www.ci.new-hope.mn.us/	New Hope	1999.0	194.0
+32370	http://www.brownsvillemn.org/	Brownsville	2003.0	12.0
+32371	http://www.redlake.k12.mn.us	Red Lake Public School District 0038-01	1998.0	8450.0
+32372	http://www.ci.eagan.mn.us/	Eagan	1998.0	2218.0
+32374	http://plumcreeklibrary.org/morgan/	Morgan Public Library	2001.0	5.0
+32375	http://www.gemlakemn.org/	Gem Lake	2003.0	21.0
+32377	http://ecrl.lib.mn.us/wyoming.html	Wyoming Area Giese Memorial Library	2009.0	34.0
+32378	http://www.isd191.org/schools/metcalf-junior-high	Metcalf Junior High 0191-01-015	2014.0	396.0
+32379	http://www.ellsworth.mntm.org/	Ellsworth Public School District 0514-01	1998.0	53.0
+32382	http://www.anoka.k12.mn.us/education/district/district.php?sectionid=10298	Champlin/Brooklyn Pk Acd Math Env Sci 0011-01-430	2003.0	0.0
+32383	http://www.cityofavonmn.com/	Avon	2002.0	55.0
+32384	http://www.stjames.k12.mn.us	St. James Northside Elementary 0840-01-020	2001.0	532.0
+32385	http://www.plainviewmn.com/	Plainview	1999.0	79.0
+32386	http://www.midstate.k12.mn.us/	Morrison County Learning Center 6979-61-030	2013.0	15.0
+32387	http://www.cityofcarver.com/	Carver	2006.0	652.0
+32388	http://www.shoreviewmn.gov/	Shoreview	0.0	782.0
+32389	http://metrotechacademy.org/	Metro Tech Academy 4173-07-010	2012.0	34.0
+32391	http://mn.gov/mdhr/	Human Rights Department	2013.0	303.0
+32393	http://www.isd623.org/rams/	Roseville Area Middle 0623-01-070	0.0	99.0
+32394	http://www.msa.state.mn.us	Minnesota State Academies 0160-70	2007.0	61.0
+32396	http://www.cfboard.state.mn.us/	Board of Campaign Finance and Public Disclosure	1998.0	712.0
+32397	http://www.owatonna.k12.mn.us/schools/willow%20creek/	Willow Creek Intr. Elementary 0761-01-906	2006.0	1.0
+32398	http://www.minnetonka.k12.mn.us/schools/excelsior/Pages/default.aspx	Excelsior Elementary 0276-01-603	2008.0	10.0
+32399	http://www.co.washington.mn.us/	Washington County	1996.0	1075.0
+32401	http://www.pem.k12.mn.us	Plainview-Elgin-Millville 2899-01	2012.0	99.0
+32402	http://co.pennington.mn.us/	Pennington County	2011.0	72.0
+32404	http://www.arrowhead.lib.mn.us/area-libraries/baudette	Baudette Public Library	2007.0	10.0
+32405	http://www.houston.govoffice.com/	Houston Public Library	2002.0	117.0
+32406	http://www.treknorth.org/	TrekNorth High School 4106-07	2003.0	24.0
+32407	http://education.state.mn.us/mde/edexc/boardteach/	Teaching, Board of	2013.0	24.0
+32408	http://www.stephenmn.com/	Stephen	2002.0	465.0
+32409	http://www.ci.owatonna.mn.us/	Owatonna	1999.0	1196.0
+32410	http://www.mncdhh.org/	Minnesota Commission Serving Deaf and Hard of Hearing People	2006.0	320.0
+32411	http://www.co.mcleod.mn.us/	McLeod County	2001.0	1028.0
+32412	http://www.nobleacademy.us/	Noble Academy 4171-07-010	2007.0	120.0
+32413	http://mn.gov/sbi/	Board of Investment, Minnesota State	2013.0	16.0
+32414	http://www.perham.k12.mn.us/	Perham-Dent Public School District 0549-01	1999.0	220.0
+32415	http://www.rochestermn.gov/	Rochester	2003.0	1672.0
+32416	http://www.ci.ramsey.mn.us/	Ramsey	1999.0	538.0
+32418	http://rushford.lib.mn.us/	Rushford Public Library	2006.0	81.0
+32419	http://www.511mn.org/	511 - Traveler Information	2002.0	1.0
+32421	http://www.cityvadnaisheights.com/	Vadnais Heights	2000.0	205.0
+32422	http://www.cityofgrant.us/	Grant	2013.0	310.0
+32423	http://www.isd47.org/	Sauk Rapids-Rice Public Schools 0047-01	0.0	179.0
+32424	http://www.griver.org/locations-and-hours/great-river-regional-library-st-michael	Great River Regional Library - St. Michael	2011.0	34.0
+32425	http://www.podiatry.state.mn.us/	Podiatric Medicine, Board of	2002.0	35.0
+32426	http://www.progressivepipestone.com/	Pipestone	2001.0	6.0
+32428	http://larl.org/locations/barnesville-public-library/	Barnesville Public Library	0.0	3.0
+32429	http://www.taxcourt.state.mn.us/	Tax Court	0.0	0.0
+32430	http://www.isd15.org	St. Francis Public School District 0015-01	2001.0	1829.0
+32431	http://www.leg.state.mn.us/	State Legislature	1997.0	6166.0
+32432	http://www.northshorecommunityschool.org	North Shore Community School 4084-07-010	0.0	71.0
+32433	http://www.globalacademy.us/se3bin/clientschool.cgi?schoolname=school421	Global Academy 4186-07-010	2013.0	46.0
+32434	http://www.friendshipacademy.org	Friendship Acdmy of Fine Arts Chtr. 4079-07-010	2001.0	71.0
+32435	http://www.duluthedisoncharterschools.com	Duluth Public Schools Academy 4020-07	2011.0	74.0
+32436	http://www.ci.lauderdale.mn.us/	Lauderdale	2001.0	330.0
+32438	http://www.hclib.org/agenciesaction.cfm?agency=nk	Hennepin County Library - Nokomis	2009.0	57.0
+32439	http://www.co.wilkin.mn.us/	Wilkin County	2001.0	645.0
+32440	http://www.fosston.com/	Fosston	1996.0	304.0
+32441	http://www.hclib.org/agenciesaction.cfm?agency=ne	Hennepin County Library - Northeast	2009.0	57.0
+32446	http://www.hclib.org/agenciesaction.cfm?agency=nr	Hennepin County Library - North Regional	2009.0	57.0
+32447	http://mn.gov/portal/	State Government	2012.0	79.0
+32449	http://www.birchgroveschool.com	Birch Grove Community School 4145-07-010	2005.0	32.0
+32451	http://www.cityofstjoseph.com/	St. Joseph	2006.0	278.0
+32452	http://www.cityofrockford.org/	Rockford	2001.0	231.0
+32453	http://www.mnhs.org/index.htm	Historical Society, Minnesota	2004.0	230.0
+32456	http://www.orrpelicanlake.com/	Orr	2010.0	25.0
+32457	http://www.becity.org/	Blue Earth	2008.0	5.0
+32458	http://www.lyndschool.org	Lynd Public School District 0415-01	2011.0	2398.0
+32459	http://www.mncourts.gov/	Minnesota Judicial Branch	2006.0	2149.0
+32460	http://www.sowashco.k12.mn.us	Early Childhood Program 0833-01-033	1996.0	704.0
+32462	http://ww2.psak12.org/	Prairie Seeds Academy 4126-07-010	2013.0	155.0
+32463	http://www.wabasha.org/	Wabasha	2007.0	257.0
+32468	http://www.sunfishlake.org/	Sunfish Lake	2000.0	341.0
+32469	http://www.co.todd.mn.us/	Todd County	2001.0	1332.0
+32470	http://ecrl.lib.mn.us/pinecity.html	Pine City Public Library	2010.0	40.0
+32471	http://www.rclreads.org/	Ramsey County Library	2003.0	1042.0
+32472	http://www.lonsdale.govoffice.com/	Lonsdale	2006.0	507.0
+32473	http://www.cpa.charter.k12.mn.us	Community of Peace Academy ESY-SE 4015-07-013	2003.0	53.0
+32474	http://www.sowashco.k12.mn.us/we/	Woodbury Elementary 0833-01-046	2001.0	46.0
+32475	http://www.griver.org/locations-and-hours/great-river-regional-library-howard-lake	Great River Regional Library - Howard Lake	2011.0	34.0
+32476	http://www.isd622.org/site/default.aspx?PageID=1	NORTH ST PAUL-MAPLEWOOD OAKDALE PUBLIC SCHOOL DISTRICT 0622-01	2013.0	271.0
+32477	http://www.sowashco.k12.mn.us/lake/	Lake Middle School 0833-01-021	2001.0	85.0
+32478	http://www.mnfilmtv.org/	Board on Minnesota Film and TV	2007.0	252.0
+32480	http://www.hilltop.govoffice.com/	Hilltop	2002.0	28.0
+32481	http://www.isd15.org/	District Wide Extended School Year 0015-01-370	2001.0	1758.0
+32482	http://www.minneotaschools.org/site/default.aspx?PageID=1	Minneota Public School District 0414-01	2013.0	10.0
+32483	http://www.owatonna.k12.mn.us/schools/ojhs/	Owatonna Junior High 0761-01-151	2006.0	1.0
+32484	http://www.owatonna.k12.mn.us/schools/community%20ed/home.ht	Owatonna ECSE 0761-01-903	0.0	1.0
+32486	http://www.hopkinsschools.org/schools/secondary-schools/hopkins-high-school	Hopkins Senior High 0270-01-282	2014.0	4.0
+32488	http://www.cityofbertha.com/	Bertha	2012.0	17.0
+32489	http://www.lqpco.com/	Lac qui Parle County	2007.0	5.0
+32490	http://www.isd2397.org/cms/one.aspx	Ziebarth Alternative Learning Ctr. 2397-01-031	2012.0	158.0
+32491	http://www.granitefalls.com/	Granite Falls	1998.0	37.0
+32492	http://www.lakeofthewoodsschool.org	Lake of The Woods School District 0390-01	2008.0	1081.0
+32493	http://bayportlibrary.org	Bayport Public Library	2001.0	31.0
+32494	http://www.co.douglas.mn.us/dc/home.aspx	Douglas County	0.0	765.0
+32496	http://www.wayzata.k12.mn.us/greenwood	Greenwood Elementary 0284-01-806	2001.0	5436.0
+32497	http://www.indus.k12.mn.us	Indus Elementary 0363-01-090	2013.0	2.0
+32498	http://www.oshkiogimaag.org	Oshki Ogimaag Charter School 4195-07-010	2010.0	15.0
+32499	http://www.crookston.k12.mn.us/	Crookston Public School District 0593-01	1998.0	2.0
+32501	http://www.pas.k12.mn.us/site/default.aspx?PageID=1	Pipestone Area School District 2689-01	2013.0	13.0
+32502	http://medinamn.us/	Medina	2013.0	131.0
+32503	http://www.cityofdundas.org/	Dundas	2007.0	33.0
+32504	http://ecrl.lib.mn.us/milaca.html	Milaca Community Library	2010.0	40.0
+32505	http://cityofsebeka.com/	Sebeka	2003.0	1.0
+32506	http://www.stclair.govoffice2.com/	St. Clair	2006.0	566.0
+32507	http://www.fraseracademy.org	Fraser Academy 4113-07-010	2004.0	49.0
+32509	http://mn.gov/cobm/?agency=cbm	Black Minnesotans, Council on	2014.0	27.0
+32510	http://www.zumbrota.info/	Zumbrota Public Library	2008.0	190.0
+32512	http://www.comm.media.state.mn.us/bookstore/bookstore.asp	Minnesota's Bookstore	2003.0	159.0
+32513	http://plumcreeklibrary.org/jackson/	Jackson County Library	2001.0	24.0
+32514	http://www.middleriver.k12.mn.us/site/default.aspx?PageID=1	Greenbush-Middle River School Dist. 2683-01	2011.0	6.0
+32515	http://newcitycharterschool.org/	New City School 4089-07	2004.0	154.0
+32516	http://www.hayfieldmn.com/	Hayfield	1998.0	196.0
+32517	http://cmerdc.org/	Central Minnesota E.R.D.C. 0246-50-010	2011.0	93.0
+32518	http://www.cityofhokah-mn.gov/	Hokah	2012.0	16.0
+32519	http://www.mngeo.state.mn.us/	Geospatial Information Office	2009.0	704.0
+32520	http://www.delano.mn.us/	Delano	2001.0	351.0
+32522	http://www.isd743.k12.mn.us/	Sauk Centre Public School District 0743-01	2002.0	86.0
+32524	http://www.hopkinsschools.org/	Hopkins Public School District 0270-01	2007.0	2314.0
+32525	http://www.zimmerman.govoffice.com/	Zimmerman	2006.0	243.0
+32528	http://www.minnetonka.k12.mn.us/Pages/default.aspx	Minnetonka Public School District 0276-01	2008.0	699.0
+32530	http://mnved.org	MN Valley Ed. Dist. Early Childhood 6027-61-030	2008.0	69.0
+32531	http://www.ci.madison.mn.us/	Madison	2005.0	380.0
+32532	http://pact.charter.k12.mn.us/	PACT Charter Secondary 4008-07-030	2001.0	458.0
+32533	http://www.eqb.state.mn.us/	Board on Environmental Quality	2003.0	451.0
+32534	http://www.pcae.k12.mn.us	Perpich Center For Arts Education 1000-70	2001.0	367.0
+32538	http://www.teacherweb.com/MN/Hancock/SchoolHomepage/sdhp1.aspx	Hancock Public School District 0768-01	2010.0	33.0
+32540	http://www.lanesboro.com/	Lanesboro	1998.0	199.0
+32541	http://www.breckenridgemn.net/	Breckenridge	2001.0	55.0
+32542	http://www.co.fillmore.mn.us/	Fillmore County	2001.0	648.0
+32543	http://www.springfieldmn.org/	Springfield	2001.0	372.0
+32544	http://www.isd547.com	Parkers Prairie Public School Dist. 0547-01	2007.0	22.0
+32545	https://www.moorheadschools.org/schools/middle-schools/horizon-middle-school/	Horizon Middle School 0152-01-380	2014.0	106.0
+32549	http://www.richfield.k12.mn.us	Secondary Special Education 0280-01-699	1998.0	2.0
+32551	http://www.wao.k12.mn.us/education/school/school.php?sectionid=3	Warren-Alvarado-Oslo Secondary 2176-01-020	2008.0	0.0
+32553	http://www.nws.k12.mn.us/	N.W.Suburban Integration School 6078-62-010	2003.0	236.0
+32554	http://mn.gov/ombudfam/	Ombudspersons for Families	0.0	8.0
+32555	http://www.isd191.org/schools/sky-oaks-elementary	Sky Oaks Elementary 0191-01-489	2014.0	399.0
+32558	http://www.yinghuaacademy.org	Yinghua Academy 4140-07-010	2006.0	157.0
+32560	http://becl.org	Blue Earth Community Library	2005.0	128.0
+32561	http://www.co.scott.mn.us/Pages/home.aspx	Scott County	2010.0	664.0
+32563	http://www.hopkinsschools.org/schools/elementary/l-h-tanglen-elementary	L.H. Tanglen Elementary 0270-01-567	2014.0	61.0
+32566	http://www.isd12.org/schools/elementary-schools/rice-lake-elementary	Rice Lake Elementary 0012-01-513	2012.0	318.0
+32568	http://www.sowashco.k12.mn.us/nfsi/	Nuevas Fronteras 0833-01-031	2008.0	16.0
+32570	http://riverbend.k12.mn.us	River Bend Early Childhood Prog. 6049-61-040	2002.0	140.0
+32571	http://www.ci.ham-lake.mn.us/	Ham Lake	2000.0	365.0
+32572	http://www.twinvalley.govoffice.com/	Twin Valley	2003.0	387.0
+32573	https://dps.mn.gov/divisions/hsem/pages/default.aspx	Homeland Security and Emergency Management	2011.0	3.0
+32574	http://www.mesabieast.k12.mn.us/	Mesabi East School District 2711-01	1999.0	713.0
+32575	http://www.greenway.new.rschooltoday.com/	Marble Early Childhood Center 0316-01-120	2012.0	59.0
+32576	http://www.fergusfalls.k12.mn.us/	Fergus Falls Targeted Services Prog 0544-01-330	1998.0	432.0
+32577	http://www.forestlake.k12.mn.us/	Forest Lake Public School District 0831-01	1998.0	160.0
+32578	http://www.paideiaacademy.org	Paideia Academy Charter School 4141-07-010	2001.0	50.0
+32579	http://www.stanthony.k12.mn.us/	St. Anthony-New Brighton Schools 0282-01	1998.0	87.0
+32580	http://www.optometryboard.state.mn.us/	Board of Optometry	2003.0	28.0
+32581	http://www.barbers.state.mn.us/	Board of Barber Examiners	0.0	35.0
+32582	http://www.hawley.govoffice.com/	Hawley	2002.0	177.0
+32583	http://www.edline.net/pages/Waseca_Public_Schools_ISD__829	Waseca Middle Level Targeted Svcs. 0829-01-070	2011.0	700.0
+32584	http://www.mncourts.gov/?page=238	District Courts	2006.0	1770.0
+32585	http://www.mesabirange.edu	Mesabi Range Community and Technical College	2007.0	161.0
+32587	http://www.hclib.org/agenciesaction.cfm?agency=os	Hennepin County Library - Osseo	2000.0	57.0
+32588	http://www.beaconacademy.com	Beacon Academy 4124-07-010	0.0	398.0
+32589	http://www.longlakemn.gov/	Long Lake	2011.0	140.0
+32590	http://www.hclib.org/agenciesaction.cfm?agency=ox	Hennepin County Library - Oxboro	2000.0	57.0
+32591	http://www.willmarmn.gov/	Willmar	2012.0	1456.0
+32593	http://www.laurajeffreyacademy.org	Laura Jeffrey Academy Charter 4164-07-010	2008.0	100.0
+32594	http://www.ci.renville.mn.us/	Renville	1998.0	602.0
+32595	http://grandmeadow.lib.mn.us/	Grand Meadow Public Library	2004.0	37.0
+32596	http://www.dli.mn.gov/boe.asp	Electricity, Board of	2009.0	343.0
+32598	http://www.cpe-k6.org/	College Preparatory Elementary 4193-07-010	2011.0	11.0
+32599	http://www.pca.state.mn.us/	Pollution Control Agency	2003.0	2721.0
+32600	http://www.minnetonka.k12.mn.us/schools/groveland/Pages/default.aspx	Groveland Elementary 0276-01-604	2008.0	8.0
+32601	http://www.griver.org/locations-and-hours/great-river-regional-library-annandale	Great River Regional Library - Annandale Branch	2011.0	34.0
+32602	http://www.henning.k12.mn.us/education/school/school.php?sectionid=2	Henning Public School District 0545-01	2007.0	4.0
+32603	http://www.citytrf.net/	Thief River Falls	2007.0	254.0
+32604	http://www.evelethmn.com/	Eveleth	1998.0	1078.0
+32606	http://www.ci.minnetrista.mn.us/	Minnetrista	1999.0	642.0
+32607	http://www.fridley.k12.mn.us/	Fridley Public School District 0014-01	2000.0	307.0
+32609	http://www.ci.brainerd.mn.us/	Brainerd	1998.0	49.0
+32611	http://www.northbranch.k12.mn.us/	North Branch Public Schools 0138-01	1999.0	531.0
+32613	http://cityofwheaton.com/	Wheaton	2000.0	107.0
+32614	http://www.sowashco.k12.mn.us/erhs/	East Ridge High School 0833-01-025	2008.0	143.0
+32617	http://www.ci.new-prague.mn.us/	New Prague	2004.0	619.0
+32618	http://www.oronoco.com/	Oronoco	2000.0	578.0
+32619	http://www.plumcreeklibrary.org/wabasso/	Wabasso Public Library	2001.0	8.0
+32621	http://isd191.org/schools/burnsville-alternative-high-school	Burnsville Area Learning Center 0191-01-314	2014.0	395.0
+32624	http://www.doc.state.mn.us/	Corrections Department	1999.0	294.0
+32625	http://www.braham.k12.mn.us/	Braham Public School District 0314-01	1998.0	5.0
+32626	http://www.rcw.k12.mn.us/se3bin/clientschool.cgi?schoolname=school542	Renville County West Senior High 2890-01-020	2013.0	1.0
+32627	http://www.co.anoka.mn.us/	Anoka County	2000.0	3264.0
+32629	http://www.ci.little-canada.mn.us/	Little Canada	2001.0	435.0
+32630	http://www.ridgewater.edu/Pages/default.aspx	Ridgewater College	2012.0	781.0
+32631	http://www.performing-arts-school.org	Main Street School Performing Arts 4110-07-010	2003.0	5.0
+32633	http://tcgis.org/	Twin Cities German Immersion Chrtr 4152-07-010	2011.0	156.0
+32634	http://www.cityofmilaca.org/	Milaca	2001.0	203.0
+32635	http://www.pioneerland.lib.mn.us/kerkhoven/index.htm	Kerkhoven Public Library	0.0	1.0
+32636	http://www.griver.org/locations-and-hours/great-river-regional-library-clearwater	Great River Regional Library - Clearwater (Stickney Crossing Library)	2011.0	34.0
+32637	http://www.paynesvilleschools.com	Paynesville Public School District 0741-01	2004.0	28.0
+32638	http://www.janesville.govoffice.com/	Janesville	2003.0	135.0
+32640	http://www.smm.org/	Science Museum of Minnesota	1998.0	647.0
+32641	http://www.pioneerland.lib.mn.us/winsted/index.htm	Winsted Public Library	0.0	1.0
+32643	http://www.isd2397.org	Le Sueur-Henderson School District 2397-01	2012.0	696.0
+32644	http://www.co.polk.mn.us/	Polk County	2001.0	805.0
+32645	http://www.co.jackson.mn.us/	Jackson County	2006.0	650.0
+32646	http://www.commissions.leg.state.mn.us/lcc/lcc.htm	Legislative Coordinating Commission	2001.0	2.0
+32647	http://www.griver.org/locations-and-hours/great-river-regional-library-richmond	Great River Regional Library - Richmond	2011.0	34.0
+32648	http://www.stewartvillemn.com/	Stewartville	2001.0	153.0
+32650	http://www.hbcpatriots.com	Hills-Beaver Creek Secondary 0671-01-020	2003.0	168.0
+32651	http://mn.gov/commerce/	Commerce Department	2011.0	2648.0
+32652	http://www.cityofdaytonmn.com/	Dayton	2007.0	335.0
+32654	http://www.ci.new-ulm.mn.us/	New Ulm	2001.0	1265.0
+32655	http://www.isd191.org/schools/vista-view-elementary	Vista View Elementary 0191-01-486	2014.0	401.0
+32656	http://www.minnetonka.k12.mn.us/schools/minnetonkahighschool/Pages/default.aspx	Minnetonka Senior High 0276-01-074	2008.0	7.0
+32657	http://www.gilbert.lib.mn.us	Gilbert Public Library	2000.0	24.0
+32659	http://redwing.lib.mn.us/	Red Wing Public Library	2003.0	134.0
+32660	http://www.nashwauk.govoffice.com/	Nashwauk	2006.0	325.0
+32661	http://www.co.mahnomen.mn.us/	Mahnomen County	2010.0	33.0
+32663	http://www.sowashco.k12.mn.us/be/	Gordon Bailey Elementary 0833-01-045	1999.0	50.0
+32664	http://www.griver.org/locations-and-hours/great-river-regional-library-st-cloud	Great River Regional Library - St. Cloud	2011.0	34.0
+32666	http://rochesterstemacademy.org/	Rochester STEM Academy 4204-07-010	2011.0	9.0
+32667	http://www.madelia.k12.mn.us	Madelia Public School District 0837-01	2001.0	3.0
+32668	http://www.chisagolakes.k12.mn.us/pathway/index.htm	Level 4 Program Pathways To Change 2144-01-010	0.0	2.0
+32670	http://www.isd2170.k12.mn.us	Staples-Motley School District 2170-01	2000.0	28.0
+32673	https://dps.mn.gov/pages/default.aspx	Alcohol and Gambling Enforcement	2011.0	527.0
+32674	http://www.dovermn.org/	Dover	2011.0	70.0
+32676	http://www.griver.org/locations-and-hours/great-river-regional-library-kimball	Great River Regional Library - Kimball	2011.0	34.0
+32677	http://www.minnesotahumanities.org/	Humanities Commission, Minnesota	2002.0	66.0
+32678	http://www.frostviking.com/	Frost	1999.0	22.0
+32679	http://www.cloquet.lib.mn.us	Cloquet Public Library	1998.0	12.0
+32681	http://www.edline.net/pages/holdingford_public_schools	Holdingford Public School District 0738-01	2010.0	108.0
+32682	https://dps.mn.gov/entity/post/pages/default.aspx	Peace Officer Standards and Training, Board of	2011.0	10.0
+32683	http://www.jordan.k12.mn.us/	Jordan Public School District 0717-01	2000.0	432.0
+32684	http://www.sowashco.k12.mn.us/crv/	Crestview Elementary 0833-01-032	2001.0	3.0
+32685	http://www.breckenridge.k12.mn.us	Breckenridge Public School District 0846-01	1998.0	634.0
+32686	http://murray-countymn.com/mc/	Murray County	2011.0	1650.0
+32687	http://www.co.beltrami.mn.us/	Beltrami County	2003.0	271.0
+32688	http://mn.gov/mdva/homes/	Veterans Homes, Minnesota	2013.0	39.0
+32689	http://www.lakeparkaudubon.com	Lake Park Audubon School District 2889-01	2008.0	279.0
+32690	http://www.isd623.org	Roseville Public School District 0623-01	0.0	992.0
+32692	http://www.dentalboard.state.mn.us/	Dentistry, Board of	2000.0	63.0
+32693	http://herman.mn.schoolwebpages.com/education/school/school.php?sectionid=2	Herman-Norcross School District 0264-01	2004.0	4.0
+32695	http://www.ci.foley.mn.us/	Foley	2006.0	29.0
+32696	http://www.dnr.state.mn.us/index.html	Natural Resources Department	2000.0	2488.0
+32698	http://www.co.sherburne.mn.us/	Sherburne County	1998.0	553.0
+32699	http://www.commissions.leg.state.mn.us/lcpfp/lcpfp.htm	Legislative Commission on Planning and Fiscal Policy	2008.0	14.0
+32700	http://www.arrowhead.lib.mn.us/area-libraries/kinney/	Kinney Public Library	2007.0	2.0
+32703	http://minnesotalake.com/	Minnesota Lake	1999.0	41.0
+32704	http://www.swanrivermontessori.org	Swan River Montessori Charter Sch 4137-07-010	2006.0	28.0
+32705	http://www.edline.net/pages/randolph_ps	Randolph Public School District 0195-01	2012.0	2.0
+32706	http://www.morristownmn.com/	Morristown	2002.0	1.0
+32709	http://www.shafermn.com/index2.html	Shafer	2006.0	17.0
+32710	http://www.naturalscienceacademy.org/home/	Natural Science Academy 4187-07	2012.0	348.0
+32712	http://www.lewalt.k12.mn.us	Lewiston-Altura Intermediate El. 0857-01-020	2001.0	2.0
+32714	http://www.hopkinsmn.com/	Hopkins	2000.0	2135.0
+32715	http://www.mnlottery.com/	Lottery, Minnesota State	2001.0	128.0
+32716	http://www.nevis.govoffice.com/	Nevis	2002.0	137.0
+32717	http://cityofhadley.com/	Hadley	2004.0	10.0
+32718	http://www.ci.international-falls.mn.us/	International Falls	2000.0	530.0
+32719	http://pelicanrapidslibrary.org/	Pelican Rapids Public Library A Multicultural Learning Cent	2013.0	7.0
+32720	http://www.mn-chiroboard.state.mn.us/	Chiropractic Examiners, Board of	0.0	51.0
+32721	http://www.co.otter-tail.mn.us/	Otter Tail County	2001.0	1429.0
+32722	http://www.duluthmn.gov/	Duluth	2007.0	630.0
+32723	http://www.team.k12.mn.us	TEAM Academy 4127-07-010	2013.0	12.0
+32724	http://www.isd2154.k12.mn.us/schools/middleschool/pages/	Eveleth-Gilbert Junior High 2154-01-030	0.0	1.0
+32725	http://www.sppl.org	Saint Paul Public Library	2002.0	1018.0
+32726	http://www.coldspring.govoffice.com/	Cold Spring	2002.0	322.0
+32727	http://www.rainyriver.edu	Rainy River Community College	2012.0	275.0
+32728	http://www.northlakesacademy.org	North Lakes Academy 56 4053-07-020	2000.0	90.0
+32733	http://www.ci.oak-grove.mn.us/	Oak Grove	2002.0	487.0
+32734	http://www.spps.org/	St. Paul Public School District 0625-01	1998.0	381.0
+32735	https://www.austin.k12.mn.us/default.aspx	Austin Area Learning Cntr. - Summer 0492-01-145	2010.0	1009.0
+32736	http://www.mncourts.gov/?page=551	Court of Appeals	2006.0	1712.0
+32737	http://ci.champlin.mn.us/	Champlin	2001.0	200.0
+32738	http://www.rocchs.org/se3bin/clientschool.cgi?schoolname=school381	Rochester Off-Campus Charter High 4056-07	0.0	1.0
+32739	http://www.greenbushmn.govoffice2.com/	Greenbush	2007.0	112.0
+32740	http://www.hendricksmn.com/	Hendricks	2001.0	235.0
+32743	http://www.mnscsc.org	Region 9-South Central Service Coop 0922-83-010	2000.0	193.0
+32744	http://www.ci.lino-lakes.mn.us/	Lino Lakes	2002.0	421.0
+32745	http://www.co.cook.mn.us/	Cook County	1999.0	934.0
+32746	http://www.rockford.k12.mn.us/	Rockford Public School District 0883-01	1998.0	248.0
+32748	http://www.avalonschool.org	Avalon School 4075-07-010	2001.0	281.0
+32749	http://larl.org/locations/hawley/	Hawley Public Library	0.0	3.0
+32750	http://www.geschools.com	Glenville-Emmons School District 2886-01	2001.0	421.0
+32751	http://cityofsabin.com/	Sabin	2007.0	28.0
+32753	http://gced.k12.mn.us	Red Wing High School Independent Study 6051-61-631	2002.0	117.0
+32754	http://www.hclib.org/agenciesaction.cfm?agency=hs	Hennepin County Library - Hosmer	2009.0	57.0
+32757	http://www.cookcountyschools.org/se3bin/clientschool.cgi?schoolname=school132	Cook County Public Schools 0166-01	2013.0	1.0
+32758	http://www.harmony.mn.us/	Harmony	1998.0	73.0
+32759	http://www.hallockmn.org/	Hallock	1999.0	40.0
+32760	http://www.trumanmn.us/	Truman	2004.0	30.0
+32762	http://www.hclib.org/agenciesaction.cfm?agency=ho	Hennepin County Library - Hopkins	2001.0	57.0
+32763	http://cleveland.k12.mn.us/	Cleveland Public School District 0391-01	1998.0	17.0
+32764	http://www.griver.org/locations-and-hours/great-river-regional-library-cokato	Great River Regional Library - Cokato Branch	2011.0	34.0
+32765	http://mn.gov/mnddc/	Developmental Disabilities, Governor's Council on	2013.0	971.0
+32766	http://www.ci.afton.mn.us/	Afton	2006.0	642.0
+32768	http://www.cityofardenhills.org/	Arden Hills	2012.0	600.0
+32770	http://www.annandale.mn.us/	Annandale	1999.0	190.0
+32771	http://www.zmschools.us/se3bin/clientschool.cgi?schoolname=school456	Zumbrota-Mazeppa School District 2805-01	2013.0	1.0
+32772	http://www.winsted.mn.us/	Winsted	1998.0	2.0
+32773	http://www.ci.lake-city.mn.us/	Lake City	2007.0	827.0
+32774	http://www.mcae.k12.mn.us/	Arts Education, Perpich Center for	1997.0	365.0
+32776	http://www.montrose-mn.com/	Montrose	2006.0	171.0
+32778	http://www.hopkinsschools.org/schools/elementary/glen-lake-elementary	Glen Lake Elementary 0270-01-563	2014.0	59.0
+32779	http://www.griver.org/locations-and-hours/great-river-regional-library-becker	Great River Regional Library - Becker Branch	2011.0	34.0
+32780	http://www.mankato-mn.gov/	Mankato	2007.0	1165.0
+32781	https://www.nystromcounseling.com/	Nystrom New Connections 0728-01-609	0.0	220.0
+32782	http://www.discoverosseo.com/	Osseo	2010.0	724.0
+32784	http://www.co.nobles.mn.us/	Nobles County	1999.0	219.0
+32789	http://mnscsc.org/Programs-Services/Socrates.aspx	SOCRATES Program 6036-50-010	2011.0	2.0
+32790	http://www.isd300.k12.mn.us/	La Crescent-Hokah School District 0300-01	2000.0	189.0
+32791	http://www.griver.org/locations-and-hours/great-river-regional-library-sauk-centre	Great River Regional Library - Sauk (Bryant Public Library)	2011.0	34.0
+32792	http://www.maplegrovemn.gov/	Maple Grove	2012.0	1072.0
+32793	http://www.lakeelmo.org/	Lake Elmo	2000.0	443.0
+32794	http://www.ci.baudette.mn.us/	Baudette	2001.0	105.0
+32795	http://www.cityacademy.org/	City Academy 4000-07-010	2001.0	17.0
+32796	http://education.state.mn.us/mde/index.html	Education Department	2005.0	1858.0
+32797	http://www.ashbyminnesota.org/	Ashby	2006.0	51.0
+32798	http://westsidesummit.org/	West Side Summit Charter School 4212-07-010	2013.0	51.0
+32800	http://www.twoharborschamber.com/	Two Harbors	2005.0	200.0
+32801	http://www.wayzata.k12.mn.us/gleasonlake	Gleason Lake Elementary 0284-01-811	2001.0	4989.0
+32804	http://www.parnassusprep.com/	Parnassus Preparatory Charter Sch 4199-07-010	2009.0	6.0
+32807	http://www.aurorapubliclibrarymn.blogspot.com	Aurora Public Library	2007.0	21.0
+32808	http://www.dawsonmn.com/	Dawson	2000.0	55.0
+32809	http://www.cesarchavezschool.com/	Academia Cesar Chavez Charter Sch. 4073-07-010	2004.0	20.0
+32810	http://www.cityoflecenter.com/home/	Le Center	2010.0	2.0
+32812	http://www.orono.k12.mn.us/	Orono Public School District 0278-01	1999.0	22.0
+32814	http://www.northmankato.com/taylorlibrary	North Mankato Taylor Library	2006.0	208.0
+32815	http://www.wayzata.k12.mn.us/whs	Wayzata High 0284-01-050	2001.0	3154.0
+32822	http://www.lincolncounty-mn.us/	Lincoln County	2009.0	6.0
+32823	https://www.umissacademy.org/	Upper Mississippi Academy 4210-07	2011.0	114.0
+32824	http://www.southeastmn.edu	Minnesota State College - Southeast Technical	2002.0	1670.0
+32825	http://www.lionsgateacademy.org	Lionsgate Academy 4183-07-010	2007.0	164.0
+32827	http://www.tracy.k12.mn.us	Tracy Area Public School District 2904-01	2000.0	95.0
+32828	http://www.independence.govoffice.com/	Independence	2002.0	2083.0
+32830	http://www.delano.k12.mn.us/	Delano Public School District 0879-01	2000.0	1461.0
+32831	http://www.co.clay.mn.us/	Clay County	2000.0	893.0
+32832	http://www.cityofluverne.org/	Luverne	2001.0	577.0
+32833	http://spcpa.org/	St. Paul Conservatory Performing Art 4112-07-010	2005.0	276.0
+32836	http://www.deerriver.org/	Deer River	1998.0	21.0
+32837	http://www.co.benton.mn.us/	Benton County	2001.0	25.0
+32839	http://www.frazeecity.com/	Frazee	2002.0	49.0
+32843	http://marshallmn.com/main/	Marshall	2012.0	460.0
+32844	http://www.ulenhitterdal.k12.mn.us	Ulen-Hitterdal Public School Dist 0914-01	2003.0	33.0
+32845	http://www.griver.org/locations-and-hours/great-river-regional-library-albany	Great River Regional Library - Albany	2011.0	34.0
+32846	https://www.hennepintech.edu/	Hennepin Technical College	2003.0	870.0
+32848	http://www.annandale.k12.mn.us	Annandale Middle School 0876-01-002	1999.0	398.0
+32850	http://www.claracity.org/	Clara City	2007.0	93.0
+32851	http://www.carlton.k12.mn.us/hs	Carlton Secondary 0093-01-001	2001.0	1.0
+32852	http://clintongraceville.mn.schoolwebpages.com/education/school/school.php?sectionid=2	Clinton-Graceville-Beardsley El. 2888-01-001	2003.0	2.0
+32853	http://www.newheightsschool.com/index.html	New Heights School, Inc. 4003-07	2005.0	76.0
+32854	http://www.arrowhead.lib.mn.us/area-libraries/coleraine	Coleraine Public Library	2007.0	11.0
+32855	http://www.bbht.state.mn.us/	Behavioral Health and Therapy, Board of	2004.0	60.0
+32856	http://www.plymouthmn.gov/	Plymouth	2010.0	1469.0
+32857	http://www.willowriver.k12.mn.us	Willow River Public School District 0577-01	2001.0	436.0
+32859	http://www.discoverywoods.com/	Discovery Woods Montessori School 4198-07-010	2010.0	44.0
+32861	http://www.clarkfieldareacharter.org/index.html	Clarkfield Charter School 4172-07-010	2014.0	12.0
+32862	http://www.kasotamn.govoffice2.com/	Kasota	2007.0	86.0
+32863	http://www.griver.org/locations-and-hours/great-river-regional-library-buffalo	Great River Regional Library - Buffalo Branch	2011.0	34.0
+32864	http://www.isd4081.org	Discovery Public School Faribault 4081-07-010	2003.0	10.0
+32867	http://larl.org/locations/detroit-lakes-library/	Detroit Lakes Public Library	0.0	7.0
+32868	http://www.co.clearwater.mn.us/	Clearwater County	2000.0	368.0
+32869	http://www.rushfordvillage.govoffice.com/	Rushford Village	2006.0	42.0
+32870	http://www.cityoffairfax-mn.gov/	Fairfax	2006.0	512.0
+32871	http://www.district279.org/index.php?option=com_content&view=article&id=665	Birch Grove School For The Arts 0279-01-671	0.0	2278.0
+32873	http://www.leg.state.mn.us/lrl/links/links.aspx	Legislative Reference Library	2011.0	49.0
+32874	http://www.novaclassical.org	Nova Classical Academy Upper School 4098-07-020	2002.0	236.0
+32876	http://www.bmft.state.mn.us/	Marriage and Family Therapy, Board on	0.0	38.0
+32877	http://www.longville.com/	Longville	1998.0	99.0
+32879	http://www.ci.kettle-river.mn.us/	Kettle River	1999.0	38.0
+32880	http://www.cityofmound.com/	Mound	2001.0	296.0
+32881	http://nwrlib.org/	Thief River Falls Public Library	2002.0	576.0
+32882	http://www.mmb.state.mn.us/recovery/	Recovery	2009.0	414.0
+32883	https://exch02.np.k12.mn.us/owa/auth/logon.aspx?url=https://exch02.np.k12.mn.us/owa/&reason=0	Falcon Ridge 0721-01-651	0.0	1.0
+32885	http://www.marine.govoffice.com/	Marine on Saint Croix	2002.0	349.0
+32887	http://www.bigstonecounty.org/	Big Stone County	2001.0	3.0
+32888	http://www.arts.state.mn.us/	Board of Arts, Minnesota	1999.0	31.0
+32889	http://www.plumcreeklibrary.org/minneota/	Minneota Public Library	2002.0	1.0
+32890	http://www.redlakefalls.com/	Red Lake Falls	1998.0	27.0
+32892	http://ecrl.lib.mn.us/aitkin.html	Aitkin Public Library	2010.0	39.0
+32894	http://ecrl.lib.mn.us/chisagolakes.html	Chisago Lakes Area Library	2008.0	34.0
+32895	http://www.maccray.k12.mn.us/	M.A.C.C.R.A.Y. School District 2180-01	1999.0	22.0
+32896	http://www.griver.org/locations-and-hours/great-river-regional-library-grey-eagle	Great River Regional Library - Grey Eagle	2011.0	34.0
+32898	http://larl.org/locations/moorhead-library/	Moorhead Public Library	0.0	7.0
+32899	https://dps.mn.gov/entity/pdb/pages/default.aspx	Board of Private Detective and Protective Agent Services	2012.0	11.0
+32900	http://www.co.dakota.mn.us/Pages/default.aspx	Dakota County	2012.0	1762.0
+32901	http://www.rothsay.org/	Rothsay	2006.0	69.0
+32902	http://www.isd2154.k12.mn.us/schools/highschool/pages/	Eveleth-Gilbert Senior High 2154-01-040	0.0	1.0
+32903	http://www.hallettlibrary.org	Jessie F. Hallett Memorial Library	2011.0	17.0
+32904	http://www.lcc.leg.mn/inactive/lchca/	Health Care Access, Legislative Commission on	2013.0	34.0
+32906	http://www.eyota.govoffice.com/	Eyota	2007.0	986.0
+32907	http://www.floodwood.k12.mn.us	Floodwood Alt. Learning Program 0698-01-030	1998.0	5.0
+32908	http://www.sowashco.k12.mn.us/rr/	Red Rock Elementary 0833-01-043	2001.0	70.0
+32909	http://www.isd2154.k12.mn.us/	Eveleth-Gilbert School District 2154-01	1998.0	16.0
+32910	http://www.sowashco.k12.mn.us/ro/	Royal Oaks Elementary 0833-01-044	1999.0	177.0
+32911	http://www.pipestone-county.com/	Pipestone County	2006.0	116.0
+32915	http://www.hoytlakeslibrary.blogspot.com	Hoyt Lakes Public Library	2013.0	27.0
+32916	http://www.win-e-mac.k12.mn.us	Win-E-Mac School District 2609-01	2002.0	292.0
+32919	http://www.comfreymn.com/	Comfrey	2011.0	241.0
+32920	http://www.milaca.k12.mn.us/	Milaca Public School District 0912-01	2001.0	5.0
+32921	http://www.dellwood.us/	Dellwood	2004.0	13.0
+32922	http://www.cokato.mn.us/	Cokato	1998.0	61.0
+32923	http://www.bemidjistate.edu	Bemidji State University	2000.0	3453.0
+32924	http://www.rushcity.k12.mn.us	Rush City Public School District 0139-01	2000.0	881.0
+32926	http://www.cityofcarlton.com/	Carlton	2002.0	45.0
+32927	http://www.griver.org/locations-and-hours/great-river-regional-library-rockford	Great River Regional Library - Rockford	2011.0	34.0
+32931	http://www.edvisionshighschool.com	EdVisions Off Campus School 4151-07-010	2008.0	465.0
+32932	http://www.fosston.new.rschooltoday.com/	Fosston Public School District 0601-01	2012.0	3.0
+32933	http://www.mtcs.org/	Minnesota Transitions Charter Elem 4017-07-010	2001.0	3.0
+32934	http://farnsworth.spps.org/	Farnsworth Aerospace Lower 0625-01-458	2005.0	673.0
+32936	http://www.co.goodhue.mn.us/	Goodhue County	1998.0	701.0
+32940	http://www.rrcnet.org/%7elambrton/index.html	Lamberton	1998.0	3.0
+32941	http://www.minnetonka.k12.mn.us/schools/minnewashta/Pages/default.aspx	Minnewashta Elementary 0276-01-605	2008.0	7.0
+32942	http://www.mahtomedi.k12.mn.us/	Mahtomedi Digital Learning Academy 0832-01-161	1999.0	26.0
+32943	http://bensonlibrary.com/	Benson Public Library	2008.0	298.0
+32944	http://www.doli.state.mn.us/	Labor and Industry Department	1996.0	1169.0
+32946	http://www.egf.k12.mn.us	East Grand Forks Public School Dist 0595-01	2002.0	104.0
+32947	http://www.isd623.org/lc/	Little Canada Elementary 0623-01-728	0.0	97.0
+32948	http://ebes.brooklyncenterschools.org	Earle Brown Elementary 0286-01-480	2013.0	1180.0
+32949	http://www.ci.maplewood.mn.us/	Maplewood	2000.0	1286.0
+32951	http://www.hermantownmn.com/	Hermantown	1999.0	250.0
+32952	http://www.mahnomen.k12.mn.us	Mahnomen Area Learning Center 0432-01-040	2003.0	1033.0
+32953	http://www.odysseyacademy.org/	Odyssey Academy 4030-07-010	2008.0	58.0
+32954	http://www.mora.k12.mn.us/education/district/district.php?sectionid=1	Mora Alternative Learning Center 0332-01-050	2007.0	4.0
+32955	http://www.gfw.k12.mn.us/	G.F.W. Mid. 2365-01-002	1998.0	234.0
+32957	http://www.rlb.mntm.org	Round Lake-Brewster Public Schools 2907-01	2006.0	227.0
+32960	http://www.swanville.k12.mn.us	Swanville Public School District 0486-01	2000.0	656.0
+32961	http://www.edgertonpublic.com	Edgerton Public School District 0581-01	2001.0	75.0
+32962	http://www.ci.watertown.mn.us/	Watertown	2002.0	237.0
+32963	http://www.birdislandcity.com/	Bird Island	2002.0	11.0
+32964	http://www.sowashco.k12.mn.us/alc/	South Washington Alternative High School 0833-01-023	2000.0	2.0
+32965	http://www.sos.state.mn.us/index.aspx?page=1	Secretary of State	2009.0	714.0
+32966	http://www.dugsiacademy.org	Dugsi Academy 4153-07-010	2005.0	13.0
+32967	http://www.ci.crystal.mn.us/	Crystal	2000.0	62.0
+32968	http://www.moose-lake.lib.mn.us	Moose Lake Public Library	1998.0	7.0
+32970	http://www.ci.waseca.mn.us/	Waseca	2001.0	198.0
+32971	http://www.jwp.k12.mn.us	Janesville-Waldorf-Pemberton 2835-01	2000.0	2.0
+32972	http://mn.gov/workcomp/	Workers' Compensation Court of Appeals	2013.0	5.0
+32973	http://www.sowashco.k12.mn.us/whs/	Woodbury Senior High 0833-01-029	2000.0	172.0
+32975	http://www.minneapoliscollegeprep.org/	Minneapolis College Preparatory 4203-07-010	2011.0	1.0
+32977	http://www.newcenturyacademy.com/	New Century Academy 4093-07-010	2004.0	437.0
+32978	http://www.cityofbreezypointmn.us/	Breezy Point	2006.0	1108.0
+32979	http://www.brooklynpark.org/	Brooklyn Park	2000.0	55.0
+32980	http://www.mncourts.gov/?page=156	Clerk of Appellate Courts	2006.0	1891.0
+32983	http://www.jeffers.us.com/	Jeffers	2011.0	8.0
+32984	http://www.maplelake.k12.mn.us/	Maple Lake Public School District 0881-01	1998.0	4.0
+32985	http://www.isd319.new.rschooltoday.com/	Nashwauk-Keewatin School District 0319-01	2012.0	58.0
+32987	http://cityoflakeshore.com/	Lake Shore	2002.0	58.0
+32988	http://www.leroy.k12.mn.us	LeRoy-Ostrander Public Schools 0499-01	2001.0	79.0
+32989	http://www.emid6067.net/crosswinds/	Crosswinds Arts And Science School 6067-62-020	2001.0	4.0
+32990	http://www.ci.loretto.mn.us/	Loretto	2009.0	307.0
+32992	http://www.cityofmooselake.com/	Moose Lake	2007.0	32.0
+32993	http://www.ci.st-michael.mn.us/	St. Michael	2001.0	709.0
+32994	http://www.eagleridgeacademy.org	Eagle Ridge Academy Charter School 4122-07-010	2004.0	468.0
+32995	http://www.cityofwanamingo.com/	Wanamingo	2010.0	54.0
+32997	http://www.virginiamn.us/	Virginia	2002.0	114.0
+32998	http://www.bric-k12.com	Bemidji Regional Interdist. Council 0998-52-010	2003.0	64.0
+32999	http://www.stfrancismn.org/	St. Francis	2012.0	62.0
+33000	http://www.ci.roseville.mn.us/	Roseville	1997.0	1178.0
+33001	http://www.windom.k12.mn.us	Early Childhood Learning Center 0177-01-010	2001.0	124.0
+33002	http://www.montgomerymn.org/	Montgomery	2000.0	14.0
+33004	http://www.co.winona.mn.us/	Winona County	2005.0	48.0
+33005	http://www.ci.jenkins.mn.us/	Jenkins	2011.0	35.0
+33006	http://www.puc.state.mn.us/PUC/index.html	Public Utilities Commission	2008.0	29.0
+33007	http://www.sojournertruthacademy.org	Sojourner Truth Academy 4038-07-010	2004.0	44.0
+33009	http://www.isd518.net/ncic/	Nobles County Intg Collaborative 6085-50-010	2006.0	18.0
+33014	http://www.isd318.org	Grand Rapids Early Childhood Center 0318-01-101	1998.0	1012.0
+33015	http://www.swsc.org/site/default.aspx?PageID=1	Regn 6 And 8-SW/WC Srv Cooperative 0991-83-010	2012.0	10.0
+33016	http://www.ecsu.k12.mn.us/index.html	Region 11-Metro Educ. Serivce Unit 0920-83-010	1997.0	4.0
+33017	http://anwatin.mpls.k12.mn.us	Anwatin Middle Com & Spanish D I 0001-03-309	2004.0	152.0
+33019	http://www.minnetonka.k12.mn.us/schools/middleschooleast/Pages/default.aspx	Minnetonka East Middle 0276-01-075	2008.0	9.0
+33021	http://www.edenvalley.govoffice.com/	Eden Valley	2006.0	47.0
+33022	http://prodeoacademy.org/	Prodeo Academy 4213-07-010	2011.0	23.0
+33023	http://www.southstpaul.org/Index.aspx?NID=164	South Saint Paul Public Library	2014.0	829.0
+33025	http://cannonfallsmn.gov/	Cannon Falls	2013.0	39.0
+33026	http://www.warroad.k12.mn.us/	Border Area Learning Center 0690-01-050	1998.0	46.0
+33028	http://www.ci.blaine.mn.us/	Blaine	1998.0	3434.0
+33029	http://www.barnesvillemn.com/	Barnesville	2000.0	11.0
+33030	http://cityofhanska.com/	Hanska	2008.0	31.0
+33031	http://www.emid6067.net/harambee/	Harambee Elementary 6067-62-010	2004.0	4.0
+33034	http://www.osa.admin.state.mn.us/	Archaeologist, Office of the State	2007.0	76.0
+33037	http://www.clarkfield.org/main/	Clarkfield	2011.0	224.0
+33038	http://www.bemidji.k12.mn.us/	Bemidji Public School District 0031-01	1996.0	566.0
+33039	http://bloomingtonmn.gov/	Bloomington	2014.0	1264.0
+33040	https://sites.google.com/a/prbschools.org/prb/	Pine River-Backus Targeted Services 2174-01-050	2011.0	203.0
+33041	http://www.milanmn.com/	Milan	2006.0	163.0
+33042	http://www.co.freeborn.mn.us/	Freeborn County	2000.0	456.0
+33043	http://www.wadena.org/	Wadena	2000.0	431.0
+33044	http://www.sandstone.govoffice.com/	Sandstone	2008.0	412.0
+33045	http://www.mantorville.com/	Mantorville	2001.0	148.0
+33046	http://www.nextstep.state.mn.us/article.cfm?articleid=3	Minnesota Sustainable Communities Network (MnSCN)	2001.0	2250.0
+33047	http://www.truman.k12.mn.us	Truman Public School District 0458-01	2001.0	7.0
+33048	http://www.springvalley.govoffice.com/	Spring Valley	2006.0	89.0
+33049	http://www.minnetonka.k12.mn.us/schools/scenicheights/Pages/default.aspx	Scenic Heights Elementary 0276-01-606	2008.0	6.0
+33050	https://sites.google.com/a/wmep.k12.mn.us/fair/	Fair School Crystal 6069-62-401	2012.0	8.0
+33051	http://www.sowashco.k12.mn.us/ae/	Armstrong Elementary 0833-01-030	2001.0	88.0
+33053	http://www.plumcreeklibrary.org/fulda/	Fulda Memorial Library	2001.0	6.0
+33054	http://www.jacksonmn.com/	Jackson	1998.0	37.0
+33056	http://isd191.org/schools/william-byrne-elementary	William Byrne Elementary 0191-01-487	2014.0	395.0
+33058	http://www.cohasset-mn.com/	Cohasset	2003.0	83.0
+33060	http://lacrescent.lib.mn.us/	La Crescent Public Library	2005.0	69.0
+33062	http://www.nwphs.org	Northwest Passage High School 4049-07-010	2007.0	85.0
+33063	http://www.stacymn.org/	Stacy	2003.0	102.0
+33064	http://www.pioneerland.lib.mn.us/hutchinson/index.htm	Hutchinson Public Library	0.0	1.0
+33066	http://mn.gov/governor/dayton/governors-cabinet.jsp	Governor's Cabinet	2011.0	8.0
+33067	http://www.normandale.edu	Normandale Community College	2002.0	1751.0
+33069	http://www.akeleymn.com/	Akeley	2000.0	6.0
+33071	http://www.pelicanrapids.com/	Pelican Rapids	1998.0	1844.0
+33072	http://www.northmankato.com/	North Mankato	2001.0	211.0
+33073	http://www.owatonna.k12.mn.us/schools/lincoln/	Lincoln Elementary 0761-01-901	2006.0	1.0
+33074	http://www.ohe.state.mn.us/	Minnesota Office of Higher Education	2005.0	2211.0
+33075	http://co.hubbard.mn.us/	Hubbard County	2000.0	219.0
+33077	http://www.saintpetermn.gov/	St. Peter	2003.0	485.0
+33078	http://www.barnummn.us/	Barnum	2013.0	183.0
+33079	http://ecrl.lib.mn.us/mora.html	Mora Public Library	2010.0	39.0
+33082	https://www.moorheadschools.org/schools/elementary-schools/ellen-hopkins-elementary/	Ellen Hopkins Elementary 0152-01-188	2014.0	239.0
+33083	http://www.austinpubliclibrary.org	Austin Public Library	2004.0	42.0
+33087	http://www.blueskyschool.org	BlueSky Charter School 4082-07-010	2002.0	2.0
+33088	http://www.lindstrom.mn.org/	Lindstrom	1999.0	3.0
+33090	http://www.parkersprairie.net/	Parkers Prairie	2003.0	29.0
+33094	http://www.alden-conger.org/	Alden-Conger Public School District 0242-01	2000.0	13.0
+33095	http://www.semvaonline.com/	SE Minnesota Virtual Academy(SEMVA) 6087-50-010	2013.0	3.0
+33096	http://www.browerville.govoffice.com/	Browerville	2003.0	380.0
+33098	http://www.minnesota.edu	Minnesota State Community and Technical College	2003.0	5326.0
+33100	http://www.district279.org/index.php?option=com_content&view=article&id=665	Rice Lake Elementary 0279-01-685	0.0	2311.0
+33101	http://www.co.faribault.mn.us/easton/	Easton	2001.0	10.0
+33102	http://www.pubdef.state.mn.us/	Public Defense, Board of	0.0	22.0
+33103	http://www.ci.farmington.mn.us/	Farmington	1998.0	7.0
+33106	http://www.rochesterpubliclibrary.org	Rochester Public Library	2001.0	3.0
+33107	http://www.lancaster.k12.mn.us	Lancaster Public School District 0356-01	0.0	75.0
+33108	http://www.mngs.umn.edu/index.html	Geological Survey, Minnesota	2010.0	12.0
+33109	http://www.campbell.k12.mn.us/site/default.aspx?PageID=1	Campbell-Tintah Public School Dist. 0852-01	0.0	7.0
+33111	http://www.isle.k12.mn.us	Isle Area Learning Center 0473-01-040	2001.0	3.0
+33112	http://www.stpaulpark.govoffice.com/index.asp	St. Paul Park	2007.0	2407.0
+33113	http://www.ci.orono.mn.us/	Orono	2000.0	1324.0
+33114	http://www.eaglelakemn.com/	Eagle Lake	2001.0	76.0
+33115	http://www.eastgulllake.govoffice.com/	East Gull Lake	2002.0	452.0
+33116	http://www.ci.moorhead.mn.us/	Moorhead	1999.0	1491.0
+33117	http://www.ci.coon-rapids.mn.us/	Coon Rapids	1998.0	104.0
+33119	http://www.co.norman.mn.us/	Norman County	2002.0	387.0
+33120	http://www.nymills.k12.mn.us/	New York Mills Public School Dist. 0553-01	2000.0	42.0

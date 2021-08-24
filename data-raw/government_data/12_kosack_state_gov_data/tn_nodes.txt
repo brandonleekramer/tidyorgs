@@ -1,0 +1,364 @@
+NodeId	NodeURL	NodeName	Year	pages
+52393	http://www2.gcschools.net/	C Hal Henard Elementary	1998.0	1482.0
+52394	http://www.washingtoncountytn.org/	Washington County	2011.0	152.0
+52395	http://www.bristol-library.org/	Bristol Public Library	2001.0	122.0
+52396	http://www.robertsoncountytn.org/	Robertson County	2005.0	112.0
+52399	http://www.colliervillelibrary.org	Lucius E. And Elsie C. Burch, Jr. Library	2011.0	212.0
+52401	http://www.hickmancountylibrary.net	Hickman County Public Library	2008.0	359.0
+52402	http://web.bledsoe.net/~bcpl/	Bledsoe County Library	2006.0	9.0
+52404	http://www.eastendprep.org/	East End Preparatory School	2011.0	41.0
+52405	http://www.etowahlibrary.com	Etowah Carnegie Library	2001.0	18.0
+52406	http://www.cityofmilantn.com	Mildred G. Fields Memorial Library	2000.0	177.0
+52407	http://www.knoxcounty.org/health/index.php	Knox* County Health Department	2004.0	112.0
+52408	http://tnstateparks.com/	Parks, State	1998.0	578.0
+52409	http://carrollcounty-tn-chamber.com/	Carroll County	2001.0	70.0
+52410	http://ws.edu/home/	Walters State Community College	2012.0	2055.0
+52411	http://www.alcoaschools.net/	Alcoa Middle School	2003.0	275.0
+52412	http://www.ctas.tennessee.edu/public/web/ctas.nsf/countyofficialsinfo?readform	Campbell County	2013.0	165.0
+52413	http://www.tn.gov/generalserv/	General Services, Dept. of	2005.0	11.0
+52414	http://www.mscc.edu/	Motlow State Community College	2002.0	977.0
+52415	http://www.utk.edu/	University of TN, Knoxville	1996.0	1011.0
+52416	http://www.tn.gov/arts/	Arts Commission, Tennessee	2011.0	111.0
+52417	http://www.monroegovernment.org/	Monroe County	2001.0	3.0
+52419	http://www.fisherlibrary.org	E. G. Fisher Public Library	2006.0	1139.0
+52420	http://www.tn.gov/tccy/index.shtml	Commission on Children and Youth	2009.0	113.0
+52421	http://www.eastridgetn.org	East Ridge City Library	2002.0	85.0
+52423	http://treasury.tn.gov/unclaim/	Unclaimed Property Division	2009.0	18.0
+52425	http://rickmanelementary.com	Rickman Elementary	2007.0	10.0
+52426	http://www.unicoicountytn.gov/	Unicoi County	2007.0	154.0
+52427	http://www.eccpl.org	Elizabethton Carter County Public Library	2000.0	8.0
+52428	http://www.mdpl.blogspot.com	Meigs-Decatur Public Library	2013.0	3.0
+52429	http://www.uthsc.edu	University of TN Health Science Center	2009.0	2054.0
+52430	http://blountk12.org	Union Grove Elementary School	2000.0	147.0
+52431	http://www.ortn.edu/	Robertsville Middle School	2002.0	2067.0
+52434	http://www.meigscounty.net/artman/publish/	Meigs County High School	2007.0	257.0
+52436	http://marshallcountytn.com/	Marshall County	2004.0	893.0
+52437	http://www.sumnertn.org/	Sumner County	1997.0	104.0
+52438	http://www.gilescounty-tn.us/	Giles County	2003.0	8.0
+52439	http://www.kingsportlibrary.org/	Kingsport Public Library	2000.0	699.0
+52440	http://www.moorecolibrary.com	Moore County Public Library	2011.0	17.0
+52442	http://auroracollegiate.org	Aurora Collegiate Academy	2011.0	14.0
+52444	http://www.clevelandschools.org/	Arnold Memorial Elementary School	1998.0	98.0
+52446	http://www.tn.gov/maint/tngov/notfound.shtml	Health Care Finance and Administration	2013.0	2.0
+52447	http://www.tn.gov/sos/election/	Elections, Division of	2007.0	57.0
+52448	http://discovermase.org	Memphis Academy Of Science  Engineering Middle/High	0.0	245.0
+52449	http://www.claibornecounty.com/	Claiborne County	1999.0	235.0
+52452	http://www.pclibrary.org/	Monterey Branch Library	2001.0	17.0
+52454	http://mcminncountytn.gov/	McMinn County	2010.0	3.0
+52455	http://www.etsu.edu/etsuhome/	University School	2011.0	18.0
+52456	http://www.shelbycountytn.gov/	Shelby County	2004.0	3075.0
+52457	http://www.fcsboe.org/	Fayetteville Middle School	2002.0	210.0
+52459	http://www.edline.net/pages/Tullahoma_City_SD	Jack T Farrar Elementary	2009.0	2.0
+52461	http://meigscountytnchamber.org/	Meigs County	2003.0	1.0
+52462	http://www.nashville.gov/	Davidson County	2001.0	3439.0
+52463	http://www.jacksonco.com/index.php	Jackson County	2009.0	1.0
+52464	http://www.mcnairycountytn.com/	McNairy County	2001.0	21.0
+52465	http://www.hickmanco.com/departments_health.htm	Hickman County Health Department	2002.0	1.0
+52466	http://sumnerschools.org	Knox Doss Middle School at Drakes Creek	2001.0	1065.0
+52467	http://lcss.us	Lawrence Adult High School	2002.0	1413.0
+52468	http://www.fentresscountylibrary.com	Fentress County Library	2002.0	0.0
+52469	http://ww2.cheathamlibrary.com/	Cheatham County Public Library	0.0	686.0
+52470	http://sememphis.org	Memphis School of Excellence	2010.0	6.0
+52471	http://lib.williamson-tn.org/	Williamson County Genealogy Library	1998.0	3.0
+52472	http://www.treasury.state.tn.us/	Treasury, Dept. of (State Treasurer)	1998.0	22.0
+52473	http://www.bradleyco.net/	Bradley County	1999.0	82.0
+52474	http://www.capitol.tn.gov/joint/	Legislative Joint Committees	2009.0	33.0
+52476	http://www.brentwood-tn.org/index.aspx?page=91	The Brentwood Library	2009.0	1921.0
+52478	http://www.everetthornlibrary.org	Everett Horn Public Library	2008.0	1.0
+52479	http://www2.youseemore.com/gallatinPL/	Gallatin Public Library Of Sumner County	2009.0	34.0
+52481	http://rheacountytn.com/	Rhea County	2011.0	165.0
+52482	http://www.hcde.org/	Apison Elementary School	1998.0	1193.0
+52483	http://www.volstate.edu/	Volunteer State Community College	2002.0	8.0
+52484	http://www.fayettetn.us/	Fayette County	2004.0	48.0
+52486	http://www.blounttn.org/	Blount County	2002.0	4.0
+52487	http://www.memphislibrary.org/mplic-home	Memphis Public Library And Information Center	2011.0	0.0
+52488	http://www.tnmuseum.org/	Tennessee State Museum	2000.0	126.0
+52489	http://www.tn.gov/tenncare/	TennCare, Bureau of	2008.0	166.0
+52490	http://www.hartsvilletrousdale.com/	Trousdale County	2002.0	786.0
+52491	http://www.monroe.k12.tn.us/	Madisonville Intermediate School	2000.0	81.0
+52492	http://www.cheathamcountytn.gov/	Cheatham County	2005.0	88.0
+52493	http://www.tn.gov/humanserv/	Human Services, Dept. of	2004.0	688.0
+52494	http://www.library.nashville.org	Nashville Public Library	2000.0	101.0
+52495	http://www.thda.org/	Housing Development Agency	2002.0	236.0
+52496	http://www.utc.edu/	University of TN, Chattanooga	1997.0	1689.0
+52497	http://www.tn.gov/finance/	Finance and Administration, Dept. of	2009.0	51.0
+52499	http://www.utm.edu/	University of TN, Martin	1996.0	1327.0
+52501	http://www.achealthdept.org./	Anderson County Health Department	2007.0	19.0
+52502	http://staracademycharter.org	Star Academy	2009.0	3.0
+52504	http://www.andersontn.org/	Anderson County	2006.0	26.0
+52505	http://jasperpubliclibrary.org	Jasper Public Library	2006.0	0.0
+52506	http://www.tn.gov/youth/	Children's Services, Dept. of	2004.0	20.0
+52508	http://veritascollegeprep.org	Veritas College Preparatory	2010.0	27.0
+52509	http://www.tn.gov/tdfi/	Financial Institutions, Dept. of	2009.0	10.0
+52512	http://www.houstoncochamber.com	Houston County Public Library	2004.0	707.0
+52513	http://www.williamsoncounty-tn.gov/	Williamson County	2008.0	843.0
+52515	http://www.LaVergneTN.gov/	La Vergne Public Library	0.0	1535.0
+52518	http://chattanoogacharter.com	Chattanooga Charter School of Excellence	2011.0	10.0
+52519	http://www.chattanoogastate.edu/	Chattanooga State  Community College	2002.0	827.0
+52520	http://portal.tds.net/	Central High School	2002.0	1581.0
+52521	http://nashvilleprep.org	Nashville Prep	2011.0	52.0
+52522	http://www.northeaststate.edu/	Northeast State Community College	2002.0	924.0
+52523	http://mcsed.net/site/default.aspx?PageID=1	Morgan County Vocational Center	2013.0	7.0
+52525	http://www.oneidaschools.org/	Oneida Middle School	2001.0	819.0
+52528	http://k12th.net	Park View Elementary	2006.0	1571.0
+52529	http://www.mcgtn.org	Montgomery County	2011.0	599.0
+52531	http://www.blounttn.org/health.asp	Blount County Health Department	2007.0	2.0
+52532	http://www.humboldtpublic.org	Humboldt Public Library	2009.0	12.0
+52533	http://alamoschool.org	Alamo Elementary	2001.0	200.0
+52534	http://www.tncourts.gov	Administrative Office of the Courts	2006.0	2921.0
+52535	http://www.jcpl.net	Johnson City Public Library	1999.0	218.0
+52536	http://www.roaneschools.com/	Midtown Educational Center	2001.0	644.0
+52538	http://www.hck12.net/	Church Hill Intermediate School	2003.0	260.0
+52540	http://www.memphis.edu/	University of Memphis	1997.0	4301.0
+52542	http://www.pathwaysed.org/	Pathways in Education - TN	2013.0	15.0
+52544	http://sevierlibrary.org	Sevier County Public Library System	2000.0	34.0
+52545	http://www.springhilltn.org/index.aspx?NID=281	Spring Hill Public Library	2013.0	845.0
+52546	http://www.henryco.com/	Henry County	1999.0	12.0
+52547	http://www.mtsu.edu/	Middle TN State University	1997.0	3018.0
+52548	http://www.btcs.org/	Tennessee Online Public School	2000.0	1545.0
+52549	http://franklincountylibrary.org	Franklin County Public Library	2006.0	11.0
+52550	http://www.tn.gov/veteran/	Veterans Affairs, Dept. of	2009.0	69.0
+52551	http://www.mcgtn.org/library	Clarksville Montgomery County Public Library	2012.0	873.0
+52552	http://www.tnstate.edu/	TN State University	1998.0	1272.0
+52553	http://www.ceweldonlibrary.org	C. E. Weldon Public Library	2000.0	135.0
+52554	http://sequatchie.com/	Sequatchie County	1999.0	27.0
+52555	http://www.tn.gov/commerce/	Commerce and Insurance, Dept. of	2008.0	129.0
+52556	http://www.hawkinscountytn.gov/	Hawkins County	2007.0	408.0
+52557	http://www.jeffersoncountytn.gov/	Jefferson County	2006.0	176.0
+52558	http://www.tnmilitary.org/	National Guard, Tennessee	2002.0	45.0
+52559	http://www.tn.gov/ehealth/	e-Health Initiatives, Office of	2011.0	37.0
+52561	http://www.lincolncountytngov.com/	Lincoln County	2008.0	20.0
+52563	http://cornerstoneprepmemphis.org	Cornerstone Prep - Lester Campus	2010.0	120.0
+52564	http://kippnashville.org/	K I P P Nashville Collegiate High School	2012.0	12.0
+52566	http://mchscats.org	McNairy Central High School	2003.0	421.0
+52567	http://jcschools.org	Mountain View Elementary	2000.0	623.0
+52568	http://wcde.org/education/components/scrapbook/default.php?sectionid=1	Jonesborough Middle School	2012.0	1.0
+52569	http://www.tn.gov/film/	Film, Entertainment and Music Commission	2009.0	4.0
+52570	http://www.nashvilleclassical.org/	Nashville Classical	2012.0	27.0
+52571	http://johnsoncountytnchamber.org/	Johnson County	2012.0	340.0
+52572	http://www.hardemanlibrary.org	Bolivar Hardeman County Library	2006.0	13.0
+52573	http://kippmemphis.org	KIPP Memphis Collegiate High School	0.0	323.0
+52575	http://www.capitol.tn.gov/house/	House of Representatives, Tennessee	2009.0	3939.0
+52576	http://www.mciversgrantpubliclibrary.org	Mcivers Grant Public Library	2007.0	2.0
+52577	http://www.stewartcogov.com/	Stewart County	2012.0	6.0
+52578	http://www.capitol.tn.gov/senate/	Senate, Tennessee	2009.0	13.0
+52579	http://newconsortium.com	New Consortium of Law and Business	2011.0	1.0
+52583	http://health.state.tn.us/localdepartments.shtml	Henry County Health Department	2007.0	500.0
+52584	http://carrollschools.com	Carroll County Special Learning Center	2001.0	41.0
+52585	http://www.columbiastate.edu/	Columbia State Community College	1999.0	122.0
+52586	http://www.jmcl.tn.org	Jackson-Madison County Library	1999.0	43.0
+52587	http://www.roanestate.edu/	Roane State Community College	2002.0	2.0
+52588	http://www.daytoncity.net/	Dayton City Elementary	2000.0	11.0
+52589	http://hamblencountygovernment.us/	Hamblen County	2005.0	10.0
+52590	http://www.tn.gov/cdd/	Developmental Disabilities, Council on	2008.0	15.0
+52591	http://sullivank12.net	Sullivan Central High School	2010.0	1.0
+52592	http://gestaltcs.org	Klondike Preparatory Academy	2012.0	211.0
+52595	http://www.tiptonco.com/	Tipton County	2003.0	194.0
+52598	http://ahroberts.com	A H Roberts Elementary	2005.0	1.0
+52599	http://www.tn.gov/environment/	Environment and Conservation, Dept. of	2004.0	220.0
+52600	http://www.cityofpigeonforge.com/library.aspx	Pigeon Forge Public Library	2009.0	98.0
+52601	http://www.cannontn.com/	Cannon County	2000.0	122.0
+52602	http://www.maurycounty-tn.gov/	Maury County	2003.0	622.0
+52603	http://www.tn.gov/comaging/	Aging and Disability, Commission on	2009.0	59.0
+52607	http://www.franklincountychamber.com	Franklin County	2001.0	1614.0
+52608	http://www.tn.gov/twra/index.html	Wildlife Resources Agency, Tennessee	2011.0	201.0
+52609	http://www.apsu.edu/	Austin Peay State University	1997.0	3625.0
+52610	http://lafollettepubliclibrary.org	Lafollette Public Library	2009.0	9.0
+52611	http://www.dalehollowlake.org/	Clay County	2002.0	785.0
+52612	http://www.tn.gov/tref/index.htm	Campaign Finance, Bureau of Ethics and	2011.0	11.0
+52613	http://www.freedomprep.org/	Freedom Preparatory Academy	2009.0	0.0
+52614	http://www.dscc.edu/	Dyersburg State Community College	2002.0	2476.0
+52615	http://www.gibsoncountytn.com/	Gibson County	2001.0	794.0
+52616	http://hardemancountytn.com/	Hardeman County	2009.0	74.0
+52617	http://www.tn.gov/abc/	Alcoholic Beverage Commission	2009.0	63.0
+52618	http://www.pstcc.edu/	Pellissippi State  Community College	2002.0	812.0
+52620	http://monroe.k12tn.us	Vonore Middle School	0.0	179.0
+52621	http://www.tbi.tn.gov/	Tennessee Bureau of Investigation (TBI)	2010.0	89.0
+52622	http://www.tennessee.edu/	University of Tennessee	2000.0	427.0
+52625	http://www.purposeprep.org/	Purpose Prep	2012.0	39.0
+52626	http://www.hamiltontn.gov/	Hamilton County	1998.0	382.0
+52627	http://www.tntech.edu/	TN Technological University	1997.0	3304.0
+52628	http://www.tennesseeholocaustcommission.org/	Commission on Holocaust Education	2001.0	214.0
+52629	http://www.unicoischools.com/	Unicoi Co Middle School	0.0	329.0
+52630	http://achievementschooldistrict.org/	Whitney Achievement Elementary School	2012.0	274.0
+52631	http://www.tn.gov/dohr/	Human Resources, Dept. of	2007.0	92.0
+52632	http://cglaonline.com	Chattanooga Girls Leadership Academy	2009.0	119.0
+52633	http://www.tn.gov/tsac/	Tennessee Student Assistance Corporation (TSAC)	2009.0	31.0
+52634	http://lannom.org/	Coffee County Lannom Memorial Public Library	1999.0	129.0
+52635	http://chestercountychamber.com/	Chester County	2003.0	34.0
+52637	http://www.greenecountytngov.com/	Greene County	2013.0	48.0
+52638	http://www.tn.gov/labor-wfd/	Labor and Workforce Development, Dept. of	2006.0	394.0
+52639	http://libertycollegiateacademy.org	Liberty Collegiate Academy	2011.0	25.0
+52641	http://www.tn.gov/attorneygeneral/	Attorney General and Reporter, Office of the	2008.0	393.0
+52642	http://www.maconcountytn.gov/	Macon County	2013.0	95.0
+52647	http://www.nathanporterlibrary.org	Dr. Nathan Porter Library	2007.0	6.0
+52648	http://www.tn.gov/firstlady/	Haslam, First Lady Crissy - Office of the Governor	2009.0	32.0
+52650	http://www.tn.gov/tci/	Corrections Institute, Tennessee	2012.0	12.0
+52651	http://www.lewiscountytn.com	Lewis County	2011.0	47.0
+52652	http://www.tn.gov/revenue/	Revenue, Dept. of	2006.0	215.0
+52653	http://www.tn.gov/safety/thp.shtml	Highway Patrol, Tennessee (THP)	2011.0	278.0
+52656	http://www.boysprep.net/	Boy's Prep	2013.0	3.0
+52657	http://www.scottcounty.com	Scott County	1999.0	1096.0
+52658	http://www.blountlibrary.org	Blount County Public Library	0.0	257.0
+52659	http://www.tn.gov/hsda/	Health Services and Development Agency	2004.0	52.0
+52660	http://www.tricor.org/	TRICOR	1999.0	92.0
+52661	http://k12k.com	Dobyns - Bennett High	2002.0	1522.0
+52662	http://www.wcs.edu/	Hillsboro Elementary/ Middle School	1996.0	1047.0
+52663	http://www.cityofwhitehouse.com	White House Inn Library	2001.0	704.0
+52667	http://tfli.org/	Foreign Language Institute, Tennessee	0.0	132.0
+52668	http://www.tn.gov/mental/	Mental Health and Substance Abuse Services, Dept. of	2007.0	93.0
+52669	http://www.tn.gov/correction/	Correction, Dept. of	2009.0	173.0
+52670	http://www.soulsvillecharterschool.org/	Soulsville Charter School	2011.0	302.0
+52671	http://www.tncourts.gov/boards-commissions	Judicial Boards, Commissions and Committees	2010.0	2509.0
+52672	http://www.hawkinslibraries.org	H. B. Stamps Memorial Library	2006.0	31.0
+52674	http://www.germantown-tn.gov/index.aspx?page=118	Germantown Community Library	0.0	2844.0
+52677	http://acolibrary.com	Argie Cooper Public Library	2004.0	12.0
+52678	http://ucboe.net	Union City Elementary School	2013.0	1.0
+52679	http://www.jamestowntn.org/fentressofficials.htm	Fentress County	2003.0	0.0
+52680	http://stemprepacademy.org	STEM Prep Academy	0.0	45.0
+52682	http://www.covertn.gov/	CoverTennessee	2006.0	28.0
+52683	http://www.gilescountylibrary.org/	Elkton Branch Library	2001.0	19.0
+52684	http://omnischools.org	Omni Prep Academy - North Pointe Middle School	2011.0	9.0
+52686	http://sevier.org	T Lawson Early Childhood Education Center	1999.0	215.0
+52689	http://www.tn.gov/tourdev/	Tourist Development, Dept. of	2009.0	8.0
+52691	http://www.tn.gov/governor/	Haslam, Governor Bill - Office of the Governor	2004.0	32.0
+52692	http://influence1.org	City University School Girls Preparatory	2005.0	39.0
+52694	http://www.lawcotn.org/	Lawrence County	0.0	1.0
+52695	http://scottcounty.net	Huntsville Middle School	1998.0	7786.0
+52696	http://www.pikeville-bledsoe.com/site/	Bledsoe County	2013.0	5.0
+52697	http://intrepidcollegeprep.org/home/	Intrepid College Preparatory Charter School	2013.0	98.0
+52699	http://www.rutherfordcountytn.gov	Rutherford County	2007.0	594.0
+52700	http://www.tn.gov/tnoig/	TennCare Fraud - Office of Inspector General	2009.0	10.0
+52702	http://www.tn.gov/sos/index.htm	State, Department of	2005.0	397.0
+52703	http://www.capitol.tn.gov/	State Legislature	2009.0	271.0
+52704	http://morgancountychamber.com/	Morgan County	2006.0	19.0
+52705	http://fcstn.net	Franklin Co High School	2010.0	457.0
+52706	http://etowahcityschool.com	Athens	2007.0	56.0
+52707	http://www.dicksoncountytn.gov/	Dickson County	2012.0	21.0
+52708	http://graingertn.com/	Grainger County	2004.0	42.0
+52709	http://hcss.org	Waverly Central High School	2002.0	49.0
+52711	http://www.loudoncounty-tn.gov/	Loudon County	2008.0	128.0
+52712	http://www.clevelandlibrary.org/	Cleveland History Branch	1999.0	46.0
+52713	http://www.tn.gov/sos/ecw/	Economic Council on Women	2007.0	33.0
+52715	http://www.tn.gov/didd/	Intellectual and Developmental Disabilities, Dept. of	2011.0	368.0
+52717	http://www.rcschool.net/	Rogersville Elementary	2001.0	96.0
+52718	http://www.tn.gov/	State Government	2002.0	6426.0
+52720	http://www.dalehollow.com/info-resources/government	Pickett County	2011.0	122.0
+52721	http://www.nashville.gov/Health-Department.aspx	Davidson* County Health Department	2013.0	3084.0
+52722	http://www.tn.gov/safety/	Safety and Homeland Security, Dept. of	2004.0	277.0
+52723	http://www.tdot.state.tn.us/	Transportation, Dept. of	1999.0	739.0
+52724	http://www.tn.gov/thec/	Tennessee Higher Education Commission	2008.0	179.0
+52726	http://henryk12.net	Dorothy And Noble Harrelson School	2007.0	348.0
+52727	http://livingstontigers.com	Livingston Middle School	2008.0	10.0
+52728	http://hrbk12.org	Hollow Rock - Bruceton	2006.0	4221.0
+52729	http://linebaugh.org/	Smyrna Public Library	2000.0	519.0
+52731	http://www.humphreystn.com/	Humphreys County	2009.0	9.0
+52732	http://www.tn.gov/agriculture/	Agriculture, Dept. of	2008.0	268.0
+52736	https://ucps.org/owa/auth/logon.aspx?url=https://ucps.org/owa/&reason=0	Union County Alternative Center	0.0	1.0
+52737	http://www.sequatchiecountylibrary.org	Sequatchie County Public Library	2008.0	10.0
+52738	http://powercenteracademy.org	Power Center Academy High School	2011.0	215.0
+52739	http://www.grundycountytn.net/	Grundy County	2009.0	17.0
+52740	http://www.tcschools.org/	Jim Satterfield Middle School	2002.0	734.0
+52741	http://livingstonwildcats.com	Livingston Academy	2008.0	43.0
+52742	http://www.co.madison.tn.us/	Madison County	2001.0	772.0
+52743	http://www.cannoncolibrary.org/cannoncounty/	Cannon County Library System	2011.0	67.0
+52744	http://www.seviercountytn.org/	Sevier County	2003.0	713.0
+52745	http://www.wilsoncountytn.com/	Wilson County	2000.0	624.0
+52746	http://www.townofarlington.org	Sam T. Wilson Public Library	2004.0	360.0
+52747	http://mbacharterschools.org	Memphis Business Academy Middle	2009.0	149.0
+52748	http://www.tn.gov/health/	Health, Dept. of	2006.0	861.0
+52749	http://www.maurycounty-tn.gov/index.aspx?page=72	Mt. Pleasant Branch Library	2013.0	564.0
+52750	http://rcstn.net/home/home	White House Heritage Elementary School	2008.0	375.0
+52751	http://www.shelbycountytn.gov/index.aspx?nid=24	Shelby* County Health Department	2011.0	2325.0
+52752	http://www.overtoncolibrary.com	Millard Oakley Public Library	2000.0	3.0
+52753	http://www.cockecounty.net/	Cocke County	2006.0	11.0
+52754	http://www.maconcountytn.com/health_department.htm	Macon County Health Department	2003.0	137.0
+52755	http://mcnairy.tn.schoolwebpages.com/education/district/district.php?sectionid=1ictdistrict.phpsectionid=1/	Adamsville Junior / Senior High School	2011.0	2.0
+52756	http://www.tn.gov/tacir/	Tennessee Advisory Commission on Intergovernmental Relations (TACIR)	2004.0	108.0
+52757	http://projectgrad.org/	GRAD Academy Memphis	0.0	130.0
+52758	http://www.harrimanlibrary.org	Harriman Public Library	2005.0	11.0
+52759	http://memphiscollegeprep.org	Memphis College Preparatory	2010.0	75.0
+52760	http://smithcountychamber.org/local-government/	Smith County	2012.0	2.0
+52761	http://knoxschools.org	Byington Solway Career and Technical Education Center	2001.0	61.0
+52762	http://camcast.net	Drexel Prep	0.0	109.0
+52765	http://cityuniversityschool.org	City University School Of Liberal Arts	2004.0	120.0
+52766	http://www.jscc.edu/	Jackson State Community College	2002.0	3041.0
+52767	http://www.mnps.org/site234.aspx	Goodlettsville Middle School	2009.0	0.0
+52768	http://cumberlandcountytn.gov/	Cumberland County	2010.0	86.0
+52770	http://carrollcountylibrary.net	Carroll County Library	2008.0	25.0
+52771	http://www.tn.gov/sbe/	Board of Education, State	2009.0	82.0
+52774	http://ivyacademychattanooga.com	Ivy Academy, Inc.	2009.0	42.0
+52775	http://www.tnlottery.com/	Tennessee Education Lottery Corporation	2001.0	198.0
+52777	http://www.sullivancountytn.gov	Sullivan County	2011.0	94.0
+52778	http://www.weakleycountytn.gov/	Weakley County	2005.0	205.0
+52779	http://www.perrycountylibrary.info	Perry County Public Library	2006.0	188.0
+52780	http://knowledgeacademies.org	Knowledge Academy	2006.0	82.0
+52781	http://www.tn.gov/consumer/	Consumer Affairs, Division of	2008.0	23.0
+52782	http://www.mosheimlib.org	Mosheim Public Library	2000.0	1.0
+52784	http://www.hugedomains.com/domain_profile.cfm?d=calhountennessee&e=com	Calhoun Public Library	0.0	7676.0
+52785	http://cmcss.net	The Middle College @ Austin Peay State University	2001.0	2019.0
+52787	http://oclibrary.org/	Obion County Public Library	0.0	107.0
+52788	http://www.johnsoncolib.org	Johnson County Public Library	2008.0	14.0
+52789	http://www.tn.gov/sos/tec/	Ethics Commission, Tennessee	2007.0	44.0
+52790	http://www.lenoircityschools.com/	Lenoir City Middle School	2003.0	665.0
+52791	http://promiseacademy.com	Promise Academy	0.0	436.0
+52792	http://www.lcdoe.org/	Lincoln County Ninth Grade Academy	1999.0	655.0
+52793	http://www.dyercs.net/	Fifth Consolidated School	2001.0	204.0
+52794	http://www.tnema.org/	Tennessee Emergency Management Agency (TEMA)	2000.0	112.0
+52795	http://www.maynardvillepubliclibrary.org	Maynardville Public Library	2013.0	2.0
+52798	http://www.tvlibrary.org	Tellico Village Public Library	2001.0	27.0
+52799	http://www.tn.gov/humanrights/index.html	Human Rights Commission	2007.0	41.0
+52800	http://annaporterpl.org	Anna Porter Public Library	2001.0	15.0
+52802	http://www.hickmanco.com/	Hickman County	1998.0	43.0
+52803	http://www.tn.gov/tcjfcj/	Juvenile and Family Court Judges, Council of	2006.0	11.0
+52804	http://magnesslibrary.org	Magness Community House Library	2004.0	19.0
+52805	http://www.tncourts.gov/courts/juvenile-family-courts	Council of Juvenile and Family Court Judges	2011.0	872.0
+52806	http://www.bedfordcountytn.org/	Bedford County	2003.0	55.0
+52807	http://www.ctas.tennessee.edu/public/web/ctas.nsf/referencematerials?readform	Van Buren County	2012.0	165.0
+52808	http://www.decaturcountytn.org/	Decatur County	2003.0	74.0
+52809	http://www.ccschools.net/	Crockett County Middle School	2002.0	161.0
+52810	http://www.waynecountytn.org/	Wayne County	2002.0	23.0
+52811	http://gordonsaa.org	Humes Preparatory Academy - Lower School	2013.0	0.0
+52813	http://www.knoxcounty.org/	Knox County	2000.0	931.0
+52814	http://www.tbr.edu/	Regents, Board of	2005.0	830.0
+52815	http://www.waynetn.net/	Wayne County Technology Center	2009.0	137.0
+52816	http://www.polkgovernment.com/	Polk County	2008.0	29.0
+52818	http://www.lauderdalecountytn.org/	Lauderdale County	2001.0	1368.0
+52819	http://www.southwest.tn.edu/	Southwest TN Community College	2002.0	784.0
+52820	http://www.cartercountytn.gov/	Carter County	2011.0	35.0
+52821	http://health.hamiltontn.org/	Hamilton* County Health Department	2001.0	128.0
+52822	http://www.madisonvillelibrary.org	Madisonville Public Library	2001.0	4.0
+52823	http://www.tn.gov/education/	Education, Dept. of	2005.0	324.0
+52825	http://www.dekalbtennessee.com	DeKalb County	2012.0	94.0
+52828	http://www.milanssd.org/	Milan Middle School	2001.0	270.0
+52829	http://www.decaturcountytn.org/health_dept.asp	Decatur County Health Department	2003.0	74.0
+52830	http://ccstn.com/site/default.aspx?PageID=1	Cannon County High School	2013.0	9.0
+52831	http://www.tn.gov/bopp/	Board of  Parole	2008.0	29.0
+52832	http://www.roanegov.org/	Roane County	2003.0	57.0
+52835	http://www.acs.com/	Anderson County	1997.0	59.0
+52836	http://clintonpubliclibrary.org/wordpress/	Clinton Public Library	2010.0	21.0
+52837	http://www.comptroller.tn.gov/sboe/index.asp	Board of Equalization	2012.0	38.0
+52839	http://pcsstn.com	VITAL:  Upper Cumberland e-Learning Network	2009.0	0.0
+52841	http://southcheathamlibrary.com/	South Cheatham Public Library	2011.0	13.0
+52842	http://www.tncourts.gov/courts/supreme-court	Supreme Court	2010.0	1025.0
+52846	http://caywood.org/LCSS/	Lexington	2008.0	0.0
+52847	http://cameroncollegeprep.org	Cameron College Preparatory	2013.0	839.0
+52848	http://www.cityschools.net/	Bradley Academy - An Arts Integrated School	2000.0	204.0
+52849	http://www.volunteertennessee.net	Volunteer Tennessee	2004.0	1.0
+52850	http://ccstn.net/site/default.aspx?PageID=1	Woodland Elementary	2011.0	13.0
+52851	http://moorecountyschools.net	Moore County	2009.0	1.0
+52852	http://richardhardy.org	Richard Hardy Memorial School	2002.0	290.0
+52853	http://www.tn.gov/tra/index.html	Regulatory Authority, Tennessee (TRA)	2010.0	117.0
+52854	http://www.hardincountylibrary.org	Hardin County Library	2005.0	16.0
+52856	http://www.comptroller.tn.gov	Comptroller of the Treasury	2012.0	517.0
+52858	http://www.tn.gov/ecd/	Economic and Community Development, Dept. of	2009.0	59.0
+52859	http://www.overtoncountytn.com/	Overton County	2006.0	91.0
+52860	http://www.putnamcountytn.gov/index.php	Putnam County	2005.0	84.0
+52861	http://leadpublicschools.org	LEAD Prep Southeast	2010.0	347.0
+52862	http://www.lawrencecountytn.gov/Departments/county-library	Lawrence County Public Library	2012.0	20.0
+52864	http://www.nscc.edu/	Nashville State  Community College	2002.0	529.0
+52866	http://www.coffeecountytn.org/	Coffee County	2004.0	69.0
+52867	http://maryville-schools.org	Montgomery Ridge Intermediate School	2013.0	10.0
+52868	http://bedfordk12.net	Learning Way Elementary	0.0	1556.0
+52870	http://haywoodcountybrownsville.com/	Haywood County	2007.0	71.0
+52871	http://fssd.org	Freedom Middle School	1998.0	5223.0

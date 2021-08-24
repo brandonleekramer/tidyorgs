@@ -1,0 +1,516 @@
+NodeId	NodeURL	NodeName	Year	pages
+44646	http://www.co.steele.nd.us	Steele County Courthouse	2011.0	17.0
+44647	http://www.nd.gov/hrms/	Human Resource Management Services	2005.0	124.0
+44648	http://www.rutlandnd.com/	Rutland	2000.0	1228.0
+44649	http://www.governor.nd.gov/	Governor, Office of the	2005.0	1156.0
+44650	http://www.bowman.k12.nd.us/	Bowman Public Schools	1998.0	168.0
+44651	http://www.dunseith.k12.nd.us/	Dunseith Public Schools	2001.0	19.0
+44652	http://www.jamestown.k12.nd.us/	Jamestown Public Schools	1998.0	447.0
+44653	https://www.dmr.nd.gov/oilgas/	Oil and Gas Division	2006.0	12.0
+44654	http://www.gwinnernd.com	Gwinner	2006.0	195.0
+44655	http://www.nd.gov/docr/	Corrections and Rehabilitation, Department of	2007.0	3.0
+44656	http://www.hatton.k12.nd.us/	Hatton Public School	1998.0	0.0
+44657	http://www.hopend.com/	Hope	2003.0	18.0
+44658	http://fessendennd.com/	Fessenden	2006.0	14.0
+44659	http://www.surreynd.org/	Surrey	2008.0	289.0
+44660	http://www.shilohchristian.org/	Shiloh Chrisitian School - Bismarck	2001.0	122.0
+44661	http://www.richardtonnd.com/	Richardton	2001.0	5.0
+44662	http://www.mayvilleportland.com/	Mayville	2001.0	49.0
+44663	http://www.ncecnorthdakota.org/	North Central Education Cooperative	2013.0	41.0
+44664	http://rolla.nd.utma.com/	Rolla	2000.0	83.0
+44666	http://www.granvillend.com/	Granville	2006.0	2.0
+44667	http://www.belfield.k12.nd.us/	Belfield Public School	2002.0	2400.0
+44668	http://www.standingrock.org/	Standing Rock	2000.0	38.0
+44669	http://www.ractc.k12.nd.us	Roughrider Area Career & Tech Center	2010.0	23.0
+44670	http://hillsborond.com/	Hillsboro	2001.0	63.0
+44671	http://www.lamoureph.org	LaMoure County Public Health Department	2011.0	6.0
+44672	http://www.montpelier.k12.nd.us/	Montpelier Public School	2002.0	58.0
+44673	http://www.glenburn.us/	Glenburn	2003.0	0.0
+44674	http://www.nd.gov/surplus/	Surplus Property	2006.0	28.0
+44675	http://www.starkcountynd.gov	Stark County Courthouse	2012.0	392.0
+44676	http://www.hillsborok12.com/	Hillsboro Public School	2011.0	40.0
+44677	http://www.nd.gov/risk/	Risk Management	2005.0	70.0
+44679	http://www.nd.gov/ndins/	Insurance Commissioner, Office of the	2006.0	1617.0
+44680	http://www.lakota-nd.com/	Lakota	2002.0	844.0
+44681	http://www.beach.k12.nd.us/	Beach Public School	2001.0	149.0
+44682	http://www.visitmcleancounty.com	McLean County Courthouse	2001.0	43.0
+44683	http://www.towner.k12.nd.us/	TGU-Towner School	2001.0	9.0
+44684	http://www.bottineau.k12.nd.us/	Bottineau Public Schools	1998.0	525.0
+44686	http://www.wellsph.org/	Wells County District Health Unit	2011.0	0.0
+44687	http://emmonscounty.tripod.com	Emmons County Courthouse	2008.0	24.0
+44688	http://www.st-anneschool.org/	Saint Anne School - Bismarck	2005.0	3.0
+44689	http://www.warwick.k12.nd.us/	Warwick Public School	2001.0	0.0
+44690	http://www.cityoftolna.com/	Tolna	2008.0	17.0
+44691	http://www.psc.nd.gov/	Public Service Commission	2010.0	6430.0
+44693	http://www.beulahlibrary.org	Beulah Public Library	2003.0	0.0
+44694	http://www.sargent.k12.nd.us/	Sargent Central School - Forman	2002.0	72.0
+44695	http://www.makotind.com/	Makoti	2009.0	29.0
+44696	http://www.draytonnd.com/	Drayton	2001.0	58.0
+44697	http://www.wishek.k12.nd.us/	Wishek Public School	2001.0	32.0
+44698	http://www.co.walsh.nd.us/	Walsh County Courthouse	2011.0	243.0
+44699	http://www.newleipzig.com/	New Leipzig	1999.0	107.0
+44700	http://www.nd.gov/espb/	Education Standards and Practices Board	2005.0	170.0
+44701	http://www.pickcitynd.com/800x600/index.htm	Pick City	2001.0	4.0
+44702	http://www.minnewaukan.com/	Minnewaukan	2000.0	19.0
+44703	http://www.ndsu.edu/	State University, North Dakota	2001.0	2848.0
+44704	http://www.little-flower.k12.nd.us/	Little Flower Catholic School - Rugby	2002.0	340.0
+44705	http://www.elginnd.com/	Elgin	1999.0	140.0
+44706	http://www.billingscounty.k12.nd.us/	Billings County Public Schools - Medora & Fairfield	2001.0	23.0
+44707	http://www.med.und.edu/family-medicine/	UND School of Medicine - Family Practice	2011.0	25.0
+44708	http://www.fordvillecitynd.govoffice2.com/	Fordville	2006.0	75.0
+44709	http://www.velva.net/	Velva	1999.0	19.0
+44710	http://www.burkecentral.k12.nd.us/	Burke Central School	2001.0	313.0
+44711	http://www.tiogand.net/	Tioga	2000.0	144.0
+44712	http://www.townercountynd.com	Towner County Courthouse	2012.0	1.0
+44713	http://www.cityoffargo.com/CityInfo/Departments/Library/	Southpointe Library	2006.0	125.0
+44714	http://www.northstar.k12.nd.us/	North Star Public School	0.0	318.0
+44715	http://www.ndguard.ngb.army.mil/Pages/default.aspx	Adjutant General, Office of the	2010.0	1340.0
+44716	http://www.nd.gov/itd/	Information Technology Department	2005.0	2161.0
+44717	http://www.napoleonnd.com/	Napoleon	1999.0	21.0
+44718	http://www.turtlelakend.org/	Turtle Lake	2009.0	341.0
+44719	http://www.nd.gov/fiscal/	Fiscal Management	2005.0	29.0
+44720	https://swdhu.net/swdhu/	Southwestern District Health Unit	2013.0	533.0
+44721	http://www.ashley.k12.nd.us/	Ashley Public School	2001.0	102.0
+44722	http://www.ransomcountynd.com	Ransom County Courthouse	2006.0	417.0
+44725	http://www.max.k12.nd.us/	Max Public School	1998.0	307.0
+44726	http://www.ndbarley.net	Barley Council	2002.0	25.0
+44727	http://www.minotstateu.edu/	Minot State University	2000.0	1213.0
+44728	http://www.mcclusky.k12.nd.us/	McClusky Public School	2000.0	37.0
+44729	http://www.hebron.k12.nd.us/	Hebron Public School	2002.0	117.0
+44730	https://www.ndscs.edu/	North Dakota State College of Science	2003.0	648.0
+44731	http://www.flasher.k12.nd.us//index.html	Flasher Public School	2008.0	0.0
+44732	http://mcvillendlibrary.com	McVille Community Library	2013.0	54.0
+44734	http://www.beachnd.com/	Beach	1999.0	15.0
+44735	http://banknd.nd.gov/	Bank of North Dakota	2006.0	4.0
+44736	http://www.ndsoybean.org/	Soybean Council	2001.0	62.0
+44737	http://blogs.edutech.nodak.edu/marmarthschool/	Marmarth School	0.0	37.0
+44738	http://www.lisbon.k12.nd.us/	Lisbon Public School	2002.0	0.0
+44739	http://www.tlm.k12.nd.us/	Turtle Lake-Mercer School	2000.0	41.0
+44740	http://sherwoodnd.com/	Sherwood	2002.0	22.0
+44741	https://www.roughriderindustries.com/	Roughrider Industries	2001.0	256.0
+44742	http://www.ndguard.ngb.army.mil/benefits/veteranscemetery/pages/default.aspx	Veterans Cemetery	2010.0	3.0
+44743	http://www.cityoflangdon.com/	Langdon	2006.0	41.0
+44744	http://firstlady.nd.gov/	First Lady, Office of the	2009.0	2465.0
+44745	http://www.grafton.k12.nd.us/	Grafton Public Schools	1998.0	0.0
+44746	https://www.ndseb.com/	Electrical Board	2003.0	52.0
+44747	http://annecarlsen.org/	Anne Carlsen Center for Children - Jamestown	2014.0	260.0
+44748	http://www.bensoncountynd.com	Benson County Courthouse	2013.0	4.0
+44749	http://www.trinityhighschool.com/schools.cfm?subpage=1113847	Trinity High School - Dickinson	0.0	661.0
+44750	http://www.larimorend.com	Larimore	0.0	1850.0
+44751	http://www.nd.gov/labor/human-rights/	Human Rights Division	2011.0	26.0
+44752	http://www.hebronnd.org/	Hebron	2005.0	243.0
+44753	http://www.bowmanlibrary.org	Bowman Regional Public Library	2006.0	2.0
+44754	http://www.dickinsonstate.edu/	Dickinson State University	2003.0	606.0
+44755	http://www.parkriver.k12.nd.us	Park River School Public Library	2001.0	0.0
+44757	http://www.bismarckschools.org/district/	Bismarck Public Schools	2008.0	896.0
+44759	http://www.dakotaprairie.k12.nd.us/	Dakota Prarie School - McVille & Petersburg	2001.0	25.0
+44760	http://www.ndcde.org/Home.aspx	North Dakota Center for Distance Education	2011.0	7.0
+44761	http://www.solen.k12.nd.us/	Solen Public School District	2004.0	24.0
+44762	http://www.cityofnewrockford.com/	New Rockford	2011.0	1387.0
+44763	http://www.hankinson.k12.nd.us/	Hankinson Public School	2001.0	26.0
+44764	http://www.co.morton.nd.us	Morton County Courthouse	2006.0	1229.0
+44765	http://www.fargo.k12.nd.us/education/district/district.php?sectionid=1	Fargo Public Schools	2004.0	1.0
+44766	http://www.wahpeton.k12.nd.us/	Wahpeton Public Schools	0.0	1559.0
+44767	http://www.hazen.k12.nd.us/education/school/school.php?sectionid=221	Hazen Public Schools	2011.0	3.0
+44768	http://www.nd.gov/cte/	Career & Technical Education, Department of	2005.0	106.0
+44769	http://www.zeeland.k12.nd.us/	Zeeland Public School	1998.0	12.0
+44770	http://www.garrison.k12.nd.us/	Garrison Public School	2001.0	388.0
+44771	https://sites.google.com/site/svseusped/	Sheyenne Valley Special Education Unit	0.0	77.0
+44773	http://www.realestatend.org/	Real Estate Commission	2007.0	1127.0
+44774	http://burleighco.com	Burleigh County Courthouse	2011.0	1388.0
+44775	http://www.nd.gov/spo/	Procurement Office	2006.0	47.0
+44776	http://www.manvel.k12.nd.us/	Manvel Public School	2001.0	0.0
+44777	http://www.piercecountynd.gov	Pierce County Courthouse	2012.0	78.0
+44778	http://www.ndstatefair.com/	State Fair, North Dakota	2000.0	1482.0
+44779	http://www.co.ramsey.nd.us	Ramsey County Courthouse	2002.0	604.0
+44780	http://www.pgss.k12.nd.us/	Peace Garden Special Services	2003.0	33.0
+44781	http://www.ndracingcommission.com/	Racing Commission, North Dakota	2003.0	13.0
+44782	http://www.litchville-marion.k12.nd.us/	Litchville-Marion Public School	1999.0	66.0
+44783	http://www.discovermott.com/	Mott	2004.0	5.0
+44784	https://www.facebook.com/pages/Ransom-County-Public-Health/214792691612	Ransom County Public Health Department	0.0	1.0
+44785	http://www.fdhu.org/	First District Health Unit	2003.0	1.0
+44786	http://www.jamesriverlibrary.org/	Alfred Dickey Public Library	2013.0	41.0
+44787	http://www.hannafordnd.com/	Hannaford	2000.0	3.0
+44788	http://www.michigannd.com	Michigan	2007.0	1851.0
+44789	http://www.co.traill.nd.us	Traill County Courthouse	2004.0	110.0
+44790	http://www.nd.gov/seed/	Seed Department, State	2006.0	42.0
+44791	https://www.nodakpharmacy.com/	Pharmacy, Board of	1999.0	132.0
+44792	http://www.wolford.k12.nd.us/	Wolford Public School	2004.0	9.0
+44793	http://www.sheyennevalleyctc.k12.nd.us//index.html	Sheyenne Valley Area CTC	0.0	54.0
+44794	http://www.wing.k12.nd.us/	Wing Public School	2000.0	32.0
+44795	http://www.bottineau.com/	Bottineau	1999.0	62.0
+44796	http://www.nd.gov/deafblind/	Dual Sensory Project	2006.0	35.0
+44798	http://www.stanleynd.com/	Stanley	2000.0	1535.0
+44799	http://ndipat.org/	Interagency Program for Assistive Technology	1998.0	463.0
+44800	http://www.graftongov.com	Grafton	2002.0	358.0
+44801	http://www.candond.com/	Cando	2000.0	3.0
+44802	http://www.parkrivernd.govoffice2.com/	Park River	2006.0	1134.0
+44803	http://www.parshallnd.com	Parshall	2001.0	13.0
+44804	http://www.west-fargo.k12.nd.us/	West Fargo Public Schools	1997.0	406.0
+44805	http://www.powerslakend.com/	Powers Lake	2001.0	8.0
+44806	http://www.jp2schools.org/	Nativity Elementary School	2013.0	766.0
+44808	http://www.fessenden.k12.nd.us/education/school/school.php?sectionid=2	Fessenden-Bowdon Public School	2006.0	3.0
+44810	http://logancountynd.com	Logan County Courthouse	2013.0	20.0
+44811	http://www.gacklend.com/	Gackle	2002.0	1.0
+44813	http://www.minto.k12.nd.us/	Minto Public School	2001.0	17.0
+44814	http://www.menoken.k12.nd.us/	Menoken Public School	2001.0	37.0
+44815	http://www.nd.gov/ndda/	Agriculture, Department of	2012.0	505.0
+44816	http://www.hazenlibrary.org	Hazen Public Library	2003.0	0.0
+44817	http://www.lidgerwoodnd.com	Lidgerwood	2001.0	55.0
+44819	http://www.nd.gov/omb/	Management and Budget, Office of	2005.0	17.0
+44821	http://www.lamoure.k12.nd.us/	LaMoure Public School	1997.0	458.0
+44822	http://www.kulmschools.com/	Kulm Public School	2011.0	117.0
+44823	http://www.westhope.k12.nd.us/	Westhope Public School	1998.0	5.0
+44824	http://www.nd.gov/auditor/	Auditor, Office of the	2007.0	11.0
+44825	http://www.commerce.nd.gov/	Commerce, Department of	2008.0	226.0
+44826	http://www.buffalond.com/	Buffalo	2003.0	658.0
+44827	http://www.library.nd.gov/	Library, State	2008.0	77.0
+44828	http://www.nd.gov/ndaero/	Aeronautics Commission	2005.0	226.0
+44829	http://www.gfschools.org/	Grand Forks Public Schools	2001.0	0.0
+44830	http://www.nd.gov/pfa/	Public Finance Authority	2005.0	13.0
+44831	http://www.ndcancercoalition.org/	ND Cancer Coalition	2010.0	142.0
+44832	http://www.valleycity.us	Valley City	2013.0	76.0
+44833	http://www.edgeley.k12.nd.us//index.html	Edgeley Public School	2010.0	63.0
+44834	http://www.westfargolibrary.org	West Fargo Public Library	2005.0	1438.0
+44835	http://www.grantcountynd.com	Grant County Courthouse	2007.0	133.0
+44836	http://www.nd.gov/cjis/	Criminal Justice Information Sharing (CJIS)	2007.0	6.0
+44837	http://www.garrisonnd.com/	Garrison	1999.0	30.0
+44838	http://www.citycountyhealth.org/	City-County Health Department	2011.0	4.0
+44839	http://ctkmandan.com/	Christ the King School - Mandan	0.0	223.0
+44840	http://www.willistonstate.edu/	Williston State College	2010.0	1496.0
+44841	http://www.riverdalenorthdakota.com/	Riverdale	2007.0	198.0
+44842	http://www.epping.govoffice.com/	Epping	2002.0	60.0
+44843	http://www.kindred.k12.nd.us/	Kindred Public School	1996.0	0.0
+44844	http://regentnorthdakota.com	Regent	2004.0	64.0
+44845	http://www.communityservices.nd.gov/	Community Services, Division of	2008.0	182.0
+44847	http://www.dickinson.k12.nd.us/	Dickinson Public Schools	1998.0	3.0
+44848	http://www.carrington.k12.nd.us/	Carrington Public Schools	1997.0	50.0
+44849	http://www.bowdonnd.com/	Bowdon	2003.0	27.0
+44850	http://www.griggs-co.k12.nd.us/	Griggs County Central Public School - Cooperstown & Hannaford	0.0	265.0
+44851	http://www.mmrlibrary.org	Mclean-Mercer Regional Library	2005.0	4.0
+44852	http://www.legis.nd.gov/	Legislative Assembly	2005.0	4667.0
+44853	http://www.minotlibrary.org	Minot Public Library	1999.0	332.0
+44855	http://www.beulah.k12.nd.us/education/district/district.php?sectionid=1	Beulah Public School	2007.0	2.0
+44856	http://www.mayportcg.com/	May-Port-C-G Public School	2002.0	51.0
+44857	http://www.gracelutheranschool.org/	Grace Lutheran School	2001.0	134.0
+44858	http://www.workforcesafety.com/	Workforce Safety and Insurance	2002.0	292.0
+44859	http://www.nd.gov/des/	Emergency Services, Department of	2005.0	308.0
+44860	http://www.finleysharonschool.com/	Finley-Sharon Public Schools	2014.0	1.0
+44861	http://www.bowmannd.com/	Bowman	1996.0	254.0
+44862	http://www.minot.k12.nd.us/	Minot Public Schools	1998.0	0.0
+44863	http://www.newtownchamber.com/	New Town	2008.0	18.0
+44864	http://enderlinnd.com/	Enderlin	2000.0	12.0
+44865	http://www.nd.gov/rio/	Retirement and Investment Office	2006.0	7.0
+44866	http://www.dot.nd.gov/	Transportation, Department of	2006.0	127.0
+44868	http://bismarck.org/index.aspx?nid=95	Bismarck-Burleigh Public Health	2010.0	1240.0
+44869	http://www.glen-ullin.k12.nd.us/	Glen Ullin Public School	2002.0	2.0
+44870	http://www.stanley.k12.nd.us/	Stanley Public School	0.0	795.0
+44871	http://www.cavaliernd.com/	Cavalier	1999.0	2.0
+44872	http://www.maddocknd.com/	Maddock	2002.0	189.0
+44873	http://www.bismarckstate.edu/	Bismarck State College	2002.0	3481.0
+44874	http://www.spiritlakenation.com/	Spirit Lake Sioux Nation	2001.0	48.0
+44875	http://www.hettinger.k12.nd.us/	Hettinger Public School	2000.0	180.0
+44876	https://www.ndhfa.org/	Housing Finance Agency, North Dakota	2001.0	10.0
+44877	http://www.valley-edinburg.k12.nd.us/	Valley-Edinburg of Hoople/Crystal/Edinburg	2013.0	0.0
+44878	http://www.bowmannd.com/county/	Bowman County Courthouse	2010.0	55.0
+44880	http://www.sawyer.k12.nd.us/	Sawyer Public School	2002.0	65.0
+44881	http://www.ag.nd.gov/	Attorney General, Office of the	2006.0	3.0
+44882	http://www.lrsc.edu/default.asp	Lake Region State College	2008.0	408.0
+44883	http://www.legis.nd.gov/legislative-council	Legislative Council	2012.0	3382.0
+44884	http://www.st-john.k12.nd.us/	St. John Public School	2001.0	126.0
+44885	http://www.oakgrovelutheran.com/	Oak Grove Lutheran School - Fargo	2005.0	162.0
+44886	http://www.nd.gov/dhs/services/childsupport/	Child Support	2007.0	170.0
+44887	http://www.cavaliercounty.us	Cavalier County Courthouse	2008.0	19.0
+44888	http://mohallndak.com/	Mohall	2000.0	15.0
+44889	http://www.lrca.k12.nd.us/	Lake Region Christian Academy - Devils Lake	2001.0	3.0
+44890	http://www.jobsnd.com/	Job Service North Dakota	2003.0	282.0
+44891	http://teacherweb.com/nd/nedrose/home/sdhp1.aspx	Nedrose School	2010.0	48.0
+44892	http://www.rugby.k12.nd.us/	Rugby Public School	2002.0	12.0
+44894	http://www.richardton-taylor.k12.nd.us/	Richardton-Taylor Public School	2005.0	1.0
+44896	http://www.nd.gov/fac/lunchroom/capitollunchmenus.html	Capitol Lunch Room	2006.0	1.0
+44897	http://und.edu/	University of North Dakota	1998.0	6562.0
+44898	http://www.goodrich.k12.nd.us/	Goodrich High School	2004.0	9.0
+44899	http://www.goldenvalleycounty.org	Golden Valley County Courthouse	2013.0	42.0
+44900	http://www.co.stutsman.nd.us	Stutsman County Courthouse	2004.0	65.0
+44901	http://www.edgeley.com/	Edgeley	2001.0	459.0
+44902	http://www.relaynorthdakota.com/	Relay North Dakota	2000.0	19.0
+44903	http://www.ojibwa.k12.nd.us/	Ojibwa Indian School	2004.0	15.0
+44904	http://www.burkecountynd.com	Burke County Courthouse	2003.0	27.0
+44906	http://www.cityoflincolnnd.com/	Lincoln	2007.0	36.0
+44907	http://www.ag.ndsu.nodak.edu/directory/extdir.htm	ND State University Extension Service	1999.0	66.0
+44908	http://www.mayvillestate.edu/	Mayville State University	2003.0	869.0
+44909	http://mott.nd.schoolwebpages.com/education/school/school.php?sectionid=2	Mott/Regent Public School	2004.0	2.0
+44910	http://www.valley-city.k12.nd.us//index.html	Valley City Public School	2003.0	101.0
+44911	http://www.nd.gov/ndsd/	School for the Deaf	2005.0	50.0
+44912	http://www.stantonnd.com/	Stanton	2000.0	6.0
+44913	http://www.edline.net/pages/watford_city_elementary_school	Watford City Elementary School	2013.0	79.0
+44915	http://www.minotnd.org/	Minot	2008.0	216.0
+44916	http://www.cityofmandan.com/	Mandan	2000.0	1021.0
+44917	http://lhs.utma.com/	Langdon Public School	1998.0	1943.0
+44918	http://www.ndus.edu/system/approving-agency/	State Approving Agency	2011.0	3.0
+44919	http://www.centralvalleynd.com/	Central Valley Public Schools	2013.0	75.0
+44920	http://starkweather.nd.schoolwebpages.com/education/school/school.php?sectionid=3	Starkweather Public School	2010.0	3.0
+44921	http://www.bismarck.org/index.aspx?nid=23	Bismarck Veterans Memorial Public Library	2010.0	1180.0
+44922	http://www.maple-valley.k12.nd.us/education/district/district.php?sectionid=1	Maple Valley Public School	2007.0	2.0
+44923	http://www.steelend.com/	Steele	2003.0	19.0
+44924	http://www.anamoose-drake.k12.nd.us/	Anamoose-Drake Public School	2011.0	93.0
+44925	http://buxtonnd.com/	Buxton	2001.0	18.0
+44926	http://www.nd.gov/sos/	Secretary of State, Office of the	2005.0	628.0
+44927	http://devilslake.nd.schoolwebpages.com/education/school/school.php?sectionid=7	Lake Area Career & Technology Center	2013.0	4.0
+44928	http://www.nd.gov/fac/index.html	Facility Management	2005.0	50.0
+44929	http://www.nd.gov/indianaffairs	Indian Affairs Commission	2009.0	372.0
+44930	http://www.tappen.k12.nd.us/	Tappen Public School	1999.0	8.0
+44931	http://www.kenmarend.com/	Kenmare	2000.0	1018.0
+44932	http://www.belcourt.k12.nd.us/education/components/scrapbook/default.php?sectionid=1	Turtle Mountain Community Schools - Belcourt	2005.0	1.0
+44933	http://hampden.wordpress.com/	Hampden	2009.0	93.0
+44935	http://www.new-england.k12.nd.us/	New England Public School	2002.0	154.0
+44936	http://www.oakes.k12.nd.us	Oakes School Public Library	1997.0	96.0
+44937	http://www.oakesnd.com/	Oakes	2001.0	144.0
+44939	http://tourism.mckenziecounty.net/	Watford City	2012.0	91.0
+44940	https://www.facebook.com/pages/Turtle-Mountain-Band-of-Chippewa-Indians/112908415425129?rf=102648379788206	Turtle Mountain Chippewa	0.0	2.0
+44942	http://www.newrockford-sheyenne.k12.nd.us/	New Rockford-Sheyenne School	2013.0	290.0
+44943	http://www.napoleon.k12.nd.us/	Napoleon Public School	2000.0	46.0
+44944	http://www.parshall.k12.nd.us/	Parshall High School	2002.0	31.0
+44945	http://www.nd.gov/duplicating/	Central Duplicating	2006.0	20.0
+44946	http://www.lignitend.com/	Lignite	2003.0	1.0
+44947	http://www.strasburg.k12.nd.us/	Strasburg Public School	2001.0	1500.0
+44948	http://www.wiltonnd.org/	Wilton	2003.0	14.0
+44949	http://www.dvlnd.com/	Devils Lake	2009.0	80.0
+44950	http://www.wardnd.com	Ward County Courthouse	2011.0	1091.0
+44951	http://www.lamourecountynd.com	LaMoure County Courthouse	2011.0	35.0
+44952	http://www.crosbynd.com/	Crosby	1999.0	26.0
+44953	http://www.vcsu.edu/	Valley City State University	2000.0	623.0
+44954	http://www.mandaree.k12.nd.us/	Mandaree Public School	2002.0	24.0
+44955	http://www.nd.gov/des/state-radio/	Radio Communications	2009.0	10.0
+44957	http://www.larimorek12.org	Larimore Public School	0.0	24.0
+44958	http://www.milnor.k12.nd.us/	Milnor Public School	1999.0	381.0
+44959	http://www.land.nd.gov/	Trust Lands, ND Department of	2008.0	114.0
+44960	http://rugbynorthdakota.com/	Rugby	2000.0	803.0
+44961	http://www.wishek.k12.nd.us/librarypage.htm	Wishek School Public Library	2002.0	0.0
+44962	http://www.nd.gov/indigents/	Legal Counsel for Indigents, ND Commission on	2007.0	23.0
+44963	http://www.strasburgnd.com/	Strasburg	2007.0	192.0
+44964	http://www.lamourend.com/	LaMoure	2000.0	2.0
+44966	http://nd.gov/	State Government	2003.0	3616.0
+44967	http://www.northerncass.k12.nd.us/	Northern Cass Public School - Hunter	1998.0	0.0
+44968	http://www.powerslake.k12.nd.us//index.html	Powers Lake School	2008.0	0.0
+44969	http://www.pembina.govoffice.com/	Pembina School City Library	2002.0	723.0
+44970	http://www.bowbellsnd.com/	Bowbells	2003.0	11.0
+44971	http://www.sourisnd.com	Souris	2013.0	12.0
+44972	http://www.fairmount.k12.nd.us/	Fairmount Public School	2001.0	67.0
+44973	http://www.business.nd.gov/	Economic Development and Finance	2008.0	203.0
+44974	http://www.wyndmere.k12.nd.us/	Wyndmere Public School	1998.0	106.0
+44975	http://www.raynd.com/	Ray	2001.0	172.0
+44976	http://www.nd.gov/gis/	Geographic Information Systems	2005.0	170.0
+44977	http://www.lrsc.edu/	Lake Region State College	2008.0	483.0
+44978	http://www.maddock-school.com/	Maddock Public School	2008.0	42.0
+44979	http://www.carringtonnd.com/	Carrington	2001.0	259.0
+44980	http://www.umdhu.org/	Upper Missouri District Health Unit	2003.0	33.0
+44983	http://www.nd.gov/ndpers/	Public Employees Retirement System	2006.0	129.0
+44984	http://www.williamsnd.com	Williams County Courthouse	2002.0	174.0
+44985	http://www.reilesacresnd.org/	Reile's Acres	2007.0	12.0
+44986	http://www.stjosephs-will.k12.nd.us/	St. Joseph's Catholic School	2011.0	6.0
+44987	http://www.co.sheridan.nd.us	Sheridan County Courthouse	2012.0	97.0
+44988	http://www.rolettecounty.com	Rolette County Courthouse	2000.0	15.0
+44989	http://www.selfridge.k12.nd.us/	Selfridge Public School	2013.0	27.0
+44990	http://www.nd.gov/oah/	Administrative Hearings, Office of	2005.0	35.0
+44991	http://www.wrtc.com/zapnd/	Zap	1998.0	5.0
+44992	http://governor.nd.gov/boards/boards-query.asp?board_id=72	Nursing Board	2005.0	0.0
+44993	http://governor.nd.gov/boards/boards-query.asp?board_id=71	Milk Marketing Board	2005.0	0.0
+44994	http://www.nd.gov/csd/	Central Services Division	2007.0	9.0
+44995	http://www.pekinnd.com	Pekin	2004.0	17.0
+44996	http://www.pagend.com/	Page	2006.0	53.0
+44997	http://lintonnd.org/	Linton	2000.0	325.0
+44998	http://www.anamoose.com/	Anamoose	2000.0	49.0
+44999	http://www.lutherschools.org/	Martin Luther School	2001.0	37.0
+45000	http://www.ndtourism.com/	Tourism, Division of	1998.0	2144.0
+45002	http://www.cityoffargo.com/Residential/CityServices/Healthservices/	Fargo Cass Public Health	2007.0	92.0
+45003	http://finleynd.com/	Finley	2001.0	106.0
+45004	http://www.nd.gov/pisb/	Private Investigation and Security Board	2005.0	17.0
+45005	http://www.towercitynd.com/	Tower City	2006.0	389.0
+45006	http://www.hazennd.org/	Hazen	2000.0	52.0
+45007	http://www.granville.k12.nd.us	TGU-Granville School	2001.0	10.0
+45008	http://www.washburnnd.com/	Washburn	1999.0	694.0
+45009	http://www.watford-city.k12.nd.us/	Watford City High School	2003.0	0.0
+45010	http://www.halliday.k12.nd.us/	Halliday Public School	1998.0	52.0
+45011	http://www.glenburn.k12.nd.us/	Glenburn Public School	2001.0	26.0
+45012	http://www.northwoodk12.com/	Northwood Public School	2011.0	248.0
+45013	http://www.marmarth.org/	Marmarth	2002.0	14.0
+45014	http://velva.nd.schoolwebpages.com/education/school/school.php?sectionid=2	Velva Public School	2006.0	106.0
+45015	http://www.ndwheat.com/	Wheat Commission	1998.0	504.0
+45016	http://www.cathedral.k12.nd.us/	Cathedral School, Bismarck	2000.0	9.0
+45017	http://www.leonardnd.com	Leonard	2011.0	18.0
+45018	http://www.ndhealth.gov/	Health, ND Department of	2006.0	1640.0
+45020	http://www.drayton.k12.nd.us/	Drayton Public Schools	2008.0	0.0
+45021	http://www.minnewaukan.k12.nd.us/	Minnewaukan Public School	1998.0	10.0
+45022	http://www.bismarck.org/	Bismarck	1998.0	1156.0
+45024	http://www.dunncountynd.org	Dunn County Courthouse	2012.0	578.0
+45025	http://cityofargusville.com	Argusville	2008.0	347.0
+45026	http://www.midway.k12.nd.us/education/school/school.php?sectionid=2	Midway Public School - Inkster	2010.0	3.0
+45027	http://casselton.com/	Casselton	1999.0	92.0
+45028	http://www.nd.gov/ndic/	Industrial Commission	2006.0	39.0
+45029	http://www.harveynd.com/	Harvey	2000.0	583.0
+45030	http://www.nd.gov/veterans/	Veterans Affairs, Department of	2005.0	1239.0
+45031	http://www.newenglandnd.com/	New England	2001.0	5.0
+45032	http://www.centernd.net	Center	2003.0	128.0
+45033	http://www.tioga.k12.nd.us//index.html	Tioga Public School	2009.0	58.0
+45034	http://www.milnornd.com/	Milnor	2001.0	54.0
+45035	http://www.dickinsonlibrary.org	Dickinson Public Library	2008.0	37.0
+45036	http://www.hankinsonnd.com/	Hankinson	2001.0	0.0
+45037	http://www.fordville-lankin.k12.nd.us/	Fordville-Lankin Public School	2003.0	86.0
+45038	http://www.stmarysbismarck.org/	St. Mary's Elementary School - Bismarck	2009.0	198.0
+45040	http://www.dickinsongov.com/	Dickinson	2002.0	150.0
+45041	http://www.nd.gov/dfi/	Financial Institutions, Department of	2007.0	86.0
+45042	http://www.ndsu.edu/ndfs/	Forest Service, ND	2010.0	228.0
+45043	http://www.wingnd.net	Wing	2013.0	8.0
+45044	http://wellscountynd.com	Wells County Courthouse	2012.0	193.0
+45045	http://www.surrey.k12.nd.us/	Surrey Public School	2001.0	4.0
+45046	http://www.munich.k12.nd.us/	Munich Public School	1998.0	74.0
+45048	http://www.ndcourts.gov/	Judicial Branch	2007.0	16000.0
+45049	http://www.co.traill.nd.us/template.cfm?d=7	Traill District Health Unit	2011.0	110.0
+45051	http://www.leeds-school.com/	Leeds School District	2005.0	1.0
+45052	http://www.bowbells.k12.nd.us/	Bowbells Public Schools	1998.0	0.0
+45053	http://www.nd.gov/itd/statewide-alliances/enterprise-architecture	Enterprise Architecture	2011.0	29.0
+45054	http://www.nd.gov/ndtreas/	Treasurer, Office of the State	2006.0	139.0
+45055	http://www.ray.k12.nd.us/	Ray Public School	2001.0	42.0
+45056	http://www.beachnd.com/golva.php	Golva	2007.0	15.0
+45057	http://www.wishek-nd.com/	Wishek	1998.0	954.0
+45058	http://www.flaxtonnd.com/	Flaxton	2001.0	14.0
+45059	http://www.sterling.k12.nd.us/	Sterling School	2013.0	66.0
+45060	http://www.ndus.nodak.edu/	University System, North Dakota	1998.0	2359.0
+45061	http://www.earthskyweb.com/sota.html	Sisseton Indian Health	1999.0	52.0
+45062	http://www.southheart.k12.nd.us/	South Heart Public School	1998.0	158.0
+45063	http://www.hattonnd.com/	Hatton	2001.0	221.0
+45064	http://www.rolettepublicschools.com/	Rolette Public School	2004.0	24.0
+45065	https://www.casscountynd.gov/Pages/default.aspx	Cass County Courthouse	2009.0	374.0
+45066	http://www.nd.gov/labor/	Labor Commissioner, Office of the	2005.0	68.0
+45067	http://www.white-shield.k12.nd.us/	White Shield Public School	2004.0	85.0
+45068	http://www.northsargent.k12.nd.us/	North Sargent Public School - Gwinner	1998.0	28.0
+45070	http://www.ndmill.com/	Mill and Elevator Association, North Dakota	1998.0	54.0
+45071	http://www.nd.gov/docr/juvenile/education/education.html	North Dakota Youth Correctional Center - Bismarck	2009.0	19.0
+45072	http://www.stcatherine.k12.nd.us//index.html	St. Catherine School - Valley City	2001.0	118.0
+45073	http://www.lisbonnd.com	Lisbon Public Library	1999.0	41.0
+45074	http://www.wahpeton.com/	Wahpeton	2000.0	685.0
+45075	http://www.fourwinds.k12.nd.us/education/district/district.php?sectionid=1	Four Winds Community School- Fort Totten	2007.0	1.0
+45076	http://ndhealth.gov/vital/	Vital Records	2006.0	11.0
+45077	http://governor.nd.gov/boards/boards-query.asp?board_id=75	Oilseed Council	2005.0	0.0
+45078	http://www.jhs.jamestown.k12.nd.us/	Jamestown High School	2008.0	10.0
+45079	http://www.nd.gov/supply/	Central Supply	2006.0	9.0
+45080	http://www.smchs.org/	St. Mary's Central HS - Bismarck	1998.0	136.0
+45081	http://www.beachnd.com/sentinel-butte.php	Sentinel Butte	2007.0	15.0
+45082	http://botco.homestead.com/	Bottineau County Courthouse	2013.0	2.0
+45083	http://www.ellendalend.com/	Ellendale	2002.0	501.0
+45084	http://www.harvey.k12.nd.us/	Harvey Public Schools	2002.0	0.0
+45085	http://www.nd.gov/securities/	Securities Department	2013.0	133.0
+45086	http://www.ashley-nd.com/	Ashley	1998.0	33.0
+45087	http://www.willistonnd.com/	Williston	2000.0	277.0
+45088	http://www.grandforksgov.com/publichealth	Grand Forks Public Health Department	2000.0	33.0
+45089	http://www.cityofthompsonnd.com/	Thompson	2006.0	128.0
+45090	http://www.emerado.k12.nd.us/	Emerado Public School	2003.0	1.0
+45091	http://devilslake.nd.schoolwebpages.com/education/district/district.php?sectionid=1	Devils Lake Public Schools	2003.0	2.0
+45092	http://www.ndcap.us	Civil Air Patrol	2008.0	489.0
+45093	http://www.kindredpubliclibrary.com	Kindred Public Library	2007.0	16.0
+45094	http://www.ci.devils-lake.nd.us	Lake Region Public Library	2001.0	7.0
+45095	http://www.williston.k12.nd.us/	Williston Public School	1998.0	124.0
+45096	http://gfcounty.nd.gov/	Grand Forks County Courthouse	2009.0	184.0
+45097	http://www.mls.k12.nd.us//index.html	Mohall Lansford Sherwood Schools	2011.0	186.0
+45098	http://www.grandforksgov.com/	Grand Forks	1998.0	1307.0
+45101	http://www.killdeer.com/	Killdeer	1998.0	309.0
+45102	http://scrantonpublicschool.homestead.com/	Scranton Public School	2001.0	3.0
+45103	http://www.nd.gov/arts/	Arts, Council on the	2007.0	261.0
+45104	http://www.ndcourts.gov/court/committees/barbd/board.asp	Law Examiners, State Board of	2007.0	10.0
+45105	http://www.eight-mile.k12.nd.us/education/school/school.php?sectionid=2	Trenton School	2008.0	3.0
+45106	http://www.kenmare.k12.nd.us/education/school/school.php?sectionid=2	Kenmare Public School	2005.0	3.0
+45107	http://www.centralvalleyhealth.org/	Central Valley Health Unit	2005.0	24.0
+45110	http://www.enderlin.k12.nd.us/	Enderlin Public School	1999.0	136.0
+45111	http://pembinacountynd.gov	Pembina County Courthouse	2004.0	400.0
+45112	http://www.hettingernd.com/	Hettinger	1998.0	13.0
+45113	http://www.steele-dawson.k12.nd.us//index.html	Steele-Dawson-Tuttle-Pettibone Public School	2011.0	51.0
+45116	http://www.dakotacollege.edu/	Dakota College at Bottineau	2009.0	606.0
+45117	http://www.richland.k12.nd.us/	Richland School District - Abercrombie & Colfax	2001.0	32.0
+45118	http://www.beulahnd.org/	Beulah	2001.0	43.0
+45119	http://www.hettingercounty.net	Hettinger County Courthouse	2011.0	26.0
+45120	http://gf.nd.gov/	Game and Fish Department	2005.0	665.0
+45121	http://www.drake-anamoose.k12.nd.us/	Drake Public Schools	0.0	5.0
+45122	http://www.central-cass.k12.nd.us/	Central Cass Public School	2002.0	46.0
+45123	http://www.breathend.com	Tobacco Prevention and Control Policy, Center for	2009.0	1121.0
+45126	http://www.fort-yates.k12.nd.us/	Fort Yates Public School	2003.0	64.0
+45127	http://www.nd.gov/vr/	Vendor Registry	2010.0	26.0
+45128	http://www.edinburgnd.com/	Edinburg	2004.0	14.0
+45129	http://history.nd.gov/	Historical Society	2009.0	1370.0
+45130	http://www.alexander.k12.nd.us/	Alexander Public School	2003.0	301.0
+45132	http://www.ndvisionservices.com/	North Dakota Vision Services School for the Blind - Grand Forks	2003.0	48.0
+45133	http://adamscountylibrary.org	Adams County Library	2010.0	18.0
+45134	http://www.formannd.com	Forman	2009.0	256.0
+45135	http://www.jamestownnd.org/	Jamestown	2010.0	438.0
+45136	http://www.burlingtonnd.gov/	Burlington	2007.0	50.0
+45138	http://ndpanda.org/	Protection and Advocacy Project	2001.0	103.0
+45139	http://www.nd.gov/dhs/	Human Services, Department of	2008.0	301.0
+45140	http://www.swc.nd.gov/4dlink9/4dcgi/redirect/index.html	Water Commission, State	2007.0	434.0
+45141	http://www.medorand.com/	Medora	1998.0	89.0
+45142	http://www.killdeer.k12.nd.us/	Killdeer Public School	2000.0	241.0
+45143	https://sites.google.com/site/washburnk12/	Washburn Public School	0.0	49.0
+45144	http://www.cityofharwood.com/	Harwood	2003.0	3679.0
+45145	http://www.mandan.k12.nd.us/	Mandan Public Schools	2001.0	465.0
+45147	http://www.mercercountynd.com	Mercer County Courthouse	2001.0	46.0
+45148	http://www.grenora.k12.nd.us/	Grenora Public School	2002.0	137.0
+45149	http://www.nd.gov/ndvh/	Veterans Home	2005.0	37.0
+45150	http://ndfa.net/	Firefighter's Association, North Dakota	2003.0	45.0
+45151	http://www.gcs.k12.nd.us/	Roosevelt Elementary/Grant County Junior High	2013.0	987.0
+45152	http://www.nelsongriggshealth.com/	Nelson/Griggs District Health Unit	2010.0	14.0
+45153	http://governor.nd.gov/boards/boards-query.asp?board_id=66	Lignite Research Council	2005.0	31.0
+45154	http://governor.nd.gov/boards/boards-query.asp?board_id=69	Medical Examiners, Board of	2005.0	71.0
+45155	http://www.kensalschool.org/	Kensal Public School	2010.0	54.0
+45156	http://www.dbhs.united.k12.nd.us/	United Public School District	2008.0	2.0
+45157	http://www.co.richland.nd.us	Richland County Courthouse	2013.0	51.0
+45158	http://www.ellendale.k12.nd.us/	Ellendale Public School	1998.0	2.0
+45159	http://www.nelsonco.org	Nelson County Courthouse	2006.0	548.0
+45160	http://www.fostercounty.com	Foster County Courthouse	2002.0	101.0
+45161	http://www.northvalley.k12.nd.us/	North Valley Career-Tech Center - Grafton	1999.0	0.0
+45162	http://www.nd.gov/dhs/dvr/	Vocational Rehabilitation, Division of	2011.0	6.0
+45163	http://www.maxnd.com/	Max	2001.0	63.0
+45164	http://www.ndsbopt.org/	Optometry, Board of	2001.0	23.0
+45165	http://www.richlandcountyhealth.org/	Richland County Health Department	2008.0	23.0
+45167	http://www.griggscountynd.gov	Griggs County Courthouse	2011.0	195.0
+45168	http://griggscountypubliclibrary.com	Griggs County Library	2005.0	8.0
+45169	http://www.cooperstownnd.com/	Cooperstown	1998.0	79.0
+45170	http://www.ndbvme.org/	Veterinary Medical Examiners, Board of	2008.0	36.0
+45171	http://www.gacklestreeter.k12.nd.us/	Gackle-Streeter Public School	1999.0	2.0
+45172	http://www.ci.fargo.nd.us/	Fargo	1998.0	1327.0
+45173	http://governor.nd.gov/boards/boards-query.asp?board_id=18	Beef Commission	2005.0	2.0
+45174	http://www.nd.gov/tax/	Tax Commissioner, Office of the	2005.0	164.0
+45175	http://www.stbernardmissionschool.com/	St. Bernard Mission School - Fort Yates	2004.0	18.0
+45177	http://www.rolla.k12.nd.us/	Rolla Public School	0.0	49.0
+45178	http://www.hmb.k12.nd.us/	Hazelton-Moffit-Braddock Public School	2000.0	83.0
+45179	http://www.mhanation.com/	Three Affiliated Tribes	2000.0	2.0
+45180	http://www.lidgerwoodnd.com/LHS/home.php	Lidgerwood Public School	0.0	49.0
+45181	http://www.hope-page.k12.nd.us/	Hope-Page Public School	2002.0	0.0
+45182	http://www.thompson.k12.nd.us/	Thompson Public School	1998.0	39.0
+45183	http://www.upham.k12.nd.us/	Upham Public School	1998.0	12.0
+45184	http://www.parkrec.nd.gov/	Parks and Recreation, Department of	2005.0	4.0
+45185	http://www.sargentnd.com	Sargent County Courthouse	2011.0	130.0
+45186	http://www.rcphd.com/	Rolette County Public Health District	2005.0	12.0
+45187	http://www.mapletonnd.com/	Mapleton	2006.0	380.0
+45188	http://www.mcville.com	McVille	2001.0	56.0
+45189	http://www.south-prairie.k12.nd.us/education/school/school.php?sectionid=2	South Prairie Elementary School - Minot	2007.0	3.0
+45190	http://www.mckenziecounty.net	McKenzie County Courthouse	2011.0	29.0
+45191	http://www.co.barnes.nd.us	Barnes County Courthouse	2002.0	13.0
+45192	http://www.lewisandclark.k12.nd.us/	Lewis and Clark Schools	2003.0	0.0
+45193	http://www.center-stanton.k12.nd.us/	Center/Stanton Public School	0.0	278.0
+45194	http://www.billingscountynd.gov	Billings County Courthouse	2007.0	105.0
+45195	http://www.newburg.k12.nd.us/	Newburg Public School	1998.0	34.0
+45196	http://www.westfargond.gov	West Fargo	2007.0	649.0
+45197	http://www.district8.k12.nd.us//index.html	New Public School District #8 - Williston	2010.0	66.0
+45198	http://www.medina.k12.nd.us/	Medina Public School	2002.0	539.0
+45199	http://www.dpi.state.nd.us/	Public Instruction, Department of	1998.0	554.0
+45200	http://www.newsalem-nd.com/	New Salem	2009.0	34.0
+45201	http://www.new-salem.k12.nd.us/	New Salem-Almont Public School	0.0	233.0
+45202	https://www.dmr.nd.gov/ndgs//	Geological Survey	2006.0	261.0
+45203	http://www.edmore.k12.nd.us	Edmore Public School	1996.0	448.0
+45204	http://www.workforce.nd.gov/	Workforce Development	2008.0	126.0
+45205	http://www.pingree-buchanan.k12.nd.us/	Pingree Buchanan Public School	2013.0	85.0
+45206	http://www.srctc.k12.nd.us/	Southeast Region Career and Technology Center - Wahpeton	2007.0	101.0
+45208	http://www.linton.k12.nd.us/	Linton Public School	1998.0	92.0
+45210	http://stmichaelsgf.com/school/	St. Michael's Elementary School	2013.0	20.0
+45211	http://www.cavaliercountyhealth.com/	Cavalier County Health District	2009.0	17.0
+45212	http://www.nd.gov/ndhp/	Highway Patrol	2006.0	296.0
+45214	http://www.wilton.k12.nd.us/	Wilton Public School	2002.0	125.0

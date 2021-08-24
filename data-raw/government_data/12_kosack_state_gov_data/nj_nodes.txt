@@ -1,0 +1,1607 @@
+NodeId	NodeURL	NodeName	Year	pages
+37361	http://bergenfieldboro.com/	Bergenfield	2001.0	5583.0
+37363	http://overbrookhs.com/	Overbrook High School	2002.0	286.0
+37364	http://www.aclink.org/Admin/Main/Municipal.asp	Port Republic Borough	2007.0	2.0
+37365	http://www.vernontwp.com/	Vernon Township	2000.0	891.0
+37366	http://www.hopatcong.org/	Hopatcong	1998.0	332.0
+37367	http://www.teamschools.org	TEAM Academy Charter School (7325 - 965)	2007.0	107.0
+37368	http://www.paulsboro.k12.nj.us	PAULSBORO PUBLIC SCHOOLS (4020)	2000.0	207.0
+37370	http://www.raritanval.edu/	Raritan Valley Community                      College	1997.0	1068.0
+37374	http://www.hhschools.org/SitePages/Home.aspx	Hasbrouck Heights Board of Education (2080)	2012.0	5.0
+37375	http://sbfd1.org/	South Brunswick Fire District #1	2000.0	11.0
+37376	http://www.bradleybeachnj.gov/	Bradley Beach	2013.0	327.0
+37377	http://www.co.cumberland.nj.us/content/173/211/809.aspx	Shiloh Borough	2008.0	9.0
+37378	http://www.seasideparknj.org/	Seaside Park	1999.0	437.0
+37379	http://www.folsomschool.org/	Folsom Borough School District (1540)	2002.0	968.0
+37380	http://www.cityofgloucester.org/	Gloucester	2005.0	49.0
+37381	http://www.vtsd.com	Vernon Township School District (5360)	2002.0	1061.0
+37382	http://lmxac.org/mata/main.php	Matawan-Aberdeen Public Library	2013.0	2.0
+37384	http://www.holmdeltownship-nj.com/	Holmdel	2006.0	526.0
+37385	http://www.woodburyhtselem.com	Woodbury Heights Public School District (5870)	2001.0	43.0
+37386	http://www.hanoverpark.org	Hanover Park High School	0.0	936.0
+37387	http://www.sterling.k12.nj.us	Sterling School District (5035)	1998.0	176.0
+37388	http://www.salemcountynj.gov/	Salem County	2004.0	810.0
+37389	http://www.pthsd.k12.nj.us/sch/phhs/home.html	Parsippany Hills High School	2000.0	103.0
+37390	http://www.co.hunterdon.nj.us/mun/lebnboro.htm	Lebanon Borough	1998.0	31.0
+37391	http://www.hamiltonschools.org	HAMILTON TOWNSHIP SCHOOL DISTRICT (1940)	2001.0	110.0
+37392	http://www.ridgefieldschools.com	Ridgefield Public Schools (4370)	2004.0	7.0
+37393	http://www.ridgefieldpark.org/	Ridgefield Park	1999.0	498.0
+37394	http://alj.clarkschools.org	Arthur L. Johnson High School	2002.0	372.0
+37395	http://www.co.cape-may.nj.us/	Cape May County	1998.0	283.0
+37397	http://wanaqueps.org	Wanaque Public Schools (5440)	2013.0	355.0
+37398	http://www.pps-nj.us/pps/schools/high	Pleasantville High School	0.0	2.0
+37399	http://www.bernardsvilleboro.org/	Bernardsville	2001.0	106.0
+37401	http://www.magnolia-nj.org/contentSpecific/currentResidents.htm	Magnolia	2007.0	2.0
+37402	http://www.btschools.org/site/default.aspx?PageID=1	Bethlehem Township Schools (0370)	2012.0	40.0
+37403	http://alexandria-nj.us/	Alexandria Township	2003.0	39.0
+37404	http://www.academycharterhs.org	Academy Charter High School (6010 - 910)	2006.0	133.0
+37406	http://www.frelinghuysenschool.org	FRELINGHUYSEN TOWNSHIP SCHOOL DISTRICT (1670)	2011.0	50.0
+37407	http://www.jpstevens.org	J P Stevens High School	1999.0	1.0
+37408	http://www.milfordpublicschool.com	Milford Boro (3180)	2007.0	525.0
+37409	http://www.springfieldschools.com	Springfield Public Schools (5000)	2001.0	8.0
+37410	http://internationalcs.org	International Charter School of Trenton (6810 - 940)	2010.0	21.0
+37411	http://www.eastamwell.org	EAST AMWELL TOWNSHIP (1160)	2000.0	435.0
+37412	http://www.manningtontwp.com/	Mannington Township	2011.0	1.0
+37413	http://www.burlingtonnj.us	Library Company Of Burlington	2003.0	105.0
+37414	http://www.pomptonlakesgov.com/	Pompton Lakes	2001.0	239.0
+37416	http://www.moonachiepd.org/	Moonachie Police Department	2001.0	13.0
+37417	http://www.chestertownship.org/	Chester Township	2001.0	167.0
+37418	http://www.rtnj.org	Randolph Township Schools (4330)	0.0	1646.0
+37419	http://www.leht.com/	Little Egg Harbor Township	1998.0	46.0
+37420	http://www.elktownshipnj.gov/	Elk Township	2006.0	33.0
+37421	http://www.acsssd.net	Atlantic County Special Services School District (0125)	2006.0	20.0
+37422	http://www.gtps.k12.nj.us	GALLOWAY TOWNSHIP PUBLIC SCHOOLS (1690)	1998.0	2.0
+37423	http://www.oceanportboro.com/	Oceanport Borough	2004.0	89.0
+37424	http://www.alloway.k12.nj.us	ALLOWAY TWP SCHOOL DISTRICT (0060)	2000.0	82.0
+37425	http://www.elmwoodparknj.us/	Elmwood Park	2008.0	33.0
+37426	http://www.mtnlakes.org/	Mountain Lakes	2000.0	1773.0
+37427	http://www.milford-nj.us/	Milford Borough	2012.0	42.0
+37428	http://www.sbtnj.net/	South Brunswick	2001.0	1443.0
+37429	http://www.monmouthbeach.us/	Monmouth Beach Borough	2006.0	23.0
+37430	http://spotswood.high.groupfusion.net/?sessionid=81c770692780dcb99ca197fbc121f8d1&t	Spotswood High School	0.0	1.0
+37431	http://www.interlakenboro.com/	Interlaken	2008.0	53.0
+37433	http://www.belvideresd.org	BELVIDERE SCHOOL DISTRICT (0280)	0.0	317.0
+37434	http://www.medford-lakes.k12.nj.us	Medford Lakes School District (3070)	2003.0	37.0
+37435	http://www.pcs.k12.nj.us	Princeton Charter School (7540 - 930)	1997.0	593.0
+37437	http://www.florence-nj.com/	Florence	1998.0	149.0
+37438	http://www.newmilfordboro.com/	New Milford Borough	2001.0	96.0
+37439	http://www.middlesexboro-nj.gov/	Middlesex Borough	2004.0	2321.0
+37440	http://www.eastamwelltownship.com/	East Amwell Township	2002.0	104.0
+37441	http://www.princetonk12.org	Princeton Public Schools (4255)	2012.0	40.0
+37443	http://www.franklintwpwarren.org/	Franklin Township	2000.0	33.0
+37445	http://www.weymouthnj.org/	Weymouth	2001.0	4.0
+37447	http://www.nj.gov/humanservices/cicrf/home/index.html	Catastrophic Illness in Children Relief Fund Commission	2009.0	13.0
+37448	http://www.bccls.org/members/mipk.shtml	Midland Park Memorial Library	0.0	0.0
+37450	http://www.bogotaonline.org/	Bogota	2002.0	64.0
+37451	http://www.trschools.com	Toms River Regional School District (5190)	2002.0	541.0
+37452	http://www.delancotownship.com/	Delanco Township	2002.0	120.0
+37453	http://dumont.bccls.org	Dixon Homestead Library	2007.0	10.0
+37455	http://www.paterson.k12.nj.us	PATERSON PUBLIC SCHOOLS (4010)	1996.0	55.0
+37456	http://www.mvrogerscharter.org	Maria Varisco Rogers Charter School (7735 - 975)	2001.0	0.0
+37458	http://www.hillsdalenj.org/	Hillsdale	2002.0	1535.0
+37459	http://www.summit.k12.nj.us	Summit Public Schools (5090)	1998.0	116.0
+37461	http://www.middletownems.org/	Middletown Township EMS	2003.0	27.0
+37462	http://seabrightnj.org/	Sea Bright Borough	2005.0	2.0
+37463	http://www.adelphiafire.com/index2.htm	Adelphia Fire Company	2001.0	57.0
+37464	http://www.njmeadowlands.gov/	Meadowlands Commission	2003.0	75.0
+37465	http://www.metuchenschools.org	Metuchen Public Schools (3120)	2004.0	0.0
+37466	http://www.cranford.com/police/	Cranford Police Department	1997.0	4.0
+37467	http://www.independencenj.com/	Independence Township	2005.0	27.0
+37468	http://www.jacksontwpnj.net/	Jackson Township	2002.0	1146.0
+37469	http://www.lodi.k12.nj.us/	Lodi Public Schools (2740)	2004.0	332.0
+37470	http://www.bccls.org/members/ropk.shtml	Rochelle Park Public Library	0.0	0.0
+37471	http://www.lmxac.org/plainsboro/	Plainsboro Free Public Library	2001.0	28.0
+37472	http://nbfpl.org	New Brunswick Free Public Library	2007.0	45.0
+37474	http://www.kenilworthborough.com	Kenilworth Borough	2012.0	139.0
+37476	http://www.secaucusnj.org/	Secaucus	2007.0	191.0
+37477	http://www.ewpd.com/	East Windsor Police Department	1998.0	2.0
+37478	http://www.state.nj.us/humanservices/	Human Services	1997.0	1190.0
+37479	http://www.rtnj.org/highschool.cfm	Randolph High School	0.0	1464.0
+37480	http://www.pitman.k12.nj.us/	Pitman High School	2000.0	537.0
+37482	http://www.btwpschools.org	Berlin Township School District (0340)	2009.0	93.0
+37483	http://www.edgewaternj.org/	Edgewater	2001.0	2.0
+37484	http://www.wpschools.org/site/default.aspx?PageID=1	Woodland Park Public Schools (5690)	2013.0	44.0
+37485	http://www.seaside-heightsnj.org/	Seaside Heights	2001.0	167.0
+37486	http://www.bergen.edu	Bergen                      Community College	2002.0	1294.0
+37487	http://www.randolphnj.org/	Randolph	2005.0	1431.0
+37488	http://www.uppersaddleriverlibrary.org/	Upper Saddle River Public Library	2001.0	41.0
+37489	http://camdenesc.org/	CAMDEN COUNTY EDUCATIONAL SERVICES COMMISSION (0695)	2008.0	48.0
+37490	http://www.readington.k12.nj.us/site/default.aspx?PageID=1	Readington Township Public School District (4350)	2013.0	16.0
+37491	http://www.sussexcountylibrary.org	Sussex County Library	2003.0	192.0
+37493	http://www.eirc.org	Educational Information and Resource Center (1295)	1997.0	354.0
+37494	http://www.graycharterschool.com	The Gray Charter School (6665 - 930)	2009.0	11.0
+37495	http://www.westwildwoodnj.com/	West Wildwood	2005.0	446.0
+37496	http://www.state.nj.us/correctionsombudsman/	Corrections Ombudsman	2011.0	5.0
+37497	http://www.hardwick-nj.us/	Hardwick Township	2008.0	86.0
+37498	http://www.fairfield.k12.nj.us	Fairfield Township School District (1460)	2000.0	106.0
+37499	http://www.nj.gov/ooie/	Institutionalized Elderly, Office of the Ombudsman for the	2011.0	22.0
+37500	http://www.twp.brick.nj.us/	Brick Township	2000.0	207.0
+37501	http://www.epsd.org	Englewood Public School District (1370)	2000.0	81.0
+37502	http://www.wboe.org	WALLINGTON BORO (5430)	2000.0	172.0
+37503	http://www.state.nj.us/rpa/	Rate Counsel, Division of	2007.0	144.0
+37504	http://www.cedargrovenj.org/	Cedar Grove	2002.0	1308.0
+37505	http://www.trentonlib.org	Trenton Free Public Library	2005.0	409.0
+37506	http://www.bradleybeachlibrary.org	Bradley Beach Public Library	2002.0	7.0
+37507	http://www.fairlawnschools.org/site/default.aspx?PageID=1	Fair Lawn Public Schools (1450)	2012.0	24.0
+37509	http://www.fairhavennj.org/	Fair Haven Borough	2007.0	533.0
+37510	http://www.eastbrunswick.org/	East Brunswick	2000.0	813.0
+37511	http://www.carneyspointnj.gov/	Carneys Point Township	2009.0	60.0
+37512	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code5700&maxhits=650	West Wildwood Board of Education (5700)	0.0	1.0
+37513	http://www.state.nj.us/turnpike/	Turnpike Authority	1997.0	76.0
+37514	http://www.charter.org/	Camden's Pride Charter School (6024 - 906)	2006.0	1.0
+37515	http://www.midlandparknj.org/	Midland Park	2013.0	27.0
+37516	http://www.lbtpd.org/	Long Beach Township Police Department	2006.0	36.0
+37517	http://www.edison.k12.nj.us/site/default.aspx?PageID=1	Edison Township Public Schools (1290)	2011.0	12.0
+37518	http://newmilford.bccls.org	New Milford Public Library	2007.0	1.0
+37519	http://www.bcls.lib.nj.us/libraries/beverly	Beverly Free Library	2005.0	17.0
+37520	http://www.state.nj.us/treasury/gcada/	Alcoholism and Drug Abuse, Governor's Council on	1997.0	19.0
+37522	http://www.woboe.org/Pages/Home.aspx	West Orange Public Schools (5680)	2012.0	74.0
+37523	http://www.holmdelschools.org	Holmdel Township School District (2230)	2005.0	212.0
+37524	http://www.parsippanylibrary.org	Parsippany-Troy Hills Public Library	2001.0	501.0
+37525	http://www.tfs.k12.nj.us/site/default.aspx?PageID=1	Tinton Falls School District (5185)	2013.0	10.0
+37526	http://www.rumsonfairhaven.org	RUMSON-FAIR HAVEN REGIONAL HIGH SCHOOL (4580)	2012.0	295.0
+37527	http://www.raritanboro.org/	Raritan Borough	2000.0	72.0
+37528	http://www.springlakeboro.org/	Spring Lake	2002.0	239.0
+37529	http://www.chatham-library.org	Chathams Joint Free Public Library	2004.0	2.0
+37530	http://www.edgewaterpark.k12.nj.us/edgewaterpark/site/default.asp	Edgewater Park Township (1280)	2007.0	0.0
+37532	http://www.kenilworthlibrary.org	Kenilworth Public Library	2006.0	797.0
+37533	http://www.manvillenj.org/	Manville Borough	2001.0	130.0
+37534	http://hackensack.bccls.org	Johnson Free Public Library	2007.0	110.0
+37535	http://www.bernardsvillelibrary.org	Bernardsville Public Library	2005.0	459.0
+37536	http://www.washington-twp-warren.org/	Washington Township	2000.0	167.0
+37537	http://dmhs.epsd.org/home.aspx	Dwight Morrow High School	0.0	25.0
+37538	http://www.hopewelltwp.org/	Hopewell Township	2001.0	235.0
+37539	http://www.hackettstown.org/site/default.aspx?PageID=1	Hackettstown Public Schools (1870)	2013.0	6.0
+37540	http://www.bordentown.k12.nj.us	Bordentown Regional (0475)	0.0	1476.0
+37542	http://www.kpsdschools.org/site/default.aspx?PageID=1	Keyport Board of Education (2430)	2012.0	18.0
+37543	http://eastnewarkschool.com/	East Newark (1200)	2014.0	125.0
+37544	http://www.soaringheightscharterschool.com	Soaring Heights (7830 - 980)	2008.0	3.0
+37546	http://www.oakland-nj.org/	Oakland	1999.0	21.0
+37547	http://www.chester-nj.org	CHESTER SCHOOL DISTRICT (0820)	0.0	390.0
+37548	http://www.southamptonnj.org/	Southampton Township	2002.0	154.0
+37549	http://mendhamtownshiplibrary.org	Mendham Township Library	2005.0	1446.0
+37550	http://www.usrtoday.org/	Upper Saddle River	2007.0	76.0
+37551	http://www.camdenhs.org/	Camden High School	0.0	1909.0
+37552	http://www.port-republic.k12.nj.us	Port Republic School District (4240)	2007.0	1.0
+37553	http://www.totowanj.org/	Totowa Borough	2007.0	90.0
+37554	http://www.boroughofroselle.com/	Roselle Borough	2003.0	413.0
+37556	http://www.clifton.k12.nj.us/	Clifton Public Schools (0900)	2000.0	192.0
+37558	http://www.twpunionschools.org	Twp of Union Board of Education (5290)	2000.0	194.0
+37559	http://www.scvths.org	SOMERSET COUNTY VOCATIONAL AND TECHNICAL SCHOOLS (4810)	0.0	422.0
+37560	http://www.hohokus.org	Ho-Ho-Kus School District (2200)	2000.0	0.0
+37562	http://waldwick.k12.nj.us	Waldwick School District (5410)	1999.0	0.0
+37564	http://www.beachwoodusa.com/	Beachwood Borough	1999.0	7.0
+37565	http://www.longbranch.k12.nj.us/site/default.aspx?PageID=1	Long Branch High School	2011.0	5.0
+37567	http://www.edisonnj.org/	Edison	1998.0	202.0
+37568	http://www.dtsk8.org	Delaware Township School (1040)	1999.0	14.0
+37569	http://www.cmcspecialservices.org	Cape May County Special Services School District (0715)	2004.0	13479.0
+37570	http://www.lopatsd.org	Lopatcong Township School District (2790)	2011.0	1.0
+37571	http://www.livingstonnj.org/	Livingston	2003.0	341.0
+37572	http://www.gcls.org/locations/mullica-hill-branch	Gloucester County Library - Mullica Hill	2012.0	15.0
+37573	http://www.mtnj.org/	Manalapan	2003.0	163.0
+37574	http://www.leoniaschools.org	Leonia Public Schools (2620)	2003.0	14.0
+37575	http://www.state.nj.us/lottery/	Lottery	1997.0	49.0
+37576	http://www.hardingtwp.org/site/default.aspx?PageID=1	Harding Township (2010)	2013.0	14.0
+37577	http://www.locharbournj.us/	Loch Arbor Borough	2004.0	14.0
+37578	http://www.htps.us/site/default.aspx?PageID=1	Hillsborough Township Public School District (2170)	2012.0	201.0
+37579	http://www.bccls.org/members/pkrd.shtml	Park Ridge Free Public Library	0.0	0.0
+37580	http://www.state.nj.us/bpu/	Board of Public Utilities	2000.0	151.0
+37581	http://www.brickpd.com/	Brick Township Police Department	2003.0	55.0
+37582	http://www.medfordtownship.com/	Medford	1998.0	152.0
+37583	http://www.mantoloking.org/	Mantoloking Borough	1998.0	631.0
+37584	http://www.westdeptford.com/	West Deptford Township	1998.0	10.0
+37586	http://www.roxburynj.us/	Roxbury Township	2003.0	1579.0
+37587	http://www.boontonholmeslibrary.org	Boonton Holmes Public Library	2007.0	260.0
+37588	http://www.riverton-nj.com/	Riverton	2002.0	29.0
+37589	http://www.bbrook.org/site/default.aspx?PageID=1	BOUND BROOK SCHOOL DISTRICT (0490)	2012.0	47.0
+37590	http://nhccschool.org	New Horizons Community Charter School (7290 - 957)	2003.0	16.0
+37591	http://www.wtps.org/wths/	Washington Twp High School	1999.0	0.0
+37592	http://www.vinelandcity.org/	Vineland	2001.0	64.0
+37593	http://www.wdeptford.k12.nj.us/high_school/high.htm	West Deptford High School	1999.0	58.0
+37595	http://www.moorestown.nj.us/	Moorestown	2001.0	169.0
+37596	http://www.dunellenschools.org	DUNELLEN PUBLIC SCHOOL DISTRICT (1140)	1999.0	0.0
+37597	http://www.nbvfc.org/news/index/layoutfile/home	North Branch Volunteer Fire Company	2011.0	10.0
+37598	http://www.oceancityschools.org	OCEAN CITY SCHOOL DISTRICT (3780)	2010.0	238.0
+37600	http://www.frankfordtownship.com/	Frankford Township	2004.0	31.0
+37601	http://www.usrschoolsk8.com/Pages/Home.aspx	UPPER SADDLE RIVER SCHOOL DISTRICT (5330)	2011.0	2.0
+37602	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code1000&maxhits=650	DEAL BORO (1000)	0.0	1.0
+37603	http://www.englishtownnj.com/default.htm	Englishtown	1999.0	198.0
+37604	http://www.eagleswood.org	Eagleswood Township School District (1150)	2002.0	41.0
+37605	http://www.neptunecitynj.com/	Neptune City	1999.0	37.0
+37607	http://www.runnemedepubliclibrary.com	Runnemede Public Library	2008.0	53.0
+37608	http://www.wtgreenbank.k12.nj.us	Washington Township School District (5490)	2012.0	26.0
+37609	http://www.oceangateschool.net	Ocean Gate School District (3800)	2003.0	6641.0
+37610	http://www.fairfieldnj.org/	Fairfield	2000.0	110.0
+37611	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code2320&maxhits=650	Interlaken (2320)	0.0	1.0
+37612	http://www.mapleshade.org	Maple Shade Schools (3010)	1999.0	13.0
+37613	http://www.sbs.k12.nj.us/sbs	SHREWSBURY BOROUGH SCHOOL DISTRICT (4770)	2006.0	0.0
+37614	http://www.mansfieldschool.com/site/default.aspx?PageID=1	Mansfield Township School District (2960)	2013.0	17.0
+37615	http://www.woodlandboe.org	WOODLAND TOWNSHIP BOARD OF EDUCATION (5890)	2009.0	31.0
+37616	http://www.garwoodschools.org	Garwood Boro (1710)	2001.0	490.0
+37618	http://www.wmlnj.org	Westfield Memorial Library	2001.0	103.0
+37619	http://www.westwindsornj.org/	West Windsor	2001.0	294.0
+37620	http://www.briellepubliclibrary.org	Brielle Public Library	2008.0	7.0
+37621	http://www.visitlongbranch.com/	Long Branch	2006.0	270.0
+37622	http://glenridgenj.org/	Glen Ridge Borough	2001.0	230.0
+37623	http://www.belmar.k12.nj.us/site/default.aspx?PageID=1	Belmar Board of Education (0270)	2012.0	9.0
+37624	http://hhsd.k12.nj.us	HADDON HEIGHTS PUBLIC SCHOOLS (1880)	1998.0	19.0
+37625	http://www.estellmanorschool.com	ESTELL MANOR CITY SCHOOL DISTRICT (1410)	2007.0	35.0
+37626	http://springfieldschool.org/site/default.aspx?PageID=1	Springfield Township School District (5010)	2013.0	7.0
+37628	http://www.littleferrynj.org/	Little Ferry Borough	2001.0	137.0
+37629	http://www.thefreireschool.org	Paulo Freire Charter School (6090 - 977)	2012.0	54.0
+37630	http://www.bcls.lib.nj.us/libraries/florence	Florence Township Library	2006.0	17.0
+37631	http://www.denville.org	Denville Township Board of Education (1090)	0.0	603.0
+37632	http://www.hazlettwp.org/	Hazlet	2001.0	123.0
+37633	http://www.ramsey.k12.nj.us/site/default.aspx?domainid=58	Ramsey High School	2011.0	12.0
+37635	http://www.rbrhs.org	Red Bank Regional (4365)	2006.0	822.0
+37636	http://www.dennistwp.org/	Dennis Township	1998.0	52.0
+37638	http://www.sandystontownship.com	Sandyston Township	2007.0	19.0
+37639	http://www.alexandriaschools.org/site/default.aspx?PageID=1492	Alexandria Township School District (0020)	2012.0	16.0
+37641	http://www.margate-nj.com/index.cfm	Margate	2007.0	0.0
+37642	http://www.state.nj.us/state/	State, Lt. Governor	1997.0	4.0
+37643	http://www.lindenwoldfire.com/	Lindenwold Fire Department	2008.0	11.0
+37644	http://sea-isle-city.nj.us/	Sea Isle City	1998.0	398.0
+37645	http://www.magnoliaschools.org/site/default.aspx?PageID=1	Magnolia (2890)	2013.0	7.0
+37647	http://www.jeffersontownship.net/	Jefferson Township	2001.0	432.0
+37648	http://www.lakewoodpiners.org/site/default.aspx?PageID=1	Lakewood Township (2520)	2012.0	5.0
+37649	http://www.manvilleschools.org/site/default.aspx?PageID=1	Manville Board of Education (3000)	2013.0	5.0
+37650	http://www.state.nj.us/dep/	Environmental Protection	1997.0	170.0
+37651	http://www.pointpleasant.k12.nj.us	POINT PLEASANT BOROUGH BOARD OF EDUCATION (4210)	2000.0	290.0
+37652	http://www.HANOVERTWPSCHOOLS.com/	Hanover Township Board of Education (2000)	2003.0	1.0
+37654	http://www.ncs-nj.org	Northfield City School District (3720)	2002.0	9950.0
+37655	http://www.westfieldnj.gov/	Westfield	2006.0	3427.0
+37656	http://www.ridgewoodnj.net/	Ridgewood	2001.0	237.0
+37657	http://www.kinnelonboro.org/	Kinnelon	2001.0	624.0
+37658	http://www.stratfordnj.org/	Stratford	1999.0	44.0
+37659	https://www.eccrsd.us/	EASTERN CAMDEN COUNTY REGIONAL SCHOOL DISTRICT (1255)	2012.0	554.0
+37660	http://townshipofhillside.org/hillsidenj/	Hillside Township	2010.0	5.0
+37661	http://stanhopenj.gov/	Stanhope Borough	2008.0	226.0
+37662	http://www.allowaytownship.com/	Alloway Township	2009.0	95.0
+37663	http://www.freeholdpubliclibrary.org	Freehold Public Library	0.0	2.0
+37664	http://paulrobesoncs.org/	Paul Robeson Charter School for the Humanities (6025 - 907)	2009.0	15.0
+37665	http://www.monroetwp.com/	Monroe Township	1998.0	705.0
+37666	http://www.colts-neck.nj.us/	Colts Neck	1997.0	111.0
+37667	http://www.mmace.com/	NORTH WILDWOOD SCHOOL DISTRICT (3680)	1998.0	104.0
+37668	http://www.newtontownhall.com/	Newton	2003.0	742.0
+37669	http://www.metuchennj.org/	Metuchen	2005.0	251.0
+37671	http://www.harmonytownshipschool.org	HARMONY TOWNSHIP SCHOOL (2040)	2009.0	536.0
+37672	http://www.veccnj.org	Ventnor City School District (5350)	2010.0	388.0
+37673	http://www.boroughofwenonah.com/	Wenonah Borough	2010.0	285.0
+37674	http://www.oldbridgelibrary.org	Old Bridge Public Library	2007.0	88.0
+37675	http://www.freeholdboro.k12.nj.us/site/default.aspx?PageID=1	Freehold Borough Public Schools (1640)	2011.0	32.0
+37676	http://www.pthsd.k12.nj.us	Parsippany-Troy Hills Township Schools (3950)	1999.0	136.0
+37677	http://www.freeholdtwp.k12.nj.us	Freehold Township School District (1660)	1998.0	417.0
+37679	http://www.gccnj.edu	Gloucester                      County College	1998.0	367.0
+37680	http://www.dfpl.org/	Dover Free Public Library	2004.0	25.0
+37681	http://www.bloomfieldtwpnj.com/	Bloomfield Township	1999.0	391.0
+37682	http://www.wanaquelibrary.org	Wanaque Borough Free Public Library	0.0	33.0
+37684	http://www.somerspointgov.org	Somers Point	2008.0	87.0
+37685	http://www.bassriverschooldistrict.org	BASS RIVER TOWNSHIP BOARD OF EDUCATION (0200)	2011.0	26.0
+37686	http://www.bcls.lib.nj.us/libraries	Bass River Community Library	2005.0	2585.0
+37687	http://ucnj.org/government/Public-Safety/Division-of-Police	Union County Police Department	2010.0	46.0
+37688	http://co.burlington.nj.us/	Burlington County	1998.0	2520.0
+37689	http://pgcpschools.org/	Penns Grove-Carneys Point Regional School District (4070)	2012.0	114.0
+37691	http://www.historicswedesboro.com/	Swedesboro	2004.0	241.0
+37692	http://www.guttenbergnj.org/	Guttenberg Town	2004.0	43.0
+37693	http://www.mendhamtownship.org/	Mendham Township	2000.0	4070.0
+37694	http://www.washtwpsd.org	Washington Township School District (5530)	2011.0	93.0
+37695	http://www.bccls.org/edgewater/	Edgewater Free Public Library	0.0	26.0
+37696	http://www.state.nj.us/defender/	Public Defender, Office of the	2001.0	60.0
+37698	http://www.bernardsboe.com/BernardsBOE/default.aspx	Bernards Township Public Schools (0350)	2007.0	127.0
+37699	http://www.bergenfield.org/site/default.aspx?PageID=1	Bergenfield Borough School District (0300)	2012.0	30.0
+37700	http://crestmem.edu/	WILDWOOD CREST BOROUGH (5800)	2008.0	163.0
+37701	http://www.alicecostello.com	BROOKLAWN PUBLIC SCHOOL DISTRICT (0580)	2001.0	40.0
+37702	http://www.mujc.org/site/default.aspx?PageID=1	Morris-Union Jointure Commisson (3395)	2013.0	5.0
+37703	http://www.northhaledonlibrary.org	North Haledon Free Public Library	2007.0	8.0
+37705	http://www.ocnj.us/	Ocean City	2007.0	4594.0
+37706	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code2180&maxhits=650	HILLSDALE BOARD OF EDUCATION (2180)	0.0	1.0
+37707	http://www.eastorange.k12.nj.us	East Orange School District (1210)	2000.0	62.0
+37708	http://www.state.nj.us/njoem/	Emergency Management	2001.0	128.0
+37709	http://www.madisonnjlibrary.org/	Madison Public Library	0.0	144.0
+37710	http://www.pburglib.org	Phillipsburg Free Public Library	2006.0	40.0
+37711	http://www.haworthnj.org/	Haworth Borough	2003.0	565.0
+37712	http://www.dunellenlibrary.org	Dunellen Free Public Library	2004.0	42.0
+37714	http://www.eopl.org	East Orange Public Library	2001.0	52.0
+37715	http://mendhamboroughlibrary.org	Mendham Free Public Library	2005.0	21.0
+37719	http://www.linden.k12.nj.us	Linden City Board of Education (2660)	1996.0	288.0
+37720	http://www.cwcboe.org/site/default.aspx?PageID=1	CALDWELL-WEST CALDWELL PUBLIC SCHOOLS (0660)	2012.0	110.0
+37721	http://www.oradell.org/	Oradell	2000.0	4191.0
+37722	http://www.allendaleschoolsnj.com/site/default.aspx?PageID=1	ALLENDALE BOARD OF EDUCATION (0040)	2013.0	0.0
+37723	http://www.state.nj.us/education/	Education	1997.0	1791.0
+37725	http://www.newprovidencelibrary.org	New Providence Memorial Library	2001.0	250.0
+37726	http://www.co.burlington.nj.us/pages/pages.aspx?cid=613	Burlington County Municipalities	2010.0	0.0
+37727	http://www.buenaboro.org/	Buena Borough	2003.0	34.0
+37728	http://www.camdencountylibrary.org	Camden County Library	2003.0	702.0
+37729	http://www.paramusborough.org/	Paramus	2002.0	835.0
+37730	http://www.delawaretwpnj.org/	Delaware Township	2007.0	19.0
+37731	http://www.seaisleschool.com	Sea Isle City Board of Education (4700)	2007.0	0.0
+37732	http://www.pohatcongtwp.org/	Pohatcong	2012.0	153.0
+37733	http://www.bburyes.com	Bloomsbury School District (0430)	2007.0	1.0
+37735	http://carlstadtnj.us/	Carlstadt	2005.0	105.0
+37736	http://www.waynetownship.com/	Wayne Township	1997.0	1264.0
+37737	http://www.cityofpassaic.com/	Passaic	2000.0	72.0
+37738	http://www.villagecharter.org	The Village Charter School (8140 - 990)	2002.0	0.0
+37739	http://www.ci.newark.nj.us./	Newark	1997.0	2.0
+37740	http://www.frsd.k12.nj.us/site/default.aspx?PageID=1	Flemington-Raritan Regional School District (1510)	2012.0	150.0
+37741	http://www.nbpl.org	North Bergen Free Public Library	2001.0	35.0
+37742	http://www.bcc.edu/pages/1.asp	Burlington                      County College	2005.0	0.0
+37743	http://cranfordschools.org/	Cranford High School	2000.0	146.0
+37744	http://www.ltps.org/	Lawrence High School	0.0	2129.0
+37745	http://nj.gov/njhrc/	Housing Resource Center (NJHRC)	2005.0	81.0
+37746	http://www.deptford.k12.nj.us/site/default.aspx?PageID=1	Deptford Township Public School District (1100)	2013.0	8.0
+37747	http://audubonlibrary.org/	Audubon Free Public Library	2005.0	6.0
+37748	http://www.whartonlibrary.org	Wharton Public Library	2003.0	35.0
+37749	http://www.plainsboronj.com/	Plainsboro	1998.0	852.0
+37750	http://www.westnewyorknj.org/	West New York	2009.0	450.0
+37751	http://www.co.cumberland.nj.us/content/173/251/765/1910/6509.aspx	Cumberland County 9-1-1 Communications Center	2010.0	2.0
+37752	http://www.parsippany.net/	Parsippany	1996.0	293.0
+37753	http://www.aclink.org/	Atlantic County	1998.0	1591.0
+37754	http://www.mrhs.net/	Manchester Regional H	2000.0	1334.0
+37755	http://www.co.hunterdon.nj.us/	Hunterdon County	1997.0	1204.0
+37756	http://escmorris.com/	Educational Services Commission of Morris County (3364)	2002.0	455.0
+37757	http://www.njtransit.com/hp/hp_servlet.srv?hdnPageAction=HomePageTo	Transit, New Jersey	2006.0	2.0
+37758	http://www.mltmua.com/	Mount Laurel Township Municipal Utilities Authority	2000.0	32.0
+37760	http://www.drlenaedwardscharterschool.org	Dr Lena Edwards Academic Charter School (6064 - 946)	2011.0	546.0
+37761	http://www.ftlnj.org	Franklin Twp Public Library-Gloucester	2007.0	370.0
+37762	http://www.kenilworthschools.com	KENILWORTH SCHOOL DISTRICT (2420)	2001.0	364.0
+37763	http://www.southrivernj.org/	South River Borough	2004.0	130.0
+37764	http://www.lodi-nj.org/	Lodi Borough	1998.0	34.0
+37765	http://www.clementonschool.org	Clementon Elementary School (0880)	0.0	21.0
+37766	http://www.prospectpark.net/	Prospect Park Borough	2001.0	1846.0
+37767	http://flemingtonpubliclibrary.org	Flemington Free Public Library	2003.0	30.0
+37768	http://tintonfalls.lib.nj.us	Tinton Falls Public Library	2003.0	1.0
+37769	http://www.bloomingdalelibrary.org	Bloomingdale Free Public Library	2006.0	11.0
+37770	http://acfpl.org	Atlantic City Free Public Library	2001.0	6480.0
+37771	http://www.chathamtownship.org/	Chatham Township	2000.0	145.0
+37772	http://manningtonschool.org	Mannington Township School (2950)	2001.0	52.0
+37774	http://www.gti.net/mountarlington/	Mount Arlington Public Library	1998.0	0.0
+37775	http://ucnj.org/	Union County	2002.0	4308.0
+37776	http://tenafly.k12.nj.us	TENAFLY PUBLIC SCHOOLS (5160)	1998.0	5015.0
+37777	http://www.ebnet.org	EAST BRUNSWICK PUBLIC SCHOOLS (1170)	0.0	1362.0
+37778	http://www.tomsriverfire.com/	Toms River Fire Department	2008.0	12.0
+37779	http://www.southriverlibrary.org	South River Public Library	2006.0	52.0
+37780	https://www.njeit.org/	Environmental Infrastructure Trust	2000.0	48.0
+37781	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6320&maxhits=650	Discovery Charter School (6320 - 920)	0.0	1.0
+37782	http://www.teaneck.org	Teaneck Public Library	1998.0	102.0
+37783	http://cityofnorthfield.org/	Northfield	2006.0	159.0
+37784	http://www.seasideparkschool.com	Seaside Park Borough (4720)	2003.0	149.0
+37785	http://www.manasquan.lib.nj.us	Manasquan Public Library	2003.0	4.0
+37786	http://www.montclair.edu/	Montclair State University	1998.0	3900.0
+37787	http://www.mauricerivertwp.org/	Maurice River Township	2002.0	43.0
+37788	http://www.station60.com/!live/news.php	Laurel Springs Fire Department	2007.0	114.0
+37789	http://www.state.nj.us./mediation/	Mediation (NJSBM), New Jersey State Board of	2009.0	20.0
+37790	http://www.haledon.org	Haledon Public School District (1920)	2000.0	1565.0
+37791	http://lawnside.k12.nj.us	Lawnside School Distric (2560)	0.0	249.0
+37792	http://www.npsd.k12.nj.us/site/default.aspx?PageID=1	New Providence Board of Education (3560)	2012.0	32.0
+37793	http://www.audubonschools.org	Audubon Public Schools (0150)	2008.0	125.0
+37794	http://gccscharterschool.org	Galloway Community Charter School (6612 - 912)	2003.0	156.0
+37795	http://www.englewoodlibrary.org/	Englewood Free Public Library	1999.0	102.0
+37797	http://www.hegganlibrary.org	Margaret E. Heggan Free Public Library	2002.0	45.0
+37798	http://www.dumontnj.gov/	Dumont	2008.0	195.0
+37799	http://www.mantuatownship.com/	Mantua Township	2000.0	75.0
+37800	http://www.burchcharterschool.org	Burch Charter School of Excellence (6022 - 990)	2009.0	41.0
+37801	http://www.southharrison-nj.org/	South Harrison Township	1998.0	69.0
+37802	http://www.warrentboe.org	Warren Township Schools (5470)	2000.0	257.0
+37803	http://www.deerfieldtownship.org/	Deerfield Township	2000.0	19.0
+37804	http://www.uniontwp-hcnj.org/	Union Township	2006.0	68.0
+37805	http://www.tewksburyschools.org/site/default.aspx?PageID=1	Tewksbury Township School District (5180)	2012.0	22.0
+37806	http://ocean.k12.nj.us/ocean/schools/ocean	Ocean Twp High School	0.0	0.0
+37807	http://www.westwoodnj.gov/	Westwood	2003.0	645.0
+37808	http://www.rivervalenj.org/	River Vale Township	2003.0	113.0
+37809	http://www.westvillesd.com	Westville Boro Public School District (5740)	2008.0	23.0
+37810	http://www.monmouthbeach.lib.nj.us	Monmouth Beach Public Library	2006.0	4.0
+37811	http://www2.hvrsd.org/Pages/Default.aspx	Hopewell Valley Regional School District (2280)	0.0	368.0
+37812	http://www.totowa.k12.nj.us	Totowa Public Schools (5200)	2003.0	34.0
+37813	http://www.harmonytwp-nj.gov/	Harmony Township	2004.0	1.0
+37814	http://www.lmxac.org/	Libraries Of Middlesex Automation Consortium	1998.0	60.0
+37815	http://www.boundbrook-nj.org/	Bound Brook Borough	2009.0	54.0
+37816	http://www.boroughofnorthvale.com/	Northvale Borough	2001.0	10.0
+37817	http://lakecomonj.org/	Lake Como	2004.0	47.0
+37818	http://rp.bergen.org/site/default.aspx?PageID=1	Rochelle Park School District (4470)	2012.0	13.0
+37819	http://www.barringtonschools.net/site/default.aspx?PageID=1	BARRINGTON SCHOOL DISTRICT (0190)	2012.0	7.0
+37820	http://www.middlesex.k12.nj.us	Middlesex Borough Public Schools (3140)	2004.0	19.0
+37822	http://www.hatikvahcharterschool.com	HATIKVAH INTERNATIONAL CHARTER SCHOOL (6041 - 916)	2009.0	15.0
+37823	http://www.cliftonnj.org/	Clifton	2003.0	460.0
+37824	http://www.morrisplainsboro.org/	Morris Plains Borough	2005.0	304.0
+37825	http://www.roselleoem.org/	Roselle Office of Emergency Management	2010.0	4.0
+37826	http://www.cherryhill-nj.com/	Cherry Hill	1999.0	1038.0
+37828	http://www.twp.maplewood.nj.us/	Maplewood	2003.0	594.0
+37829	http://bethlehem-twp.org/	Bethlehem Township	1999.0	0.0
+37830	http://www.hamilton.k12.nj.us	Hamilton Township (1950)	0.0	3634.0
+37831	http://www.bellmawrschools.org	BELLMAWR PUBLIC SCHOOLS (0260)	0.0	1252.0
+37832	http://www.lawrencetwp.com/	Lawrence Township	1998.0	119.0
+37833	http://www.ridgefieldnj.gov/	Ridgefield Borough	2009.0	562.0
+37834	http://hampton.nhvweb.net	HAMPTON BOROUGH PUBLIC SCHOOL DISTRICT (1970)	2011.0	37.0
+37835	http://srivernj.org/site/default.aspx?PageID=1	South River Public Schools (4920)	2013.0	12.0
+37836	http://www.mountholly.info/	Mount Holly	2003.0	0.0
+37837	http://www.phillipsburgnj.org/	Phillipsburg	2004.0	1565.0
+37838	http://www.wallkill.k12.nj.us	WALLKILL VALLEY REGIONAL HIGH SCHOOL (5435)	1998.0	1189.0
+37839	http://www.state.nj.us/health/ccr/	Cancer Research, New Jersey Commission on	2002.0	25.0
+37840	http://www.whrhs.org/site/default.aspx?PageID=1	WATCHUNG HILLS REGIONAL HIGH SCHOOL (5550)	2013.0	11.0
+37841	http://www.sbbnj.com	South Bound Brook Borough	2001.0	22.0
+37842	http://www.teccs-jc.org/	THE ETHICAL COMMUNITY CHARTER SCHOO (6030 - 912)	2009.0	96.0
+37843	http://www1.youseemore.com/warrencl/	Warren County Library	2011.0	770.0
+37844	http://www.ccts.info	Camden County Technical School (0700)	2004.0	15.0
+37845	http://cityofasburypark.com/	Asbury Park	2003.0	11.0
+37846	http://www.scvts.org	Salem County Vocational Technical School (4640)	1998.0	81.0
+37848	http://www.kingwoodschool.org/site/default.aspx?PageID=1494	KINGWOOD TOWNSHIP SCHOOL (2450)	2013.0	13.0
+37849	http://www.oaklandnjlibrary.org/	Oakland Public Library	2011.0	32.0
+37852	http://www.ourclark.com/	Clark	2001.0	93.0
+37853	http://www.easthanovertownship.com/	East Hanover	2000.0	34.0
+37854	http://www.bridgewaternj.gov/	Bridgewater Township	2003.0	673.0
+37855	http://www.lpschool.org	Lambertville Public School (2530)	2002.0	303.0
+37856	http://www.kingsway.k12.nj.us	Kingsway Regional School District (2440)	1999.0	829.0
+37857	http://www.dover.nj.us/	Dover	2001.0	337.0
+37858	http://www.lumbertontwp.com/	Lumberton	2002.0	27.0
+37860	http://www.hasbrouck-heights.nj.us/	Hasbrouck Heights	2000.0	56.0
+37861	http://www.upperpitts.org/	UPPER PITTSGROVE TWP Scool District (5320)	2011.0	88.0
+37862	http://www.strnj.com/	South Toms River Borough	0.0	21.0
+37863	http://www.glotwp.com/	Gloucester Township	1997.0	83.0
+37864	http://www.njhcffa.com/	Health Care Facilities Financing Authority (NJHCFFA)	2000.0	84.0
+37866	http://www.jclibrary.org	Jersey City Free Public Library	2000.0	2183.0
+37867	http://www.commercial.k12.nj.us	Commercial Township School District (0950)	2000.0	860.0
+37868	http://www.hamiltonnj.com/	Hamilton	1998.0	1283.0
+37869	http://www.njtvonline.org/	New Jersey Public Television (NJTV)	2011.0	1203.0
+37870	http://www.co.middlesex.nj.us/	Middlesex County	1997.0	114.0
+37872	http://www.wbps.org/site/default.aspx?PageID=1	WHARTON BOROUGH BOARD OF EDUCATION (5770)	2013.0	16.0
+37874	http://www.state.nj.us/mhstigmacouncil/	Mental Health Stigma, Governor's Council on	2007.0	57.0
+37875	http://www.bloomfield.k12.nj.us	BLOOMFIELD BOARD OF EDUCATION (0410)	2000.0	13.0
+37877	http://www.redlibrary.org	Hopewell Public Library	2003.0	16.0
+37878	http://www.wtps.org	Washington Township Public Schools (5500)	1998.0	90.0
+37879	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code1340&maxhits=650	ELMER BOROUGH BOARD OF EDUCATION (1340)	0.0	1.0
+37880	http://newarkeducators.org	Newark Educators Community Charter School (6029 - 911)	2009.0	12.0
+37881	http://www.co.warren.nj.us/publicsafety/	Warren County Department of Public Safety	2005.0	8.0
+37882	http://elmwoodpark.bccls.org	Elmwood Park Free Public Library	2007.0	14.0
+37883	http://www.upperdeerfieldschools.org	Upper Deerfield Township School District (5300)	2001.0	0.0
+37884	http://nj.gov/counties/mercer/	Mercer County	2007.0	1584.0
+37885	http://www.co.morris.nj.us/	Morris County	1998.0	32.0
+37886	http://www.townofmorristown.org/	Morristown	2001.0	1387.0
+37887	http://www.ecocharterschool.org/eco_website/	Environment Community Opportunity (ECO) Charter School (6232 - 920)	2009.0	96.0
+37888	http://barringtonboro.com/	Barrington Borough	2003.0	168.0
+37889	http://www.brigantineschools.org	Brigantine Public Schools (0570)	2010.0	45.0
+37891	http://www.weehawken.k12.nj.us/weehawken/schools/whs/whs_home.html	Weehawken High School	2002.0	133.0
+37892	http://www.piscatawayschools.org	Piscataway Township Schools (4130)	2003.0	1640.0
+37893	http://oceanport.k12.nj.us/site/default.aspx?PageID=1	Oceanport School District (3830)	2013.0	26.0
+37894	http://www.nbtschools.org	North Brunswick Township Public Schools (3620)	1998.0	0.0
+37896	http://www.gcit.org	Gloucester County Vocational-Technical School District (1775)	0.0	2126.0
+37897	http://www.kearnyschools.com/home	Kearny High School	2009.0	77.0
+37898	http://www.chesterfieldschool.com/site/default.aspx?PageID=1	Chesterfield Township School District (0830)	2013.0	10.0
+37899	http://www.lincolnparklibrary.org	Lincoln Park Public Library	2006.0	96.0
+37900	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6096&maxhits=650	Paterson Arts and Science Charter School (6096 - 982)	0.0	1.0
+37901	http://www.bhpsnj.org/site/default.aspx?PageID=1	Governor Livingston High School	2011.0	79.0
+37902	http://www.townofharrison.com/	Harrison Town	2001.0	92.0
+37903	http://www.chesterborough.org/	Chester Borough	2001.0	543.0
+37904	http://www.northbrunswicknj.gov/	North Brunswick Township	2011.0	576.0
+37905	http://www.wctech.org	WARREN COUNTY TECHNICAL SCHOOL (5460)	2011.0	159.0
+37907	http://hs.lindenwold.k12.nj.us/	Lindenwold High School	0.0	1684.0
+37908	http://www.hpregional.org	HIGH POINT REGIONAL HIGH SCHOOL (2165)	2000.0	707.0
+37909	http://www.allenhurstnj.org/	Allenhurst	2003.0	93.0
+37910	http://www.lopatcongtwp.com/joomla/index.php	Lopatcong Township	2011.0	144.0
+37911	http://www.nj.gov/dca/hmfa/	Housing and Mortgage Finance Agency	2002.0	334.0
+37912	http://www.hcpolytech.org/hcpoly/	Hunterdon County Vocational School District (2308)	0.0	0.0
+37913	http://cityinvinciblecharter.org	City Invincible Charter School (6088 - 974)	2013.0	0.0
+37914	http://www.wanaqueborough.com/	Wanaque Borough	2001.0	866.0
+37915	http://www.co.bergen.nj.us/	Bergen County	2000.0	2047.0
+37916	http://www.njsda.gov/	Schools Development Authority	2007.0	70.0
+37917	http://www.epsnj.org/education/components/scrapbook/default.php?sectionid=1	Elizabeth Public Schools (1320)	2011.0	0.0
+37918	http://www.nhvweb.net/nhhs/home/	North Hunterdon	2012.0	123.0
+37919	http://oradell.bccls.org	Oradell Public Library	2007.0	74.0
+37922	http://www.ci.camden.nj.us/	Camden	2000.0	111.0
+37923	http://www.mahwahtwp.org/	Mahwah	2002.0	718.0
+37924	http://www.bedminster.us/	Bedminster	2005.0	922.0
+37925	http://www.manasquan-nj.com/	Manasquan	1998.0	137.0
+37926	http://www.plps-k12.org/site/default.aspx?PageID=1	Pompton Lakes High School	2012.0	4.0
+37927	http://www.union-city.k12.nj.us	Union City School District (5240)	1998.0	689.0
+37928	http://www.islandheightsboro.com/	Island Heights	2007.0	59.0
+37929	http://www.weehawken-nj.us/	Weehawken	2002.0	40.0
+37930	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code5920&maxhits=650	Wyckoff Township Public Schools (5920)	0.0	1.0
+37931	http://brrsd.k12.nj.us	BRIDGEWATER-RARITAN REGIONAL SCHOOL DISTRICT (0555)	0.0	1399.0
+37932	http://www.state.nj.us/dobi/remnu.shtml	Real Estate Commission	2002.0	44.0
+37934	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code0050&maxhits=650	Allenhurst (0050)	0.0	1.0
+37935	http://www.hazlet.org/site/default.aspx?domainid=72	Raritan High School	2014.0	25.0
+37936	http://www.gmrsd.com/site/default.aspx?PageID=1	GREAT MEADOWS REGIONAL SCHOOL DISTRICT (1785)	2012.0	24.0
+37937	http://www.kearnylibrary.org	Kearny Public Library	2001.0	15.0
+37938	https://www.njcdd.org/	Developmental Disabilities, New Jersey Council on	2007.0	1783.0
+37939	http://pcesc.org	Passaic County Educational Services Commission (3975)	2001.0	12.0
+37940	http://www.fairlawn.org/	Fair Lawn	1999.0	382.0
+37941	http://www.middletwp.k12.nj.us	Middle Township Public Schools (3130)	1998.0	129.0
+37942	http://www.wdeptford.k12.nj.us/districtweb/index.aspx	WEST DEPTFORD TOWNSHIP PUBLIC SCHOOLS (5620)	2010.0	68.0
+37943	http://www.nj.gov/oag/njvictims/	Victims of Crime Compensation Agency	2008.0	125.0
+37944	http://www.manchestertwp.org/site/default.aspx?PageID=1	Manchester Township School District (2940)	2011.0	43.0
+37945	http://www.longhillnj.org/	Long Hill Township	1999.0	201.0
+37947	http://www.englewoodcliffs.org/site/default.aspx?PageID=1	Englewood Cliffs Public Schools (1380)	2012.0	22.0
+37948	http://www.dumontnj.org	Dumont Board of Education (1130)	2003.0	236.0
+37949	http://www.bcua.org	Bergen County Utilities Authority	2000.0	313.0
+37950	http://www.trenton.k12.nj.us	Trenton Public Schools (5210)	1999.0	16.0
+37951	http://www.washingtonboro-nj.org/	Washington Borough	2005.0	104.0
+37952	http://www.hobokencs.org	Hoboken Charter School (6720 - 930)	2002.0	138.0
+37953	http://www.35fire.org/	Washington Township Fire Department No. 3	1998.0	120.0
+37955	http://district.dover-nj.org	Dover Public School District (1110)	2007.0	44.0
+37956	http://www.state.nj.us/njhomelandsecurity/	Homeland Security	2003.0	35.0
+37957	http://www.state.nj.us/grc/	Government Records Council	2002.0	77.0
+37958	http://www.jfpl.org	Morristown-Morris Twp Joint Public Library	1999.0	865.0
+37959	http://www.brrsd.k12.nj.us/highschool.cfm	Brdgwtr-raritn High School	0.0	1285.0
+37961	http://www.njsetc.net/	State Employment and Training Commission	2002.0	89.0
+37962	http://www.raritan-township.com/	Raritan Township	2001.0	611.0
+37963	http://www.cityofnewbrunswick.org/	New Brunswick	2001.0	692.0
+37964	http://east.cherryhill.k12.nj.us/	Cherry Hill High - East	1998.0	64.0
+37965	http://www.peoplesprepnewark.org/	People's Preparatory Charter School (6057 - 938)	2011.0	56.0
+37966	http://www.twpofwashingtonpl.org/	Washington Twp Public Library-Bergen	2013.0	6.0
+37967	http://www.wmrhsd.org	WEST MORRIS REGIONAL HIGH SCHOOL DISTRICT (5660)	2001.0	57.0
+37969	http://www.franklinboe.org/site/default.aspx?PageID=1	Franklin Township Public Schools (1610)	2011.0	120.0
+37970	http://www.state.nj.us/ethics/	State Ethics Commission	2006.0	86.0
+37971	http://www.burltwpsch.org	BURLINGTON TOWNSHIP BOARD OF EDUCATION (0620)	1998.0	1774.0
+37972	http://www.riverside.k12.nj.us	RIVERSIDE TOWNSHIP (4450)	2000.0	219.0
+37973	http://www.pinehill.k12.nj.us	PINE HILL BOROUGH BOARD OF EDUCATION (4110)	1998.0	372.0
+37974	http://mendhamnj.org/	Mendham Borough	2000.0	309.0
+37975	http://www.redbanklibrary.org/	Red Bank Public Library	0.0	3247.0
+37977	http://www.state.nj.us/pinelands/	Pinelands Commission	1997.0	271.0
+37978	http://www.state.nj.us/health/njcbir/	Brain Injury Research, New Jersey Commission on	2006.0	12.0
+37979	http://www.easthanoverlibrary.com	East Hanover Township Free Public Library	2002.0	12.0
+37981	http://www.blackwoodfire.org/	Blackwood Fire Company	2000.0	39.0
+37982	http://www.mlfd371.org/	Medford Lakes Fire Department	2000.0	32.0
+37983	http://www.waynepubliclibrary.org/	Wayne Public Library	2002.0	118.0
+37984	http://tuckerton.k12.nj.us	Tuckerton Borough School District (5220)	2002.0	154.0
+37985	http://www.eastgreenwich.k12.nj.us/site/default.aspx?PageID=1	East Greenwich Township Board of Education (1180)	2013.0	4.0
+37986	http://www.livingston-hs.org	Livingston Sr. High School	1999.0	1.0
+37987	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6212&maxhits=650	Camden Academy Charter High School (6212 - 903)	0.0	1.0
+37990	http://morrisplains.schoolwires.net/site/default.aspx?PageID=1	MORRIS PLAINS SCHOOL DISTRICT (3380)	2012.0	7.0
+37991	http://schoolsites.schoolworld.com/schools/maywoodps/	MAYWOOD BOARD OF EDUCATION (3060)	0.0	534.0
+37992	http://google.saboe.k12.nj.us/	South Amboy School District (4830)	2013.0	8.0
+37993	http://cpsnj.org/site/default.aspx?PageID=1	Clinton-Glen Gardner Board of Education (0910)	2012.0	15.0
+37994	http://www.nhschools.net	North Haledon School District (3640)	2008.0	655.0
+37995	http://www.rivervaleschools.com/site/default.aspx?PageID=1	River Vale Publc Schools (4430)	2013.0	49.0
+37996	http://www.mtoliveboe.org	Mount Olive Township School District (3450)	1998.0	1672.0
+37998	http://www.winfieldschool.org	Winfield Township (5810)	2001.0	42.0
+38000	http://www.uniontownship.com/	Union Township	1998.0	450.0
+38001	http://gcsd.k12.nj.us	Gloucester City Public Schools (1770)	2001.0	54.0
+38002	http://www.clarkschools.org	Clark Township Public Schools (0850)	1999.0	21.0
+38003	http://bcts.bergen.org	Bergen County Vocational Technical Schools (0290)	2007.0	764.0
+38005	http://www.theeoccs.org	EAST ORANGE COMMUNITY CHARTER SCHOOL (6410 - 920)	0.0	684.0
+38006	http://www.cinnaminson.com/site/default.aspx?PageID=1	CINNAMINSON TOWNSHIP PUBLIC SCHOOLS (0840)	2012.0	54.0
+38007	http://boroughofpalmyra.com/	Palmyra Borough	2004.0	163.0
+38008	http://cityofbordentown.com/	Bordentown, City of	2010.0	22.0
+38009	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code4840&maxhits=650	Lake Como (4840)	0.0	1.0
+38010	http://www.lrhsd.org/site/default.aspx?PageID=1	Lenape Regional High School District (2610)	2012.0	103.0
+38011	http://hhsd.k12.nj.us/hhhs/	Haddon Heights High School	2003.0	11.0
+38012	http://www.northbergen.k12.nj.us/site/default.aspx?PageID=1	NORTH BERGEN SCHOOL DISTRICT (3610)	2012.0	16.0
+38013	http://www.warren.edu	Warren                      County Community College	0.0	277.0
+38014	http://www.nvnet.org	Northern Valley Regional High School (3710)	1999.0	140.0
+38015	http://www.cmcboe.org	CAPE MAY CITY BOARD OF EDUCATION (0710)	2011.0	43.0
+38016	http://www.ucesc.org	Union County Educational Services Commission (5245)	2008.0	0.0
+38017	http://www.townshipofocean.org/	Ocean Township	2008.0	93.0
+38018	http://www.runnemedeschools.org	RUNNEMEDE PUBLIC SCHOOL DISTRICT (4590)	2003.0	49.0
+38019	http://www.rpsd.org	Roselle Park Board of Education (4550)	2004.0	586.0
+38020	http://www.pequannocklibrary.org	Pequannock Township Public Library	2006.0	2.0
+38022	http://www.southamboynj.gov/	South Amboy	2008.0	226.0
+38023	http://www.greentwp.com/	Green Township	1999.0	213.0
+38028	http://www.rahwaylibrary.org/home/	Rahway Public Library	2012.0	13.0
+38029	http://www.edgewaterschools.org/site/default.aspx?PageID=695	Edgewater School District (1270)	2012.0	6.0
+38032	http://www.cboek12.org	Cresskill Public School District (0990)	2011.0	0.0
+38033	http://www.lfschools.org	Little Falls Township Public School District (2700)	1997.0	1.0
+38034	http://www.emersonnj.org/	Emerson Borough	2001.0	485.0
+38035	http://www.aberdeennj.org/	Aberdeen Township	2006.0	168.0
+38036	http://www.keansburgboro.com/	Keansburg	2005.0	1.0
+38038	http://www.willingboronj.gov/	Willingboro	2012.0	95.0
+38039	http://www.fanwoodnj.org/	Fanwood Borough	2011.0	56.0
+38041	http://www.pembertonborough.us/	Pemberton Borough	2003.0	8.0
+38042	http://www.state.nj.us/health/	Health	1997.0	3266.0
+38043	http://www.springlakehts.com/	Spring Lake Heights Borough	2003.0	4.0
+38044	http://brsd.high.schoolfusion.us/?sessionid=2fc6f942fb15a13255607f7b43119e71&t	Buena Regional High School	0.0	1066.0
+38045	http://www.littlefallslibrary.org/littlefalls/	Little Falls Public Library	2013.0	61.0
+38046	http://www.bcsberlin.k12.nj.us/site/default.aspx?PageID=1	Berlin Borough School District (0330)	2013.0	13.0
+38050	http://www.co.gloucester.nj.us/	Gloucester County	1997.0	1212.0
+38051	http://www.littleferry.k12.nj.us/site/default.aspx?PageID=1	Little Ferry Public Schools (2710)	2012.0	21.0
+38052	http://www.leapacademycharter.org	LEAP ACADEMY UNIVERSITY CHARTER SCHOOL (7109 - 931)	2002.0	73.0
+38053	http://hackensackschools.org	Hackensack City (1860)	0.0	0.0
+38054	http://www.townshipofhamilton.com/	Hamilton Township	2004.0	167.0
+38057	http://www.ridgewoodlibrary.org	Ridgewood Public Library	2004.0	20.0
+38058	http://www.medfordlakes.com/	Medford Lakes	2000.0	131.0
+38059	http://www.ucteams.org	Union County TEAMS Charter School (8010 - 980)	2007.0	14.0
+38060	http://www.hopeacademycs.org	Hope Academy Charter School (6740 - 950)	2008.0	17.0
+38061	http://www.kenilworthschools.com/kenilworth/david	David Brearley High School	0.0	0.0
+38062	http://www.ci.perthamboy.nj.us/	Perth Amboy	2002.0	1228.0
+38063	http://www.chplnj.org	Cherry Hill Free Public Library	2005.0	6.0
+38065	http://www.sc.esc.k12.nj.us	Somerset County Educational Services Commission (4805)	2009.0	94.0
+38066	http://www.minehillcas.org	Mine Hill Township (3240)	2012.0	441.0
+38067	http://www.bernardslibrary.org	Bernards Township Library	2007.0	453.0
+38068	http://www.estellmanor.org/	Estell Manor City	2001.0	25.0
+38069	http://www.rutgers.edu/academics/schools-colleges	Rutgers   Schools & Colleges	2009.0	8.0
+38070	http://www.westorange.org/	West Orange	1999.0	1200.0
+38071	http://www.wopl.org	West Orange Free Public Library	2001.0	61.0
+38072	http://knowlton-nj.com/	Knowlton Township	1999.0	28.0
+38073	http://www.rosellelibrary.org/	Roselle Free Public Library	2014.0	2249.0
+38074	http://www.harrisontwp.k12.nj.us	HARRISON TOWNSHIP SCHOOL DISTRICT (2070)	2000.0	18.0
+38075	http://www.roselandnj.org/	Roseland	2000.0	121.0
+38076	http://mtlaurel.lib.nj.us	Mount Laurel Library	1998.0	690.0
+38077	http://www.milfordnj.org	Milford Public Library	2004.0	87.0
+38078	http://www.boonton.org/	Boonton	1997.0	98.0
+38079	http://veronalibrary.org	Verona Free Public Library	2004.0	218.0
+38080	http://www.fpks.org	FLORHAM PARK PUBLIC SCHOOLS (1530)	2002.0	86.0
+38081	http://www.creativeartshs.org/	Creative & Prfrmg Arts High School	0.0	413.0
+38082	http://ladyliberty.nj.lla.schoolinsites.com/	Lady Liberty Academy Charter School (7100 - 936)	2013.0	61.0
+38083	http://www.chatham-nj.org/site/default.aspx?PageID=1	The School District of the Chathams (0785)	2011.0	7.0
+38084	http://www.paps.net/site/default.aspx?PageID=1	Perth Amboy Public Schools (4090)	2012.0	13.0
+38085	http://www.mtlaurelschools.org/	Mount Laurel Township School District (3440)	2006.0	133.0
+38087	http://www.robbinsville-twp.org/index.html	Robbinsville Township	2011.0	1224.0
+38089	http://www.margatelibrary.org	Margate City Public Library	1998.0	1269.0
+38090	http://www.littlesilver.org/ls	Little Silver Borough	2006.0	0.0
+38091	http://spartalibrary.com	Sparta Public Library	2001.0	226.0
+38092	http://www.glenridgelibrary.org	Glen Ridge Free Public Library	2009.0	2.0
+38093	http://www.nj.gov/casinorevenue/	Casino Revenue Fund Advisory Commission	2010.0	10.0
+38094	http://woodbine.capemayschools.com	Woodbine School District (5840)	1999.0	0.0
+38095	http://www.downeschool.org	Downe Township School District (1120)	2004.0	48.0
+38098	http://www.riverdalelibrary.org	Riverdale Public Library	2002.0	97.0
+38099	http://www.cliffsideparknj.gov/	Cliffside Park Borough	2006.0	65.0
+38100	http://www.visitmonmouth.com/	Monmouth County	1999.0	1391.0
+38101	http://jamesburglibrary.com	Jamesburg Public Library	2007.0	1.0
+38102	http://www.ramapo.edu/	Ramapo College of New Jersey	0.0	3986.0
+38103	http://www.harveycedars.org/	Harvey Cedars	2001.0	8.0
+38105	http://www.mcmua.com/	Morris County Municipal Utilities Authority	1998.0	444.0
+38106	http://www.cityofsummit.org/	Summit	2002.0	779.0
+38107	http://www.passaicpubliclibrary.org	Passaic Public Library	2007.0	10.0
+38109	http://www.state.nj.us/njhighlands/	Highlands Council	2006.0	218.0
+38110	http://www.cityofjerseycity.com/	Jersey City	1998.0	262.0
+38111	http://www.peqtwp.org/	Pequannock	2007.0	353.0
+38112	http://harringtonparknj.gov/	Harrington Park	2013.0	64.0
+38113	http://www.marsd.org/site/default.aspx?PageID=1	Matawan-Aberdeen Regional School District (3040)	2013.0	99.0
+38114	http://www.northhanover.us/	North Hanover Township	2005.0	0.0
+38115	http://bergenfield.bccls.org	Bergenfield Free Public Library	2007.0	64.0
+38116	http://otsdk6.org	Ocean Township School District (3820)	0.0	205.0
+38118	http://www.southampton.k12.nj.us	Southampton Township School District (4930)	2002.0	279.0
+38120	http://www.sussexesc.org	SUSSEX COUNTY EDUCATIONAL SERVICES COMMISSION (5105)	2011.0	28.0
+38121	http://www.pvhs.k12.nj.us/	Passaic Valley High School	1998.0	1.0
+38122	http://www.moorestown.lib.nj.us	Moorestown Library	2000.0	90.0
+38123	http://www.madisonpublicschools.org/madisonhs/site/default.asp	Madison High School	2006.0	11.0
+38124	http://www.classicalacademy.org	Classical Academy Charter School of Clifton (6230 - 915)	2001.0	10.0
+38125	http://www.rvrhs.com/	Rancocas Valley Regional H	0.0	1929.0
+38126	http://www.co.cumberland.nj.us/content/159/3747.aspx	Cumberland County	2008.0	6.0
+38127	http://www.somerspoint.schoolfusion.us/	SOMERS POINT SCHOOL DISTRICT (4800)	2007.0	263.0
+38128	http://www.wood-ridgeschools.org	Wood-Ridge Board of Education (5830)	2004.0	7.0
+38129	http://northarlington.bccls.org	North Arlington Public Library	2007.0	12.0
+38130	http://www.franklinlakes.org/index.asp?	Franklin Lakes	2006.0	1487.0
+38131	http://www.ho-ho-kusboro.com/	Ho-Ho-Kus	2001.0	698.0
+38133	http://www.pcnjnaturalresources.com/	Passaic County Office of Natural Resource Programs	2000.0	1.0
+38134	http://www.spotswoodboro.com/library.html	Spotswood Public Library	2006.0	1.0
+38135	http://www.southplainfieldnj.com/	South Plainfield	1998.0	18.0
+38136	http://www.millburn.lib.nj.us	Millburn Free Public Library	1998.0	87.0
+38137	http://www.washtwpmorris.org/	Washington Township	1998.0	379.0
+38138	http://www.rmschool.com	South Bound Brook Public Schools (4850)	2002.0	565.0
+38139	http://bcss.bergen.org	Bergen County Special Services (0285)	2007.0	661.0
+38140	http://www.waterfrontcommission.org/	Waterfront Commission of New York Harbor	2003.0	186.0
+38141	http://www.franklintwpschools.org	Franklin Township Board of Education (1590)	2000.0	325.0
+38142	http://www.eastrutherfordnj.net/	East Rutherford Borough	2002.0	0.0
+38143	http://www.njra.us/njra/lib/njra/splash.html	Redevelopment Authority (NJRA)	2008.0	2.0
+38144	http://www.mccc.edu	Mercer County                      Community College	1997.0	2333.0
+38145	http://www.gatewayhs.com	GATEWAY REGIONAL SCHOOL DSITRICT (1715)	1999.0	32.0
+38146	http://www.bccls.org/members/dema.shtml	Demarest Public Library Association	0.0	0.0
+38147	http://www.briellenj.com/	Brielle Borough	1999.0	0.0
+38148	http://www.pennsgrove-nj.org/	Penns Grove Borough	2013.0	28.0
+38149	http://www.sussex.nj.us/	Sussex County	1996.0	2710.0
+38150	http://www.hopatcongschools.org	Hopatcong Borough Schools (2240)	1999.0	130.0
+38151	http://www.township.clinton.nj.us/	Clinton Township	2001.0	117.0
+38152	http://www.woodbury.nj.us/	Woodbury	2000.0	199.0
+38153	http://riverbank.charter.k12.nj.us	Riverbank Charter School of Excellence (6026 - 908)	2009.0	4.0
+38155	http://www.eastamptonpolicenj.us/	Eastampton Police Department	2003.0	12.0
+38156	http://www.fpsk6.org	Fairfield Public Schools (1465)	2011.0	742.0
+38158	http://www.elec.state.nj.us/	Election Law Enforcement (Campaign and Lobbying Disclosure)	1999.0	86.0
+38159	http://www.morrisschooldistrict.org/site/default.aspx	MORRIS SCHOOL DISTRICT (3385)	2013.0	6.0
+38160	http://www.woodstown.org/site/default.aspx?PageID=1	Woodstown-Pilesgrove Regional School District (5910)	2012.0	8.0
+38161	http://www.unionbeachschools.org	Union Beach Public School District (5230)	2011.0	0.0
+38162	http://www.mendhamboro.org/site/default.aspx?PageID=1	MENDHAM BOROUGH (3090)	2012.0	41.0
+38163	http://www.glenrocknj.net/	Glen Rock	2000.0	276.0
+38165	http://www.wallingtonnj.org/	Wallington	2007.0	237.0
+38166	http://www.scotlib.org	Scotch Plains Public Library	2002.0	2043.0
+38168	http://raritanlibrary.org	Raritan Public Library	2002.0	9.0
+38169	http://www.montclair.k12.nj.us/WebPage.aspx?Id=1	Montclair Public Schools (3310)	2008.0	1392.0
+38170	http://www.glenridge.org/site/default.aspx?PageID=1	Glen Ridge Public Schools (1750)	2012.0	33.0
+38172	http://www.ehtgov.org/	Egg Harbor Township	2001.0	58.0
+38174	http://www.lindenwold.k12.nj.us	Lindenwold Board of Education (2670)	0.0	544.0
+38175	http://www.rutherfordems.org/	Rutherford First Aid-Ambulance Corps	1998.0	121.0
+38176	http://www.frelinghuysen-nj.us/	Frelinghuysen Township	2007.0	35.0
+38177	http://www.hudsoncountynj.org/	Hudson County	0.0	356.0
+38178	http://www.patersonnj.gov/	Paterson	2007.0	2895.0
+38179	http://www.trentonnj.org/	Trenton	2001.0	432.0
+38180	http://www.whippanong.org	Whippanong Library-Hanover Township	2000.0	3.0
+38181	http://www.dowdell.org	Dowdell Library Of South Amboy	1999.0	56.0
+38183	http://wandellschool.org/site/default.aspx?PageID=1	SADDLE RIVER SCHOOL DISTRICT (4620)	2011.0	8.0
+38185	http://new.metscharterschool.org/	M.E.T.S. CHARTER SCHOOL (6068 - 951)	2012.0	25.0
+38187	http://www.tabschools.org/site/default.aspx?PageID=1	Tabernacle Township School District (5130)	2013.0	5.0
+38188	http://www.pascack.k12.nj.us/site/default.aspx?PageID=1	PASCACK VALLEY REGIONAL HIGH SCHOOL DISTRICT (3960)	2011.0	9.0
+38189	http://www.asburypark.k12.nj.us/site/default.aspx?PageID=1	Asbury Park School District (0100)	2013.0	46.0
+38190	http://www.hcrhs.k12.nj.us	Hunterdon Central Regional High School (2300)	1999.0	713.0
+38191	http://www.downetwpnj.org/	Downe Township	2003.0	10.0
+38194	http://www.cmcspecialservices.org/static/not_found.html	Cape May County High School	2011.0	1.0
+38195	http://www.state.nj.us/ccrc/	Capital City Redevelopment Corporation	2008.0	23.0
+38196	http://www.mcsheriff.org/	Morris County Sheriff's Office	1996.0	24.0
+38197	http://www.clearviewregional.edu	Clearview Regional High School District (0870)	1999.0	589.0
+38198	http://www.mcvts.net/site/default.aspx?PageID=1	Middlesex County Vocational and Technical Schools (3150)	2013.0	6.0
+38200	http://www.hamptonboro.com/	Hampton Borough	2008.0	17.0
+38201	http://www.wildwoodnj.org/	Wildwood	2000.0	222.0
+38202	http://www.bedminsterschool.org/site/default.aspx?PageID=1	Bedminster Township Public School (0240)	2011.0	14.0
+38203	http://fairviewps.org/	Fairview Public Schools (1470)	2011.0	37.0
+38204	http://www.oceantwp.org/	Ocean Township	1998.0	648.0
+38205	http://vinelandpubliccharterschool.org/	Vineland Public Charter School (6028 - 910)	2009.0	55.0
+38206	http://www.westex.org/site/default.aspx?PageID=1	West Essex Regional School District (5630)	2011.0	18.0
+38207	http://www.wmtps.org	West Milford Township Public Schools (5650)	1998.0	2680.0
+38208	http://www.cliftonpl.org	Clifton Public Library	2008.0	235.0
+38209	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code0730&maxhits=650	Cape May Point (0730)	0.0	1.0
+38210	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6083&maxhits=650	Knowledge A to Z Charter School (6083 - 968)	0.0	1.0
+38211	http://www.riveredgenj.org/	River Edge Borough	2004.0	952.0
+38212	http://www.ww-p.org/	West Windsor-Plainsboro Regional School District (5715)	2001.0	2280.0
+38213	http://www.oceantwp.org/content/5939/default.aspx	Ocean Township Police	2012.0	3.0
+38214	http://www.ufrsd.net	UPPER FREEHOLD REGIONAL SCHOOL DISTRICT (5310)	2002.0	465.0
+38215	http://www.foundationacademies.org	Foundation Academy Charter School (6017 - 932)	0.0	56.0
+38216	http://www.spotswoodboro.com/	Spotswood	1999.0	343.0
+38217	http://www.ims.k12.nj.us/Default.aspx?alias=www.ims.k12.nj.us/district	Shamong Township School District (4740)	2011.0	173.0
+38218	http://www.florence.k12.nj.us	Florence Township School District (1520)	2000.0	105.0
+38219	http://www.mcvsd.org	Monmouth County Vocational School District (3260)	2001.0	82.0
+38220	http://westmilford.org/	West Milford Township	2002.0	1762.0
+38221	http://www.mtmua.com/	Monroe Township Municipal Utilities Authority	2000.0	26.0
+38222	http://www.andovertwp.org/	Andover Township	2007.0	60.0
+38223	http://www.rutgers.edu/	Rutgers, The State University of New Jersey	1997.0	387.0
+38224	http://www.tuckertonborough.com/	Tuckerton	2004.0	119.0
+38225	http://www.state.nj.us/health/spinalcord/	Spinal Cord Research, New Jersey Commission on	2001.0	15.0
+38226	http://www.newfieldboro.net/	Newfield Borough	2013.0	28.0
+38227	http://www.harrisontwp.us/	Harrison Township	2005.0	72.0
+38228	http://www.millstone.k12.nj.us	Millstone Township (3200)	1999.0	18.0
+38229	http://www.hpboro.com/	Highland Park	2003.0	437.0
+38230	http://www.warrennj.org/	Warren Township	1999.0	297.0
+38231	http://cityofenglewood.org/	Englewood	2001.0	213.0
+38232	http://www.vincentown.lib.nj.us/libinfo.html	Sally Stretch Keen Memorial Library	2002.0	4.0
+38233	http://www.caldwellpl.org	Caldwell Free Public Library	2002.0	258.0
+38234	http://www.avonbytheseanj.com	Avon Free Public Library	2000.0	73.0
+38235	http://www.totowapl.org	Dwight D. Eisenhower Library	2007.0	8.0
+38236	http://west.cherryhill.k12.nj.us/	Cherry Hill High - West	1998.0	29.0
+38238	http://www.hardyston.com/	Hardyston Township	1999.0	133.0
+38239	http://www.northarlington.org/	North Arlington Borough	2004.0	6.0
+38240	http://www.pointpleasant.k12.nj.us/highschool/high_school.htm	Point Pleasant High School	2000.0	36.0
+38241	http://www.marlboro-nj.gov/	Marlboro Township	2005.0	372.0
+38242	http://www.state.nj.us/perc/	Public Employment Relations Commission	1997.0	12.0
+38243	http://www.paulsboronj.org/	Paulsboro	2002.0	101.0
+38244	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code2130&maxhits=650	Hi Nella (2130)	0.0	1.0
+38245	http://www.twp.washington.nj.us/	Washington Township	1998.0	100.0
+38246	http://glassboroonline.com/public/	Glassboro	2013.0	436.0
+38247	http://www.winslowtownship.com/	Winslow Township	2000.0	354.0
+38248	http://www.mountephraim-nj.com/	Mount Ephraim Borough	2005.0	43.0
+38249	http://www.lyndhurstschools.net	Lyndhurst School District (2860)	2006.0	805.0
+38250	http://www.wtsd.org	WATERFORD TOWNSHIP PUBLIC SCHOOLS (5560)	0.0	221.0
+38252	http://www.unionbeach.net/	Union Beach Borough	2004.0	47.0
+38253	http://www.butlerborough.com/	Butler Borough	2001.0	78.0
+38254	http://www.piscatawaylibrary.org	Piscataway Public Library	2004.0	1569.0
+38255	http://www.state.nj.us/sci/	Investigation, State Commission of	1997.0	114.0
+38256	http://www.jcboe.org/boe2014/	Jersey City Public Schools (2390)	2014.0	1049.0
+38257	http://www.gbtps.org/site/default.aspx?PageID=1	Green Brook Township Public Schools (1810)	2012.0	16.0
+38258	http://www.ogdensburgnj.org/	Ogdensburg Borough	2009.0	58.0
+38259	http://www.narlington.k12.nj.us	North Arlington School District (3600)	2000.0	48.0
+38261	http://www.manchestertwp.com/	Manchester Township	2001.0	251.0
+38263	http://www.ucvts.tec.nj.us/site/default.aspx?PageID=1	Union County Vocational-Technical School District (5260)	2012.0	15.0
+38264	http://www.wallnj.com/	Wall Township	1998.0	200.0
+38265	http://teacherweb.com/NJ/Frenchtownschool/SchoolWebsite/sdhp1.aspx	Frenchtown School District (1680)	2010.0	113.0
+38266	http://tomsrivertownship.com/	Toms River Township	2009.0	1540.0
+38268	http://www.njsbjc.org	South  Bergen Jointure Commission (4845)	2011.0	168.0
+38270	http://nj.gov/globalwarming/	Global Warming	2007.0	29.0
+38271	http://www.ocean.edu/content/public.html	Ocean                      County College	2013.0	816.0
+38272	http://delanco.com/	Delanco Township Schools (1030)	2001.0	76.0
+38274	http://www.nationalparknj.com/index.htm	National Park Borough	2012.0	25.0
+38275	http://www.wnyschools.net/district/mhs/	Memorial High School	2005.0	16.0
+38276	http://www.lccsnj.org	Learning Community Charter School (7115 - 960)	2003.0	1448.0
+38277	http://upperdeerfield.com/	Upper Deerfield Township	2003.0	71.0
+38278	http://www.apsedu.org	Alpha Borough Public School (0070)	2011.0	149.0
+38279	http://www.pembertonpolice.com/	Pemberton Township Police Department	1999.0	16.0
+38280	http://www.eatontownnj.com/boro.asp	Eatontown	2008.0	153.0
+38281	http://www.teaneckschools.org/site/default.aspx?PageID=1	Teaneck Public School (5150)	2011.0	8.0
+38282	http://www.carneyspointfire.org/	Carneys Point Fire Department and Rescue Squad	2002.0	23.0
+38283	http://beachhaven-nj.gov/	Beach Haven Borough	2007.0	308.0
+38284	http://www.veronaschools.org/site/default.aspx?PageID=1	Verona  Public Schools (5370)	2012.0	8.0
+38285	http://www.easthanoverschools.org/site/default.aspx?PageID=1	East Hanover Township School District (1190)	2011.0	7.0
+38286	http://theoceancountylibrary.org	Ocean County Library	2007.0	338.0
+38287	http://www.state.nj.us/parole/	State Parole Board	1997.0	115.0
+38288	http://www.rockleighnj.org/	Rockleigh Borough	2011.0	14.0
+38289	http://www.edline.net/pages/abseconschooldistrict	Absecon Public Schools (0010)	2010.0	37.0
+38290	http://www.cityofatlanticcity.org/	Atlantic City	2002.0	246.0
+38291	http://www.saddlebrookpd.com/	Saddle Brook Police Department	1999.0	0.0
+38292	http://www.bwhnj.com/	Woodbury Heights Borough	2007.0	385.0
+38293	http://www.rosevillecharter.org	ROSEVILLE COMMUNITY CHARTER SCHOOL (6058 - 939)	2011.0	10.0
+38294	http://www.glengardnernj.org/	Glen Gardner Borough	2007.0	147.0
+38295	http://www.bcls.lib.nj.us/libraries/mountholly	Mount Holly Library And Lyceum	2006.0	17.0
+38296	http://www.uppertownship.com/	Upper Township	2001.0	672.0
+38297	http://www.ehcs.k12.nj.us	EGG HARBOR CITY SCHOOL DISTRICT (1300)	2000.0	213.0
+38299	http://www.camden.k12.nj.us	CAMDEN CITY PUBLIC SCHOOLS (0680)	0.0	674.0
+38300	http://seagirtpd.net/	Sea Girt Police	1999.0	94.0
+38301	http://www.shamong.net/	Shamong Township	2000.0	367.0
+38302	http://www.neptune.k12.nj.us/site/default.aspx?PageID=1	NEPTUNE TOWNSHIP SCHOOL DISTRICT (3510)	2012.0	5.0
+38303	http://www.gibbsboroschool.org/site/default.aspx?PageID=1	Gibbsboro Elementary School (1720)	2013.0	18.0
+38304	http://www.bloomingdaleschools.org	Bloomingdale School District (0420)	2007.0	265.0
+38305	http://www.oceancountyclerk.com/	Ocean County Clerk	1997.0	4.0
+38306	http://www.njit.edu/academics/	NJIT Schools & Colleges	2000.0	9.0
+38307	http://www.stratford.k12.nj.us	Stratford School District (5080)	0.0	851.0
+38308	http://twp.freehold.nj.us/	Freehold Township	1997.0	836.0
+38309	http://www.nj.gov/casinos/	Casino Control Commission	2002.0	103.0
+38310	http://www.byramschools.org	Byram Township Board of Education (0640)	2000.0	53.0
+38312	http://frenchtownboro.com/	Frenchtown	2012.0	313.0
+38313	http://trentonpolice.com/	Trenton Police	1998.0	6.0
+38316	http://www.sparta.org	SPARTA TOWNSHIP PUBLIC SCHOOLS (4960)	1998.0	560.0
+38317	http://www.lincolnparkboe.org	Lincoln Park School District (2650)	2002.0	940.0
+38318	http://www.eresc.com	ESSEX REGIONAL EDUCATIONAL SERVICES COMMISSION (1387)	2009.0	1.0
+38319	http://www.cherryhill.k12.nj.us/	Cherry Hill Public Schools (0800)	1998.0	251.0
+38321	http://www.nutleynj.org/	Nutley	2002.0	377.0
+38322	http://haddonhts.com/	Haddon Heights Borough	2004.0	383.0
+38323	http://www.branchburg.k12.nj.us	BRANCHBURG TOWNSHIP (0510)	2000.0	87.0
+38324	http://www.westamwellschool.org	West Amwell Township School (5600)	2003.0	286.0
+38325	http://www.mansfieldtownship-nj.gov/	Mansfield Township	2004.0	1445.0
+38326	http://www.ctsd.k12.nj.us	Clinton Township (0920)	2000.0	782.0
+38327	http://www.marlboro.k12.nj.us	MARLBORO TOWNSHIP BOARD OF EDUCATION (3030)	0.0	1189.0
+38328	http://www.bplnj.org	Bloomfield Public Library	2005.0	52.0
+38330	http://www.cliffsidepark.edu	Cliffside Park School DIstrict (0890)	1997.0	52.0
+38331	http://www.washboroschools.org	WASHINGTON BOROUGH SCHOOLS (5480)	2009.0	11.0
+38332	http://www.middlesexlibrarynj.org	Middlesex Public Library	2006.0	32.0
+38333	http://www.njit.edu/	New Jersey Institute           of Technology	1997.0	2998.0
+38334	http://www.vinelandlibrary.org	Vineland Public Library	2008.0	37.0
+38335	http://www.monmouthcountylib.org	Monmouth County Library	2007.0	1429.0
+38336	http://www.commercialtwp.com/	Commercial Township	2004.0	78.0
+38337	http://www.northplainfield.org/	North Plainfield Borough	2000.0	126.0
+38340	http://www.nps.k12.nj.us/site/default.aspx?PageID=1	THE NEWARK PUBLIC SCHOOLS (3570)	2013.0	4884.0
+38341	http://www.longport-nj.us/	Longport	2007.0	0.0
+38342	http://www.state.nj.us/military/	Military & Veterans Affairs	1997.0	41.0
+38343	http://www.ringwoodlibrary.org	Ringwood Public Library	2012.0	18.0
+38344	http://lacschool.org/	LOWER ALLOWAYS CREEK (2800)	2013.0	399.0
+38345	http://www.rumsonnj.gov/	Rumson	2007.0	23.0
+38346	http://www.northhaledon.com/	North Haledon	1999.0	49.0
+38347	http://www.greenwich-twp.com/	Greenwich Township	2009.0	38.0
+38348	http://www.stowcreekschool.com	STOW CREEK TOWNSHIP (5070)	2011.0	40.0
+38349	http://www.fredon.org	FREDON TOWNSHIP SCHOOL DISTRICT (1630)	1998.0	73.0
+38350	http://www.oaklandschoolsnj.org	Oakland Board of Education (3760)	2006.0	22.0
+38352	http://www.ltes.org	LAFAYETTE TOWNSHIP SCHOOL DISTRICT (2490)	2001.0	605.0
+38353	http://www.state.nj.us/njba/	Building Authority	2000.0	11.0
+38355	http://www.state.nj.us/dep/cleanair/	Clean Air Council	1998.0	41.0
+38356	http://www.twp.burlington.nj.us/	Burlington Township	1997.0	103.0
+38358	http://claytonnj.com/public/	Clayton Borough	2013.0	236.0
+38359	http://www.prsdnj.org/	PINELANDS REGIONAL BOARD OF EDUCATION (4105)	2009.0	8.0
+38360	http://millvillepubliccharterschool.org	Millville Public Charter School (6069 - 952)	2011.0	477.0
+38361	http://www.westcaldwell.com/	West Caldwell	1999.0	435.0
+38362	http://www.mrtschool.com	MAURICE RIVER TOWNSHIP ELEMENTARY SCHOOL (3050)	1999.0	21.0
+38366	http://www.lmxac.org/longbranch/	Long Branch Free Public Library	2001.0	2.0
+38368	http://www.hwmountz.k12.nj.us/site/default.aspx?PageID=1	Spring Lake Borough (4980)	2011.0	21.0
+38369	http://www.teanecknj.gov/	Teaneck	2009.0	1202.0
+38370	http://www.riverton.k12.nj.us	Riverton School District (4460)	1998.0	22.0
+38372	http://www.voorhees.k12.nj.us/site/default.aspx?PageID=1	Voorhees Township Board of Education (5400)	2011.0	17.0
+38375	http://www.ncboe.org	NORTH CALDWELL BOARD OF EDUCATION (3630)	2001.0	152.0
+38376	http://www.morristwp.com/	Morris Township	1999.0	598.0
+38377	http://www.montvillelib.org	Montville Township Public Library	1998.0	50.0
+38378	http://www.lincolnpark.org/	Lincoln Park	1999.0	495.0
+38379	http://www.patersonpl.org	Paterson Free Public Library	2006.0	788.0
+38380	http://chesilhurst.readyhosting.com/municipal.htm	Chesilhurst Borough	2008.0	14.0
+38381	http://www.franklinlakeslibrary.org	Franklin Lakes Free Public Library	2002.0	44.0
+38383	http://www.orange.k12.nj.us/site/default.aspx?PageID=1	ORANGE BOARD OF EDUCATION (3880)	2013.0	17.0
+38385	http://www.hcesc.com	Hunterdon County Educational Services Commission (2305)	2000.0	4.0
+38386	http://www.sayrevillehigh.net/	War Memorial High School	2002.0	20.0
+38387	http://www.twp.woodbridge.nj.us/	Woodbridge Township	2000.0	1767.0
+38388	http://www.capemaytech.com	Cape May County Technical High School District (0720)	1998.0	120.0
+38389	http://www.aes.k12.nj.us/site/default.aspx?PageID=1	Allamuchy Township School District (0030)	2012.0	34.0
+38390	http://www.cumberland.tec.nj.us	CUMBERLAND COUNTY BOARD OF VOCATIONAL EDUCATION (0995)	1998.0	63.0
+38391	http://www.pccc.edu	Passaic                      County Community College	2003.0	424.0
+38392	http://www.allamuchynj.org/	Allamuchy Township	2006.0	36.0
+38393	http://www.state.nj.us/dobi/pinelandsbank.htm	Pinelands Development Credit Bank	2005.0	18.0
+38394	http://millvillepubliclibrary.org	Millville Public Library	2007.0	3838.0
+38395	https://www.irvington.net/	Irvington Township	0.0	243.0
+38397	http://www.ccsp.org	Community Charter School of Paterson (6021 - 905)	1998.0	144.0
+38398	http://newhanover.k12.nj.us/site/default.aspx?PageID=1	New Hanover Township (3540)	2011.0	8.0
+38399	http://www.co.hunterdon.nj.us/mun/stockton.htm	Stockton Borough	1998.0	31.0
+38402	http://www.ocvts.org	Ocean County Vocational Technical School (3790)	1999.0	82.0
+38403	http://www.dvrhs.org/site/default.aspx?PageID=1	Delaware Valley Regional High School	2011.0	8.0
+38404	http://www.east-windsor.nj.us/	East Windsor	1998.0	253.0
+38405	http://chesterlib.com/	Chester Library	2012.0	351.0
+38406	http://www.visionsacademy.org	Visions Academy Charter High School (6038 - 923)	2002.0	1.0
+38407	http://spboe.org/site/default.aspx?PageID=1	South Plainfield Public Schools (4910)	2011.0	17.0
+38408	http://www.mckeown.org	HAMPTON TOWNSHIP SCHOOL DISTRICT (1980)	2001.0	8.0
+38409	http://www.hillsborough-nj.org/	Hillsborough	1998.0	145.0
+38410	http://www.springfieldpubliclibrary.com/joomla25/	Springfield Free Public Library	2012.0	5762.0
+38412	http://www.gibbsborotownhall.com/	Gibbsboro	2001.0	95.0
+38414	http://www.woodburylibrary.org	Woodbury Public Library	2000.0	29.0
+38415	http://twp.millburn.nj.us/	Millburn	2000.0	1877.0
+38416	http://www.audubonparknj.org/	Audubon Park Borough	2008.0	5.0
+38417	http://www.laurelspringschool.org	LAUREL SPRINGS SCHOOL (2540)	2007.0	39.0
+38418	http://www.greenwichtownship.org/	Greenwich Township	2008.0	205.0
+38419	http://www.lowertwpschools.com	Lower Township Elementary School District (2840)	2002.0	51.0
+38420	http://www.mhrd.org/site/default.aspx?PageID=1	Morris Hills Regional District (3370)	2013.0	5.0
+38421	http://www.hammontonps.org	Hammonton School District (1960)	2002.0	73.0
+38422	http://sbbfd.com/	South Bound Brook Fire Department	2003.0	23.0
+38424	http://www.ahnj.com/	Atlantic Highlands	2002.0	0.0
+38425	http://hasbrouckheights.bccls.org	Hasbrouck Heights Free Public Library	2007.0	65.0
+38426	http://www.scotchplainsnj.com/	Scotch Plains	1998.0	156.0
+38427	http://myhillsdalelibrary.org/	Hillsdale Free Public Library	2012.0	397.0
+38428	http://www.bcsssd.k12.nj.us/site/default.aspx?PageID=1	BURLINGTON COUNTY SPECIAL SERVICES SCHOOL DISTRICT (0605)	2013.0	54.0
+38429	http://www.sussex.tec.nj.us	Sussex County Technical School (5110)	0.0	641.0
+38430	http://www.wtschools.org	Washington Township (5520)	2001.0	107.0
+38431	http://www.lawrencetwpcumberlandnj.com/	Lawrence Township	2013.0	16.0
+38432	http://www.brookdalecc.edu	Brookdale                      Community College	2002.0	6555.0
+38433	http://www.twp.fredon.nj.us/#menu	Fredon Township	2014.0	31.0
+38434	http://www.haddontwp.com/	Haddon Township	2001.0	92.0
+38436	http://www.ramseynj.com/	Ramsey	1999.0	107.0
+38437	http://www.oldmans.org	OLDMANS TOWNSHIP (3860)	2008.0	33.0
+38438	http://www.co.warren.nj.us/	Warren County	2000.0	31.0
+38439	http://www.alpineschool.org/site/default.aspx?PageID=1	Alpine Elementary School District (0080)	2013.0	8.0
+38440	http://www.hazlet.org/site/default.aspx?PageID=1	Hazlet Township Public Schools (2105)	2012.0	42.0
+38441	http://www.hpschools.net	HIGHLAND PARK BOARD OF EDUCATION (2150)	2010.0	3172.0
+38442	http://www.gehrhsd.net	Greater Egg Harbor Regional High School District (1790)	2002.0	36.0
+38443	http://www.pinebeachborough.us/pinebeach.htm	Pine Beach Borough	2004.0	22.0
+38444	http://www.woolwichtwp.org/	Woolwich Township	2003.0	1121.0
+38446	http://www.neptunecityschool.org/site/default.aspx?PageID=1	NEPTUNE CITY (3500)	2013.0	8.0
+38447	http://www.mcts.edu	Area Vocational Technical Schools of Mercer County (3105)	2007.0	602.0
+38448	http://www.queencity.edu	The Queen City Academy Charter School (7600 - 960)	2000.0	18.0
+38449	http://www.neptune.k12.nj.us/site/default.aspx?domainid=229	Neptune High School	2013.0	8.0
+38450	http://www.swregional.org	Sussex-Wantage Regional School District (5100)	0.0	381.0
+38452	http://www.ridgeandvalley.org	Ridge and Valley Charter School (7727 - 900)	2001.0	30.0
+38453	http://www.nplainfield.org/site/default.aspx?PageID=1	NORTH PLAINFIELD BORO (3670)	2011.0	19.0
+38454	http://www.mcvts.org	Morris County Vocational School District (3365)	0.0	517.0
+38455	http://www.mullica.k12.nj.us	Mullica Township School District (3480)	2000.0	44.0
+38456	http://www.hccc.edu/	Hudson                      County Community College	2002.0	1649.0
+38457	http://www.berlintwp.com/	Berlin Township	2001.0	56.0
+38458	http://www.bordentown.k12.nj.us/index.cfm	Bordentown Regional High School	0.0	1290.0
+38459	http://www.upperpittsgrovenj.org/	Upper Pittsgrove Township	2011.0	19.0
+38461	http://www.wwrsd.org/site/default.aspx?PageID=1	WESTWOOD REGIONAL SCHOOL DISTRICT (5755)	2012.0	21.0
+38462	http://www.irvington.k12.nj.us/	IRVINGTON BOARD OF EDUCATION (2330)	2000.0	10.0
+38464	http://www.hamburgschool.com	Hamburg School District (1930)	2004.0	25.0
+38465	http://www.montvillenj.org/index.php	Montville Township	2008.0	6432.0
+38466	http://hs.collingswood.k12.nj.us/	Collingswood High School	0.0	923.0
+38467	http://www.westdeptford.lib.nj.us	West Deptford Free Public Library	1998.0	100.0
+38469	http://mainlandregional.net	MAINLAND REGIONAL HIGH SCHOOL DISTRICT (2910)	2000.0	98.0
+38470	http://www.caldwell-nj.com/	Caldwell	2005.0	79.0
+38471	http://closterschools.org/site/default.aspx?PageID=1	CLOSTER PUBLIC SCHOOLS (0930)	2013.0	7.0
+38472	http://www.franklinboro.com/	Franklin Borough	2001.0	2531.0
+38475	http://www.flboe.com	Fort Lee Public Schools (1550)	2010.0	424.0
+38476	http://www.lmxac.org/edisonlib/index.html	Edison Township Free Public Library	2000.0	25.0
+38477	http://www.sussexcharter.org	Sussex County Charter School for Technology (7850 - 960)	2011.0	85.0
+38478	http://www.moesc.org	Monmouth-Ocean Educational Services Commission (3255)	2000.0	81.0
+38479	http://www.somsd.k12.nj.us/site/default.aspx?PageID=1	South Orange-Maplewood School District (4900)	2013.0	14.0
+38480	http://www.boontonschools.org/	Boonton Town School District (0450)	2007.0	54.0
+38481	http://www.lakeland.k12.nj.us/site/default.aspx?PageID=1	Lakeland Regional High School District (2510)	2012.0	9.0
+38482	http://www.wenonahschool.org	Wenonah  Boro School District (5590)	2000.0	9.0
+38483	http://www.buena.k12.nj.us	BUENA REGIONAL SCHOOL DISTRICT (0590)	1999.0	80.0
+38484	http://www.slh.k12.nj.us	SPRING LAKE HEIGHTS SCHOOL DISTRICT (4990)	2000.0	11.0
+38485	http://www.eastgreenwichnj.com/	East Greenwich Township	2009.0	69.0
+38486	http://www.robbinsville.k12.nj.us/site/default.aspx?PageID=1	Robbinsville Public Schools (5510)	2013.0	7.0
+38487	http://www.njeda.com/	Economic Development Authority	1997.0	398.0
+38489	http://www.mcl.org	Mercer County Library	1998.0	122.0
+38490	http://www.redbird.net/briellepolice/	Brielle Police Department	1998.0	0.0
+38491	http://www.hopewellboro-nj.us/	Hopewell Borough	2004.0	363.0
+38492	http://www.haddonfield.k12.nj.us/hmhs/default.htm	Haddonfield Memorial High School	2000.0	17.0
+38493	http://www.allendalenj.gov/	Allendale	2004.0	284.0
+38494	http://wallington.bccls.org	John F. Kennedy Memorial Library	2007.0	31.0
+38495	http://highbridge.org/	High Bridge	1998.0	212.0
+38496	http://www.mtlakes.org/district/	Mountain Lakes Board of Education (3460)	2007.0	0.0
+38499	http://www.oaklyn-nj.net/	Oaklyn	2010.0	18.0
+38500	http://www.alpinenj07620.org/	Alpine Borough	2007.0	24.0
+38501	http://www.nutleyschools.org	NUTLEY PUBLIC SCHOOL DISTRICT (3750)	2000.0	1678.0
+38502	http://www.dueseasoncharterschool.org/site/default.aspx?PageID=1	D.U.E. Season Charter School (6325 - 915)	2013.0	8.0
+38504	http://www.staffordschools.org/site/default.aspx?PageID=1	Stafford Township School District (5020)	2011.0	7.0
+38506	http://www.eastbrunswick.org/content/204/299/default.aspx	East Brunswick Police Department	2012.0	33.0
+38507	http://www.hpsd.org/site/default.aspx?PageID=1	Harrington Park School District (2050)	2012.0	12.0
+38508	http://www.glassboroschools.us/site/default.aspx?domainid=41	Glassboro High School	0.0	13.0
+38509	http://www.state.nj.us/dobi/	Banking & Insurance	2001.0	929.0
+38510	http://www.btboe.org	Berkeley Township (0320)	2008.0	38.0
+38512	http://www.k12.com/newark-prep	Newark Prep Charter School (6059 - 941)	2013.0	485.0
+38513	http://www.bcls.lib.nj.us/libraries/delanco	Delanco Public Library	2006.0	17.0
+38514	http://www.sussexboro.com/	Sussex Borough	2008.0	19.0
+38515	http://www.millburn.org	Millburn Township Schools (3190)	1997.0	117.0
+38516	http://www.cresskillboro.com/	Cresskill	2001.0	178.0
+38517	http://www.obboe.com	Ogdensburg Borough School District (3840)	2011.0	0.0
+38520	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code0225&maxhits=650	BAYSHORE JOINTURE COMMISSION (0225)	0.0	1.0
+38521	http://www.somerdale-park.org	SOMERDALE PUBLIC SCHOOL (4790)	2006.0	103.0
+38522	http://www.moonachieschool.org	Moonachie (3350)	2011.0	4.0
+38524	http://www.woodburysch.com	Woodbury City Public School District (5860)	2000.0	1379.0
+38525	http://www.shsd.org/	Somerset Hills Regional School District (4815)	1998.0	268.0
+38526	http://wantagetwp.com/	Wantage Township	2001.0	184.0
+38528	http://www.cranburytownship.org/	Cranbury	2005.0	147.0
+38530	http://eastrutherford.bccls.org	East Rutherford Memorial Library	2007.0	35.0
+38531	http://littleferry.bccls.org	Little Ferry Free Public Library	2007.0	8.0
+38532	http://www.montvalek8.org	Montvale Board of Education (3330)	2012.0	5.0
+38533	http://sussex.edu/	Sussex                      County Community College	2002.0	847.0
+38534	http://www.morrisgoodwinschool.org	GREENWICH TOWNSHIP (1820)	2011.0	3.0
+38535	http://www.cranburyschool.org	Cranbury Township Board of Education (0970)	0.0	992.0
+38536	http://www.laceyschools.org	Lacey Township School District (2480)	2006.0	82.0
+38537	http://www.oldbridge.com/	Old Bridge Township	1996.0	640.0
+38538	http://leonia.bccls.org	Leonia Public Library	2009.0	54.0
+38539	http://www.cranburypubliclibrary.org	Cranbury Public Library	2002.0	119.0
+38540	http://www.westvillelibrary.com	Westville Public Library	2007.0	18.0
+38541	http://www.franklintwp.org	Franklin Twp Public Library-Somerset	1998.0	1914.0
+38542	http://www.cranford.com/township/	Cranford	2000.0	6.0
+38543	http://www.westamwelltwp.org/	West Amwell	2000.0	176.0
+38544	http://www.tenaflynj.org/	Tenafly Borough	2000.0	1101.0
+38545	http://westville-nj.com/home/	Westville	2008.0	2.0
+38546	http://www.rps1.org	ROOSEVELT PUBLIC SCHOOL DISTRICT (4520)	2000.0	13.0
+38547	http://florhamparklib.org/	Florham Park Free Public Library	2006.0	244.0
+38548	http://www.washboropl.org/wpl.html	Washington Public Library	2007.0	2.0
+38550	http://www.mantuaschools.com	Mantua Township Board of Education (2990)	2001.0	48.0
+38551	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6215&maxhits=650	Camden's Promise Charter School (6215 - 910)	0.0	1.0
+38552	http://lwd.dol.state.nj.us/labor/	Labor & Workforce Development	2007.0	1182.0
+38554	http://springfield-nj.us/	Springfield	2007.0	206.0
+38556	http://www.gtsd.net/pub/	Greenwich Township School District (1840)	2010.0	75.0
+38557	http://www.denvillenj.org/	Denville Township	1996.0	172.0
+38558	http://www.wmmhs.org/	West Morris Mendham High School	1998.0	48.0
+38559	http://www.bbesnj.org	Bradley Beach Elementary School (0500)	2012.0	153.0
+38560	http://www.state.nj.us/treasury/	Treasury	1997.0	360.0
+38561	http://www.frankfordschool.org	Frankford Township School District (1560)	1999.0	5.0
+38562	http://www.uniontwpschool.org/site/default.aspx?PageID=1	Union Township School (5270)	2013.0	28.0
+38564	http://www.spotswood.k12.nj.us	Spotswood Public Schools (4970)	2001.0	1695.0
+38565	http://www.willingboroschools.org/site/default.aspx?PageID=1	WILLINGBORO PUBLIC SCHOOL DISTRICT (5805)	2012.0	61.0
+38566	http://www.fairhaven.edu	Fair Haven School District (1440)	1996.0	0.0
+38567	http://minehill.com/	Mine Hill	2003.0	143.0
+38568	http://avalonfreelibrary.org	Avalon Free Public Library	2004.0	249.0
+38569	http://www.plainfield.com/	Plainfield	1997.0	63.0
+38570	http://www.state.nj.us/scitech/	Science and Technology, Commission on	2000.0	98.0
+38571	http://www.rbb.k12.nj.us/site/default.aspx?PageID=1	Red Bank Borough Public Schools (4360)	2013.0	4.0
+38572	http://www.greaternewarkcharterschool.org	Greater Newark Charter School (7280 - 955)	2007.0	3565.0
+38573	http://www.margateschools.org	Margate City School District (3020)	2000.0	444.0
+38574	http://www.npl.org	Newark Public Library	1997.0	509.0
+38575	http://www.montvale.org/	Montvale	2000.0	572.0
+38576	http://www.ccm.edu/	County                      College of Morris	1996.0	1477.0
+38577	http://www.state.nj.us/lps/	Attorney General, Office of the(Law & Public Safety)	1997.0	173.0
+38578	http://haddontwpschools.com	HADDON TOWNSHIP SCHOOL DISTRICT (1890)	2010.0	1622.0
+38581	http://www.mtnlakes.org/library/	Mountain Lakes Free Public Library	2000.0	32.0
+38582	http://www.pennsauken.net/	PENNSAUKEN TOWNSHIP BOARD OF EDUCATION (4060)	1997.0	48.0
+38583	http://www.bayheadnj.org/	Bay Head Borough	2007.0	0.0
+38584	http://www.greenbrooktwp.org/	Green Brook Township	2005.0	231.0
+38586	http://www.essexfellsboro.com/	Essex Fells Borough	2002.0	38.0
+38587	http://www.ci.orange.nj.us/	Orange Township	2001.0	63.0
+38589	http://palpkschools.org	Palisades Park Board of Education (3910)	2008.0	1911.0
+38590	http://www.buenavistatownship.org/	Buena Vista Township	2001.0	98.0
+38591	http://www.co.hunterdon.nj.us/mun/franklin.htm	Franklin Township	1998.0	31.0
+38593	http://www.stone-harbor.nj.us/	Stone Harbor	2000.0	2.0
+38595	http://www.njcrda.com/home-2/	State Casino Reinvestment Development Authority	2013.0	544.0
+38596	http://www.brooklawn.us/	Brooklawn	2007.0	0.0
+38597	http://www.rosellepark.net/	Roselle Park Borough	2002.0	484.0
+38598	http://www.lindenpl.org	Linden Free Public Library	2002.0	75.0
+38599	http://www.avesnj.org	AVALON ELEMENTARY SCHOOL (0170)	2010.0	9.0
+38600	http://www.oceanschools.org	Township of Ocean Schools (3810)	2013.0	1015.0
+38601	http://bboed.org/site/default.aspx?PageID=1	Bayonne Board of Education (0220)	2013.0	18.0
+38602	http://www.buddlakefire.org/	Budd Lake Volunteer Fire Department	1998.0	408.0
+38603	http://www.stillwaternj.us/	Stillwater Township	2004.0	31.0
+38604	http://www.nj.gov/comptroller/	Comptroller, Office of the	2008.0	73.0
+38605	http://www.dealborough.com/	Deal	2000.0	15.0
+38606	http://www.mansfieldtwp-nj.com/	Mansfield Township	0.0	56.0
+38607	http://www.absecon-newjersey.org/	Absecon	2003.0	0.0
+38609	http://www.bccls.org/members/hapk.shtml	Harrington Park Public Library	0.0	0.0
+38610	http://www.essex.edu/	Essex                      County College	1996.0	1724.0
+38611	http://www.sandystonwalpack.org	Sandyston-Walpack Consolidated School (4650)	2007.0	11.0
+38612	http://www.elmwoodparkschools.org	Elmwood Park Board of Education (1345)	2010.0	387.0
+38613	http://www.nhvweb.net	North Hunterdon-Voorhees Regional High School District (3660)	2000.0	1001.0
+38614	http://www.lebtwpk8.org	Lebanon Township School District (2600)	2000.0	479.0
+38615	http://www.shrewsburyboro.com/	Shrewsbury Borough	2004.0	55.0
+38617	http://www.hollandtownship.org/	Holland Township	2002.0	34.0
+38618	http://shsms.org/	Secaucus High School	2008.0	40.0
+38619	http://www.pemberton-twp.com/	Pemberton Township	0.0	150.0
+38620	http://www.mtholly.k12.nj.us	Mount Holly Township Public Schools (3430)	0.0	493.0
+38621	http://www.ridgewood.k12.nj.us/	Ridgewood Public Schools (4390)	1996.0	233.0
+38623	https://www.lumberton.k12.nj.us/	Lumberton Township Board of Education (2850)	1997.0	55.0
+38624	http://www.sergeantsville.org/	Sergeantsville Volunteer Fire Company	2004.0	483.0
+38626	http://www.efsk-6.org/site/default.aspx?PageID=1	ESSEX FELLS SCHOOL DISTRICT (1400)	2013.0	11.0
+38627	http://www.monroetwplibrary.org	Monroe Twp Public Library-Middlesex	2003.0	2402.0
+38628	http://www.mtsd.k12.nj.us/site/default.aspx?PageID=1	Montgomery Township School District (3320)	2011.0	10.0
+38629	http://www.oldmanstownship.com/	Oldmans Township	2001.0	35.0
+38630	http://www.stocktonschool.us	Stockton Borough School District (5050)	2003.0	249.0
+38631	http://www.cccnj.edu/	Cumberland                      County College	2002.0	224.0
+38632	http://www.jeffersonlibrary.net	Jefferson Township Public Library	2003.0	116.0
+38633	http://www.chesterfieldtwp.com/	Chesterfield Township	2003.0	17.0
+38634	http://nj.gov/	State Government	2002.0	5840.0
+38636	http://www.nbpschools.net/	New Brunswick Public Schools (3530)	2008.0	31.0
+38638	http://jcccsonline.org/	Jersey City Community Charter School (6910 - 940)	2009.0	70.0
+38639	http://www.longhill.org/site/default.aspx?PageID=1	Long Hill Township School District (4000)	2013.0	26.0
+38640	http://www.hclibrary.us/	High Bridge Public Library	2005.0	99.0
+38641	http://www.wayneschools.com	WAYNE TOWNSHIP PUBLIC SCHOOLS (5570)	1999.0	568.0
+38642	http://rutherford-nj.com/	Rutherford	2000.0	390.0
+38643	http://www.garfieldnj.org/	Garfield	2007.0	441.0
+38644	http://www.state.nj.us/corrections/	Corrections	1997.0	4.0
+38646	http://www.glassboroschools.us/site/default.aspx?PageID=1	Glassboro Public Schools (1730)	2011.0	8.0
+38647	http://www.state.nj.us/gspt/	Garden State Preservation Trust	2001.0	10.0
+38648	http://www.hawthorne.k12.nj.us	Hawthorne Board of Education (2100)	2000.0	740.0
+38649	http://www.willingboro.org	Willingboro Public Library	1998.0	2509.0
+38650	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code4870&maxhits=650	South Hackensack (4870)	0.0	1.0
+38651	http://www.bcit.cc/site/default.aspx?PageID=1	BURLINGTON COUNTY INSTITUTE OF TECHNOLOGY (0610)	2012.0	7.0
+38653	http://www.lavallette.org/	Lavallette Borough	2001.0	130.0
+38654	http://www.nj.gov/mvc/	Motor Vehicle Commission	2003.0	44.0
+38655	http://www2.middlesexcc.edu/	Middlesex                      County College	2002.0	251.0
+38656	http://www.townshipoftabernacle-nj.gov/	Tabernacle	2004.0	10.0
+38657	http://www.state.nj.us/oal/	Administrative Law, Office of	2001.0	53.0
+38658	http://www.njefa.com/	Educational Facilities Authority (NJEFA)	2001.0	79.0
+38659	http://www.plumsted.org/	Plumsted Township	2000.0	37.0
+38660	http://www.neptunepubliclibrary.org	Neptune Township Public Library	2001.0	55.0
+38661	http://www.montclairnjusa.org/	Montclair	0.0	6589.0
+38662	http://www.hamiltonpl.org	Hamilton Township Free Public Library	2001.0	2.0
+38663	http://www.bccls.org/members/ftle.shtml	Fort Lee Free Public Library	0.0	0.0
+38664	http://www.salemnj.org	SALEM CITY BOARD OF EDUCATION (4630)	2001.0	2244.0
+38665	http://www.cjacsarts.org/	CENTRAL JERSEY ARTS CHARTER SCHOOL (6217 - 910)	2008.0	4.0
+38666	http://www.pace.charter.k12.nj.us	Pace Charter SChool of Hamilton (7500 - 900)	2008.0	10.0
+38668	http://dhs.dover-nj.org/home.aspx	Dover High School	0.0	29.0
+38669	http://www.elsinboroschool.org	Elsinboro Township School District (1350)	2004.0	9.0
+38672	http://www.ventnorcity.org/	Ventnor City	1998.0	39.0
+38673	http://www.franklintownship.com/	Franklin Township	2000.0	108.0
+38674	http://www.chartertech.org	chARTer~TECH High School for the Performing Arts (7410 - 940)	0.0	720.0
+38676	http://www.parkridge.k12.nj.us	Park Ridge Public Schools (3940)	2000.0	360.0
+38677	http://www.highlandselementary.org	Highlands Elementary (2160)	2004.0	0.0
+38678	http://www.rih.org/page.cfm?p=11	Ramapo High School	2008.0	2945.0
+38680	http://www.hopetownship.com/	Hope Township	2004.0	50.0
+38681	http://www.lyndhurstlibrary.org/	Lyndhurst Free Public Library	2010.0	1.0
+38682	http://www.fairfieldtownshipnj.org/	Fairfield Township	2011.0	83.0
+38683	http://www.rockboro.org	Rockaway Borough Public Schools (4480)	0.0	301.0
+38685	http://www.tewksburytwp.net/	Tewksbury	2002.0	576.0
+38686	http://www.salemcitynj.com/	Salem City	2002.0	22.0
+38687	http://www.carteretschools.org	Carteret Public Schools (0750)	0.0	785.0
+38689	http://www.howell.k12.nj.us	HOWELL TOWNSHIP PUBLIC SCHOOLS (2290)	2000.0	411.0
+38691	http://www.lambertvillenj.org/	Lambertville	2006.0	84.0
+38692	http://www.mountainsideschools.org/	MOUNTAINSIDE SCHOOL DISTRICT (3470)	2004.0	84.0
+38694	http://www.jefftwp.org/district/district.shtml	Jefferson Township (2380)	2010.0	13.0
+38696	http://www.seagirtboro.com/	Sea Girt Borough	2003.0	87.0
+38697	http://obamagreencharterhigh.sharpschool.net/home/	THE BARACK OBAMA GREEN CHARTER HIGH (6033 - 902)	2010.0	0.0
+38698	http://www.gti.net/mocolib1/	Morris County Library	1999.0	88.0
+38701	http://www.weehawken.k12.nj.us	Weehawken Board of Education (5580)	2000.0	28.0
+38702	http://www.ucnj.com/	Union City	2004.0	39.0
+38703	http://www.montaguenj.org/	Montague	1999.0	217.0
+38704	http://www.hardinglibrary.org	Harding Township Library	2008.0	17.0
+38705	http://www.westampton.com/	Westampton Township	2000.0	98.0
+38706	https://www.facebook.com/WVFAS	Weehawken Volunteer First Aid Squad	0.0	798.0
+38707	http://www.co.cumberland.nj.us/content/173/211/1983.aspx	Stow Creek Township	2008.0	9.0
+38708	http://www.bhprsd.org/site/default.aspx?PageID=1	Black Horse Pike Regional School District (0390)	2012.0	6.0
+38709	http://www.townshipoflower.org/	Lower Township	2003.0	83.0
+38710	http://www.northbrunswicklibrary.org	North Brunswick Free Public Library	2006.0	31.0
+38712	http://www.crhsd.org/Pages/Home.aspx	CUMBERLAND REGIONAL SCHOOL DISTRICT (0997)	2009.0	92.0
+38713	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code0810&maxhits=650	Chesilhurst Board of Education (0810)	0.0	1.0
+38714	http://www.montagueschool.org	MONTAGUE TOWNSHIP SCHOOL DISTRICT (3300)	2002.0	20.0
+38715	http://www.pequannock.org	Pequannock Township School District (4080)	0.0	598.0
+38716	http://www.pennsaukenlibrary.org	Pennsauken Free Public Library	2004.0	72.0
+38717	http://www.nj.gov/fmera/	Fort Monmouth Economic Revitalization Authority (FMERA)	2011.0	82.0
+38718	http://www.bloomingdalenj.org/	Bloomingdale Borough	2002.0	149.0
+38720	http://www.palmyra.k12.nj.us/	Palmyra Public Schools (3920)	2001.0	40.0
+38721	http://www.lmxac.org/milltown/	Milltown Public Library	1998.0	18.0
+38722	http://www.bordentowntownship.com/	Bordentown Township	2001.0	200.0
+38723	http://www.coltsneckschools.org/coltsneckschools/site/default.asp	Colts Neck Township School District (0945)	2008.0	55.0
+38724	http://www.gcsssd.org	Gloucester County Special Services School District (1774)	0.0	1531.0
+38725	http://newmilfordschools.org	NEW MILFORD SCHOOL DISTRICT (3550)	2001.0	2.0
+38726	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6063&maxhits=650	Camden Community Charter School (6063 - 945)	0.0	1.0
+38727	http://www.state.nj.us/governor/	Governor, Office of the	1998.0	98.0
+38728	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6089&maxhits=650	Compass Academy Charter School (6089 - 976)	0.0	1.0
+38729	http://netcong.org/	Netcong	1998.0	41.0
+38731	http://www.co.bergen.nj.us/index.aspx?NID=778	Bergen County Emergency Management	2013.0	1627.0
+38734	http://www.newegypt.us	Plumsted Township Board of Education (4190)	2002.0	49.0
+38735	http://www.runnemedenj.org/	Runnemede Borough	2008.0	61.0
+38736	http://www.princetonnj.gov	Princeton	2012.0	299.0
+38737	http://www.demarestnj.net/	Demarest Borough	2002.0	51.0
+38738	http://www.pittsgrove.net	PITTSGROVE TOWNSHIP BOARD OF EDUCATION (4150)	2012.0	1313.0
+38740	http://www.voorheesnj.com/	Voorhees	1998.0	79.0
+38741	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code5170&maxhits=650	Teterboro (5170)	0.0	1.0
+38742	http://www.state.nj.us/dcf/	Children and Families	2006.0	285.0
+38744	http://ci.perthamboy.nj.us/html/public_library.html	Perth Amboy Free Public Library	2002.0	0.0
+38745	http://www.linden-nj.org/	Linden	2002.0	76.0
+38746	http://www.cityofrahway.com/	Rahway	1998.0	14.0
+38747	http://www.moonachie.us/	Moonachie Borough	2006.0	38.0
+38749	http://kinnelonlibrary.org/	Kinnelon Public Library	2000.0	61.0
+38750	http://www.elizpl.org	Elizabeth Free Public Library	2002.0	59.0
+38751	http://www.hopewelltwp-nj.com/	Hopewell Township	2004.0	20.0
+38752	http://www.bloomsburynewjersey.com/	Bloomsbury Borough	2007.0	77.0
+38753	http://www.pgborough.com/	Peapack-Gladstone Borough	2011.0	263.0
+38754	http://www.rutherfordschools.org	Rutherford Public Schools (4600)	2004.0	350.0
+38756	http://www.goldendoorschool.org	Jersey City Golden Door Charter School (6915 - 950)	2003.0	51.0
+38757	http://www.glenrocknj.org	GLEN ROCK PUBLIC SCHOOL DISTRICT (1760)	2001.0	458.0
+38758	http://www.rocktwp.org	Rockaway Township School District (4490)	2013.0	5.0
+38759	http://www.southplainfield.lib.nj.us	South Plainfield Free Public Library	2001.0	127.0
+38760	http://www.randolphnj.org/library	Randolph Township Free Public Library	2005.0	1431.0
+38761	http://www.linwoodlibrary.com	Linwood Public Library	2004.0	90.0
+38763	http://www.maplewoodlibrary.org	Maplewood Memorial Library	2001.0	388.0
+38764	http://www.pinehillboronj.com/	Pine Hill Borough	2002.0	70.0
+38765	http://ewing.k12.nj.us/site/default.aspx?PageID=1	Ewing Township Public Schools (1430)	2012.0	18.0
+38766	http://www.co.somerset.nj.us/	Somerset County	1998.0	331.0
+38767	http://www.carteretfreepubliclibrary.org	Carteret Free Public Library	2007.0	1376.0
+38768	http://www.boroughofwoodbine.net/	Woodbine Borough	2002.0	6.0
+38769	http://www.bellevilleschools.org	BELLEVILLE PUBLIC SCHOOLS (0250)	2012.0	289.0
+38770	http://www.shrhs.org/	S Hunterdon Regional High School	2000.0	750.0
+38771	http://www.roberttreatacademy.org	Robert Treat Academy Charter School (7730 - 970)	2002.0	15.0
+38773	http://www.ramseylibrary.org	Ramsey Free Public Library	2005.0	12.0
+38774	http://www.camdencounty.com/	Camden County	1999.0	766.0
+38775	http://www.state.nj.us/csc/	Civil Service Commission	2009.0	625.0
+38776	http://www.lavallettek12.org	Lavallette Borough Board of Education (2550)	2005.0	31.0
+38777	http://www.southhackensacknj.org/	South Hackensack Township	2007.0	155.0
+38778	http://www.somervillenjk12.org/site/default.aspx?PageID=1	SOMERVILLE PUBLIC SCHOOLS (4820)	2011.0	36.0
+38779	http://www.southharrison.k12.nj.us/site/default.aspx?PageID=1	SOUTH HARRISON TOWNSHIP SCHOOL DISTRICT (4880)	2012.0	11.0
+38780	http://www.rvsnj.org	Boonton Township Public School (0460)	2001.0	9.0
+38781	http://www.gloucestertownshipschools.org	GLOUCESTER TOWNSHIP PUBLIC SCHOOLS (1780)	0.0	4854.0
+38782	http://www.monroe.k12.nj.us/site/default.aspx?PageID=1	MONROE TOWNSHIP BOARD OF EDUCATION (3290)	2013.0	12.0
+38784	http://www.dunellenborough.net/	Dunellen	2011.0	32.0
+38785	http://www.stratfordnj.org/library.htm	Stratford Public Library	2002.0	41.0
+38787	http://www.lyndhurstnj.org/	Lyndhurst	2006.0	39.0
+38788	http://district.hillsidek12.org/	Hillside Board of Education (2190)	2006.0	34.0
+38789	http://www.waldwick.k12.nj.us/waldwick/high	Waldwick High School	2010.0	6.0
+38790	http://www.epcs.ws	Englewood on the Palisades Charter School (6430 - 930)	2001.0	37.0
+38791	http://www.wyckoff-nj.com/	Wyckoff	1996.0	395.0
+38792	http://www.haworth.org	HAWORTH PUBLIC SCHOOL (2090)	1999.0	45.0
+38793	http://newarklegacy.org/	Newark Legacy Charter School (6037 - 922)	2010.0	1965.0
+38794	http://www.vineland.org	CITY OF VINELAND BOARD OF EDUCATION (5390)	1998.0	221.0
+38795	http://www.wpunj.edu/	William Paterson University	2001.0	1688.0
+38796	http://www.closterboro.com/	Closter Borough	1999.0	0.0
+38797	http://www.sayreville.com/	Sayreville	1998.0	515.0
+38798	http://www.butlerboe.org	Butler Public Schools (0630)	2011.0	225.0
+38799	http://www.abseconlibrary.org	Absecon Public Library	2009.0	2.0
+38800	http://www.somerset.lib.nj.us/	Somerset County Library	1997.0	213.0
+38801	http://www.nhanover.com/site/default.aspx?PageID=1	North Hanover Township School District (3650)	2012.0	14.0
+38802	http://www.newprov.org/	New Providence	1999.0	120.0
+38803	http://www.delsearegional.us	DELSEA REGIONAL HIGH SCHOOL DISTRICT (4940)	2007.0	83.0
+38804	http://www.uclibrary.org	Union City Public Library	2004.0	14.0
+38805	http://riversidetwp.org/	Riverside Township	0.0	34.0
+38806	http://www.state.nj.us/lps/ca/boards.htm	Professional Boards and Advisory Committees	1997.0	506.0
+38809	http://www.montlib.com	Montclair Public Library	1998.0	2.0
+38810	http://waterfordtwplibrary.org	Waterford Township Public Library	2013.0	309.0
+38812	http://www.clueslibs.org	Bridgeton Free Public Library	2000.0	7193.0
+38813	http://www.libertytownship.org/	Liberty Township	2000.0	10.0
+38814	http://www.pcti.tec.nj.us/	Passaic County Tech Institute	1998.0	385.0
+38815	http://www.woodlynnenj.com/	Woodlynne	2007.0	13.0
+38818	http://www.watchungschools.com	Watchung Borough Public School District (5540)	2001.0	0.0
+38819	http://www.elmerboroughnj.com/	Elmer Borough	2004.0	74.0
+38820	http://www.clintonnj.gov/	Clinton	2004.0	116.0
+38821	http://www.northernhighlands.org/site/default.aspx?PageID=1	Northern Highlands Regional High School (3700)	2011.0	14.0
+38822	http://www.state.nj.us/drbc/	Delaware River Basin Commission	1997.0	689.0
+38823	http://www.sussex.nj.us/cit-e-access/webpage.cfm?tid=7&tpid=4540	Andover Borough	0.0	13.0
+38824	http://www.franklintwpnj.org/	Franklin Township	2001.0	10232.0
+38825	http://www.newmilfordnjpd.org/	New Milford Police Department	2004.0	22.0
+38826	http://phs.prs.k12.nj.us/	Princeton High School	2004.0	31.0
+38827	http://northstar.uncommonschools.org/	North Star Academy Charter Schools of Newark (7320 - 960)	2011.0	163.0
+38830	http://hsbc.burlington-nj.net/	Burlington City High School	0.0	1183.0
+38831	http://www.fboe.org	Franklin Borough School District (1570)	2002.0	66.0
+38833	http://www.millstoneboro.org/	Millstone Borough	2003.0	99.0
+38834	http://www.hamptontownshipnj.org/?CFID=77570929&CFTOKEN=23c3e91399123398-B200A49C-3048-6038-92D532E504EAA413&jsessionid=3230a7b900cdc78490b3462f2c475a671313	Hampton Township	0.0	60.0
+38835	http://www.pps-nj.us/pps/	PLEASANTVILLE PUBLIC SCHOOL DISTRICT (4180)	2008.0	5.0
+38836	http://www.lafayettetwp.org/?CFID=77570931&CFTOKEN=627ef4b48de496de-B200A6EE-3048-6038-928BE271E088C6FB&jsessionid=32302e3217fb4832c16a207a6f7b3b50105e	Lafayette Township	0.0	35.0
+38837	http://www.logan-twp.org	Logan Township	2001.0	19.0
+38838	http://loki.stockton.edu/	The Richard Stockton College of New Jersey	1996.0	1449.0
+38840	http://www.westcapemay.us/	West Cape May Borough	2004.0	30.0
+38841	http://www.hanovertownship.com/	Hanover Township	2000.0	104.0
+38842	http://www.avonschool.com/site/default.aspx?PageID=1	AVON-BY-THE-SEA (0180)	2012.0	21.0
+38844	http://www.hainesporttownship.com/	Hainesport	2003.0	33.0
+38845	http://www.blairstown-nj.org/	Blairstown Township	2007.0	47.0
+38846	http://www.wmchs.org/	West Morris Central High School	1998.0	42.0
+38847	http://www.cjcollegeprep.org	Central Jersey College Prep Charter School (6018 - 900)	2012.0	245.0
+38848	http://www.state.nj.us/localmandates/	Local Mandates, Council on	1998.0	35.0
+38849	http://www.rowan.edu/home/	Rowan University	1998.0	129.0
+38850	http://www.srsd.net	Southern Regional School District (4950)	2004.0	361.0
+38851	http://montvale.bccls.org	Montvale Free Public Library	2007.0	129.0
+38852	http://www.sboe.us	SECAUCUS BOARD OF EDUCATION (4730)	2011.0	301.0
+38853	http://www.mountainside-nj.com/	Mountainside	1998.0	325.0
+38855	http://www.fortleenj.org/	Fort Lee	2000.0	4325.0
+38856	http://www.milltownnj.org/	Milltown	2003.0	18.0
+38857	http://www.westlongbranch.org/	West Long Branch Borough	2001.0	908.0
+38858	http://www.cmclibrary.org	Cape May County Library	2007.0	1467.0
+38859	http://www.eastampton.k12.nj.us	Eastampton Township School District (1250)	0.0	583.0
+38860	http://www.cinnaminsonfire.org/	Cinnaminson Fire Department	1999.0	170.0
+38861	http://www.nburlington.com	Northern Burlington County Regional School District (3690)	0.0	445.0
+38862	http://palisadespark.bccls.org/	Palisades Park Free Public Library	2007.0	28.0
+38863	http://www.woodbridgelibrary.org	Woodbridge Public Library	2007.0	1092.0
+38864	http://www.linwoodcity.org/	Linwood City	2004.0	40.0
+38866	http://www.sussex.nj.us/cit-e-access/webpage.cfm?tid=7&tpid=4533	Branchville Borough	0.0	1664.0
+38867	http://www.hackensack.org/	Hackensack	1998.0	1036.0
+38869	http://www.tintonfalls.com/	Tinton Falls	2001.0	556.0
+38870	http://www.rockawaytownship.org/	Rockaway Township	2001.0	70.0
+38872	http://nj.gov/emp/	Energy Master Plan	2006.0	17.0
+38873	http://www.clayton.k12.nj.us	CLAYTON PUBLIC SCHOOLS (0860)	2000.0	2.0
+38874	http://www.northbergen.org/	North Bergen	2001.0	427.0
+38875	http://www.millstone.nj.us/	Millstone Township	1998.0	279.0
+38876	http://www.srsd.net/highschool/	Southern Regional High School	2005.0	60.0
+38877	http://www.leoniaschools.org/subsite/lhs	Leonia High School	2010.0	0.0
+38878	http://www.ptbeach.com/site/default.aspx?PageID=1	Point Pleasant Beach Board of Education (4220)	2012.0	31.0
+38879	http://www.twp.pennsauken.nj.us/	Pennsauken Township	2001.0	403.0
+38880	http://www.wmtl.org	West Milford Township Library	2006.0	265.0
+38881	http://www.eastampton.com/	Eastampton	1998.0	558.0
+38882	http://www.nj.gov/transportation/	Transportation	2002.0	1357.0
+38884	http://www.bogotaboe.com	Bogota Public Schools (0440)	2007.0	16.0
+38885	http://www.livingston.org/site/default.aspx?PageID=1	Livingston Public Schools (2730)	2011.0	34.0
+38888	http://www.rockyhill-nj.gov/	Rocky Hill	2003.0	90.0
+38889	http://www.kean.edu	Kean University	1997.0	863.0
+38890	http://www.lowerallowayscreek-nj.gov/	Lower Alloways Creek Township	2011.0	47.0
+38892	http://mountarlingtonnj.org/	Mount Arlington	2011.0	122.0
+38894	http://www.cedargrove.k12.nj.us/	CEDAR GROVE TOWNSHIP SCHOOL DISTRICT (0760)	0.0	625.0
+38896	http://www.pohatcong.org	Pohatcong Township School District (4200)	2010.0	21.0
+38897	http://www.woodcliff-lake.com/site/default.aspx?PageID=1	Woodcliff Lake School District (5880)	2012.0	5.0
+38898	http://www.blairstownelem.net	Blairstown Elementary Township School District (0400)	2000.0	28.0
+38899	http://www.denvillelibrary.org/drupal/	Denville Free Public Library	2011.0	710.0
+38900	http://www.guttenberg.k12.nj.us	GUTTENBERG SCHOOL DISTRICT (1850)	2000.0	0.0
+38901	http://www.mccowan-pitman.org	Mccowan Memorial Library	2008.0	14.0
+38903	http://www.plainfieldlibrary.info/	Plainfield Free Public Library	2003.0	94.0
+38904	http://westcape.nj.schoolwebpages.com/education/school/school.php?sectionid=2	WEST CAPE MAY ELEMENTARY (5610)	2004.0	32.0
+38905	http://www.mtephraimschools.org	MT. EPHRAIM SCHOOL DISTRICT (3420)	2002.0	5.0
+38907	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code4120&maxhits=650	Pine Valley (4120)	0.0	1.0
+38909	http://haddonfield.k12.nj.us	HADDONFIELD BOARD OF EDUCATION (1900)	1997.0	92.0
+38910	http://www.ringwoodschools.org	Ringwood School District (4400)	2002.0	4.0
+38911	http://www.rumsonschool.org	Rumson Borough (4570)	2008.0	0.0
+38912	http://www.co.ocean.nj.us/	Ocean County	2000.0	414.0
+38913	http://www.state.nj.us/acps/	Police Standards, Advisory Committee on	2006.0	25.0
+38914	http://monroetownshipnj.org/	Monroe Township	2001.0	131.0
+38915	http://www.henryhudsonreg.k12.nj.us	Henry Hudson Regional School District (2120)	1998.0	0.0
+38916	http://www.ringwoodnj.net/	Ringwood	2000.0	170.0
+38917	http://memorial.jacksonsd.org/home.aspx	Jackson Memorial High School	0.0	26.0
+38918	http://www.keyportonline.com/	Keyport Borough	2002.0	15.0
+38919	http://www.twpofwashington.us/	Washington Township	2002.0	98.0
+38920	http://www.butlerlibrary.org	Butler Public Library	2006.0	79.0
+38922	http://jphcs.org	John P. Holland Charter School (6079 - 964)	2013.0	189.0
+38923	http://www.historicwoodstown.org/	Woodstown Borough	2002.0	34.0
+38924	http://www.essex-countynj.org/	Essex County	2006.0	1432.0
+38925	http://www.northwarren.org	North Warren Regional School District (3675)	2004.0	121.0
+38927	http://cliffsidepark.bccls.org	Cliffside Park Free Public Library	2007.0	41.0
+38929	http://www.middletownship.com/	Middle Township	2001.0	2.0
+38930	http://www.avalonboro.org/	Avalon	2001.0	120.0
+38931	http://www.millvillenj.gov	MILLVILLE BOARD OF EDUCATION (3230)	2008.0	537.0
+38932	http://www.wnypl.org	West New York Free Public Library	2006.0	16.0
+38935	http://www.sayrevillelibrary.org	Sayreville Free Public Library	2007.0	58.0
+38936	http://scsssd.org	Salem County Special Services School District (4635)	2011.0	38.0
+38937	http://watchungnj.gov/	Watchung	2013.0	128.0
+38938	http://www.mtolivetwp.org/	Mount Olive Township	1997.0	907.0
+38939	http://rrlcs.com	Renaissance Regional Leadership Charter School (6044 - 927)	2011.0	12.0
+38940	http://northwildwood.com/	North Wildwood	2001.0	121.0
+38942	http://www.stillwaterschool.net	STILLWATER TOWNSHIP SCHOOL (5040)	1999.0	13.0
+38944	http://unitycharterschool.org/	Unity Charter School (8050 - 990)	2011.0	111.0
+38945	http://www.rahway.net	Rahway Public School District (4290)	1998.0	7.0
+38946	http://www.roxburylibrary.org	Roxbury Township Public Library	2001.0	37.0
+38947	http://www.freeholdboro.org/	Freehold Borough	2004.0	98.0
+38948	http://www.pacsnewark.org	Phillip's Academy Charter School (6094 - 968)	2012.0	161.0
+38950	http://www.mendhamtwp.org/site/default.aspx?PageID=1	Mendham Township Board of Education (3100)	2013.0	7.0
+38951	http://www.haddonfieldlibrary.org	Haddonfield Public Library	2006.0	138.0
+38952	http://www.bridgeton.k12.nj.us	Bridgeton Public Schools (0540)	2003.0	329.0
+38953	http://www.piscatawaynj.org/	Piscataway Township	2002.0	538.0
+38954	http://www.fbpd.net/	Freehold Borough Police Department	2002.0	23.0
+38955	http://www.berkeleyheightstwp.com/	Berkeley Heights Township	2001.0	22.0
+38956	http://www.mountainsidelibrary.org	Mountainside Free Public Library	2002.0	30.0
+38957	http://www.branchburg.nj.us/	Branchburg	1998.0	106.0
+38958	http://emersonlibrary.org/wp/	Emerson Public Library	2013.0	24.0
+38959	http://www.cityofbridgeton.com/	Bridgeton	2003.0	75.0
+38960	http://www.lrhsd.org/site/default.aspx?domainid=376	Cherokee High School	2014.0	66.0
+38961	http://www.alphaboro.org/	Alpha Borough	2002.0	22.0
+38962	http://www.clementonborough.com/	Clementon Borough	1998.0	26.0
+38963	http://www.collingswood.com/	Collingswood Borough	1998.0	913.0
+38965	http://www.mptcs.org	Marion P. Thomas Charter School (7210 - 940)	2007.0	169.0
+38966	http://www.lakehurstschool.org/site/default.aspx?PageID=1	LAKEHURST ELEMENTARY SCHOOL DISTRICT (2500)	2013.0	7.0
+38968	http://www.hpreg.org	Hanover Park Regional High School District (1990)	0.0	180.0
+38969	http://www.morrisparkpolice.org/	Morris County Park Police	2003.0	17.0
+38970	http://www.ci.carteret.nj.us/	Carteret	1996.0	423.0
+38971	http://www.bhpolice.org/	Berkeley Heights Police	2006.0	2.0
+38973	http://www.veronanj.org/	Verona	2003.0	125.0
+38975	http://www.spfk12.org/site/default.aspx?PageID=1	Scotch Plains-Fanwood School District (4670)	2013.0	134.0
+38976	http://www.roselandnjboe.org	Roseland School district (4530)	2012.0	695.0
+38977	http://www.rpps.net	Ridgefield Park Township (4380)	2001.0	9.0
+38978	http://www.lebanontownship.net/	Lebanon Township	2001.0	37.0
+38979	http://www.njht.org/	Historic Trust (NJHT)	1999.0	592.0
+38980	http://www.acitech.org	Atlantic County Vocational School District (0120)	2003.0	901.0
+38983	http://MercerSpecialServices.org/	Mercer County Special Services School District (3103)	2009.0	449.0
+38984	http://www.oceangate-nj.gov/mayor-and-borough-council.html	Ocean Gate	2014.0	21.0
+38985	http://www.riverdell.org/site/default.aspx?PageID=1	River Dell Regional School District (4405)	2012.0	28.0
+38986	http://www.greenwich.k12.nj.us	Greenwich Township School District (1830)	2001.0	2688.0
+38987	http://eht.k12.nj.us	EGG HARBOR TOWNSHIP SCHOOL DISTRICT (1310)	2000.0	0.0
+38988	http://www.fairhaven.lib.nj.us	Fair Haven Public Library	2002.0	5.0
+38989	http://www.monmouthregional.net/mrhs	Monmouth Regional High School	2004.0	9.0
+38991	http://www.readingtontwp.org/	Readington Township	2005.0	207.0
+38992	http://www.westamptonschools.org/education/district/district.php?sectionid=1	Westampton Township Public School District (5720)	2008.0	3.0
+38993	http://www.jacksonsd.org	Jackson Township School District (2360)	2005.0	68.0
+38994	http://www.lakehurstnj.org/	Lakehurst	2000.0	57.0
+38995	http://www.rochelleparknj.gov/	Rochelle Park Township	2003.0	55.0
+38996	http://www.state.nj.us/ttfa/	Transportation Trust Fund Authority (TTFA)	2007.0	26.0
+38997	http://summitlibrary.org	Summit Free Public Library	2001.0	3566.0
+38998	http://carlstadt.bccls.org	William E. Dermody Free Public Library	2007.0	12.0
+38999	http://www.njcu.edu/programs/uachs/	University Academy Charter High School (8060 - 990)	2004.0	18.0
+39001	http://twp.stafford.nj.us/	Stafford Township	1998.0	422.0
+39003	http://www.njsp.org/	State Police, New Jersey	2000.0	172.0
+39004	http://www.cinnaminsonnj.org/	Cinnaminson Township	2006.0	46.0
+39005	http://www.pennsville.org/	Pennsville	2000.0	0.0
+39006	http://www.riveredgeschools.org	River Edge Schools (4410)	2002.0	37.0
+39007	http://www.mapleshade.com/	Maple Shade Township	1998.0	0.0
+39008	http://www.kinnelonpublicschools.org	Kinnelon Board of Education (2460)	2001.0	17.0
+39009	http://www.oldtappanschools.org/site/default.aspx?PageID=1	OLD TAPPAN PUBLIC SCHOOL DISTRICT (3850)	2011.0	9.0
+39010	http://www.whartonnj.com/	Wharton	1998.0	84.0
+39011	http://www.mahwah.k12.nj.us	Mahwah Township Public Schools (2900)	1998.0	20.0
+39012	http://gboe.org	GARFIELD PUBLIC SCHOOL DISTRICT (1700)	2000.0	105.0
+39013	http://www.laceytownship.org/	Lacey Township	1999.0	122.0
+39014	http://www.erboe.net	East Rutherford School District (1230)	2004.0	4714.0
+39015	http://www.saddleriver.org/	Saddle River	1998.0	87.0
+39016	http://www.ramsey.k12.nj.us/site/default.aspx?PageID=1	RAMSEY PUBLIC SCHOOLS (4310)	2011.0	7.0
+39017	http://www.sussex.nj.us/cit-e-access/webpage.cfm?tid=7&tpid=1113	Walpack Township	0.0	92.0
+39018	http://www.greatoakscharter.org	Great Oaks Charter School (6053 - 917)	2011.0	94.0
+39019	http://www.MonroeTPL.org/	Monroe Twp Public Library-Gloucester	2013.0	11.0
+39021	http://www.krhs.net	Kittatinny Regional School District (2465)	1998.0	46.0
+39022	http://audubonnj.com/	Audubon Borough	0.0	55.0
+39024	http://www.belviderenj.com	Belvidere Free Public Library	2000.0	35.0
+39025	http://www.centralreg.k12.nj.us/	Central Regional High School	0.0	882.0
+39026	http://www.bellmawr.com/	Bellmawr	1998.0	25.0
+39027	http://www.highlandsnj.com/	Highlands	1998.0	38.0
+39028	http://www.byramtwp.org/	Byram Township	2001.0	2.0
+39029	http://www.ffpl.org	Anthony Pio Costa Memorial Library	2002.0	227.0
+39030	http://www.riverdalenj.gov/	Riverdale Borough	2007.0	68.0
+39031	http://www.lindenwoldnj.gov/	Lindenwold	2008.0	119.0
+39032	http://borofarhills.tripod.com/	Far Hills Borough	2004.0	17.0
+39033	http://www.bernards.org/	Bernards Township	1996.0	285.0
+39034	http://www.rtlibrary.org	Rockaway Township Free Public Library	2005.0	47.0
+39035	http://www.brielle.k12.nj.us/education/staff/staff.php?sectionid=2&url_redirect=1	BRIELLE BORO (0560)	2008.0	123.0
+39036	http://www.rpsnj.org	Riverdale School District (4440)	2009.0	20.0
+39037	http://www.monroetwp.k12.nj.us/	MONROE TOWNSHIP BOARD OF EDUCATION (3280)	1999.0	356.0
+39038	http://www.bcls.lib.nj.us	Burlington County Library	2003.0	2757.0
+39040	http://www.historicgreenwichnj.org	Greenwich Township	2011.0	39.0
+39042	http://www.lfnj.com/	Little Falls	2001.0	5.0
+39044	http://www.delrantownship.org/	Delran Township	2007.0	73.0
+39045	http://www.nj.gov/pvsc/	Passaic Valley Sewerage Commission	2012.0	77.0
+39046	http://www.pemberton.k12.nj.us	Pemberton Township Schools (4050)	1999.0	106.0
+39047	http://www.state.nj.us/agriculture/	Agriculture	1997.0	1348.0
+39048	http://www.belvidere-nj.us	Belvidere Town	2012.0	39.0
+39049	http://www.maywoodboro.org/	Maywood	2010.0	87.0
+39050	http://www.somervillenj.org/	Somerville	2001.0	391.0
+39051	http://www.acboe.org	Atlantic City Public Schools (0110)	2000.0	78.0
+39054	http://www.greenhills.org/education/district/district.php?sectionid=8563	Green Township School District (1800)	2012.0	2.0
+39056	http://www.eastorange-nj.org/	East Orange	2002.0	53.0
+39057	http://www.littlesilverschools.org	LITTLE SILVER BORO SCHOOL DISTRICT (2720)	2003.0	0.0
+39058	http://www.sayrevillek12.net	Sayreville Public Schools (4660)	2001.0	35.0
+39059	http://metuchenschools.org/mhs	Metuchen High School	2004.0	0.0
+39060	http://www.linwoodschools.org	Linwood City School District (2680)	2000.0	164.0
+39061	http://www.prospectparknj.com	Prospect Park (4270)	2007.0	0.0
+39063	http://www.boontontownship.com/	Boonton Township	2000.0	688.0
+39064	http://www.sbschools.org	South Brunswick School District (4860)	2000.0	1219.0
+39065	http://www.hobokennj.org/	Hoboken	2002.0	957.0
+39067	http://www.htps.org	Hardyston Township School District (2030)	2001.0	51.0
+39069	http://mountlaurel.com/	Mount Laurel	2000.0	62.0
+39070	http://www.passaiccountynj.org/	Passaic County	2001.0	1284.0
+39071	http://www.npelem.com	National Park Boro School District (3490)	2008.0	47.0
+39072	http://thecityofbeverly.com/	Beverly City	2011.0	242.0
+39073	http://www.montgomery.nj.us/	Montgomery Township	1997.0	47.0
+39074	http://www.mresc.k12.nj.us	Middlesex Regional Educational Services Commission (3145)	2006.0	46.0
+39075	http://www.laurelsprings-nj.com/news.php	Laurel Springs	2004.0	0.0
+39077	http://www.lehsd.k12.nj.us	LITTLE EGG HARBOR TOWNSHIP SCHOOL DISTRICT (2690)	2000.0	59.0
+39078	http://www.ecsnj.org	Elysian Charter School (6420 - 925)	2005.0	13.0
+39079	http://www.emerson.k12.nj.us	Emerson Public Schools (1360)	1998.0	245.0
+39080	http://www.wood-ridgenj.org/	Wood-Ridge	2000.0	2.0
+39081	http://www.parkridgeboro.com/	Park Ridge	2001.0	465.0
+39082	http://www.njleg.state.nj.us/default.asp	State Legislature	2002.0	362.0
+39083	http://www.milltownps.org	Milltown Borough Public Schools (3220)	2001.0	19.0
+39085	http://www.leonianj.gov/	Leonia Borough	2004.0	80.0
+39086	http://www.shipbottom.org/	Ship Bottom Borough	2000.0	56.0
+39087	http://www.sbpl.info	South Brunswick Public Library	2005.0	85.0
+39088	http://www.uhcs-newark.org	University Heights Charter School (8065 - 980)	2009.0	271.0
+39089	http://www.hainesport.k12.nj.us	Hainesport Township School District (1910)	2001.0	68.0
+39091	http://www.belmar.com/	Belmar	1996.0	373.0
+39092	http://www.bayheadschool.org	Bay Head Borough (0210)	2001.0	1192.0
+39093	http://www.middletownk12.org/site/default.aspx?PageID=1	MIDDLETOWN TOWNSHIP PUBLIC SCHOOLS (3160)	2013.0	9.0
+39094	http://www.merchantvilleschool.org	Merchantville School District (3110)	0.0	871.0
+39096	http://www.dennistwpschools.org	DENNIS TOWNSHIP (1080)	0.0	184.0
+39097	http://www.manasquanschools.org/site/default.aspx?PageID=1	Manasquan School District (2930)	2011.0	17.0
+39099	http://www.pleasantville-nj.org/	Pleasantville	2000.0	42.0
+39100	http://www.hackettstownlibrary.org	Hackettstown Free Public Library	2007.0	47.0
+39101	http://www.absegami.net/	Absegami High School	1999.0	128.0
+39103	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code4500&maxhits=650	Rockleigh (4500)	0.0	1.0
+39104	http://www.stanhopeschools.org/site/default.aspx	Stanhope (5030)	2013.0	9.0
+39105	http://home.oceancitylibrary.org/index	Ocean City Free Public Library	2009.0	0.0
+39106	http://www.login-libraries.org	Wenonah Free Public Library	2010.0	3.0
+39107	http://www.spfk12.org/spfhs	Scotch Plains Fanwood High School	2002.0	2459.0
+39108	http://www.southorange.org/	South Orange	2000.0	67.0
+39112	http://www.rutherfordlibrary.org	Rutherford Free Public Library	2005.0	28.0
+39113	http://www.mopl.org/drupal/	Mount Olive Public Library	2012.0	34.0
+39114	http://www.iec-nynjct.org/	Interstate Environmental Commission	2001.0	8.0
+39116	http://www.tavistocknj.org/	Tavistock Borough	2006.0	1.0
+39118	http://www.kearnyusa.com/	Kearny	2001.0	335.0
+39119	http://www.warrenhills.org/site/default.aspx?PageID=1	Warren Hills Regional School District (5465)	2010.0	5.0
+39120	http://www.sopl.org	South Orange Public Library	2002.0	109.0
+39121	http://www.co.hunterdon.nj.us/mun/kingwood.htm	Kingwood Township	1998.0	31.0
+39122	http://www.oakcrest.net/	Oakcrest High School	2000.0	38.0
+39123	http://belovedccs.org/	BelovED Community Charter School (6082 - 963)	2012.0	18.0
+39124	http://edgewaterpark-nj.com/	Edgewater Park Township	2002.0	27.0
+39126	http://www.deptford-nj.org/	Deptford Township	1998.0	758.0
+39127	http://www.roselleschools.org	ROSELLE PUBLIC SCHOOLS (4540)	2001.0	853.0
+39128	http://www.norwoodboro.org/	Norwood Borough	2002.0	108.0
+39129	http://www.kearnyschools.com/	Kearny (2410)	2001.0	78.0
+39130	http://www.upperschools.org	Upper Township (5340)	2005.0	200.0
+39131	http://www.bccls.org/members/cres.shtml	Cresskill Public Library	0.0	0.0
+39132	http://www.mansfieldelementary.org	Mansfield Township Elementary School (2970)	2009.0	330.0
+39133	http://www.oxfordcentral.org	Oxford Township School District (3890)	2009.0	36.0
+39136	http://www.shesnj.org	Stone Harbor Elementary School (5060)	2011.0	7.0
+39137	http://www.somerdale-nj.com/	Somerdale Borough	2008.0	172.0
+39138	http://www.seagirt.k12.nj.us/site/default.aspx?PageID=1	Sea Girt Borough Public Schools (4690)	2013.0	10.0
+39139	http://www.ebpl.org/main/index.cfm	East Brunswick Public Library	2008.0	2148.0
+39140	http://garwood.org/	Garwood	2001.0	382.0
+39141	http://www.netcongschool.org/site/default.aspx?PageID=1	Netcong Elementary School (3520)	2012.0	13.0
+39142	http://rhs.school.ridgewood.k12.nj.us/	Ridgewood High School	2010.0	346.0
+39143	http://www.newmilfordschools.org/nmhs/hs_main_page.html	New Milford High School	2007.0	32.0
+39145	http://www.capemaycity.org/	Cape May	2001.0	210.0
+39146	http://www.tccsnj.org	Teaneck Community Charter School (7890 - 920)	2003.0	54.0
+39147	http://www.logan.k12.nj.us/site/default.aspx?PageID=1	Logan Township School District (2750)	2012.0	19.0
+39148	http://www.brimm.org/	Brimm Medical Arts High School	0.0	962.0
+39149	http://www.bccls.org/fairview/	Fairview Free Public Library	0.0	16.0
+39150	http://energysmartschool.org	Thomas Edison EnergySmart Charter School (6081 - 967)	2010.0	822.0
+39152	http://www.shoreregional.org/site/default.aspx?PageID=1	SHORE REGIONAL HIGH SCHOOL DISTRICT (4760)	2011.0	14.0
+39153	http://www.montville.net/site/default.aspx?PageID=1	Montville Township School District (3340)	2011.0	9.0
+39154	http://www.deptfordpubliclibrary.org	James H. Johnson Memorial Library	2004.0	44.0
+39155	http://www.hbschools.org/education/district/district.php?sectionid=1	HIGH BRIDGE BOROUGH (2140)	2011.0	0.0
+39157	http://farmingdaleschool.com	FARMINGDALE BOARD OF EDUCATION (1490)	2000.0	122.0
+39158	http://longbeachtownship.com/	Long Beach Township	1999.0	46.0
+39159	http://www.oldbridgeadmin.org	Old Bridge Township School District (3845)	0.0	1839.0
+39160	http://www.helmettaboro.com/	Helmetta Borough	2004.0	118.0
+39161	http://www.camdencc.edu/	Camden                      County College	1998.0	1122.0
+39162	http://www.franklinboe.org/fhs	Franklin Twp High School	2000.0	2780.0
+39163	http://www.ptboro.com/	Point Pleasant Borough	1998.0	22.0
+39164	http://www.englewoodcliffsnj.org/	Englewood Cliffs Borough	2003.0	149.0
+39165	http://www.wildwoodcrest.org/	Wildwood Crest Borough	2001.0	351.0
+39166	http://www.hawthornenj.org/	Hawthorne Borough	1999.0	165.0
+39167	http://tcnj.pages.tcnj.edu/	The College of New Jersey	2011.0	82.0
+39168	http://www.pcsst.org	Paterson Charter School for Science/Technology (7503 - 970)	2004.0	163.0
+39170	http://www.bellepl.org	Belleville Public Library	2000.0	50.0
+39171	http://prideacs.org/home/index.php	Pride Academy Charter School (6020 - 985)	2008.0	14.0
+39172	http://www.state.nj.us/it/	Information Technology	2002.0	40.0
+39173	http://www.roxbury.org/site/default.aspx?PageID=1	Roxbury Township Public Schools (4560)	2013.0	7.0
+39174	http://www.gallowaytwp-nj.gov/	Galloway Township	2006.0	108.0
+39175	http://www.morriscountyclerk.org/	Morris CountyClerks' Office	2009.0	34.0
+39177	http://wcsssd.org/	Warren County Special Services School District (5450)	2008.0	96.0
+39178	http://www.burlington-nj.net/	Burlington City  Public Schools (0600)	0.0	858.0
+39179	http://www.elizabethnj.org/	Elizabeth	1998.0	108.0
+39181	http://www.pointpleasantbeach.org/	Point Pleasant Beach	2000.0	846.0
+39182	http://www.gcpl.us	Gloucester City Library	2009.0	130.0
+39183	http://www.robbinsvillefire.org/news/index/layoutfile/home	Robbinsville Township Fire Department	2011.0	10.0
+39184	http://www.meritprepschools.org	Merit Preparatory Charter School of Newark (6091 - 974)	2012.0	34.0
+39185	http://www.haddonfieldnj.org/	Haddonfield	2000.0	559.0
+39186	http://www.plainfieldnjk12.org	Plainfield Public Schools (4160)	2002.0	233.0
+39187	http://www.atlantic.edu/	Atlantic                      Cape Community College	1997.0	274.0
+39188	http://www.penningtonboro.org/	Pennington Borough	2002.0	83.0
+39189	http://midlandparkschools.k12.nj.us/site/default.aspx?PageID=1	Midland Park Public Schools (3170)	2011.0	30.0
+39192	http://www.knowltonschool.com	KNOWLTON TOWNSHIP BOARD OF EDUCATION (2470)	2006.0	42.0
+39193	http://www.twp.howell.nj.us/	Howell	2001.0	772.0
+39194	http://www.swedesboro-woolwich.com/site/default.aspx?PageID=1	SWEDESBORO-WOOLWICH BOARD OF EDUCATION (5120)	2012.0	21.0
+39195	http://www.wclnj.com/	Woodcliff Lake	2001.0	330.0
+39196	http://www.essextech.org	Essex County Vocational Technical Schools (1390)	2000.0	32.0
+39197	http://demarestsd.schoolwires.net/site/default.aspx?PageID=1	Demarest School District (1070)	2011.0	22.0
+39198	http://www.state.nj.us/highereducation/	Higher Education, Commission on	1997.0	60.0
+39199	http://www.state.nj.us/dca/	Community Affairs	2001.0	1362.0
+39201	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6093&maxhits=650	Jersey City Global CS (6093 - 981)	0.0	1.0
+39202	http://greaterbrunswick.org/	Greater Brunswick Charter School (6635 - 930)	2003.0	82.0
+39203	http://www.waterfordtwp.org/	Waterford Township	2005.0	25.0
+39204	http://twp.lakewood.nj.us/	Lakewood Township	1999.0	205.0
+39205	http://www.salemcc.edu/	Salem Community College	2003.0	384.0
+39206	http://www.deerfield.k12.nj.us	DEERFIELD TOWNSHIP SCHOOL DISTRICT (1020)	2000.0	57.0
+39207	http://www.lambertvillelibrary.org	Lambertville Free Public Library	2007.0	25.0
+39210	http://longhilllibrary.org/friendly.php?s=home	Long Hill Township Free Public Library	2013.0	148.0
+39211	http://www.redbanknj.org/	Red Bank	2004.0	306.0
+39212	http://www.winslow-schools.com	Winslow Township School District (5820)	1998.0	137.0
+39213	http://www.somervillepd.org/	Somerville Police Department	1999.0	380.0
+39215	http://www.bccls.org/	Lodi Memorial Library	0.0	89.0
+39216	http://www.berlinnj.org/	Berlin	2003.0	55.0
+39217	http://www.wtpl.org	Washington Twp Public Library-Morris	2006.0	28.0
+39218	http://www.uftnj.com/	Upper Freehold Township	2002.0	330.0
+39219	http://www.barnegatschools.com/site/default.aspx?PageID=1	Barnegat Township School District (0185)	2013.0	10.0
+39221	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code6080&maxhits=650	Passaic Arts and Science Charter School (6080 - 966)	0.0	1.0
+39222	http://lbsd.schoolwires.com/site/default.aspx?PageID=1	Lebanon Borough School District (2590)	2013.0	5.0
+39224	http://www.atlanticlibrary.org	Atlantic County Library System	2002.0	409.0
+39225	http://www.lawnside.net/	Lawnside	2001.0	27.0
+39226	http://www.madisonpublicschools.org/madisonps/site/default.asp	Madison Public Schools (2870)	2006.0	6.0
+39227	http://www.secaucuslibrary.org/	Secaucus Free Public Library	2013.0	297.0
+39228	http://wlbschools.com/site/default.aspx?PageID=1	West Long Branch Board of Education (5640)	2013.0	8.0
+39231	http://www.rih.org	RAMAPO INDIAN HILLS REGIONAL HIGH SCHOOL DISTRICT (4300)	1998.0	1575.0
+39232	http://www.weymouthtownshipschool.com	Weymouth Township School District (5760)	2011.0	49.0
+39234	http://www.tesc.edu	Thomas Edison State College	1998.0	1164.0
+39235	http://www.haledonboronj.com/	Haledon Borough	2003.0	1285.0
+39236	http://www.sbschools.org/schools/sbhs/	South Brunswick High School	2004.0	237.0
+39237	http://www.wclpd.com/	Woodcliff Lake Police Department	2000.0	18.0
+39239	http://www.wpnj.us	Woodland Park	2009.0	53.0
+39240	http://www.nj.gov/cgi-bin/education/csg/13/csg.pl?string=dist_code3580&maxhits=650	NEWFIELD BORO BOARD OF EDUCATION (3580)	0.0	1.0
+39241	http://www.keansburg.k12.nj.us/site/default.aspx?PageID=1	Keansburg School District (2400)	2013.0	22.0
+39242	http://www.pvsc.com/	Passaic Valley Sewerage Commissioners	1997.0	77.0
+39243	http://www.hollandschool.org/portal/	Holland Township School District (2220)	2012.0	154.0
+39245	http://www.nj.gov/education/educators/crimhist/	Criminal History Review - Fingerprinting, ePayments	2007.0	2.0
+39246	http://www.neptunetownship.org/	Neptune Township	2000.0	1188.0
+39247	http://www.myronlpowell.org	Lawrence Township School District (2570)	2010.0	71.0
+39248	http://64.106.243.185/matawan	Matawan	2005.0	0.0
+39249	http://cranford.com/library/	Cranford Public Library	1997.0	27.0
+39251	http://www.ucc.edu/	Union                      County College	1996.0	472.0
+39252	http://www.njcu.edu/home.aspx	New Jersey City University	2011.0	1447.0
+39253	http://mullicatownship.org/	Mullica Township	2005.0	40.0
+39255	http://www.saddleriverpd.com/	Saddle River Police Department	1999.0	26.0
+39256	http://www.boroughofeastnewark.com/	East Newark Borough	2006.0	22.0
+39258	http://www.florhamparkboro.net/	Florham Park	2001.0	68.0
+39260	http://www.spartanj.org/	Sparta Township	2004.0	243.0
+39261	http://www.hightstownborough.com/	Hightstown Borough	2001.0	127.0
+39262	http://www.pitman.org/	Pitman	1998.0	11.0
+39263	http://www.lbischools.org	Long Beach Island Consolidated School District (2760)	2007.0	349.0
+39265	http://www.jamesburgborough.org/	Jamesburg	2002.0	67.0
+39266	http://www.evesham.k12.nj.us/site/default.aspx?PageID=1	Evesham Township School District (1420)	2012.0	113.0
+39267	http://www.pilesgrovenj.org/	Pilesgrove Township	2007.0	42.0
+39268	http://www.hackettstown.net/	Hackettstown	2001.0	29.0
+39269	http://www.pburgsd.net/site/default.aspx?PageID=1	Phillipsburg School District (4100)	2012.0	8.0
+39270	http://livingston.bccls.org	Ruth L. Rockwood Memorial Library	2007.0	113.0
+39271	http://alphapubliclibrary.com	W.H. Walters Free Public Library	2013.0	7.0
+39272	http://www.townofhammonton.org/	Hammonton	2002.0	245.0

@@ -1,0 +1,1110 @@
+NodeId	NodeURL	NodeName	Year	pages
+17256	http://templeview.d91.k12.id.us/	Temple View Elementary School	2013.0	4.0
+17258	http://marianpritchett.school.boiseschools.org	Marian Pritchett High School	2013.0	165.0
+17260	http://adminrules.idaho.gov/	Administrative Rules Coordinator, Office of the	2012.0	2213.0
+17261	http://adm.idaho.gov	Administration, Department of	2005.0	19.0
+17262	http://www.cariboucounty.us/	Caribou County	2013.0	43.0
+17263	http://www.idahohumanities.org/	Humanities Council	2001.0	236.0
+17265	https://sites.google.com/a/cassiaschools.org/white-pine/	White Pine Elementary School	2014.0	23.0
+17266	http://www.midvalerangers.org/	Midvale School District #433	2001.0	84.0
+17267	https://sites.google.com/a/cloud.ifschools.org/sunnysideelementary/home	Sunnyside Elementary School	2014.0	23.0
+17268	http://notus.lili.org/	Notus Public	2007.0	41.0
+17269	https://sites.google.com/a/cassiaschools.org/raft-river-jr-sr-high-school/	Raft River High School	2014.0	83.0
+17270	http://sfhscougars.com/home.html	South Fremont High School	2011.0	32.0
+17271	http://www.jeromeschools.org/	Jerome School District #261	2011.0	500.0
+17272	http://www.co.jefferson.id.us/	Jefferson County	1999.0	23.0
+17274	http://www.sd244.org/education/school/school.php?sectionid=2040&linkid=nav-menu-container-1-13768	Elk City School	2011.0	17.0
+17275	http://mccall.lili.org/	Mccall Public	2007.0	48.0
+17276	http://franklinidaho.org	Franklin	2004.0	8.0
+17278	https://sites.google.com/a/d59.k12.id.us/firth-sites-2/	Firth Middle School	2014.0	63.0
+17279	http://ririelibrary.com	Ririe Public	2013.0	27.0
+17280	http://www.boundarycountyid.org/	Boundary County	2005.0	49.0
+17281	http://lavahotsprings.com	Lava Hot Springs Foundation	1998.0	51.0
+17282	http://osburn.lili.org	Osburn Public	2007.0	48.0
+17283	http://www.boisepubliclibrary.org	Boise Public	2000.0	119.0
+17284	http://www.meridianschools.org/discovery/pages/discoveryelementary.aspx	Discovery Elementary School	2011.0	1.0
+17285	http://blsd.net/blsd/blhsnews.htm	Bear Lake High School	2014.0	34.0
+17286	http://www.d181.k12.id.us/site/default.aspx?pageid=401	Challis Elementary School	2014.0	10.0
+17287	http://www.pierce-weippechamber.com	Pierce  Chamber of Commerce	2008.0	15.0
+17289	http://www.legislature.idaho.gov/	State Legislature	2004.0	45.0
+17290	http://www.co.madison.id.us/	Madison County	2000.0	111.0
+17291	http://tsd401.org/index.php?option=com_content&view=article&id=151&itemid=157	Rendezvous Upper Elementary	0.0	291.0
+17292	http://labor.idaho.gov/dnn/(X(1)S(cctbr0jnbdvg2bep3kpzyc55))/Default.aspx?alias=labor.idaho.gov/dnn/idl	Labor, Department of	0.0	2.0
+17293	http://www.mdsd.org/default.aspx?tabid=64	Payette Lakes Middle School	2009.0	299.0
+17294	http://www.mdsd.org/default.aspx?tabid=65	McCall Donnelly High School	2009.0	336.0
+17295	http://www.ci.jerome.id.us/city-government/library.html	Jerome Public	2011.0	129.0
+17296	http://ha.tfsd.org/	Harrison Elementary School	2010.0	130.0
+17297	http://ibol.idaho.gov/ibol/home.aspx	Occupational Licenses,  Idaho Bureau of	0.0	3194.0
+17298	http://www.pocatello.us	Pocatello	2003.0	181.0
+17299	http://lewisville.lili.org	Lewisville Public	2009.0	30.0
+17300	https://sites.google.com/a/sd215.net/sfjhs/	South Fremont Junior High School	2011.0	30.0
+17301	http://bfhs-bcsd-id.schoolloop.com/cms/page_view?d=x&piid=&vpid=1269552454150&no_controls=t	Bonners Ferry High School	0.0	5352.0
+17302	http://prairieriver.lili.org/kooskia	Prairie-River District - Kooskia	2008.0	47.0
+17303	http://sd92.k12.id.us/	Swan Valley School District #92	2001.0	30.0
+17304	http://lapwaidistrict.org/	Lapwai School District #341	2011.0	40.0
+17305	http://bean.idaho.gov	Bean Commission, Idaho	2011.0	22.0
+17306	http://www.kimberly.edu/index.php/middle-school.html	Kimberly Middle School	2013.0	884.0
+17307	http://georgetown.id.gov/	Georgetown	2009.0	279.0
+17308	http://www.d91.k12.id.us/	Idaho Falls School District #91	1996.0	884.0
+17309	http://www.emmett-hs.groupfusion.net/	Emmett High School	2006.0	1.0
+17310	http://monroe.school.boiseschools.org	Monroe Elementary School	2012.0	145.0
+17311	http://parole.idaho.gov/	Pardons and Parole, Commission of	2012.0	174.0
+17312	http://whittier.school.boiseschools.org	Whittier Elementary School	2012.0	315.0
+17313	http://www.sd381.k12.id.us/william-thomas-middle-school	William Thomas Middle School	2013.0	13.0
+17314	http://post.idaho.gov/	Peace Officer Standards and Training (POST)	2011.0	155.0
+17315	http://blsd.net/blsd/pesnews.htm	Paris Elementary School	2014.0	34.0
+17316	https://www.accessidaho.org/ai/payport/online/lso/index.html	Gift Shop, Capitol	2011.0	60.0
+17317	http://www.meridianschools.org/eaglehigh/pages/eaglehighschool.aspx	Eagle High School	2011.0	1.0
+17318	http://www.islandparkid.govoffice2.com	Island Park	2009.0	725.0
+17319	http://www.visitsunvalley.com	Sun Valley Chamber of Commerce	1997.0	0.0
+17321	http://grangeville.us/centennial-library/	Grangeville Centennial	2013.0	783.0
+17322	http://www1.nsd131.org/mainsite/schools/lns/default.aspx	Lone Star Middle School	2008.0	1244.0
+17323	http://www.edline.net/pages/parma_high_school	Parma High School	2011.0	2.0
+17324	http://treasurevalley.school.boiseschools.org	Treasure Valley Math & Science Center (7-12)	2013.0	1110.0
+17325	http://ifhs.d91.k12.id.us/	Idaho Falls High School	2013.0	68.0
+17326	https://sites.google.com/a/d59.k12.id.us/firth-district/	Firth School District #59	2013.0	30.0
+17327	https://jsd.astihosted.com/portal/default.aspx?pg=556	Jefferson Elementary School	2014.0	4.0
+17328	https://jsd.astihosted.com/portal/default.aspx?pg=557	South Fork Elementary School	2014.0	3.0
+17329	http://dhs1.mybigcampus.net/	Deary High School	2012.0	30.0
+17330	http://www.salmonschools.com/	Salmon School District #291	2009.0	93.0
+17331	http://www.sd151.k12.id.us/schools/crtcweb/index.html	Cassia Regional Technical Center	2010.0	7.0
+17332	http://www.oneidaschooldistrict.org/education/school/school.php?sectiondetailid=75&linkid=nav-menu-container-1-2298	Malad High School	0.0	0.0
+17333	http://tsd401.org/	Teton County School District #401	2010.0	278.0
+17334	http://lgo.idaho.gov/	Lieutenant Governor	2004.0	21.0
+17335	http://www.sd171.k12.id.us/	Orofino Joint School District #171	2001.0	225.0
+17336	http://longfellow.school.boiseschools.org	Longfellow Elementary School	2013.0	311.0
+17337	http://prairieriver.lili.org/lapwai	Prairie-River District Lapwai	2011.0	48.0
+17339	http://www.kooskia.com/	Kooskia	1999.0	55.0
+17340	http://www.meridianchamber.org/	Meridian Chamber of Commerce	2002.0	16.0
+17341	http://www.sd244.org/education/school/school.php?sectionid=2037&linkid=nav-menu-container-1-13768	Grangeville High School	2011.0	35.0
+17342	http://shadowhills.school.boiseschools.org	Shadow Hills Elementary School	2013.0	219.0
+17343	http://ibol.idaho.gov/IBOL/ErrorPage.aspx?referrer=/ibol/boardpage.aspx	Liquefied Petroleum Gas Safety, Board of	0.0	370.0
+17344	http://morleynelson.school.boiseschools.org	Morley Nelson Elementary	2013.0	271.0
+17345	http://www1.sd25.us/sites/gren/index.htm	Greenacres Elementary School	2013.0	1.0
+17346	http://valleyview.school.boiseschools.org	Valley View Elementary School	2013.0	293.0
+17347	http://www.meridianschools.org/ca/pages/centralacademy.aspx	Central Academy High School	2011.0	1.0
+17348	http://sto.idaho.gov/	Treasurer, State	2006.0	52.0
+17349	http://snakeriverlibrary.com/	Snake River School-Community	2008.0	30.0
+17350	http://www.cityofworley.org/index.html	Worley	2012.0	8.0
+17351	http://blsd.net/blsd/ajwenews.htm	A J Winters Elementary School	2013.0	34.0
+17352	http://riverview.shelleyschools.org/	Riverview Elementary School	2013.0	8.0
+17353	http://www.pfsd.com/default.aspx?indx=1&pageid=135	Frederick Post Kindergarten	0.0	106.0
+17354	http://www.cityofdonnelly.org	Donnelly	2009.0	323.0
+17355	http://www.midvalerangers.org/elementary/elementary.htm	Midvale Elementary School	2008.0	0.0
+17356	http://www.latahlibrary.org	Latah County District	2003.0	66.0
+17357	http://sd41-id.schoolloop.com/	St. Maries Joint School District #41	2012.0	2720.0
+17358	http://wine.idaho.gov/	Grape Growers & Wine Producers Commission	2011.0	189.0
+17359	http://www1.nsd131.org/mainsite/schools/nhz/default.aspx	New Horizons Elementary Magnet School	2008.0	666.0
+17361	http://www.sco.idaho.gov/web/sbe/sbeweb.nsf	Examiners, Board of	2006.0	813.0
+17362	http://srms.snakeriver.org/	Snake River Middle School	2010.0	10.0
+17363	http://www.idahohde.org/dsite/	Health Data Exchange	2011.0	48.0
+17364	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=753&linkid=nav-menu-container-1-2405	East Elementary School	2010.0	26.0
+17365	http://www.kunaschools.org/schools/iphs/home/home.php	Initial Point Alternative High School	2011.0	0.0
+17366	http://aeweb.lakeland272.org/	Athol Elementary School	2011.0	2334.0
+17367	http://fsp.idaho.gov/	Federal Surplus Property	2009.0	10.0
+17368	http://www.idahogeology.org/	Geological Survey, Idaho	2000.0	37.0
+17371	http://meadowsvalley.lili.org/	Meadows Valley District	2007.0	66.0
+17372	http://www.iesdb.org	Deaf and the Blind, Idaho Educational Services for the	2011.0	151.0
+17373	http://postal.idaho.gov/	Postal Services, State	2011.0	6.0
+17374	http://lava_el.mvsd21.org/	Lava Elementary School	2005.0	0.0
+17376	http://www.meridianschools.org/ems/pages/eaglems.aspx	Eagle Middle School	2013.0	1.0
+17377	http://www.kunaschools.org/schools/ross/	Ross Elementary School	2006.0	0.0
+17378	http://prairieriver.lili.org/winchester	Prairie-River District - Winchester	2008.0	46.0
+17379	http://www.meridianschools.org/vsh/pages/virtualschoolhouse.aspx	Virtual School House	2013.0	1.0
+17381	http://www.haileycityhall.org	Hailey	2002.0	85.0
+17382	http://www.idahosif.org/	Insurance Fund, State	2005.0	152.0
+17383	http://liquor.idaho.gov/	Liquor Division, Idaho State	2005.0	28.0
+17384	http://www.minidokaschools.org/east	East Minico Middle School	2012.0	613.0
+17385	http://hillside.school.boiseschools.org	Hillside Junior High School	2012.0	2486.0
+17386	http://www.meridianschools.org/Pages/Home.aspx	Sienna Elementary School	2009.0	1.0
+17387	http://www.jeromeschools.org/index.php/design-and-features/color-variations	Jerome Middle School	2013.0	10.0
+17389	http://sleweb.lakeland272.org/	Spirit Lake Elementary School	2011.0	11135.0
+17390	http://www.idbeef.org/	Beef Council, Idaho	2001.0	4.0
+17391	http://www.sd314.k12.id.us/	Dietrich School (K-12)	2000.0	6.0
+17392	http://www.d25gateway.com/	Gateway Professional-Technical School	2011.0	45.0
+17393	https://sites.google.com/a/cassiaschools.org/cassiahigh/	Cassia Alternative High School	0.0	20.0
+17394	http://www.salmonschools.com/pioneerschool/home.html	Pioneer Elementary School	2011.0	27.0
+17395	http://www.meridianschools.org/mvhs/pages/mountainviewhighschool.aspx	Mountain View High School	2012.0	1.0
+17396	http://www.councilidaho.net/	Council	0.0	14906.0
+17398	http://ririe.id.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=232&linkid=nav-menu-container-1-8559	Ririe Elementary/Middle School	2014.0	2.0
+17399	http://www.www.xaviercharter.org	Xavier Charter School	2007.0	73.0
+17400	http://shoshone.lili.org	Shoshone Public	2007.0	32.0
+17401	http://range.idaho.gov/	Rangeland Resource Commission, Idaho	2008.0	95.0
+17402	http://www.ruralnetwork.net/~stanlib/	Stanley District	2004.0	13.0
+17403	http://msd134.org	Middleton School District #134	2001.0	0.0
+17404	http://ss.lposd.org/	Southside Elementary School	2008.0	282.0
+17405	http://www.idahoforests.org/	Forest Products, Commission	1998.0	357.0
+17406	http://www.meridianschools.org/marymcpherson/pages/marymcphersonelementary.aspx	Mary McPherson Elementary School	2011.0	1.0
+17407	http://www.oneidaschooldistrict.org/education/components/whatsnew/default.php?sectionid=1&url_redirect=1	Oneida School District #351	2011.0	1.0
+17408	https://sites.google.com/a/d59.k12.id.us/firth-high-school/	Firth High School	2014.0	114.0
+17409	http://www.mvsd11.org/	Meadow Valley School District #11	2009.0	35.0
+17410	http://www1.nsd131.org/mainsite/schools/ctr/default.aspx	Central Elementary School	2007.0	995.0
+17411	https://sites.google.com/a/vallivue.org/east-canyon-elementary/	East Canyon Elementary School	2014.0	25.0
+17412	http://www.legislature.idaho.gov/house/house.htm	House of Representatives	2004.0	78.0
+17413	http://humanrights.idaho.gov/	Human Rights Commission	2008.0	19.0
+17414	https://sites.google.com/a/vallivue.org/vallivue-high/	Vallivue High School	2014.0	62.0
+17415	http://www.midvalerangers.org/alternative_school/alternative_school.htm	Midvale Alternative High School	2008.0	0.0
+17416	http://labor.idaho.gov/dnn/(X(1)S(rnoyjg55snjv3ondcwfimlet))/Default.aspx?TabID=2436&AspxAutoDetectCookieSupport=1	Disability Determination Services	0.0	2.0
+17417	http://grace.lili.org/	Grace District	2007.0	32.0
+17418	http://www.shoshonesd.org/	Shoshone Joint School District #312	2013.0	375.0
+17419	http://cwidaho.cc/	College of Western Idaho	2008.0	2943.0
+17420	http://www.cityarco.com	Arco	2007.0	0.0
+17422	http://www1.nsd131.org/mainsite/schools/grn/default.aspx	Greenhurst Elementary School	2008.0	713.0
+17423	http://skyway-cdasd-id.schoolloop.com/portal/school_list	Skyway Elementary School	2013.0	22.0
+17424	http://www.co.bingham.id.us/	Bingham County	2000.0	41.0
+17425	http://www.mountainhomechamber.com/	Mountain Home Chamber of Commerce	2008.0	43.0
+17426	https://sites.google.com/a/vallivue.org/birch-elementary/	Birch Elementary School	2014.0	28.0
+17427	http://www.murtaugh.k12.id.us/	Murtaugh Joint School District #418	2003.0	9.0
+17428	http://www.kimberly.edu/index.php/elementary-school.html	Kimberly Elementary School	2013.0	923.0
+17429	http://www.idahocityschools.net/basinelem.asp	Basin Elementary School	2008.0	64.0
+17430	http://www.orofino.com/	Orofino  Chamber of Commerce	1999.0	498.0
+17431	http://www.filer.k12.id.us/fhs.php	Filer High School	2012.0	24.0
+17432	http://www.preston.k12.id.us/pioneer-elementary.html	Pioneer Elementary School	2012.0	129.0
+17435	http://hobbs.shelleyschools.org/	Hobbs Middle School	2013.0	85.0
+17436	http://tsd401.org/index.php?option=com_content&view=article&id=147&itemid=154	Driggs Elementary School	0.0	291.0
+17437	http://www.payetteschools.org/	Payette School District #371	2009.0	27.0
+17438	http://www.rbulldogs.org/cms/page_view?d=x&piid=&vpid=1323614920669	Rockland Jr. High	0.0	6600.0
+17439	http://sa.tfsd.org/	Sawtooth Elementary School	2010.0	58.0
+17440	http://gooding.lili.org	Gooding Public	2007.0	46.0
+17441	http://www.hsbschools.org/schools/horseshoe%20bend%20middle%20school	Horseshoe Bend Middle School	2012.0	0.0
+17443	http://www.marshallpl.org	Marshall Public	2004.0	39.0
+17445	http://www.tfid.org/	Twin Falls	1999.0	805.0
+17446	http://www.bplibrary.org	Burley Public	2000.0	27.0
+17447	http://www.melbaschools.org/msd/	Melba School District #136	2008.0	378.0
+17448	http://www.wingscharter.org/home	Wings Charter Middle School	2014.0	23.0
+17449	http://www.sd381.k12.id.us/home	American Falls School District #381	2013.0	105.0
+17450	http://www.adalib.org	Ada County District	2000.0	136.0
+17451	http://www.bonnevillebees.com/	Bonneville High School	2001.0	108.0
+17453	http://east.school.boiseschools.org	East Junior High	2011.0	1656.0
+17454	http://www.idahograin.org	Grain Producers Association	1998.0	29.0
+17455	http://www.fruitlandschools.org/	Fruitland School District #373	2009.0	44.0
+17456	http://www.meridianschools.org/eagle/pages/eagleelementaryschoolofthearts.aspx	Eagle Elementary School of the Arts	2011.0	1.0
+17457	http://sto.idaho.gov/services/lgip/	Investment Pool, Local Government (LGIP)	2007.0	12.0
+17458	http://haydenkinder-cdasd-id.schoolloop.com/portal/school_list	Hayden Kinder Center	0.0	22.0
+17459	http://www.hansen.k12.id.us/information/hs	Hansen Jr./Sr. High School	2013.0	1.0
+17460	http://www.jeromeschools.org/index.php/design-and-features/jerome-high-school	Jerome High School	2013.0	11.0
+17461	http://www.fruitland.org	Fruitland	2001.0	53.0
+17462	http://boise.school.boiseschools.org	Boise High School	2011.0	2086.0
+17463	http://www.melbaschools.org/msd/index.php?option=com_content&view=article&id=45&catid=18&itemid=17	Melba Elementary School	0.0	360.0
+17464	http://www.idaho.gov/	State Government	2002.0	364.0
+17465	http://www.puc.idaho.gov/	Public Utilities Commission	2005.0	4786.0
+17466	http://adams.school.boiseschools.org	Adams Elementary School	2012.0	270.0
+17467	http://www.meridianschools.org/mms/pages/meridianmiddleschool.aspx	Meridian Middle School	2010.0	1.0
+17468	http://purchasing.idaho.gov/	Purchasing, Division of	2011.0	25.0
+17469	http://www.idahocityschools.net/hsmsland.asp	Idaho City HighMiddle School	2008.0	64.0
+17470	http://www.caldwellschools.org/	Caldwell School District #132	2001.0	147.0
+17471	http://www.meridianschools.org/lhms/pages/lakehazelmiddleschool.aspx	Lake Hazel Middle School	2011.0	1.0
+17472	http://eaglerock.d91.k12.id.us/	Eagle Rock Middle School	2013.0	19.0
+17473	http://www.maladidaho.org	Malad	2000.0	41.0
+17475	http://www.cityofhauser.org	Hauser	2009.0	17.0
+17476	http://www.latahlibrary.org/branches/bovill.asp	Bovill Public Library	2006.0	11.0
+17477	http://www.meridianschools.org/pioneer/pages/pioneerschoolofthearts.aspx	Pioneer Elementary Magnet School of the Arts	2011.0	1.0
+17478	http://www1.nsd131.org/mainsite/schools/rhs/default.aspx	Ridgeline High School	2007.0	525.0
+17479	http://www.ksd-id.schoolloop.com/	Kootenai School District #274	2011.0	7435.0
+17480	http://www.murtaugh.k12.id.us/mshs.html	Murtaugh Middle/High School	2009.0	9.0
+17481	http://www.elmorecounty.org/	Elmore County	2002.0	25.0
+17482	http://www.latahlibrary.org/branches/moscow.asp	Moscow Public Library	2006.0	11.0
+17483	http://www1.nsd131.org/mainsite/schools/sny/default.aspx	Sunny Ridge Elementary School	2007.0	901.0
+17485	http://cityofwilder.org/	Wilder	2007.0	6.0
+17486	http://www.bcclc.com/	Blackfoot Charter Community Learning Center (K-6)	2009.0	1260.0
+17487	http://blaineschools.org/schools/bellevue/default.aspx	Bellevue Elementary School (K-2)	2007.0	0.0
+17488	http://www.kunaschools.org/schools/reed/home/home.php	Reed Elementary School	2006.0	0.0
+17489	http://www.pwsd44.com/default.aspx?indx=1&pageid=50	Lakeside Middle School	0.0	124.0
+17490	http://www.mdsd.org/default.aspx?tabid=62	Barbara Morgan Elementary School	2010.0	463.0
+17492	http://www.boardofed.idaho.gov/	Education, State Board of	2004.0	327.0
+17493	http://www.mdsd.org/default.aspx?tabid=63	Heartland Alternative High School	2010.0	323.0
+17494	http://hts.msd134.org/	Middleton Heights Elementary School	2013.0	37.0
+17495	http://www.pwsd44.com/default.aspx?indx=1&pageid=9	Lakeside Lakeside Middle/High School	0.0	124.0
+17496	http://www.jsd243.org/	Salmon River School District #243	2008.0	6279.0
+17497	http://www.prestonidaho.net/	Preston	2009.0	37.0
+17498	http://www.tfsd.k12.id.us/tfsd/index.html	Twin Falls School District #411	2008.0	20.0
+17499	http://www.shadowbutte.groupfusion.net/	Shadow Butte Elementary School	2008.0	1.0
+17500	http://www.oneidaschooldistrict.org/education/school/school.php?sectionid=4&	Malad Middle School	2010.0	2.0
+17501	http://www.idahoarmyguard.org/	Army National Guard, Idaho	2007.0	41.0
+17503	http://www.pfsd.com/default.aspx?indx=8&pageid=143	Mullan Trail Elementary School	0.0	106.0
+17504	http://libraries.idaho.gov/	Libraries, Idaho Commission for	2006.0	689.0
+17505	http://www.oneidaschooldistrict.org/education/school/school.php?sectionid=5&	Malad Elementary School	2011.0	2.0
+17506	https://sites.google.com/a/vallivue.org/west-canyon-elementary/	West Canyon Elementary School	2014.0	66.0
+17507	http://www.meridianschools.org/spalding/pages/spaldingelementary.aspx	Spalding Elementary School	2011.0	1.0
+17508	http://www.meridianschools.org/gateway/pages/gatewayschooloflanguageandculture.aspx	Gateway Elementary School of Language and Culture	2011.0	1.0
+17509	http://lowell.school.boiseschools.org	Lowell Elementary School	2012.0	331.0
+17512	http://fs.lposd.org/	Farmin-Stidwell Elementary School	2009.0	343.0
+17514	http://www.nes-bcsd-id.schoolloop.com/cms/page_view?d=x&piid=&vpid=1269561447799&no_controls=t	Naples Elementary School	0.0	24.0
+17515	http://pse.msd134.org/	Purple Sage Elementary School	2013.0	40.0
+17516	http://www.meridianschools.org/willowcreek/pages/willowcreek.aspx	Willow Creek Elementary	2013.0	1.0
+17517	http://sh.lposd.org/	Sandpoint High School	2008.0	831.0
+17518	http://www.project60.idaho.gov/	Project 60	2009.0	5.0
+17520	http://www.agri.idaho.gov/	Agriculture, Department of	2004.0	52.0
+17521	http://ita.idaho.gov/	Technology Authority, Idaho - ITA	2013.0	12.0
+17522	http://docs.d55.k12.id.us/groveland/groveland.htm	Groveland Elementary School	2014.0	21.0
+17523	http://fernan-cdasd-id.schoolloop.com/portal/school_list	Fernan Elementary School	0.0	22.0
+17524	http://burleyidaho.org/	Burley	2002.0	34.0
+17525	http://ketchumidaho.org/	Ketchum	2002.0	678.0
+17526	http://www.cityofeagle.org/	Eagle	2006.0	901.0
+17527	http://riverglen.school.boiseschools.org	Riverglen Junior High School	2011.0	3343.0
+17528	http://www.nezpercesd.us/elementary	Nezperce Elementary School	2013.0	17768.0
+17529	http://tetoncountyidaho.gov/	Teton County	2008.0	309.0
+17530	http://www.kunaschools.org/schools/kms/home/home.php	Kuna Middle School	2006.0	0.0
+17531	http://www.inidaho.com/city.asp?City=wendell	Wendell	2006.0	2815.0
+17532	http://itd.idaho.gov/dmv/online_services.htm	DMV - Division of Motor Vehicles	2004.0	41.0
+17533	http://www1.nsd131.org/mainsite/schools/ctn/default.aspx	Centennial Elementary School	2007.0	583.0
+17534	http://www.icdd.idaho.gov/	Developmental Disabilities, Council on	2006.0	37.0
+17535	https://jsd.astihosted.com/midwayelementary.ssp	Midway Elementary School	2014.0	25.0
+17536	http://sandpointchamber.org	Sandpoint Chamber of Commerce	2003.0	1507.0
+17537	http://www.wjsd.org/	West Jefferson School District #253	2003.0	85.0
+17538	http://mhs.msd134.org/	Middleton High School	2013.0	109.0
+17539	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=781&linkid=nav-menu-container-1-2405	West Elementary School	2010.0	26.0
+17541	http://www.hsbschools.org/	Horseshoe Bend School District #73	2012.0	754.0
+17542	http://www.pacer.gov/	Court Records Electronic Public Access	2008.0	255.0
+17543	http://www.sodaspringsid.com/	Soda Springs	1999.0	166.0
+17544	http://www.sd394.com/	Avery and Calder Elementary Schools	2001.0	14.0
+17545	http://www.northidahostemcharteracademy.org/	North Idaho STEM Charter Academy	2011.0	9376.0
+17546	http://borah.school.boiseschools.org	Borah High School	2011.0	2558.0
+17547	http://www.pfsd.com/default.aspx?indx=1&pageid=220	River City Middle School	0.0	106.0
+17548	http://wallace-id.com/	Wallace	1998.0	249.0
+17549	http://gis.idaho.gov/portal/	Geospatial Office, Idaho	2010.0	36.0
+17550	http://www.mccall.id.us/	McCall	1998.0	149.0
+17551	http://ba.tfsd.org/	Bridge Academy Alternative Middle School	2010.0	18.0
+17552	https://jsd.astihosted.com/portal/default.aspx?pg=1366	Philo T Farnsworth Elementary	2014.0	2.0
+17553	http://www.marsingschools.org/?page_id=771	Marsing High School	2014.0	116.0
+17554	http://www.bcms-bcsd-id.schoolloop.com/	Boundary County Junior High School	2010.0	9225.0
+17555	http://demary.lili.org/	Demary Memorial	2007.0	18.0
+17556	http://gweweb.lakeland272.org/	Garwood Elementary School	2009.0	1911.0
+17557	http://ktec.schoolloop.com/	Kootenai Technical Education Campus	2012.0	8745.0
+17558	http://collister.school.boiseschools.org	Collister Elementary School	2013.0	127.0
+17559	http://www.buhlschools.org/schools/bhs	Buhl High School	2013.0	0.0
+17560	http://north.school.boiseschools.org	North Junior High School	2011.0	1263.0
+17561	http://www.dearyidaho.com	Deary	2001.0	20.0
+17562	https://sites.google.com/a/vallivue.org/lakevue-elementary/	Lakevue Elementary School	2014.0	31.0
+17563	http://www.cityofcaldwell.com	Caldwell	2003.0	12723.0
+17564	http://oakley.lili.org	Oakley District	2007.0	49.0
+17565	http://www.preston.k12.id.us/oakwood-elementary.html	Oakwood Elementary School	2012.0	129.0
+17566	http://forrestbirdcharterschool.org/	Forrest M. Bird Charter Schools	2011.0	55.0
+17567	http://www.cityofeagle.org/index.asp?SEC=6A95B943-ABC9-483E-8286-63BF54B3072A&Type=B_BASIC	Eagle Public	0.0	922.0
+17568	http://www.cityofchubbuck.us	Chubbuck	2004.0	242.0
+17569	https://sites.google.com/a/cloud.ifschools.org/ethel-boyes-elementary/	Ethel Boyes Elementary School	2014.0	15.0
+17570	http://www.bhs.idaho.gov/pages/communications/idahosiec.aspx	Statewide Interoperability Executive Council, Idaho	2010.0	7.0
+17571	http://www1.nsd131.org/mainsite/schools/fdr/default.aspx	Franklin D. Roosevelt Elementary School	2008.0	0.0
+17572	http://longfellow.d91.k12.id.us/	Longfellow Elementary School	2013.0	5.0
+17573	http://somb.idaho.gov/	Sexual Offender Management Board	2012.0	21.0
+17574	http://www.meridianschools.org/cms/pages/crossroadsmiddleschool.aspx	Crossroads Alternative Middle School	2011.0	1.0
+17576	http://www.gardencityidaho.org/	Garden City	2006.0	444.0
+17577	http://mackay.lili.org	Mackay District	2007.0	33.0
+17578	http://www.haileyidaho.com	Hailey Chamber of Commerce	2002.0	510.0
+17579	http://www.sos.idaho.gov/	Secretary of State	2005.0	51.0
+17580	http://www.sugarlib.org	Sugar Salem School-Community	2003.0	7.0
+17581	http://www.isc.idaho.gov/appeals-court/handbook	Court of Appeals	2012.0	31.0
+17583	http://lemhicountyidaho.org/	Lemhi County	2006.0	24.0
+17584	http://www.aging.idaho.gov/	Aging, Commission on	2012.0	40.0
+17585	https://wordpress.lewistonschools.net/mcsorley/	McSorley Elementary School	2011.0	9.0
+17586	https://jsd.astihosted.com/portal/default.aspx?pg=582	Rigby Middle School	2014.0	54.0
+17587	http://blsd.net/blsd/schools.htm	Clover Creek Alternate High School	2013.0	34.0
+17588	http://lhtac.org/	Local Highway Technical Assistance Council	0.0	303.0
+17590	http://www1.nsd131.org/mainsite/schools/col/default-old.aspx	Columbia High School	2011.0	0.0
+17592	http://www.sde.idaho.gov/	Education, State Department of	2005.0	664.0
+17593	http://dhr.idaho.gov	Human Resources, Division of	2004.0	51.0
+17594	http://www.pfsd.com/default.aspx?indx=1&pageid=346	West Ridge Elementary School	0.0	106.0
+17595	http://hamer.lili.org/	Jefferson County District	2007.0	31.0
+17596	http://cms-cdasd-id.schoolloop.com/portal/school_list	Canfield Middle School	0.0	22.0
+17597	http://www.siphidaho.org/	Health District 6 (Southeastern)	2012.0	68.0
+17598	http://soda.lili.org	Soda Springs Public	2007.0	105.0
+17599	http://www.mhes-bcsd-id.schoolloop.com/	Mount Hall Elementary School	2010.0	576.0
+17600	http://www.meridianschools.org/parents/professionaltechnical/ptcenters/meridian%20information/forms/allitems.aspx	Meridian Professional-Technical Center	2010.0	0.0
+17601	http://www.sd244.org/education/school/school.php?sectionid=2039&linkid=nav-menu-container-1-13768	Clearwater Valley Elementary School	2011.0	17.0
+17602	http://erickson.d91.k12.id.us/	Dora Erickson Elementary School	2013.0	12.0
+17603	http://www.meridiancity.org/main.aspx	Meridian	2009.0	2178.0
+17604	http://prairieriver.lili.org/kamiah	Prairie-River District - Kamiah	2011.0	52.0
+17606	http://www.d181.k12.id.us/domain/125	Stanley Elementary/Jr. High School	2014.0	48.0
+17607	http://sunrise.shelleyschools.org/	Sunrise Elementary School	2013.0	26.0
+17608	http://www.jeromeschools.org/index.php/design-and-features/summit-elementary	Summit Elementary School	2013.0	10.0
+17609	http://www.cityofsalmon.com	Salmon	2002.0	1512.0
+17610	http://www.deq.idaho.gov/assistance-resources/maps-data.aspx	GIS Data & Interactive Mapping	2011.0	79.0
+17611	http://www.wssd.k12.id.us/index.php/middle-school	Beutler Middle School	2012.0	3140.0
+17612	http://mackayidaho.com/	Mackay	2003.0	2.0
+17613	http://www.risch.senate.gov/public/	Risch, James E., Senator (R)	2009.0	376.0
+17614	http://www.howeelementary.org/	Home  Howe Elementary School	2011.0	137.0
+17615	http://bom.idaho.gov/bomportal/home.aspx	Medicine, Board of	2010.0	68.0
+17617	http://ot.tfsd.org/	Oregon Trail Elementary School	2010.0	78.0
+17618	http://oes-sd171-id.schoolloop.com/	Orofino Elementary School	2013.0	7386.0
+17619	http://www.idaho.ang.af.mil/	Air National Guard, Idaho	2000.0	305.0
+17620	http://www1.sd25.us/sites/edah/index.htm	Edahow Elementary School	2013.0	7.0
+17621	http://www.msd281.org/highschool/home.html?http://www.msd281.org/highschool/	Moscow High School	2011.0	38.0
+17622	http://atlas-cdasd-id.schoolloop.com/portal/school_list	Atlas Elementary School	0.0	22.0
+17624	http://www.healthandwelfare.idaho.gov/health/vitalrecordsandhealthstatistics/tabid/1504/default.aspx	Vital Records and Health Statistics, Idaho Bureau of	2010.0	2.0
+17626	http://www.vr.idaho.gov/index.shtml	Vocational Rehabilitation,  Division of	2009.0	37.0
+17627	http://timberline.school.boiseschools.org	Timberline High School	2011.0	2799.0
+17628	http://heritagecommunitycharter.com/	Heritage Community Charter School	2011.0	116.0
+17629	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=711&linkid=nav-menu-container-1-2405	Mountain Home High School	2010.0	26.0
+17630	http://challis.lili.org/	Challis Public	2008.0	32.0
+17631	http://lhsweb.lakeland272.org/	Lakeland High School	2011.0	888.0
+17632	http://www.hsbschools.org/schools/horseshoe_bend_high_school	Horseshoe Bend High School	2014.0	0.0
+17633	http://www.emmettidaho.com	Emmett	1998.0	259.0
+17634	http://khs-ksd-id.schoolloop.com/	Kootenai Junior/Senior High School	2010.0	8685.0
+17635	http://www.buhlschools.org/schools/bms	Buhl Middle School	2013.0	0.0
+17636	https://sugarsalem.org/	SugarSalem School District #322	2009.0	190.0
+17637	http://www.co.custer.id.us/	Custer County	2001.0	35.0
+17638	http://www1.sd25.us/sites/lewis/index.htm	Lewis and Clark Elementary School	2012.0	0.0
+17639	http://www.filer.k12.id.us/fms.php	Filer Middle School	2012.0	24.0
+17640	http://kms.kelloggschools.org/	Kellogg Middle School	2010.0	19.0
+17643	http://www.libertycharterschool.com	Liberty Charter School	2003.0	26.0
+17644	http://project-cdasd-id.schoolloop.com/portal/school_list	Project CDA Alternative High School	0.0	22.0
+17645	http://srjh.snakeriver.org/	Snake River Junior High School	2010.0	10.0
+17646	http://blsd.net/blsd/blmsnews.htm	Bear Lake Middle School	2014.0	34.0
+17647	http://www.npschools.us/	New Plymouth School District #372	2009.0	1.0
+17648	http://www.sd365.us/rimrock/rimrock.htm	Rimrock Jr./Sr. High School	2006.0	0.0
+17650	http://eastowyhee.lili.org	Eastern Owyhee County District	2007.0	35.0
+17651	http://bridge-cdasd-id.schoolloop.com/portal/school_list	Bridge Academy Alternative High School	0.0	22.0
+17652	http://newplymouthhighschool.wordpress.com/	New Plymouth High School	2013.0	32.0
+17653	http://sd232.k12.id.us/schools/elementary/default.asp	Wendell Elementary School	2013.0	467.0
+17654	http://isb.idaho.gov	Bar, Idaho State	2009.0	363.0
+17655	http://www.cityofashton.com	Ashton	2005.0	398.0
+17656	http://www.mtchs.org/	Meridian Technical Charter High School	2005.0	188.0
+17657	http://www.lewistonschools.net/schools/webster/	Webster Elementary School	2011.0	29.0
+17658	http://chs.cascadeschools.org/	Cascade High School	2013.0	67.0
+17660	http://www.midvalerangers.org/high_school/high_school.htm	Midvale High School	2008.0	0.0
+17662	http://www.idwr.idaho.gov/	Water Resources, Department of	2004.0	1374.0
+17663	http://www.doi.idaho.gov/sfm/firemars.aspx	Fire Marshal, State	2006.0	23.0
+17665	http://www.edlinesites.net/pages/prairie_high_school	Prarie Jr./Sr. High School	2014.0	12.0
+17668	https://jsd.astihosted.com/jefferson_alternative_high.ssp	Jefferson Alternative High	2014.0	25.0
+17670	http://www.idjc.idaho.gov/	Juvenile Corrections, Department of	2007.0	75.0
+17671	http://www.ien.idaho.gov/	Education Network, Idaho - IEN	2009.0	40.0
+17673	http://www.edline.net/pages/parma_middle_school	Parma Middle School	2011.0	2.0
+17674	http://sorensen-cdasd-id.schoolloop.com/portal/school_list	Sorensen Magnet School of the Arts and Humanities	2013.0	22.0
+17675	http://www.whitepinecharterschool.org	White Pine Charter School	2003.0	1.0
+17676	http://www.kunaschools.org/schools/ic/home/home.php	Indian Creek Elementary School	2006.0	0.0
+17677	http://www.weiserschools.org/schools/middle/	Weiser Middle School	2012.0	0.0
+17678	http://lapwaidistrict.org/elementaryschool	Lapwai Elementary	2011.0	40.0
+17679	http://icbvi.idaho.gov/	Blind and Visually Impaired, Commission for the	2009.0	30.0
+17680	http://www.rbulldogs.org/	Rockland School District #382	1998.0	19023.0
+17681	http://castlefordschools.com/	Castleford District #417	2004.0	2.0
+17682	http://www.iic.idaho.gov/	Industrial Commission, Idaho	2006.0	47.0
+17683	http://staridaho.org/	Star	2002.0	29.0
+17684	http://fruitlandschools.org/fpa/	Fruitland Alternative Junior/Senior High School	2012.0	13.0
+17685	http://tleweb.lakeland272.org/	Twin Lakes Elementary School	2011.0	14242.0
+17687	http://finance.idaho.gov/	Finance, Department of	2005.0	150.0
+17688	http://www.sd381.k12.id.us/american-falls-intermediate-sch	American Falls Intermediate School	2013.0	126.0
+17689	http://ipels.idaho.gov/	Engineers and Land Surveyors, Professional Board of	2005.0	35.0
+17691	http://ds1.mybigcampus.net/	Deary Elementary School	2012.0	10.0
+17692	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=725&linkid=nav-menu-container-1-2405	Mountain Home Jr. High School	2010.0	26.0
+17693	http://www.minidoka.id.us/	Minidoka County	2001.0	75.0
+17694	http://www.meridianschools.org/eaglehills/pages/eaglehillselementary.aspx	Eagle Hills Elementary School	2011.0	1.0
+17695	http://www1.nsd131.org/mainsite/schools/snk/default.aspx	Snake River Elementary School	2008.0	434.0
+17696	http://www.meridianschools.org/peregrine/pages/peregrineelementary.aspx	Peregrine Elementary School	2011.0	1.0
+17697	http://www.isll.idaho.gov/	Law Library, Idaho State	2004.0	9.0
+17698	http://www.idahoptv.org/	Public Television, Idaho	1998.0	5914.0
+17699	http://www.notusschools.org/	Notus School District #135	2011.0	425.0
+17700	http://www.lavahotspringscity.com/Pages/default.aspx	Lava Hot Springs	2012.0	19.0
+17701	http://tljhsweb.lakeland272.org/	Timberlake Junior High School	2011.0	8676.0
+17703	http://history.idaho.gov/archives-hours-location	Archives, State	2011.0	429.0
+17704	http://www.pleasantvalleyschools.org/	Pleasant Valley School District #364	2012.0	14.0
+17705	http://csd13.org/	Council School District #13	2002.0	78.0
+17706	http://www.kelloggschools.org/	Kellogg Joint School District #391	2010.0	43.0
+17707	http://www.rhpcs.org	Rolling Hills Public Charter School (K-8)	2009.0	53.0
+17708	http://priestriver-id.gov/	Priest River	2009.0	271.0
+17709	http://ljhsweb.lakeland272.org/	Lakeland Junior High School	2011.0	8042.0
+17710	http://rigginsidaho.org	Salmon River Public	2006.0	461.0
+17711	http://www.emmettschools.org/	Emmett Independent School District #221	2002.0	6.0
+17712	http://taft.school.boiseschools.org	William Howard Taft Elementary School	2013.0	293.0
+17713	http://ww3.buhlidaho.net/	Buhl	0.0	0.0
+17714	http://www.cityofpayette.com/	Payette	2008.0	507.0
+17715	http://www.idoc.idaho.gov/	Correction, Department of	2007.0	824.0
+17716	http://blaineschools.org/schools/scas/default.aspx	Silver Creek Alternative (9-12)	2007.0	0.0
+17717	https://sites.google.com/a/cassiaschools.org/dworshak/home	Dworshak Elementary School	2014.0	23.0
+17718	http://www.piercepubliclibrary.com	Pierce District	2008.0	7.0
+17719	http://dbs.idaho.gov/programs/publicworks/index.html	Public Works Contractor Licensing Board	2010.0	7.0
+17720	http://meadows-cdasd-id.schoolloop.com/portal/school_list	Hayden Meadows Elementary School	0.0	22.0
+17721	http://www.arbonvalley.com/school-district/arbon-elementary-school/	Arbon Elementary School	2010.0	2.0
+17722	http://stitesidaho.com/	Stites	2007.0	22.0
+17723	http://he-ksd-id.schoolloop.com/cms/page_view?d=x&piid=&vpid=1270707404661	Harrison Elementary School	0.0	7133.0
+17724	http://www.blaineschools.org/	Blaine County School District #61	2004.0	249.0
+17725	http://www.canyonco.org/index.aspx	Canyon County	2008.0	709.0
+17726	http://www.phd7.idaho.gov/	Health District 7 (Eastern)	2010.0	72.0
+17728	http://www.meridianschools.org/chiefjoseph/pages/chiefjosephelementary.aspx	Chief Joseph School of the Arts	2011.0	1.0
+17729	http://www.heritageacademyid.org/	Heritage Academy Charter School	2011.0	95.0
+17730	http://www.healthandwelfare.idaho.gov/medical/medicaid/tabid/123/default.aspx	Medicaid	2009.0	2.0
+17732	http://www1.nsd131.org/mainsite/schools/ems/default.aspx	East Valley Middle School	2008.0	916.0
+17733	http://www.hhsrams.com/	Highland High School	2013.0	1.0
+17734	http://www1.nsd131.org/mainsite/schools/wms/default.aspx	West Middle School	2007.0	657.0
+17735	http://buhl.lili.org	Buhl Public	2007.0	35.0
+17736	http://www.kunaschools.org/schools/khs/home/home.php	Kuna High School	2006.0	0.0
+17737	http://www.sodaschools.org/index-2.html	Thirkill Elementary School [K-3]	2011.0	11.0
+17738	http://www.silc.idaho.gov/	Independent Living Council	2007.0	45.0
+17739	http://www.twinfallscounty.org/	Twin Falls County	2001.0	143.0
+17740	http://victorycharterschool.net/	Victory Charter School	2011.0	213.0
+17742	http://www.sd244.org/education/school/school.php?sectionid=2036&linkid=nav-menu-container-1-13768	Grangeville Elementary/Middle School	2011.0	17.0
+17743	http://www.meridianschools.org/pms/pages/pathwaysmiddleschool.aspx	Pathways Alternative Middle School	2011.0	1.0
+17745	http://kimberly.lili.org	Kimberly Public	2007.0	26.0
+17747	http://www.idaholottery.com/	Lottery Commission, Idaho State	1997.0	136.0
+17748	http://www.harrisonidaho.org	Harrison  Chamber of Commerce	2005.0	61.0
+17749	https://jsd.astihosted.com/portal/default.aspx?pg=584	Harwood Elementary School	2014.0	3.0
+17751	http://www.dietrichidaho.com	Dietrich	2004.0	361.0
+17752	http://fishandgame.idaho.gov/	Fish and Game, Department of	2004.0	5179.0
+17753	http://www1.nsd131.org/mainsite/schools/iow/default.aspx	Iowa Elementary School	2007.0	131.0
+17754	http://wallace.lili.org	Wallace Public	2007.0	71.0
+17756	http://www.melbaschools.org/mhs/	Melba Junior/Senior High School	2007.0	5.0
+17757	http://www.bearlakecounty.info/	Bear Lake County	2003.0	130.0
+17758	http://www.buttemiddle.org/	Butte Middle School	2011.0	162.0
+17759	http://rvsd.snakeriver.org/	Riverside Elementary School	2010.0	11.0
+17760	http://haileypubliclibrary.org	Hailey Public	2000.0	102.0
+17761	http://www.latahlibrary.org/branches/deary.asp	Deary Public Library	2006.0	11.0
+17763	http://tsd401.org/index.php?option=com_content&view=article&id=321&itemid=50	Teton Middle School	0.0	291.0
+17764	http://simpson.house.gov/	Simpson, Mike, Representative (R)	2009.0	441.0
+17765	http://www.midvalerangers.org/junior_high/junior_high.htm	Midvale Junior High School	2008.0	0.0
+17766	http://www.kimberly.edu/	Kimberly School District #414	1998.0	809.0
+17767	http://www.gvsd.net/schools/garden_valley_middle_school	Garden Valley Middle School	2014.0	183.0
+17768	http://www.sd287.k12.id.us/	Troy School District #287	2005.0	45.0
+17769	http://www.rexburg.org/pages/home	Rexburg	2014.0	295.0
+17770	http://priestlake.lili.org/	Priest Lake District	2007.0	26.0
+17771	http://www.cdacharter.org/	Coeur d'Alene Charter Academy (6-12)	2000.0	87.0
+17773	https://sites.google.com/a/vallivue.org/vallivue-middle/	Vallivue Middle School	2014.0	54.0
+17774	http://trailwind.school.boiseschools.org	Trail Wind Elementary School	2013.0	262.0
+17775	http://ramsey-cdasd-id.schoolloop.com/portal/school_list	Ramsey Magnet Elementary School of Science	2013.0	22.0
+17776	http://www.bellevueidaho.us	Bellevue Public	2006.0	773.0
+17778	https://sites.google.com/a/cassiaschools.org/cassia-preschool/	Cassia County Preschool	2014.0	15.0
+17779	http://victory-academy.frankchurch.school.boiseschools.org/modules/groups/integrated_home.phtml?gid=3246564&sessionid=c234ac38061d93f7c21bde6f08002398	Victory Academy	0.0	17.0
+17780	http://www.meridianschools.org/silversage/pages/silversageelementary.aspx	Silver Sage Elementary School	2011.0	1.0
+17782	http://www.clarkcountyschools161.org/	Clark County District #161	2010.0	71.0
+17783	http://www.mackayschools.org/	Mackay District #182	2011.0	1376.0
+17784	http://web.lakeland272.org/	Lakeland Joint School District #272	2009.0	2695.0
+17788	http://tsd401.org/index.php?option=com_content&view=article&id=149&itemid=155	Tetonia Elementary School	0.0	291.0
+17789	http://www.daltongardens.govoffice.com/	Dalton Gardens	2006.0	48.0
+17790	http://serveidaho.gov/home.aspx	Serve Idaho, Governor's Commission on Service and Volunteerism	2012.0	135.0
+17791	http://firstlady.idaho.gov/	First Lady	2004.0	24.0
+17793	http://liberty.school.boiseschools.org	Liberty Elementary School	2013.0	840.0
+17794	http://hp.lposd.org/	Hope Elementary School	2008.0	185.0
+17795	http://www.pfsd.com/default.aspx?indx=1&pageid=102	Post Falls Middle School	0.0	106.0
+17796	http://be6.mybigcampus.net/	Bovill Elementary School [K-3]	2012.0	13.0
+17797	http://www1.sd25.us/sites/chub/index.htm	Chubbuck Elementary School	2012.0	13.0
+17798	http://www.sunvalley.govoffice.com	Sun Valley	2002.0	510.0
+17799	http://www.mld.org	Meridian District	1998.0	103.0
+17800	http://www.rockymountainpanthers.com/	Rocky Mountain Middle School	2011.0	98.0
+17802	http://www.davincicharterschools.org/cms/	DaVinci Charter School	2012.0	282.0
+17804	http://tes.sd148.org/	Thatcher Elementary School	2014.0	8.0
+17805	http://hawthorne.school.boiseschools.org	Hawthorne Elementary School	2013.0	279.0
+17806	http://www.cityoflewiston.org/	Lewiston	1999.0	722.0
+17807	http://irp.idaho.gov/	Rural Partnership, Idaho	2004.0	926.0
+17808	http://www.salmonschools.com/alternativeschool/about.html	Salmon Alternative High School	2011.0	18.0
+17809	http://www.nezpercesd.us/nezpercehigh	Nezperce Junior/Senior High School	2013.0	9602.0
+17810	http://www.albionvalley.com	Albion	2001.0	1.0
+17811	http://www.rbulldogs.org/cms/page_view?d=x&piid=&vpid=1323614912919	Rockland High School	0.0	6607.0
+17812	http://www.sos.idaho.gov/notary/npindex.htm	Notaries, Apostilles and Authentications, Secretary of State	2006.0	10.0
+17813	http://rigby.lili.org/	Rigby Public	2007.0	46.0
+17814	http://business.idaho.gov/(X(1)S(vjcwjw3521c2nc3nswovpsuk))/default.aspx?AspxAutoDetectCookieSupport=1	Business.Idaho.gov	0.0	4.0
+17815	http://www.isc.idaho.gov/district-courts	District Courts	2012.0	2526.0
+17816	http://mms.msd134.org/	Middleton Middle School	2013.0	54.0
+17818	http://nezperce.lili.org/	Prairie-River District Nezperce	2007.0	31.0
+17819	http://www.kunachamber.com	Kuna Chamber of Commerce	2001.0	13.0
+17822	https://sites.google.com/a/vallivue.org/vallivue-school-district/	Vallivue School District #139	2013.0	280.0
+17823	http://prairieriver.lili.org	Prairie-River District	2008.0	51.0
+17824	http://www.midvalerangers.org/professional-technical/professional-technical.htm	Midvale Professional-Technical Programs	2008.0	0.0
+17826	http://www.doveridaho.org	Dover	2008.0	70.0
+17827	http://cms.idaho.gov/	Parking, Capitol Mall	2012.0	23.0
+17828	http://sd148.org/	Grace School District #148	2002.0	91.0
+17829	http://www.sd287.k12.id.us/drawjrsrhighschool.aspx?pageid	Troy Junior-Senior High School	2014.0	46.0
+17830	http://www.cdaid.org/	Coeur d'Alene	2003.0	783.0
+17831	http://www.cityofmelba.org/	Melba	2008.0	2.0
+17832	http://inkom_el.mvsd21.org/	Inkom Elementary School	2005.0	0.0
+17833	http://www.mountain-home.us/cityhall/	Mountain Home	2013.0	168.0
+17834	http://www.mtnhomesd.org/education/district/district.php?sectionid=1	Mountain Home School District #193	2010.0	2.0
+17835	http://www.hugedomains.com/domain_profile.cfm?d=fmspanthers&e=com	Franklin Middle School	0.0	1949.0
+17836	http://www.weippe.com	Weippe	2000.0	328.0
+17837	http://stuart.shelleyschools.org/	Stuart Elementary School	2013.0	9.0
+17839	http://www.newmeadowsidaho.org	New Meadows	0.0	2500.0
+17840	http://gov.idaho.gov/boards/boards.cfm	Boards, Commissions & Councils (Executive)	2004.0	4.0
+17841	http://www.sd381.k12.id.us/american-falls-academy	American Falls Academy	2013.0	110.0
+17842	http://grangevilleidaho.com/	Grangeville	2000.0	316.0
+17843	http://www.postfallsidaho.org/	Post Falls	1999.0	105.0
+17844	http://chs-cdasd-id.schoolloop.com/portal/school_list	Coeur d'Alene High School	2013.0	22.0
+17845	http://tsd401.org/index.php?option=com_content&view=article&id=52&itemid=48	Basin High School	0.0	291.0
+17846	http://www.goodingidaho.org	Gooding	2002.0	143.0
+17847	http://www.deq.idaho.gov/inl-oversight.aspx	INL Oversight	2011.0	893.0
+17848	http://www.ag.idaho.gov/	Attorney General	2004.0	812.0
+17850	http://www.boisestate.edu/	Boise State University	1998.0	3.0
+17851	http://www.ohwy.com/id/m/malta.htm	Malta	1998.0	3.0
+17853	http://leasing.idaho.gov/	Leasing, State	2012.0	9.0
+17854	http://www.salmonschools.com/middleschool/home.html	Salmon Middle School	2011.0	22.0
+17855	http://amfalls.lili.org	American Falls District	2008.0	43.0
+17856	http://koelsch.school.boiseschools.org	Koelsch Elementary School	2013.0	395.0
+17857	http://www.meridianschools.org/galileo/pages/galileomathandsciencemagnet.aspx	Galileo STEM Academy	2011.0	1.0
+17858	http://www.filmidaho.org	Film Office	2000.0	8.0
+17859	http://www.preston.k12.id.us/preston-jr-high-school.html	Preston Junior High School	2012.0	129.0
+17860	http://mce.msd134.org/	Mill Creek Elementary School	2013.0	65.0
+17861	http://rupert-idaho.com/	Rupert	2002.0	0.0
+17862	http://wa.lposd.org/	Washington Elementary School	2009.0	171.0
+17863	http://www1.nsd131.org/mainsite/schools/shs/default-old.aspx	Skyview High School	2011.0	995.0
+17865	http://ChallisIdaho.com/ahome.html	Challis	2003.0	1044.0
+17866	http://wbcsd-id.schoolloop.com/	West Bonner County School District #83	2012.0	1991.0
+17867	http://www.culsch.org/webdesign/	Culdesac Joint School District #342	2010.0	123.0
+17868	http://lewiscountyid.us/	Lewis County	2007.0	20.0
+17869	http://www.prairie191k8.org/	Prairie Elementary/Junior High School (K-8)	2007.0	5.0
+17871	http://www.minidokaschools.org/minico	Minico High School	2012.0	673.0
+17872	http://www.judicialcouncil.idaho.gov/	Idaho Judicial Council	2005.0	12.0
+17873	http://www.sos.idaho.gov/ucc/uccindex.htm	Uniform Commercial Code (UCC), Secretary of State	2006.0	19.0
+17874	http://ww2.stmariesidaho.com/library	St Maries Public	0.0	148.0
+17875	http://isp.idaho.gov/	Police, Idaho State	2010.0	196.0
+17876	http://downey_el.mvsd21.org/	Downey Elementary School	2005.0	0.0
+17877	http://www.pfsd.com/default.aspx?indx=8&pageid=159	Prairie View Elementary School	0.0	106.0
+17879	http://commerce.idaho.gov/site-selection/key-industries/technology-and-innovation	Commercial Innovation Division, Idaho	2014.0	8.0
+17881	http://dpw.idaho.gov/	Public Works, Division of	2012.0	35.0
+17882	http://www.e911.idaho.gov	Emergency Communications Commission	2005.0	13.0
+17883	http://www1.sd25.us/sites/syrn/index.htm	Syringa Elementary School	2012.0	0.0
+17884	https://wordpress.lewistonschools.net/mcghee/	McGhee Elementary School	2011.0	6.0
+17885	http://newplymouth.lili.org	Armoral Tuttle Public	2007.0	108.0
+17886	http://sapd.idaho.gov/	State Appellate Public Defender's Office	2012.0	2.0
+17887	http://glennsferryidaho.org	Glenns Ferry	2002.0	362.0
+17889	http://www.latahlibrary.org/branches/juliaetta.asp	Juliaetta Public Library	2006.0	11.0
+17890	http://www.healthandwelfare.idaho.gov/health/tabid/60/default.aspx	Health, Division of	2009.0	59.0
+17891	http://www.meridianschools.org/ustick/pages/ustickelementary.aspx	Ustick Elementary School	2011.0	1.0
+17892	http://hagerman.lili.org	Hagerman Public	2007.0	27.0
+17893	http://www.meridianschools.org/schools/specialty/rebound/pages/reboundschoolofopportunity.aspx	Rebound School of Opportunity	2012.0	1.0
+17894	http://westside.d91.k12.id.us/	Westside Elementary School	2013.0	3.0
+17897	http://dbs.idaho.gov	Building Safety, Division of	2005.0	163.0
+17898	http://www1.nsd131.org/mainsite/schools/pv/default.aspx	Parkview Early Childhood Center	2008.0	95.0
+17899	http://www.phd5.idaho.gov/	Health District 5 (South Central)	2004.0	54.0
+17900	http://www.challischamber.com/	Challis Chamber of Commerce	2006.0	1.0
+17901	http://www.minidokaschools.org/mhhs	Mt. Harrison Jr.Sr. High School	2012.0	1062.0
+17902	http://www.shoshonecity.com/	Shoshone	2006.0	15.0
+17903	http://shes-wsd393-id.schoolloop.com/	Silver Hills Elementary School	2011.0	14196.0
+17904	http://isba.idaho.gov	Accountancy, Board of	2005.0	19.0
+17905	http://mtvweb.lakeland272.org/	Mountain View Alternative High School	2009.0	6936.0
+17907	http://www.madisonlib.org	Madison District	2007.0	33.0
+17908	http://www.stanthonychamber.com	St. Anthony Chamber of Commerce	2001.0	84.0
+17909	http://www.pfsd.com/default.aspx?indx=1&pageid=18	Post Falls High School	0.0	106.0
+17910	http://www.boiseschools.org/	Boise School District #1	2000.0	957.0
+17911	http://irec.idaho.gov/	Real Estate Commission, Idaho	2004.0	34.0
+17912	http://www.cambridgeidaho.com	Cambridge	2005.0	18.0
+17913	http://www.cascadechamber.com	Cascade Chamber of Commerce	2003.0	35.0
+17914	http://piercepark.school.boiseschools.org	Pierce Park Elementary School	2013.0	330.0
+17915	http://us-sd41-id.schoolloop.com/	UpRiver Elementary	2012.0	10291.0
+17916	http://roosevelt.school.boiseschools.org	Roosevelt Elementary School	2013.0	305.0
+17917	http://www.meridianschools.org/meridian/pages/meridianelementary.aspx	Meridian Elementary School	2011.0	1.0
+17918	http://ashtonelementaryschool.blogspot.com/	Ashton Elementary School	2011.0	11.0
+17919	http://www.sugarcityidaho.gov/	Sugar City	2008.0	253.0
+17920	http://capitolcommission.idaho.gov/	Capitol Commission, Idaho	2006.0	58.0
+17921	http://www.middleton.id.gov/	Middleton	2007.0	64.0
+17922	http://docs.d55.k12.id.us/forthall/forthall.htm	Fort Hall Elementary School	2013.0	5.0
+17923	http://www.csi.edu/	College of Southern Idaho	1998.0	1848.0
+17924	http://hillcrest.school.boiseschools.org	Hillcrest Elementary School	2013.0	329.0
+17925	http://www.co.valley.id.us/	Valley County	2006.0	81.0
+17926	http://www.ashtonidaho.com	Ashton Chamber of Commerce	2002.0	249.0
+17927	http://www1.nsd131.org/mainsite/schools/edv/default.aspx	Endeavor Elementary School	2008.0	1576.0
+17928	http://ple.sd83.org/	Priest Lake Elementary School	2012.0	7358.0
+17930	https://sites.google.com/site/richfieldtigers/	Richfield School	2010.0	9.0
+17931	http://www.northvalleyacademy.com	North Valley Academy (K-8)	2008.0	64.0
+17932	http://bovm.idaho.gov/	Veterinary Medicine, Board of	2011.0	45.0
+17933	http://www3.d93.k12.id.us/schools---webpages/elementary-schools/mountain-valley.aspx	Mountain Valley Elementary School	2012.0	0.0
+17934	http://www.centennialpatriots.org/	Centennial High School	2006.0	0.0
+17935	http://www.hillcrestknights.com/	Hillcrest High School	2001.0	129.0
+17936	http://caldwell.lili.org/	Caldwell Public	2007.0	27.0
+17938	http://csd13.org/elementary/	Council Elementary	2014.0	13.0
+17939	http://www.kunaschools.org/hubbard-and-teed-home-page.html	Hubbard Elementary School	2013.0	0.0
+17940	http://www.sd282.org/	Genesee Joint School District #282	2008.0	20.0
+17941	http://sd232.k12.id.us/schools/high/default.asp	Wendell High School	2013.0	467.0
+17942	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=795&linkid=nav-menu-container-1-2405	Mountain Home AFB Primary School	2010.0	26.0
+17943	http://www.meridianschools.org/joplin/pages/joplinelementary.aspx	Joplin Elementary School	2011.0	1.0
+17944	http://www.srba.state.id.us/	Snake River Basin Court of Adjudication	1998.0	201.0
+17945	http://tceagles.weebly.com/	Taylor's Crossing Public Charter School	2011.0	95.0
+17947	http://ma.meridianschools.org/	Meridian Academy High School	2001.0	8.0
+17948	http://bunker.d91.k12.id.us/	Theresa Bunker Elementary School	2013.0	1.0
+17949	http://jrh.sd83.org/	Priest River Junior High School	2012.0	7678.0
+17951	http://www3.d93.k12.id.us/	Bonneville Joint School District #93	1997.0	0.0
+17952	http://twinfallschamber.com/	Twin Falls Chamber of Commerce	1998.0	1640.0
+17953	http://www.d91.k12.id.us/taylorview/	Taylorview Middle School	2005.0	0.0
+17955	http://www.persi.idaho.gov/	PERSI (Public Employee Retirement System of Idaho)	2006.0	64.0
+17956	http://www.meridianschools.org/chaparral/pages/chaparralelementary.aspx	Chaparrel Elementary School	2011.0	1.0
+17957	http://www.ifpl.org	Idaho Falls Public	2003.0	25.0
+17958	http://www.ci.shelley.id.us/	Shelley	2005.0	44.0
+17959	http://www.cityofhaydenid.us/	Hayden	2005.0	499.0
+17960	http://energy.idaho.gov/energyalliance/	Energy Alliance, Idaho Strategic	2010.0	10.0
+17961	http://www.minidokaschools.org/site/default.aspx?PageID=1	Minidoka County Joint School District #331	2012.0	35.0
+17963	http://www.sd365.us/	Bruneau-Grand View Joint School District #365	2006.0	126.0
+17964	http://www.stanley.id.gov/	Stanley	2011.0	19.0
+17965	http://www.meridianschools.org/pepperridge/pages/pepperridgeelementary.aspx	Pepper Ridge Elemementary School	2011.0	1.0
+17967	http://portneuflibrary.org/	Portneuf District	2010.0	139.0
+17968	http://anotherchoicecharter.org/	Another Choice Virtual Charter School	2010.0	46.0
+17969	http://northbingham.lili.org	North Bingham County District	2007.0	96.0
+17970	http://www.pfsd.com/default.aspx?indx=8&pageid=151	Ponderosa Elementary School	0.0	106.0
+17972	http://tlhsweb.lakeland272.org/	Timberlake Senior High School	2010.0	6648.0
+17973	http://www.nwcouncil.org/	Northwest Power and Conservation Council	2001.0	2409.0
+17974	http://www.communityschool.org/	Community School	1999.0	224.0
+17975	http://www.city-data.com/city/Bancroft-Idaho.html	Bancroft	2004.0	1221.0
+17976	http://kennethcarberry.groupfusion.net/modules/cms/pages.phtml?pageid=6795&sid	Kenneth J. Carberry Intermediate School	2007.0	1.0
+17977	http://www.sd287.k12.id.us/drawelementary.aspx?pageid=7	Troy Elementary School	2012.0	46.0
+17978	http://www.northstarcharter.org	North Star Charter School (K-10	2002.0	106.0
+17979	http://palouseprairieschool.org	Palouse Prairie School	2005.0	61.0
+17980	http://www.thevillagecharterschool.org	Village Charter School, The	2010.0	1380.0
+17981	http://bop.idaho.gov/index.html	Pharmacy, Board of	2012.0	20.0
+17982	http://kt.lposd.org/	Kootenai Elementary School	2008.0	526.0
+17983	http://bryan-cdasd-id.schoolloop.com/portal/school_list	Bryan Elementary School	2011.0	22.0
+17985	http://www.chsdbacks.com/	Century High School	2009.0	43.0
+17986	http://west.school.boiseschools.org	West Junior High School	2011.0	4745.0
+17987	https://sites.google.com/a/cloud.ifschools.org/eipths/	Eastern Idaho Professional-Technical High School	2014.0	65.0
+17988	http://www.sd381.k12.id.us/american-falls-high-school	American Falls High School	2013.0	13.0
+17989	http://www.phd1.idaho.gov/	Health District 1 (Panhandle)	2007.0	87.0
+17990	https://sites.google.com/a/cassiaschools.org/raft-river-elementary-school/	Raft River Elementary School	2014.0	33.0
+17991	http://www.sodaschools.org/	Soda Springs Joint School District #150	2000.0	11.0
+17994	http://www.latahlibrary.org/branches/genesee.asp	Genesee Public Library	2006.0	11.0
+17996	http://www.cityofnampa.us	Nampa	2013.0	1064.0
+17998	http://pe.tfsd.org/	I. B. Perrine Elementary School	2011.0	181.0
+17999	http://cossaschools.org/	CanyonOwyhee School Service Agency #555	2012.0	1.0
+18000	http://www.id.uscourts.gov/default.cfm	District & Bankruptcy Court	2013.0	34.0
+18001	http://www.sd171.k12.id.us/peck/index.htm	Peck Elementary School	2009.0	235.0
+18003	http://www.lewistonschools.net/schools/jenifer/	Jenifer Junior High School	2011.0	24.0
+18004	http://lam.sd83.org/	Priest River Lamanna High School	2012.0	13284.0
+18006	http://ses.kelloggschools.org/	Sunnyside Elementary School	2010.0	20.0
+18007	http://www.visioncharter.net	Vision Charter School	2007.0	1110.0
+18008	http://westbonner.lili.org	West Bonner District	2007.0	31.0
+18010	http://www.weiserschools.org/schools/park/	Park Intermediate School	2012.0	0.0
+18011	http://www.buhlschools.org/	Buhl Joint School District #412	2010.0	51.0
+18012	http://mtview_el.mvsd21.org/	Mountain View Elementary School	2006.0	0.0
+18013	http://oneidacountyid.com/	Oneida County	2012.0	97.0
+18014	http://www.arteccharterschool.com/	ARTEC Charter School (7-12)	2008.0	71.0
+18015	http://www.washingtonelementary.us/	Washington Elementary School	2014.0	2.0
+18016	http://fruitlandschools.org/fms/	Fruitland Middle School	2012.0	50.0
+18018	http://sageinternationalschool.org/	Sage International School of Boise	2009.0	598.0
+18019	http://boisebasin.lili.org	Boise Basin District	2007.0	27.0
+18020	http://www.idahowheat.org/	Wheat Commission, Idaho	2003.0	50.0
+18021	http://www.cityofkimberly.org	Kimberly	2002.0	369.0
+18022	http://www.rbulldogs.org/cms/page_view?d=x&piid=&vpid=1323614908262	Rockland Elementary School	0.0	6255.0
+18023	http://www.cassiacounty.org/	Cassia County	2001.0	118.0
+18024	http://www.tfhsbruins.com/	Twin Falls High School	2004.0	330.0
+18025	http://www.sd171.k12.id.us/ths/index.html	Timberline K-12	2012.0	235.0
+18026	http://www.edline.net/pages/maxine_johnson_elementary_scho	Maxine Johnson Elementary School	2011.0	2.0
+18027	http://jefferson.school.boiseschools.org	Jefferson Elementary School	2013.0	165.0
+18028	https://sites.google.com/a/sd215.net/pe/	Parker-Egin Elementary School	2011.0	25.0
+18029	http://www.wssd.k12.id.us/index.php/high-school	Harold B. Lee Elementary	2012.0	3140.0
+18030	http://www.nic.edu/	North Idaho College	1998.0	884.0
+18031	http://www.crapo.senate.gov/	Crapo, Mike, Senator (R)	1999.0	249.0
+18032	http://pes.kelloggschools.org/	Pinehurst Elementary School	2010.0	27.0
+18033	http://www.preston.k12.id.us/	Preston School District #201	1998.0	129.0
+18034	http://chs-cdasd-id.schoolloop.com/static/not_found.html	Riverbend Professional Technical Academy	2011.0	1.0
+18035	https://sites.google.com/a/cassiaschools.org/burley-jr-high-school/	Burley Junior High School	2014.0	19.0
+18037	http://www.hagerman.k12.id.us/joomla/	Hagerman Junior/Senior High School	2009.0	1.0
+18038	https://sites.google.com/a/vallivue.org/vallivue-academy/	Vallivue Academy High School	2014.0	24.0
+18039	http://plummer.lili.org	Plummer Public	2008.0	45.0
+18040	http://www.pfsd.com/default.aspx?indx=8&pageid=167	Seltice Elementary School	0.0	106.0
+18041	http://www.mdsd.org/	McCall-Donnelly Joint School District #421	2001.0	275.0
+18042	http://www.ansercharterschool.org	Anser Charter School (K-8)	2006.0	150.0
+18043	http://www.gvsd.net/schools/garden_valley_high_school	Garden Valley High School	2014.0	169.0
+18044	http://www.franklincountyidaho.org/	Franklin County	2007.0	51.0
+18045	https://sites.google.com/a/vallivue.org/desert-springs-elementary/home	Desert Springs Elementary School	2014.0	21.0
+18046	http://gardenvalley.lili.org/	Garden Valley District	2007.0	29.0
+18047	http://www.sd149.com/	North Gem School District #149	2002.0	50.0
+18048	http://lchs-cdasd-id.schoolloop.com/portal/school_list	Lake City High School	0.0	16.0
+18049	http://www.marsingschools.org/	Marsing School District #363	2006.0	116.0
+18050	http://www.meridianschools.org/hms/pages/heritagemiddleschool.aspx	Heritage Middle School	2010.0	1.0
+18051	http://www.pwsd44.com/	Plummer-Worley School District #44	2002.0	124.0
+18052	http://www.theacademyarc.com	Academy Public Charter School	2005.0	64.0
+18053	http://cf.lposd.org/	Clark Fork Jr/Sr High	2008.0	1863.0
+18054	http://buttehighschool.sharpschool.com/	Butte High School	2010.0	262.0
+18055	http://www.notusschools.org/elementary	Notus Elementary School	2012.0	452.0
+18056	http://sa.lposd.org/	Sagle Elementary School	2008.0	211.0
+18058	http://www.epodunk.com/cgi-bin/geninfo.php?locindex=7098	Wardner	2002.0	1.0
+18059	http://www.lewistonschools.net/schools/centennial/	Centennial Elementary School	2011.0	15.0
+18060	http://www.southbannocklibrary.org	South Bannock District	2006.0	7.0
+18061	http://www.aberdeen58.org/wordpress/	Aberdeen School District #58	2009.0	80.0
+18063	http://www.isu.edu/	Idaho State University	1997.0	2853.0
+18064	http://atlas.msd134.org/	ATLAS School	2013.0	34.0
+18065	http://www.fairfieldidaho.us/	Fairfield	2003.0	7.0
+18066	http://www.idahocitychamber.com/cgi-sys/suspendedpage.cgi	Idaho City  Chamber of Commerce	2012.0	7.0
+18067	http://www.pte.idaho.gov/	Professional-Technical Education, Division of	2005.0	294.0
+18068	http://prairieriver.lili.org/culdesac	Prairie-River District - Culdesac	2010.0	52.0
+18069	http://rmhsgrizzlies.net/	Rocky Mountain High School	2013.0	1723.0
+18070	http://www.butteview.groupfusion.net/	Butte View Elementary School	2007.0	1.0
+18071	http://gov.idaho.gov/	Governor	2004.0	156.0
+18072	http://www.marsingschools.org/?page_id=767	Marsing Elementary School	2014.0	116.0
+18073	https://adacounty.id.gov/	Ada County	2014.0	637.0
+18074	http://www.buhlchamber.org	Buhl Chamber of Commerce	2008.0	8.0
+18075	http://www1.sd25.us/sites/ims/index.htm	Irving Middle School	2013.0	0.0
+18076	http://www.aberdeen58.org/wordpress/?page_id=174	Aberdeen High School	2010.0	80.0
+18077	http://labrador.house.gov/	Labrador, Representative Ral (R)	2011.0	308.0
+18078	http://www.idwr.idaho.gov/watermanagement/floodplainmgmt/default.htm	Floodplain Management	2009.0	22.0
+18079	http://idh.sd83.org/	Idaho Hill Elementary School	2012.0	7698.0
+18080	http://bta.idaho.gov/	Tax Appeals, Board of	2007.0	13.0
+18081	http://ces.cascadeschools.org/	Cascade Elementary School	2013.0	43.0
+18082	http://www.tjcs.org/	Thomas Jefferson Charter School	2000.0	82.0
+18084	http://www.pfsd.com/default.aspx?indx=1&pageid=9	New Vision Alternative High School	0.0	106.0
+18085	http://www.rigginsidaho.com/	Riggins	1999.0	306.0
+18088	http://www.pr2ta.com	Payette River Technical Academy	2011.0	1.0
+18089	http://tsd401.org/index.php?option=com_content&view=article&id=150&itemid=156	Victor Elementary School	0.0	291.0
+18090	http://energy.idaho.gov/	Energy Resources,  Governor's Office of	2007.0	84.0
+18091	http://denniscenter.school.boiseschools.org	Dehryl A. Dennis Professional Technical Education Center	2012.0	304.0
+18093	http://www.jeromeschools.org/index.php/design-and-features/menu-styles	Horizon Elementary School	2013.0	10.0
+18094	http://www.co.nezperce.id.us/	Nez Perce County	1999.0	1171.0
+18095	http://www.idahochildrenstrustfund.org/	Children's Trust Fund, Idaho	2011.0	68.0
+18096	http://www.meridianschools.org/parents/nightschool/pages/nightschool.aspx	Meridian Night School	2010.0	1.0
+18098	http://bearlakechamber.org	Paris  Chamber of Commerce	2001.0	54.0
+18099	http://www.cityofrigby.com/	Rigby	2013.0	79.0
+18100	http://www1.sd25.us/sites/phs/	Pocatello High School	2012.0	9.0
+18101	http://ghs.sd148.org/	Grace Junior/Senior High School	2013.0	43.0
+18102	http://www.victorcityidaho.com/	Victor	2008.0	392.0
+18103	http://ririe.id.schoolwebpages.com/education/dept/dept.php?sectiondetailid=259&	Ririe High School	0.0	0.0
+18104	http://www.meridianschools.org/donnell/pages/christinedonnellschoolofthearts.aspx	Christine Donnell School of the Arts	2011.0	1.0
+18105	http://www.legislature.idaho.gov/ope/	Performance Evaluations, Office of	2005.0	93.0
+18106	http://roberts.lili.org	Roberts Public	2008.0	28.0
+18107	http://www.cityofplummer.org/	Plummer	2011.0	199.0
+18108	http://www.idahogateway.com	Marsing	2000.0	1.0
+18109	http://www.co.bannock.id.us/	Bannock County	1997.0	622.0
+18110	http://www.jeromecountyid.us/	Jerome County	2010.0	256.0
+18112	http://www1.nsd131.org/mainsite/schools/scism/default.aspx	Parkview Alternative High School	2010.0	388.0
+18113	http://www.cottonwoodidaho.org	Cottonwood  Chamber of Commerce	2004.0	21.0
+18114	http://www.falconridgecharter.org	Falcon Ridge Public Charter School (K-8)	2005.0	5.0
+18115	http://www.healthandwelfare.idaho.gov/?tabid=74	Child Protection Services	2009.0	847.0
+18118	http://edgemont.d91.k12.id.us/	Edgemont Elementary School	2013.0	12.0
+18119	http://blaineschools.org/schools/woodside/default.aspx	Woodside Elementary School	2007.0	0.0
+18120	http://www.shoshonesd.org/schools/shoshone-elementary-school	Shoshone Elementary School	2013.0	15.0
+18121	http://www.healthandwelfare.idaho.gov/children/childsupport/tabid/76/default.aspx	Child Support Services	2009.0	2.0
+18122	http://horizon.school.boiseschools.org	Horizon Elementary School	2013.0	245.0
+18124	http://www.sweetola.groupfusion.net/	Sweet-Montour Elementary School	2007.0	1.0
+18125	http://whitney.school.boiseschools.org	Whitney Elementary School	2013.0	243.0
+18127	https://d321.k12.id.us/apex/f?p=web:home	Madison School District #321	2014.0	1140.0
+18128	http://www1.sd25.us/sites/wilcox/wilcoxs_web_page.htm	Wilcox Elementary School	2013.0	0.0
+18129	http://sd232.k12.id.us/	Wendell School District #232	1999.0	458.0
+18131	http://www.rigbytrojans.org/	Rigby High School	2014.0	38.0
+18132	http://www.latah.id.us/	Latah County	1999.0	178.0
+18133	http://www.healthandwelfare.idaho.gov/?tabid=80	Early Childhood Information Clearinghouse	2009.0	755.0
+18135	http://www.sandcreekdragons.com/	Sandcreek Middle School	2011.0	103.0
+18136	http://www.ci.ammon.id.us	Ammon	2007.0	54.0
+18137	http://blaineschools.org/schools/hemingway/default.aspx	Ernest Hemmingway Elementary (K-5)	2007.0	0.0
+18138	http://www.ebcl.lib.id.us	East Bonner County District	1999.0	692.0
+18141	http://www.meridianschools.org/frontier/pages/frontierelementary.aspx	Frontier Elementary School	2011.0	1.0
+18142	http://www1.sd25.us/sites/ihil/index.htm	Indian Hills Elementary	2012.0	0.0
+18143	https://sites.google.com/a/cassiaschools.org/albion-elementary/home/	Albion Elementary School	2014.0	4.0
+18144	http://bearlake.lili.org	Bear Lake County District	2007.0	99.0
+18145	http://bush.d91.k12.id.us/	A.H. Bush Elementary School	2013.0	16.0
+18146	http://www.latahlibrary.org/branches/potlatch.asp	Potlatch Public Library	2006.0	11.0
+18147	http://www.meridianschools.org/barbaramorgan/pages/barbaramorgan.aspx	Barbara Morgan STEM Academy	2014.0	1.0
+18149	http://www1.nsd131.org/mainsite/schools/wc/default.aspx	Willow Creek Elementary School	2008.0	1086.0
+18150	http://leadoreschool.org/	South Lemhi School District #292	2000.0	10.0
+18152	http://barley.idaho.gov/	Barley Commission, Idaho	2012.0	26.0
+18153	http://frankchurch.school.boiseschools.org	Frank Church High School	2012.0	1485.0
+18154	http://www.mvsd21.org/	Marsh Valley Joint School District #21	2003.0	39.0
+18155	http://www.kcgov.us/	Kootenai County	2003.0	349.0
+18156	http://borah-cdasd-id.schoolloop.com/portal/school_list	Borah Elementary School	0.0	22.0
+18157	http://www.lposd.org/	Lake Pend Oreille School District #84	2006.0	163.0
+18158	http://www.d25.k12.id.us/	Pocatello/Chubbuck School District #25	1996.0	98.0
+18160	http://www4.nsd131.org/	Nampa School District #131	2001.0	995.0
+18161	http://www.sd365.us/gview/gview.htm	Grand View Elementary School	2006.0	0.0
+18162	http://blaineschools.org/schools/carey/default.aspx	Carey School (K-12)	2007.0	0.0
+18163	http://www.dist283.org/	Kendrick Joint School District #283	2010.0	5167.0
+18164	http://midvale.lili.org	Midvale District	2007.0	43.0
+18165	http://sd232.k12.id.us/schools/middle/default.asp	Wendell Middle School	2013.0	467.0
+18166	http://srhs.snakeriver.org/	Snake River High School	2010.0	13.0
+18167	http://www.aberdeen58.org/wordpress/?page_id=171	Aberdeen Elementary School	2010.0	80.0
+18168	http://www.meridianschools.org/ea/pages/eagleacademy.aspx	Eagle Academy High School	2013.0	0.0
+18169	http://www.weippelibrary.org	Clearwater District	2008.0	6.0
+18170	http://www.meridianschools.org/pages/home.aspx	Meridian Joint School District #2	2009.0	0.0
+18171	http://www.latahlibrary.org/branches/troy.asp	Troy Public Library	2006.0	11.0
+18173	http://www.idahoidea.org/Main/Default.aspx	Idaho Distance Education Academy	2007.0	30.0
+18174	http://www.nampalibrary.org	Nampa Public	2004.0	194.0
+18176	http://middleton.lili.org	Middleton Public	2006.0	29.0
+18177	http://woodland-cdasd-id.schoolloop.com/portal/school_list	Woodland Middle School	0.0	22.0
+18178	http://www.uidaho.edu/	University of Idaho	1996.0	4189.0
+18179	http://www.d181.k12.id.us/domain/124	Patterson Elementary School	2014.0	48.0
+18180	http://madison.school.boiseschools.org	Madison Early Childhood Center	2013.0	236.0
+18181	http://www.d181.k12.id.us/domain/123	Clayton Elementary School	2014.0	48.0
+18182	http://www.sco.idaho.gov/	Controller, State	2006.0	119.0
+18183	http://www.idl.idaho.gov/	Lands, Department of	2006.0	53.0
+18184	http://icdv.idaho.gov/	Domestic Violence, Idaho Council on	2012.0	46.0
+18185	http://www.mdsd.org/default.aspx?tabid=120	Donnelly Elementary School	2009.0	378.0
+18186	http://www.isb.idaho.gov/ilf/	Law Foundation, Idaho	2011.0	46.0
+18187	http://npelementary.wordpress.com/	New Plymouth Elementary School	2013.0	6.0
+18188	http://www.sd365.us/bruneau/bruneau.htm	Bruneau Elementary School	2006.0	0.0
+18190	http://www1.nsd131.org/mainsite/schools/owy/default.aspx	Owyhee Elementary School	2008.0	384.0
+18191	http://parmacity.net	Parma	2001.0	1.0
+18192	http://www.filer.k12.id.us/fes.php	Filer Elementary School	2012.0	24.0
+18193	https://sites.google.com/a/jeromeschools.org/northside-jr-sr-high-school/home	Northside Junior/Senior High School	2013.0	22.0
+18194	http://www.cascadeschools.org/	Cascade School District #422	2004.0	165.0
+18195	http://www.shelleyschools.org/	Shelley School District #60	2006.0	672.0
+18196	http://www.bhs.idaho.gov/pages/communications/pscgc.aspx	Public Safety Communications Governance Council, Idaho	2010.0	7.0
+18197	http://www.meridianmedicalartscharter.org/	Meridian Medical Arts Charter High School	2012.0	70.0
+18198	http://www.jeromeschools.org/index.php/design-and-features/jefferson-elementary	Jefferson Elementary School	2013.0	10.0
+18200	http://www.aberdeen58.org/wordpress/?page_id=173	Aberdeen Middle School	2010.0	80.0
+18202	http://www.clearwatercounty.org/	Clearwater County	2003.0	198.0
+18203	http://species.idaho.gov/	Species Conservation, Office of	2007.0	21.0
+18204	http://lms-cdasd-id.schoolloop.com/portal/school_list	Lakes Magnet Middle School	2013.0	22.0
+18206	http://www.salmonschools.com/highschool/home.html	Salmon High School	2010.0	51.0
+18207	http://www.d181.k12.id.us/site/default.aspx?pageid=163	Challis Junior/Senior High School	2014.0	6.0
+18208	http://www.rmckenna.org	Richard McKenna Charter High School	2004.0	10.0
+18209	http://blaineschools.org/schools/wrhs/default.aspx	Wood River High School	2007.0	0.0
+18212	http://www.maladidaho.org/library/	Oneida County District	2001.0	24.0
+18213	http://www.cdaschools.org/site/default.aspx?PageID=1	Coeur d'Alene School District #271	2013.0	5.0
+18214	http://www.kamiahchamber.com	Kamiah  Chamber of Commerce	2001.0	15.0
+18215	http://www.kunaschools.org/schools/cp/	Crimson Point Elementary School	2006.0	0.0
+18216	http://www1.nsd131.org/mainsite/schools/nhs2/default.aspx	Nampa High School	2011.0	0.0
+18219	http://isp.idaho.gov/abc/	Alcohol Beverage Control	2010.0	4.0
+18220	http://www.butteschooldistrict.org/	Butte County Joint School District #111	2009.0	278.0
+18221	http://www.healthandwelfare.idaho.gov/health/healthdistricts/tabid/97/default.aspx	Health Districts	2009.0	2.0
+18222	https://sites.google.com/a/cassiaschools.org/oakley-elementary/	Oakley Elementary School	2014.0	13.0
+18225	http://line.idaho.gov/	Leadership in Nuclear Energy (LINE) Commission	2012.0	9.0
+18226	http://www1.nsd131.org/mainsite/schools/sms/default.aspx	South Middle School	2007.0	732.0
+18227	http://www.ci.moscow.id.us/	Moscow	2001.0	343.0
+18228	http://pre.sd83.org/	Priest River Elementary School	2012.0	7595.0
+18229	https://sites.google.com/a/sd215.net/hfe/	Henry's Fork Elementary School	2011.0	1.0
+18230	http://www.sd288.k12.id.us/static/not_found.html	Whitepine School District #288	2014.0	1.0
+18231	http://www.oneidaschooldistrict.org/education/school/school.php?sectionid=6&	Stone Elementary School	0.0	5.0
+18232	http://kellogg.lili.org	Kellogg Public	2007.0	31.0
+18233	http://www.homedaleschools.org/	Homedale Joint School District #370	2003.0	44.0
+18234	http://dfm.idaho.gov/	Financial Management, Division of	2005.0	23.0
+18235	http://fruitlandschools.org/fhs/	Fruitland High School	2012.0	510.0
+18236	http://www.murtaugh.k12.id.us/elementary.html	Murtaugh Elementary School	2009.0	9.0
+18237	http://www1.nsd131.org/mainsite/schools/shr/default.aspx	Sherman Elementary School	2007.0	183.0
+18238	http://smms-sd41-id.schoolloop.com/	St. Maries Middle School	2012.0	11267.0
+18239	http://www.co.blaine.id.us/	Blaine County	2000.0	461.0
+18240	http://www.co.bonneville.id.us/	Bonneville County	2000.0	172.0
+18241	http://www.rigbychamber.com/	Rigby Chamber of Commerce	2006.0	116.0
+18242	http://council.lili.org/	Council Valley District	2008.0	37.0
+18243	http://www.meridianschools.org/star/pages/starelementary.aspx	Star Elementary School	2011.0	0.0
+18244	http://www.cdhh.idaho.gov/	Deaf & Hard of Hearing, Idaho Council for the	2006.0	48.0
+18245	http://www.troyidaho.net/	Troy	2007.0	21.0
+18246	http://www.pwsd44.com/default.aspx?indx=1&pageid=73	Lakeside Elementary School	0.0	124.0
+18247	http://www.idahofallsidaho.gov/	Idaho Falls	2009.0	672.0
+18248	http://www.weiserschools.org/schools/pioneer/	Pioneer Elementary School	2012.0	0.0
+18249	https://sites.google.com/site/richfielddistrict/	Richfield School District #316	2012.0	30.0
+18250	http://www.lewistonschools.net/schools/orchards/default.html	Orchards Elementary School	2012.0	4.0
+18251	http://www.isc.idaho.gov/	Supreme Court	2004.0	2527.0
+18252	http://www.boisecounty.us/	Boise County	2008.0	68.0
+18253	http://www.shoshonecounty.org/	Shoshone County	2010.0	77.0
+18256	http://foxhollow.d91.k12.id.us/	Fox Hollow Elementary School	2013.0	3.0
+18257	http://washington.school.boiseschools.org	Washington Elementary School	2013.0	389.0
+18258	http://ebonnerlibrary.org/index.php?option=com_content&view=article&id=116&itemid=13	East Bonner County Library District Sandpoint Branch Library	0.0	761.0
+18259	http://icjc.idaho.gov/	Criminal Justice Commission, Idaho	2014.0	2.0
+18260	http://blaineschools.org/schools/wrms/default.aspx	Wood River Middle School	2007.0	0.0
+18261	http://www.lewistonschools.net/schools/tac/	Tammany Alternative Center	2012.0	14.0
+18262	http://whitepine.school.boiseschools.org	White Pine Elementary School	2013.0	246.0
+18263	http://riverside.school.boiseschools.org	Riverside Elementary School	2013.0	133.0
+18264	http://www.meridianschools.org/mta/pages/meridiantransitionsacademy.aspx	Meridian Transition Academy	2011.0	1.0
+18265	http://notaquietlibrary.org	Garden City Public	2004.0	90.0
+18266	http://mvhs_sec.mvsd21.org/	Marsh Valley High School	2005.0	0.0
+18267	http://www.idwr.idaho.gov/geographicinfo/	GIS & Remote Sensing - Water Resources	2009.0	81.0
+18268	http://www.lincolnphoenixs.com/	Lincoln High School	2011.0	82.0
+18269	http://www.yourhealthidaho.org/	Health Insurance Exchange - Your Health Idaho	2013.0	406.0
+18270	http://www.legacycharterschool.net/index.html	Legacy Charter School	2011.0	36.0
+18271	http://www.pfsd.com/	Post Falls School District #273	1999.0	105.0
+18272	http://fremont.lili.org	Fremont County District	2008.0	67.0
+18273	http://npmiddleschool.wordpress.com/about/	New Plymouth Middle School	2013.0	2.0
+18274	http://www.kamiah.org/	Kamiah Joint School District #304	2001.0	121.0
+18275	http://itd.idaho.gov/	Transportation Department, Idaho	2004.0	322.0
+18276	http://www.kunalibrary.org	Kuna District	2008.0	28.0
+18277	http://legislature.idaho.gov/senate/senate.htm	Senate	2004.0	43.0
+18278	http://camas.lili.org/	Camas County District	2007.0	35.0
+18279	http://www.bcsd101.com/	Boundary County School District #101	2003.0	13031.0
+18280	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=739&linkid=nav-menu-container-1-2405	Hacker Middle School	2010.0	26.0
+18281	http://www.cdhd.idaho.gov/	Health District 4 (Central)	2004.0	45.0
+18282	http://www.meridianschools.org/sms/pages/sms.aspx	Sawtooth Middle School	2010.0	1.0
+18283	http://www.cdalibrary.org	Coeur Dalene Public	2003.0	231.0
+18285	http://history.idaho.gov/	Historical Society, Idaho State	2007.0	432.0
+18286	http://www1.nsd131.org/mainsite/schools/rgn/default.aspx	Ronald Reagan Elementary School	2008.0	191.0
+18287	http://tetons.lili.org/	Valley Of The Tetons District	2007.0	29.0
+18288	http://sm.lposd.org/	Sandpoint Middle School	2009.0	1774.0
+18289	http://parksandrecreation.idaho.gov/	Parks and Recreation, Department of	2004.0	381.0
+18290	http://www1.sd25.us/sites/jeff/index.html	Jefferson Elementary School	2013.0	0.0
+18291	http://idahocounty.org/	Idaho County	2000.0	396.0
+18292	https://sites.google.com/a/cassiaschools.org/mountain-view/	Mountain View Elementary School	2014.0	23.0
+18293	http://www.d181.k12.id.us/site/default.aspx?PageID=1	Challis Joint School District #181	2013.0	16.0
+18295	http://www.nezpercesd.us/	Nezperce District #302	2008.0	20197.0
+18297	http://www.eitc.edu/	Eastern Idaho Technical College	1996.0	334.0
+18299	http://ces.kelloggschools.org/	Canyon Elementary Science Magnet School	2010.0	17.0
+18300	http://hansen.lili.org	Hansen District	2007.0	31.0
+18301	http://www.meridianschools.org/parents/professionaltechnical/ptcenters/pages/ptcenters.aspx	ADA Professional-Technical Center	2010.0	0.0
+18302	http://www.cdaschools.org/winton	Winton Elementary School	2004.0	3545.0
+18303	http://lapwaidistrict.org/middlehighschool	Lapwai Middle/High School	2011.0	0.0
+18304	http://www.gvsd.net/schools/garden_valley_elementary	Garden Valley Elementary School	2014.0	164.0
+18305	http://cascade.lili.org	Cascade Public	2007.0	53.0
+18306	http://www.wssd.k12.id.us/	West Side Joint School District #202	2002.0	3158.0
+18307	http://www.weiserschools.org/schools/high/	Weiser High School	2012.0	0.0
+18308	http://www.filer.k12.id.us/fis.php	Filer Intermediate School	2012.0	24.0
+18309	http://www.d251.k12.id.us/	Jefferson School District #251	1999.0	2.0
+18310	http://south.school.boiseschools.org	South Junior High	2011.0	3645.0
+18311	http://www.ci.jerome.id.us/	Jerome	2000.0	179.0
+18313	http://alt.sd83.org/	Priest River Education Program Alternative High School	2012.0	7298.0
+18314	http://www.meridianschools.org/summerwind/pages/summerwindschoolofmathscience.aspx	Summerwind Elementary School of Math and Science	2011.0	1.0
+18317	http://bkeweb.lakeland272.org/	Betty Kiefer Elementary School	2009.0	13859.0
+18318	http://www.notusschools.org/jr__sr__high_school	Notus Junior/Senior High School	2012.0	458.0
+18319	http://blackfootlibrary.org/index.htm	Blackfoot Public	2008.0	0.0
+18320	http://www.publichealthidaho.com/	Health District 3 (Southwest)	2003.0	72.0
+18321	http://gracejordan.school.boiseschools.org	Grace Jordan Elementary School	2013.0	269.0
+18322	http://ogi.idaho.gov/	Group Insurance, Office of	2012.0	41.0
+18324	http://www.driggs.govoffice.com/	Driggs	2006.0	623.0
+18325	http://www.moscowcharterschool.org	Moscow Charter School (K-6)	2003.0	918.0
+18326	http://labor.idaho.gov/dnn/(X(1)S(3gontnidnrxfwq45ecnycvax))/Default.aspx?TabID=2470&AspxAutoDetectCookieSupport=1	Career Information System, Idaho	0.0	2.0
+18327	http://efib.idaho.gov/	Endowment Fund Investment Board	2007.0	15.0
+18328	http://prairieriver.lili.org/peck	Prairie-River District - Peck	2008.0	48.0
+18333	http://ns.lposd.org/	Northside Elementary School	2008.0	286.0
+18334	http://www.filer.k12.id.us/hes.php	Hollister Elementary School	2012.0	24.0
+18335	http://www.idahoartscharter.org	Idaho Arts Charter School (K-12)	2005.0	100.0
+18336	http://www.meridianschools.org/lakehazel/pages/lakehazelelementary.aspx	Lake Hazel Elementary School	2011.0	1.0
+18337	http://www.meridianschools.org/andrus/pages/andruselementary.aspx	Andrus Elementary School	2011.0	1.0
+18338	http://www.snakeriver.org/	Snake River School District #52	2002.0	73.0
+18339	http://www.bonnersferry.id.gov/	Bonners Ferry	2009.0	51.0
+18341	http://www.minidokaschools.org/west	West Minico Middle School	2012.0	760.0
+18342	http://declohigh.net/	Declo High School	2011.0	416.0
+18344	http://www.wsd393.org/	Wallace School District #393	2009.0	9270.0
+18345	http://www.meridianschools.org/renaissancehigh/pages/renaissancehighschool.aspx	Renaissance High School	2011.0	1.0
+18346	http://lindenpark.d91.k12.id.us/	Linden Park Elementary School	2013.0	6.0
+18347	http://www.meridianschools.org/rivervalley/pages/rivervalleyelementary.aspx	River Valley Elementary School	2011.0	1.0
+18348	http://www.meridianschools.org/lcms/pages/lewisclarkmiddleschool.aspx	Lewis and Clark Middle School	2011.0	1.0
+18349	http://www.lewistonschools.net/schools/sacajawea/	Sacajawea Junior High School	2011.0	20.0
+18351	http://www.minidokaschools.org/rupert	Rupert Elementary School	2012.0	606.0
+18352	http://capital.school.boiseschools.org	Capital High School	2011.0	5770.0
+18353	http://veterans.idaho.gov/	Veterans Services, Idaho Division of	2006.0	185.0
+18354	http://prairieriver.lili.org/craigmont	Prairie-River District - Craigmont	2010.0	52.0
+18355	http://www.cityofkuna.com/	Kuna	2001.0	399.0
+18356	http://www.idahocityschools.net/default.asp	Basin School District #72	2008.0	57.0
+18357	http://www.lewistonschools.net/schools/whitman/	Whitman Elementary School	2011.0	6.0
+18358	https://sites.google.com/a/cassiaschools.org/almo-elementary-school/home/	Almo Elementary School	2014.0	2.0
+18359	http://labor.idaho.gov/2020taskforce/	Blue Ribbon 2020 Task Force	2008.0	9.0
+18360	http://ririe.id.schoolwebpages.com/education/district/district.php?sectionid=1	Ririe School District #252	2010.0	2.0
+18361	http://lizardbutte.lili.org/	Lizard Butte District	2007.0	43.0
+18362	http://cityofjuliaetta.com/	Juliaetta	2007.0	10.0
+18363	https://sites.google.com/a/vallivue.org/central-canyon-elementary/	Central Canyon Elementary School	2014.0	28.0
+18364	http://www.emmett-jhs.groupfusion.net/	Emmett Middle School	2006.0	1.0
+18365	http://cynthiamann.school.boiseschools.org	Cynthia Mann Elementary School	2013.0	308.0
+18366	http://www.weiserschools.org/	Weiser School District #431	2002.0	74.0
+18367	http://montpelier.id.gov/	Montpelier	2009.0	24.0
+18368	http://pccs.k12.id.us/	Pocatello Community Charter School (K-8)	2000.0	24.0
+18369	http://www.buhlschools.org/schools/pes	Popplewell Elementary School	2013.0	0.0
+18371	http://odp.idaho.gov/	Drug Policy, Idaho Office of	2008.0	33.0
+18372	http://cascadeid.cascadeschools.org	Cascade	2007.0	0.0
+18373	http://www.co.power.id.us/	Power County	1999.0	788.0
+18374	http://www.lewistonschools.net/schools/lhs/	Lewiston High School	2011.0	5.0
+18375	http://www.seidaho.org/americanfalls.html	American Falls	2001.0	280.0
+18376	http://salmonlibrary.org/	Lemhi County District	2006.0	36.0
+18377	http://he-sd41-id.schoolloop.com/	Heyburn Elementary School	2012.0	26655.0
+18378	http://hiddensprings.school.boiseschools.org	Hidden Springs Elementary School	2013.0	264.0
+18379	http://mtview.school.boiseschools.org	Mountain View Elementary School	2013.0	280.0
+18381	http://www.goodingschools.org/	Gooding Joint School District #231	0.0	926.0
+18382	http://www.heyburnidaho.org/	Heyburn	2006.0	361.0
+18383	http://www.legislature.idaho.gov/lso/lso.htm	Legislative Services Office	2004.0	2.0
+18384	https://sites.google.com/a/vallivue.org/sage-valley-middle/	Sage Valley Middle School	2014.0	49.0
+18386	http://ci.idaho.gov/	Correctional Industries	2007.0	61.0
+18387	http://lesbois.school.boiseschools.org	Les Bois Junior High School	2012.0	837.0
+18388	http://tax.idaho.gov/	Tax Commission, Idaho State	2004.0	721.0
+18389	http://wjshs-wsd393-id.schoolloop.com/	Wallace Junior/Senior High School	2011.0	4052.0
+18390	http://www.sd381.k12.id.us/hillcrest-elementary	Hillcrest Elementary School	2013.0	111.0
+18391	http://payette.lili.org	Payette Public	2007.0	15.0
+18394	https://jsd.astihosted.com/portal/default.aspx?pg=1367	Roberts Elementary School	2014.0	3.0
+18395	http://www.meridianschools.org/lsms/pages/lowellscottmiddleschool.aspx	Lowell Scott Middle School	2010.0	1.0
+18397	http://fruitlandschools.org/fes/	Fruitland Elementary School	2012.0	76.0
+18398	http://khs.kelloggschools.org/	Kellogg High School	2010.0	29.0
+18399	http://www.lewistonlibrary.org/	Lewiston City Public	2011.0	0.0
+18401	http://www.co.adams.id.us/	Adams County	2001.0	138.0
+18403	http://crimevictimcomp.idaho.gov/	Crime Victims Compensation Program	2009.0	14.0
+18405	http://oglb.idaho.gov/	Outfitters and Guides Licensing Board	2005.0	22.0
+18406	http://fairmont.school.boiseschools.org	Fairmont Junior High School	2012.0	2472.0
+18407	http://rkfd.snakeriver.org/	Rockford Elementary School	2010.0	12.0
+18408	http://mvms_sec.mvsd21.org/	Marsh Valley Middle School	2005.0	0.0
+18409	http://www.sd151.k12.id.us//	Cassia Joint School District #151	2001.0	7.0
+18410	http://co.washington.id.us/	Washington County	2006.0	143.0
+18411	http://lp.lposd.org/	Lake Pend Oreille Alternative High School	2008.0	191.0
+18412	http://www.wjsd.org/wjsdweb/ham/	Hamer Elementary School	2011.0	85.0
+18413	http://www.cambridgecommunitylibrary.org	Cambridge District	2010.0	1.0
+18414	http://rs.tfsd.org/	Robert Stuart Middle School	2010.0	37.0
+18415	http://www.potlatchschools.org/website2/elem/	Potlatch Elementary School	2011.0	0.0
+18417	http://emmett.lili.org	Emmett Public	2007.0	41.0
+18418	http://www.genesee-id.com	Genesee	2000.0	327.0
+18419	http://horseshoebendchamber.com/	Horseshoe Bend  Chamber of Commerce	2003.0	61.0
+18421	http://www1.sd25.us/sites/hms/index.htm	Hawthorne Middle School	2013.0	0.0
+18422	http://www.bhs.idaho.gov	Homeland Security, Idaho Bureau of	2004.0	105.0
+18424	http://garfield.school.boiseschools.org	Garfield Elementary School	2013.0	286.0
+18425	http://www.compasscharter.org	Compass Public Charter School	2004.0	87.0
+18426	http://www.healthandwelfare.idaho.gov/medical/substanceusedisorders/idahotobaccoproject/tabid/759/default.aspx	Tobacco Project, Idaho	2009.0	2.0
+18427	http://www.graceidaho.com	Grace  Chamber of Commerce	1998.0	31.0
+18429	http://www.sd305.k12.id.us/	Highland School District #305	2004.0	9.0
+18432	http://www.arcoelementary.org/	Arco Elementary	2011.0	142.0
+18433	http://www.preston.k12.id.us/franklin-county-high-school.html	Franklin County Alternative High School	2012.0	129.0
+18434	https://sites.google.com/site/skylinegrizzlies/	Skyline High School	2012.0	9.0
+18436	http://www.shoshonesd.org/schools/shoshone-high-school	Shoshone Middle/High School	2013.0	22.0
+18437	http://www.oneidaschooldistrict.org/education/school/school.php?sectiondetailid=131&linkid=nav-menu-container-1-2298	Oneida Alternative High School	2011.0	2.0
+18438	http://ms.tfsd.org/	Morningside Elementary School	2011.0	29.0
+18439	http://www.dist283.org/khs	Kendrick Junior/Senior High School	2014.0	14264.0
+18440	http://www.courtselfhelp.idaho.gov/	Court Assistance Office	2006.0	41.0
+18442	http://www.sd244.org/education/components/scrapbook/default.php?sectionid=1	Mountain View School District #244	2011.0	2.0
+18444	https://wordpress.lewistonschools.net/camelot/	Camelot Elementary School	2014.0	29.0
+18445	http://blsd.net/	Bear Lake School District #33	2005.0	34.0
+18446	http://www.meridianschools.org/paramount/pages/paramountelementary.aspx	Paramount Elementary School	2011.0	1.0
+18447	http://www.meridianschools.org/sevenoaks/pages/sevenoakselementary.aspx	Seven Oaks Elementary School	2011.0	1.0
+18448	http://www.sd151.k12.id.us/schools/bhs/	Burley High School	2009.0	7.0
+18449	http://dalton-cdasd-id.schoolloop.com/portal/school_list	Dalton Elementary School	0.0	22.0
+18450	https://sites.google.com/a/d59.k12.id.us/a-w-johnson-elementary/	A W Johnson Elementary School	2014.0	64.0
+18451	http://www1.sd25.us/sites/gate/index.htm	Gate City Elementary School	2012.0	0.0
+18452	http://blsd.net/blsd/gesnews.htm	Georgetown Elementary School	2014.0	34.0
+18453	http://mrld.snakeriver.org/	Moreland Elementary School	2010.0	23.0
+18454	http://tetoniaidaho.org	Tetonia	2009.0	91.0
+18455	http://sd41-id.schoolloop.com/cec	Community Education Center	2012.0	762.0
+18456	https://sites.google.com/a/vallivue.org/vallivue-school-district/vallivue-virtual-academy	Vallivue Virtual Academy	2014.0	280.0
+18457	https://sites.google.com/a/echo.ifschools.org/ca/	Compass Academy	2012.0	62.0
+18458	http://commerce.idaho.gov/	Commerce, Department of	2007.0	5.0
+18459	http://www.hansen.k12.id.us/information/es	Hansen Elementary School	2013.0	1.0
+18460	http://isp.idaho.gov/racing/	Racing Commission	2014.0	10.0
+18461	https://www.sites.google.com/site/monticellomontessori/home	Monticello Montessori Charter School	2011.0	88.0
+18462	http://www.mullanschools.com/	Mullan School District #392	2007.0	1289.0
+18463	http://www.meridianschools.org/desertsage/pages/desertsageelementary.aspx	Desert Sage Elementary	2011.0	1.0
+18464	http://www.haydenchamber.org	Hayden Chamber of Commerce	2002.0	30.0
+18465	http://www.rathdrum.org/	Rathdrum	1999.0	210.0
+18466	http://www.epodunk.com/cgi-bin/geninfo.php?locindex=6823	Acequia	2002.0	772.0
+18467	http://www.udidaho.org/	Dairy Products Commission	2003.0	730.0
+18468	http://www.cityofboise.org	Boise	0.0	5.0
+18469	http://www1.nsd131.org/mainsite/schools/lkr/default.aspx	Lake Ridge Elementary School	2008.0	397.0
+18471	http://www.wjsd.org/wjsdweb/jrelem/jrelm.htm	Terreton Elementary and Junior High School	2009.0	85.0
+18472	http://www.payettecounty.org/	Payette County	2004.0	0.0
+18473	http://www.idahopotato.com/	Potato Commission, Idaho	1997.0	200.0
+18475	http://wilderschooldistrict.weebly.com/	Wilder School District #133	0.0	104.0
+18476	http://www.cityofsandpoint.com/	Sandpoint	2001.0	47.0
+18477	http://www.showshown.com/richfield/	Richfield	2003.0	9.0
+18478	http://twinfallspubliclibrary.org	Twin Falls Public	2001.0	60.0
+18479	http://www.lincolncountyid.us/	Lincoln County	2010.0	90.0
+18480	http://owyhee.school.boiseschools.org	Owyhee-Harbor Elementary School	2013.0	257.0
+18481	http://smhs-sd41-id.schoolloop.com/	St. Maries High School	2012.0	17121.0
+18482	http://www.co.bonner.id.us/	Bonner County	2000.0	170.0
+18483	https://sites.google.com/site/mms1marsingmiddleschool/	Marsing Middle School	0.0	39.0
+18484	http://www.sd151.k12.id.us/schools/djhsweb/	Declo Junior High School	2010.0	7.0
+18485	http://www.lcsc.edu/	LewisClark State College	1996.0	2199.0
+18486	http://blaineschools.org/schools/hailey/default.aspx	Hailey Elementary School	2007.0	0.0
+18487	http://amity.school.boiseschools.org	Amity Elementary School	2012.0	270.0
+18488	http://www.vves-bcsd-id.schoolloop.com/	Valley View Elementary School	2010.0	684.0
+18490	http://www.arbonvalley.com/school-district/	Arbon Elementary District #383	2010.0	8.0
+18491	http://www.uppercarmencharter.org	Upper Carmen Public Charter School	2011.0	0.0
+18492	http://www.dist283.org/jes	Juliaette Elementary School	2014.0	14769.0
+18493	http://www.glennsferryschools.org/	Glenns Ferry School District #192	2011.0	3.0
+18494	http://www1.nsd131.org/mainsite/schools/pkr/default.aspx	Park Ridge Elementary School	2007.0	240.0
+18495	https://sites.google.com/a/cassiaschools.org/declo_elementary/	Declo Elementary School	2014.0	25.0
+18496	https://www.idsaves.org/	IDEAL - College Savings Program	2001.0	70.0
+18497	http://www.thswebpages.org/	Teton High School	2013.0	57.0
+18498	http://jbeweb.lakeland272.org/	John Brown Elementary School	2009.0	12132.0
+18499	https://sites.google.com/a/cloud.ifschools.org/ehs/	Emerson High School	2012.0	11.0
+18500	http://isbd.idaho.gov/	Dentistry, Board of	2010.0	11.0
+18501	http://cavendishelementary.wordpress.com/	Cavendish Elementary School	2013.0	19.0
+18502	https://sites.google.com/a/vallivue.org/rivervue-academy/	Rivervue Middle School	0.0	72.0
+18503	http://swc.idaho.gov/	Soil and Water Conservation Commission	2010.0	60.0
+18504	http://ibn.idaho.gov/ibnportal/	Nursing, Board of	2011.0	24.0
+18505	http://www.sd244.org/education/school/school.php?sectionid=2038&	Clearwater Valley Junior/Senior High School	2011.0	17.0
+18506	http://www.edlinesites.net/pages/prairie_el	Prarie Elementary School	2014.0	16.0
+18507	http://www.mtnhomesd.org/education/school/school.php?sectiondetailid=767&linkid=nav-menu-container-1-2405	North Elementary School	2012.0	26.0
+18508	http://www.meridianschools.org/prospect/pages/prospectelementary.aspx	Prospect Elementary School	2011.0	1.0
+18510	http://www.meridianschools.org/hunter/pages/hunterelementary.aspx	Hunter Elementary School	2011.0	1.0
+18511	http://maplegrove.school.boiseschools.org	Maple Grove Elementary School	2013.0	279.0
+18512	http://hawthorne.d91.k12.id.us/	Hawthorne Elementary School	2013.0	5.0
+18513	http://www.rhs-bcsd-id.schoolloop.com/	Riverside Alternative High School	2010.0	93.0
+18514	http://abletowork.idaho.gov/	Able to Work	2013.0	61.0
+18516	http://www.healthandwelfare.idaho.gov/	Health and Welfare, Department of	2004.0	657.0
+18518	http://copycenter.idaho.gov/	Copy Center	2011.0	5.0
+18519	http://ges.sd148.org/	Grace Elementary School	2014.0	13.0
+18520	http://boise-evening-school.school.boiseschools.org/modules/groups/integrated_home.phtml?gid=3700979&sessionid=3f5d83ccfc6797134cf2d991f4e44156	Boise Evening School	0.0	16.0
+18522	http://shs.shelleyschools.org/	Shelley High School	2013.0	11.0
+18525	http://www.meridianschools.org/mhs/pages/mhs.aspx	Meridian High School	2012.0	1.0
+18526	http://larsen-sant.lili.org	Larsen-Sant-Franklin District	2007.0	59.0
+18527	http://www.deq.idaho.gov/	Environmental Quality, Department of	2004.0	890.0
+18528	http://www.downeyidaho.com	Downey	2002.0	42.0
+18529	http://www.gvsd.net/	Garden Valley School District #71	2003.0	546.0
+18530	http://www.blackcanyon.groupfusion.net/	Black Canyon Alternative High School	2008.0	1.0
+18531	http://www.goodingcounty.org/	Gooding County	2008.0	26.0
+18532	http://highlands.school.boiseschools.org	Highlands Elementary School	2013.0	280.0
+18533	http://www.filer.k12.id.us/	Filer School District #413	2000.0	24.0
+18534	http://www.arts.idaho.gov/	Arts, Idaho Commission of the	2005.0	588.0
+18536	http://www.doi.idaho.gov/	Insurance, Department of	2005.0	127.0
+18538	http://www.preston.k12.id.us/preston-high-school.html	Preston High School	2012.0	131.0
+18539	http://www.co.fremont.id.us/	Fremont County	1999.0	47.0
+18540	http://blackfootchamber.org/	Blackfoot Chamber of Commerce	2001.0	61.0
+18541	http://www.kimberly.edu/index.php/high-school.html	Kimberly High School	2013.0	993.0
+18542	http://idahopublichealth.com/	Health District 2 (North Central)	2008.0	135.0

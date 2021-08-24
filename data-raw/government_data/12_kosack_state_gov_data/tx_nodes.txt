@@ -1,0 +1,1080 @@
+NodeId	NodeURL	NodeName	Year	pages
+52873	http://www.missiontexas.us/	Mission	0.0	374.0
+52874	http://www.sulphurspringstx.org/	Sulphur Springs	2001.0	127.0
+52875	http://www.umeprep.org	UME PREPARATORY ACADEMY	2012.0	79.0
+52876	https://www.tcdrs.org/Pages/Home.aspx	County and District Retirement System	2010.0	895.0
+52877	http://www.ci.greenville.tx.us/	Greenville	1996.0	1277.0
+52878	http://ci.snyder.tx.us/	Snyder	2001.0	191.0
+52879	http://aals.tsl.state.tx.us/lakehills	Lakehills Area Library	0.0	697.0
+52880	http://www.cityofbalchsprings.com/	Balch Springs	2002.0	405.0
+52881	http://www.tfsc.state.tx.us	Funeral Service Commission	2001.0	16.0
+52882	http://www.victoriapubliclibrary.org	Victoria Public Library	2004.0	350.0
+52883	http://ms.cumberlandacademy.com/	CUMBERLAND ACADEMY MIDDLE	2013.0	91.0
+52884	http://www.gillespiecounty.org/	Gillespie County	2005.0	117.0
+52885	http://www.untdallas.edu/	University of North Texas at Dallas	2013.0	1080.0
+52887	http://www.comanchecountytexas.us/	Comanche County	2003.0	3.0
+52888	http://netls.tsl.state.tx.us/leonard	Leonard Public Library	0.0	372.0
+52889	http://cityoflufkin.com/library/	Kurth Memorial Library	2004.0	17.0
+52890	http://www.lamar.edu	Lamar University	1997.0	55.0
+52891	http://schertz.com/	Schertz	1998.0	862.0
+52892	http://www.pflugervilletx.gov/	Pflugerville	2012.0	1640.0
+52893	http://www.ci.bellaire.tx.us/	Bellaire	1998.0	540.0
+52894	http://www.seabrook-tx.com/	Seabrook	1998.0	0.0
+52895	http://www.scurrycountylibrary.com	Scurry County Library	2009.0	1.0
+52897	http://bcls.tsl.state.tx.us/merkel	Merkel Public Library	0.0	250.0
+52898	http://www.texanscan.org	DALLAS CAN ACADEMY AT CARROLLTON-FARMERS BRANCH	2001.0	425.0
+52901	http://www.main.org/patlib/library.htm	Lucy Hill Patterson Memorial Library	1998.0	348.0
+52902	http://www.portlandtx.com/index.aspx?NID=181	Bell-Whittington Public Library	2013.0	713.0
+52904	http://www.cityofmesquite.com/library/	Mesquite Public Library	2002.0	2.0
+52906	http://www.abilenetx.com/apl/	Abilene Public Library	1998.0	51.0
+52908	http://ctls.tsl.state.tx.us/elroy	East Travis Gateway Library District	0.0	347.0
+52909	http://www.tjc.edu	Tyler Junior College	2002.0	2337.0
+52912	http://www.harriscountytx.gov/	Harris County	2012.0	2427.0
+52914	http://www.angelo.edu	Angelo State University	1997.0	3263.0
+52915	http://www.cprit.state.tx.us/	Cancer Prevention and Research Institute of Texas	2008.0	137.0
+52916	http://www.bcslibrary.org	Bryancollege Station Public Library System	2000.0	696.0
+52917	http://www.tpfa.state.tx.us/	Finance Authority, Public	1998.0	50.0
+52918	http://sab.state.tx.us/	Non-Anatomical Board	2007.0	8.0
+52920	http://www.co.titus.tx.us/	Titus County	2003.0	19.0
+52921	http://www.novaacademy.org	NOVA ACADEMY (SOUTHEAST)	2003.0	757.0
+52922	http://www.ci.krum.tx.us/	Krum	2000.0	91.0
+52923	http://www.ideapublicschools.org/sanjuan	IDEA COLLEGE PREPARATORY SAN JUAN	0.0	1180.0
+52925	http://www.haltomcitytx.com/departments/library	Haltom City Public Library	2012.0	18.0
+52926	http://www.bastroplibrary.org	Bastrop Public Library	2000.0	213.0
+52927	http://www.cityofstantontx.com/	Martin County	2007.0	249.0
+52928	http://www.bullardlibrary.org	Bullard Community Library	2003.0	16.0
+52929	http://harringtonlc.org/	Hutchinson County Library	2005.0	540.0
+52930	http://aals.tsl.state.tx.us/crystal_city	Crystal City Memorial Library	0.0	23.0
+52931	http://www.tob.state.tx.us	Optometry Board	2000.0	81.0
+52932	http://www.hsalubbock.org	HARMONY SCIENCE ACAD (LUBBOCK)	2007.0	33.0
+52933	https://luling.biblionix.com/atoz/catalog/	Jb Nickells Memorial Library	2011.0	0.0
+52934	http://www.co.hudspeth.tx.us/ips/cms	Hudspeth County	2007.0	0.0
+52936	http://www.cityofliberty.org	Liberty Municipal Library	2002.0	361.0
+52937	http://www.coryellcounty.org/	Coryell County	2001.0	60.0
+52938	http://www.dars.state.tx.us	Assistive and Rehabilitative Services, Dept. of	2004.0	219.0
+52939	http://www.sulphurr.org	Sulphur River Basin Authority	1999.0	33.0
+52941	http://www.ci.weatherford.tx.us/	Weatherford	2000.0	1251.0
+52942	http://www.calhouncotx.org/	Calhoun County	2008.0	94.0
+52943	http://www.lindalelibrary.org	Lindale Library	0.0	295.0
+52945	http://www.ci.san-marcos.tx.us/	San Marcos	0.0	8206.0
+52946	http://www.ci.boerne.tx.us/197/Library	Boerne Public Library	2014.0	2.0
+52947	http://www.springvalleytx.com/home/	Spring Valley	2007.0	2.0
+52948	http://www.roysecity.com/?nid=56	Cf Goodwin Public Library	2013.0	83.0
+52951	http://www.newtoncountypubliclibrary.org	Newton County Public Library	0.0	451.0
+52952	http://www.hillsborotx.org/city-departments/library	Hillsboro City Library	2008.0	81.0
+52953	http://www.lnra.org/	Lavaca-Navidad River Authority	1998.0	29.0
+52954	http://longviewtexas.gov/	Longview	2010.0	2007.0
+52955	http://basissanantonio.org/	BASIS SAN ANTONIO	2013.0	3.0
+52956	http://www.graniteshoals.org/	Granite Shoals	2001.0	261.0
+52958	http://www.chambers.lib.tx.us	Chambers County Library System	2000.0	32.0
+52959	http://ctls.tsl.state.tx.us/elgin	Elgin Public Library	0.0	619.0
+52960	http://www.fpctx.edu	Frank Phillips College	2005.0	100.0
+52961	http://www.bobhopeschool.org	BOB HOPE SCHOOL	2010.0	263.0
+52962	http://www.cisco.edu/s/926/start.aspx	Cisco College	2009.0	427.0
+52963	http://co.erath.tx.us/	Erath County	2005.0	106.0
+52964	http://www.jacksonvillelibrary.com	Jacksonville Public Library	0.0	436.0
+52965	http://www.lonestar.edu	Lone Star College System District	2008.0	2022.0
+52966	http://tx-highlandpark.civicplus.com/Index.aspx?NID=106	Highland Park Library	2014.0	1761.0
+52967	http://www.opic.state.tx.us/	Insurance Counsel, Office of Public	1998.0	50.0
+52969	http://www.wallercolibrary.com	Waller County Library	2003.0	10.0
+52970	http://www.talcb.state.tx.us/AgencyInfo/default.asp	Appraiser Licensing and Certification Board	2004.0	20.0
+52971	http://www.ci.desoto.tx.us/index.aspx?NID=110	Desoto Public Library	2009.0	1010.0
+52972	http://www.yesprep.org	YES PREP PUBLIC SCHOOLS INC	2001.0	385.0
+52975	http://www.texasagriculture.gov	Agriculture, Dept. of	2009.0	1835.0
+52976	http://www.prb.state.tx.us/	Pension Review Board	2001.0	76.0
+52977	http://www.mysapl.org	San Antonio Public Library	2009.0	71.0
+52978	http://ctls.tsl.state.tx.us/fairfield	Fairfield Library	0.0	197.0
+52979	http://www.hseaustin.org	HARMONY SCHOOL OF EXCELLENCE	2008.0	19.0
+52980	http://www.kerenslibrary.org	Kerens Library	2011.0	2.0
+52981	http://www.sos.state.tx.us/	Secretary of State	1996.0	264.0
+52982	http://www.mcallenlibrary.net/	Mcallen Memorial Library - Palm View Branch Library And Community Center	2008.0	110.0
+52983	http://www.ci.donna.lib.tx.us/	Donna	2001.0	5.0
+52984	http://www.sabinecountytexas.com/	Sabine County	1998.0	1.0
+52985	http://vanzandtlibrary.org	Van Zandt County Library	0.0	483.0
+52986	http://www.sstdiscovery.org	SCHOOL OF SCIENCE AND TECHNOLOGY DISCOVERY	2008.0	6.0
+52988	http://tekoacharterschool.org	TEKOA ACADEMY OF ACCELERATED STUDIES STEM SCHOOL	2007.0	30.0
+52989	http://www.ci.rosenberg.tx.us/	Rosenberg	0.0	773.0
+52990	http://whitesboropl.org	Whitesboro Public Library	2008.0	7.0
+52992	http://cityofkaty.com/	Katy	2001.0	201.0
+52993	http://www.gcwda.com/	Gulf Coast Waste Disposal Authority	0.0	23.0
+52994	http://www.ci.garden-ridge.tx.us/	Garden Ridge	2000.0	204.0
+52996	http://www.tfc.state.tx.us	Facilities Commission	2007.0	188.0
+52999	http://www.portlavaca.org/	Port Lavaca	1998.0	204.0
+53000	http://www.losfresnos.lib.tx.us/	Ethel L Whipple Memorial Library	2011.0	10.0
+53001	http://www.aristoiclassical.org	ARISTOI CLASSICAL ACADEMY	2010.0	718.0
+53003	http://www.tjjd.texas.gov	TEXAS JUVENILE JUSTICE DEPARTMENT	2012.0	673.0
+53004	http://www.elpacademy.com	EL PASO ACADEMY WEST	2004.0	24.0
+53005	http://www.co.comal.tx.us/	Comal County	1999.0	453.0
+53007	http://www.mountcalmlibrary.org	Mount Calm Public Library	0.0	478.0
+53008	http://www.ci.overton.tx.us/	Overton	1999.0	174.0
+53009	http://www.cityofwebster.com/	Webster	2000.0	515.0
+53014	http://www.ci.watauga.tx.us/	Watauga	1998.0	1151.0
+53015	http://ctls.tsl.state.tx.us/san-saba	Rylander Memorial Library	0.0	758.0
+53016	http://www.cityofpampa.org/	Pampa	2004.0	321.0
+53017	http://www.uttia.org	UT TYLER INNOVATION ACADEMY - PALESTINE	2012.0	43.0
+53018	http://www.txdot.gov	Transportation, Dept. of	2006.0	3267.0
+53021	http://www.texascity-library.org	Moore Memorial Public Library	2001.0	37.0
+53022	http://www.cor.net/index.aspx?page=18	Richardson Public Library	2012.0	4402.0
+53025	http://www.tsbpa.state.tx.us/	Accountancy, Board of Public	1998.0	86.0
+53026	http://www.beaumontlibrary.org	Beaumont Public Library System	2009.0	17.0
+53027	http://www.nassaubay.com/	Nassau Bay	1997.0	520.0
+53028	http://www.countyofupshur.com/	Upshur County	2004.0	69.0
+53030	http://www.cityofwestorange.com/website/default.aspx	West Orange	2012.0	23.0
+53031	http://www.co.harrison.tx.us/	Harrison County	1999.0	3.0
+53032	http://www.cityofgonzales.org/	Gonzales	2001.0	177.0
+53033	http://www.cedarhilltx.com/index.aspx?NID=676	Zula Bryant Wylie Library	2010.0	2.0
+53034	http://www.utsystem.edu	The University of Texas System	1997.0	2862.0
+53041	http://www.sfasu.edu/charter%5Fschool/	STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL	2010.0	2.0
+53042	http://www.ned.lib.tx.us	Marion Ed Hughes Public Library	2000.0	0.0
+53043	http://www.wfpl.net	Wichita Falls Public Library	1998.0	275.0
+53044	http://library.midlothian-isd.net/common/welcome.jsp	Ah Meadows Library	0.0	0.0
+53047	http://www.cedarparktx.us/index.aspx?page=202	Cedar Park Public Library	2012.0	1890.0
+53048	http://www.lbb.state.tx.us/	Legislative Budget Board	1998.0	212.0
+53049	http://www.cityofdenton.com/	Denton	1998.0	2066.0
+53051	http://www.tricountylibrary.org/	Tri-County Library	2008.0	23.0
+53053	http://www.americanyouthworks.org	AMERICAN YOUTHWORKS SERVICE LEARNING ACADEMY	2003.0	314.0
+53055	http://www.kingcountytx.com/	King County	2002.0	1.0
+53056	http://www.terlinguacsd.com	BIG BEND H S	2010.0	174.0
+53057	http://ppltx.net/	Pasadena Public Library	2010.0	493.0
+53058	http://www.lancaster-tx.com/index.aspx?nid=149	Lancaster Veterans Memorial Library	2013.0	582.0
+53059	http://www.world-net.net/wrongpage.php	Jourdanton Community Library	2014.0	9.0
+53060	http://www.brazos.org/	Brazos River Authority	1998.0	84.0
+53061	http://www.ttpls.org/member-libraries/jeff-davis-county-library.html	Jeff Davis County Library	2008.0	1.0
+53062	https://cityofkingsville.com/	Kingsville	2000.0	305.0
+53063	http://www.sweetwaterlibrary.org	County-City Library	2008.0	1.0
+53065	http://www.twdb.texas.gov/	Water Development Board	2012.0	733.0
+53066	http://www.dallascounty.org	ACADEMY FOR ACADEMIC EXCELLENCE	1999.0	1246.0
+53068	http://www.ccg.state.tx.us/	Competitive Government, Council on	2001.0	27.0
+53070	http://leaguecity.com/index.aspx?NID=1277	Helen Hall Library	2011.0	2267.0
+53071	http://www.gbprep.com	GIRLS & BOYS PREPARATORY ACADEMY	2011.0	26.0
+53073	http://www.gainesville.tx.us/	Gainesville	1999.0	500.0
+53074	http://www.cityofmesquite.com/	Mesquite	1998.0	1287.0
+53076	http://www.woodway-texas.com/	Woodway	1998.0	25439.0
+53077	http://www.lamarpa.edu	Lamar State College-Port Arthur	2001.0	4553.0
+53079	http://www.wcjc.edu	Wharton County Junior College	2002.0	846.0
+53082	http://www.co.hidalgo.tx.us/	Hidalgo County	2000.0	2094.0
+53083	http://aals.tsl.state.tx.us/quemado	Quemado Public Library	0.0	42.0
+53085	http://www.jtdlibrary.net	Jennie Trent Dew Library	2005.0	12.0
+53086	http://www.pharr-tx.gov/departments/pharr-library	Pharr Memorial Library	2010.0	158.0
+53087	http://www.lonestar.edu/montgomery.htm	Lone Star College - Montgomery	2009.0	2209.0
+53088	http://www.houstontx.gov/	Houston	2003.0	2669.0
+53089	http://www.ci.alice.tx.us/	Alice	2005.0	469.0
+53090	http://crmwa.com/	Canadian River Municipal Water Authority	1999.0	85.0
+53091	http://ctls.tsl.state.tx.us/marlin	Pauline And Jane Chilton Memorial Marlin Public Library	0.0	264.0
+53092	http://library.austintexas.gov/locations/Terrazas%20Branch?from_austinlibrary	Austin Public Library - Terrazas Branch	0.0	32.0
+53093	http://coppelltx.gov/	William T Cozby Public Library	2010.0	4115.0
+53094	http://www.wimberleylibrary.org	Wimberley Village Library	2000.0	1923.0
+53095	http://www.groveslibrary.org	Groves Public Library	0.0	872.0
+53096	http://www.crockettlibrary.com	Jh Wootters Crockett Public Library	2000.0	48.0
+53097	http://www.pvamu.edu	Prairie View A&M University	1996.0	2168.0
+53098	http://www.templejc.edu	Temple College	1997.0	528.0
+53100	http://www.uttyler.edu	The University of Texas at Tyler	1999.0	2478.0
+53101	http://www.co.ector.tx.us/	Ector County	2001.0	129.0
+53102	http://www.lrl.state.tx.us/index.cfm	Legislative Reference Library	2010.0	1717.0
+53103	http://idaloutx.com/index.php?page=library	Idalou Community Library	2011.0	51.0
+53104	http://www.trinityra.org	Trinity River Authority	1998.0	267.0
+53106	http://www.cclibraries.com/	La Retama Central Library - Greenwood Branch Library	2010.0	1136.0
+53108	http://www.co.mclennan.tx.us/	McLennan County	1998.0	239.0
+53109	http://www.mvc.dcccd.edu/Pages/default.aspx	Mountain View College	2010.0	903.0
+53110	http://www.tsd.state.tx.us	TEXAS SCHOOL FOR THE DEAF	2000.0	1602.0
+53111	http://www.leonvalley.lib.tx.us	Leon Valley Public Library	2001.0	15.0
+53112	http://www.mwsu.edu	Midwestern State University	1996.0	8215.0
+53114	http://cityofcorinth.com/	Corinth	2002.0	996.0
+53115	http://www.co.midland.tx.us/Pages/HomePage.aspx	Midland County	2013.0	105.0
+53116	http://www.ers.state.tx.us/home.aspx	Employees Retirement System	2011.0	585.0
+53117	http://www.tstc.edu/marshall/	Texas State Technical College-Marshall	2011.0	14.0
+53119	http://www.ideapublicschools.org/pharr	IDEA COLLEGE PREPARATORY PHARR	0.0	1173.0
+53120	http://www.jaspertx.org/	Jasper	1999.0	1611.0
+53121	http://www.lifeschool.net	LIFE SCHOOL CEDAR HILL	2001.0	4.0
+53122	http://www.countylibrary.org	Montgomery County Memorial Library System	2000.0	123.0
+53123	http://www.mdanderson.org/education-and-research/education-and-training/schools-and-programs/school-of-health-professions/index.html	The University of Texas M.D. Anderson Cancer Center	2010.0	141.0
+53124	http://www.kerrville.org/	Kerrville	1999.0	564.0
+53126	http://proagency.tripod.com/hemphillcounty.html	Hemphill County	2001.0	514.0
+53127	http://www.txlottery.org/export/sites/lottery/index.html	Lottery Commission	2011.0	2551.0
+53128	http://www.tsu.edu	Texas Southern University	1997.0	656.0
+53129	http://www.alamo.edu/nvc/	Alamo Community College - Northwest Vista College	2009.0	456.0
+53130	https://harlingen.biblionix.com/atoz/catalog/	Harlingen Public Library	2011.0	0.0
+53131	http://www.cityofkeller.com/	Keller	0.0	3363.0
+53133	http://www.port-isabel.lib.tx.us	Port Isabel Public Library	2010.0	16.0
+53134	http://www.responsiveed.com	TEXAS COLLEGE PREPARATORY ACADEMIES	2007.0	82.0
+53135	http://www.riveroakslibrary.org/index.html	River Oaks Public Library	2009.0	12.0
+53137	http://www.alamo.edu/spc/	Alamo Community College - St. Philip's College	2009.0	330.0
+53138	http://www.cityofpalestinetx.com/	Palestine	0.0	13.0
+53139	http://ci.selma.tx.us/	Selma	2002.0	259.0
+53140	http://www.lockhart-tx.org/web98/	Lockhart	2006.0	505.0
+53142	http://www.pilotpointlibrary.org	Pilot Point Community Library	0.0	547.0
+53146	http://www.cityofdenison.com/	Denison	2005.0	619.0
+53148	http://www.texasbar.com/	Bar of Texas, State	1998.0	1508.0
+53149	http://www.scjc.state.tx.us/	Judicial Conduct, Commission on	2002.0	10.0
+53150	http://www.cityofsanbenito.com/	San Benito	2003.0	637.0
+53151	http://www.texaseducationcenters.org	THE EDUCATION CENTER IN LEWISVILLE	2011.0	451.0
+53152	http://alpinepubliclibrary.org/	Alpine Public Library	0.0	65.0
+53154	http://fortworthtexas.gov/	Fort Worth	2011.0	2257.0
+53155	http://www.brazoria-county.com/	Brazoria County	2000.0	23.0
+53156	http://www.rockwall.com/	Rockwall	1996.0	75.0
+53157	http://www.grapelandlib.org	Grapeland Public Library	0.0	645.0
+53158	http://www.twodimensions.org	TWO DIMENSIONS PREPARATORY ACADEMY	2001.0	80.0
+53159	http://www.cityofdenton.com/departments-services/departments-g-p/library	Denton Public Library	2013.0	354.0
+53160	http://www.rgclibrary.org/	Rio Grande City Public Library - La Rosita Branch Library	2010.0	151.0
+53162	http://www.cityofdelrio.com/	Del Rio	2000.0	531.0
+53165	http://www.bulverdecity.com/	Bulverde	2001.0	0.0
+53166	http://harringtonlc.org/lovett/	Lovett Memorial Library Pampa	2013.0	58.0
+53167	http://www.tdlr.texas.gov/	Licensing and Regulation, Dept. of	2013.0	298.0
+53168	http://www.webbcounty.com/	Webb County	1998.0	544.0
+53169	http://www.utexas.edu/cie/	PATHFINDER CAMP	2007.0	1402.0
+53171	http://www.johnsoncountytx.org/	Johnson County	2001.0	154.0
+53172	http://www.gcclr.org	DR M L GARZA-GONZALEZ CHARTER SCHOOL	2001.0	9179.0
+53173	http://www.ttpls.org/	Texas Trans-Pecos Library System	2004.0	1.0
+53174	http://www.hsasa.org	HARMONY SCIENCE ACAD (SAN ANTONIO)	2007.0	8.0
+53175	http://www.reevescountytexas.net/	Reeves County	2012.0	5.0
+53176	http://www.cityofallen.org/	Allen	2002.0	1402.0
+53179	http://www.ppltx.org	Pleasanton Public Library	2005.0	7.0
+53180	http://www.cityoflg.com/library.htm	Fayette Public Library	2008.0	77.0
+53181	http://www.waco-texas.com/	Waco	1998.0	499.0
+53182	http://www.rlc.dcccd.edu	Richland College	1996.0	8.0
+53183	http://www.epcounty.com/lawlibrary/	Robert J. Galvan Law Library	2007.0	6.0
+53184	http://www.7thcoa.courts.state.tx.us/	Appeals, Court of -- 07th	1998.0	2.0
+53185	http://www.utpa.edu/	The University of Texas-Pan American	2001.0	301.0
+53186	http://www.co.cameron.tx.us/	Cameron County	2001.0	414.0
+53187	http://www.mywoodcounty.com/	Wood County	2011.0	93.0
+53189	http://shackelfordcountylibrary.com	Shackelford County Library	2008.0	2.0
+53190	http://www.ut-ucs.org/	UT - UNIVERSITY CHARTER SCHOOL AT MEMORIAL HERMANN	0.0	371.0
+53191	http://www.odyssey-academy.com	ODYSSEY ACADEMY INC	2006.0	73.0
+53195	http://www.evermantx.net/library/	Everman Public Library	2007.0	8.0
+53198	http://www.lagovista.lib.tx.us	Lago Vista Public Library	0.0	756.0
+53199	http://www.ci.gatesville.tx.us/index.asp?SEC={4CD91B06-88AC-432D-B8CD-5D9DBD09959A}&Type=B_BASIC	Gatesville Public Library	0.0	961.0
+53200	http://www.co.bowie.tx.us	Bowie County	2002.0	37.0
+53201	http://library.austintexas.gov/locations/Twin%20Oaks%20Branch?from_austinlibrary	Austin Public Library - Twin Oaks Branch	0.0	32.0
+53202	http://www.smith-county.com/	Smith County	2000.0	194.0
+53203	http://www.cityofsouthlake.com/index.aspx?NID=93	Southlake Public Library	2012.0	1372.0
+53204	http://www.crocketttexas.org/	Crockett	2006.0	57.0
+53205	http://www.sulross.edu	Sul Ross State University Rio Grande College	1996.0	1803.0
+53207	http://www.friscolibrary.com	Frisco Public Library	2003.0	613.0
+53208	http://www.uhv.edu	University of Houston-Victoria	2001.0	1173.0
+53209	http://www.cityofhewitt.com/index.aspx?nid=32	Hewitt Public Library	2009.0	432.0
+53210	http://www.kippsa.org	KIPP UNIVERSITY PREP H S	2009.0	109.0
+53211	http://www.cityofsachse.com/index.aspx?nid=130	Sachse Public Library	2010.0	680.0
+53212	http://www.ci.nacogdoches.tx.us/	Nacogdoches	1999.0	575.0
+53213	http://www.highlandvillage.org/	Highland Village	1999.0	1083.0
+53214	http://library.austintexas.gov/	Austin Public Library - Austin History Center	2011.0	6165.0
+53216	http://library.austintexas.gov/locations/North%20Village%20Branch?from_austinlibrary	Austin Public Library - North Village Branch	0.0	32.0
+53217	http://rmacademy.org/	RICHARD MILBURN ACADEMY (SUBURBAN HOUSTON)	2001.0	193.0
+53218	http://www.whitehousetx.org/cs_library.php	Whitehouse Community Library	2012.0	11.0
+53221	http://www.milamcounty.org/	Milam County	2001.0	25.0
+53222	http://www.abilenetx.com/	Abilene	1998.0	1496.0
+53223	http://www.cityofportaransas.org/	Port Aransas	2001.0	182.0
+53224	http://www.co.collin.tx.us/	Collin County	1998.0	423.0
+53225	http://www.eulesstx.gov/	Euless	2009.0	517.0
+53226	http://www.waskompubliclibrary.org	Waskom Public Library	2007.0	12.0
+53227	http://www.focusacademies.org/	FOCUS LEARNING ACADEMY	2011.0	528.0
+53228	http://rikelibrary.com	Charles J Rike Memorial Library	2005.0	17.0
+53229	http://www.lit.edu	Lamar Institute of Technology	2002.0	1203.0
+53230	http://www.cityofconroe.org/	Conroe	2000.0	454.0
+53232	http://library.austintexas.gov/locations/Ruiz%20Branch?from_austinlibrary	Austin Public Library - Ruiz Branch	2012.0	32.0
+53233	http://www.saritaschool.net	KENEDY COUNTY WIDE CSD	0.0	34.0
+53236	http://www.hendersontx.us/	Henderson	2003.0	327.0
+53240	http://www.hsanw.org	HARMONY SCIENCE ACADEMY - HOUSTON NW	2007.0	7.0
+53241	http://www.hsawaco.org	HARMONY SCIENCE ACADEMY - GARLAND	2007.0	11.0
+53242	http://www.co.orange.tx.us/	Orange County	1998.0	157.0
+53243	http://www.cityofterrell.org/library.htm	Riter C Hulsey Public Library	2000.0	113.0
+53244	http://www.collingsworthpubliclibrary.info	Collingsworth Public Library	2008.0	26.0
+53245	http://www.ctls.net/	Central Texas Library System, Inc	1998.0	1079.0
+53246	http://www.ci.harker-heights.tx.us/	Harker Heights	2008.0	1803.0
+53247	http://www.lucastexas.us/	Lucas	2003.0	466.0
+53248	http://www.4thcoa.courts.state.tx.us/	Appeals, Court of -- 04th	1998.0	2.0
+53249	http://www.pap.lib.tx.us	Port Arthur Public Library	2002.0	0.0
+53250	http://www.hursttx.gov/	Hurst	0.0	1730.0
+53251	http://www.conversetx.net/	Converse	1999.0	426.0
+53252	http://proagency.tripod.com/hardemancounty.html	Hardeman County	2001.0	514.0
+53253	http://www.bremondtxlibrary.com	Bremond Public Library	2002.0	6.0
+53256	http://kerrville.org/index.aspx?NID=92	Butt-Holdsworth Memorial Library	2010.0	359.0
+53257	http://engineers.texas.gov/	Engineers, Board of Professional	2012.0	308.0
+53258	http://www.texasserenityacademy.net	TEXAS SERENITY ACADEMY	2009.0	3.0
+53259	http://www.blinn.edu	Blinn College	2002.0	888.0
+53260	http://www.hsaelpaso.org	HARMONY SCIENCE ACAD (EL PASO)	2006.0	11.0
+53262	http://www.cityofrgc.com/	Rio Grande City	2008.0	41.0
+53263	http://www.seagovillelibrary.org	Seagoville Public Library	0.0	320.0
+53264	http://www.mylubbock.us/departmental-websites/departments/library/library-home	Lubbock Public Library	2013.0	2354.0
+53268	http://www.txdps.state.tx.us/dem/councilscommittees/droughtcouncil/statedroughtprepcouncil.htm	Drought Preparedness Council	2011.0	1.0
+53269	http://teexweb.tamu.edu	Engineering Extension Service, Texas	1999.0	2384.0
+53270	http://www.weslacotx.gov/	Weslaco	2004.0	41.0
+53271	http://bonhamtx.booksys.net/opac/bonhamtx/	Bonham Public Library	0.0	23.0
+53272	http://www.uplifteducation.org/site/default.aspx?PageID=1	UPLIFT MIGHTY PREP	2012.0	31.0
+53276	http://www.ucratx.org/	Upper Colorado River Authority	2002.0	16.0
+53278	http://www.tamus.edu	Texas A&M University System	2004.0	942.0
+53279	http://ntrls.tsl.state.tx.us/springtown	Springtown Public Library	0.0	344.0
+53280	http://www.txdps.state.tx.us/	Public Safety, Dept. of	1998.0	1310.0
+53282	http://www.jcml-tx.org	Jackson County Memorial Library	2007.0	12.0
+53284	http://www.deleonlibrary.org	Deleon City County Library	0.0	275.0
+53286	http://www.cityofsachse.com/	Sachse	2000.0	687.0
+53287	http://www.crossplainslibrary.com	Cross Plains Public Library	0.0	318.0
+53288	http://www.co.la-salle.tx.us/	La Salle County	2003.0	994.0
+53289	http://www.pasworks.net	PREMIER H S OF DUBLIN/COMANCHE/EARLY	2003.0	0.0
+53290	http://www.co.walker.tx.us/	Walker County	2002.0	2965.0
+53292	http://www.granbury.org/	Granbury	1998.0	462.0
+53293	http://www.villagetechschools.org	VILLAGE TECH SCHOOLS	2012.0	34.0
+53294	http://www.ci.lufkin.tx.us/	Lufkin	1997.0	98.0
+53295	http://florencepubliclibrary.wordpress.com	Florence Public Library	2008.0	93.0
+53296	http://www.tamu.edu	Texas A&M University	1997.0	65.0
+53297	http://www.hsabrownsville.org	HARMONY SCIENCE ACADEMY - BROWNSVILLE	2008.0	40.0
+53299	http://bcls.tsl.state.tx.us/sutton	Sutton County Library	0.0	264.0
+53301	http://txforestservice.tamu.edu/main/default.aspx	Forest Service, Texas	2007.0	193.0
+53303	http://www.cityofbridgeport.net/index.aspx?nid=19	Bridgeport Public Library	2009.0	2.0
+53304	http://www.bryantx.gov/	Bryan	2003.0	245.0
+53305	http://www.evolutionacademy.org	EVOLUTION ACADEMY CHARTER SCHOOL	2002.0	6.0
+53307	http://www.phoenixschool.net/	THE PHOENIX CHARTER SCHOOL	2002.0	601.0
+53308	http://www.cityofbridgeport.net/	Bridgeport	2004.0	317.0
+53310	http://www.rockwallcountytexas.com/	Rockwall County	2002.0	632.0
+53314	http://www.provision-inc.org	PRO-VISION MIDDLE	2001.0	111.0
+53315	http://www.uhcl.edu	University of Houston-Clear Lake	2002.0	1668.0
+53316	http://www.lifeschools.net	LIFE SCHOOL MOUNTAIN CREEK	2007.0	500.0
+53318	http://www.uhsa.uh.edu	University of Houston System	1997.0	3.0
+53320	http://imaginenorthtexas.org	IMAGINE INTERNATIONAL ACADEMY OF NORTH TEXAS	2009.0	59.0
+53321	http://www.windhamschooldistrict.org	Windham School District	2001.0	2522.0
+53322	http://www.tarleton.edu/home/	Tarleton State University	2014.0	3.0
+53323	http://www.co.andrews.tx.us/	Andrews County	2001.0	58.0
+53324	http://www.twu.edu	Texas Woman's University	1998.0	2602.0
+53325	http://www.iowapark.com/dept/library/	Tom Burnett Memorial Library	2008.0	50.0
+53326	https://www.wc.edu/	Weatherford College	1996.0	647.0
+53327	http://www.universalcitytexas.com/	Universal City	2001.0	420.0
+53328	http://bcls.tsl.state.tx.us/mitchell	Mitchell County Public Library	0.0	276.0
+53329	http://www.harmonytx.org/default.aspx	HARMONY SCIENCE ACAD (EL PASO)	2013.0	627.0
+53330	http://texasleadershipmidland.com	TEXAS LEADERSHIP OF MIDLAND	2013.0	17.0
+53331	http://pecan.tsl.state.tx.us:8080/ctls/valley-mills	Valley Mills Public Library	2012.0	1.0
+53333	http://library.austintexas.gov/locations/University%20Hills%20Branch?from_austinlibrary	Austin Public Library - University Hills Branch	0.0	32.0
+53334	http://ci.marble-falls.tx.us/	Marble Falls	1999.0	441.0
+53335	http://www.kapschool.org	KATHERINE ANNE PORTER SCHOOL	2002.0	16.0
+53336	http://www.dscl.org	Dripping Springs Community Library	1999.0	278.0
+53337	http://www.gbra.org/	Guadalupe-Blanco River Authority	1998.0	454.0
+53338	http://netls.tsl.state.tx.us/hooks	Hooks Public Library	0.0	279.0
+53339	http://www.alamo.edu	Alamo Community College District	2009.0	1756.0
+53341	http://www.quitmanlibrary.org	Quitman Public Library	0.0	219.0
+53342	http://www.canyontx.com/index.aspx?NID=264	Canyon Area Library	2009.0	457.0
+53343	http://www.wblibrary.org	Wells Branch Community Library	2001.0	163.0
+53345	http://www.texastech.edu	Texas Tech University System	1998.0	337.0
+53346	http://www.leandertx.gov/	Leander	2010.0	3145.0
+53347	http://www.tceq.texas.gov	Environmental Quality, Commission on	2011.0	4465.0
+53348	http://www.beltontexas.gov/	Lena Armstrong Public Library	2012.0	897.0
+53349	http://hsacarrollton.org/	HARMONY SCHOOL OF INNOVATION - DALLAS	2010.0	89.0
+53350	http://lacylakeview.org/	Lacy Lakeview	2000.0	58.0
+53351	http://ilovetoread.org	Round Top Family Library	2001.0	4.0
+53352	http://www.universalcitytexas.com/index.aspx?nid=396	Universal City Public Library	2010.0	440.0
+53355	http://www.ci.seguin.tx.us/	Seguin	1998.0	0.0
+53356	http://www.knoxmemoriallibrary.org	Austin County Library System	2008.0	21.0
+53357	http://www.elpasolibrary.org/	El Paso Public Library - Armijo Branch Library	2009.0	51.0
+53359	http://www.ccms.esc2.net	CORPUS CHRISTI MONTESSORI SCHOOL	2013.0	43.0
+53361	http://www.12thcoa.courts.state.tx.us/	Appeals, Court of -- 12th	1999.0	2.0
+53362	http://www.wtamu.edu	West Texas A&M University	1997.0	1320.0
+53363	http://mybigspring.com/	Big Spring	2008.0	245.0
+53364	http://www.ideapublicschools.org/site/default.aspx?PageID=1	IDEA SOUTH FLORES COLLEGE PREPARATORY	2012.0	11.0
+53366	http://www.library.nrhtx.com	North Richland Hills Public Library	2001.0	183.0
+53368	http://www.huntcounty.net/	Hunt County	2004.0	193.0
+53369	http://www.banking.state.tx.us/	Banking, Dept. of	1997.0	281.0
+53370	http://www.fc.texas.gov	Finance Commission	2012.0	136.0
+53371	http://www.lee.edu	Lee College	1997.0	1100.0
+53372	http://www.cityofwharton.com/	Wharton	2002.0	539.0
+53373	http://www.sfasu.edu	Stephen F. Austin State University	1996.0	3402.0
+53374	http://www.occc.state.tx.us/	Consumer Credit Commissioner, Office of	1998.0	4.0
+53375	http://www.ci.garland.tx.us/home/	Garland	2003.0	2.0
+53378	http://www.brownwoodpubliclibrary.com	Brownwood Public Library	2008.0	12.0
+53379	http://www.navarrocollege.edu	Navarro College	2002.0	3446.0
+53380	http://www.richlandhills.com/	Richland Hills	1998.0	869.0
+53381	http://www.tlc.state.tx.us/	Legislative Council	1997.0	88.0
+53382	http://www.fwafa.org	FORT WORTH ACADEMY OF FINE ARTS EL	2003.0	184.0
+53384	http://www.manaraacademy.org	MANARA ACADEMY	2009.0	314.0
+53385	http://www.edenparkacademy.org/site/default.aspx?PageID=9	EDEN PARK ACADEMY	2013.0	25.0
+53386	http://www.tvc.texas.gov	Veterans Commission	0.0	150.0
+53387	http://weimartexas.org/index.php?id=i3var7qoe	Weimar Public Library	2009.0	308.0
+53388	http://www.txls.state.tx.us/	Land Surveying, Board of Professional	2000.0	6.0
+53389	http://www.ble.state.tx.us/	Law Examiners, Board of	1998.0	10.0
+53390	http://www.cityofbaycity.org/	Bay City	2003.0	319.0
+53391	http://www.ntcc.edu	Northeast Texas Community College	2003.0	694.0
+53393	http://www.bridgecitytex.com/	Ridge City	2001.0	333.0
+53394	http://www.donna.lib.tx.us	Donna Public Library	1998.0	10.0
+53396	http://www.cotulla.lib.tx.us	Alexander Memorial Library	2002.0	14.0
+53397	http://bcls.tsl.state.tx.us/schleicher	Schleicher County Public Library	0.0	262.0
+53398	http://www.hgcd.org/	Headwaters Groundwater Conservation District	2002.0	19.0
+53400	http://www.baylorcountytexas.us/	Baylor County	2003.0	3.0
+53402	http://www.burnetcountytexas.org/	Burnet County	2002.0	95.0
+53404	http://tamhsc.edu	Texas A&M University System Health Science Center	2004.0	862.0
+53405	http://www.castrovillelibrary.org/	Castroville Public Library	2008.0	125.0
+53406	http://www.ci.new-braunfels.tx.us/	New Braunfels	1999.0	1164.0
+53407	http://www.tdhca.state.tx.us/	Housing and Community Affairs, Dept. of	1998.0	248.0
+53409	http://www.weslacopl.us	Weslaco Public Library	2009.0	40.0
+53412	http://www.taylorcountytexas.org/	Taylor County	2001.0	435.0
+53413	http://fallbrookcpa.org	FALLBROOK COLLEGE PREPARATORY ACADEMY	2012.0	12.0
+53415	http://www.sapiacademies.org	PASEO DEL NORTE ACADEMY-VISTA DEL SOL CHARTER HIGH	2011.0	418.0
+53417	http://www.3rdcoa.courts.state.tx.us/	Appeals, Court of -- 03rd	1998.0	2.0
+53418	http://www.co.liberty.tx.us/	Liberty County	2002.0	80.0
+53420	http://www.lampasas.org/index.aspx?NID=1	Lampasas Public Library	2013.0	1002.0
+53422	http://www.cityofparistx.com/	Paris	2000.0	14.0
+53424	http://www.eastlandcountytexas.com/	Eastland County	2001.0	34.0
+53425	http://www.killeentexas.gov/index.php?section=50	Killeen City Library System	2012.0	590.0
+53428	http://pl.beecavetexas.com/	Bee Cave Public Library	0.0	833.0
+53429	http://www.northplainsgcd.org	North Plains Ground Water Conservation District	2012.0	407.0
+53430	http://ferristx.booksys.net/opac/ferristx/	Ferris Public Library	0.0	4.0
+53431	http://www.tamuk.edu	Texas A&M University-Kingsville	1997.0	1725.0
+53433	http://www.ctcd.edu	Central Texas College	2002.0	1189.0
+53435	http://www.midlothian.tx.us/	Midlothian	2000.0	1050.0
+53436	http://www.hsafortworth.org	HARMONY SCIENCE ACAD (FORT WORTH)	2007.0	6.0
+53437	http://www.capitol.state.tx.us/	State Legislature	1997.0	13008.0
+53439	http://www.sunset.state.tx.us/	Sunset Advisory Commission	1998.0	293.0
+53440	http://www.colleyville.com/	Colleyville	1996.0	533.0
+53441	http://www.jerseyvillage.info/	Jersey Village	2002.0	7.0
+53444	http://www.tsbpe.state.tx.us	Plumbing Examiners, Board of	2001.0	28.0
+53446	http://www.tmb.state.tx.us	Medical Board	2005.0	205.0
+53447	http://www.uhd.edu	University of Houston-Downtown	2000.0	1897.0
+53449	http://www.ideapublicschools.org/quest	IDEA QUEST COLLEGE PREPARATORY	0.0	4006.0
+53450	http://www.arrowacademy.org	ARROW ACADEMY - HARVEST PREPARATORY ACADEMY	2011.0	331.0
+53452	http://www.uthealth.org/	The University of Texas Health Science Center at Tyler	2013.0	1693.0
+53453	http://www.cityofjustin.com/index.asp	Justin Community Library	2007.0	97.0
+53454	http://www.cityofhumble.org/	Hunters Creek Village	2002.0	0.0
+53455	http://www.ttuhsc.edu	Texas Tech University Health Sciences Center	1999.0	2480.0
+53456	http://www.ci.temple.tx.us/	Temple	1998.0	1451.0
+53459	http://www.ramirezcsd.com	RAMIREZ EL	2001.0	1834.0
+53460	http://www.ci.sweeny.tx.us/	Sweeny	2004.0	121.0
+53462	http://tees.tamu.edu/	Engineering Experiment Station, Texas	2005.0	402.0
+53463	http://www.ideapublicschools.org/carver	IDEA CARVER COLLEGE PREPARATORY	2012.0	4011.0
+53465	http://www.ennispubliclibrary.com	Ennis Public Library	2007.0	35.0
+53466	http://www.grapevinetexas.gov/index.aspx?nid=290	Grapevine Public Library	2012.0	1126.0
+53467	http://www.utexas.edu	The University of Texas at Austin	1996.0	9027.0
+53468	http://www.txstate.edu	Texas State University	2003.0	1866.0
+53469	http://www.mocolib.net	Killgore Memorial Library	2001.0	1.0
+53471	http://www.tsbvi.edu/	Blind and Visually Impaired, School for the	1998.0	2633.0
+53475	http://www.friendswood.lib.tx.us	Friendswood Public Library	2000.0	26.0
+53477	http://www.co.kendall.tx.us/	Kendall County	2003.0	153.0
+53478	http://bcls.tsl.state.tx.us/menard	Menard Public Library	0.0	263.0
+53480	http://www.ci.cleburne.tx.us/	Cleburne	1996.0	0.0
+53481	http://www.cnchs.net/site/default.aspx?PageID=1	CALVIN NELMS CHARTER SCHOOLS	2013.0	12.0
+53482	http://www.bridgecitytex.com/bc-library-81.php	Bridge City Public Library	2006.0	333.0
+53483	http://www.swschools.org	SOUTHWEST SCHOOLS BISSONNET EL CAMPUS	2007.0	99.0
+53485	http://library.austintexas.gov/locations/Willie%20Mae%20Kirk%20Branch	Austin Public Library - Oak Springs Branch	2012.0	31.0
+53486	http://www.nueces-ra.org/	Nueces River Authority	2003.0	144.0
+53487	http://www.ttu.edu	Texas Tech University	1997.0	215.0
+53489	http://www.tamut.edu	Texas A&M University-Texarkana	0.0	682.0
+53490	http://library.austintexas.gov/locations/Hampton%20Branch%20at%20Oak%20Hill?from_austinlibrary	Austin Public Library - Hampton Branch At Oak Hill	2012.0	32.0
+53492	http://www.hsadallas.org	HARMONY SCIENCE ACADEMY - DALLAS	2004.0	51.0
+53493	http://library.austintexas.gov/locations/Milwood%20Branch?from_austinlibrary	Austin Public Library - Milwood Branch	2014.0	32.0
+53494	http://aals.tsl.state.tx.us/falls_city	Falls City Public Library	0.0	169.0
+53495	http://bcls.tsl.state.tx.us/carnegie_ballinger	Carnegie Library Of Ballinger	0.0	193.0
+53496	http://www.co.hood.tx.us/	Hood County	2001.0	932.0
+53497	http://www.roundrocktexas.gov/	Round Rock	2006.0	22.0
+53498	http://www.tamiu.edu	Texas A&M International University	1996.0	1573.0
+53499	http://www.stet.co/	SOUTH TEXAS EDUCATIONAL TECHNOLOGIES INC	2013.0	1029.0
+53500	http://www.brooksacademy.org	BROOKS ACADEMY OF SCIENCE AND ENGINEERING	2007.0	18.0
+53501	http://www.colleyvillelibrary.com	Colleyville Public Library	2008.0	1.0
+53502	http://ntrls.tsl.state.tx.us/thecolony/	The Colony Public Library	0.0	708.0
+53503	http://www.benbrooklibrary.org	Benbrook Public Library	2000.0	836.0
+53504	http://www.waysideschools.org/scitechprep	SCI-TECH PREPARATORY	0.0	508.0
+53505	http://www.bpl.us	Brownsville Public Library System	2004.0	77.0
+53506	http://www.elprogreso.org	El Progreso Memorial Library	2001.0	10.0
+53508	http://www.ci.stephenville.tx.us/	Stephenville	1999.0	2.0
+53509	http://www.utpb.edu	The University of Texas of the Permian Basin	1996.0	310.0
+53511	http://www.nyos.org	NYOS CHARTER SCHOOL	1999.0	1804.0
+53513	http://www.co.cherokee.tx.us/ips/cms/	Cherokee County	2006.0	46.0
+53514	http://www.brookhavencollege.edu	Brookhaven College	2002.0	635.0
+53515	https://georgetown.org/	Georgetown	1996.0	295.0
+53518	http://www.mclennan.edu	McLennan Community College	0.0	4051.0
+53519	http://www.budalibrary.org	Buda Public Library	2008.0	206.0
+53520	http://www.ci.saginaw.tx.us	Saginaw	1998.0	711.0
+53521	http://www.ci.windcrest.tx.us/	Windcrest	2001.0	791.0
+53522	http://www.sansabacounty.org/	San Saba County	2002.0	17.0
+53524	http://www.westutx.gov/	West University Place	0.0	1171.0
+53525	http://www.ci.clute.tx.us/pages/index.php	Clute	2007.0	141.0
+53528	http://aals.tsl.state.tx.us/poteet	Poteet Public Library	0.0	188.0
+53529	http://www.ramirezcsd.esc2.net	RAMIREZ CSD	2000.0	19.0
+53530	http://www.ci.nacogdoches.tx.us/library	Nacogdoches Public Library	2014.0	669.0
+53532	http://www.cityofkeller.com/index.aspx?page=35	Keller Public Library	0.0	3172.0
+53533	http://www.hallettsvillelibrary.org	Friench Simpson Memorial Library	2011.0	15.0
+53534	http://www.knoxcountytexas.org/	Knox County	2007.0	31.0
+53535	http://www.ci.the-colony.tx.us/	The Colony	2001.0	58.0
+53538	http://www.thecb.state.tx.us/	Higher Education Coordinating Board	1996.0	1047.0
+53539	https://www.tsl.texas.gov/	Library and Archives Commission	1998.0	812.0
+53540	http://www.co.bastrop.tx.us/	Bastrop County	0.0	254.0
+53541	http://library.austintexas.gov/locations/Spicewood%20Springs%20Branch?from_austinlibrary	Austin Public Library - Spicewood Springs Branch	2013.0	32.0
+53544	http://mineralwellspubliclibrary.org	Boyce Ditto Public Library	0.0	519.0
+53545	http://www.winnsborolibrary.org	Gilbreath Memorial Library	0.0	258.0
+53546	http://www.brewstercountytx.com/	Brewster County	2010.0	60.0
+53547	http://tti.tamu.edu	Transportation Institute, Texas	1997.0	6593.0
+53549	http://www.glo.texas.gov/vlb/	Land Board, Veterans	2010.0	76.0
+53551	http://www.freeport.tx.us/	Freeport	1999.0	135.0
+53552	http://www.vjgordonmemoriallibrary.org	Virgil Josephine Gordon Memorial Library	0.0	252.0
+53553	http://www.cor.net/	Richardson	1997.0	4223.0
+53554	http://www.11thcoa.courts.state.tx.us/	Appeals, Court of -- 11th	1999.0	2.0
+53555	http://aals.tsl.state.tx.us/charlotte	Charlotte Public Library	0.0	90.0
+53556	http://bcls.tsl.state.tx.us/rotan	Rotan Public Library	0.0	261.0
+53557	http://asad.hfli.org/	HENRY FORD ACADEMY ALAMEDA SCHOOL FOR ART + DESIGN	2012.0	56.0
+53558	http://www.grayson.edu	Grayson College	1996.0	274.0
+53559	http://www.tgpc.state.tx.us/	Groundwater Protection Committee	2003.0	51.0
+53560	http://www.kippdfw.org	KIPP DALLAS-FORT WORTH	2011.0	44.0
+53562	http://www.co.bexar.tx.us/	Bexar County	1998.0	727.0
+53563	http://www.ugra.org/	Upper Guadalupe River Authority	1998.0	25.0
+53564	http://web.unthsc.edu/	University of North Texas Health Science Center	2012.0	1333.0
+53565	http://www.texas-city-tx.org/	Texas City	1999.0	164.0
+53566	http://www.cstx.gov/	College Station	1996.0	1469.0
+53567	http://www.ideapublicschools.org/mcallen	IDEA MCALLEN COLLEGE PREPARATORY	0.0	3994.0
+53568	http://agrilife.org/txwildlifeservices/	Wildlife Services, Texas (Formerly Wildlife Damage Management Service)	2012.0	44.0
+53569	http://www.odessa-tx.gov/index.aspx	Odessa	2012.0	913.0
+53570	http://www.comquestacademy.org	COMQUEST ACADEMY	2006.0	22.0
+53572	http://www.utsa.edu	The University of Texas at San Antonio	1997.0	7699.0
+53573	http://www.angleton.tx.us/	Angleton	1998.0	245.0
+53576	http://www.ci.boerne.tx.us/	Boerne	1998.0	930.0
+53577	http://www.heightsprep.org/site/default.aspx?PageID=3883	HEIGHTS PREPARATORY	2012.0	7.0
+53579	http://www.tbvme.state.tx.us	Veterinary Medical Examiners, Board of	2003.0	25.0
+53581	http://www.plano.gov/	Plano	2003.0	1921.0
+53582	http://www.utep.edu	The University of Texas at El Paso	1996.0	36.0
+53583	http://www.sjcd.edu	San Jacinto College Central Campus	2002.0	4096.0
+53585	http://www.frionalibrary.org	Friona Public Library	2006.0	14.0
+53586	http://www.odessa.edu	Odessa College	1996.0	585.0
+53587	http://www.euless.org/library/	Euless Public Library	2006.0	17.0
+53589	http://www.uh.edu	University of Houston	1998.0	6905.0
+53590	http://www.ci.sealy.tx.us/	Sealy	1998.0	73.0
+53591	http://www.foot.state.tx.us	Podiatric Medical Examiners, Board of	2000.0	41.0
+53592	http://www.southtexascollege.edu	South Texas College	2004.0	35.0
+53594	http://www.ci.smithville.tx.us/	Smithville	1998.0	115.0
+53596	http://www.dir.texas.gov/Pages/Home.aspx	Information Resources, Dept. of	2012.0	1518.0
+53597	http://cud.texas.gov/	Credit Union Dept.	2012.0	332.0
+53598	http://wtls.tsl.state.tx.us/wtls/	West Texas Library System	2011.0	339.0
+53599	http://www.thewoodlandstownship-tx.gov/	The Woodlands	2007.0	1215.0
+53600	http://www.agd.state.tx.us	Adjutant General's Dept.	1998.0	226.0
+53603	http://www.lonestar.edu/kingwood.htm	Lone Star College - Kingwood	2009.0	2116.0
+53604	http://www.kippaustin.org	KIPP AUSTIN ACADEMY OF ARTS & LETTERS	2008.0	369.0
+53606	http://www.amarillolibrary.org	Amarillo Public Library	2000.0	233.0
+53608	http://www.puc.texas.gov	Public Utility Commission	1996.0	788.0
+53609	http://www.co.anderson.tx.us/	Anderson County	2002.0	46.0
+53610	http://www.house.state.tx.us/	House of Representatives	1997.0	24.0
+53611	http://www.epcounty.com/	El Paso County	2002.0	1688.0
+53613	http://www.dfps.state.tx.us	Family and Protective Services, Dept. of	2004.0	1190.0
+53616	http://www.westontexas.com/	Weston	2004.0	83.0
+53618	http://www.simslib.org	Nicholas P Sims Library Lyceum	0.0	64.0
+53620	http://www.ideapublicschools.org/edinburg	IDEA EDINBURG COLLEGE PREPARATORY	0.0	1177.0
+53621	http://www.ci.gatesville.tx.us/	Gatesville	1998.0	959.0
+53622	http://www.spa.state.tx.us/	Prosecuting Attorney, Office of State	2003.0	79.0
+53624	http://www.dcccd.edu/Pages/default.aspx	Dallas County Community College District	2010.0	1684.0
+53625	http://www.acaedu.net/site/default.aspx?PageID=1	ARLINGTON CLASSICS ACADEMY -INTERMEDIATE	2013.0	9.0
+53627	http://www.sjra.net/	San Jacinto River Authority	2001.0	11.0
+53628	http://www.tabc.state.tx.us/	Alcoholic Beverage Commission	1997.0	1248.0
+53629	http://WWW.gc.edu/gc/default.asp	Galveston College	2005.0	820.0
+53632	http://www.twc.state.tx.us/	Workforce Commission	1998.0	370.0
+53634	http://www.hidalgo.lib.tx.us	Hidalgo Public Library	2001.0	6.0
+53635	http://www.cityofallen.org/Index.aspx?NID=900	Allen Public Library	2012.0	1296.0
+53636	http://www.hssaustin.org	HARMONY SCHOOL OF SCIENCE - AUSTIN	2008.0	102.0
+53639	http://www.tsbde.state.tx.us/	Dental Examiners, Board of	1998.0	476.0
+53640	https://liveoak.biblionix.com/atoz/catalog/	Live Oak County Library - Three Rivers Branch Library	2012.0	0.0
+53641	http://www.hspaustin.org	HARMONY SCHOOL OF POLITICAL SCIENCE AND COMMUNICAT	2011.0	28.0
+53642	http://cityofdilleytx.com/cd_pages/public_library.htm	Dilley Public Library	2011.0	2.0
+53643	http://www.westlakeacademy.org/visitors/home.html	WESTLAKE ACADEMY CHARTER SCHOOL	2007.0	37.0
+53645	http://www.txdmv.gov	Motor Vehicles, Dept. of	2009.0	2488.0
+53647	http://www.swprep.org	SOUTHWEST PREPARATORY SOUTHEAST CAMPUS	2007.0	295.0
+53648	http://www.cityofkennedale.com/	Kennedale	2004.0	798.0
+53651	http://www.cityofportaransas.org/library.cfm	William R Bill Ellis Memorial Library	2006.0	182.0
+53652	http://rtbstream.com/v2/click?data=dmlCb1luZG9VbndSdjh1YjdWY0Q5RGVvRXdSTmZpOXExTm9heE4tbFlkWEFiclZ6LWd4MVA2Q1lMS09CNWlTSnhTYmFBOUNWVnVvdnl6ZGtPd1JSTkNvX1JQSHVoa2xvc3hXUDMxV3lWdTRwLTVnaHBfaGJaQW43dmJ2QXluWXVycWdUdUhrZjN3Z2gtalpHSUdOSDRnMg2	Palacios	0.0	0.0
+53654	https://www.ntta.org/Pages/default.aspx	North Texas Tollway Authority	2012.0	223.0
+53655	http://www.cosatx.us/	San Angelo	2013.0	1767.0
+53656	http://www.baytownlibrary.org	Sterling Municipal Library	2008.0	2620.0
+53657	http://www.tstc.edu	Texas State Technical College Central Office	1996.0	1080.0
+53658	http://www.co.ellis.tx.us/	Ellis County	2001.0	643.0
+53659	http://www.tamucc.edu	Texas A&M University-Corpus Christi	1997.0	377.0
+53661	http://www.ci.santa-fe.tx.us/	Santa Fe	2001.0	346.0
+53662	http://www.cityofsouthlake.com/	Southlake	2000.0	1373.0
+53666	http://www.hpc.state.tx.us/	Health Professions Council	2001.0	2.0
+53668	http://www.pittsburglibrary.org	Pittsburg-Camp County Public Library	0.0	193.0
+53669	http://bcls.tsl.state.tx.us/crockett	Crockett County Public Library	0.0	215.0
+53670	http://www.co.nueces.tx.us/	Nueces County	2000.0	363.0
+53671	http://www.tstc.edu/harlingen/	Texas State Technical College-Harlingen	2011.0	1491.0
+53672	http://www.legacypreparatory.com	LEGACY PREPARATORY	2011.0	381.0
+53673	http://www.city-of-muleshoe.com/	Muleshoe	2001.0	307.0
+53674	http://www.waysideschools.org/reallearning	THE REAL LEARNING ACADEMY	2013.0	706.0
+53676	http://www.leakeylibrary.org	Real County Public Library	0.0	355.0
+53677	http://gptx.org/	Grand Prairie	2001.0	2501.0
+53678	http://www.gctc.us/	RAVEN SCHOOL	2007.0	19.0
+53679	http://www.tsbep.state.tx.us/	Psychologists, Board of Examiners of	1998.0	82.0
+53680	http://www.co.hays.tx.us/	Hays County	1998.0	1539.0
+53681	http://www.cityoftyler.org/	Tyler	2003.0	664.0
+53683	http://www.texas.gov/en/pages/default.aspx	State Government	2010.0	4.0
+53685	http://www.brazoscountytx.gov/	Brazos County	2012.0	753.0
+53686	http://hamiltoncountytx.org/	Hamilton County	2009.0	37.0
+53688	http://www.lumbertonpubliclibrary.org	Lumberton Public Library	0.0	702.0
+53690	http://library.austintexas.gov/locations/St.%20John%20Branch?from_austinlibrary	Austin Public Library - St. John Branch	0.0	32.0
+53691	http://www.alvaradopubliclibrary.org	Alvarado Public Library	2001.0	83.0
+53693	http://www.tbae.state.tx.us/	Architectural Examiners, Board of	1998.0	149.0
+53695	http://bellvillelibrary.org	Bellville Public Library	2007.0	1.0
+53696	http://www.co.montgomery.tx.us/	Montgomery County	1998.0	102.0
+53697	http://chaparralstaracademy.com/	CHAPARRAL STAR ACADEMY	2011.0	389.0
+53698	http://www.gatewaycps.org	GATEWAY COLLEGE PREPARATORY SCHOOL	2010.0	1160.0
+53699	http://library.austintexas.gov/locations/Yarborough%20Branch?from_austinlibrary	Austin Public Library - Yarborough Branch	2013.0	32.0
+53701	http://www.cityofburnet.com/	Burnet	2002.0	45.0
+53702	https://www.texasattorneygeneral.gov/	Attorney General	2008.0	2314.0
+53705	http://www.ci.desoto.tx.us/	Desoto	2000.0	1023.0
+53706	http://www.utmb.edu	The University of Texas Medical Branch at Galveston	1996.0	3169.0
+53707	http://www.westlakehills.org/	West Lake Hills	1999.0	243.0
+53708	http://library.austintexas.gov/locations/Cepeda%20Branch?from_austinlibrary	Austin Public Library - Cepeda Branch	2012.0	32.0
+53710	http://www.co.lamar.tx.us/	Lamar County	2002.0	47.0
+53711	http://www.mission.lib.tx.us	Speer Memorial Library	1997.0	31.0
+53713	http://www.ci.sherman.tx.us/	Sherman	2002.0	989.0
+53714	http://www.co.grayson.tx.us/	Grayson County	1998.0	511.0
+53715	http://www.kipphouston.org	KIPP SOUTHEAST HOUSTON	2001.0	186.0
+53716	http://www.deafsmithcolib.org	Deaf Smith County Library	2012.0	14.0
+53717	http://www.epcc.edu	El Paso Community College District	1997.0	2172.0
+53718	http://bcls.tsl.state.tx.us/haskell	Haskell County Library	0.0	266.0
+53719	http://uthscsa.edu/	The University of Texas Health Science Center at San Antonio	1997.0	122.0
+53720	http://catalog.cityofirving.org/rooms/	Irving Public Library	2009.0	1.0
+53721	http://www.ideapublicschools.org/mission	IDEA COLLEGE PREPARATORY MISSION	0.0	4009.0
+53722	http://www.springlake-earth.org/library/se_library.html	Springlake-Earth Community Library	1999.0	4.0
+53723	http://www.tawakonilibrary.com	Tawakoni Area Public Library	2008.0	0.0
+53724	http://www.9thcoa.courts.state.tx.us/	Appeals, Court of -- 09th	1998.0	2.0
+53725	http://www.cityofpearland.com/	Pearland	2001.0	4056.0
+53726	http://www.brazosport.edu/Pages/index.aspx	Brazosport College	2013.0	735.0
+53727	http://www.eciacharter.com	EDUCATION CENTER INTERNATIONAL ACADEMY 1	2007.0	1.0
+53729	http://www.sslibrary.org	Sulphur Springs Public Library	2001.0	259.0
+53730	http://www.giddings.net/index.asp	Giddings Public Library	2006.0	156.0
+53733	http://www.ci.north-richland-hills.tx.us/	North Richland Hills	1997.0	1016.0
+53734	http://www.mckinneytexas.org/Index.aspx?NID=116	Roy And Helen Hall Memorial Library	2012.0	2914.0
+53735	http://www.ci.dickinson.tx.us/	Dickinson	2000.0	531.0
+53736	http://www.cityofyoakum.org/	Yoakum	2002.0	56.0
+53737	http://library.austintexas.gov/locations/Manchaca%20Road%20Branch?from_austinlibrary	Austin Public Library - Manchaca Road Branch	0.0	32.0
+53738	http://www.newbostonlibrary.org/	New Boston Public Library	0.0	289.0
+53740	http://www.ci.irving.tx.us/	Irving	1998.0	2553.0
+53741	http://www.angelina.edu	Angelina College	2002.0	253.0
+53742	http://www.co.winkler.tx.us/	Winkler County	2003.0	46.0
+53743	http://www.advantageisd.org/	ADVANTAGE ACADEMY	0.0	1697.0
+53745	http://www.hsdhouston.org	HARMONY SCHOOL OF DISCOVERY - HOUSTON	2010.0	11.0
+53749	http://www.co.guadalupe.tx.us/guadalupe2010/	Guadalupe County	2010.0	287.0
+53750	http://bcls.tsl.state.tx.us/stamford_carnegie	Stamford Carnegie Library	0.0	257.0
+53752	http://www.lonestar.edu/cyfair.htm	Lone Star College - Cy-Fair	2009.0	2091.0
+53754	http://www.5thcoa.courts.state.tx.us/	Appeals, Court of -- 05th	0.0	425.0
+53755	http://www.sao.state.tx.us/	Auditor	1997.0	128.0
+53756	http://www.bloominggrovelibrary.com	Blooming Grove Community Library	2009.0	39.0
+53759	http://www.tbce.state.tx.us	Chiropractic Examiners, Board of	0.0	5.0
+53760	http://www.pondertx.com/index.php?id=i3var7qoe	Betty Foster Public Library	2009.0	104.0
+53761	http://www.alc.org/	Abilene Library Consortium	1998.0	70.0
+53762	http://www.ci.dumas.tx.us/index.jsp	Dumas	2009.0	74.0
+53763	http://www.tdcj.state.tx.us	Criminal Justice, Dept. of	1998.0	186.0
+53764	http://www.lpsfrisco.com/site/default.aspx?PageID=1	LEADERSHIP PREP SCHOOL	2011.0	6.0
+53765	http://www.texasprep.us	TEXAS PREPARATORY SCHOOL - AUSTIN CAMPUS	2003.0	55.0
+53766	http://www.colemanlibrary.com	Coleman Public Library	2008.0	22.0
+53768	http://www.sonora-texas.com/	Sonora	2000.0	59.0
+53770	http://moodytexas.pbworks.com/w/page/21651674/FrontPage	Moody Community Library	2011.0	2.0
+53771	http://www.hhsc.state.tx.us	Health and Human Services Commission	1998.0	584.0
+53772	http://www.bedfordlibrary.org	Bedford Public Library	2001.0	67.0
+53773	http://www.ci.brownfield.tx.us/	Brownfield	1999.0	26.0
+53774	http://www.centerlibrary.org	Fannie Brown Booth Memorial Library	2007.0	352.0
+53775	http://www.ci.brownwood.tx.us/	Brownwood	1998.0	45.0
+53776	http://fort-stockton.lib.tx.us	Fort Stockton Public Library	0.0	303.0
+53777	http://www.tscc.state.tx.us/	Toxic Substances Coordinating Committee	2001.0	9.0
+53779	http://kleberglibrary.com	Robert J Kleberg Public Library	2003.0	1.0
+53780	http://www.pineywoodsacademy.org	PINEYWOODS COMMUNITY ACADEMY	2003.0	77.0
+53781	http://www.columbustexas.net/	Columbus	2001.0	153.0
+53782	http://www.houstonlibrary.org/home	Houston Public Library	2009.0	2320.0
+53783	http://www.nctc.edu/Home.aspx	North Central Texas College	0.0	919.0
+53784	http://cityofazle.org/index.aspx?nid=203	Azle Memorial Library	2009.0	665.0
+53785	http://www.wstx.us/wp/	White Settlement	2012.0	132.0
+53786	http://www.2ndcoa.courts.state.tx.us/	Appeals, Court of -- 02nd	1998.0	2.0
+53787	http://www.mcallen.net/	McAllen	1999.0	295.0
+53788	http://www.mansfield-tx.gov/departments/library/	Mansfield Public Library	2004.0	1891.0
+53789	http://www.hsana.org	HARMONY SCIENCE ACADEMY NORTH AUSTIN	2008.0	74.0
+53791	http://www.uta.edu/uta/	The University of Texas at Arlington	2001.0	117.0
+53792	http://edwardsaquifer.org	Edwards Aquifer Authority	2001.0	246.0
+53793	http://www.stonewallcountytexas.us/	Stonewall County	2004.0	5.0
+53794	http://www.tahc.state.tx.us/	Animal Health Commission	1997.0	59.0
+53795	http://tarkingtoncommunitylibrary.org	Tarkington Community Library Inc	2009.0	0.0
+53796	http://www.cityofazle.org/	Azle	2007.0	423.0
+53797	http://www.killeentexas.gov/index.php?section=1	Killeen	2012.0	581.0
+53799	http://www.topdd.state.tx.us/	Developmental Disabilities, Office for Prevention of	2003.0	10.0
+53800	http://www.fbgtx.org/	Fredericksburg	2000.0	582.0
+53801	http://www.arts.texas.gov/	Arts, Commission on the	2012.0	2332.0
+53803	http://www.bon.texas.gov/	Nursing, Board of	2011.0	415.0
+53804	http://www.oiec.state.tx.us	Injured Employee Counsel, Office of	2006.0	31.0
+53805	http://www.co.lubbock.tx.us/	Lubbock County	2000.0	608.0
+53806	http://www.recycledreads.org/	Austin Public Library - Recycled Reads Bookstore	2010.0	4807.0
+53808	http://www.tea.state.tx.us/index2.aspx?id=2147489433	Educator Certification, State Board for	2011.0	3.0
+53809	http://www.garzacounty.net/	Garza County	2005.0	68.0
+53810	http://lagovistatexas.org/	Lago Vista	2006.0	155.0
+53811	http://www.bosquecounty.us/	Bosque County	2007.0	21.0
+53812	http://www.crcb.state.tx.us	Court Reporters Certification Board	2001.0	2.0
+53814	http://www.hsshouston.org	HARMONY SCHOOL OF SCIENCE - HOUSTON HIGH	2008.0	49.0
+53815	http://unger.myplainview.com	Unger Memorial Library	2006.0	648.0
+53816	http://www.soah.state.tx.us/	Administrative Hearings, Office of	0.0	111.0
+53822	http://www.whartonco.lib.tx.us	Wharton County Library	2003.0	24.0
+53823	http://www.argyletx.com/town/Town-of-Argyle.html	Argyle	2012.0	108.0
+53824	http://www.cliftonlib.com	Nellie Pederson Civic Library	0.0	433.0
+53825	http://home.valornet.com/atsmlibrary/	Arthur Temple Sr Memorial Library	2009.0	0.0
+53826	http://www.dimmitcountytx.com/	Dimmit County	2001.0	45.0
+53827	http://www.alamo.lib.tx.us	Alamo Public Library	1997.0	9.0
+53828	http://wolfecitylibrary.org	Wolfe City Public Library	2009.0	0.0
+53829	http://www.ci.copperas-cove.tx.us/pages/library/library.htm	Copperas Cove Public Library	2002.0	7.0
+53830	http://www.williamson-county.org/	Williamson County	1998.0	1890.0
+53833	http://www.tamug.edu	Texas A&M University at Galveston	2000.0	1089.0
+53834	http://www.sra.dst.tx.us/	Sabine River Authority	1997.0	49.0
+53835	http://www.ehrhartschool.org	EHRHART SCHOOL	2006.0	364.0
+53836	http://www.riveroakstx.com/	River Oaks	1999.0	255.0
+53838	http://www.deerparktx.gov/	Deer Park	2005.0	1447.0
+53839	http://www.sstcc.org	SCHOOL OF SCIENCE AND TECHNOLOGY CORPUS CHRISTI	2008.0	7.0
+53840	http://www.ethics.state.tx.us/	Ethics Commission	1996.0	51.0
+53841	http://www.epclibrary.com	East Parker County Library	0.0	426.0
+53842	http://wp.aransaspasstx.gov/city-facilities/library/	Ed And Hazel Richmond Public Library	2013.0	2.0
+53843	http://www.governor.state.tx.us/	Governor, Office of the	1998.0	8.0
+53844	http://library.columbustexas.net/	Nesbitt Memorial Library	2002.0	8.0
+53845	http://hamilton-public-library.org	Hamilton Public Library	0.0	705.0
+53846	http://www.tarrantcounty.com/egov/site/default.asp	Tarrant County	2005.0	408.0
+53847	http://www.rra.texas.gov	Red River Authority	2013.0	18.0
+53848	http://www.cityofgalveston.org/	Galveston	1999.0	634.0
+53851	http://tvmdl.tamu.edu/	Veterinary Medical Diagnostic Laboratory, Texas	2000.0	839.0
+53852	http://www.dellcity.com/dcisd/page2/page2.html	Grace Grebing Public-School Library	2007.0	2.0
+53853	http://www.utsouthwestern.edu/about-us/administrative-offices/student-and-alumni-affairs/index.html	The University of Texas Southwestern Medical Center	2011.0	6.0
+53854	http://www.kc-library.org	Kimble County Library	2000.0	7.0
+53855	http://www.csec.texas.gov/	Emergency Communications, Commission on State (911)	2012.0	58.0
+53856	http://agriliferesearch.tamu.edu/	AgriLife Research, Texas	2008.0	73.0
+53857	http://www.laredolibrary.org	Laredo Public Library	1998.0	32.0
+53858	http://www.cityofdevine.com/	Devine	2009.0	47.0
+53859	http://www.aransascountytx.gov/main/	Aransas County	2010.0	194.0
+53860	http://www.cityoflewisville.com/	Lewisville	0.0	2579.0
+53862	http://www.tcdd.texas.gov	Developmental Disabilities, Council for	2013.0	978.0
+53864	http://www.apluscharterschools.org/	INSPIRED VISION ACADEMY MIDDLE	2014.0	102.0
+53865	http://www.azlewaycharterschool.com	AZLEWAY CHARTER SCHOOL WILLOW BEND	2011.0	2.0
+53866	http://www.co.denton.tx.us/	Denton County	1998.0	1332.0
+53868	http://www.1stcoa.courts.state.tx.us/	Appeals, Court of -- 01st	1998.0	2.0
+53870	http://www.menardtexas.com/	Menard County	1999.0	13.0
+53872	http://library.austintexas.gov/locations/Carver%20Branch?from_austinlibrary	Austin Public Library - Carver Branch	2012.0	32.0
+53873	http://www.dallascityhall.com/	Dallas	2001.0	781.0
+53874	http://www.tdi.texas.gov/	Insurance, Dept. of	2011.0	4.0
+53875	http://www.hillcollege.edu/	Hill College	2004.0	314.0
+53876	http://otscweb.tamu.edu/	Feed and Fertilizer Control Service (Chemist, Office of the State)	1998.0	89.0
+53877	http://aals.tsl.state.tx.us/karnes_city	Karnes City Public Library	0.0	42.0
+53878	http://www.actx.edu	Amarillo College	1997.0	3482.0
+53880	http://www.galavizacademy.org	JUAN B GALAVIZ CHARTER SCHOOL	2006.0	1.0
+53881	http://www.banderalibrary.org/	Kronkosky Library Of Bandera County	2000.0	10.0
+53882	http://www.rosenberg-library.org	Rosenberg Library	1998.0	33.0
+53883	http://www.tspb.state.tx.us/	Preservation Board	1998.0	127.0
+53885	http://proagency.tripod.com/halecounty.html	Hale County	2001.0	514.0
+53886	http://www.co.jefferson.tx.us/	Jefferson County	1998.0	202.0
+53889	http://www.ptn.lib.tx.us	Effie Wilton Hebert Public Library	2000.0	0.0
+53890	http://crowleylibrary.org	Crowley Public Library	2001.0	2.0
+53892	http://bcls.tsl.state.tx.us/mason	Mason County M Beven Eckert Memorial Library	0.0	635.0
+53893	http://www.co.pecos.tx.us/	Pecos County	2000.0	35.0
+53894	http://www.tsswcb.texas.gov/	Soil and Water Conservation Board	2011.0	949.0
+53895	http://www.utdallas.edu	The University of Texas at Dallas	1997.0	2564.0
+53896	http://www.baycitytxlib.org	Bay City Public Library	2003.0	28.0
+53897	http://www.cclibrary.org/	Calhoun County Public Library - Point Comfort Branch Library	2000.0	933.0
+53898	http://www.guthriejags.net	GUTHRIE CSD	2010.0	139.0
+53899	http://www.txrc.texas.gov/	Racing Commission	2013.0	190.0
+53900	http://library.austintexas.gov/locations/Old%20Quarry%20Branch?from_austinlibrary	Austin Public Library - Old Quarry Branch	2014.0	32.0
+53901	http://www.hugedomains.com/domain_profile.cfm?d=coldspringlibrary&e=com	Coldspring Area Public Library	0.0	2043.0
+53903	http://www.alvin-tx.gov/	Alvin	2007.0	163.0
+53906	http://www.cityofhewitt.com/	Hewitt	2002.0	369.0
+53907	http://lawschool.untsystem.edu/	UNT Dallas College of Law	2012.0	197.0
+53908	http://www.tamuc.edu	Texas A&M University-Commerce	2012.0	3287.0
+53909	http://www.galvestoncountytx.gov/Pages/home.aspx	Galveston County	2013.0	743.0
+53910	http://www.shsu.edu	Sam Houston State University	1996.0	5857.0
+53911	http://bcls.tsl.state.tx.us/centennial_memorial	Centennial Memorial Library	0.0	297.0
+53913	http://www.tpwd.state.tx.us/	Parks and Wildlife Dept.	1997.0	4865.0
+53914	http://www.kaufmancounty.net/	Kaufman County	2001.0	54.0
+53915	http://www.ci.la-porte.tx.us/	La Porte	1999.0	567.0
+53916	http://www.co.fayette.tx.us/	Fayette County	2000.0	58.0
+53919	http://agrilifeextension.tamu.edu/	AgriLife Extension Service, Texas	2008.0	146.0
+53920	http://www.panola.edu	Panola College	2002.0	1211.0
+53922	http://www.rgrwa.org/	Rio Grande Regional Water Authority	2006.0	243.0
+53923	http://www.andrews.lib.tx.us	Andrews County Library	2001.0	57.0
+53924	http://www.hallcountytexas.com/	Hall County	2007.0	4.0
+53926	http://www.littleelmlibrary.org/	Little Elm Public Library	2012.0	7.0
+53927	http://www.lakecitieslibrary.org	Lake Cities Library	0.0	444.0
+53928	http://www.tea.state.tx.us/	Education Agency	1997.0	1555.0
+53929	http://farmersbranchtx.gov/	Farmers Branch Manske Public Library	2013.0	1419.0
+53931	http://www.lsco.edu	Lamar State College-Orange	2002.0	285.0
+53933	http://tcet.unt.edu/	Educational Technology, Center for	1996.0	79.0
+53934	http://cameronpubliclibrary.org	Cameron Public Library	0.0	232.0
+53936	http://www.victoriatx.org/	Victoria	2000.0	905.0
+53937	http://www.mwschool.org	MERIDIAN WORLD SCHOOL LLC	2011.0	842.0
+53939	http://www.huntsvilletx.gov/	Huntsville	2003.0	761.0
+53940	http://www.nbtexas.org/index.aspx?nid=114	New Braunfels Public Library	2009.0	1153.0
+53945	http://dallaslibrary2.org/	Dallas Public Library	2009.0	1580.0
+53946	http://www.nmls.lib.tx.us/gov/lq/lib/default.asp	Nicholson Memorial Library System	2012.0	8.0
+53947	http://www.rhodesschool.org	THE RHODES SCHOOL	0.0	93.0
+53948	http://www.ci.taylor.tx.us/	Taylor	1998.0	523.0
+53950	http://www.navasotatx.gov/index.aspx?nid=154	Navasota Public Library	2011.0	186.0
+53951	http://aals.tsl.state.tx.us/kenedy	Kenedy Public Library	0.0	83.0
+53952	http://www.hsehouston.org	HARMONY SCHOOL OF EXCELLENCE	2007.0	8.0
+53954	http://www.midland.edu	Midland College	2002.0	613.0
+53955	http://www.jaspertx.org/index.php?option=com_content&view=category&id=6&itemid=19	Jasper Public Library	0.0	1387.0
+53956	http://aals.tsl.state.tx.us/sabinal	Sabinal Public Library	0.0	23.0
+53957	http://www.lowrycrossingtexas.org/	Lowry Crossing	2002.0	1.0
+53958	http://www.angelinacounty.net/	Angelina County	2001.0	688.0
+53960	http://www.uplifteducation.org/northhillsprep	UPLIFT EDUCATION - NORTH HILLS PREPARATORY	2012.0	2579.0
+53961	http://www.radallas.org/	RECONCILIATION ACADEMY	2009.0	6.0
+53962	http://www.tccd.edu	Tarrant County College District	2002.0	1333.0
+53963	http://www.waysideschools.org/site/default.aspx?PageID=1	WAYSIDE SCHOOLS	2012.0	39.0
+53964	http://www.murphytx.org/Error.aspx?aspxerrorpath=/home/	Murphy	2013.0	454.0
+53965	http://www.wichitafallstx.gov/	Wichita Falls	2010.0	1244.0
+53968	http://www.cityoflakeway.com/	Lakeway	2004.0	923.0
+53970	http://bunalibrary.org	Buna Public Library	2003.0	7.0
+53971	http://www.waxahachie.com/	Waxahachie	1998.0	55.0
+53972	http://catalog.library.deerparktx.org/polaris/	Deer Park Public Library	0.0	545.0
+53974	http://www.edinburg.lib.tx.us	Dustin Michael Sekula Memorial Library	1998.0	794.0
+53975	http://www.wtc.edu	Western Texas College	2002.0	940.0
+53976	http://www.eastfieldcollege.edu	Eastfield College	2002.0	934.0
+53979	http://www.sll.texas.gov/	Law Library	2013.0	2651.0
+53980	http://www.faithfamilyacademy.org	FAITH FAMILY ACADEMY OF OAK CLIFF	2006.0	259.0
+53981	http://www.cityofterrell.org/	Terrell	1999.0	135.0
+53984	http://www.tvcc.edu	Trinity Valley Community College	2002.0	1299.0
+53985	http://www.paristexas.gov/index.aspx?NID=89	Paris Public Library	2011.0	508.0
+53987	http://bcls.tsl.state.tx.us/irion	Irion County Library	0.0	238.0
+53990	http://www.westcolumbiatx.org/	West Columbia	2009.0	291.0
+53991	http://www.willowparktx.org/	Willow Park	2000.0	3.0
+53993	http://www.oakridgenorth.com/	Oak Ridge North	2002.0	236.0
+53994	http://www.lonestar.edu/northharris.htm	Lone Star College - North Harris	2009.0	2143.0
+53995	http://www.cityofboyd.com/index.php?id=q961krzmo	Boyd Public Library	2009.0	47.0
+53996	http://www.heightslearning.org	HOUSTON HEIGHTS LEARNING ACADEMY INC	2008.0	231.0
+53997	http://www.ci.tomball.tx.us/	Tomball	2002.0	503.0
+53998	http://www.balchsprings.lib.tx.us	Balch Springs Library-Learning Center	0.0	301.0
+53999	http://jacksonville-texas.com/	Jacksonville	1999.0	44.0
+54001	http://www.uptexas.org/Government/UP-Public-Library	University Park Public Library	2014.0	208.0
+54002	http://www.apagalv.org	AMBASSADORS PREPARATORY ACADEMY	2007.0	349.0
+54003	http://www.sugarlandtx.gov/	Sugar Land	2003.0	1740.0
+54004	http://www.ttuhsc.edu/elpaso/	Texas Tech University Health Sciences Center - El Paso	2004.0	648.0
+54005	http://www.tpml.org	Tye Preston Memorial Library	2006.0	1057.0
+54006	http://www.hopkinscountytx.org/	Hopkins County	2001.0	94.0
+54007	http://www.jackcounty.org/	Jack County	2007.0	25.0
+54009	http://library.austintexas.gov/locations/Howson%20Branch?from_austinlibrary	Austin Public Library - Howson Branch	0.0	32.0
+54010	http://elem.cumberlandacademy.com/	CUMBERLAND ACADEMY	2013.0	158.0
+54011	http://www.burkburnett.org/	Burkburnett	1999.0	105.0
+54014	http://www.alamo.edu/nlc/	Alamo Community College - Northeast Lakeview College	2009.0	18.0
+54015	http://www.tlltemplememoriallibrary.org/	Tll Temple Memorial Library Archives	0.0	10.0
+54016	http://www.ci.lubbock.tx.us/	Lubbock	1998.0	1526.0
+54017	http://www.lancaster-tx.com/	Lancaster	2006.0	526.0
+54019	http://www.southplainscollege.edu	South Plains College	2006.0	1092.0
+54020	http://www.huntsvilletx.gov/department/index.php?structureid=17	Huntsville Public Library	2013.0	106.0
+54021	http://www.co.chambers.tx.us/	Chambers County	1998.0	212.0
+54022	http://www.cedarcreeklibrary.com	The Library At Cedar Creek Lake	2004.0	110.0
+54023	http://www.alvincollege.edu	Alvin Community College	2002.0	2162.0
+54024	http://www.orangetexas.net/	Orange	2000.0	63.0
+54025	http://www.hccs.edu	Houston Community College	2002.0	1999.0
+54028	http://www.eaglepasstx.us/	Eagle Pass	2008.0	145.0
+54029	http://www.smithvillepubliclibrary.org	Smithville Public Library	0.0	676.0
+54030	http://www.clarendoncollege.edu	Clarendon College	2002.0	148.0
+54031	http://www.bclstx.org/	Big Country Library System	2008.0	502.0
+54033	http://hitchcockpubliclibrary.org	Genevieve Miller Hitchcock Public Library	2005.0	637.0
+54034	http://www.sml.texas.gov	Savings and Mortgage Lending,  Dept. of	2011.0	14.0
+54035	http://www.ci.benbrook.tx.us/	Benbrook	1998.0	762.0
+54036	http://www.gptx.org/index.aspx?page=171	Grand Prairie Public Library System	2009.0	2120.0
+54037	http://www.tceq.texas.gov/licensing/ossf/researchgrants.html	On-Site Wastewater Treatment Research Council (Abolished and Transferred 2011)	2013.0	19.0
+54038	http://www.kaufmancountylibrary.org	Kaufman County Library	2000.0	2551.0
+54039	http://www.cityofalvarado.net/	Alvarado	2009.0	3.0
+54040	http://www.lenapopehome.org/chapel-hill-academy/	CHAPEL HILL ACADEMY	2011.0	198.0
+54041	http://www.ci.copperas-cove.tx.us/	Copperas Cove	2000.0	82.0
+54042	http://www.comanchepubliclibrary.com	Comanche Public Library	2003.0	621.0
+54045	http://www.co.burleson.tx.us/	Burleson County	2003.0	454.0
+54046	http://www.primeprepacademy.org	PRIME PREP ACADEMY	2012.0	31.0
+54047	http://www.blancolib.org	Blanco County South Library District	2001.0	427.0
+54048	http://www.cumberlandacademy.org	CUMBERLAND ACADEMY	2002.0	55.0
+54049	http://governor.state.tx.us/osfr	State-Federal Relations, Office of	2012.0	924.0
+54050	http://www.13thcoa.courts.state.tx.us/	Appeals, Court of -- 13th	1998.0	2.0
+54051	http://www.co.wilbarger.tx.us/	Wilbarger County	2001.0	50.0
+54053	http://www.decaturpubliclibrary.com	Decatur Public Library	2001.0	2.0
+54054	http://www.co.robertson.tx.us/ips/cms	Robertson County	2006.0	0.0
+54057	http://www.cityofbastrop.org/	Bastrop	2000.0	154.0
+54058	http://grahamtexas.net/	Library Of Graham	2003.0	38.0
+54059	http://www.shepherdpubliclibrary.org	Shepherd Public Library	2001.0	10.0
+54060	http://www.supreme.courts.state.tx.us/	Supreme Court	1998.0	579.0
+54061	http://www.foresthilltx.org/residents/public_library.htm	Forest Hill Public Library	2007.0	7.0
+54062	http://www.brecklibrary.org	Breckenridge Library	2008.0	11.0
+54064	http://www.cctexas.com/	Corpus Christi	2002.0	576.0
+54065	http://www.thc.state.tx.us/	Historical Commission	1997.0	807.0
+54066	http://www.saladolibrary.org	Salado Public Library District	0.0	712.0
+54068	http://www.opuc.texas.gov/	Public Utility Counsel, Office of	2013.0	35.0
+54070	http://www.tmfc.state.tx.us	Military Facilities Commission (Abolished 2007)	2001.0	1.0
+54071	http://www.sansabatexas.com/	San Saba	1999.0	5968.0
+54072	http://www.window.state.tx.us/	Comptroller of Public Accounts	1996.0	1099.0
+54073	http://www.tcppd.state.tx.us/	Purchasing from People with Disabilities, Council on	2003.0	11.0
+54074	http://www.bellcountytx.com/	Bell County	1999.0	757.0
+54075	http://www.cityofandrews.org/	Andrews	2002.0	213.0
+54076	http://www.lcra.org/Pages/default.aspx	Lower Colorado River Authority	2014.0	656.0
+54077	http://www.perryton.com/	Perryton	1998.0	34.0
+54079	http://www.utb.edu/Pages/default.aspx	The University of Texas at Brownsville	2008.0	720.0
+54080	http://www.ci.texarkana.tx.us/	Texarkana	2004.0	651.0
+54081	http://www.cityofvidor.com/dev/index.php	Vidor Public Library	0.0	1057.0
+54082	http://www.tamuct.edu/index.php	Texas A&M University-Central Texas	2013.0	1304.0
+54083	http://www.ci.austin.tx.us/	Austin	0.0	5564.0
+54086	http://www.newtontexas.org/	Newton	2008.0	76.0
+54087	http://bcls.tsl.state.tx.us/kent	Kent County Library	0.0	273.0
+54088	http://tais.tamu.edu/	Apiary Inspection Service (Entomologist, Office of the State)	2006.0	87.0
+54090	http://www.stonewall-library.com	Stonewall County Library	0.0	371.0
+54093	http://www.austincc.edu	Austin Community College	2002.0	2414.0
+54094	http://pecan.tsl.state.tx.us:8080/netls/whitewright	Whitewright Public Library	2012.0	1.0
+54097	http://starcharterschool.org/	CHAPARRAL STAR ACADEMY	2004.0	6.0
+54098	http://www.cedarhilltxgov.org/	Cedar Hill	2001.0	961.0
+54099	http://www.tsbp.state.tx.us/	Pharmacy, Board of	1998.0	89.0
+54100	http://www.lonestar.edu/universitypark.htm	Lone Star College - University Park	2010.0	2058.0
+54101	http://www.ci.taylor.tx.us/25/Library	Taylor Public Library	2013.0	2.0
+54102	http://www.lovettlibrarymclean.org	Lovett Memorial Library Mclean	2012.0	26.0
+54106	http://www.hemphilltxlibrary.com	Jr Huffman Public Library	2009.0	9.0
+54107	http://www.6thcoa.courts.state.tx.us/	Appeals, Court of -- 06th	1999.0	2.0
+54108	http://mlcs.org/	MEADOWLAND CHARTER SCHOOL	2001.0	656.0
+54110	http://www.co.wise.tx.us/	Wise County	2003.0	83.0
+54111	http://www.orendaeducation.org	ORENDA CHARTER SCHOOL	2009.0	201.0
+54114	http://www.duncanville.com/	Duncanville	1998.0	1100.0
+54115	http://www.10thcoa.courts.state.tx.us/	Appeals, Court of -- 10th	1998.0	2.0
+54116	http://www.vernoncollege.edu	Vernon College	2002.0	447.0
+54117	http://www.ci.la-marque.tx.us/index.php/departments-mainmenu-44-678/library-mainmenu-67	La Marque Public Library	2013.0	37.0
+54119	http://www.etchs.net/site/default.aspx?PageID=1	CALVIN NELMS H S	2012.0	6.0
+54120	http://ntrls.tsl.state.tx.us/krum	Krum Public Library	0.0	636.0
+54121	http://www.murphymemlib.org	Murphy Memorial Library	2001.0	605.0
+54124	http://www.dublinlibrary.org	Dublin Public Library	0.0	332.0
+54125	http://blanchekwernerpubliclibrary.org	Blanche K Werner Public Library	0.0	133.0
+54126	http://www.banderacounty.org/	Bandera County	2004.0	73.0
+54131	http://www.brb.state.tx.us/	Bond Review Board	1998.0	16.0
+54132	http://www.marshalltexas.net/	Marshall	2000.0	474.0
+54133	http://www.txpls.org/	Perry Memorial Library	2003.0	0.0
+54134	http://www.sorm.state.tx.us/	Risk Management, Office of	1999.0	849.0
+54135	http://www.ci.frisco.tx.us/newsite/Pages/default.aspx	Frisco	2011.0	2.0
+54136	http://bcls.tsl.state.tx.us/sterling_county	Sterling County Public Library	0.0	286.0
+54137	http://newarktexas.com/	Newark	2001.0	43.0
+54139	http://www.orgsites.com/tx/alvordpubliclibrary/	Alvord Public Library	2007.0	7.0
+54140	http://library.austintexas.gov/locations/Windsor%20Park%20Branch?from_austinlibrary	Austin Public Library - Windsor Park Branch	0.0	32.0
+54141	http://www.bookerpubliclibrary.org/	Booker School-Public Library	2006.0	8.0
+54142	http://www.rootsweb.ancestry.com/~txmcl/	Madison County Library	2008.0	20.0
+54144	http://www.trec.state.tx.us/	Real Estate Commission	1997.0	162.0
+54145	http://www.burlesontx.com/	Burleson	1998.0	1530.0
+54146	http://library.austintexas.gov/locations/Little%20Walnut%20Creek%20Branch?from_austinlibrary	Austin Public Library - Little Walnut Creek Branch	2012.0	32.0
+54147	http://www.thesanantonioschool.org	SAN ANTONIO SCHOOL FOR INQUIRY & CREATIVITY	2002.0	40.0
+54148	http://www.ci.levelland.tx.us/	Levelland	1998.0	359.0
+54150	http://www.hsart.org	HARMONY SCHOOL OF FINE ARTS AND TECHNOLOGY	2010.0	323.0
+54151	http://www.senate.state.tx.us/	Senate	1997.0	129.0
+54152	http://www.rockspringsisd.net/library/library.htm	Claud H Gilmer Memorial Library	2007.0	1.0
+54153	http://www.8thcoa.courts.state.tx.us/	Appeals, Court of -- 08th	1996.0	2.0
+54154	http://www.tcfp.texas.gov	Fire Protection, Commission on	2011.0	95.0
+54155	http://www.hpwd.com/	High Plains Underground Water Conservation District	1998.0	43.0
+54157	http://franklintx.booksys.net/opac/franklintx/index.html	Franklin County Library	0.0	22.0
+54158	http://www.ci.pasadena.tx.us/	Pasadena	1998.0	372.0
+54159	http://www.ptot.texas.gov/page/home	Physical Therapy and Occupational Therapy Examiners, Executive Council of	2014.0	174.0
+54160	http://burlesontx.com/index.aspx?NID=72	Burleson Public Library	2010.0	1598.0
+54161	http://www.cca.courts.state.tx.us/	Criminal Appeals, Court of	1998.0	2.0
+54162	http://www.waco.tstc.edu	Texas State Technical College-Waco	1996.0	1381.0
+54163	http://www.hcpl.net	Harris County Public Library	2000.0	68.0
+54166	http://cookecountylibrary.org	Cooke County Library	2013.0	698.0
+54168	http://silsbeepubliclibrary.org	Silsbee Public Library	2011.0	0.0
+54169	http://www.collin.edu	Collin County Community College District	2009.0	1376.0
+54170	http://www.howardcollege.edu/swcid/	Southwest Collegiate Institute for the Deaf	2003.0	299.0
+54171	http://www.mpcity.net/	Mount Pleasant	2001.0	576.0
+54172	http://www.por-vida.org	CORPUS CHRISTI COLLEGE PREP H S	2003.0	2.0
+54173	http://cityofcarrollton.com/	Carrollton	2000.0	2432.0
+54174	http://www.anra.org/	Angelina and Neches River Authority	1998.0	9.0
+54175	http://www.austinachieve.org	AUSTIN ACHIEVE PUBLIC SCHOOLS	2011.0	2.0
+54176	http://www.tssb.org/	Skill Standards Board	2000.0	173.0
+54177	http://harringtonlc.org/dimmitt/	Rhoads Memorial Library	2013.0	8.0
+54178	http://www.portlandtx.com/	Portland	1998.0	564.0
+54179	http://www.kountzelibrary.org	Kountze Public Library	0.0	377.0
+54180	http://www.myharlingen.us/	Harlingen	2004.0	332.0
+54181	http://www.seguin.lib.tx.us	Seguin-Guadalupe County Public Library	1999.0	58.0
+54183	http://www.hcls.lib.tx.us/	Hidalgo County Library System	1997.0	8.0
+54185	http://www.com.edu	College of the Mainland Community College District	2002.0	1688.0
+54186	http://burnhamwood.org/	DAVINCI SCHOOL FOR SCIENCE AND THE ARTS	2004.0	96.0
+54188	http://www.ci.rowlett.tx.us/	Rowlett	1998.0	1439.0
+54190	http://www.victoriacountytx.org/	Victoria County	2001.0	234.0
+54191	http://www.fortbendcountytx.gov/	Fort Bend County	2012.0	2175.0
+54192	http://www.mansfield-tx.gov/	Mansfield	2004.0	1915.0
+54193	http://www.llano-library-system.net	Llano County Library System	2001.0	11.0
+54195	http://www.jonestown.org/index.asp	Jonestown Community Library	2007.0	759.0
+54197	http://www.islandfoundation.esc2.net	SEASHORE CHARTER SCHOOLS	2001.0	14.0
+54198	http://www.tsus.edu	Texas State University System	2003.0	218.0
+54199	http://www.austinmemlib.org	Austin Memorial Library	2001.0	13.0
+54202	http://ctls.tsl.state.tx.us/lake-whitney	Lake Whitney Library	0.0	646.0
+54206	http://www.lovingcountytexas.us/	Loving County	2006.0	3.0
+54207	http://www.alamoheightstx.gov/	Alamo Heights	2006.0	121.0
+54209	http://www.comfort-library.txed.net	Comfort Public Library	2001.0	27.0
+54211	http://www.smacs.net	ST MARY'S ACADEMY CHARTER SCHOOL	2003.0	514.0
+54214	http://www.alamotexas.org/	Alamo	2003.0	473.0
+54215	http://www.hsendeavor.org	HARMONY SCHOOL OF EXCELLENCE - ENDEAVOR	2009.0	13.0
+54217	http://www.co.gregg.tx.us/	Gregg County	2000.0	84.0
+54218	http://www.dshs.state.tx.us/Mobile/Mobile.aspx	Health Services, Dept. of State	2011.0	43.0
+54220	http://www.townofsunnyvale.org/index.aspx?nid=80	Sunnyvale Public Library	2009.0	309.0
+54221	http://uvaldecounty.com/	Uvalde County	2001.0	537.0
+54222	http://www.cityofrockport.com/	Rockport	2003.0	352.0
+54223	http://www.lhpl.org	Liberty Hill Public Library	2003.0	106.0
+54225	http://laketravislibrary.org	Lake Travis Community Library	2003.0	27.0
+54226	http://www.kendalialibrary.com	Kendalia Public Library	2004.0	10.0
+54228	http://www.plano.gov/index.aspx?NID=203	Plano Public Library System	2012.0	2.0
+54229	http://aals.tsl.state.tx.us/utopia	Utopia Memorial Library	0.0	34.0
+54230	http://www.marlintexas.com/	Falls County	1998.0	73.0
+54231	https://library.georgetown.org/	Georgetown Public Library	2007.0	85.0
+54232	http://www.northlakecollege.edu/Pages/default.aspx	North Lake College	2011.0	397.0
+54234	http://www.aiacharterschools.org	ACCELERATED INTERDISCIPLINARY ACAD	2009.0	35.0
+54236	http://www.bigspringscharterschool.com	BIG SPRINGS CHARTER SCHOOL	2008.0	313.0
+54237	http://www.ci.amarillo.tx.us/	Amarillo	1998.0	106.0
+54238	http://library.austintexas.gov/locations/Pleasant%20Hill%20Branch?from_austinlibrary	Austin Public Library - Pleasant Hill Branch	0.0	32.0
+54240	http://www.thekcla.com	KOINONIA COMMUNITY LEARNING ACADEMY	2010.0	1.0
+54242	http://www.ennis-texas.com/	Ennis	1997.0	62.0
+54243	http://fortworthtexas.gov/Library/	Fort Worth Library	2011.0	128.0
+54244	http://www.ci.lamesa.tx.us/	Lamesa	2002.0	416.0
+54245	http://www.draw.org	DRAW ACADEMY EARLY LEARNING CENTER	1998.0	1.0
+54246	http://www.hsahouston.org	HARMONY SCHOOL OF INNOVATION - HOUSTON	2005.0	16.0
+54247	http://www.texarkanacollege.edu	Texarkana College	2002.0	683.0
+54248	http://www.victoriacollege.edu	Victoria College	2002.0	1979.0
+54249	http://www.canyon-tx.com/	Canyon	2002.0	446.0
+54250	http://www.randallcounty.org/	Randall County	2000.0	191.0
+54251	http://www.salibrary.org	San Augustine Public Library	2003.0	6.0
+54253	http://www.ci.crowley.tx.us/	Crowley	2000.0	320.0
+54254	http://www.atascosacountytexas.us/	Atascosa County	2003.0	3.0
+54256	http://www.valverdecountytexas.net/	Val Verde County	2011.0	5.0
+54257	http://www.tstc.edu/westtexas/	Texas State Technical College-West Texas	2011.0	598.0
+54259	http://www.jeanmassieu.com	JEAN MASSIEU ACADEMY	2000.0	50.0
+54260	http://www.arlingtonlibrary.org	Arlington Public Library System	2007.0	1652.0
+54261	http://www.marshalltexas.net/departments/library/departments/library/	Marshall Public Library	2012.0	1.0
+54262	http://www.ci.laredo.tx.us/	Laredo	2001.0	146.0
+54263	http://www.inglesidetx.gov/library.cfm	Ingleside Public Library	2009.0	244.0
+54264	http://www.edwardscountytexas.us/	Edwards County	2003.0	5.0
+54266	http://tlca-sanangelo.com/	TEXAS LEADERSHIP	2013.0	24.0
+54268	http://tbpg.state.tx.us/	Geoscientists, Board of Professional	2002.0	151.0
+54269	http://cityofseymour.org/	Seymour	1998.0	394.0
+54270	http://www.huttotx.gov/index.aspx?nid=111	Hutto Public Library	2009.0	2078.0
+54271	http://www.delmar.edu	Del Mar College	1996.0	1000.0
+54272	http://www.elsa.lib.tx.us	Elsa Public Library	1998.0	2.0
+54274	http://www.kilgore.edu	Kilgore College	2002.0	424.0
+54276	http://edwardspl.org	Edwards Public Library	0.0	373.0
+54277	http://www.fortbend.lib.tx.us	Fort Bend County Libraries	1998.0	5.0
+54278	http://www.co.travis.tx.us/	Travis County	1997.0	1375.0
+54279	http://www.glo.texas.gov	Land Office, General	2010.0	17.0
+54280	http://www.roundrocktexas.gov/library	Round Rock Public Library System	2007.0	1397.0
+54281	http://www.dads.state.tx.us/	Aging and Disability Services, Dept. of	2004.0	1133.0
+54282	http://www.cityofelcampo.org/	El Campo	2002.0	121.0
+54283	http://www.cityofkilgore.com/library	Kilgore Public Library	2010.0	798.0
+54284	http://www.tmrs.org/	Municipal Retirement System	1998.0	100.0
+54285	http://www.14thcoa.courts.state.tx.us/	Appeals, Court of -- 14th	1998.0	2.0
+54286	http://www.treetops.org/site/default.aspx?PageID=1	TREETOPS SCHOOL INTERNATIONAL	2013.0	6.0
+54289	http://www.parisjc.edu	Paris Junior College	2004.0	631.0
+54290	http://bcls.lib.tx.us	Brazoria County Library System	2002.0	383.0
+54291	http://www.courts.state.tx.us/tjc/tjchome.asp	Judicial Council	2007.0	377.0
+54292	http://www.ozonaschools.net	CROCKETT COUNTY CONSOLIDATED CSD	2000.0	640.0
+54294	http://www.roysecity.com/	Royse City	2000.0	82.0
+54295	http://www.howardcollege.edu	Howard College	2002.0	1232.0
+54296	http://www.ci.corsicana.tx.us/departments/library.php	Corsicana Public Library	2007.0	1353.0
+54297	http://www.arlingtontx.gov/	Arlington	2006.0	1843.0
+54298	http://www.pegasuscharter.org	PEGASUS CHARTER H S	2000.0	52.0
+54299	http://www.bclib.org	Joe Barnhart Bee County Library	2001.0	17.0
+54300	http://www.hshigh.org	HARMONY SCIENCE ACADEMY	2006.0	11.0
+54301	http://www.rrc.state.tx.us/	Railroad Commission	1998.0	1324.0
+54302	http://www.cityofstafford.com/	Stafford	1999.0	60.0
+54303	http://www.leaguecity.com/	League City	1998.0	2349.0
+54305	http://www.hsaaustin.org	HARMONY SCIENCE ACADEMY (AUSTIN)	2003.0	9.0
+54306	http://www.haltomcitytx.com/	Haltom City	2000.0	615.0
+54307	http://www.co.kerr.tx.us/	Kerr County	2005.0	231.0
+54308	http://www.co.wichita.tx.us/	Wichita County	2002.0	98.0
+54311	http://www.kemah-tx.gov/	Kemah	2007.0	20.0
+54312	http://www.maebrucelibrary.org	Mae S Bruce Library	2004.0	66.0
+54317	http://www.hamiltontexas.com/	Hamilton	2000.0	196.0
+54319	http://www.tcjs.state.tx.us/	Jail Standards, Commission on	2000.0	39.0
+54320	http://www.co.nacogdoches.tx.us/	Nacogdoches County	2002.0	167.0
+54321	http://allanshiverslibrary.com	Allan Shivers Library Museum	0.0	416.0
+54322	http://pgcd.us/	Panhandle Groundwater Conservation District	2007.0	54.0
+54326	http://www.ector.lib.tx.us	Ector County Library	1999.0	28.0
+54327	http://aals.tsl.state.tx.us/campwood	Camp Wood Public Library	0.0	23.0
+54328	http://www.uptexas.org/	University Park	2003.0	1341.0
+54330	http://www.palacioslibrary.org	Palacios Library Inc	0.0	229.0
+54332	http://www.hptx.org/	Highland Park	2008.0	966.0
+54333	http://www.acplibrary.org	Aransas County Public Library	2002.0	1.0
+54334	http://www.hals.lib.tx.us/	Houston Area Library System	0.0	163.0
+54335	http://library.austintexas.gov/locations/Southeast%20Austin%20Community%20Branch?from_austinlibrary=	Austin Public Library - Southeast Austin Community Branch	0.0	31.0
+54336	http://www.tcleose.state.tx.us	Law Enforcement Officer Standards and Education, Commission on	2000.0	29.0
+54337	http://www.courts.state.tx.us/oca/	Court Administration, Office of	1997.0	377.0
+54338	http://www.ssb.state.tx.us	Securities Board	1997.0	182.0
+54340	http://www.unt.edu	University of North Texas System	1997.0	210.0
+54341	http://www.missouricitytx.gov/	Missouri City	2008.0	1179.0

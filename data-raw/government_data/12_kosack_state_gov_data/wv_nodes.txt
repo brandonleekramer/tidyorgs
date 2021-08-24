@@ -1,0 +1,580 @@
+NodeId	NodeURL	NodeName	Year	pages
+58248	http://boe.jeff.k12.wv.us/res	Ranson Elementary School	2013.0	2613.0
+58249	http://pleasants.lib.wv.us/	Pleasants County Public Library	2003.0	2.0
+58250	http://www.logancounty.wv.gov/Pages/default.aspx	Logan County	2012.0	19.0
+58251	http://www.berkeleycountycomm.org/	Berkeley County	2001.0	273.0
+58252	http://www.wvdhhr.org/phs/bors/index.asp	Sanitarians, Board of Registration for	2003.0	3.0
+58253	http://cabell.lib.wv.us/	Gallaher Village Branch Library	1998.0	87.0
+58255	http://www.wvdjs.state.wv.us	Juvenile Services, Division of	2000.0	68.0
+58256	http://www.lumberportmiddleschool.com	Lumberport Middle School	2001.0	23.0
+58257	http://www.co.monongalia.wv.us/index.html	Monongalia County	2001.0	14.0
+58259	http://www.wveda.org	Economic Development Authority	2006.0	18.0
+58260	https://www.edline.net/pages/robert_l__bland_middle_school	Robert L. Bland Middle School	2008.0	242.0
+58261	http://www.local.wv.gov/bethlehem/Pages/default.aspx	Bethlehem	0.0	11.0
+58262	http://www.woodcountywv.com/	Wood County	2000.0	84.0
+58263	http://www.wvdhhr.org/bcf/	Children and Families, Bureau for	2000.0	22.0
+58264	http://ripleyhs.jack.k12.wv.us	Ripley High School	2000.0	52.0
+58265	http://www.wvdhhr.org/mcfh/	Maternal, Child, and Family Health, Office Of	2002.0	16.0
+58266	http://www.easternwv.edu/home.aspx	Eastern CTC	2013.0	294.0
+58268	http://www.webstercounty.wv.gov/Pages/default.aspx	Webster County	2011.0	19.0
+58269	http://www.cityofkenova.com	Kenova	2009.0	1.0
+58270	http://boe.jeff.k12.wv.us/pjes	Page Jackson Elementary	0.0	2556.0
+58272	http://creedcollins.com/	Creed Collins Elementary	2007.0	1.0
+58273	http://mbc.wv.gov/	Municipal Bond Commission	2010.0	83.0
+58274	http://wvde.state.wv.us	Education, State Department of	1998.0	881.0
+58277	http://www.wvwda.org	Water Development Authority	2000.0	22.0
+58278	http://www.wvlabor.org	Labor, Division of	2007.0	189.0
+58279	http://www.wvsp.gov/Pages/default.aspx	State Police, WV	2013.0	61.0
+58281	http://www.tylercountywv.com/	Tyler County	2010.0	2.0
+58282	http://boe.mars.k12.wv.us/washingtonlands/index.htm	Washington Lands Elementary School	2000.0	7.0
+58283	http://www.pendletoncountyschools.com/bes/index.htm	Brandywine Elementary School	2003.0	2.0
+58284	http://jeffersoncounty.schoolwires.net/Domain/17	Wright Denny Intermediate School	2012.0	502.0
+58285	http://www.braxtoncounty.wv.gov/Pages/default.aspx	Braxton County	2011.0	18.0
+58286	http://www.pendletoncountyschools.com/nfes/index.htm	North Fork Elementary School	2003.0	7.0
+58287	http://www.citynet.net/boonecountyschools/brookview/	Brookview Elementary	1998.0	2.0
+58288	http://www.blueridgectc.edu/	BlueRidge CTC	2006.0	286.0
+58290	http://www.shermanhigh.com	Sherman High School	2003.0	9.0
+58291	http://www.edline.net/pages/glendale	Glen Dale Elementary School	2013.0	27.0
+58292	http://www.wvhepc.com/	Higher Education Policy Commission	2014.0	1173.0
+58293	http://elkgarden.mine.k12.wv.us	Elk Garden School	2001.0	6.0
+58294	http://www.cad.state.wv.us/	Consumer Advocate Division of the Public Service Commission	2001.0	58.0
+58295	http://www.barbourcounty.wv.gov/Pages/default.aspx	Barbour County	2011.0	19.0
+58296	http://kanawhalibrary.org/branches/	Nitro Public Library	2008.0	14.0
+58298	http://www.fairmontstate.edu/	Fairmont State University	2004.0	2680.0
+58299	http://whitesulphursprings.lib.wv.us	White Sulphur Springs Public Library	2002.0	9.0
+58300	http://www.workforcewv.org	West Virginia Workforce Investment Council	2003.0	38.0
+58303	http://pineville.wyom.k12.wv.us/	Pineville Elementary School	2007.0	23.0
+58304	http://burnsville.lib.wv.us/	Burnsville Public Library	2006.0	8.0
+58305	http://www.wvbti.com	Treasury Investments, Board of	2006.0	103.0
+58308	http://www.wvochs.org	Community and Rural Health Services, Office of	2005.0	55.0
+58312	http://www.grantcounty.wv.gov/	Grant County	2013.0	24.0
+58313	http://www.personnel.wv.gov/ohrd/pages/default.aspx	Organization and Human Resource Development	2010.0	4.0
+58314	http://www.cityofhuntington.com/	Huntington	1999.0	388.0
+58315	http://www.transportation.wv.gov/ports/Pages/default.aspx	Public Port Authority	2009.0	7.0
+58316	http://www.edline.net/pages/claycountyschools	Clay Middle School	2011.0	2.0
+58317	http://www.edline.net/pages/oak_glen_high_school	Oak Glen High School	2011.0	1.0
+58318	http://greenbriercounty.net/	Greenbrier County	2008.0	84.0
+58319	http://www.wvdhhr.org/communications/	Communications and Legislative Affairs, Office of	2003.0	3.0
+58320	http://www.angelfire.com/wv2/vanelementary/	Van Elementary	2002.0	20.0
+58322	http://craftmemorial.lib.wv.us	Craft Memorial Library	2001.0	33.0
+58323	http://www.harcoboe.com/westmilfordelementaryschool/index.cfm	West Milford Elementary School	2008.0	48.0
+58324	http://www.legis.state.wv.us/joint/court/main.cfm	Claims, Court of	2005.0	17.0
+58325	http://fhs.mine.k12.wv.us/	Frankfort High School	2001.0	5.0
+58328	http://boe.jeff.k12.wv.us/whs	Washington High School	2013.0	2795.0
+58329	http://www.wvlicensingboards.com	WV Association of Licensing Boards	2004.0	10.0
+58330	http://www.dmaps.wv.gov/Pages/default.aspx	Military Affairs and Public Safety, Department of	2011.0	19.0
+58331	http://www.cityofbluefield.com	Bluefield	2003.0	347.0
+58332	http://www.wvseniorservices.gov	Senior Services, Bureau of	2007.0	66.0
+58333	http://www.edline.net/pages/allison_elementary_school	A. T. Allison Elementary School	2008.0	6.0
+58334	https://sites.google.com/site/ruffnerelementary/	Ruffner Elementary School	0.0	90.0
+58336	http://www.boa.wv.gov/Pages/default.aspx	Accountancy, Board of	2010.0	85.0
+58337	http://www.pai.wv.gov/Pages/default.aspx	Prosecuting Attorneys Institute	2011.0	95.0
+58338	http://www.edline.net/pages/Jane_Lew_Elementary_School	Jane Lew Elementary School	2011.0	51.0
+58341	http://bluefieldstate.edu/	Bluefield State College	2002.0	4034.0
+58342	http://www.pendletoncounty.wv.gov/Pages/default.aspx	Pendleton County	2013.0	19.0
+58343	http://www.wvschools.com/bms/	Belington Middle School	2002.0	0.0
+58344	http://roanecountylibrary.org/	James Curry Public Library	2000.0	42.0
+58348	http://www.upshurcounty.org/	Upshur County	2003.0	35.0
+58349	http://www.appraiserboard.wv.gov/Pages/default.aspx	Real Estate Appraiser Licensing and Certification Board	2011.0	66.0
+58350	http://jackson.park.lib.wv.us	Jackson County Public Library	2001.0	68.0
+58351	http://www.harrisvilleelem.com	Harrisville Elementary	2008.0	2.0
+58352	http://mcdowell.lib.wv.us	Mcdowell County Public Library	2001.0	11.0
+58353	http://www.dep.wv.gov/legal-services/Pages/default.aspx	Legal Services Office	2010.0	4.0
+58354	http://www.edline.net/pages/lakewood	Lakewood Elementary School	2012.0	12.0
+58355	http://www.wirtcounty.wv.gov/Pages/default.aspx	Wirt County	2011.0	19.0
+58356	http://www.hcawv.org	Health Care Authority	1998.0	90.0
+58358	http://bfcc.kana.tec.wv.us	Ben Franklin Vocational Center	2001.0	0.0
+58359	http://www.edline.net/pages/Peterson_Central_Elementary	Peterson-Central Elementary School	2011.0	16.0
+58360	http://boe.mars.k12.wv.us/sandhill/index.htm	Sand Hill Elementary School	2000.0	9.0
+58364	http://cottageville.tripod.com/	Cottageville Elementary School	2004.0	6.0
+58365	http://www.sos.wv.gov/business-licensing/uniformcommercialcode/Pages/default.aspx	Uniform Commercial Code Division	2009.0	11.0
+58366	http://www.ethics.wv.gov/Pages/default.aspx	Ethics Commission	2010.0	46.0
+58367	http://www.harrisoncountywv.com/	Harrison County	2001.0	63.0
+58368	http://wellsburg.lib.wv.us	Brooke County Public Library	2005.0	24.0
+58369	http://kingwood.lib.wv.us	Kingwood Public Library	2006.0	5.0
+58372	http://kcs.kana.k12.wv.us/sisselem/	Sissonville Elementary School	0.0	18.0
+58374	http://www.wvcommerce.org/energy/default.aspx	Energy, Division of	2009.0	107.0
+58376	http://www.putnamschools.com/hms/	Hurricane Middle	1999.0	0.0
+58377	http://www.dep.wv.gov/environmental-advocate/Pages/default.aspx	Environmental Advocate, Office of	2010.0	4.0
+58378	http://www.courtswv.gov/	Supreme Court of Appeals	2011.0	20.0
+58379	https://sites.google.com/site/hillsboroelementaryschool/	Hillsboro Elementary School	2011.0	17.0
+58380	http://www.dhhr.wv.gov/oeps/Pages/default.aspx	Epidemiology and Prevention Services, Office of	2011.0	14.0
+58381	http://www.ada.wv.gov/Pages/default.aspx	Americans with Disabilities Act Office	2011.0	33.0
+58382	http://www.fleet.wv.gov/Pages/default.aspx	Fleet Management, Division of	2012.0	17.0
+58383	http://randolphcountycommissionwv.org/	Randolph County	2010.0	137.0
+58384	http://www.hrc.wv.gov/Pages/default.aspx	Human Rights Commission	2012.0	77.0
+58386	http://parkersburg.lib.wv.us	Parkersburg-Wood Co. Public Library	2001.0	24.0
+58387	http://resa4.k12.wv.us/	Regional Education Service Agency 4	1998.0	315.0
+58389	http://www.lib.shepherdstown.wv.us/	Shepherdstown Public Library	1998.0	10.0
+58390	http://taylor.lib.wv.us	Taylor County Public Library	2011.0	33.0
+58393	http://gassaway.lib.wv.us	Gassaway Public Library	2004.0	6.0
+58394	http://www.jeffersoncountywv.org/	Jefferson County	2004.0	637.0
+58396	http://www.edandarts.wv.gov/Pages/default.aspx	Education and the Arts, Department of	2011.0	107.0
+58398	http://beaverelementaryschool.webs.com/	Beaver Elementary School	2011.0	0.0
+58399	http://www.wvdhhr.org/bph/oehp/hsc/hschome.htm	Health Statistics Center	1999.0	312.0
+58406	http://ww2.wvbep.org/scripts/bep/jobs	Job Training Programs Division, Employment Service	0.0	1.0
+58408	http://www.wvhdf.com	Housing Development Fund	1998.0	241.0
+58409	http://keyser.lib.wv.us/	Burlington Public Library	2003.0	35.0
+58410	http://www.dhhr.wv.gov/healthprep/Pages/default.aspx	Center for Threat Preparedness	2013.0	7.0
+58411	http://louisbennett.lib.wv.us	Louis Bennett Public Library	2002.0	12.0
+58412	http://www.administration.wv.gov/Pages/default.aspx	Administration, Department of	2009.0	85.0
+58414	http://kcs.kana.k12.wv.us/Schools/Default.aspx?alias=kcs.kana.k12.wv.us/schools/dunbar	Dunbar Middle School	0.0	0.0
+58416	http://www.madisonwva.com/	Madison	2011.0	305.0
+58420	http://www.kvctc.edu/index.php	Kanawha Valley CTC	2010.0	198.0
+58421	http://www.transportation.wv.gov/turnpike/Pages/default.aspx	Parkways, Economic Development, and Tourism Authority	2009.0	6.0
+58422	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=37	North Elementary School	2006.0	0.0
+58423	http://www.wvspeechandaudiology.com/	Speech-Language, Pathology and Audiology, Board of Examiners for	2006.0	38.0
+58424	http://boe.jeff.k12.wv.us/njes	North Jefferson Elementary	0.0	2562.0
+58425	http://www.dhhr.wv.gov/bph/Pages/default.aspx	Public Health, Bureau for	2012.0	7.0
+58426	http://www.wvhumanities.org	Humanities Council	2001.0	60.0
+58428	http://danese.faye.k12.wv.us/	Danese Elementary	0.0	1.0
+58430	http://richwood.lib.wv.us	Richwood Public Library	2002.0	5.0
+58431	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=30	Elkins High School	2006.0	0.0
+58432	http://www.edline.net/pages/union_es	Union Elementary School	0.0	2.0
+58433	http://altizer.cabe.k12.wv.us/	Altizer Elementary School	2004.0	13.0
+58437	http://boe.mars.k12.wv.us/sherrard/index.htm	Sherrard Middle School	2000.0	9.0
+58438	http://www.edline.net/pages/weir_high_school	Weir High School	2011.0	17.0
+58440	http://www.wvagriculture.org/division_webpages/animal_health.html	Animal Health Division	2007.0	3.0
+58442	http://www.wvup.edu/	WVU Parkersburg	2002.0	2585.0
+58443	http://www.dep.wv.gov/daq/Pages/default.aspx	Air Quality, Division of	2010.0	3.0
+58444	http://www.edline.net/pages/Alum_Bridge_Elementary_School	Alum Bridge Elementary School	2008.0	59.0
+58446	http://boe.jeff.k12.wv.us/jhs	Jefferson High School	2013.0	2724.0
+58447	http://pbhs.barb.k12.wv.us	Philip Barbour High School Complex	2001.0	12.0
+58448	http://www.minorityaffairs.wv.gov/Pages/default.aspx	Minority Affairs, Herbert Henderson Office of	2013.0	102.0
+58450	http://boe.mars.k12.wv.us/centermcmechen/index.htm	Center Mcmechen Elementary School	2000.0	8.0
+58454	http://ritchie.lib.wv.us	Ritchie County Public Library	2003.0	12.0
+58456	http://www.upshurcounty.org/home.html	Upshur County	2010.0	139.0
+58457	http://www.dep.wv.gov/administration/Pages/default.aspx	Administration, Office of	2010.0	85.0
+58459	http://www.kanawhalibrary.org/	Cross Lanes Public Library	2008.0	1027.0
+58460	https://secure.cfwv.com/	College Foundation of West Virginia	2011.0	349.0
+58461	http://boe.mars.k12.wv.us/mcninch/index.htm	Mcninch Primary School	2000.0	11.0
+58464	http://www.wvregion3.org/	Regional Intergovernmental Council	1999.0	28.0
+58466	http://www.sos.wv.gov/business-licensing/notaries/Pages/default.aspx	Notary Public Division	2009.0	12.0
+58467	http://www.mcpls.org/	Marion County Public Library	2011.0	635.0
+58468	http://www.wvoasis.gov	Enterprise Resource Planning (ERP) Board	2012.0	16.0
+58470	http://martinsburg.lib.wv.us/	Musselman-South Berkeley Community Library	2009.0	88.0
+58471	http://www.trailsheaven.com/	Hatfield-McCoy Regional Recreation Authority	2000.0	193.0
+58472	http://www.tuckercounty.wv.gov/Pages/default.aspx	Tucker County	2011.0	19.0
+58473	http://kcs.kana.k12.wv.us/herberthoover/	Herbert Hoover High School	0.0	176.0
+58474	http://www.revenue.wv.gov/Pages/default.aspx	Revenue, Department of	2011.0	24.0
+58475	http://www.wvsocialworkboard.org	Social Work Examiners, Board of	2003.0	128.0
+58476	http://wvcip.com	Court Improvement Program	2009.0	73.0
+58477	http://www.putnamcounty.org/government/	Putnam County	2002.0	2.0
+58478	http://boone.lib.wv.us/	Barrett-Wharton Public Library	2001.0	21.0
+58480	http://newriver.edu/	New River CTC	2007.0	5877.0
+58484	http://www.wvdnr.gov	Natural Resources, Division of	2003.0	1111.0
+58485	http://www.dhhr.wv.gov/bms/Pages/default.aspx	Medical Services, Bureau for	2011.0	2.0
+58487	http://kcs.kana.k12.wv.us/flinn/	Flinn Elementary School	0.0	49.0
+58490	http://www.pocahontascounty.wv.gov/Pages/default.aspx	Pocahontas County	2009.0	28.0
+58496	http://www.grantcountyschools.com/grant5/	Petersburg Elementary School	2006.0	1.0
+58498	http://www.mercercounty.wv.gov/Pages/default.aspx	Mercer County	2011.0	19.0
+58499	http://www.waynecountywv.org/	Wayne County	2003.0	18.0
+58500	http://daviscreek.cabe.k12.wv.us	Davis Creek Elementary School	2004.0	7.0
+58502	http://www.wvcommerce.org/default.aspx	Commerce, Department of	2009.0	422.0
+58503	http://www.edline.net/pages/Roanoke_Elementary_School	Roanoke Elementary School	2011.0	53.0
+58507	http://www.librarycommission.wv.gov/Pages/default.aspx	Library Commission	2011.0	545.0
+58508	http://www.harcoboe.com/jes/	Johnson Elementary School	2007.0	25.0
+58512	http://www.edline.net/pages/Lewis_County_High_School	Lewis County High School	2010.0	51.0
+58513	http://www.edline.net/pages/new_manchester_es	New Manchester Elementary School	2011.0	11.0
+58515	http://www.cabellcounty.org	Cabell County	2002.0	13.0
+58517	http://www.wvculture.org/arts/index.html	Arts, WV Commission on the	2000.0	144.0
+58518	http://www.djcs.wv.gov/Pages/default.aspx	Justice and Community Services, Divison Of	2011.0	168.0
+58520	http://www.ritchiecounty.wv.gov/Pages/default.aspx	Ritchie County	2011.0	19.0
+58521	http://www.oeo.wv.gov/Pages/default.aspx	Economic Opportunity, Office of	2012.0	152.0
+58522	http://www.scotthighskyhawks.com	Scott High School	2006.0	1507.0
+58525	http://www.wvbom.wv.gov	Medicine, Board of	2009.0	29.0
+58526	http://lc2.boe.loga.k12.wv.us/chaphigh/homepage.htm	Chapmanville Regional High School	2005.0	0.0
+58527	http://www.waynepioneers.org	Wayne High School	2000.0	75.0
+58528	http://www.cityofmartinsburg.org/	Martinsburg	2010.0	6.0
+58530	http://www.paroleboard.wv.gov/Pages/default.aspx	Parole, Board of	2010.0	34.0
+58531	http://www.wvagriculture.org/division_webpages/marketing.html	Marketing and Development Division	2007.0	20.0
+58533	http://wvfilm.wvcommerce.org/default.aspx	West Virginia Film Office	2010.0	2.0
+58534	http://www.sos.wv.gov/business-licensing/serviceofprocess/Pages/default.aspx	Service of Process Division	2009.0	9.0
+58535	http://www.roanecounty.wv.gov/Pages/default.aspx	Roane County	2011.0	50.0
+58537	http://www.eeo.wv.gov/Pages/default.aspx	Equal Employment Opportunity Office	2010.0	18.0
+58538	http://www.brookewv.org	Brooke County	2005.0	12.0
+58539	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=33	Harman Elementary/High School	2006.0	0.0
+58541	http://www.ptpleasantwv.org/	Point Pleasant	2004.0	5.0
+58543	http://kcs.kana.k12.wv.us/schools/elkviewmiddle/	Elkview Middle School	0.0	3.0
+58544	http://www.fairmontwv.gov/	Fairmont	2008.0	359.0
+58545	http://oms.wyom.k12.wv.us/	Oceana Middle School	2007.0	4.0
+58546	http://www.wvagriculture.org/division_webpages/administrative.html	Administrative Services Division	2007.0	21.0
+58548	http://www.peia.wv.gov/Pages/default.aspx	Public Employees Insurance Agency	2010.0	210.0
+58549	http://apps.wvinsurance.gov/accesswv/	AccessWV	2009.0	1.0
+58550	http://www.boc.wv.gov/Pages/default.aspx	Chiropractic, Board of	2013.0	41.0
+58551	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=34	Homestead Elementary School	2006.0	0.0
+58552	http://newmartinsville.lib.wv.us	New Martinsville Public Library	2006.0	6.0
+58553	http://www.hancockcounty.wv.gov/Pages/default.aspx	Hancock County	2009.0	23.0
+58554	http://www.wvbec.org	Counseling, Board of Examiners in	2003.0	24.0
+58555	http://www.wvcommerce.org/info/aboutcommerce/developmentoffice/default.aspx	Development Office	2009.0	4.0
+58556	http://www.wvdhhr.org/labservices/index.cfm	Laboratory Services, Office Of	2004.0	11.0
+58557	http://www.wvagriculture.org/division_webpages/meat_poultry.html	Meat and Poultry Inspection Division	2007.0	20.0
+58558	http://www.concord.edu/	Concord University	1998.0	504.0
+58561	http://hvpt.org	Hacker Valley Elementary School	0.0	1.0
+58562	http://www.wvtax.gov	Tax Department	2003.0	93.0
+58563	http://www.wvcpd.org	Professional Development, Center for	2000.0	178.0
+58565	http://www.charlestownwv.us/	Charles Town	2003.0	204.0
+58566	http://www.wvagriculture.org	Agriculture, Department of	2003.0	40.0
+58569	http://wyoming.lib.wv.us/	Wyoming County Public Library	2002.0	3.0
+58570	http://www.wetzelcounty.wv.gov/Pages/default.aspx	Wetzel County	2011.0	19.0
+58571	http://www.southbranchtech.com/	South Branch Vocational School	2006.0	1.0
+58572	http://www.ohiocountylibrary.org/	Hildebrand Memorial Library	2013.0	607.0
+58574	http://ons.wvdhhr.org/	Nutrition Services, Office of	2009.0	73.0
+58575	https://sites.google.com/site/pocahontascountyhighschool/	Pocahontas County High School	0.0	35.0
+58576	http://www.wcpl.lib.wv.us	Wayne County Public Library	2003.0	18.0
+58577	https://www.edline.net/pages/parkersburg_hs	Parkersburg High School	2011.0	23.0
+58578	http://www.raleighcounty.com/	Raleigh County	1999.0	50.0
+58579	http://www.mpob.wv.gov/Pages/default.aspx	Municipal Pensions Oversight Board	2013.0	19.0
+58580	http://users.wirefire.com/error.php	St. Marys High School	2005.0	98.0
+58581	http://martin.lib.wv.us	Martinsburg-Berkeley Co. Public Library	2000.0	88.0
+58582	http://boe.jeff.k12.wv.us/bres	Blue Ridge Elementary School	2013.0	2552.0
+58584	http://www.wvculture.org/history/index.html	Archives and History Commission	2000.0	44.0
+58586	http://morgantown.lib.wv.us	Morgantown Public Library	2004.0	15.0
+58587	http://wphs.ohio.k12.wv.us	Wheeling Park High School	1996.0	50.0
+58588	http://www.shepherdstownvisitorscenter.com/	Shepherdstown	2002.0	78.0
+58589	http://www.harcoboe.com/southharrisonmiddleschool/	South Harrison Middle School	2007.0	45.0
+58590	http://boe.hamp.k12.wv.us/index.aspx?nid=60	Romney Elementary School	2011.0	775.0
+58591	http://www.edline.net/pages/calhoun_county_middle_school	Calhoun Middle/High School	2010.0	40.0
+58592	http://www.roanecountyschools.com/sms/	Spencer Middle School	2006.0	244.0
+58593	http://mullens.wyom.k12.wv.us/	Mullens Elementary School	2007.0	1.0
+58594	http://www.wvblackberry.com/	Nutter Fort	2002.0	4.0
+58597	http://www.legis.state.wv.us/joint/victims/main.cfm	Crime Victims Compensation Fund	2005.0	18.0
+58598	http://www.wvinsurance.gov	Insurance Commission	2004.0	419.0
+58599	http://www.jdrcc.org/	John D. Rockefeller Career Center	2011.0	15.0
+58600	http://www.bridgeportwv.com	Bridgeport Public Library	1998.0	104.0
+58601	http://tygart.lib.wv.us	Tygart Valley Public Library	2006.0	3.0
+58602	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=29	Coalton Elementary School	2006.0	0.0
+58606	http://www.pioneermemoriallibrary.info/	Pioneer Memorial Public Library	2013.0	8.0
+58607	http://www.wvbar.org	Bar, State	1996.0	366.0
+58608	http://www.lincolncountywv.org	Lincoln County	2008.0	77.0
+58610	http://www.marshallcountywv.org/	Marshall County	2009.0	15.0
+58611	http://lc2.boe.loga.k12.wv.us/manhigh/	Man Senior High School	2008.0	0.0
+58613	http://wvde.state.wv.us/boe/	Education, West Virginia Board of	2000.0	313.0
+58614	http://helvetia.lib.wv.us	Helvetia Public Library	2007.0	8.0
+58616	http://www.putnamschools.com/pms	Poca Middle School	1998.0	0.0
+58617	http://www.brucetonschool.org	Bruceton School	2002.0	1.0
+58618	http://www.wvrtboard.org	Medical Imaging & Radiation Therapy Technology Board of Examiners	2003.0	32.0
+58619	https://www.edline.net/pages/neale_es	Neale Elementary School	0.0	35.0
+58620	http://cms.faye.k12.wv.us/	Collins Middle	2001.0	1307.0
+58621	http://upshurcounty.lib.wv.us	Upshur County Public Library	2003.0	7.0
+58622	http://hardycounty.martin.lib.wv.us	Hardy County Public Library	2000.0	3.0
+58623	http://elkins.lib.wv.us/	Elkins-Randolph Public Library	2006.0	5.0
+58626	http://www.angelfire.com/wv2/matewanmiddle/	Matewan PK-8	2003.0	9.0
+58627	http://www.cityoffollansbee.net	Follansbee	2011.0	26.0
+58628	http://www.wvu.edu/	West Virginia University	1997.0	116.0
+58629	http://www.state.wv.us/admin/purchase/travel/	Travel Management Office	2002.0	11.0
+58630	http://boe.jeff.k12.wv.us/sms	Shepherdstown Middle School	0.0	2571.0
+58631	http://www.wvsbp.org	West Virginia Small Business Plan	2004.0	15.0
+58632	http://www.wvgs.wvnet.edu	Geological and Economic Survey	1997.0	379.0
+58633	http://lewiscountywv.org/index.html	Lewis County	2012.0	26.0
+58638	http://www.pierpont.edu/	Pierpont CTC	2008.0	1428.0
+58639	http://www.technology.wv.gov/Pages/default.aspx	Technology, Office of	2009.0	297.0
+58640	http://fayette.lib.wv.us	Fayette County Public Library	2000.0	49.0
+58641	http://boe.jeff.k12.wv.us/wms	Wildwood Middle School	0.0	2624.0
+58643	http://www.state.wv.us/admin/purchase/	Purchasing Division	1997.0	260.0
+58647	http://www.wvbvm.org	Veterinary Medicine, Board of	2008.0	19.0
+58648	http://boe.mars.k12.wv.us/cameronelem/index.htm	Cameron Elementary School	2000.0	56.0
+58649	http://www.transportation.wv.gov/Pages/default.aspx	Transportation, Department of	2009.0	1067.0
+58650	http://wvgis.wvu.edu/index.php	GIS Technical Center	2002.0	71.0
+58651	http://cityofromney.com/	Romney	2009.0	15.0
+58652	http://cherryriver.nich.k12.wv.us/	Cherry River Elementary School	2001.0	13.0
+58653	http://boe.jack.k12.wv.us/education/components/layout/default.php?sectionid=658	Henry J Kaiser Elementary School	0.0	3.0
+58655	http://www.transportation.wv.gov/dmv/Pages/default.aspx	Motor Vehicles, Division of	2009.0	10.0
+58657	https://www.edline.net/Index.page	Pleasant View Elementary School	2006.0	2.0
+58658	http://www.wvdhhr.org/ocme/index.asp	Chief Medical Examiner, Office of	2003.0	7.0
+58659	http://boe.jeff.k12.wv.us/ctms	Charles Town Middle School	0.0	2596.0
+58660	http://www.realestatedivision.wv.gov/Pages/default.aspx	Real Estate, Division of	2011.0	25.0
+58661	http://www.mingocountywv.com/	Mingo County	2003.0	0.0
+58662	http://www.wvca.us	Conservation Agency	2002.0	275.0
+58663	http://www.pegb.wv.gov/Pages/default.aspx	Grievance Board, WV Public Employees	2013.0	64.0
+58664	http://www.wvdhhr.org/bph/promot.htm	Epidemiology and Health Promotion, Office of	1999.0	19.0
+58665	https://sites.google.com/site/tuckercoschools/home	Davis Thomas Elementary Middle School	2014.0	56.0
+58666	http://mctc.mine.tec.wv.us/	Mineral County Technical Center	1999.0	189.0
+58667	http://www.bvilleschool.com	Barrackville Elementary/Middle School	2003.0	1.0
+58670	http://www.wvbps.wv.gov/Pages/default.aspx	Surveyors, Board of Professional	2011.0	77.0
+58671	http://www.ddc.wv.gov/Pages/default.aspx	Developmental Disabilities Council	2010.0	63.0
+58672	http://www.gilmercounty.wv.gov/Pages/default.aspx	Gilmer County	2010.0	20.0
+58673	http://boe.jack.k12.wv.us/education/components/layout/default.php?sectionid=652	Fairplain Elementary School	0.0	2.0
+58675	http://kcs.kana.k12.wv.us/nitrohigh/	Nitro High School	0.0	44.0
+58677	http://www.cityofmoundsville.com/	Moundsville	2001.0	31.0
+58680	http://www.taylorcounty.wv.gov/Pages/default.aspx	Taylor County	2011.0	19.0
+58681	http://www.local.wv.gov/monongah/pages/default.aspx	Monongah	2012.0	11.0
+58683	http://clay.lib.wv.us	Clay County Public Library	2003.0	15.0
+58685	http://www.ready.wv.gov/Pages/default.aspx	Ready WV	2009.0	141.0
+58686	http://putnam.lib.wv.us	Putnam County Public Library	2002.0	17.0
+58688	https://sites.google.com/site/marlintonmiddleschool/	Marlinton Middle School	0.0	18.0
+58689	http://monroe.lib.wv.us	Monroe County Public Library	2003.0	7.0
+58690	https://sites.google.com/a/wvde.k12.wv.us/east-park-elementary-library/	East Park Elementary School	0.0	41.0
+58691	http://fortashby.mine.k12.wv.us	Fort Ashby Primary School	2004.0	0.0
+58692	http://www.wvlaboard.org	Landscape Architects, Board of	2006.0	66.0
+58693	http://www.pocahontascountycommission.com/Welcome/?guest	Pocahontas County	0.0	248.0
+58694	http://www.ohiocounty.wv.gov/Pages/default.aspx	Ohio County	2011.0	19.0
+58696	http://www.wv.gov/pages/default.aspx	State Government	2008.0	4114.0
+58697	http://www.dep.wv.gov/dlr/oer/Pages/default.aspx	Environmental Remediation, Office of	2010.0	2.0
+58698	http://www.wvborc.org	Respiratory Care, Board of	2001.0	9.0
+58699	http://hurricanewv.com/	Hurricane	2000.0	82.0
+58700	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=36	Midland Elementary School	2006.0	0.0
+58702	http://peterstown.lib.wv.us	Peterstown Public Library	2002.0	6.0
+58703	http://www.transportation.wv.gov/rail/Pages/default.aspx	Railroad Authority, Division of State	2009.0	7.0
+58704	http://www.gohelp.wv.gov/Pages/default.aspx	Governor's Office of Health Enhancement and Lifestyle Planning (GOHELP)	2010.0	63.0
+58705	http://www.wvculture.org/shpo/index.html	Historic Preservation	2000.0	116.0
+58707	http://www.transportation.wv.gov/highways/Pages/default.aspx	Highways Division	2009.0	209.0
+58708	http://kcs.kana.k12.wv.us/maryingles/	Mary Ingles Elementary School	0.0	10.0
+58709	http://summers.lib.wv.us	Summers County Public Library	2002.0	28.0
+58710	http://www.wvonline.com/bhs/	Bridgeport High School	1998.0	3.0
+58711	http://boe.jeff.k12.wv.us/tales	T A Lowery Elementary School	0.0	2655.0
+58712	http://www.cityofweirton.com	Weirton	1998.0	2045.0
+58713	http://www.masoncounty.wv.gov/Pages/default.aspx	Mason County	2011.0	19.0
+58714	http://kenova.wayn.k12.wv.us	Kenova Elementary School	2003.0	14.0
+58715	http://www.wvssac.org	West Virginia Secondary School Activities Commission	1998.0	2.0
+58716	http://www.wvmassage.org	Massage Therapy Licensure Board	2003.0	40.0
+58717	http://www.edline.net/pages/magnolia_hs	Magnolia High School	2010.0	18.0
+58718	http://www.richwoodwv.com	Richwood	1999.0	1.0
+58719	http://www.jacksoncounty.wv.gov/Pages/default.aspx	Jackson County	2011.0	19.0
+58720	http://www.wvstateu.edu/	West Virginia State University	2004.0	1827.0
+58724	http://rosedale.faye.k12.wv.us/	Rosedale Elementary	2003.0	0.0
+58725	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=28	Beverly Elementary School	2006.0	0.0
+58726	http://madisonms.bcsd.wv.yso.lightspan.net	Madison Middle School	0.0	1.0
+58729	http://www.wvbop.com	Pharmacy, Board of	2001.0	124.0
+58730	http://www.wvdhhr.org	Health and Human Resources, Department of	1998.0	718.0
+58731	http://wileyford.mine.k12.wv.us	Wiley Ford Primary School	2004.0	21.0
+58732	http://www.edline.net/pages/mountain_view_elementary___mid	Mountain View Elementary & Middle School	2010.0	20.0
+58733	http://www.wveqb.org	Environmental Quality Board	2003.0	50.0
+58739	http://ohhs.faye.k12.wv.us	Oak Hill High	2000.0	1374.0
+58741	http://www.dep.wv.gov/dmr/oeb/Pages/default.aspx	Explosives & Blasting, Office of	2010.0	7.0
+58742	http://www.volunteerwv.org	Community Service, Commission for National and	2003.0	157.0
+58743	http://www.aviation.wv.gov/Pages/default.aspx	Aviation Division	2011.0	12.0
+58744	https://sites.google.com/site/marlintonelementaryschool/	Marlinton Elementary School	2011.0	26.0
+58745	http://fiverivers.lib.wv.us	Five Rivers Public Library	2006.0	11.0
+58746	http://www.infospot.org	South Charleston Public Library	0.0	1.0
+58747	http://wvsdb2.state.k12.wv.us	West Virginia School For The Deaf-Second	2007.0	0.0
+58748	http://www.wvdnr.gov/fishing/fishing.shtm	Fish Management	2003.0	36.0
+58749	http://www.wvfinance.state.wv.us	Finance Division	2003.0	67.0
+58750	http://www.edline.net/pages/Calhoun_Gilmer_Center	Calhoun-Gilmer Career Center	2011.0	24.0
+58751	http://www.dep.wv.gov/aml/Pages/default.aspx	Abandoned Mine Lands & Reclamation, Office of	2010.0	10.0
+58752	http://www.nicholascountywv.org/	Nicholas County	2002.0	24.0
+58753	http://www.chip.wv.gov/Pages/default.aspx	Children's Health Insurance Program	2010.0	86.0
+58754	http://boe.mars.k12.wv.us/cameron/index.htm	Cameron High School	2000.0	7.0
+58758	http://www.wvbot.org	Occupational Therapy, Board of	2001.0	16.0
+58759	http://www.wvregion2.org	WV Region 2 Workforce	2002.0	5.0
+58760	http://ww2.wvbep.org/bep/uc	Unemployment Compensation, Division of	0.0	1.0
+58761	http://clarksburglibrary.info	Clarksburg-Harrison Co. Public Library	2002.0	50.0
+58762	http://www.wvdhhr.org/wvcdhh/	Deaf and Hard-of-Hearing, Commission for the	2000.0	43.0
+58767	http://www.wvncc.edu/	WV Northern CC	2008.0	1530.0
+58768	http://www.upshurcountyschools.com/	Buckhannon	2010.0	19.0
+58769	http://www.dep.wv.gov/wwe/Pages/default.aspx	Water and Waste Management, Division of	2010.0	4.0
+58770	http://www.cityofclarksburgwv.com/	Clarksburg	2006.0	717.0
+58771	http://www.dep.wv.gov/pio/Pages/default.aspx	Public Information Office	2010.0	12.0
+58773	http://www.prestoncountywv.org/	Preston County	2006.0	2.0
+58774	http://www.edline.net/pages/wirths	Wirt County High School	2011.0	43.0
+58775	http://www.pocahontaslibrary.org/	Green Bank Public Library	2002.0	36.0
+58777	http://www.cityofnitro.org/	Nitro	2006.0	142.0
+58780	http://summerscountywv.org/	Summers County	2006.0	86.0
+58781	http://bigelm.harr.k12.wv.us/	Big Elm Elementary School	2003.0	1.0
+58782	http://www.bridgemont.edu/	Bridgemont CTC	2009.0	198.0
+58783	http://www.shepherd.edu/	Shepherd University	1999.0	947.0
+58784	http://www.kanawha.us	Kanawha County	2002.0	205.0
+58785	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=38	Pickens Elementary/High School	2006.0	0.0
+58786	http://www.wvonline.com/techcenter/	Taylor County Vocational Center	2003.0	7.0
+58787	http://www.sirn.wv.gov/Pages/default.aspx	Statewide Interoperable Radio Network, West Virginia	2012.0	78.0
+58790	http://www.wvoems.org/	Emergency Medical Services, Office of	2001.0	947.0
+58792	http://www.firemarshal.wv.gov/Pages/default.aspx	Fire Commission, State	2008.0	135.0
+58794	http://pms.wyom.k12.wv.us/	Pineville Middle School	2006.0	9.0
+58795	http://www.edline.net/pages/oak_glen_middle_school	Oak Glen Middle School	2011.0	20.0
+58799	http://coalheritage.org/	Coal Heritage Highway Authority	2000.0	124.0
+58800	http://fit.faye.tec.wv.us/	Fayette Institute Of Technology	2006.0	0.0
+58801	http://www.sos.wv.gov/Pages/default.aspx	Secretary of State	2009.0	872.0
+58802	http://www.wvschools.com/bes/	Belington Elementary	2000.0	10.0
+58805	http://hardycounty.schoolinsites.com/	Moorefield Elementary School	2010.0	596.0
+58808	http://www.wvpebd.org	Professional Engineers, Board of Registration for	2002.0	45.0
+58810	http://www.dhhr.wv.gov/bhhf/Pages/default.aspx	Behavioral Health & Health Facilities, Bureau for	2012.0	8.0
+58811	http://www.wvutech.edu/	West Virginia University Institute of Technology	2000.0	334.0
+58813	http://boe.rand.k12.wv.us/education/components/form/default.php?sectiondetailid=318	Elkins Middle School	0.0	0.0
+58814	http://www.morgancountywv.gov/	Morgan County	2009.0	3.0
+58816	http://www.edline.net/pages/Valley__HS	Valley High School	2013.0	8.0
+58817	http://rupert.lib.wv.us	Rupert Public Library	2002.0	6.0
+58822	http://www.cityofelkinswv.com/	Elkins	2005.0	145.0
+58824	http://boe.jeff.k12.wv.us/ses	Shepherdstown Elementary School	2013.0	2595.0
+58825	http://hhs.cabe.k12.wv.us/	Huntington High School	1998.0	1.0
+58827	http://www.wvdoc.com	Corrections, Division of	2000.0	237.0
+58829	http://www.dep.wv.gov/smb/Pages/default.aspx	Surface Mine Board	2010.0	5.0
+58830	http://kcs.kana.k12.wv.us/scms/	South Charleston Middle School	0.0	38.0
+58832	http://www.wvdhhr.org/ohflac/	Health Facility Licensure and Certification, Office Of	2002.0	11.0
+58833	http://www.westsidehigh.com	Westside High School	2001.0	10.0
+58834	http://hampshirecopubliclib.com/	Hampshire County Public Library	2002.0	82.0
+58835	http://www.wvdentalboard.org	Dental Examiners, Board of	2002.0	60.0
+58836	http://www.marioncountywv.com	Marion County	2001.0	83.0
+58837	http://www.edline.net/pages/gilmer_county_high_school	Gilmer County High School	2010.0	29.0
+58838	http://www.wvacupuncture.org/	Acupuncture Board	2011.0	35.0
+58839	http://www.wvbbc.com	Barbers and Cosmetologists, Board of	2009.0	31.0
+58840	http://www.wvpsychbd.org	Psychologists, Board of Examiners of	2003.0	27.0
+58842	http://www.harcoboe.com/LibertyHighSchool/	Liberty High School	2007.0	76.0
+58843	http://www.wvagriculture.org/images/plant_industries/about_us.html	Plant Industries Division	2008.0	12.0
+58845	http://boonecareercenter.com	Boone Career-Technical Center	2002.0	2581.0
+58846	http://www.wvdhhr.org/bcse/	Child Support Enforcement, Bureau for	1999.0	66.0
+58847	http://www.mctc.edu/	Mountwest CTC	2008.0	667.0
+58849	http://www.wvrja.com	Regional Jail and Correctional Facility Authority	2001.0	31.0
+58850	http://www.wvbo.org	Optometry, Board of	2003.0	26.0
+58851	http://williamsonlibrary.lib.wv.us	Williamson Public Library	2002.0	7.0
+58853	http://parkersburgcity.com/wp/	Parkersburg	2012.0	127.0
+58854	http://www.wvbrdarch.org	Architects, Board of	1999.0	17.0
+58855	http://www.townofathens.com	Athens	2011.0	22.0
+58857	http://www.members.tripod.com/wejhs/	Whitesville Elementary School	2001.0	1.0
+58859	http://www.state.wv.us/admin/purchase/surplus/	Surplus Property	2000.0	10.0
+58860	http://wcvt.wood.tec.wv.us	Wood Co Voc Tech Ctr	2000.0	8.0
+58861	http://www.harcoboe.com/adamston/	Adamston Elementary School	2008.0	53.0
+58862	http://www.edline.net/pages/john_adams_junior_high_school	John Adams Middle School	2010.0	4.0
+58865	http://www.wvagriculture.org/division_webpages/read.html	Regulatory and Environmental Affairs	2007.0	6.0
+58868	http://rainelle.lib.wv.us	Rainelle Public Library	2003.0	6.0
+58869	http://ams.faye.k12.wv.us/	Ansted Middle	2001.0	1317.0
+58870	http://pendleton.lib.wv.us	Pendleton County Public Library	0.0	2.0
+58871	http://www.southcharlestonwv.org/	South Charleston	2003.0	34.0
+58872	http://lc2.boe.loga.k12.wv.us/westchap/	West Chapmanville Elementary School	2007.0	0.0
+58873	http://www.edline.net/pages/wcpc	Wirt County Primary Center	2011.0	32.0
+58876	http://www.pleasantscountywv.com	Pleasants County	2007.0	24.0
+58877	http://www.wvretirement.com	Consolidated Public Retirement Board	2003.0	56.0
+58879	http://www.boonecountywv.org/	Boone County	2001.0	20.0
+58880	http://www.pds.wv.gov/Pages/default.aspx	Public Defender Services	2013.0	40.0
+58881	http://www.wvdrs.org	Rehabilitation Services, Division of	2000.0	48.0
+58883	http://www.dep.wv.gov/Pages/default.aspx	Environmental Protection, Department of	2010.0	1035.0
+58884	http://www.glenville.edu/	Glenville State College	2000.0	479.0
+58885	http://boe.jeff.k12.wv.us/sjes	South Jefferson Elementary School	0.0	2543.0
+58887	http://www.wvsom.edu/	West Virginia School of Osteopathic Medicine	1998.0	527.0
+58889	http://www.wvago.gov	Attorney General, Office Of	2007.0	330.0
+58890	http://www.wvpass.org	Partnerships to Assure Student Success	2003.0	6.0
+58891	http://www.hardycounty.com/	Hardy County	2001.0	19.0
+58893	http://www.potomacstatecollege.edu/	Potomac State College of West Virginia University	2002.0	873.0
+58896	http://www.edline.net/pages/calhoun_gilmer_center	Calhoun-Gilmer Career Center	2011.0	24.0
+58899	http://masoncounty.lib.wv.us/	New Haven Public Library	2004.0	4.0
+58900	http://www.wvfuneralboard.com	Funeral Service Examiners, Board of	2004.0	26.0
+58901	http://www.sos.wv.gov/administrative-law/Pages/default.aspx	Administrative Law Division	2009.0	13.0
+58902	http://ronceverte.lib.wv.us/	Ronceverte Public Library	2002.0	8.0
+58903	http://www.wvdhhr.org/oehs/	Environmental Health Services, Office of	2000.0	142.0
+58904	http://www.governor.wv.gov/Pages/default.aspx	Office of the Governor	2010.0	1095.0
+58905	http://boe.jeff.k12.wv.us/hfms	Harpers Ferry Middle School	0.0	2600.0
+58906	http://www.wvforestry.com	Forestry, Division of	2001.0	90.0
+58907	http://www.transportation.wv.gov/publictransit/Pages/default.aspx	Public Transit, Division of	2009.0	13.0
+58908	http://www.pcwildcats.com	Paden City High School	2000.0	106.0
+58909	http://www.wheelingwv.gov/	Wheeling	2008.0	746.0
+58910	http://www.putnamschools.com/wtes/index.htm	West Teays Elementary	1999.0	0.0
+58911	http://www.dep.wv.gov/oil-and-gas/Pages/default.aspx	Oil and Gas, Office of	2010.0	2.0
+58912	http://dorabwoodyard.lib.wv.us	Dora Bee Woodyard Memorial Library	2003.0	5.0
+58913	http://www.stalbanswv.com/	St. Albans	1999.0	30.0
+58915	http://www.wvminesafety.org	Miners' Health, Safety and Training, Office of	2003.0	273.0
+58916	http://www.hintonwva.com	Hinton	2003.0	49.0
+58921	http://www.claycounty.wv.gov/Pages/default.aspx	Clay County	2011.0	19.0
+58922	http://www.monroecountywv.net/	Monroe County	2006.0	56.0
+58923	http://lincolncountypl.lib.wv.us/	Alum Creek Public Library	2007.0	1.0
+58924	http://www.wvschools.com/sjhs/	Sherman Junior High School	2002.0	10.0
+58925	http://greenbriervalley.org/	Ronceverte	2011.0	171.0
+58926	http://www.sos.wv.gov/public-services/execrecords/Pages/default.aspx	Authentications & Certifications Division	2009.0	15.0
+58927	http://www.roanecountyschools.com/spc/	Spencer Elementary School	2006.0	244.0
+58930	http://huff.wyom.k12.wv.us	Huff Cons Elementary & Middle School	2007.0	16.0
+58931	http://baileysville.wyom.k12.wv.us/	Baileysville Elementary & Middle School	2007.0	8.0
+58935	http://glenfork.wyom.k12.wv.us/	Glen Fork Elementary & Middle School	2007.0	11.0
+58938	http://www.washingtonirving.org	Washington Irving Middle School	2000.0	0.0
+58941	http://www.edline.net/pages/peterstown_elementary_school	Peterstown Middle School	2010.0	12.0
+58942	http://www.wvsto.com/Pages/WV%20Treasury.aspx	Treasurer, Office of State	2009.0	435.0
+58943	http://www.wvagriculture.org/division_webpages/communications.html	Communications Division	2007.0	3.0
+58944	http://boe.jack.k12.wv.us/education/components/layout/default.php?sectionid=659	Ripley Middle School	2013.0	3.0
+58946	http://www.wvota.gov	Tax Appeals, Office of	2004.0	15.0
+58948	http://www.viennaschool.com	Vienna Elementary School	2001.0	1.0
+58950	http://www.wvrec.org	Real Estate Commission	2003.0	15.0
+58954	http://boe.rand.k12.wv.us/education/school/school.php?sectionid=32	George Ward Elementary School	2006.0	0.0
+58958	http://boe.mars.k12.wv.us/central/index.htm	Central Elementary School	2000.0	8.0
+58959	http://rcpl.lib.wv.us	Raleigh County Public Library	2001.0	2.0
+58960	http://boe.rand.k12.wv.us/education/components/scrapbook/default.php?sectiondetailid=17737	Elkins Third Ward Elementary School	0.0	0.0
+58963	http://roadbranch.wyom.k12.wv.us/	Road Branch Elementary & Middle School	2007.0	11.0
+58966	http://boe.jeff.k12.wv.us/cwses	C. W. Shipley Elementary School	0.0	2610.0
+58967	http://www.wvlottery.com	Lottery Commission	1996.0	4.0
+58968	http://wehs.wyom.k12.wv.us	Wyoming County East High School	2006.0	73.0
+58969	http://www.generalservices.wv.gov/Pages/default.aspx	General Services Division	2009.0	33.0
+58970	http://www.cityofcharleston.org/	Charleston	1998.0	362.0
+58971	http://calhoun.lib.wv.us	Calhoun County Public Library	2003.0	8.0
+58973	http://www.wvctcs.org/	Community and Technical College System of WV	2004.0	400.0
+58975	http://www.southernwv.edu/	Southern WV CTC	2007.0	625.0
+58976	http://www.wvtourism.com/default.aspx	Tourism, Division of	2004.0	27.0
+58978	http://www.dep.wv.gov/dmr/Pages/default.aspx	Mining and Reclamation, Division of	2010.0	4.0
+58981	http://www.fayettecounty.wv.gov/Pages/default.aspx	Fayette County	2011.0	42.0
+58983	http://www.weirton.lib.wv.us	Mary H. Weir Public Library	1998.0	16.0
+58984	http://www.hancockcountywv.org/	Hancock County	2005.0	61.0
+58986	http://mcdowellcountycommission.com	McDowell County	2007.0	0.0
+58990	http://www.doddridgecounty.wv.gov/Pages/default.aspx	Doddridge County	2011.0	19.0
+58992	http://www.wvbold.com	Dietitians, Board of Licensed	2004.0	9.0
+58993	http://www.state.wv.us/wvnha/	Nursing Home Administrators Licensing Board	2004.0	28.0
+58994	http://www.dep.wv.gov/dlr/Pages/default.aspx	Land Restoration, Division of	2010.0	2.0
+58995	http://sistersville.lib.wv.us/	Sistersville Public Library	2006.0	7.0
+58996	http://wvde.state.wv.us/cedarlakes/	Cedar Lakes Conference Center	2009.0	20.0
+58999	http://www.dhsem.wv.gov/Pages/default.aspx	Homeland Security and Emergency Management, Division of	2011.0	191.0
+59000	http://dodd.clark.lib.wv.us/	Center Point Public Library	2001.0	13.0
+59002	http://www.cfia.wv.gov/Pages/default.aspx	Courthouse Facilities Improvement Authority, West Virginia	2011.0	68.0
+59005	http://www.wv.ngb.army.mil/	Army National Guard, WV	1999.0	177.0
+59007	http://www.edline.net/pages/liberty_elementary_school	Liberty Elementary School	2012.0	12.0
+59009	http://www.beckley.org/	Beckley	1998.0	190.0
+59010	http://www.dep.wv.gov/it/Pages/default.aspx	Information Technology Office	2010.0	0.0
+59011	http://alderson.lib.wv.us	Alderson Public Library	2001.0	6.0
+59013	http://www.wvsao.gov	Auditor, Office of State	2006.0	23.0
+59014	http://ravenswoodwv.org/	Ravenswood	2004.0	1.0
+59016	http://www.pendletoncountyschools.com/pchs/index.htm	Pendleton County Middle/High School	2003.0	6.0
+59018	http://bms.wayn.k12.wv.us	Buffalo Middle School	2001.0	11.0
+59020	http://vienna.park.lib.wv.us	Vienna Public Library	2000.0	264.0
+59021	http://gwhs.kana.k12.wv.us	George Washington High School	1997.0	550.0
+59022	http://www.abca.wv.gov/Pages/default.aspx	Alcohol Beverage Control Administration	2009.0	53.0
+59024	http://cmhs.cabe.k12.wv.us/	Cabell Midland High School	1996.0	62.0
+59025	http://www.state.wv.us/brim/	Risk and Insurance Management, Board of	1999.0	12.0
+59027	https://www.wvbdosteo.org/	Osteopathic Medicine, Board of	2003.0	123.0
+59028	http://www.marshall.edu/landing/home/index.html	Marshall University	2013.0	2.0
+59030	http://www.budget.wv.gov/Pages/default.aspx	Budget Office, State	2010.0	30.0
+59033	http://www.dhhr.wv.gov/publichealthquality/Pages/default.aspx	Performance Management and Systems Development, Office of	2013.0	6.0
+59034	http://www.racing.wv.gov/Pages/default.aspx	Racing Commission	2012.0	52.0
+59035	http://www.personnel.wv.gov/Pages/default.aspx	Personnel Division	2010.0	232.0
+59036	http://www.hampshirecounty.wv.gov/Pages/default.aspx	Hampshire County	2011.0	19.0
+59039	http://www.wvimb.org	Investment Management Board	2000.0	55.0
+59042	http://www.edline.net/pages/Daniels_Elementary_School	Daniels Elementary	2010.0	8.0
+59043	http://www.wvdhhr.org/wvbhadf/	Hearing Aid Dealers, Board of	2010.0	14.0
+59045	http://fis.mine.k12.wv.us	Frankfort Intermediate School	2004.0	8.0
+59047	http://www.edline.net/pages/shady_spring_jhs	Shady Spring Middle School	2011.0	4.0
+59048	http://greenbrier.lib.wv.us	Greenbrier County Public Library	2003.0	7.0
+59049	http://moundsville.lib.wv.us/	Benwood-Mcmechen Public Library	2006.0	7.0
+59051	http://www.wvlicensingboards.com/foresters/	Foresters, Board of Registration for	2006.0	19.0
+59053	http://www.edline.net/pages/broadview_elementary_school	Broadview Elementary School	2008.0	11.0
+59054	http://www.putnamschools.com/gwms/	George Washington Middle School	2001.0	0.0
+59056	http://www.mcdowellcounty.wv.gov/Pages/default.aspx	McDowell County	2010.0	19.0
+59057	http://www.wvparks.com	State Parks & Forests	1998.0	170.0
+59059	http://www.capitalhigh.org/	Capital High School	1999.0	1.0
+59060	http://www.roanecountyschools.com/res/	Reedy Elementary School	2006.0	244.0
+59061	http://www.wvaqb.org	Air Quality Board	2003.0	30.0
+59062	http://www.legis.state.wv.us	House of Delegates	1998.0	4694.0
+59063	http://www.dfi.wv.gov/Pages/default.aspx	Financial Institutions, Division of	2012.0	57.0
+59064	http://westliberty.edu/	West Liberty University	2006.0	2191.0
+59065	http://chester-wv.us	Chester	2013.0	1.0
+59066	http://www.mctconline.com	Marion County Technical Center	2002.0	0.0
+59068	http://www.bolivarwv.org/	Bolivar	2002.0	21.0
+59070	http://www.pendletoncountyschools.com/fes/index.htm	Franklin Elementary School	2003.0	2.0
+59072	http://www.psc.state.wv.us	Public Service Commission	2000.0	971.0
+59073	http://www.wvculture.org	Culture and History, Division of	2000.0	4.0
+59074	http://www.transportation.wv.gov/aeronautics/Pages/default.aspx	Aeronautics Commission	2009.0	7.0
+59077	http://www.wvpecu.org	Public Employees Credit Union	2001.0	29.0
+59080	http://www.lpnboard.state.wv.us	Licensed Practical Nurses, Board of Examiners for	2000.0	13.0
+59082	http://kcs.kana.k12.wv.us/hayes/	Hayes Middle School	0.0	12.0
+59083	http://www.edline.net/pages/weirton_heights_es	Weirton Heights Elementary School	0.0	7.0
+59090	http://www.wvrnboard.com	Registered Professional Nurses, Board of Examiners for	2002.0	90.0
+59091	http://www.putnamcounty.org/	Putnam County	1999.0	20.0
+59092	http://wvpublic.org/	Public Broadcasting	2013.0	3592.0
+59093	http://www.wvhin.org/default.aspx	Health Information Network	2013.0	59.0
+59095	http://www.morgantownwv.gov/	Morgantown	2012.0	1131.0
+59098	http://www.dep.wv.gov/wwe/ee/Pages/default.aspx	Environmental Enforcement, Office of	2010.0	3.0
+59100	http://www.calhouncounty.wv.gov/Pages/default.aspx	Calhoun County	2011.0	19.0
+59104	http://mms.wyom.k12.wv.us/	Mullens Middle School	2007.0	11.0
+59105	http://www.gis.wv.gov/Pages/default.aspx	GIS Coordinator's Office	2009.0	37.0
+59106	http://resa5.k12.wv.us/	Regional Education Service Agency 5	2000.0	545.0
+59108	http://www.sos.wv.gov/elections/Pages/default.aspx	Elections Division	2009.0	5.0
+59109	http://www.wvbopt.com	Physical Therapy, Board of	2001.0	256.0
+59110	http://www.edline.net/pages/weir_middle_school	Weir Middle School	2010.0	7.0
+59111	http://www.veterans.wv.gov/Pages/default.aspx	Veterans Assistance, Department of	2011.0	181.0
+59113	http://www.sos.wv.gov/business-licensing/charities/Pages/default.aspx	Charitable Organizations Division	2009.0	12.0
+59114	http://www.coalforum.org	Coal Forum	2000.0	61.0
+59116	http://www.wvnet.edu	West Virginia Network	1997.0	140.0
+59118	http://www.state.wv.us/swmb/	Solid Waste Management Board	1997.0	4.0
+59119	http://www.batemanhospital.org/	Mildred Mitchell-Bateman Hospital	2008.0	22.0
+59121	http://www.edline.net/pages/james_monroe_high_school	James Monroe High School	2010.0	7.0

@@ -1,0 +1,548 @@
+NodeId	NodeURL	NodeName	Year	pages
+26064	http://www.state.me.us/mema/	Emergency Management Agency	1997.0	175.0
+26065	http://www.northyarmouth.org/	North Yarmouth	2001.0	3290.0
+26066	http://www.maine.gov/mma/	Maine Military Authority	2005.0	10.0
+26067	http://www.dover-foxcroft.org	Thompson Free Library	1999.0	1372.0
+26068	http://www.maine.gov/dps/bhs/	Highway Safety, Bureau of	2003.0	74.0
+26069	http://www.maine.gov/rehab/	Rehabilitation Services, Bureau of (BRS)	2004.0	97.0
+26070	http://www.kvcc.me.edu/	Kennebec Valley Community College	2003.0	710.0
+26072	http://cityofellsworthme.org	Ellsworth	2006.0	2100.0
+26073	http://www.rockport.lib.me.us	Rockport Public Library	2001.0	74.0
+26074	http://www.mainetechnology.org/	Maine Technology Institute	2000.0	630.0
+26075	http://www.maine.gov/informe/	InforME (Information Resource of Maine)	2002.0	4.0
+26076	http://www.maine.gov/audit/	Auditor, Office of the State	2004.0	22.0
+26077	http://www.librarycamden.org	Camden Public Library	2008.0	179.0
+26078	http://www.millinocket.lib.me.us	Millinocket Memorial Library	2002.0	53.0
+26079	http://www.maine.gov/pfr/professionallicensing/professions/charitable/index.htm	Charitable Solicitations Licensing	2007.0	17.0
+26081	http://www.rumford.lib.me.us	Rumford Public Library	1998.0	46.0
+26082	http://www.maine.gov/museum/	State Museum, Maine	2003.0	107.0
+26083	http://www.maine.gov/pfr/professionallicensing/professions/interpreters/index.htm	Interpreters and Transliterators of American Sign Language and English	2007.0	16.0
+26084	http://www.maine.gov/osteo/	Osteopathic Examination and Registration, Board of	2005.0	3.0
+26085	http://www.fairfieldme.com/library/	Lawrence Public Library	2011.0	396.0
+26087	http://www.sad55.org/	School Adm. District #55	1998.0	212.0
+26088	http://www.bapl.us	Bridge Academy Public Library	2003.0	8.0
+26089	http://www.rocklandlibrary.org/cs/?render=homepage	Rockland Public Library	2006.0	41.0
+26090	http://www.limington.net/	Limington	2001.0	22.0
+26091	http://www.brooklin-es.u76.k12.me.us/	School   Union 76 School	2009.0	11.0
+26092	http://www.baxterstateparkauthority.com/	Baxter State Park Authority	2001.0	2.0
+26094	http://www.newsharon.lib.me.us	Jim Ditzler Memorial Library	2000.0	7.0
+26095	http://www.maine.gov/portal/index.html	State Government	2008.0	56.0
+26096	http://www.ang.af.mil/	Air National Guard	1996.0	563.0
+26097	http://www.msad35.net/	School Adm. District #35	2002.0	686.0
+26098	http://www.maine.gov/dacf/about/boards/harness_racing/index.shtml	Harness Racing Commission	2013.0	5.0
+26099	http://rsu73.org/	Reg. School Unit #73	2011.0	384.0
+26100	http://www.maine.gov/dhhs/bh/index.html	Behavioral and Developmental Services	2007.0	195.0
+26101	http://www.dises.org/	Deer Isle Stonington   CSD School	1999.0	240.0
+26102	http://www.naples.lib.me.us	Naples Public Library	1997.0	3.0
+26103	http://www.maine.gov/legis/opla/homepage.htm	Policy and Legal Analysis, Office of	2002.0	138.0
+26104	http://www.maine.gov/pfr/insurance/	Insurance, Bureau of	2006.0	37.0
+26105	http://www.state.me.us/revenue/	Maine Revenue Services	2000.0	479.0
+26106	http://www.maine.gov/dafs/boardproptax/	Property Tax Review, State Board of	2013.0	19.0
+26108	http://www.maine.gov/dacf/php/index.shtml	Seed Potato Board	2013.0	313.0
+26110	http://www.ci.portland.me.us/	Portland	1997.0	1523.0
+26111	http://www.state.me.us/labor/	Department of Labor	1999.0	48.0
+26114	http://www.vplibrary.org	Vassalboro Public Library	2010.0	1.0
+26115	http://www.town.falmouth.me.us/	Falmouth	2000.0	2285.0
+26116	http://www.msad54.org/	School Adm. District #54	2005.0	378.0
+26117	http://www.maine.gov/pfr/professionallicensing/professions/architects/index.htm	Architects, Landscape Architects, Interior Design, Board of Licensure	2007.0	20.0
+26118	http://www.maine.gov/dvem/bvs/	Veteran Services, Bureau of	2007.0	69.0
+26119	http://www.wprr.lib.me.us	Waldo Peirce Reading Room	2007.0	8.0
+26120	http://www.gallison.lib.me.us	Gallison Memorial Library	2012.0	1.0
+26121	http://www.mainecareercenter.com/	Department of Labor: CareerCenter	1999.0	245.0
+26122	http://www.brewermaine.gov/	Brewer	2012.0	349.0
+26123	http://www.bangormaine.gov/	Bangor	2004.0	103.0
+26124	http://www.sanfordmaine.org/	Sanford	2001.0	1574.0
+26125	http://www.lcs.lincolnville.k12.me.us/	Lincolnville School	2002.0	16.0
+26127	http://www.gray.lib.me.us	Gray Public Library	2003.0	6.0
+26128	http://www.maine.gov/labor/	Labor, Department of	2002.0	864.0
+26129	http://www.visitmaine.com/	Tourism, Office of	1996.0	927.0
+26130	http://www.belgrade.lib.me.us	Belgrade Public Library	2009.0	8.0
+26131	http://www.wellstown.org/	Wells	1998.0	502.0
+26132	http://www.maine.gov/pfr/professionallicensing/professions/pharmacy/index.htm	Pharmacy, Board of	2007.0	37.0
+26133	http://www.raymondmaine.org/	Raymond	1998.0	840.0
+26134	http://www.baxter-memorial.lib.me.us/	Baxter Memorial Library	1999.0	28.0
+26135	http://www.brunswick.k12.me.us/	Brunswick School   Department	2001.0	375.0
+26136	http://www.rsu39.org/	Reg. School Unit #39	0.0	62.0
+26137	http://www.state.me.us/meopa/	Public Advocate Office	2001.0	43.0
+26138	http://www.westbath.govoffice.com/	West Bath	2002.0	1345.0
+26139	http://www.maineturnpike.com/Home.aspx	Turnpike Authority, Maine	2012.0	270.0
+26140	http://www.appleton.u69.k12.me.us/	Appleton School	2003.0	1.0
+26141	http://www.state.me.us/cabinet/homepage.htm	Children's Cabinet	2002.0	38.0
+26142	http://www.wccc.me.edu/	Washington County Community College	2003.0	353.0
+26143	http://www.brewer.lib.me.us	Brewer Public Library	2007.0	1.0
+26144	http://www.maine.gov/mhrc/index.shtml	Human Rights Commission, Maine	2003.0	48.0
+26145	http://www.maine.gov/mdot/	Transportation, Maine Dept. of (DOT)	2003.0	519.0
+26146	http://www.maine.gov/dps/mcja/	Criminal Justice Academy, Maine	2004.0	37.0
+26147	http://www.maine.gov/dmr/index.htm	Marine Resources, Dept. of (DMR)	2006.0	19.0
+26149	http://www.winthropschools.org	Winthrop School	2006.0	50.0
+26150	http://www.swanville.org	Swanville	2004.0	101.0
+26151	http://www.waldoborolibrary.org	Waldoboro Public Library	2002.0	11.0
+26152	http://www.maine.gov/msecca/	MSECCA- Maine State Employees Combined Charitable Appeal	2005.0	8.0
+26153	http://www.graymaine.org/	Gray	1998.0	1949.0
+26154	http://www.gpl.lib.me.us	Gardiner Public Library	1997.0	58.0
+26155	http://www.lakeregionschools.org/	School Adm. District #61	2011.0	82.0
+26156	http://www.cary.lib.me.us	Cary Library-Houlton	1998.0	34.0
+26157	http://www.stewartpub.lib.me.us	Stewart Public Library	2004.0	12.0
+26158	http://www.waterville-me.gov	Waterville	2004.0	254.0
+26159	http://www.maine.gov/sos/	Secretary of State (SOS)	2002.0	42.0
+26160	http://www.rice.lib.me.us/rice/	Rice Public Library	2014.0	92.0
+26161	http://www.hamlin.lib.me.us	Hamlin Memorial Library	2004.0	18.0
+26162	http://www.maine.gov/pfr/professionallicensing/professions/massage/index.htm	Massage Therapists, Board of Licensure	2007.0	15.0
+26163	http://www.yccc.edu/	York County Community College	2003.0	292.0
+26165	http://www.maine.gov/pfr/professionallicensing/professions/manufactured_housing/index.htm	Manufactured Housing Professionals, Board of Licensure	2007.0	24.0
+26166	http://www.rsu50.org/	Reg. School Unit #50	2012.0	36.0
+26167	http://www.econdevmaine.com/	Department of Economic and Community Development	1998.0	173.0
+26168	http://www.state.me.us/dep/	Department of Environmental Protection	1998.0	518.0
+26169	http://www.maine.gov/boardofnursing/	Nursing, State Board of	2003.0	6.0
+26170	http://www.dixfield.org/library.html	Ludden Memorial Library	2003.0	28.0
+26171	http://www.rlrs.info/	Reg. School Unit #78	2009.0	7.0
+26172	http://www.maranacook.org/	Reg. School Unit #38	2004.0	118.0
+26173	http://www.orlandme.org/	Orland	1999.0	21.0
+26174	http://www.state.me.us/audit/auditor.htm	State Auditor	1998.0	7.0
+26175	http://www.dirigohealth.maine.gov/	Dirigo Health Program	2004.0	3.0
+26176	http://www.mainedental.org/	Dental Examiner, Board of Licensure	2002.0	24.0
+26178	http://www.rsu20.org/	Reg. School Unit #20	2009.0	130.0
+26179	http://www.schoolunion93.org/	School Union   93 School	2009.0	53.0
+26181	http://www.maine.gov/dacf/	Agriculture, Conservation and Forestry, Department of	2013.0	9.0
+26182	http://www.aos92.org/	Alt. Org. Struct. #92 (School)	2009.0	25.0
+26183	http://www.lincolnmaine.org/	Lincoln	1998.0	16.0
+26184	http://www.mechanicfalls.govoffice.com/	Mechanic Falls	2002.0	246.0
+26185	http://www.maine.gov/mema/	Emergency Management Agency, Maine (MEMA)	2003.0	902.0
+26186	http://www.maine.gov/doe/	Education, Dept. of (DOE)	2012.0	207.0
+26187	http://www.state.me.us/dafs/	Department of Administrative and Financial  Services	2001.0	6.0
+26190	http://www.edline.net/pages/msad63	School Adm. District #63	2010.0	9.0
+26191	http://www.bluehill.lib.me.us/	Blue Hill Public Library	1999.0	19.0
+26192	http://www.farmington-maine.org/	Farmington	2001.0	1245.0
+26194	http://www.westbuxtonpubliclibrary.org	West Buxton Public Library	2007.0	83.0
+26195	http://www.docboard.org/me/me_home.htm	Medicine, Board of Licensure	1998.0	75.0
+26196	http://www.maine.gov/pfr/professionallicensing/professions/social_workers/index.htm	Social Worker, Board of Licensure	2007.0	21.0
+26197	http://www.maine.gov/pfr/consumercredit/	Consumer Credit Protection, Bureau of	2006.0	250.0
+26198	http://www.maine.gov/ber/index.htm	Employee Relations, Bureau of	2006.0	3.0
+26200	http://www.dorcas.lib.me.us	Dorcas Library	2002.0	10.0
+26201	http://www.maine.gov/dhhs/ocfs/	Child and Family Services, Office of	2008.0	190.0
+26202	http://www.maine.gov/msl/	Library, Maine State (MSL)	2003.0	14.0
+26203	http://www.brooksvillelibrary.org	Brooksville Free Public Library	2001.0	10.0
+26204	http://www.maine.gov/mema/homeland/	Homeland Security	2003.0	39.0
+26206	http://www.windham.lib.me.us	Windham Public Library	2000.0	48.0
+26208	http://www.acton.k12.me.us/	Acton School   Department	2000.0	586.0
+26209	http://www.orono.org/	Orono	1998.0	289.0
+26210	http://www.westbrookmaine.com/city-departments-boards-commissions/library	Walker Memorial Library	2014.0	278.0
+26211	http://www.maine.gov/labor/bls/	Labor Standards, Bureau of	2004.0	4.0
+26213	http://www.scarborough.k12.me.us/	Scarborough   School Department	1999.0	75.0
+26214	http://www.maine.gov/ifw/	Inland Fisheries and Wildlife, Dept. of (IFW)	2002.0	797.0
+26215	http://machias.edu/	University of Maine - Machias	2009.0	1578.0
+26217	http://www.msad70.org/	School Adm. District #70	2001.0	30.0
+26218	http://www.cranberryisles.com/great/library.html	Great Cranberry Library	2000.0	36.0
+26219	http://www.casco.lib.me.us	Casco Public Library	2001.0	45.0
+26220	http://www.state.me.us/dmr/	Department of Marine Resources	1997.0	19.0
+26221	http://www.maine.gov/legis/lawlib/homepage.htm	Law and Legislative Reference Library	2003.0	70.0
+26222	http://www.link75.org/	School Adm. District #75	2000.0	184.0
+26223	http://www.msad42.org/	School Adm. District #42	2013.0	573.0
+26224	http://www.edl.lib.me.us	Edythe Dyer Community Library	2000.0	447.0
+26225	http://www.aos94.org/	Alt. Org. Struct. #94 (School)	2011.0	140.0
+26227	https://umaine.edu/	University of Maine	1998.0	7646.0
+26228	http://www.auburnmaine.gov/	Auburn	2012.0	713.0
+26229	http://www.maine.gov/energy/	Energy Independence and Security, Governor's Office of	2012.0	117.0
+26230	http://www.gibbslibrary.org	Gibbs Library	2003.0	18.0
+26232	http://www.msad37.org/	School Adm. District #37	2009.0	208.0
+26233	http://www.fivetowns.net/index.cfm	Five Town   CSD School	2011.0	1815.0
+26234	http://www.maine.gov/dhhs/mecdc/environmental-health/el/index.htm	Health Inspection Program	2012.0	13.0
+26236	http://www.madawaskaschools.org/index.cfm	Grand Isle School Department	2008.0	0.0
+26237	http://www.mainepers.org	Maine Public Employees Retirement System (MainePERS)	2008.0	118.0
+26238	http://www.chebeague.org/cis/	Chebeague Island   School Department	2010.0	8.0
+26239	http://www.rsu57.org/	School Adm. District #57	2011.0	46.0
+26240	http://www.skidompha.org/skidomphanew/	Skidompha Public Library	2013.0	64.0
+26241	http://www.maine.gov/dhhs/	Health & Human Services, Department of (DHHS)	2004.0	219.0
+26242	http://www.state.me.us/sos/cec/cec.htm	Bureau of Corporation, Elections, and Commissions(Maine)	1997.0	57.0
+26244	http://www.state.me.us/cio/	Office of the Chief Information Officer	2002.0	139.0
+26245	http://www.scarborough.me.us/	Scarborough	1998.0	0.0
+26246	http://www.maine.gov/fps/index.htm	Financial and Personnel Services	2006.0	3.0
+26247	http://www.maine.gov/dps/msp/	Police, Maine State	2005.0	87.0
+26248	http://www.airline-community.airline.k12.me.us/	Airline CSD School	2009.0	9.0
+26249	http://www.dedhamschool.net/	Dedham School	2001.0	30.0
+26250	http://www.cumberlandcounty.org/	Cumberland	1999.0	321.0
+26251	http://www.maine.gov/sos/cec/index.html	Corporations, Elections and Commissions, Bureau of	2004.0	79.0
+26252	http://www.southchina.lib.me.us	South China Public Library	1999.0	6.0
+26253	http://www.maine.gov/decd/	Economic & Community Development, Dept. of (DECD)	2010.0	3.0
+26254	http://www.maine.gov/dacf/php/pesticides/index.shtml	Pesticide Control, Board of	2013.0	38.0
+26255	http://www.msad20.org/	School Adm. District #20	2003.0	84.0
+26256	http://www.maine.gov/ems/	Emergency Medical Services (EMS)	2013.0	4.0
+26258	http://www.state.me.us/sos/arc/	Maine State Archives	1999.0	4.0
+26260	http://www.curtislibrary.com/	Curtis Memorial Library	1996.0	263.0
+26261	http://www.fivetowns.net/	School Adm. District #28	2000.0	1816.0
+26263	http://www.maine.gov/dvem/	Department of Defense, Veterans and Emergency Management	2010.0	66.0
+26264	http://www.mexico.lib.me.us	Mexico Free Public Library	2003.0	7.0
+26265	http://www.maine.gov/labor/cwri/	Center for Workforce Research and Information	2011.0	67.0
+26266	http://www.clinton-me.us	Brown Memorial Library - Clinton	2006.0	922.0
+26269	http://www.maine.gov/professionalengineers/	Engineers, Board of Registration for Professional	2003.0	7.0
+26270	http://www.townofdixmont.org/	Dixmont	2003.0	52.0
+26271	http://www.state.me.us/mhpc/	Maine Historic Preservation Commission	2001.0	7.0
+26272	http://www.maine.gov/pfr/index.shtml	Professional and Financial Regulation, Dept. of	2006.0	1323.0
+26273	http://www.maine.gov/dps/fmo/index.htm	Fire Marshal's Office	2005.0	33.0
+26275	https://mhdo.maine.gov/	Maine Health Data Organization	2013.0	54.0
+26276	http://www.msad60.org/	School Adm. District #60	2011.0	277.0
+26277	http://www.pittsfield.org/	Pittsfield	1998.0	508.0
+26279	http://www.filminmaine.com/	Film Office, Maine	2002.0	13.0
+26280	http://www.state.me.us/mhrc/index.shtml	Maine Human Rights Commission	2001.0	15.0
+26281	http://www.maine.gov/dhhs/ofi/dser/	Child Support Enforcement	2011.0	31.0
+26282	http://chebeague.chebeague.lib.me.us/	Chebeague Island Library	2005.0	13.0
+26283	http://www.maine.gov/pfr/professionallicensing/professions/veterinarians/index.htm	Veterinary Medicine, State Board of	2007.0	20.0
+26284	http://castine.me.us/	Castine	2001.0	104.0
+26285	http://hsdgreenbush.org/	Greenbush School   Department	2011.0	32.0
+26286	http://www.newgloucesterlibrary.org	New Gloucester Public Library	2005.0	9.0
+26287	http://www.maine.gov/geolib/	Library of Geographic Information, Maine	2004.0	137.0
+26288	http://www.maine.gov/pfr/professionallicensing/professions/complementary/index.htm	Complementary Health Care Providers, Board of	2007.0	19.0
+26289	http://www.bonney.lib.me.us/index.php/en/	Bonney Memorial Library	2013.0	0.0
+26290	http://www.maine.gov/pfr/professionallicensing/professions/speech_audiology_hearing_aid/index.htm	Speech-Language Pathology, Audiology & Hearing Aid Dealing and Fitting,Board of	2008.0	23.0
+26291	http://old-town.lib.me.us	Old Town Public Library	1998.0	32.0
+26292	http://www.schoolunion122.net/	School Union   122 School	2010.0	16.0
+26293	http://www.gorhamschools.org/	Gorham School   Department	2001.0	49.0
+26294	http://www.maine.gov/dacf/divisions.shtml	Natural Resources Information and Mapping Center	2013.0	9.0
+26295	http://www.maine.gov/pfr/professionallicensing/professions/nursing_home/index.htm	Nursing Home Administrators, Board of Licensing	2007.0	23.0
+26296	http://www.maine.gov/portal/	State Planning Office	2003.0	56.0
+26297	http://www.uma.edu/	University of Maine - Augusta	2002.0	500.0
+26299	http://www.maine.gov/treasurer/	Treasurer's Office	2002.0	7.0
+26300	http://www.westbrookschools.org/	Westbrook   School Department	2001.0	59.0
+26301	http://www.phillips.lib.me.us	Phillips Public Library	2002.0	16.0
+26302	http://www.msad11.org/	School Adm. District #11	2006.0	1360.0
+26303	http://www.courts.state.me.us/	Judicial Branch	1997.0	477.0
+26304	http://www.wiscasset.lib.me.us	Wiscasset Public Library	1999.0	2.0
+26305	http://www.maine.gov/dhhs/oms/	MaineCare Services, Office of (formerly Medical Services, Bureau of)	2009.0	1082.0
+26306	http://www.maineddc.org/	Maine Developmental Disabilities Council	2003.0	73.0
+26308	http://www.paris.lib.me.us	Paris Public Library	2003.0	10.0
+26309	http://www.alpl.lib.me.us	Alice L. Pendleton Library	1998.0	23.0
+26311	http://www.state.me.us/legis/lawlib/homepage.htm	State Law and Legislative Reference Library	1997.0	69.0
+26312	http://cumberlandmaine.com/	Cumberland	1999.0	1556.0
+26313	http://www.calais.lib.me.us	Calais Free Library	2004.0	11.0
+26315	http://www.maine.gov/deh/	Employee Health & Benefits	2012.0	10.0
+26316	http://www.iis.bie.edu/	Indian Island School	2012.0	7.0
+26317	http://ics.islesboro.k12.me.us/	Islesboro   School Department	2013.0	51.0
+26319	http://yarmouthlibrary.org	Merrill Memorial Library	0.0	194.0
+26322	https://sites.google.com/site/washburnmemoriallibrary/	Washburn Memorial Library	2013.0	29.0
+26323	http://www.townofnorthberwick.org/	North Berwick	2000.0	3.0
+26324	http://www.maine.gov/legis/	Legislative Branch	2003.0	40.0
+26325	http://www.eastgrandschool.org/	School Adm. District #14	2001.0	34.0
+26326	http://library.long-island.lib.me.us	Long Island Community Library	2007.0	2.0
+26327	http://southportlandlibrary.com/	South Portland Public Library	2004.0	310.0
+26328	http://www.umfk.edu/	University of Maine - Fort Kent	2011.0	696.0
+26329	http://www.maine.gov/pfr/professionallicensing/professions/auctioneers/index.htm	Auctioneers, Board of Licensing	2007.0	17.0
+26330	http://www.aroostook.me.us/allagash/library.html	Faye Oleary Hafford Library	2000.0	12.0
+26331	http://www.maine.gov/pfr/professionallicensing/professions/transient_sellers/index.htm	Transient Sellers of Consumer Merchandise, Board of Licensure	2007.0	14.0
+26332	http://www.fayettemaine.com/school_page.html	Fayette School	2003.0	0.0
+26333	http://www.lithgow.lib.me.us/WordPress/	Lithgow Public Library	2013.0	2.0
+26334	http://www.eastmillinocket.org/library.htm	East Millinocket Public Library	2005.0	31.0
+26335	http://www.lubec.lib.me.us	Lubec Memorial Library	2010.0	2.0
+26336	http://www.state.me.us/sos/	Secretary of State	1998.0	370.0
+26337	http://www.maine.gov/dhhs/mecdc/	Health, Bureau of - See Maine Center for Disease Control	2011.0	314.0
+26338	http://www.maine.gov/wcb/	Workers' Compensation Board	2003.0	5.0
+26339	http://www.maine.gov/dacf/mfs/index.shtml	Forest Service, Maine	2014.0	245.0
+26341	http://www.jacksonmem.lib.me.us/cms/	Jackson Memorial Library	2009.0	520.0
+26344	http://www.sacomaine.org/	Saco	1998.0	1319.0
+26345	http://www.vinalhavenpubliclibrary.org	Vinalhaven Public Library	2006.0	13.0
+26347	http://www.freeportlibrary.com	Freeport Community Library	2000.0	8.0
+26349	http://www.msad33.org/	School Adm. District #33	1998.0	52.0
+26351	http://www.cariboumaine.org/	Caribou	2001.0	121.0
+26352	http://www.thomasmemoriallibrary.org	Thomas Memorial Library	2008.0	903.0
+26353	http://www.kidsrsu.org/	Reg. School Unit #02	2008.0	752.0
+26355	http://www.maine.gov/dps/liqr/homepage.htm	Liquor Licensing and Inspections Unit	2004.0	7.0
+26356	http://www.maine.gov/pfr/professionallicensing/professions/appraisers/index.htm	Real Estate Appraisers, Board of Licensure	2007.0	24.0
+26357	http://www.state.me.us/pfr/professionallicensing/professions/physical_therapists/index.htm	Physical Therapy, Board of Examiners in	2009.0	19.0
+26358	http://ooblibrary.org/	Libby Memorial Library	0.0	506.0
+26359	http://www.maine.gov/revenue/	Revenue Services, Maine (Taxes)	2003.0	482.0
+26360	http://www.msad15.org/	School Adm. District #15	0.0	558.0
+26361	http://www.maine.gov/dep/air/	Air Quality, Bureau of	2002.0	19.0
+26362	http://www.dyerlibrarysacomuseum.org	Dyer Library	2003.0	51.0
+26364	http://www.maine.gov/oit/	Information Technology, Office of	2005.0	13.0
+26365	http://www.knoxcountymaine.gov/	Knox	2011.0	754.0
+26367	http://www.phippsburg.com	Albert F. Totman Library	2002.0	118.0
+26368	http://www.maine.gov/ag/	Attorney General, Dept. of	2002.0	6.0
+26370	http://www.caswellme.org/	Caswell School   Department	2011.0	6.0
+26371	http://www.readfield.govoffice.com/	Readfield Community Library	2006.0	190.0
+26373	http://www.wells.lib.me.us/wells/	Wells Public Library	2009.0	128.0
+26374	http://www.maine.gov/dafs/bablo/	Alcoholic Beverages, Bureau of	2005.0	24.0
+26375	http://www.topshammaine.com/	Topsham	1998.0	777.0
+26376	http://www.maine.gov/osc/	Controller, Office of the State	2005.0	91.0
+26377	http://www.mie.bie.edu/	Maine Indian Education School	2012.0	5.0
+26378	http://www.cundysharbor.lib.me.us	Cundys Harbor Library	2003.0	8.0
+26379	http://msad64.dcix.net/	School Adm. District #64	2004.0	0.0
+26380	http://www.maine911.com/index.shtml	Emergency Services Communications Bureau (Enhanced 9-1-1)	2005.0	11.0
+26382	http://www.maine.gov/megis/	Geographic Information System (MEGIS)	2011.0	197.0
+26383	http://www.maine.gov/dhhs/mecdc/environmental-health/water/index.htm	Drinking Water Program	2012.0	175.0
+26384	http://district.rsu10.org/	Reg. School Unit #10	2013.0	1326.0
+26385	http://www.rsu21.net/	Reg. School Unit #21	2009.0	397.0
+26387	http://www.waterborolibrary.org	Waterboro Public Library	2003.0	150.0
+26388	http://www.aroostook.me.us/	Aroostook	1999.0	137.0
+26389	http://www.boothbayschools.org/	Boothbay-Boothbay Harbor CSD School	2002.0	0.0
+26390	http://www.bridgton.lib.me.us	Bridgton Public Library	2000.0	487.0
+26391	http://www.topshamlibrary.org	Topsham Public Library	2001.0	120.0
+26392	http://www.emcc.edu/	Eastern Maine Community College	2003.0	546.0
+26393	http://www.steepfallslibrary.org	Steep Falls Library	2002.0	1084.0
+26394	http://www.maine.gov/pfr/professionallicensing/professions/trainers/index.htm	Athletic Trainers	2007.0	13.0
+26396	http://www.schoolunion122.net/new.htm	New Sweden   School Department	2012.0	16.0
+26397	http://www.millinocket.org/	Millinocket	2001.0	430.0
+26398	http://www.maine.gov/pfr/professionallicensing/professions/elevator/index.htm	Elevator and Tramway Technicians, Board of Licensure	2007.0	24.0
+26399	http://www.shead.org/	Eastport School	2000.0	193.0
+26400	http://www2.portlandschools.org/	Portland School   Department	1999.0	1142.0
+26401	http://www.sad46.org/	School Adm. District #46	2007.0	140.0
+26402	http://lplonline.org/	Lewiston Public Library	2001.0	226.0
+26404	http://www.bpl.lib.me.us	Bangor Public Library	1998.0	71.0
+26405	http://www.gardinermaine.com/	Gardiner	2001.0	226.0
+26406	http://www.nmcc.edu/	Northern Maine Community College	2003.0	531.0
+26407	http://www.maine.gov/labor/unemployment/benefits.html	Unemployment Compensation, Bureau of	2006.0	64.0
+26408	http://www.wilton-free.lib.me.us	Wilton Free Public Library	1998.0	878.0
+26410	http://www.bayridgeschool.org	Cutler School	2013.0	21.0
+26411	http://www.maine.gov/pfr/professionallicensing/professions/plumbers/index.htm	Plumbers' Examining Board	2007.0	29.0
+26412	http://www.maine.gov/geolib/index.htm	Geographic Information, Maine Library of	2004.0	137.0
+26414	http://www.simpsonmemorial.org	Simpson Memorial Library	2011.0	9.0
+26417	http://www.kennebunkmaine.org/	Kennebunk	2002.0	3967.0
+26419	http://www.bonnyeagle.org/	School Adm. District #06	0.0	838.0
+26420	http://www.maine.gov/ethics/	Ethics Commission	2003.0	301.0
+26421	http://www.hobbslibrary.org/	Charlotte Hobbs Memorial Library	2005.0	124.0
+26422	http://www.lisbonme.org	Lisbon Library Dept	2000.0	274.0
+26423	http://www.waterford.lib.me.us	Waterford Library Association	2006.0	9.0
+26424	http://learn.maine.edu/	University College	2000.0	2481.0
+26426	http://www.cmcc.edu/	Central Maine Community College	2003.0	666.0
+26429	http://www.kitteryschools.com/	Kittery School   Department	2012.0	25.0
+26430	http://www.me.ngb.army.mil/	Maine Army National Guard	2001.0	296.0
+26431	http://www.maine.gov/ifw/warden_service/	Warden Services	2009.0	26.0
+26432	http://www.maine.gov/purchases/	Purchases, Division of	2004.0	88.0
+26433	http://www.maine.gov/pfr/professionallicensing/professions/geologists/index.htm	Geologists and Soil Scientists, Board of Certification	2007.0	20.0
+26434	http://www.maine.gov/sos/arc/	Archives, Maine State	2003.0	104.0
+26435	http://www.auburnschl.edu/?sectionid=1	Auburn   School Department	0.0	0.0
+26437	http://www.belfastlibrary.org	Belfast Free Library	0.0	26.0
+26440	http://www.mainelottery.com/	Lottery, Maine State	1996.0	64.0
+26442	http://www.sanford.org/	Sanford School   Department	2000.0	187.0
+26443	http://www.msad51.org/	School Adm. District #51	1999.0	105.0
+26444	http://www.state.me.us/mdot/	Department of Transportation	1997.0	2.0
+26446	http://www.brunswickme.org/	Brunswick	2002.0	1070.0
+26447	http://mainearts.maine.gov/	Arts Commission, Maine	2006.0	89.0
+26448	http://www.biddschools.org/	Biddeford School   Department	1998.0	1.0
+26449	http://www.kennebeccounty.org/	Kennebec	2004.0	25.0
+26450	http://www.maine.gov/pfr/financialinstitutions/	Financial Institutions, Bureau of (previously Bureau of Banking)	2006.0	396.0
+26452	http://www.maine.gov/dhhs/samhs/osa/	Substance Abuse, Office of	2012.0	153.0
+26453	http://www.cascomaine.org/	Casco	2001.0	38.0
+26454	http://www.dixfield.org/	Dixfield	2002.0	52.0
+26455	http://www.eastmillinocket.org/education.htm	East Millinocket School	2005.0	31.0
+26456	http://www.maine.gov/pfr/professionallicensing/professions/electricians/index.htm	Electricians' Examining Board	2007.0	36.0
+26457	http://www.mdf.org/	Maine Development Foundation	1996.0	486.0
+26458	http://www.maine.gov/ag/crime/chief_medical_examiner.shtml	Chief Medical Examiner, Office of	2008.0	28.0
+26459	http://www.state.me.us/museum/	Maine State Museum	2000.0	125.0
+26460	http://www.mainemaritime.edu/	Maine Maritime Academy	1997.0	582.0
+26461	http://www.holdenmaine.com/	Holden	2001.0	386.0
+26462	http://www.swansisland.org	Swans Island Public Library	2004.0	3.0
+26463	http://www.carrabassettvalley.org/	Carrabassett Valley	1999.0	67.0
+26465	http://www.mitc.com/	International Trade Center, Maine (MITC)	1997.0	82.0
+26467	http://www.maine.gov/bgs/	General Services, Bureau of	2004.0	148.0
+26468	http://www.msad45.net/	School Adm. District #45	2004.0	2069.0
+26470	http://www.maine.gov/dhhs/ofi/	Family Independence, Office for	2011.0	119.0
+26471	http://www.maine.gov/dps/mdea/	Maine Drug Enforcement Agency (MDEA)	2009.0	16.0
+26472	http://www.maine.gov/dhhs/dlrs/	Health & Human Services, Department of, Division of Licensing and   Regulatory Services	2006.0	121.0
+26473	http://www.bangorschools.net/	Bangor School   Department	2002.0	76.0
+26474	http://www.maine.gov/portal/government/state-agencies	Maine.gov: Government: Agency Index	2011.0	37.0
+26475	http://www.ellsworth.lib.me.us	Ellsworth Public Library	1998.0	311.0
+26476	http://www.mexicomaine.net	Mexico	2001.0	15.0
+26477	http://www.fryeisland.com/	Frye Island	1998.0	107.0
+26478	http://www.maine.gov/decd/meocd/	Community Development, Office of	2010.0	66.0
+26479	http://www.maine.gov/pfr/professionallicensing/professions/accountants/index.htm	Accountancy, Board of	2007.0	24.0
+26480	http://www.maine.edu/	University System, Maine (UMS)	1996.0	352.0
+26482	http://rsu25.org/	Reg. School Unit #25	2010.0	1356.0
+26483	http://www.kvcog.org/	Kennebec Valley Council of Governments	1997.0	2870.0
+26484	http://www.liberty.lib.me.us/	Ivan O. Davis-Liberty Library	2001.0	60.0
+26485	http://www.peabodymemorial.com	Peabody Memorial Library	2008.0	16.0
+26486	http://www.hermon.net/index.php?id=37	Hermon   School Department	2011.0	254.0
+26487	http://www.maine.gov/dacf/mnap/index.html	Maine Natural Areas Program	2013.0	62.0
+26488	http://www.yorkmaine.org/	York	2001.0	132.0
+26489	http://www.maine.gov/pfr/professionallicensing/professions/podiatrists/index.htm	Podiatrists, Board of Licensure	2007.0	21.0
+26490	http://www.yarmouthschools.org/	Yarmouth School   Department	2009.0	93.0
+26491	http://www.beatricerafferty.com/	Pleasant Point (Beatrice Rafferty) School	2012.0	5.0
+26492	http://www.capeelizabeth.com/	Cape Elizabeth	1996.0	1882.0
+26493	http://www.maine.gov/sos/bmv/	Motor Vehicles, Bureau of (BMV)	2003.0	280.0
+26494	http://www.yarmouth.me.us/	Yarmouth	1999.0	298.0
+26495	http://www.maine.gov/mlrb/	Labor Relations Board	2006.0	46.0
+26496	http://www.maine.gov/mpuc/	Public Utilities Commission, Maine (PUC)	2003.0	224.0
+26497	http://www.hopees.u69.k12.me.us/	School Union   69 School	2003.0	2.0
+26498	http://www.yorkschools.org/	York School   Department	2001.0	68.0
+26500	http://www.cdsedu.org/	Orrington School	2011.0	41.0
+26501	http://www.whitneyville.lib.me.us	Whitneyville Public Library	1999.0	6.0
+26503	http://www.rsu34.org/	Reg. School Unit #34	2009.0	79.0
+26506	http://www.whitingvillage.org	Whiting School	2013.0	25.0
+26507	http://www.msad53.org/	School Adm. District #53	2005.0	36.0
+26508	http://www.rsu13.org/	Reg. School Unit #13	2009.0	700.0
+26509	http://www.madawaskalibrary.org	Madawaska Public Library	2005.0	19.0
+26510	http://www.dextermaine.org/	Dexter	1998.0	64.0
+26511	http://www.smccme.edu/	Southern Maine Community College	0.0	421.0
+26512	http://www.thomaston.lib.me.us	Thomaston Public Library	1998.0	8.0
+26514	http://www.auburnpubliclibrary.org	Auburn Public Library	2003.0	133.0
+26515	http://www.morneault.lib.me.us	Abel J.Morneault Memorial Library	2012.0	9.0
+26517	http://www.harpswell.maine.gov/	Harpswell	2006.0	381.0
+26518	http://www.sedomocha.org/	School Adm. District #68	2013.0	47.0
+26519	http://www.maine.gov/audit/unorg.htm	Unorganized Territory Fiscal Administrator	2005.0	25.0
+26521	http://www.witherle.lib.me.us	Witherle Memorial Library	2002.0	630.0
+26523	http://www.maine.gov/dafs/	Administrative and Financial Services, Dept. of (DAFS)	2003.0	74.0
+26524	http://lisbonschooldept.org/	Lisbon School   Department	2013.0	34.0
+26525	http://rsu5.org/	Reg. School Unit #05	2009.0	706.0
+26526	http://www.maine.gov/pfr/professionallicensing/professions/psychologists/index.htm	Psychologists, Board of Licensure	2007.0	17.0
+26527	http://www.appletonlibraryme.org/	Milldred Stevens Williams Memorial Library	2013.0	16.0
+26528	http://www.maine.gov/mhpc/about_us/index.html	Historic Preservation Commission, Maine	2007.0	3.0
+26529	http://www.winslowmaine.org/	Winslow	1998.0	69.0
+26530	http://www.maine.gov/corrections/	Corrections, Dept. of	2003.0	338.0
+26532	http://www.lebanon-me.org	Lebanon Town Library	2003.0	236.0
+26533	http://www.norway.lib.me.us	Norway Memorial Library	2002.0	19.0
+26535	http://www.maine.gov/mcils/	Indigent Legal Services, Maine Commission on	2010.0	30.0
+26536	http://www.maine.gov/pfr/professionallicensing/professions/counselors/index.htm	Counseling Professionals, Board of Licensure	2007.0	21.0
+26538	http://www.farmington.lib.me.us	Farmington Public Library	1998.0	7.0
+26539	http://www.veazie.net/	Veazie	1999.0	132.0
+26540	http://www.townofsebago.org/	Sebago	2001.0	127.0
+26542	http://www.cityofbelfast.org/	Belfast	2001.0	420.0
+26543	http://www.rsu24.org/	Reg. School Unit #24	2009.0	429.0
+26544	http://cumston.mlasolutions.com/MandarinCMS	Cumston Public Library	0.0	7.0
+26545	http://www.jaynileslibrary.com	Jay-Niles Memorial Library	2004.0	30.0
+26547	http://abbott-library.com	Abbott Memorial Library	2000.0	32.0
+26548	http://www.maine.gov/pfr/professionallicensing/professions/occupational/index.htm	Occupational Therapy, Board of Licensure	2007.0	22.0
+26549	http://www.hartland.lib.me.us	Hartland Public Library	2005.0	21.0
+26551	http://www.southberwicklibrary.org/	South Berwick Public Library	2011.0	38.0
+26552	http://www.maine.gov/pfr/professionallicensing/professions/surveyors/index.htm	Land Surveyors Professionals, Board of Licensure	2007.0	21.0
+26553	http://www.mccs.me.edu/	Community College System of Maine	2003.0	87.0
+26554	http://www.voselibrary.org	Vose Library	2009.0	85.0
+26555	http://www.lewistonpublicschools.org/~lewschdept/	Lewiston School   Department	2008.0	47.0
+26557	http://www.maine.gov/pfr/professionallicensing/professions/radiological/index.htm	Radiologic Technology Board of Examiners	2007.0	22.0
+26558	http://www.townofnaples.org/	Naples	2001.0	185.0
+26560	http://www.cityofbath.com/	Bath	1998.0	1333.0
+26561	http://www.spaulding.lib.me.us	Spaulding Memorial Library	2003.0	12.0
+26562	http://www.winslow-me.gov/departments/library	Winslow Public Library	2012.0	97.0
+26563	http://www.msad30.org/	School Adm. District #30	2004.0	65.0
+26565	http://www.greenvilleme.com/default.aspx	Greenville	2011.0	475.0
+26566	https://sites.google.com/site/aos90aos90/	Alt. Org. Struct. #90 (School)	2013.0	60.0
+26567	http://www.rickerlibrary.org	Ricker Memorial Library	2001.0	56.0
+26568	http://www.ci.rockland.me.us/	Rockland	1999.0	647.0
+26570	http://www.aos97.org/index.html	Alt. Org. Struct. #97 (School)	2012.0	10.0
+26571	http://williamfogglibrary.org/	William Fogg Public Library	2007.0	142.0
+26572	http://www.maineservicecommission.gov/	Maine Commission for Community Service	2004.0	394.0
+26573	http://www.carver.lib.me.us	Carver Memorial Library	1998.0	11.0
+26574	http://www.standish.org/	Standish	1999.0	226.0
+26575	http://www.union103.org/	School Union   103 School	2003.0	412.0
+26576	http://www.watervillelibrary.org	Waterville Public Library	2011.0	260.0
+26577	http://www.waterboro-me.net/	Waterboro	2008.0	26.0
+26579	http://www.presqueisle.lib.me.us	Mark And Emily Turner Memorial Library	1999.0	79.0
+26580	http://www.maine.gov/pfr/professionallicensing/professions/real_estate/index.htm	Real Estate Agents, Board of Licensure	2007.0	31.0
+26583	http://www.maine.gov/legis/ofpr/	Fiscal and Program Review, Office of	2005.0	73.0
+26584	http://www.town.lincolnville.me.us/	Lincolnville	2001.0	720.0
+26585	http://www.maine.gov/pfr/professionallicensing/professions/foresters/index.htm	Foresters, Board of Licensure	2007.0	24.0
+26586	http://www.mtbluersd.org/	Reg. School Unit #09	2009.0	45.0
+26587	http://www.kennebunklibrary.org/kennebunk/	Kennebunk Free Library	2010.0	184.0
+26588	http://www.spsd.org/	South Portland School   Department	2001.0	1901.0
+26589	http://usm.maine.edu/	University of Southern Maine	1997.0	6784.0
+26590	http://www.warrenfreepubliclibrary.org/	Warren Free Public Library	2006.0	125.0
+26591	http://www.fortkent.org/	Fort Kent	2000.0	55.0
+26592	http://www.rsu16.org/	Reg. School Unit #16	2010.0	23.0
+26593	http://www.stagatha.com/	Saint Agatha	1998.0	213.0
+26594	http://www.da-hurd.lib.me.us	D.A. Hurd Library	2009.0	21.0
+26595	http://www.veterans-memorial.lib.me.us/	Veterans Memorial Library	2002.0	13.0
+26596	http://www.sad67.k12.me.us/	Reg. School Unit #67	2000.0	0.0
+26597	http://www.k12wocsd.net/	Wells-Ogunquit   CSD School	2011.0	78.0
+26598	http://www.fortfairfield.org/	Fort Fairfield	1999.0	578.0
+26599	http://www.maine.gov/boardoftaxappeals/	Tax Appeals, Maine Board of	2012.0	13.0
+26600	https://sites.google.com/site/boothbayschools/	Alt. Org. Struct. #98 (School)	2010.0	27.0
+26602	http://www.oobmaine.com/	Old Orchard Beach	1998.0	532.0
+26603	http://www.breweredu.org/	Brewer School   Department	2002.0	239.0
+26604	http://www.maine.gov/dacf/parks/index.shtml	Parks and Lands, Bureau of (Maine State Parks)	2013.0	153.0
+26605	http://www.maine.gov/dep/	Environmental Protection, Dept. of (DEP)	2002.0	609.0
+26607	http://www.yorkcountyme.gov/	York	2006.0	65.0
+26608	https://sites.google.com/a/beechhillschool.org/bhs/	Otis School   Department	2013.0	84.0
+26610	http://www.portlandlibrary.com	Portland Public Library	1996.0	466.0
+26611	http://www.maine.gov/budget/	Budget, Bureau of	2003.0	65.0
+26612	http://www.westbrookmaine.com/	Westbrook	1996.0	1220.0
+26613	http://www.mecolleges.org/	Higher Education Council, Maine	2007.0	9.0
+26614	http://www.sangerville.lib.me.us	Sangerville Public Library	2000.0	36.0
+26615	http://www.hubbardfree.org	Hubbard Free Library	2008.0	7.0
+26616	http://www.lbgoodall.org	Goodall Memorial Library	2006.0	191.0
+26618	http://www.southportland.org/	South Portland	2000.0	468.0
+26619	http://www.maine.gov/dps/	Public Safety, Dept. of (DPS)	2003.0	370.0
+26620	http://www.falmouthmemoriallibrary.org/	Falmouth Memorial Library	2012.0	72.0
+26621	http://www.raymondmaine.org/community-resources/raymond-village-library/	Raymond Village Library	2010.0	17.0
+26622	http://www.sad1.org/	School Adm. District #01	2003.0	425.0
+26623	http://www.maine.gov/pfr/professionallicensing/professions/dietitians/index.htm	Dietitians, Board of Licensure	2007.0	21.0
+26624	http://www.pittsfield.lib.me.us	Pittsfield Public Library	2001.0	7.0
+26625	http://www.sad17.k12.me.us/	School Adm. District #17	2000.0	347.0
+26626	http://www.maineombudsman.org/	Long Term Care Ombudsman Program	1998.0	36.0
+26627	http://nehlibrary.org/	Northeast Harbor Library	2005.0	133.0
+26628	http://www.maine.gov/dhhs/mecdc/local-public-health/wic/	WIC - Women, Infants, and Children Nutrition Program	2012.0	84.0
+26630	http://www.harrison.lib.me.us	Harrison Village Library	2006.0	10.0
+26631	http://www.sad27.org/	Alt. Org. Struct. #95 (School)	2010.0	191.0
+26633	http://www.maine.gov/legis/opega/	Program Evaluation & Government Accountability, Office of	2005.0	22.0
+26634	http://rsu19.org/	Reg. School Unit #19	2010.0	162.0
+26635	http://www.porter.lib.me.us	Porter Memorial Library	2003.0	11.0
+26636	http://turnerpubliclibrary.org	Turner Public Library	2007.0	27.0
+26637	http://co.hancock.me.us/site/	Hancock	2013.0	548.0
+26638	http://www.sad32.org/	School Adm. District #32	2007.0	19.0
+26639	http://www.maine.gov/dacf/mgs/index.shtml	Geological Survey, Maine	2013.0	49.0
+26640	http://www.wellsreserve.org/	Wells National Estuarine Research Reserve Management Authority	2001.0	1075.0
+26641	http://www.york.lib.me.us	York Public Library	1998.0	42.0
+26642	http://www.maine.gov/pfr/professionallicensing/index.shtml	Professional and Occupational Regulation, Office of	2006.0	544.0
+26643	http://www.loring.org/	Loring Development Authority (LDA)	2001.0	18.0
+26644	http://www.maine.gov/dhhs/oads/aging/	Elder Services, Office of	2012.0	12.0
+26646	http://www.maine.gov/governor/lepage/	Governor	2011.0	4.0
+26647	http://www.maine.gov/pfr/professionallicensing/professions/funeral/index.htm	Funeral Professionals, Board of Licensure	2007.0	21.0
+26648	http://www.maine.gov/pfr/professionallicensing/professions/barbers/index.htm	Barbering and Cosmetology Licensing Program	2007.0	27.0
+26649	http://www.maine.gov/bgs/centralserv/index.htm	Surplus Property	2004.0	30.0
+26650	http://www.brown.lib.me.us	Albert Church Brown Memorial Library	2002.0	92.0
+26651	http://www.berwick.lib.me.us	Berwick Public Library	2000.0	7.0
+26652	http://www.palermo.lib.me.us	Palermo Community Library	2002.0	23.0
+26653	http://www.easton.me.us/	Easton	1999.0	0.0
+26655	http://www.maine.gov/bhr/	Human Resources, Bureau of	2002.0	20.0
+26656	http://www.livermore.lib.me.us	Livermore Public Library	1998.0	1.0
+26659	http://www.town.south-thomaston.me.us/	South Thomaston	2001.0	37.0
+26661	http://www.maine.gov/dep/index.html	Remediation and Waste Management, Bureau of	2012.0	19.0
+26662	http://www.vinalhavenschool.org/	School Adm. District #08	2008.0	63.0
+26664	http://www.svrsu.org/	Reg. School Unit #12	2009.0	36.0
+26666	http://www.umf.maine.edu/	University of Maine - Farmington	1997.0	274.0
+26667	https://sites.google.com/site/charlotteelementaryschool/	Charlotte School	0.0	62.0
+26668	http://www.biddefordmaine.org/	Biddeford	2001.0	7530.0
+26669	http://www.oxfordcounty.org/	Oxford	2001.0	22.0
+26670	http://northbridgtonlibrary.homestead.com/	North Bridgton Public Library	0.0	5.0
+26671	http://www.soldiers.lib.me.us	Soldiers Memorial Library	2003.0	118.0
+26672	http://msad24.mainecte.org/	School Adm. District #24	2009.0	30.0
+26673	http://www.sad4.org/	School Adm. District #04	2014.0	352.0
+26674	http://www.maine.gov/connectme/index.shtml	ConnectME Authority	2006.0	4.0
+26675	http://www.maine.gov/dhhs/mecdc/infectious-disease/index.htm	Infectious Disease Division	2012.0	202.0
+26676	http://www.memun.org/	Maine Municipal Association	1998.0	821.0
+26677	http://www.maine.gov/bgs/riskmanage/index.htm	Risk Management, Office of	2004.0	12.0
+26678	http://www.hermon.net/	Hermon	1998.0	243.0
+26679	http://www.midcoast.com/~owlshead/	Owls Head	1997.0	65.0
+26680	http://www.swhplibrary.org/	Southwest Harbor Public Library	2006.0	111.0
+26682	http://www.winterharbor.lib.me.us	Winter Harbor Public Library	1999.0	4.0
+26683	http://www.aos96.org/	Alt. Org. Struct. #96 (School)	2012.0	8.0
+26684	http://www.oaklandlibrary.net	Oakland Public Library	2010.0	19.0
+26685	http://www.state.me.us/dps/	Department of Public Safety	1997.0	20.0
+26686	http://www.state.me.us/msl/	State Library	1997.0	330.0
+26687	http://www.msad40.org/	School Adm. District #40	2001.0	167.0
+26689	http://www.windham.k12.me.us/rsu14.cfm	Reg. School Unit #14	2009.0	665.0
+26690	http://www.maine.gov/meopa/	Public Advocate Office	2003.0	4.0
+26691	http://www.augustaschools.org/	Augusta School   Department	2004.0	729.0
+26692	http://www.maine.gov/cfc/	Communities for Children and Youth	2003.0	2.0
+26693	http://school.long-island.lib.me.us/	Long Island   School Department	2007.0	26.0
+26694	http://www.davismemoriallibrary.com	Davis Memorial Library	2008.0	14.0
+26695	http://www.msad74.org/	School Adm. District #74	2008.0	752.0
+26696	http://www.rsu1.org	Reg. School Unit #01	2008.0	282.0
+26699	http://www.kitteryme.gov/	Kittery	2012.0	190.0
+26700	http://www.maine.gov/pfr/professionallicensing/professions/alcohol/index.htm	Alcohol and Drug Counselors	2007.0	20.0
+26701	http://friendml.org	Friend Memorial Public Library	2004.0	7.0
+26702	http://www.state.me.us/mpuc/	Public Utilities Commission	1998.0	4.0
+26703	http://www.treat.lib.me.us	Treat Memorial Library	2003.0	4.0
+26704	http://www.umpi.edu/	University of Maine - Presque Isle	2008.0	576.0
+26705	http://www.north-gorham.lib.me.us	North Gorham Public Library	2012.0	9.0
+26706	http://www.longlakepubliclibrary.org	Long Lake Public Library	2011.0	8.0
+26707	https://sites.google.com/a/msad41.us/msad41/	School Adm. District #41	2012.0	80.0
+26708	http://www.oaklandmaine.us/	Oakland	2006.0	54.0
+26709	http://www.springvalelibrary.org	Springvale Public Library	2004.0	37.0
+26710	http://www.state.me.us/ethics/	Maine Commission on Governmental Ethics and Election Practices	1998.0	9.0
+26711	http://www.rangeleylibrary.com/default.asp?Key=1&Cat=1	Rangeley Public Library	0.0	0.0
+26712	http://www.jonesboro.u102.k12.me.us/	Jonesboro School	2001.0	10.0
+26713	http://www.falmouthschools.org/_/index.cfm?sidebar=316&center=317&rightnav=333	Falmouth   School Department	0.0	66.0
+26714	http://www.patten.lib.me.us/index.html	Patten Free Library	2000.0	122.0
+26715	http://www.unity.edu/academics/library	Dorothy W Quimby Library	2012.0	22.0
+26716	http://www.hollis.center.lib.me.us	Hollis Center Public Library	2011.0	15.0
+26717	http://www.famemaine.com/	Finance Authority of Maine (FAME)	1996.0	12.0
+26718	http://www.maine.gov/pfr/securities/index.shtml	Securities, Office of	2006.0	122.0
+26719	http://www.bmpl.lib.me.us	Boothbay Harbor Memorial Library	1998.0	1512.0
+26720	http://www.millinocketschools.org/	Millinocket   School Department	2010.0	19.0

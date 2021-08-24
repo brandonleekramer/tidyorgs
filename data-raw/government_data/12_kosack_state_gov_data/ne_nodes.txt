@@ -1,0 +1,551 @@
+NodeId	NodeURL	NodeName	Year	pages
+35376	http://woodriverne.com/	Wood River	2002.0	413.0
+35378	http://www.dmv.ne.gov/	Motor Vehicles, Department of	2008.0	218.0
+35379	http://www.nrec.ne.gov/	Real Estate Commission, Nebraska	2010.0	5.0
+35380	http://www.co.kimball.ne.us/	Kimball	2002.0	100.0
+35382	http://www.redcloud.k12.ne.us/jhhs/	Red Cloud High School	2010.0	39.0
+35383	http://www.hickman.ne.gov/	Hickman	2007.0	37.0
+35384	http://www.villageofmorrill.com/	Morrill	2005.0	20.0
+35386	http://www.thenicc.edu/index.php/en/	Nebraska Indian Community College	2012.0	1262.0
+35388	http://www.mccookbison.org/	Mc Cook Senior High School	2002.0	13.0
+35389	http://das.nebraska.gov/personnel/	Personnel, Division of State	2012.0	25.0
+35390	http://www.omahapubliclibrary.org	Omaha Public Library	2004.0	117.0
+35391	http://www.ovr.esu10.k12.ne.us/	Overton High School	1998.0	44.0
+35392	http://www.nadc.nebraska.gov/	Accountability and Disclosure Commission	2014.0	210.0
+35393	http://libraries.ne.gov/ainsworth/	Ainsworth Public Library	2011.0	83.0
+35395	http://libraries.ne.gov/redcloud/	Auld Public Library	2012.0	43.0
+35396	http://www.co.holt.ne.us/	Holt	2003.0	75.0
+35398	http://www.unk.edu/	University of Nebraska - Kearney	1997.0	22.0
+35399	http://www.ago.ne.gov/	Attorney General, Nebraska	2007.0	298.0
+35400	http://www.ocontonebraska.com/	Oconto	2003.0	6.0
+35401	http://www.ci.geneva.ne.us/	Geneva	1997.0	9.0
+35402	http://das.nebraska.gov/materiel/	Materiel Division	2012.0	52.0
+35403	http://www.co.richardson.ne.us/	Richardson	2003.0	37.0
+35405	http://www.co.red-willow.ne.us/health.html	Red Willow County Health Department	2003.0	16.0
+35407	http://ncta.unl.edu/	Nebraska College of Technical Agriculture, Curtis	1998.0	309.0
+35408	http://outdoornebraska.ne.gov/	Game & Parks Commission	2010.0	709.0
+35409	http://www.piercenebraska.com/	Pierce	2002.0	10.0
+35410	http://www.cio.nebraska.gov/network_serv/	Communications, Division of	2008.0	2.0
+35412	http://www.hitchcockcounty.ne.gov/	Hitchcock	2013.0	4.0
+35414	http://libraries.ne.gov/bluehill/	Blue Hill Public Library	2010.0	110.0
+35415	http://www.chappellne.org/	Chappell	2007.0	74.0
+35416	http://www.buffalogov.org/	Buffalo	2000.0	478.0
+35417	http://www.cityofalliance.net/	Alliance	2001.0	1118.0
+35419	http://www.southbendnebraska.com/village/village.htm	South Bend	2003.0	50.0
+35420	http://www.gardnerpubliclibrary.com/	Gardner Public Library	2006.0	391.0
+35423	http://www.northeast.edu/	Northeast Community College	2008.0	641.0
+35424	http://www.nscs.edu/	College System, Nebraska State	1998.0	55.0
+35427	http://www.sorghum.nebraska.gov/	Grain Sorghum Board, Nebraska	2014.0	1.0
+35428	http://www.springview-ne.com/	Springview	2007.0	14.0
+35429	http://nelighlib.org	Neligh Public Library	2004.0	7.0
+35430	http://www.buttenebraska.com/	Butte	2005.0	1.0
+35431	http://www.gardencountyschools.org/	Garden County High School	2007.0	1211.0
+35432	http://www.beatrice.ne.gov/library/	Beatrice Public Library	2005.0	10.0
+35433	http://libraries.ne.gov/superior/	Superior Public Library	2010.0	83.0
+35434	http://www.ci.newman-grove.ne.us/	Newman Grove	1997.0	9.0
+35435	http://www.visitnebraska.com/	Travel & Tourism	1998.0	97.0
+35437	http://nebraskaracingcommission.com/	Racing Commission, Nebraska State	2011.0	16.0
+35438	http://www.cityofsutton.org/	Sutton	2001.0	62.0
+35440	http://www.nbels.nebraska.gov/	Land Surveyors, Board of Examiners	2011.0	30.0
+35441	http://www.sedhd.org/	Southeast District Health Department	2008.0	16.0
+35442	http://www.brokenbowlibrary.net/	Broken Bow Public Library	2004.0	15.0
+35443	http://www.piercepubliclibrary.org	Lied Pierce Public Library	2001.0	15.0
+35444	http://www.co.jefferson.ne.us/	Jefferson	2003.0	81.0
+35445	http://www.co.gosper.ne.us/	Gosper	2003.0	4.0
+35447	http://libraries.ne.gov/franklin/	Franklin Public Library	2012.0	24.0
+35449	http://cityofbennington.wordpress.com	Bennington	2007.0	44.0
+35450	http://libraries.ne.gov/hayescenter/	Hayes Center Public Library	0.0	40.0
+35451	http://budget.nebraska.gov	Budget Division	2012.0	25.0
+35452	http://www.vr.ne.gov/index.html	Vocational Rehabilitation	2009.0	42.0
+35453	http://www.selsne.org/	Southeast Library System	2007.0	16.0
+35454	http://www.co.cherry.ne.us/	Cherry	2003.0	82.0
+35455	http://www.ndbf.ne.gov/	Banking & Finance, Department of	2008.0	59.0
+35456	http://www.centura.k12.ne.us/hs.html	Centura Secondary School	2003.0	48.0
+35457	http://www.ci.exeter.ne.us/	Exeter	2000.0	9.0
+35459	http://libraries.ne.gov/pilgerlibrary/	Pilger Public Library	2010.0	38.0
+35460	https://wymore.biblionix.com/atoz/catalog/	Wymore Public Library	2012.0	0.0
+35461	http://www.dodgecounty.ne.gov/	Dodge	2003.0	85.0
+35463	http://www.beatricepublicschools.org/vnews/display.v/sec/beatrice	Beatrice High School	2004.0	353.0
+35465	http://www.ci.alda.ne.us/	Alda	1996.0	8.0
+35466	http://www.hayescounty.ne.gov	Hayes	2007.0	4.0
+35467	http://www.citywaverly.com/	Waverly	2001.0	4992.0
+35468	http://www.nitc.ne.gov/	Information Technology Commission, Nebraska	2007.0	7.0
+35469	http://www.scottsbluffcounty.org/	Scotts Bluff	2001.0	4.0
+35470	http://www.ainsworthlinks.com/	Ainsworth	2003.0	1.0
+35471	http://www.wcc.ne.gov/	Workers' Compensation Court	0.0	3.0
+35474	http://centerforthebook.nebraska.gov/	Nebraska Center For The Book	2010.0	9.0
+35475	http://www.boystown.org/	Boys Town	1997.0	691.0
+35476	http://www.crete-ne.com/	Crete	2002.0	297.0
+35477	http://www.treasurer.org	Treasurer, State	1998.0	168.0
+35478	http://www.yorkcounty.ne.gov/	York	2003.0	4.0
+35479	http://www.dawsoncountyne.net/	Dawson	2001.0	67.0
+35480	http://hampton-ne.com/	Hampton	2006.0	106.0
+35481	http://libraries.ne.gov/gibbon/	Gibbon Public Library	2012.0	55.0
+35482	http://neded.org/business/existing-business/manufacturing-assistance	Manufacturing Extension Partnership	2011.0	55.0
+35484	https://www.google.com/a/gips.org/ServiceLogin2?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fgips.org&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fgips.org&service=jotspot&passive=true&ul=1	Grand Island Senior High School	0.0	6.0
+35485	http://www.lincoln.ne.gov/city/health/	Lincoln-Lancaster County Health Department	2004.0	97.0
+35486	http://npers.ne.gov/SelfService/	Retirement Systems, Public Employees	2013.0	18.0
+35488	http://www.nnphd.org/	Northeast Nebraska Public Health Department	2005.0	106.0
+35490	http://www.polkcounty.ne.gov/	Polk	2004.0	101.0
+35491	http://www.sutherland.k12.ne.us/	Sutherland High School	2008.0	0.0
+35492	http://libraries.ne.gov/rvls/	Republican Valley Library System	2010.0	208.0
+35493	http://www.sargentne.com	Sargent	2009.0	168.0
+35494	http://www.hartingtonpublibrary.org	Hartington Public Library	2003.0	195.0
+35496	http://www.bluehillschools.org/	Blue Hill High School	2004.0	921.0
+35497	http://creighton.esu1.org/	Creighton Community High School	2001.0	64.0
+35498	http://rlibrary.org/	Lied Randolph Public Library	2007.0	748.0
+35499	http://tiger.rchs.esu17.k12.ne.us/	Rock County High School	1999.0	1.0
+35500	http://libraries.ne.gov/plainview/	Plainview Carnegie Library	2012.0	235.0
+35501	http://www.indianaffairs.state.ne.us/	Indian Affairs, Nebraska Commission on	2002.0	705.0
+35502	http://www.bbps.org/	Broken Bow High School	2000.0	236.0
+35504	http://www.co.valley.ne.us/	Valley	2003.0	97.0
+35507	http://www.creekvalleystorm.com/hs/hsindex.html	Creek Valley High School	2005.0	20.0
+35508	http://www.auditors.nebraska.gov	Auditor of Public Accounts	2011.0	7.0
+35509	http://nitc.nebraska.gov/gis_council/	GIS Steering Committee	2013.0	103.0
+35510	http://www.landarch.state.ne.us/	Landscape Architects, Nebraska State Board of	2001.0	18.0
+35511	http://lsw.lps.org/	Southwest High School	2001.0	165.0
+35512	http://www.milford-ne.com/	Milford	2001.0	3.0
+35513	http://sheltonlibraryne.booksys.net/opac/stl/	Shelton Township Library	0.0	4.0
+35514	http://www.cassne.org/	Cass	2001.0	20.0
+35516	http://www.megavision.net/sepl/index.htm	Saint Edward Public Library	2002.0	10.0
+35518	https://deshler.biblionix.com/atoz/catalog/	Deshler Public Library	2012.0	0.0
+35519	http://www.almalibrary.com/	Hoesch Memorial Library	2002.0	10.0
+35520	http://www.ci.shelby.ne.us/	Shelby	1998.0	18.0
+35522	http://www.deshlerchamber.org/	Deshler	2013.0	19.0
+35523	http://www.powerreview.nebraska.gov/	Power Review Board	2010.0	23.0
+35524	http://valentinelibrary.org	Valentine Public Library	2007.0	26.0
+35525	http://www.ci.clarkson.ne.us/	Clarkson	2000.0	9.0
+35527	http://www.douglascountyhealth.com/	Douglas County Health Department	2006.0	300.0
+35528	http://das.nebraska.gov/risk/	Risk Management	2012.0	21.0
+35529	http://www.elwoodnebraska.com/	Elwood	2005.0	18.0
+35530	https://burkley.biblionix.com/atoz/catalog/	Bob Wauneta Burkley Library Resource Center	2012.0	0.0
+35531	http://www.coleridge-ne.com/	Coleridge	2001.0	10.0
+35532	http://www.douglascounty-ne.gov/	Douglas	2008.0	300.0
+35533	http://www.ne-ethanol.org/	Ethanol Board, Nebraska	2001.0	213.0
+35534	http://www.nctc.net/nlpl/	North Loup Township Library	2012.0	1.0
+35535	http://www.cdhd.ne.gov/	Central District Health Department	2006.0	918.0
+35536	http://www.deq.state.ne.us/	Environmental Quality, Department of	1998.0	5.0
+35537	http://www.ogallala-ne.gov/	Ogallala	2003.0	82.0
+35538	http://www.co.keith.ne.us/	Keith	2002.0	52.0
+35539	http://www.staterecordsboard.nebraska.gov/	Records Board, State	2014.0	7.0
+35540	http://edge.ne.gov/	Nebraska Information System	0.0	2.0
+35543	http://www.co.antelope.ne.us/	Antelope	2002.0	89.0
+35545	http://supremecourt.ne.gov/	Judicial Branch, Nebraska	2007.0	6271.0
+35546	http://cozadnebraska.net/	Cozad	2006.0	25.0
+35547	http://www.cityofnelson.com/	Nelson	2007.0	10.0
+35548	http://www.nebraska.edu	University of Nebraska Central Administration	2002.0	555.0
+35549	http://www.apseagles.org/	Arlington High School	2008.0	252.0
+35550	http://www.wcdhd.org/	West Central District Health Department	2004.0	26.0
+35551	http://www.cerescolibrary.org	Ceresco Community Library	2011.0	1.0
+35552	http://www.gretnapubliclibrary.org	Gretna Public Library	2004.0	776.0
+35555	http://www.ordnebraska.com/	Ord	2007.0	153.0
+35556	http://libraries.ne.gov/morrill/	Morrill Public Library	2012.0	77.0
+35557	http://lakeview.esu7.org/	Lakeview High School	2001.0	527.0
+35558	http://www.thayercounty.ne.gov/	Thayer	2003.0	41.0
+35559	http://www.dillerodell.org/	Diller-odell Secondary School	2004.0	681.0
+35560	http://www.mccneb.edu/index.asp	Metropolitan Community College	2001.0	1040.0
+35561	http://www.wahoo.ne.us/	Wahoo	1997.0	345.0
+35562	http://www.yorklib.org	Kilgore Memorial Library	2003.0	362.0
+35563	http://www.sheridancountynebraska.com/	Sheridan	2007.0	31.0
+35564	http://dnr.ne.gov	Natural Resources, Department of	2006.0	3711.0
+35565	http://www.cedarcreeknebraska.com/	Cedar Creek	2001.0	32.0
+35566	http://www.heartlandschools.org/	Heartland Community High School	2003.0	978.0
+35567	http://das.nebraska.gov/accounting/	Accounting Division	2012.0	13.0
+35568	http://fairburyne.org/	Fairbury	2007.0	130.0
+35569	http://www.unl.edu/	University of Nebraska - Lincoln	1997.0	1055.0
+35570	http://www.co.chase.ne.us/	Chase	2003.0	79.0
+35571	http://www.wakefieldschools.org/vnews/display.v/sec/high	Wakefield High School	2003.0	62.0
+35572	http://www.stanton.net/	Stanton	1998.0	22.0
+35573	http://libraries.ne.gov/schuyler/	Schuyler Public Library	2012.0	79.0
+35574	http://www.co.nance.ne.us/	Nance	2002.0	3.0
+35575	http://www.ci.gordon.ne.us/	Gordon	1997.0	11.0
+35576	http://libraries.ne.gov/mls/	Meridian Library System	2012.0	164.0
+35578	http://www.greeleycounty.ne.gov/	Greeley	2008.0	4.0
+35579	http://www.bancroftnebraska.org/	Bancroft	2007.0	25.0
+35580	http://www.cityofmccook.com/	McCook	2001.0	672.0
+35581	http://www.wsc.edu	Wayne State College	1997.0	1081.0
+35582	http://libraries.ne.gov/madison/	Madison Public Library	2012.0	55.0
+35584	http://www.co.rock.ne.us/	Bassett	1996.0	5.0
+35585	http://hshawks.com/	Hay Springs High School	2002.0	1433.0
+35587	http://www.nemahacounty.ne.gov/	Nemaha	2005.0	3.0
+35588	http://www.ci.north-platte.ne.us/library/	North Platte Public Library	2002.0	28.0
+35589	http://capitol.org/	Capitol Commission, Office of the	2000.0	131.0
+35590	http://www.nema.ne.gov/	(NEMA) Emergency Management Agency, Nebraska	2005.0	33.0
+35591	http://www.thomascountynebraska.us	Thomas	2009.0	3.0
+35592	http://www.justtheplacenebraska.com	Holdrege	2009.0	160.0
+35593	http://www.nda.nebraska.gov/	Agriculture, Department of	2013.0	37.0
+35595	http://www.ncir.ne.gov/	Industrial Relations, Commission of	2006.0	64.0
+35596	http://davidcitylibrary.com/drupal/	Hruska Memorial Public Library	2011.0	292.0
+35597	http://www.fremontne.gov/index.aspx?NID=26	Keene Memorial Library	2009.0	555.0
+35598	http://www.cityofleigh.com/	Leigh	2003.0	9.0
+35599	http://www.dakotacountyne.org/	Dakota	2004.0	4.0
+35601	http://www.corrections.nebraska.gov/	Correctional Services, Department of	2010.0	88.0
+35602	http://cumingcounty.ne.gov/	Cuming	2012.0	107.0
+35603	http://ci.fairmont.ne.us/	Fairmont	1997.0	1.0
+35605	http://www.saunderscounty.ne.gov/	Saunders	2005.0	4.0
+35607	http://library.cc-ne.net/	Central City Public Library	2006.0	1.0
+35608	http://dhhs.ne.gov/Pages/default.aspx	Health & Human Services	2011.0	2375.0
+35609	http://www.giltnerne.com/	Giltner	2006.0	11.0
+35610	http://benlib.wordpress.com/	Bennington Public Library	2007.0	40.0
+35611	http://www.franklinnebraska.com/	Franklin	2002.0	26.0
+35612	http://www.cambridgene.org/	Cambridge	2001.0	101.0
+35613	http://www.chadronschools.org/	Chadron High School	2003.0	649.0
+35614	http://www.vhs.esu17.org/	Valentine Rural High School	2005.0	59.0
+35615	http://www.ccpe.state.ne.us/PublicDoc/CCPE/	Post Secondary Education, Coordinating Commission for	2000.0	43.0
+35616	http://www.ci.oakland.ne.us/	Oakland	1996.0	13.0
+35617	http://www.grantnebraska.com/library.shtml	Hastings Memorial Library	2010.0	3.0
+35618	http://www.csc.edu/	Chadron State College	1996.0	1798.0
+35619	http://www.sterlingjets.org/vnews/display.v/sec/high	Sterling High School	2010.0	71.0
+35620	http://www.cityofoneill.com/	O'Neill	2002.0	50.0
+35621	http://www.co.hooker.ne.us/	Hooker	2003.0	75.0
+35622	http://www.doi.nebraska.gov/	Insurance, Department of	2013.0	7.0
+35623	http://www.trphd.org/	Two Rivers Public Health Department	2013.0	296.0
+35625	http://www.arcadiane.com/	Arcadia	2003.0	250.0
+35626	http://www.cio.nebraska.gov/	Information Management Services	2008.0	48.0
+35628	http://www.peru.edu	Peru State College	1997.0	3.0
+35629	http://www.plainviewschools.org/vnews/display.v/sec/jr./sr.	Plainview Secondary School	2011.0	5.0
+35630	http://www.loupbasinhealth.com/	Loup Basin Public Health Department	2004.0	27.0
+35631	http://www.benningtonschools.org/	Bennington Secondary School	0.0	151.0
+35632	http://das.nebraska.gov/	Administrative Services, Department of	2012.0	60.0
+35633	http://genevalibrary.com/	Geneva Public Library	2007.0	3.0
+35634	http://www.oakland-library.blogspot.com/	Oakland Public Library	2011.0	223.0
+35635	http://www.veterans.nebraska.gov/	Veterans' Affairs, Department of	2009.0	42.0
+35636	http://www.co.red-willow.ne.us/	Red Willow	2003.0	37.0
+35637	http://www.serve.nebraska.gov/	ServeNebraska	2008.0	3.0
+35638	http://www.gi.lib.ne.us	Grand Island Public Library	1998.0	736.0
+35639	http://www.southsiouxcity.org/department/?structureid=10	South Sioux City Public Library	2013.0	67.0
+35641	http://www.co.washington.ne.us/	Washington	2003.0	5.0
+35642	http://www.bluehillne.com/	Blue Hill	2002.0	10.0
+35643	http://libraries.ne.gov/sutton/	Sutton Memorial Library	2010.0	23.0
+35644	http://www.weepingwaternebraska.com/	Weeping Water	2002.0	1406.0
+35647	http://www.co.keya-paha.ne.us/	Keya Paha	2003.0	81.0
+35648	http://www.environmentaltrust.org/	Environmental Trust, Nebraska	2000.0	2.0
+35649	http://www.ci.genoa.ne.us/	Genoa	1997.0	9.0
+35651	http://www.dol.nebraska.gov	Labor, Department of	2009.0	426.0
+35653	http://libraries.ne.gov/alliance/	Alliance Public Library	2010.0	480.0
+35655	http://www.proudtobuy.nebraska.gov/	Agricultural Trade Office, Nebraska	2010.0	6.0
+35658	http://www.arnoldne.org/	Arnold	2008.0	154.0
+35660	http://www.sso.nebraska.gov/	Surveyor, State	2010.0	8.0
+35661	http://museum.unl.edu/	University of Nebraska - State Museum	1997.0	4.0
+35662	http://www.loupcity.org/	Loup City	2002.0	9.0
+35663	http://lne.lps.org/	Lincoln Northeast High School	1999.0	65.0
+35664	http://www.pardons.state.ne.us/	Pardons, Board of	2001.0	11.0
+35665	http://www.czechlibrary.org/	Dvoracek Memorial Library	2011.0	19.0
+35667	http://www.tildenlibrary.org	Raymond A. Whitwer Tilden Public Library	2002.0	2.0
+35668	http://www.northbendlibrary.com	North Bend Public Library	2003.0	70.0
+35669	http://www.unmc.edu/	University of Nebraska Medical Center	1996.0	513.0
+35671	http://ecdhd.ne.gov/	East Central District Health Department	2013.0	53.0
+35672	http://www.aero.nebraska.gov/	Aeronautics, Department of	2013.0	23.0
+35676	http://www.cityofsewardne.com/	Seward	2001.0	24.0
+35677	http://www.emersonhubbardschools.org/	Emerson-hubbard High School	2004.0	677.0
+35680	http://libraries.ne.gov/hooper/	Hooper Public Library	2010.0	120.0
+35681	http://www.sarpycasshealthdepartment.org/	Sarpy/Cass Department of Health and Wellness	2009.0	21.0
+35683	http://www.fairburyjeffs.org/	Fairbury High School	2001.0	920.0
+35684	http://www.bannercounty-gov.us/	Banner	2007.0	62.0
+35685	http://www.wahooschools.org/vnews/display.v/art/4372ba1406638	Wahoo High School	2006.0	16.0
+35686	http://www.thayercentral.org/	Thayer Central High School	2004.0	963.0
+35687	http://www.nebraska.gov/index.html	State Government	2001.0	231.0
+35689	http://www.springfieldnelibrary.com	Springfield Memorial Library	0.0	2.0
+35692	http://www.osmondlibrary.com	Osmond Public Library	0.0	20.0
+35693	http://www.fillmorecounty.org/	Fillmore	2001.0	4.0
+35694	http://www.co.webster.ne.us/	Webster	2003.0	36.0
+35695	http://www.bbr.unl.edu/	Business Research, Bureau of	1998.0	20.0
+35696	http://www.mitchellcity.net/library.htm	Mitchell Public Library	2002.0	13.0
+35697	http://www.alicemfarr.org	Alice M Farr Library	2011.0	1.0
+35698	http://www.columbusne.us/	Columbus	2004.0	811.0
+35699	https://pawnee.biblionix.com/atoz/catalog/	Pawnee City Public Library	2012.0	0.0
+35700	http://elvphd.org/	Elkhorn Logan Valley Public Health Department	2007.0	194.0
+35702	http://www.fcro.nebraska.gov	Foster Care Review Office	2012.0	16.0
+35703	http://www.nelottery.com/	Lottery, Nebraska	1996.0	190.0
+35704	http://www.creteschools.com/vnews/display.v/sec/high	Crete High School	2003.0	121.0
+35705	http://www.albionlibraryonline.org/	Albion Public Library	2011.0	7.0
+35706	http://www.crete-ne.gov/index.aspx?NID=41	Crete Public Library	2009.0	281.0
+35707	http://diller-ne.com/	Diller	2000.0	35.0
+35708	http://libraries.ne.gov/bartley/	Bartley Public Library	2010.0	35.0
+35709	http://www.plattecounty.net/	Platte	2002.0	79.0
+35710	http://www.geringlibrary.org	Gering Public Library	2003.0	8.0
+35711	http://www.newmangrovelibrary.org/	Newman Grove Public Library	2008.0	33.0
+35712	http://wausaweb.esu1.org/	Wausa High School	2001.0	50.0
+35713	http://www.nppc.nebraska.gov/	Professional Practices Commission	2011.0	27.0
+35714	http://www.gretnane.org/	Gretna	2010.0	123.0
+35716	http://www.terc.ne.gov/	Tax Equalization & Review Commission	2003.0	61.0
+35718	http://www.co.sherman.ne.us/	Sherman	2003.0	74.0
+35719	http://www.dakotacity.net/	Dakota City	2001.0	11.0
+35720	http://www.nogcc.ne.gov	Oil and Gas Conservation Commission, Nebraska	2003.0	23.0
+35721	http://www.swhealth.ne.gov/	Southwest Nebraska Public Health Department	2012.0	3.0
+35722	http://www.lcc.nebraska.gov/	Liquor Control Commission	2013.0	68.0
+35724	http://rockcountynebraska.org/	Rock	2013.0	30.0
+35725	http://www.unomaha.edu	University of Nebraska at Omaha	1996.0	933.0
+35726	http://www.burtcounty.ne.gov/	Burt	2005.0	37.0
+35727	http://www.grand-island.com/	Grand Island	1999.0	3540.0
+35728	http://www2.connectseward.org/cgov/	Seward	2002.0	33.0
+35729	http://www.furnascounty.ne.gov/	Furnas	2007.0	89.0
+35730	http://libraries.ne.gov/mccook//	Mccook Public Library	2013.0	61.0
+35731	http://www.lincolnlibraries.org	Lincoln City Libraries	2004.0	3060.0
+35732	http://www.neoc.ne.gov/	Equal Opportunity Commission	2004.0	42.0
+35734	http://www.wilsonpubliclibrary.com/	Wilson Public Library	2011.0	20.0
+35735	http://www.cityoflyons.net/?page_id=9	Lyons Public Library	2009.0	85.0
+35736	http://www.co.frontier.ne.us/	Frontier	2003.0	96.0
+35737	http://www.newman.esu8.org/	Newman Grove High School	2002.0	1335.0
+35738	http://lns.lps.org/	North Star High School	2002.0	390.0
+35739	http://www.weepingwaterps.org/	Weeping Water High School	2004.0	504.0
+35740	http://www.megavision.net/crpl/	Cedar Rapids Public Library	2002.0	9.0
+35741	http://www.holdregelibrary.org	Holdrege Area Public Library	2004.0	1.0
+35742	http://www.stromsburgnebraska.com/	Stromsburg	2001.0	74.0
+35743	http://www.ci.gothenburg.ne.us/	Gothenburg	1996.0	55.0
+35745	http://www.lawrence-ne.com/	Lawrence	2008.0	11.0
+35747	http://www.bellevue.net/	Bellevue	1998.0	1205.0
+35748	http://www.ashland-ne.com/library.html	Ashland Public Library	2008.0	35.0
+35749	http://www.northbendne.org/	North Bend	2002.0	163.0
+35750	http://www.fremontne.gov/	Fremont	2008.0	642.0
+35753	http://www.milfordpublicschools.org/vnews/display.v/sec/high	Milford High School	2003.0	104.0
+35755	http://www.ci.big-springs.ne.us/	Big Springs	1998.0	8.0
+35756	http://www.ci.petersburg.ne.us/	Petersburg	1999.0	25.0
+35757	http://www.humphreylibrary.com	Humphrey Public Library	2004.0	10.0
+35758	http://www.neatp.org	Transportation Providers, Nebraska Association of	2007.0	259.0
+35759	http://www.crofton-nebraska.com/web/	Crofton	2010.0	407.0
+35760	http://www.revenue.nebraska.gov/	Revenue, Nebraska Department of	2013.0	1860.0
+35761	http://schuylernebraska.net/	Schuyler	2008.0	254.0
+35762	http://www.ashland-ne.com/	Ashland	2000.0	35.0
+35763	http://libraries.ne.gov/paxton/	Paxton Public Library	0.0	13.0
+35764	http://pleasanton.k12.ne.us/	Pleasanton High School	2006.0	1.0
+35765	http://edn.ne.gov/cms/	Early Childhood Development	2013.0	129.0
+35766	http://www.ci.friend.ne.us/	Friend	2001.0	14.0
+35767	http://netnebraska.org/	Educational Telecommunications Commission	2005.0	4056.0
+35768	http://www.co.dawes.ne.us/	Dawes	2003.0	83.0
+35769	http://auburn.ne.gov/	Auburn	2006.0	244.0
+35770	http://www.nic.ne.gov/	Investment Council	0.0	20.0
+35771	http://www.plattsmouth.org/	Plattsmouth	2001.0	104.0
+35772	http://www.education.ne.gov/	Education, Department of	2010.0	1375.0
+35773	http://ne.ng.mil/Pages/Default.aspx	National Guard, Nebraska	2010.0	76.0
+35774	http://www.columbusne.us/index.aspx?nid=118	Columbus Public Library	2013.0	663.0
+35775	http://www.ncc.ne.gov	Criminal Justice, Commission on Law Enforcement and	2006.0	85.0
+35777	http://www.nema.nebraska.gov/	Emergency Management Agency, Nebraska	2009.0	147.0
+35778	http://libraries.ne.gov/claycenter/	Clay Center Public Library	2013.0	34.0
+35779	http://www.ci.howells.ne.us/	Howells	1998.0	71.0
+35780	http://www.cityofbport.com/	Bridgeport	2008.0	58.0
+35781	http://www.sfm.ne.gov/	Fire Marshal, State	2005.0	137.0
+35782	http://libraries.ne.gov/blair/	Blair Public Library	2014.0	423.0
+35783	http://www.cityofalbion-ne.com/	Albion	2007.0	226.0
+35784	http://www.co.perkins.ne.us/	Perkins	2002.0	42.0
+35785	http://www.co.boone.ne.us/	Boone	2002.0	48.0
+35786	http://www.parole.state.ne.us/	Parole, Board of	2001.0	10.0
+35787	http://libraries.ne.gov/dodge/	John Rogers Memorial Library	2012.0	503.0
+35788	http://www.npsne.org/nhs/index.htm	Norfolk Senior High School	2002.0	0.0
+35790	http://www.ci.west-point.ne.us/	West Point	2000.0	71.0
+35791	http://www.blainecounty.ne.gov	Blaine	2005.0	87.0
+35792	http://www.ci.hemingford.ne.us/	Hemingford	1998.0	35.0
+35793	http://www.curtis-ne.com/	Curtis	1997.0	72.0
+35794	http://www.co.otoe.ne.us/	Otoe	2001.0	68.0
+35795	http://www.gering.org/	Gering	1998.0	13.0
+35796	http://libraries.ne.gov/kimball/	Kimball Public Library	2010.0	416.0
+35798	http://morton-jamespubliclibrary.com	Morton-James Public Library	2003.0	868.0
+35799	http://www.pphd.org/	Panhandle Public Health District	2004.0	102.0
+35800	http://www.ci.norfolk.ne.us/library/	Norfolk Public Library	2000.0	14.0
+35801	http://www.bridgeportschools.org/	Bridgeport High School	2005.0	789.0
+35802	http://www.neo.ne.gov	Energy Office, Nebraska	2006.0	1674.0
+35803	http://www.co.stanton.ne.us/	Stanton	2002.0	89.0
+35804	http://www.taylornebraska.com/	Taylor	2001.0	30.0
+35805	http://www.dodgepublicschools.org/	Dodge High School	2006.0	5.0
+35806	http://www.cityofaurora.org/	Aurora	2000.0	380.0
+35807	http://www.fourcorners.ne.gov/	Four Corners Health Department	2008.0	51.0
+35809	http://www.stpaulnebraska.com/	St Paul	2000.0	26.0
+35813	http://libraries.ne.gov/arthur/	Arthur County Library	2012.0	102.0
+35816	http://www.co.pawnee.ne.us/	Pawnee	2003.0	41.0
+35817	http://www.ncca.ne.gov/	Nebraska Community College Association	2011.0	25.0
+35819	http://www.ci.silver-creek.ne.us/	Silver Creek	1998.0	9.0
+35822	http://ccc.nebraska.gov/	Community Corrections Council	2009.0	35.0
+35823	http://www.sdhd.org/	Sandhills District Health Department & Clinic	2006.0	1.0
+35824	http://www.wncc.net	Western Nebraska Community College	1999.0	713.0
+35825	http://libraries.ne.gov/valparaiso/	Valparaiso Public Library	2012.0	1128.0
+35826	http://nebraskadrybean.com/	Dry Bean Commission	1999.0	23.0
+35827	http://bertrand.k12.ne.us/	Bertrand High School	2009.0	44.0
+35828	http://www.sewardlibrary.org	Seward Memorial Library	2004.0	57.0
+35829	http://rushvillelibrary.org/	Rushville Public Library	2011.0	0.0
+35831	http://www.unionnebraska.com/	Union	2003.0	207.0
+35833	http://www.wplibrary.com	John A Stahl Library	2002.0	1229.0
+35834	http://www.co.cedar.ne.us/	Cedar	2002.0	33.0
+35835	http://www.thurstoncountynebraska.us	Thurston	2008.0	31.0
+35837	http://www.transportation.nebraska.gov	Roads, Nebraska Department of	2008.0	135.0
+35838	http://www.laurelne.com/	Laurel	2001.0	253.0
+35839	http://www.ci.beemer.ne.us/	Beemer	2000.0	9.0
+35840	http://www.co.sioux.ne.us/	Sioux	2003.0	31.0
+35841	http://www.scs-ne.org/	Stanton High School	2006.0	605.0
+35842	http://belf.nebraska.gov/	Educational Lands & Funds, Board of	2011.0	246.0
+35843	http://das.nebraska.gov/building/	Building Division, State	2012.0	44.0
+35844	http://www.scribnernebraska.com/	Scribner	2007.0	87.0
+35845	http://mps.mnhs.schoolfusion.us/	Millard North High School	2009.0	2103.0
+35846	http://das.nebraska.gov/309/	Building Renewal, Task Force for	2012.0	15.0
+35847	http://www.lincoln.ne.gov/	Lincoln	2003.0	15.0
+35848	http://www.co.dundy.ne.us/	Dundy	2003.0	86.0
+35849	http://www.ci.ponca.ne.us/	Ponca	1996.0	5.0
+35850	http://www.cccneb.edu/	Central Community College Area	1998.0	1294.0
+35851	http://www.hcgi.org/	Hall	2002.0	93.0
+35852	http://www.chadronpubliclibrary.com	Chadron Public Library	2006.0	185.0
+35853	http://das.nebraska.gov/emprel/	Employee Relations Division	2012.0	75.0
+35855	http://www.howardcounty.ne.gov	Howard	2005.0	49.0
+35856	http://www.battlecreeklibrary.org/	Lied Battle Creek Public Library	2002.0	7.0
+35857	http://www.sidney-nebraska.com/	Sidney	1998.0	1.0
+35859	http://www.ci.davenport.ne.us/	Davenport	2000.0	7.0
+35861	http://www.esu8.org/	O'neill High School	2000.0	237.0
+35862	http://www.merrickcounty.ne.gov/	Merrick	2006.0	56.0
+35863	http://www.nuckollscounty.ne.gov	Nuckolls	2004.0	44.0
+35864	http://ianrhome.unl.edu/home	Institute of Agriculture & Natural Resources	2007.0	137.0
+35865	http://www.stanton.net/library.html	Stanton Public Library	1999.0	26.0
+35867	http://www.papillion.org/	Papillion	2001.0	178.0
+35868	http://www.cityoflavista.org	La Vista	2008.0	895.0
+35869	http://cwater.esu8.org/	Clearwater High School	2002.0	88.0
+35870	http://www.co.johnson.ne.us/	Johnson	2003.0	84.0
+35872	http://www.barbers.nebraska.gov/	Barber Examiners, Board of	2014.0	3.0
+35874	http://www.co.custer.ne.us/	Custer	2003.0	45.0
+35875	http://libraries.ne.gov/bridgeport/	Bridgeport Public Library	2012.0	28.0
+35876	https://karlen.biblionix.com/atoz/catalog/?public=1	Karlen Memorial Library	2012.0	0.0
+35877	http://libraries.ne.gov/ponca/	Ponca Carnegie Library	2014.0	239.0
+35878	http://www.southsiouxcity.org/	South Sioux City	2002.0	1147.0
+35879	http://www.mpcc.edu/	Mid-Plains Community College	2003.0	743.0
+35880	http://www.almacity.com/	Alma	2001.0	38.0
+35881	http://www.fallscityonline.com/	Falls City	2006.0	299.0
+35882	http://www.tekamah.net/	Tekamah	2004.0	20.0
+35885	http://cityoflavista.org/index.aspx?nid=234	La Vista Public Library	2012.0	1252.0
+35886	http://www.orchardne.com/	Orchard	2001.0	9.0
+35887	http://libraries.ne.gov/rockcounty/	Rock County Public Library	2012.0	156.0
+35888	http://www.imperial-ne.com/	Imperial	2001.0	87.0
+35889	http://nebraskalegislature.gov/contact/email_form.php?to=802ea5a278fc007fd7c0024332efa1bd&subject=for%20citizens#802ea5a278fc007fd7c0024332efa1bd	Ombudsman (Public Counsel)	2013.0	6.0
+35890	http://www.littlepriest.edu/	Little Priest Tribal College (LPTC)	2010.0	130.0
+35892	http://link.nebraska.gov/	Payroll and Financial Center	2013.0	2.0
+35893	http://www.lancaster.ne.gov/	Lancaster	2004.0	959.0
+35894	http://www.cityofhenderson.org/	Henderson	2002.0	288.0
+35895	http://gordoncitylibrary.org/	Gordon City Library	2000.0	120.0
+35896	http://www.scottsbluffcounty.org/health-department/health-department.html	Scotts Bluff County Health Department	2010.0	9.0
+35897	http://www.governor.nebraska.gov/	Governor	2007.0	2862.0
+35899	http://www.statefair.org/fair/	Fair, Nebraska State	2008.0	71.0
+35900	http://www.neded.org/	Economic Development, Department of	1999.0	706.0
+35901	http://www.springfieldnebraska.com/	Springfield	2002.0	1681.0
+35902	http://www.nbc.ne.gov/	Brand Committee, Nebraska	2009.0	111.0
+35903	http://www.stuartne.com/	Stuart	2002.0	12.0
+35904	http://www.chadron-nebraska.com/	Chadron	2006.0	204.0
+35905	http://www2.connectseward.org/shs/shs_main.html	Seward High School	2001.0	37.0
+35906	http://www.wynotnebraska.com/	Wynot	2002.0	17.0
+35907	http://mvdealerbd.ne.gov/	Motor Vehicle Industry Licensing Board	2004.0	12.0
+35908	http://ordlibrary.org/	Ord Township Library	2007.0	8.0
+35909	http://www.ltgov.nebraska.gov/	Lieutenant Governor	2014.0	25.0
+35910	http://www.ci.wakefield.ne.us/	Wakefield	1996.0	301.0
+35912	http://libraries.ne.gov/imperial/	Lied Imperial Public Library	2012.0	133.0
+35913	http://atkinsonpubliclibrary.org	Atkinson Public Library	2003.0	1.0
+35914	http://libraries.ne.gov/meadowgrove/	Meadow Grove Public Library	2010.0	42.0
+35916	http://libraries.ne.gov/clarkson/	Clarkson Public Library	2010.0	41.0
+35917	http://www.bellevuelibrary.org/	Bellevue Public Library	2003.0	37.0
+35918	http://greenwoodnebraska.com/index.php?option=com_wrapper&view=wrapper&itemid=99	Greenwood Public Library	0.0	354.0
+35919	http://www.plshs.esu3.org/	Papillion-la Vista South High School	2003.0	0.0
+35920	http://bruunlibrary.org	Bruun Memorial Library	2010.0	7.0
+35922	http://www.sarpy.com/	Sarpy	1998.0	497.0
+35923	http://www.mitchellcity.net/	Mitchell	2002.0	13.0
+35924	http://www.kearneycounty.ne.gov/	Kearney	2003.0	42.0
+35925	http://www.psc.nebraska.gov/	Public Service Commission	2009.0	181.0
+35927	http://www.grapeandwineryboard.nebraska.gov/	Grape & Winery Board	2011.0	11.0
+35928	http://www.plhs.esu3.org/	Papillion La Vista High School	2000.0	2.0
+35929	http://libraries.ne.gov/hildreth/	Hildreth Public Library	2010.0	49.0
+35931	http://ralstonlibrary.org/	Baright Public Library	2010.0	18.0
+35933	http://www.nbpa.ne.gov/	Public Accountancy, Board of	2005.0	34.0
+35934	http://libraries.ne.gov/tekamah/	Tekamah Carnegie Public Library	2010.0	103.0
+35935	http://ehs.lps.org/	Lincoln East High School	2000.0	46.0
+35937	http://mps.mshs.schoolfusion.us/	Millard South High School	2009.0	13877.0
+35939	http://www.cityofkearney.org/	Kearney	2001.0	904.0
+35940	http://www.ncdhh.ne.gov/	Deaf & Hard of Hearing, Nebraska Commission for	2005.0	109.0
+35941	http://www.waynecountyne.org/	Wayne	2010.0	287.0
+35942	http://www.ncbvi.ne.gov/	Blind & Visually Impaired, Nebraska Commission for the	2005.0	154.0
+35943	http://www.cityofwayne.org/index.aspx?nid=82	Wayne Public Library	2011.0	576.0
+35944	https://www.southeast.edu/	Southeast Community College	2002.0	4785.0
+35946	http://www.co.saline.ne.us/	Saline	2003.0	65.0
+35947	http://davidcityne.com/	David City	2002.0	67.0
+35949	http://www.ci.york.ne.us/	York	1996.0	0.0
+35950	http://nebraskalegislature.gov/	Legislature, Nebraska Unicameral	2007.0	53977.0
+35951	http://www.wpcadets.org/	West Point-beemer Jr-sr High School	2002.0	6.0
+35952	http://www.co.loup.ne.us/	Loup	2003.0	34.0
+35954	http://www.southernschools.org/	Southern High School	2003.0	425.0
+35955	https://hebronsecrest.biblionix.com/atoz/catalog/?public=1	Hebron Secrest Library	2012.0	0.0
+35956	http://www.education.ne.gov/aded/	Adult Education	2011.0	5.0
+35957	http://www.croftonschools.org/	Crofton High School	2014.0	811.0
+35958	http://cityofkearney.org/index.aspx?NID=1475	Kearney Public Library	2013.0	928.0
+35959	http://www.ainsworthschools.org/	Ainsworth High School	2005.0	157.0
+35960	http://www.ncdhd.ne.gov/	North Central District Health Department	0.0	31.0
+35962	http://www.mccneb.edu	Metropolitan Community College Area	1996.0	1297.0
+35963	http://www.wymorebluesprings.com/	Blue Springs	2001.0	255.0
+35964	http://das.nebraska.gov/tsb/	Transportation Services Bureau	2012.0	28.0
+35965	http://blog.stpaul.k12.ne.us/library/	Saint Paul Public Library	0.0	0.0
+35966	http://www.adamscounty.org/	Adams	2000.0	43.0
+35969	http://www.nebraskahistory.org/	Historical Society, Nebraska State	1998.0	2362.0
+35970	http://www.revenue.nebraska.gov/PAD/	Property Assessment Division	2013.0	119.0
+35971	http://www.chappellne.org/library.htm	Chappell Memorial Library Art Gallery	2007.0	85.0
+35972	http://www.appraiser.ne.gov/	Real Estate Property Appraiser Board, Nebraska	2003.0	21.0
+35973	http://www.plainview-ne.com/	Plainview	2001.0	60.0
+35974	http://www.atp.ne.gov/	Assistive Technology Partnership	2007.0	22.0
+35976	http://www.hastings.lib.ne.us	Hastings Public Library	1998.0	426.0
+35977	http://www.ea.nebraska.gov/	Engineers & Architects, Board of	2014.0	37.0
+35978	http://www.elm.esu3.org/	Elmwood-murdock Jr-sr High School	0.0	137.0
+35979	http://www.arapahoe-ne.com/	Arapahoe	2001.0	116.0
+35980	http://www.electrical.nebraska.gov/	Electrical Division, State	2011.0	53.0
+35981	http://www.latinoac.nebraska.gov/	Latino American Commission	2010.0	10.0
+35982	http://www.co.dixon.ne.us/	Dixon	2002.0	44.0
+35983	http://lancaster.ne.gov/raymond/	Raymond	2011.0	13.0
+35984	http://supremecourt.ne.gov/probation/index.shtml	Probation Administration	2007.0	19.0
+35985	http://www.ci.decatur.ne.us/	Decatur	2000.0	11.0
+35989	http://www.nebraskacorn.org/	Corn Board, Nebraska	2001.0	558.0
+35990	http://www.arthurcounty.ne.gov/	Arthur	2012.0	46.0
+35991	http://www.neded.org/nebraska-film-office-home	Film Office	2011.0	729.0
+35992	http://www.ncpa.ne.gov/	Advocacy, Commission on Public	2006.0	1.0
+35993	http://www.sumplibrary.info	Sump Memorial Library	2003.0	1.0
+35994	http://www.stapleton-ne.com/	Stapleton	2002.0	88.0
+35995	http://www.co.butler.ne.us/	Butler	2003.0	34.0
+35996	http://www.neligh.org/	Neligh	2001.0	341.0
+35997	http://southheartlandhealth.org/	South Heartland District Health Department	2003.0	109.0
+35998	http://lhs.lps.org/	Lincoln High School	1999.0	79.0
+35999	http://www.co.hamilton.ne.us/	Hamilton	2001.0	32.0
+36000	http://arapahoe.k12.ne.us/	Arapahoe High School	2009.0	20.0
+36001	http://www.claycounty.ne.gov/	Clay	2004.0	49.0
+36003	http://nlc.nebraska.gov/	Library Commission	2011.0	3221.0
+36004	http://www.athcomm.state.ne.us/	Athletic Commission, State	2001.0	113.0
+36005	http://www.comstock-ne.com/	Comstock	2005.0	8.0
+36007	http://www.nebraskaartscouncil.org/	Nebraska Arts Council	1999.0	582.0
+36008	http://www.ops.org/high/benson/	Benson High School	2007.0	646.0
+36009	http://www.brownville-ne.com/	Brownville	2003.0	9.0
+36011	http://osmond.esu8.org/	Osmond High School	2002.0	73.0
+36013	http://www.co.box-butte.ne.us/	Box Butte	2003.0	81.0
+36016	http://www.co.cheyenne.ne.us/	Cheyenne	2001.0	28.0
+36017	http://www.ci.osceola.ne.us/	Osceola	1999.0	10.0
+36018	http://www.silverlakemustangs.org/	Silver Lake High School	2008.0	375.0
+36019	http://libraries.ne.gov/sargent/	Sargent Township Library	2013.0	76.0
+36020	http://libraries.ne.gov/shelby/	Shelby Public Library	2012.0	208.0
+36022	http://libraries.ne.gov/fairfield/	Fairfield Public Library	2012.0	83.0
+36023	http://www.garfieldcounty.ne.gov/	Garfield	2005.0	38.0
+36024	http://www.blairnebraska.org/	Blair	2000.0	15.0
+36025	http://www.colfaxne.com/	Colfax	2013.0	36.0
+36026	http://www.auburnmemoriallibrary.com	Auburn Memorial Library	2002.0	11.0
+36027	http://coleridge.esu1.org/	Coleridge High School	2001.0	31.0
+36028	http://www.co.pierce.ne.us/	Pierce	2001.0	41.0
+36029	http://www.hpspanthers.org/	Hershey High School	2008.0	693.0
+36031	http://www.goodallcitylibrary.com	Goodall City Library	2004.0	21.0
+36033	http://libraries.ne.gov/elmwood/	Elmwood Public Library	2013.0	144.0
+36034	https://neworks.nebraska.gov/vosnet/Default.aspx	Workforce Development	2013.0	25.0
+36035	http://www.ci.hartington.ne.us/	Hartington	1996.0	17.0
+36036	http://news.agps.org/vnews/display.v/sec/schools	Ashland-greenwood High School	2002.0	115.0
+36038	http://nfs.unl.edu/	Forest Service, Nebraska	2001.0	225.0
+36039	http://www.ci.norfolk.ne.us/	Norfolk	1999.0	110.0
+36040	http://gothenburg.k12.ne.us/juniorseniorhigh.htm	Gothenburg Secondary School	2006.0	121.0
+36041	http://www.nebraskacity.com/	Nebraska City	1996.0	194.0
+36042	http://libraries.ne.gov/gilbert/	Gilbert Public Library	2012.0	61.0
+36043	http://www.beatricenebraska.com/	Beatrice	2000.0	1331.0
+36044	http://www.co.deuel.ne.us/	Deuel	2002.0	76.0
+36045	http://www.co.franklin.ne.us/	Franklin	2003.0	47.0
+36046	http://www.penderschools.org/vnews/display.v/sec/jr-sr	Pender High School	2009.0	112.0
+36047	http://www.sos.ne.gov/	Secretary of State	2007.0	92.0
+36049	http://www.elsne.org/	Eastern Library System	2007.0	15.0
+36050	http://www.redcloudnebraska.com/	Red Cloud	2001.0	683.0
+36051	http://www.co.garden.ne.us/	Garden	2002.0	76.0
+36052	http://www.co.morrill.ne.us/	Morrill	2002.0	99.0
+36053	http://www.co.knox.ne.us/	Knox	2002.0	115.0
+36056	http://www.wmlmilford.org	Webermeier Memorial Library	2006.0	61.0
+36057	http://www.mccooljunction-ne.com/	McCool Junction	2007.0	245.0
+36060	http://www.geology.state.ne.us/	Geologists, Board of	2001.0	12.0
+36061	http://www.abe.state.ne.us/	Abstracters Board of Examiners	2002.0	8.0
+36064	http://www.cityofwayne.org/	Wayne	2009.0	595.0

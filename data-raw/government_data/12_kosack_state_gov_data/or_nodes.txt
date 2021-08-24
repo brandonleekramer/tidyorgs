@@ -1,0 +1,523 @@
+NodeId	NodeURL	NodeName	Year	pages
+47598	http://www.siuslawlibrary.org/home0.aspx	Mapleton Branch Library	2010.0	4.0
+47599	http://bay.cooslibraries.org	Coos Bay Public Library	2004.0	106.0
+47601	http://www.oregon.gov/OHLA/DEM/Pages/index.aspx	Midwifery, Board Of Direct Entry (OHLA)	2012.0	22.0
+47602	http://NewportOregon.gov/dept/lib/	Newport Public Library	2009.0	1.0
+47604	http://www.oregon.gov/ltco/Pages/index.aspx	Long Term Care Ombudsman	2012.0	26.0
+47605	http://www.oregon.gov/osp/sme/pages/index.aspx	State Medical Examiner (OSP)	2012.0	13.0
+47606	http://www.scottsmills.org	Scotts Mills	2009.0	28.0
+47607	http://www.oregon.gov/deq/Pages/index.aspx	Environmental Quality Dept	2012.0	28.0
+47608	http://www.ci.aurora.or.us	Aurora	2004.0	509.0
+47609	http://www.enterpriseoregon.org	Enterprise City Library	2006.0	535.0
+47610	http://www.sehs.lane.edu/	South Eugene High School	1998.0	2.0
+47611	http://www.wlhs.wlwv.k12.or.us/site/default.aspx?PageID=3070	West Linn High School	2013.0	59.0
+47612	http://www.ci.sweet-home.or.us	Sweet Home	2001.0	225.0
+47613	http://www.gervais.k12.or.us/	Gervais High School	2001.0	325.0
+47614	http://www.oregon.gov/oha/pharmacy/opdp/pages/index.aspx	Oregon Prescription Drug Program	2012.0	15.0
+47617	http://www.cityofsalem.net/Pages/default.aspx	Salem	2012.0	1076.0
+47618	http://www.ci.dayton.or.us	Mary Gilkey Public Library	2011.0	855.0
+47619	http://www.oregon.gov/aviation/Pages/index.aspx	Aviation Department	2012.0	140.0
+47621	http://www.oregon.gov/opds/Pages/index.aspx	Public Defense Services Commission	2012.0	39.0
+47622	http://www.wheelercounty-oregon.com/	Wheeler County	2003.0	7.0
+47623	http://www.wilsonvillelibrary.org	Wilsonville Public Library	2005.0	280.0
+47624	http://city.jeffersonoregon.us	Jefferson	2013.0	12.0
+47626	http://www.oregon.gov/oha/ophp/pages/index.aspx	Office of Private Health Partnerships	2012.0	10.0
+47627	http://cityofdepoebay.org	Depoe Bay	2011.0	91.0
+47628	http://www.tillamook.plinkit.org/	Pacific City Branch Library	0.0	1383.0
+47629	http://www.cityofprineville.com	Prineville	2001.0	627.0
+47630	http://www.kcsd.k12.or.us/SectionIndex.asp?SectionID=2	Henley High School	2009.0	1279.0
+47631	http://www.westonpubliclibrary.com/	Weston Public Library	2006.0	14.0
+47633	http://www.oregon.gov/bspa/pages/index.aspx	Speech-Language Pathology and Audiology	2013.0	37.0
+47635	http://www.damascusoregon.gov	Damascus	2012.0	358.0
+47638	http://www.beavertonlibrary.org	Beaverton City Library	2003.0	282.0
+47639	http://sos.oregon.gov/Pages/404.aspx	Elections Division (SOS)	2013.0	199.0
+47640	http://www.cityofstanfield.com	Stanfield	2005.0	315.0
+47641	http://www.vernonia.k12.or.us/?id=2801&isa=category&op=show	Vernonia High School	0.0	1421.0
+47644	http://www.historicsumpter.com	Sumpter	2003.0	25.0
+47645	http://library.ci.albany.or.us/	Carnegie Library	2001.0	3.0
+47646	http://www.oregon.gov/ohla/rtpt/pages/index.aspx	Respiratory Therapist Licensing Board (OHLA)	2012.0	23.0
+47648	http://www.greshamoregon.gov	Gresham	2008.0	1206.0
+47650	http://www.oregontrail.plinkit.org/	Heppner Branch Library	0.0	214.0
+47651	http://www.keizer.org	Keizer	1999.0	2.0
+47652	http://www.oregon.gov/obpe/pages/index.aspx	Psychologists Examiners Board	2012.0	26.0
+47653	http://www.newurban.org/	New Urban High School	2000.0	10.0
+47654	http://www.wasco.plinkit.org	The Dalles-Wasco County Library	0.0	1114.0
+47659	http://www.lincc.org	Molalla Public Library	0.0	841.0
+47660	http://www.ohsu.edu/xd/	Oregon Health & Science University	0.0	2020.0
+47661	http://www.oregon.gov/dcbs/insurance/SHIBA/Pages/shiba.aspx	Senior Health Insurance Benefits Assistance (DCBS)	2014.0	3.0
+47662	http://www.tbcc.cc.or.us/	Tillamook Bay Community College	1996.0	271.0
+47663	http://www.oregon.gov/omd/oem/pages/index.aspx	Oregon Emergency Management (OMD)	2012.0	103.0
+47664	http://www.oit.edu/	Oregon Institute of Technology	1998.0	1706.0
+47665	http://www.oregon.gov/lcd/Pages/index.aspx	Land Conservation/Develop Dept	2012.0	110.0
+47666	http://www.oregon.gov/lcb/Pages/index.aspx	Landscape Contractors Board	2012.0	28.0
+47667	http://www.ci.manzanita.or.us	Manzanita	2007.0	30.0
+47668	http://west.salkeiz.k12.or.us/index.htm	West Salem High School	2004.0	430.0
+47670	http://cityofmaywoodpark.com/	Maywood Park	2009.0	48.0
+47672	http://www.eou.edu/	Eastern Oregon University	1998.0	1016.0
+47673	http://union-county.org/	Union County	1999.0	83.0
+47674	http://www.co.clatsop.or.us/	Clatsop County	1999.0	1903.0
+47676	http://www.sthelens.plinkit.org/	St. Helens Public Library	0.0	856.0
+47677	http://www.donaldoregon.gov	Donald	2013.0	21.0
+47678	http://ci.scio.or.us	Scio	0.0	99.0
+47679	http://www.medford.k12.or.us/sectionindex.asp?sectionid=101	North Medford High School	2004.0	833.0
+47680	http://www.junctioncity.k12.or.us/jchs/	Junction City High School	2003.0	27.0
+47681	http://sprayoregon.us/	Spray	2003.0	46.0
+47682	http://www.co.columbia.or.us/	Columbia County	1998.0	457.0
+47684	http://www.oregon.gov/oisc/Pages/index.aspx	Invasive Species Council, Oregon	2012.0	123.0
+47685	https://www.newbergoregon.gov/library	Newberg Public Library	2009.0	3109.0
+47687	http://www.cityofroseburg.org	Roseburg	2007.0	342.0
+47688	http://www.lakecountyor.org/	Lake County	2002.0	215.0
+47689	http://www.scio.plinkit.org	Scio Public Library	0.0	288.0
+47692	http://www.crooklib.org	Crook County Library	1999.0	140.0
+47693	http://www.oregon.gov/das/pebb/pages/index.aspx	Public Employees' Benefit Board	2012.0	153.0
+47694	http://www.chetcolibrary.org	Chetco Community Public Library	0.0	1052.0
+47695	http://www.oregon.gov/das/Pages/index.aspx	Administrative Services Department	2012.0	89.0
+47696	http://www.sherman-county.com/	Sherman County	2003.0	75.0
+47697	http://www.warrentonschools.com/whs/viewtopic.php?t=3	Warrenton High School	0.0	6.0
+47698	http://www.esd108.org/highschool/	Estacada High School	2007.0	1179.0
+47699	http://www.elkton.k12.or.us/schools/elktonhighschool/tabid/1155/default.aspx	Elkton High School	2009.0	1.0
+47700	https://www.sdao.com/	Special Districts	1998.0	40.0
+47701	http://www.cityofmalin.org	Malin	0.0	35.0
+47702	http://www.nbhs.nbend.k12.or.us/	North Bend High School	2000.0	3.0
+47703	http://www.hoodriver.plinkit.org/	Cascade Locks Branch Library	0.0	689.0
+47704	http://www.oregon.gov/oha/ohpr/pages/index.aspx	Oregon Health Policy & Research (OHPR)	2012.0	53.0
+47705	http://www.newportoregon.gov	Newport	2009.0	452.0
+47707	http://www.cottagegrove.org	Cottage Grove	1998.0	92.0
+47709	http://www.oregon.gov/pages/index.aspx	State Government	2012.0	3760.0
+47710	http://www.jefferson.plinkit.org	Jefferson Public Library	0.0	353.0
+47711	http://www.schools.msd.k12.or.us/mhs/	Mcminnville High School	2010.0	48.0
+47712	http://www.jcls.org/	Central Point Branch Library	1998.0	171.0
+47713	http://www.oregon.gov/oha/ohpr/acpci/pages/index.aspx	Physician Credentialing (OHPR)	2012.0	11.0
+47715	http://www.coburgoregon.org	Coburg	2002.0	546.0
+47716	http://www.bend.k12.or.us/education/school/school.php?sectionid=92	Lapine Senior High School	2007.0	2.0
+47717	http://www.ci.st-helens.or.us	St. Helens	2000.0	291.0
+47718	http://sos.oregon.gov/pages/default.aspx	Secretary Of State	2013.0	276.0
+47720	http://www.grantspassoregon.gov	Grants Pass	0.0	1000.0
+47722	http://www.ci.woodburn.or.us	Woodburn	2001.0	626.0
+47723	http://www.amity.k12.or.us/	Amity High School	2001.0	254.0
+47724	http://www.oregon.gov/treasury/Pages/index.aspx	Treasurer, Oregon State	2012.0	2.0
+47725	http://www.oregon.gov/pers/Pages/index.aspx	Public Employees Retirement System	2012.0	128.0
+47726	http://www.oregon.gov/osl/Pages/index.aspx	Library, Oregon State	2012.0	32.0
+47727	http://www.ci.lafayette.or.us	Lafayette	2004.0	282.0
+47729	http://www.cbs.state.or.us/external/osha/	Oregon Occupational Safety And Health Division (DCBS)	1998.0	715.0
+47730	http://uoregon.edu/	University of Oregon	1997.0	44175.0
+47731	http://www.oregon.gov/osbeels/pages/index.aspx	Engineering And Land Surveying, Board Of Examiners For	2012.0	40.0
+47734	http://www.oregon.gov/racing/pages/index.aspx	Racing Commission	2012.0	30.0
+47735	http://www.co.crook.or.us/	Crook County	2002.0	484.0
+47736	http://www.oregon.gov/ocapia/Pages/index.aspx	Asian Affairs, Commission on	2012.0	11.0
+47737	http://www.brookings.or.us	Brookings	2001.0	503.0
+47739	http://www.ci.bandon.or.us	Bandon	2001.0	1308.0
+47740	http://www.shs.lane.edu/	Henry D Sheldon High School	1997.0	336.0
+47741	http://www.pioneer.lib.ok.us/home/purtop	Purcell Public Library	2011.0	1.0
+47742	http://www.astoria.or.us	Astoria	2000.0	463.0
+47744	http://www.nwpartnership.org/	Banks High School	2006.0	12.0
+47745	http://oregonpatientsafety.org/	Patient Safety Commission	2008.0	686.0
+47747	http://www.ontariooregon.org	Ontario	2002.0	80.0
+47748	http://www.doj.state.or.us/Pages/index.aspx	Justice Department	2012.0	1571.0
+47750	http://www.pendleton.plinkit.org	Pendleton Public Library	0.0	1027.0
+47752	https://www.bluecc.edu/	Blue Mountain Community College	2002.0	2960.0
+47753	http://www.pioneer.lib.ok.us/home/blatop	Blanchard Public Library	2011.0	91.0
+47754	http://www.bend.k12.or.us/education/school/school.php?sectionid=82	Bend High School	2007.0	2.0
+47755	http://www.harneyuh.k12.or.us/	Crane Union High School	2006.0	1759.0
+47756	http://www.oregon.gov/gov/Pages/index.aspx	Governor's Office	2012.0	49.0
+47759	http://www.cityofrogueriver.org	Rogue River	2011.0	1446.0
+47760	http://www.oregon.gov/oprd/pages/index.aspx	Parks and Recreation, Oregon	2012.0	141.0
+47761	http://www.cityofmyrtlecreek.com	Myrtle Creek	2009.0	82.0
+47762	http://www.lanecc.edu/	Lane Community College	1997.0	2727.0
+47763	http://www.unioncountylibraries.info	Elgin Public Library	2012.0	6.0
+47764	http://www.oregon.gov/women/pages/index.aspx	Women, Commission For	2012.0	11.0
+47765	http://www.oregon.gov/oah/Pages/index.aspx	Administrative Hearings, Office of	2012.0	16.0
+47766	http://www.albany.k12.or.us/sahs/	South Albany High School	2008.0	81.0
+47768	http://www.oregon.gov/oac/Pages/index.aspx	Advocacy, Oregon Commission	2012.0	9.0
+47769	http://www.oregon.gov/ccb/pages/index.aspx	Construction Contractors Board	2012.0	73.0
+47770	http://www.junctioncityoregon.gov	Junction City	2010.0	509.0
+47771	http://westlinnoregon.gov/	West Linn	2008.0	5325.0
+47772	http://www.cityofrufus.net	Rufus	2004.0	12.0
+47774	http://www.waldportlibrary.plinkit.org	Waldport Public Library	0.0	564.0
+47775	http://www.oregon.gov/odot/pages/index.aspx	Transportation Department	2012.0	32.0
+47776	http://www.oregon.gov/OHLA/HAS/Pages/index.aspx	Hearing Aids, Advisory Council on (OHLA)	2012.0	29.0
+47777	http://www.pioneer.lib.ok.us/home/nortop	Norman Public Library	2011.0	170.0
+47778	http://www.bethel.k12.or.us/	Kalapuya High School	1998.0	927.0
+47779	http://www.clackamas.us/lib/	Hoodland Branch Library	2004.0	12.0
+47780	http://www.ci.independence.or.us	Independence	2000.0	1824.0
+47781	http://mckayhs.org/	Mckay High School	2007.0	4.0
+47782	http://www.grassvalleyor.com	Grass Valley	0.0	0.0
+47783	http://oregonlottery.org/	Lottery, Oregon State	1998.0	648.0
+47784	http://ci.klamath-falls.or.us/	Klamath Falls	2000.0	190.0
+47785	http://www.oregon.gov/prb/pages/about_us.aspx	Psychiatric Security Review Board	2013.0	9.0
+47787	http://www.oaklandoregon.org	Oakland	2013.0	26.0
+47788	http://www.oregon.gov/oha/pages/index.aspx	Oregon Health Authority	2012.0	39.0
+47791	http://www.ci.sandy.or.us/	Sandy	1998.0	392.0
+47792	http://www.mfcity.com	Milton-Freewater Public Library	1999.0	132.0
+47794	http://www.oregon.gov/doc/pages/index.aspx	Corrections Department	2012.0	34.0
+47795	http://www.oregon.gov/obnm/Pages/index.aspx	Naturopathic Medicine, Board of	2012.0	61.0
+47796	http://www.oregon.gov/oblpct/pages/index.aspx	Counselors And Therapists, Board Of Licensed Professional	2012.0	39.0
+47799	http://oregonfilm.org/	Oregon Film and Video Office	1998.0	70.0
+47800	http://www.ci.warrenton.or.us	Warrenton	2001.0	197.0
+47801	http://www.pioneer.lib.ok.us/home/nobtop	Noble Public Library	2011.0	196.0
+47802	http://www.adriansd.com/ahs/ahs_home_page/adrian_high_home.htm	Adrian High School	2002.0	1.0
+47804	http://www.osba.org/edlinks/districts.htm	School Districts (OSBA)	0.0	198.0
+47805	http://www.wccls.org/	Banks Public Library	2007.0	392.0
+47806	http://www.obo.state.or.us/	Optometry, Board Of	1998.0	24.0
+47807	http://www.aumsville.us	Aumsville	2002.0	29.0
+47810	http://www.oregon.gov/dentistry/pages/index.aspx	Dentistry, Oregon Board Of	2012.0	37.0
+47811	http://www.oregon.gov/boa/Pages/index.aspx	Accountancy State Board	2012.0	33.0
+47812	http://www.winstoncity.org	Winston	2011.0	26.0
+47814	http://www.cityofpaisley.net	Paisley	2013.0	12.0
+47815	http://www.cityofculver.net	Culver	2009.0	33.0
+47818	http://www.cityofsiletz.org	Siletz	2008.0	228.0
+47819	http://tillamookor.gov/	Tillamook	2004.0	305.0
+47821	http://dunescity.com/	Dunes City	2000.0	562.0
+47822	http://sos.oregon.gov/business/Pages/default.aspx	Corporation Division (SOS)	2013.0	119.0
+47823	http://www.newberg.k12.or.us/	Newberg Senior High School	1999.0	5639.0
+47824	http://www.cityofseaside.us	Seaside	2004.0	283.0
+47825	http://ci.wheeler.or.us/	Wheeler	2000.0	77.0
+47826	http://wheremindsgrow.org	Springfield Public Library	2008.0	110.0
+47827	http://www.oregon.gov/obtp/pages/index.aspx	Tax Practitioners Board	2012.0	68.0
+47828	http://sos.oregon.gov/archives/Pages/default.aspx	Archives Division	2013.0	69.0
+47829	http://www.oregon.gov/oha/ophp/kidsconnect/pages/index.aspx	Healthy KidsConnect Program	2012.0	9.0
+47830	http://www.sutherlin.k12.or.us/ssd1/	Sutherlin High School	0.0	4.0
+47832	http://www.dallasor.gov	Dallas	2012.0	695.0
+47833	http://www.philomath.k12.or.us/schools/phs/	Philomath High School	2014.0	57.0
+47834	http://www.hillsboro.plinkit.org	Hillsboro Public Library	0.0	605.0
+47835	http://oregonaclb.org/	Appraiser Certification And Licensure Board	2001.0	23.0
+47837	http://www.forestgrove-or.gov	Forest Grove	2007.0	0.0
+47839	http://ghs.gresham.k12.or.us/	Gresham High School	1999.0	5142.0
+47842	http://www.pioneer.lib.ok.us/home/newtop	Newcastle Public Library	2011.0	1.0
+47843	http://www.ci.goldhill.or.us	Gold Hill	2003.0	467.0
+47844	http://www.cityofyoncalla.com	Yoncalla	2008.0	95.0
+47845	http://www.mhcc.edu/	Mt. Hood Community College	2002.0	2981.0
+47848	http://www.deschuteslibrary.org/	Sunriver Branch Library	2010.0	879.0
+47849	http://www.agnesslibrary.plinkit.org	Agness Community Library District	0.0	233.0
+47850	http://hinesoregon.com/	Hines	2012.0	6.0
+47851	http://www.oregon.gov/dhs/silc/pages/index.aspx	State Independent Living Council (SILC)	2012.0	15.0
+47852	http://www.linnbenton.edu/	Linn-Benton Community College	2002.0	1081.0
+47853	http://www.co.linn.or.us/	Linn County	1998.0	506.0
+47854	http://www.puc.state.or.us/Pages/index.aspx	Public Utility Commission	2013.0	1193.0
+47856	http://www.redmond.k12.or.us/2013/05/14/rhs-ag-department-plant-sale/	Redmond High School	2013.0	2.0
+47858	http://www.willamina.plinkit.org	Willamina Public Library	0.0	313.0
+47859	http://www.hillsboro-oregon.gov	Hillsboro	2013.0	3665.0
+47861	http://bakerlib.org/	Huntington Branch Library	0.0	270.0
+47862	http://coosbay.org/	Coos Bay	1997.0	189.0
+47864	http://www.gcoregonlive2.com	Grant County	2008.0	38.0
+47865	http://www.cbs.state.or.us/external/dfcs/	Finance And Corporate Securities (DCBS)	2000.0	178.0
+47866	http://www.psmfc.org/	Pacific States Marine Fisheries Commission	1997.0	321.0
+47867	http://www.portlandoregon.gov/	Portland	2009.0	9706.0
+47869	http://www.fairvieworegon.gov	Fairview	2011.0	509.0
+47871	http://www.thedalles.org	The Dalles	2011.0	728.0
+47872	http://www.gorgecommission.org/	Columbia River Gorge Com	2000.0	172.0
+47874	http://www.cityofsalem.net/departments/library/pages/home.aspx	West Salem Branch Library	2008.0	4.0
+47876	http://www.dufur.k12.or.us/site/default.aspx?PageID=1	Dufur School-Community Library	2013.0	10.0
+47877	http://www.ci.philomath.or.us	Philomath	1999.0	534.0
+47878	http://www.oregon.gov/otlb/pages/index.aspx	Occupational Therapy	2012.0	18.0
+47879	http://www.santiam.k12.or.us/hs/hs.html	Santiam High School	2006.0	1.0
+47880	http://bluebook.state.or.us/local/counties/counties.htm	Oregon Counties (BlueBook)	2000.0	41.0
+47881	http://www.oregon.gov/siec/pages/index.aspx	State Interoperability Executive Council	2012.0	28.0
+47882	http://www.oregon4biz.com/	Business Oregon	2002.0	447.0
+47883	http://www.cityofhalsey.com	Halsey	2002.0	31.0
+47884	http://www.co.josephine.or.us/	Illinois Valley Branch Library	1999.0	2622.0
+47887	http://mitchelloregon.us/	Mitchell	2010.0	49.0
+47888	http://www.cityofadamsoregon.com	Adams	2010.0	12.0
+47889	http://www.oregon.gov/ptbrd/pages/index.aspx	Physical Therapist Licensing Board	2012.0	13.0
+47890	http://www.umpqua.edu/	Umpqua Community College	2002.0	1142.0
+47891	http://ortravelexperience.com/	Travel Information Council	2012.0	460.0
+47894	http://www.goldbeachoregon.gov	Gold Beach	2010.0	231.0
+47895	http://www.ashland.k12.or.us/sectionindex.asp?sectionid=41	Ashland High School	2003.0	2129.0
+47896	http://cityofmosier.com/	Mosier	2011.0	18.0
+47897	http://scappooselibrary.org/	Scappoose Public Library	0.0	556.0
+47899	http://www.oregon.gov/ohla/bap/pages/index.aspx	Electrologists, Permanent Color, Tattoo Artists (OHLA)	2012.0	26.0
+47900	http://www.knappa.k12.or.us/?q=taxonomy/term/7	Knappa High School	2009.0	76.0
+47902	http://www.ci.oswego.or.us	Lake Oswego	1996.0	4462.0
+47903	http://cityofrivergrove.com	Rivergrove	2011.0	41.0
+47904	http://www.leg.state.or.us/cis/	Legislative Commission on Indian Services	1999.0	958.0
+47905	http://www.cbs.state.or.us/external/bcd/	Building Codes Division (DCBS)	1998.0	410.0
+47906	http://www.cityofboardman.com	Boardman	2001.0	39.0
+47907	http://www.ci.burns.or.us	Burns	2008.0	26.0
+47908	http://fallscity.org/	Wagner Community Library	2001.0	16.0
+47909	http://www.milton-freewater-or.gov	Milton-Freewater	2004.0	52.0
+47910	http://www.columbia-city.org	Columbia City	2006.0	61.0
+47912	http://www.ttsdschools.org/	Tigard High School	2012.0	1.0
+47913	http://www.oregon.gov/omb/pages/index.aspx	Oregon Medical Board	2012.0	3.0
+47914	http://www.oregon.gov/oha/ohpr/rsch/pages/index.aspx	Research and Data Unit (OHPR)	2012.0	16.0
+47915	http://www.oregon.gov/osmb/Pages/index.aspx	Marine Board	2012.0	59.0
+47916	http://courts.oregon.gov/cjfd/Pages/index.aspx	Judicial Fitness and Disability, Commission on	2012.0	9.0
+47917	https://multcolib.org/	Fairview-Columbia Branch Library	2000.0	5160.0
+47918	http://www.oregon.gov/ccwd/pages/index.aspx	Community Colleges Department	2012.0	30.0
+47919	http://www.hermiston.or.us	Hermiston	2000.0	920.0
+47920	http://www.cityofpilotrock.org	Pilot Rock	2001.0	485.0
+47921	http://www.co.harney.or.us/	Harney County	2000.0	108.0
+47923	http://www.oregon.gov/osbge/Pages/index.aspx	Geologist Examiners, State Board of	2012.0	65.0
+47924	http://www.deschutes.org/	Deschutes County	1996.0	1191.0
+47928	http://www.oregon.gov/dsl/pages/index.aspx	State Lands, Department of	2012.0	203.0
+47929	http://dclibrary.us	Douglas County Library System	0.0	926.0
+47932	http://www.cityofjohnday.com	John Day	0.0	42.0
+47934	http://www.oregon.gov/blsw/pages/index.aspx	Social Workers, Board of	2012.0	37.0
+47935	http://www.oregon.gov/olcc/Pages/index.aspx	Liquor Control Commission	2012.0	52.0
+47936	http://www.oregon.gov/tspc/pages/index.aspx	Teacher Standards/Practices	2012.0	101.0
+47937	http://www.co.jefferson.or.us/	Jefferson County	0.0	139.0
+47938	http://www.oregon.gov/SOLL/Pages/index.aspx	Law Library, State of Oregon	2012.0	62.0
+47939	http://nplibrary.org/	North Plains Public Library	2007.0	144.0
+47940	http://www.adairvillage.org	Adair Village	2011.0	96.0
+47941	http://www.ci.creswell.or.us	Creswell	2004.0	233.0
+47942	http://www.cityofrainier.com	Rainier	2003.0	2.0
+47943	http://www.cityofsiletz.org/home.cfm?dir_cat=87553	Siletz Public Library	2008.0	227.0
+47944	http://www.canbyhs.canby.k12.or.us/	Canby High School	2000.0	116.0
+47945	http://www.estacada.lib.or.us	Estacada Public Library	1999.0	155.0
+47946	http://www.ci.harrisburg.or.us	Harrisburg Public Library	0.0	72.0
+47947	http://www.hhs.morrow.k12.or.us/	Heppner Junior-senior High School	1999.0	205.0
+47948	http://www.oregon.gov/oha/ohpr/pages/snac/index.aspx	Safety Net Advisory Council	2012.0	3.0
+47951	http://www.klamathlibrary.plinkit.org	Klamath County Library Service District	0.0	420.0
+47952	https://www.newbergoregon.gov/	Newberg	2009.0	2938.0
+47953	http://www.cratercomets.com/	Crater High School	2000.0	7.0
+47954	http://www.roguecc.edu/	Rogue Community College	2002.0	2870.0
+47956	http://library.cityofalbany.net	Albany Public Library	2004.0	130.0
+47957	http://www.klamathcc.edu/Home	Klamath Community College	2013.0	293.0
+47958	http://www.thebestlibrary.net	Corvallis-Benton County Public Library	2002.0	205.0
+47960	http://www.ci.yachats.or.us	Yachats	2001.0	68.0
+47961	http://www.oregon.gov/dcbs/pages/index.aspx	Consumer & Business Services Department	2012.0	27.0
+47963	http://www.oregon.gov/osp/pages/index.aspx	Police, Oregon State	2012.0	69.0
+47964	http://www.ci.brownsville.or.us	Brownsville	2003.0	32.0
+47965	http://www.csd509j.net/cvhs/	Crescent Valley High School	2003.0	1.0
+47966	http://www.cottagegrove.plinkit.org/	Cottage Grove Public Library	0.0	271.0
+47967	http://www.maclibrary.org	Mcminnville Public Library	2002.0	13.0
+47968	http://www.oregon.gov/oya/pages/index.aspx	Youth Authority, Oregon	2012.0	148.0
+47970	http://www.oregon.gov/pharmacy/pages/index.aspx	Pharmacy	2012.0	65.0
+47971	http://www.ode.state.or.us/home/	Education Department	2011.0	4.0
+47974	http://www.ci.scappoose.or.us	Scappoose	2001.0	487.0
+47976	http://www.cooslibraries.org	Coos County Library Service District	2003.0	38.0
+47978	http://bluebook.state.or.us/local/cities/citieshome.htm	Oregon Cities (BlueBook)	2001.0	251.0
+47980	http://www.mapleton.k12.or.us/high/	Mapleton Senior High School	2001.0	7.0
+47981	http://www.echo-oregon.com	Echo Public Library	2001.0	61.0
+47982	http://www.ci.veneta.or.us	Veneta	2002.0	55.0
+47984	http://www.silverfalls.plinkit.org	Silver Falls Library District	0.0	620.0
+47985	http://www.oregon.gov/obce/pages/index.aspx	Chiropractic Examiners Board	2012.0	31.0
+47986	http://www.oregon.gov/oweb/pages/index.aspx	Watershed Enhancement Board	2012.0	103.0
+47987	http://www.oregon.gov/oce/pages/index.aspx	Oregon Corrections Enterprises	2012.0	7.0
+47988	http://www.oregon.gov/boli/Pages/index.aspx	Labor And Industries Bureau	2012.0	37.0
+47989	http://www.eugene-or.gov	Eugene	2007.0	4840.0
+47990	http://www.oregon.gov/dcbs/insurance/Pages/index.aspx	Insurance Division (DCBS)	2014.0	3.0
+47991	http://www.oregon.gov/osbn/Pages/index.aspx	Nursing Board	2012.0	62.0
+47992	http://www.co.klamath.or.us/	Klamath County	1998.0	251.0
+47993	http://www.oregon.gov/odf/Pages/index.aspx	Forestry Department	2012.0	669.0
+47994	http://www.springfield-or.gov	Springfield	2011.0	745.0
+47995	http://www.oregon.gov/oda/Pages/index.aspx	Agriculture Department	2012.0	3.0
+47997	http://www.cityofunion.com	Union	2000.0	35.0
+47998	http://www.oregon.gov/ocba/pages/index.aspx	Black Affairs, Commission on	2012.0	8.0
+47999	http://www.oregon.gov:80/oha/OHPR/PMC/pages/index.aspx	Pain Management Commission (OHPR)	0.0	15.0
+48001	http://north.salkeiz.k12.or.us/	North Salem High School	2000.0	199.0
+48003	http://www.oregon.gov/coo/pages/index.aspx	Chief Operating Officer, Office of the	2012.0	9.0
+48004	http://www.oregon.gov/obmi/pages/index.aspx	Radiologic Technologists	2012.0	66.0
+48005	http://www.pilotrock.k12.or.us/	Pilot Rock High School	2000.0	317.0
+48006	http://www.oregon.gov/cjc/pages/index.aspx	Criminal Justice Commission	2012.0	24.0
+48007	http://www.tvcc.cc/	Treasure Valley Community College	2000.0	628.0
+48010	http://www.ci.mill-city.or.us/	Mill City	2006.0	45.0
+48013	http://www.lexingtonoregon.com	Lexington	2013.0	40.0
+48014	http://www.gervaisoregon.org	Gervais	2002.0	24.0
+48015	http://www.co.hood-river.or.us/	Hood River County	2001.0	440.0
+48018	http://www.prairiecityoregon.com	Prairie City	2004.0	28.0
+48019	http://www.pioneer.lib.ok.us/home/mcltop	Mcloud Public Library	2011.0	154.0
+48020	http://www.oregonstatefair.org/	State Fair & Expo	2000.0	137.0
+48021	http://www.co.wasco.or.us/	Wasco County	2002.0	138.0
+48022	http://wmhs.athwest.k12.or.us/	Weston-mcewen High School	2007.0	411.0
+48023	http://ths.sps.lane.edu/	Thurston High School	1996.0	0.0
+48024	http://library.cedarmill.org/	Cedar Mill Community Library	2010.0	745.0
+48025	http://www.oregon.gov/owrd/pages/index.aspx	Water Resources Department	2012.0	166.0
+48026	http://www.cityofhubbard.org	Hubbard	2006.0	15.0
+48027	http://www.oregon.gov/obmt/Pages/index.aspx	Massage Therapists, Board Of	2012.0	37.0
+48028	http://www.oregon.gov/OHLA/NHAB/Pages/index.aspx	Nursing Home Administrators Board (OHLA)	2012.0	23.0
+48029	http://www.oregon.gov/landarch/Pages/index.aspx	Landscape Architect Board	2012.0	29.0
+48031	http://www.centrallinn.k12.or.us/high/index.php	Central Linn High School	2010.0	15.0
+48032	http://www.scio.k12.or.us/shs/	Scio High School	2000.0	2.0
+48033	http://www.sou.edu/	Southern Oregon University	1998.0	1831.0
+48034	http://www.co.lincoln.or.us/	Lincoln County	1998.0	328.0
+48036	http://www.co.coos.or.us/	Coos County	1999.0	286.0
+48037	http://www.kcsd.k12.or.us/SectionIndex.asp?SectionID=77	Lost River High School	2009.0	1911.0
+48038	http://www.portorford.org	Port Orford	2001.0	37.0
+48040	http://www.bethel.k12.or.us/blog/2012/02/01/whs-offers-potpourri-of-plays/	Willamette High School	2012.0	6.0
+48042	http://www.ci.carlton.or.us	Carlton	2006.0	403.0
+48043	http://www.oregon.gov/ohla/sotb/pages/index.aspx	Sex Offender Treatment Board (OHLA)	2012.0	22.0
+48044	http://www.dundeecity.org	Dundee	2006.0	466.0
+48045	http://www.pioneer.lib.ok.us/home/shatop	Shawnee Public Library	2011.0	165.0
+48046	http://www.oregon.gov/ohla/dt/pages/index.aspx	Denture Technology, Board of (OHLA)	2012.0	20.0
+48047	http://www.ci.wood-village.or.us	Wood Village	2000.0	50.0
+48048	http://imbleroregon.com	Imbler	2010.0	7.0
+48049	http://www.grantesd.k12.or.us/grant_union/index.htm	Grant Union High School	2006.0	176.0
+48050	http://www.ci.canby.or.us	Canby	2000.0	155.0
+48052	http://www.cityofalbany.net	Albany	2002.0	1302.0
+48053	http://www.co.umatilla.or.us/	Umatilla County	1998.0	232.0
+48055	http://www.oregon.gov/ohla/ld/Pages/index.aspx	Licensed Dieticians, Board of (OHLA)	2012.0	15.0
+48056	http://www.westfir-oregon.com	Westfir	2008.0	27.0
+48057	http://www.ci.monmouth.or.us	Monmouth	2006.0	549.0
+48058	http://www.oregon.gov/ohcs/Pages/index.aspx	Housing/Community Services Department	2012.0	211.0
+48059	http://www.osbar.org/	Oregon State Bar	1998.0	2064.0
+48062	http://www.driftwoodlib.org	Driftwood Public Library	2000.0	1.0
+48063	http://www.oregon.gov/dhs/Pages/index.aspx	Human Services Department	2012.0	31.0
+48064	http://www.northbendcity.org	North Bend	2002.0	12.0
+48065	http://www.oregon.gov/odot/dmv/pages/index.aspx	Driver and Motor Vehicles (DMV / ODOT)	2012.0	414.0
+48068	http://www.ci.oakridge.or.us	Oakridge	2001.0	751.0
+48071	http://www.co.washington.or.us/	Washington County	1996.0	2879.0
+48073	http://www.oregon.gov/circ/pages/index.aspx	Citizens' Initiative Review Commission	2012.0	14.0
+48075	http://www.albany.k12.or.us/wahs/	West Albany High School	2007.0	56.0
+48076	http://www.pcc.edu/	Portland Community College	1997.0	2999.0
+48077	http://www.oregon.gov/ohla/cos/pages/index.aspx	Cosmetology, Board of (OHLA)	2012.0	28.0
+48078	http://www.ci.nehalem.or.us	Nehalem	2011.0	228.0
+48079	http://www.tigard-or.gov/library/	Tigard Library	2007.0	70.0
+48080	http://www.curry.plinkit.org	Curry Public Library District	0.0	60.0
+48081	http://www.cgcc.edu/	Columbia Gorge Community College	2002.0	3255.0
+48082	http://www.leg.state.or.us/comm/lro/	Legislative Revenue Office	2001.0	958.0
+48083	http://www.clackamas.us/	Clackamas County	2004.0	2232.0
+48084	http://www.nclack.k12.or.us/site/default.aspx?domainid=544	Milwaukie High School	2012.0	147.0
+48085	http://www.bend.k12.or.us/education/school/school.php?sectionid=95	Marshall High School	2007.0	2.0
+48086	http://www.traveloregon.com/	Tourism Commission (Travel Oregon)	1997.0	4644.0
+48087	http://www.dallas.k12.or.us/dhs_library/web/student.htm	Dallas High School	2006.0	2.0
+48088	http://www.sweet-home.or.us	Sweet Home Public Library	1998.0	224.0
+48089	http://www.co.yamhill.or.us/	Yamhill County	1996.0	826.0
+48091	http://www.co.benton.or.us/	Benton County	2000.0	1880.0
+48092	http://www.oregon.gov/opsw/pages/index.aspx	Salmon and Watersheds, Oregon Plan for	2012.0	48.0
+48094	http://www.oregon.gov/odva/pages/index.aspx	Veterans Affairs Department	2012.0	22.0
+48095	http://www.cityofheppner.com	Heppner	2010.0	21.0
+48096	http://www.lc.state.or.us/	Legislative Counsel Committee	2000.0	958.0
+48098	http://www.cityofmolalla.com	Molalla	2007.0	818.0
+48099	http://cityofmaupin.com	Maupin	0.0	6.0
+48100	http://www.oregon.gov/ovmeb/pages/index.aspx	Veterinary Examiners	2012.0	13.0
+48101	http://bluebook.state.or.us/state/judicial/judicial35.htm	Council on Court Procedures	2000.0	40.0
+48102	http://www.cityofelginor.org	Elgin	2011.0	11.0
+48103	http://www.oregon.gov/blind/pages/index.aspx	Blind Commission	2012.0	29.0
+48104	http://www.cityoffossil.org	Fossil	2008.0	153.0
+48106	http://www.cbs.state.or.us/external/wcd/index.html	Workers' Compensation Division (DCBS)	1999.0	215.0
+48107	http://www.cityofturner.org	Turner	2009.0	121.0
+48109	http://www.cityofcondon.com	Condon	2008.0	9.0
+48110	http://www.harneycountylibrary.org	Harney County Library	0.0	769.0
+48111	http://www.sherman.k12.or.us/	Sherman Junior-senior High School	1998.0	1.0
+48114	http://www.wascooregon.com	Wasco	2010.0	25.0
+48115	http://shs.springfield.k12.or.us/	Springfield High School	2013.0	39.0
+48116	http://www.ci.amity.or.us	Amity	0.0	21.0
+48117	http://www.oregon.gov/dor/pages/index.aspx	Revenue Department	2012.0	59.0
+48118	http://www.co.gilliam.or.us/	Gilliam County	2011.0	66.0
+48120	http://www.socc.edu/	Southwestern Oregon Community College	2003.0	690.0
+48121	http://stweb.gresham.k12.or.us/	Springwater Trail High School	2003.0	1968.0
+48124	http://www.cbs.state.or.us/external/wcb/index.html	Workers' Compensation Board (DCBS)	1998.0	94.0
+48125	http://www.hermistonlibrary.us	Hermiston Public Library	2003.0	57.0
+48128	http://www.cityofestacada.org	Estacada	2001.0	40.0
+48129	http://www.medford.k12.or.us/SectionIndex.asp?SectionID=1009	South Medford High School	2006.0	677.0
+48130	http://www.cityoflyons.org/	Lyons	2011.0	47.0
+48131	http://www.co.curry.or.us/	Curry County	2001.0	126.0
+48133	http://www.ci.sisters.or.us	Sisters	2002.0	102.0
+48134	http://www.leg.state.or.us/comm/lfo/	Legislative Fiscal Office	2002.0	958.0
+48136	http://www.pilotrock.plinkit.org	Pilot Rock Public Library	0.0	237.0
+48137	http://www.oregon.gov/ohla/Pages/index.aspx	Health Licensing Agency, Oregon	2012.0	35.0
+48138	http://www.ci.lebanon.or.us	Lebanon Public Library	1998.0	607.0
+48139	http://www.bakercounty.org/	Baker County	2002.0	353.0
+48140	http://integraonline.com/~athenalibrary/	Athena Public Library	2011.0	4.0
+48141	http://www.ci.stayton.or.us	Stayton Public Library	1999.0	0.0
+48142	http://www.jacksoncounty.org/	Jackson County	2000.0	2313.0
+48143	http://www.ci.la-pine.or.us	La Pine	2007.0	798.0
+48144	http://www.co.douglas.or.us/	Douglas County	1998.0	838.0
+48145	http://www.adams.plinkit.org	Adams Public Library	0.0	272.0
+48146	http://www.oregon.gov/oha/pharmacy/pages/index.aspx	Oregon Rx	2012.0	17.0
+48147	http://courts.oregon.gov:80/ojd/pages/index.aspx	Judicial Department	2012.0	20.0
+48148	http://www.gilliam.plinkit.org	Gilliam County Library	0.0	350.0
+48150	http://www.co.wallowa.or.us/	Wallowa County	1999.0	164.0
+48151	http://www.cityofsublimity.org	Sublimity	2007.0	27.0
+48153	http://www.cityofsheridanor.com	Sheridan	2009.0	440.0
+48154	http://www.cascade-locks.or.us	Cascade Locks	2000.0	449.0
+48155	http://www.tualatinoregon.gov/library	Tualatin Public Library	2012.0	4894.0
+48156	http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/HAI/Pages/index.aspx	Acquired Infections Committee	2011.0	7.0
+48157	http://www.oregon.gov/luba/Pages/index.aspx	Land Use Board of Appeals	2012.0	61.0
+48158	http://www.ci.cannon-beach.or.us/	Cannon Beach	2002.0	63.0
+48159	http://www.ci.oswego.or.us/library	Lake Oswego Public Library	2000.0	4719.0
+48161	http://www.cityoflongcreek.com	Long Creek	2008.0	33.0
+48162	http://www.dfw.state.or.us/	Fish And Wildlife Department	1997.0	1439.0
+48163	http://www.silverton.or.us	Silverton	1999.0	545.0
+48164	http://www.happyvalleyor.gov	Happy Valley	2013.0	430.0
+48166	http://www.ci.dallas.or.us/index.aspx?nid=102	Dallas Public Library	2010.0	665.0
+48168	http://www.creswell.plinkit.org/	Lane Library District	0.0	408.0
+48169	http://www.oregon.gov/OHLA/AT/Pages/index.aspx	Athletic Trainers, Board of (OHLA)	2012.0	18.0
+48171	http://www.cityofirrigon.org	Irrigon	2009.0	216.0
+48172	http://www.ci.bay-city.or.us	Bay City	2000.0	40.0
+48174	http://orbae.com/	Architect Examiners Board	0.0	38.0
+48175	http://www.polibrary.org	Port Orford Public Library	0.0	541.0
+48176	http://www.ous.edu/	Board of Higher Education	1998.0	1741.0
+48177	http://www.monroe.k12.or.us/highschool/index.php	Monroe High School	2009.0	4.0
+48179	http://www.rainier.k12.or.us/?id=3850&isa=category&op=show	Rainier Jr-sr High School	2012.0	312.0
+48180	http://www.ochs.orecity.k12.or.us/	Oregon City High School	2003.0	956.0
+48182	http://www.umatilla-city.org	Umatilla	2008.0	14.0
+48183	http://www.oregon.gov/employ/pages/index.aspx	Employment Department	2012.0	12.0
+48186	http://www.oregon.gov/osp/sfm/pages/index.aspx	State Fire Marshal (OSP)	2012.0	157.0
+48187	http://www.oregon.gov/business/Pages/index.aspx	Business Xpress	2012.0	19.0
+48188	http://www.imbler.k12.or.us/	Imbler High School	2002.0	211.0
+48190	http://oregonstate.edu/	Oregon State University	2000.0	16567.0
+48192	http://www.osucascades.edu/	OSU - Cascades Campus	2001.0	833.0
+48193	http://www.oregon.gov/erb/pages/index.aspx	Employment Relations Board	2012.0	162.0
+48194	http://www.corvallisoregon.gov	Corvallis	2012.0	11938.0
+48195	http://library.ci.corvallis.or.us/	Philomath Community Library	2002.0	1.0
+48197	http://www.oregon.gov/dogami/Pages/index.aspx	Geology And Mineral Industries	2012.0	71.0
+48198	http://www.oregon.gov/oha/oebb/pages/index.aspx	Oregon Educators Benefit Board	2012.0	100.0
+48199	http://www.ci.wilsonville.or.us	Wilsonville	1999.0	746.0
+48200	http://www.chemeketa.edu/	Chemeketa Community College	2000.0	804.0
+48207	http://www.cityofyamhill.com	Yamhill	2000.0	49.0
+48208	http://www.staytonoregon.gov	Stayton	2008.0	513.0
+48209	http://www.oregonstudentaid.gov/	Student Access Commission, Oregon	2011.0	204.0
+48211	http://www.wallowacounty.plinkit.org/	Wallowa County Library	0.0	353.0
+48212	http://www.oregon.gov/boppps/pages/index.aspx	Parole/Post Prison Supv Board	2012.0	28.0
+48213	http://www.bend.k12.or.us/education/components/scrapbook/default.php?sectionid=96	Mountain View Senior High School	2007.0	4.0
+48214	http://www.phoenix.k12.or.us/SectionIndex.asp?SectionID=2	Phoenix High School	2013.0	4932.0
+48217	http://www.fernridgelibrary.org	Fern Ridge Library District	2003.0	20.0
+48218	http://www.ontariocommunitylibrary.org	Ontario Community Library	2011.0	31.0
+48219	http://www.oregon.gov/mortcem/Pages/index.aspx	Mortuary And Cemetery Board	2012.0	22.0
+48220	http://www.troutdaleoregon.gov	Troutdale	2013.0	19.0
+48221	http://www.pendleton.or.us	Pendleton	1997.0	508.0
+48222	http://www.doralibrary.plinkit.org/	Dora Public Library	0.0	403.0
+48224	http://www.malheurco.org/	Malheur County	1999.0	113.0
+48225	http://www.lanecounty.org/Pages/Default.aspx	Lane County	2009.0	1060.0
+48226	http://www.ukiahoregon.org	Ukiah	2010.0	6.0
+48227	http://www.cityofbanks.org	Banks	2002.0	598.0
+48228	http://www.mountangel.plinkit.org	Mt. Angel Public Library	0.0	285.0
+48229	http://www.ci.mcminnville.or.us	McMinnville	1998.0	648.0
+48230	http://www.kcsd.k12.or.us/SectionIndex.asp?SectionID=7	Chiloquin High School	2009.0	1940.0
+48232	http://www.oregon.gov/ogec/Pages/index.aspx	Ethics Commission, Oregon Government	2012.0	36.0
+48233	http://www.clackamas.edu/	Clackamas Community College	2002.0	659.0
+48234	http://www.ci.lowell.or.us	Lowell	2006.0	89.0
+48235	http://www.josephlibrary.plinkit.org	Joseph City Library	0.0	286.0
+48237	http://www.leg.state.or.us/	Legislative Assembly	1997.0	961.0
+48239	http://www.oregon.gov/energy/pages/index.aspx	Energy, Department of	2012.0	333.0
+48240	http://www.oit.edu/wilsonville	Oregon Tech Wilsonville	2012.0	1507.0
+48241	http://www.bakercity.com	Baker City	1996.0	2176.0
+48242	http://uhs.umatilla.k12.or.us/home	Umatilla High School	2008.0	57.0
+48243	http://www.edline.net/pages/Lakeridge_High_School	Lakeridge High School	2010.0	85.0
+48246	http://www.ci.garibaldi.or.us	Garibaldi	2005.0	15.0
+48247	http://www.ci.king-city.or.us	King City	2003.0	22.0
+48249	http://www.co.tillamook.or.us/	Tillamook County	1997.0	611.0
+48250	http://www.vernonia-or.gov	Vernonia	2003.0	160.0
+48251	http://www.nyssacity.org	Nyssa	0.0	73.0
+48253	http://www.cityofantelope.us	Antelope	2011.0	421.0
+48255	http://morrowcountyoregon.com/	Morrow County	2002.0	102.0
+48257	http://www.oregon.gov/OMD/Pages/index.aspx	Military Department	2012.0	15.0
+48259	http://astorialibrary.org/dept/Library	Astoria Public Library	2013.0	12.0
+48260	http://www.co.marion.or.us/	Marion County	1998.0	3743.0
+48261	http://www.ci.bend.or.us	Bend	0.0	2059.0
+48263	http://elmer.centennial.k12.or.us/	Centennial High School	1996.0	0.0
+48264	http://ci.hood-river.or.us/	Hood River	2000.0	1146.0
+48267	http://www.oregon.gov/hispanic/Pages/index.aspx	Hispanic Affairs Commission	2012.0	21.0
+48268	http://www.rockawaybeachor.us	Rockaway Beach	0.0	134.0
+48269	http://www.careertech.us/	Lincoln City Career Technical High School	2006.0	199.0
+48270	http://web.multco.us	Multnomah County	2010.0	25561.0
+48271	http://www.eugene-or.gov/library	Eugene Public Library	2005.0	4724.0
+48272	http://www.wou.edu/	Western Oregon University	1998.0	2743.0
+48273	http://www.cityofhainesor.org	Haines	2013.0	12.0
+48274	http://www.jcld.org	Jefferson County Library District	2002.0	139.0
+48276	http://www.cityofdrain.org	Drain	0.0	28.0
+48277	http://www.pdx.edu/	Portland State University	1996.0	31685.0
+48279	http://www.oregon.gov/OHLA/EHS/Pages/index.aspx	Environmental Health Registration Board (OHLA)	2012.0	23.0
+48280	http://www.cityofjordanvalley.com	Jordan Valley	2005.0	24.0
+48281	http://www.ous.edu/about/campcent/ucsw	Southwestern Oregon University Center	2011.0	2.0
+48284	http://mcnary.salkeiz.k12.or.us/	Mcnary High School	1998.0	130.0
+48285	http://www.oregon.gov:80/oha/OHPR/MAC/Pages/index.aspx	Medicaid Advisory Committee (OHPR)	2013.0	7.0
+48286	http://www.worksourceoregon.org/	Worksource Oregon	2006.0	437.0
+48287	http://www.cityofcoquille.org	Coquille	2001.0	38.0
+48288	http://www.oregon.gov/prism/pages/index.aspx	Performance Reporting Information System	2012.0	17.0
+48289	http://www.cityofclatskanie.com	Clatskanie	2011.0	31.0
+48292	http://www.oregon.gov/dpsst/pages/index.aspx	Public Safety/Stds/Training	2012.0	14.0
+48293	http://www.edline.net/pages/Lake_Oswego_Senior_High_School	Lake Oswego Senior High School	2010.0	88.0
+48294	http://www.oregon.gov/rea/pages/index.aspx	Real Estate Agency	2012.0	20.0
+48295	http://www.cityofsalem.net/Departments/Library/Pages/home.aspx	Salem Public Library	2008.0	3.0

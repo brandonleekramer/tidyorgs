@@ -1,0 +1,1000 @@
+NodeId	NodeURL	NodeName	Year	pages
+57014	http://www.qsd.wednet.edu	Quincy School District	2002.0	1742.0
+57015	http://www.tpl.lib.wa.us/Default.aspx	Dr. Martin Luther King, Jr. Branch Library	2005.0	261.0
+57018	http://www.kcls.org/woodinville/	Woodinville Library	2007.0	781.0
+57020	http://www.roslynlibrary.org	Roslyn Public Library	2008.0	12.0
+57021	http://www.wellpinit.wednet.edu/	Wellpinit School District	1998.0	59.0
+57022	http://www.doh.wa.gov/LicensesPermitsandCertificates/ProfessionsNewReneworUpdate/Pharmacist/CommissionInformation.aspx	Pharmacy, Board of	2013.0	12.0
+57023	http://www.cityofgoldbar.us	Gold Bar	2007.0	125.0
+57024	http://www.townofconconully.com	Conconully	2006.0	6.0
+57025	http://www.southbend-wa.gov	South Bend	2010.0	51.0
+57026	http://www.lwsd.wednet.edu/site/default.aspx?domainid=133	Cougar Creek Elementary	0.0	25.0
+57027	http://www.langleywa.org	Langley	2001.0	77.0
+57030	http://www.upperskagit.lib.wa.us	Upper Skagit Library District	2005.0	14.0
+57031	http://www.rosalia.wednet.edu/site/default.aspx?PageID=1	Rosalia School District	2013.0	7.0
+57032	http://www.columbiaco.com	Columbia County	1999.0	433.0
+57034	http://www.kcls.org/kingsgate/	Kingsgate Library	2007.0	783.0
+57035	http://www.bellevuecollege.edu/	Bellevue College	2005.0	2232.0
+57036	http://www.pwb.wa.gov/pages/default.aspx	Public Works Board	2013.0	30.0
+57037	http://www.leg.wa.gov/legislature/Pages/visitingthelegislature.aspx	Legislature, State	2009.0	344.0
+57038	http://www.rainier.wednet.edu/site/default.aspx?PageID=1	Rainier School District	2013.0	11.0
+57039	http://okanogancity.com/	Okanogan	2011.0	27.0
+57040	https://www.sheltonschools.org/choice/sitepages/homepage.aspx	CHOICE Alternative Schools	0.0	3.0
+57041	http://www.columbiaco.com/index.aspx?nid=25	Columbia County Court	2011.0	437.0
+57042	http://www.kcls.org/auburn/	Auburn Public Library	2005.0	787.0
+57044	http://www.naselle.wednet.edu/site/default.aspx?PageID=1	Naselle-Grays River Valley School District	2013.0	8.0
+57045	http://www.cowlitzsuperiorcourt.us	Cowlitz County Court	2013.0	605.0
+57046	http://www.co.jefferson.wa.us	Jefferson County	1999.0	200.0
+57047	http://www.parks.wa.gov	Parks and Recreation Commission, State	1996.0	1486.0
+57049	http://www.kcls.org/renton/	Renton Library	2010.0	772.0
+57050	http://www.sw.riverview.wednet.edu/	Stillwater Elementary School	1998.0	33.0
+57051	http://www.index.k12.wa.us/	Index School District	2011.0	31.0
+57052	http://www.dpsd.org	Deer Park School District	2001.0	70.0
+57053	http://www.harrsd.k12.wa.us/	Harrington School District	2001.0	828.0
+57054	http://www.ci.bainbridge-isl.wa.us	Bainbridge Island	1998.0	605.0
+57055	http://www.kcls.org/greenbridge/	Greenbridge Library	2008.0	773.0
+57056	http://www.cvsd.org/	Central Valley School District	1998.0	121.0
+57057	http://www.royalcitywa.org	Royal City	2007.0	8.0
+57058	http://www.battlegroundps.org/	Battle Ground School District	2010.0	213.0
+57059	http://www.spokanecounty.org/SuperiorCourt/content.aspx?c=1064	Spokane County Court	2007.0	149.0
+57060	http://www.cashmere.wednet.edu	Cashmere School District	2000.0	5.0
+57061	http://www.ksd403.org/	Kittitas School District	2009.0	672.0
+57063	http://www.bisd303.org/site/default.aspx?PageID=1	Bainbridge High School	2012.0	30.0
+57064	http://www.nwrain.net/~lochburn/	Lochburn Middle School	1998.0	72.0
+57065	http://www.lwsd.org/pages/default.aspx	Lake Washington School District	2007.0	2844.0
+57066	http://www.townoflaconner.org	La Conner	2001.0	6.0
+57067	http://www.cityofroywa.us	Roy	2008.0	27.0
+57069	http://www.evsd90.org/site/default.aspx?PageID=1	East Valley School District (Yakima)	2012.0	6.0
+57070	http://www.seattle.gov	Seattle	2001.0	2560.0
+57071	http://www.co.adams.wa.us	Adams County	2000.0	91.0
+57072	http://www.cityofbrewsterwashington.org	Brewster	2013.0	27.0
+57073	http://www.capeflattery.wednet.edu	Cape Flattery School District	1999.0	53.0
+57074	http://www.gfalls.wednet.edu	Granite Falls School District	1996.0	169.0
+57075	https://students.nthurston.k12.wa.us/norththurston/	North Thurston High School	0.0	12.0
+57076	http://wedfa.org/	Economic Development Finance Authority	2009.0	22.0
+57077	http://www.griffin.k12.wa.us/	Griffin School District	2002.0	2361.0
+57078	http://www.cityofpuyallup.org	Puyallup	2001.0	1091.0
+57079	http://www.cusick.wednet.edu/site/default.aspx?PageID=1	Cusick School District	2011.0	5.0
+57080	http://www.wwu.edu/	Western Washington University	1997.0	2016.0
+57081	http://www.sao.wa.gov/Pages/default.aspx	Auditor, Washington State	2010.0	174.0
+57082	http://www.walottery.com	Lottery, Washington State	1999.0	181.0
+57083	http://www.asd.wednet.edu/education/school/school.php?sectionid=10	Weston High School	2004.0	0.0
+57085	http://www.citizentaxpref.wa.gov/	Tax Preferences, Citizen Commission for Performance Measurement of	2006.0	9.0
+57086	http://www.kent.k12.wa.us/ksd/kw/	Kentwood High School	2000.0	1.0
+57087	http://coupeville.k12.wa.us/	Coupeville School District	2007.0	369.0
+57088	http://www.co.thurston.wa.us/superior/index.htm	Thurston County Court	2000.0	28.0
+57089	http://www.whrc.wa.gov	Horse Racing Commission, Washington State	2000.0	16.0
+57090	http://wapato-city.org	Wapato	2000.0	35.0
+57091	http://issaquahwa.gov	Issaquah	2012.0	1383.0
+57093	http://nwifc.org/	Northwest Indian Fisheries Commission	2002.0	2727.0
+57094	http://www.everettcc.edu/	Everett Community College	2002.0	974.0
+57095	http://schools.fwps.org/pa//	Federal Way Public Academy	2004.0	164.0
+57096	http://www.skamaniacounty.org/superior-court/	Skamania  County Court	2010.0	3.0
+57097	http://www.ce.riverview.wednet.edu/	Carnation Elementary School	1997.0	33.0
+57099	http://fid.asd103.org/	Fidalgo Elementary School	2001.0	11.0
+57100	http://www.teninoschools.org/	Tenino School District	2008.0	122.0
+57101	http://northbendwa.gov	North Bend	2011.0	324.0
+57102	http://www.mlsd.org/site/default.aspx?PageID=1	Medical Lake School District	2012.0	9.0
+57103	http://cityofmillwood.org/content/	Millwood	2011.0	291.0
+57105	http://www.hock.k12.wa.us	Hockinson School District	1998.0	0.0
+57106	http://www.cityofcleelum.com	Cle Elum	2008.0	76.0
+57107	http://www.longbeachwa.gov	Long Beach	2004.0	280.0
+57108	http://coltonwashington.us/	Colton	2013.0	2.0
+57109	http://www.ora.wa.gov/	Regulatory Assistance, Office of	2003.0	94.0
+57110	http://www.atg.wa.gov/opengovernment/ombudsman.aspx	Ombudsman, Open Government	2007.0	21.0
+57111	http://www.othello.wednet.edu	Othello School District	2000.0	12.0
+57112	http://www.dol.wa.gov/business/realestate/contact.html	Real Estate Commission	2006.0	45.0
+57113	http://www.townofmarcus.com	Marcus	2011.0	7.0
+57114	http://schools.mukilteo.wednet.edu/oe/	Odyssey Elementary School	0.0	0.0
+57115	http://www.glenwood.k12.wa.us/	Glenwood School Internet Learning Resources	2002.0	21.0
+57116	http://www.covingtonwa.gov	Covington	2011.0	367.0
+57117	http://co.chelan.wa.us	Chelan County Court	2000.0	91.0
+57118	http://www.chehalis.k12.wa.us/reb/	R.E. Bennett Elementary School	2002.0	76.0
+57119	http://www.loonlakeschool.org/	Loon Lake School District	2004.0	23.0
+57120	http://www.ci.lacenter.wa.us	La Center	2004.0	8.0
+57121	https://www.sheltonschools.org/shs/SitePages/Homepage.aspx	Shelton High School	2011.0	3.0
+57122	http://www.nols.org/	North Olympic Library System	1998.0	67.0
+57123	http://www.bethelsd.org/	Bethel School District	2002.0	266.0
+57124	http://www.pilotage.wa.gov	Pilotage Commissioners, Board of	2005.0	21.0
+57125	http://goldendaleschools.org/	Goldendale School District	2012.0	4.0
+57126	http://www.wedc.wa.gov/	Economic Development Commission	2009.0	161.0
+57127	http://www.town.darrington.wa.us	Darrington	2006.0	21.0
+57128	http://www.ci.richland.wa.us	Richland	1998.0	1095.0
+57129	http://www.tsa-wa.org/who.htm	Tobacco Settlement Authority	2005.0	16.0
+57130	http://schools.fwps.org/saghalie/	Saghalie Middle School	2004.0	80.0
+57133	http://www.doh.wa.gov/licensespermitsandcertificates/nursingcommission.aspx	Nursing Care Quality Assurance Commission	2012.0	980.0
+57134	http://www.republic.wednet.edu/	Republic High School	2000.0	21.0
+57135	http://www.arts.wa.gov	Arts Commission, Washington State	2000.0	186.0
+57136	http://www.ferndale.wednet.edu/	Ferndale School District	1997.0	1098.0
+57137	http://www.lindwa.com	Lind	2000.0	60.0
+57138	http://www.ci.college-place.wa.us	College Place	2001.0	436.0
+57139	http://www.daytonsd.org/	Dayton School District	2011.0	219.0
+57140	http://olympia.osd.wednet.edu/	Olympia High School	2003.0	654.0
+57141	http://www.townofcoupeville.org	Coupeville	2011.0	56.0
+57142	http://www.bestapples.com/	Apple Commission	1996.0	49.0
+57143	http://www.patersonschool.org/	Paterson School District	2011.0	26.0
+57144	http://www.nthurston.k12.wa.us/timberline	Timberline High School	2002.0	3481.0
+57145	http://www.cityofmilton.net	Milton	2001.0	151.0
+57146	http://www.clydehill.org	Clyde Hill	2000.0	109.0
+57147	http://www.adnaschools.org/	Adna School District	2005.0	36.0
+57148	http://www.esd.wa.gov/newsandinformation/legresources/gcde/index.php	Disability Issues and Employment, Governor's Committee on	2008.0	22.0
+57149	http://www.kcls.org/muckleshoot/	Muckleshoot Library	2007.0	775.0
+57150	http://www.efsec.wa.gov/	Energy Facility Site Evaluation Council	1998.0	107.0
+57151	http://www.neill-lib.org	Pullman (Neill) Public Library	1998.0	1.0
+57152	http://www.ci.roslyn.wa.us	Roslyn	2010.0	21.0
+57153	http://www.mansfield.wednet.edu	Mansfield School District	2003.0	216.0
+57154	http://www.sequimwa.gov	Sequim	2011.0	911.0
+57156	http://www.rco.wa.gov/salmon_recovery/gsro.shtml	Salmon Recovery Office, Governor's	2010.0	22.0
+57157	http://www.townoflyman.com	Lyman	2007.0	13.0
+57159	http://www.ci.ridgefield.wa.us	Ridgefield	2004.0	1891.0
+57160	http://www.ferndale.wednet.edu/fhs/	Ferndale High School	2000.0	0.0
+57161	http://www.energy.wsu.edu/	Extension Energy Program	1997.0	951.0
+57162	http://www.atg.wa.gov	Attorney General, Office of the	2003.0	3219.0
+57164	http://www.kcls.org/kirkland/	Kirkland Library	2007.0	780.0
+57165	http://www.spl.org/locations/green-lake-branch	Seattle Public Library - Green Lake	2011.0	325.0
+57166	http://www.shaw.k12.wa.us/	Shaw Island School District	2004.0	11.0
+57167	http://www.scld.org	Spokane County Library District	2000.0	1553.0
+57168	http://schools.fwps.org/fwhs/	Federal Way High School	2004.0	300.0
+57169	http://www.centralia.k12.wa.us/jl	Jefferson Lincoln Elementary School	2011.0	1225.0
+57170	http://www.mansfieldwashington.org	Mansfield	2009.0	14.0
+57171	http://schools.fwps.org/rainierview/	Rainier View Elementary School	2004.0	34.0
+57173	http://www.elma.wednet.edu/site/default.aspx?PageID=1	Elma School District	2011.0	5.0
+57174	http://www.spl.org/locations/columbia-branch	Seattle Public Library - Columbia	2011.0	300.0
+57175	http://www.cfd.wa.gov/	Combined Fund Drive	2005.0	104.0
+57176	http://www.wsdot.wa.gov	Transportation, Department of	1996.0	4114.0
+57178	http://www.btc.ctc.edu/	Bellingham Technical College	2001.0	454.0
+57179	http://www.co.grant.wa.us/gcsc/index.htm	Grant County Court	2011.0	95.0
+57180	http://www.ritzcom.net/ritzlib/	Ritzville Public Library	1999.0	0.0
+57181	http://www.ci.woodinville.wa.us	Woodinville	2001.0	81.0
+57182	http://co.kittitas.wa.us	Kittitas County Court	1998.0	8.0
+57184	http://www.spl.org/locations/broadview-branch	Seattle Public Library - Broadview	2011.0	300.0
+57185	http://www.ci.stanwood.wa.us	Stanwood	2007.0	1459.0
+57186	http://cts.wa.gov	Consolidated Technology Services	2011.0	338.0
+57188	http://www.wsdot.wa.gov/aviation/default.htm	Aviation, Department of Transportation	1997.0	323.0
+57189	http://www.spl.org/locations/northeast-branch	Seattle Public Library - Northeast	2011.0	307.0
+57190	http://www.trl.org/Pages/default.aspx	Timberland Regional Library	2010.0	633.0
+57191	http://www.ci.george.wa.us	George	2000.0	10.0
+57193	http://aberdeenwa.gov	Aberdeen	2011.0	135.0
+57194	http://www.ofm.wa.gov	Financial Management, Office of	1999.0	450.0
+57195	http://www.libertylakewa.gov	Liberty Lake	2003.0	372.0
+57196	http://www.montesano.us	Montesano	2003.0	429.0
+57197	http://www.townofwoodway.com	Woodway	2003.0	25.0
+57198	http://www.gnsd.k12.wa.us/	Great Northern School District	2008.0	41.0
+57200	http://www.tukwilawa.gov	Tukwila	2011.0	101.0
+57202	http://www.kcls.org/whitecenter/	White Center Library	2007.0	779.0
+57203	http://www.mylongview.com	Longview	2004.0	925.0
+57204	http://www.elc.wa.gov/default.asp	Expenditure Limit Committee	2009.0	10.0
+57206	http://www.townofyacolt.com/	Yacolt	2009.0	925.0
+57207	http://www.grandview.wednet.edu/	Grandview School District	2004.0	1.0
+57208	http://www.centralia.k12.wa.us/fp	Fords Prairie Elementary School	2011.0	1086.0
+57209	http://www.ethics.wa.gov/	Executive Ethics Board	2004.0	39.0
+57210	http://www.mccleary.wednet.edu/site/default.aspx?PageID=1	McCleary School District	2014.0	11.0
+57211	http://www.winlockwa.govoffice2.com	Winlock	2009.0	367.0
+57212	http://www.rco.wa.gov/boards/forum.shtml	Monitoring Salmon Recovery and Watershed Health, Forum on	2010.0	20.0
+57215	http://www.caa.wa.gov	African-American Affairs, Washington State Commission on	2003.0	91.0
+57216	http://www.ci.everett.wa.us	Everett	1998.0	0.0
+57218	http://www.wsd.wa.gov	Washington School for the Deaf	2000.0	92.0
+57221	http://www.prescott.k12.wa.us/	Prescott School District	2003.0	20.0
+57222	http://www.centralia.edu/	Centralia College	2006.0	303.0
+57223	http://rockfordwa.com	Rockford	2011.0	143.0
+57226	http://www.cityofgigharbor.net	Gig Harbor	2002.0	1432.0
+57227	http://www.emd.wa.gov/	Emergency Management Division	2003.0	215.0
+57228	http://www.centralia.k12.wa.us/ed	Edison Elementary School	2011.0	1244.0
+57231	http://schools.shorelineschools.org/shorecrest/	Shorecrest High School	2001.0	145.0
+57232	http://schools.fwps.org/tot/	Totem Middle School	2004.0	216.0
+57233	http://www.townofcathlamet.com	Cathlamet	2007.0	45.0
+57234	http://www.csd400.org/	Columbia (Walla Walla) School District	2010.0	15.0
+57235	http://www.columbia206.k12.wa.us/site/default.aspx?PageID=1	Columbia (Stevens) School District	2011.0	7.0
+57236	http://centennial.osd.wednet.edu/	Centennial Elementary	2003.0	24.0
+57237	http://burlingtonwa.gov	Burlington	2013.0	929.0
+57238	http://www.orcasislandschools.org	Orcas School District	2000.0	39.0
+57239	http://www.edcc.edu/	Edmonds Community College	1997.0	1852.0
+57240	http://www.tre.wa.gov/	Treasurer, Office of the State	2003.0	431.0
+57241	http://www.kcls.org/snoqualmie/	Snoqualmie Library	2007.0	777.0
+57242	http://www.dshs.wa.gov	Social and Health Services, Department of	2000.0	608.0
+57243	http://washingtonairguard.org/	Air National Guard	2008.0	24.0
+57244	http://www.lni.wa.gov/	Labor and Industries, Department of	2000.0	2603.0
+57246	http://www.sos.wa.gov/productivityboard/default.aspx	Productivity Board	2009.0	23.0
+57247	http://www.erfc.wa.gov/	Economic and Revenue Forecast Council	2003.0	22.0
+57248	http://www.nr.k12.wa.us/	North River School District	2003.0	0.0
+57252	http://www.wsipp.wa.gov/	Public Policy, Washington State Institute for	2000.0	145.0
+57254	http://www.dsd.k12.wa.us/hs/	Darrington High School	2003.0	15.0
+57255	http://www.nsdeagles.org/	Nespelem School District	2009.0	106.0
+57256	http://www.9mile.org/site/default.aspx?PageID=1	Nine Mile Falls School District	2012.0	16.0
+57257	http://www.skamaniacounty.org/	Skamania County	2002.0	981.0
+57258	http://www.cityofanacortes.org	Anacortes	1998.0	741.0
+57259	http://www.wwps.org	Walla Walla School District	1999.0	2033.0
+57261	http://www.tonasketcity.org	Tonasket	2000.0	36.0
+57262	http://www.kcls.org/federalway/	Federal Way 320th Library	2007.0	796.0
+57264	http://www.auburnwa.gov/home.htm	Auburn	2012.0	802.0
+57266	http://www.spokanelibrary.org	Spokane Public Library	2000.0	1238.0
+57267	https://www.sheltonschools.org/olympic/sitePages/homepage.aspx	Olympic Middle School	0.0	6.0
+57268	http://osa.leg.wa.gov/index/index.htm	Actuary, Office of the State	2007.0	2.0
+57269	http://www.asd.wednet.edu/education/school/school.php?sectionid=6	Post Middle School	2004.0	0.0
+57270	http://www.hcrr.wa.gov/	Home Care Referral Registry	2010.0	28.0
+57271	http://capital.osd.wednet.edu/	Capital High School	2004.0	2120.0
+57272	http://www.pdc.wa.gov	Public Disclosure Commission	1999.0	8531.0
+57273	http://www.co.asotin.wa.us	Asotin County	2001.0	2.0
+57274	http://www.sno-isle.org/	Mountlake Terrace Library	1997.0	1717.0
+57275	http://www.shorelineschools.org	Shoreline School District	2000.0	95.0
+57276	http://www.oakesdale.org	Oakesdale	2006.0	2.0
+57277	http://www.winlock.wednet.edu/	Winlock School District	2002.0	14.0
+57278	http://www.kitsapgov.com	Kitsap County	2001.0	436.0
+57280	http://www.cvsd.org/barker/	Barker High School	2006.0	0.0
+57281	http://www.cityofcentralia.com/	Centralia	2004.0	1641.0
+57282	http://schools.fwps.org/taf/	Technology Access Foundation (TAF)	2008.0	126.0
+57283	http://www.wssb.wa.gov	Blind, Washington State School for the	2000.0	53.0
+57284	http://www.kcls.org/carnation/	Carnation Library	2007.0	778.0
+57285	http://www.wawg.org/	Grain Commission	1999.0	50.0
+57286	http://www.pesb.wa.gov/	Professional Educator Standards Board	2001.0	66.0
+57287	http://www.dsb.wa.gov	Blind, Department of Services for the	2003.0	31.0
+57289	http://mil.wa.gov/	Military Department	2003.0	39.0
+57290	http://www.chehalis.k12.wa.us/oly/	Olympic Elementary School	2002.0	76.0
+57291	http://www.cityofdeerparkwa.com	Deer Park	2010.0	338.0
+57292	http://www.doh.wa.gov/licensespermitsandcertificates/professionsnewreneworupdate/psychologist/boardinformation.aspx	Psychology, Board of	2012.0	14.0
+57293	http://www.seattleschools.org	Seattle School District	2000.0	5994.0
+57294	http://www.ci.yarrow-point.wa.us	Yarrow Point	2001.0	0.0
+57295	http://www.cityofkenmore.com	Kenmore	2000.0	235.0
+57296	http://www.asd5.org/site/default.aspx?PageID=1	Aberdeen School District	2011.0	19.0
+57297	http://agr.wa.gov	Agriculture, Department of	0.0	599.0
+57299	http://www.lcsd.wednet.edu/site/default.aspx?PageID=1	LaConner School District	2012.0	6.0
+57300	http://www.co.pacific.wa.us	Pacific County	0.0	125.0
+57301	http://www.starbuck.k12.wa.us/	Starbuck School District	2010.0	17.0
+57302	http://www.lacrossesd.k12.wa.us/	Lacrosse School District	0.0	6854.0
+57303	http://www.cvsd.org/opportunity/	Opportunity Elementary School	2000.0	0.0
+57304	http://www.kcls.org/bellevue/	Bellevue Library	2007.0	0.0
+57305	http://www.treefruitresearch.com/	Tree Fruit Research Commission	2000.0	82.0
+57306	http://www.kalama.k12.wa.us/	Kalama School District	2001.0	2.0
+57307	http://www.cityofedgewood.org	Edgewood	2001.0	35.0
+57308	http://www.kcls.org	King County Library System	1998.0	1599.0
+57309	http://www.mukilteo.wednet.edu/index3.cfm	Mukilteo School District	0.0	0.0
+57310	http://www.garfieldwa.com	Garfield	2005.0	14.0
+57311	http://schools.fwps.org/illahee/	Illahee Middle School	2004.0	258.0
+57312	http://www.insurance.wa.gov	Insurance Commissioner, Office of the	1999.0	1340.0
+57313	http://www.dol.wa.gov/business/appraisers/appcommission.html	Real Estate Appraiser Commission	2006.0	28.0
+57314	http://ohms.ohsd.net/	Oak Harbor Middle School	2001.0	397.0
+57315	http://www.lkstevens.wednet.edu/site/default.aspx?PageID=1	Lake Stevens School District	2012.0	24.0
+57316	http://www.hum.wa.gov	Human Rights Commission	2003.0	23.0
+57319	http://www.spokanevalley.org	Spokane Valley	2001.0	1887.0
+57320	http://rentonwa.gov/living/default.aspx?id=842	Highlands Public Library	2007.0	210.0
+57321	http://www.reardan.net/site/default.aspx?PageID=1	Reardan-Edwall Schools	2013.0	17.0
+57322	http://www.mercergov.org	Mercer Island	2006.0	2708.0
+57324	http://www.ksd.org/default.aspx	Kennewick School District	2006.0	180.0
+57325	http://www.dva.wa.gov/	Veterans Affairs, Department of	2001.0	431.0
+57326	http://www.ephrata.org	Ephrata	1999.0	128.0
+57327	http://www.spl.org/locations/douglass-truth-branch	Seattle Public Library - Douglass-Truth	2011.0	304.0
+57328	http://www.klickitatcounty.org/clerk/	Klickitat County Court	2004.0	8.0
+57329	http://pri.hock.k12.wa.us/	Hockinson Primary School	2004.0	0.0
+57330	http://www.zillahschools.org	Zillah School District	0.0	1762.0
+57331	http://trafficrecords.wa.gov/	Traffic Records Committee	2005.0	39.0
+57332	http://www.whiteriver.wednet.edu	White River School District	1999.0	529.0
+57333	http://www.lynden.wednet.edu/site/default.aspx?PageID=1	Lynden School District	2012.0	20.0
+57334	http://www.westrichland.org	West Richland	1999.0	78.0
+57335	http://www.yakimawa.gov	Yakima	2012.0	807.0
+57336	http://www.orchardprairie.org/site/default.aspx?PageID=1	Orchard Prairie School District	2013.0	5.0
+57337	http://www.bsd46.org/site/default.aspx?PageID=1	Brinnon School District	0.0	6.0
+57338	http://www.creston.wednet.edu/site/default.aspx?PageID=1	Creston School District	2012.0	8.0
+57339	http://cityofrainierwa.org/	Rainier	2014.0	72.0
+57341	http://www.ci.snoqualmie.wa.us	Snoqualmie	1999.0	197.0
+57342	http://www.whefa.org/	Higher Education Facilities Authority	2001.0	15.0
+57343	http://www.spl.org/locations/magnolia-branch	Seattle Public Library - Magnolia	2011.0	347.0
+57344	http://www.newmarketskills.com/	New Market Vocational Skills Center	0.0	38.0
+57345	http://www.doc.wa.gov	Corrections, Department of	2003.0	531.0
+57346	http://www.scc.spokane.edu/	Spokane Community College	2002.0	615.0
+57347	http://www.sbcc.wa.gov/	Building Code Council, State	2000.0	178.0
+57348	http://www.monroe.wednet.edu/	Monroe School District	1998.0	62.0
+57349	http://www.kcls.org/algonapacific/	Algona-Pacific Library	2007.0	856.0
+57351	http://www.concrete.k12.wa.us/	Concrete School District	2000.0	68.0
+57352	http://www.spl.org/locations/international-district--chinatown-branch	Seattle Public Library - International District - Chinatown Branch	2011.0	347.0
+57353	http://www.co.franklin.wa.us	Franklin County	2000.0	281.0
+57354	http://www.kcls.org/skyway/	Skyway Library	2007.0	856.0
+57355	http://schools.fwps.org/meredith/	Meredith Hill Elementary School	2004.0	26.0
+57356	http://www.psd267.org/ses	Sunnyside Elementary School	2009.0	0.0
+57357	http://schools.fwps.org/woodmont/	Woodmont Elementary School	2006.0	21.0
+57359	http://www.electriccity.us	Electric City	2011.0	1.0
+57360	http://bta.state.wa.us/appeal/default.htm	Tax Appeals, Board of	2005.0	9.0
+57361	http://www.midcolumbialibraries.org/	Merrills Corner Library	2009.0	707.0
+57363	http://www.co.wahkiakum.wa.us	Wahkiakum County	2006.0	15.0
+57365	http://skamania.k12.wa.us/	Skamania School District	2007.0	2.0
+57366	http://www.prescottwa.com	Prescott	0.0	14.0
+57367	http://www.highlineschools.org/site/default.aspx?PageID=1	Highline School District Home Page	2013.0	42.0
+57368	http://www.ocosta.k12.wa.us/	Ocosta School District	2001.0	14.0
+57369	http://www.cityofmlt.com	Mountlake Terrace	2001.0	41.0
+57370	http://www.cosmopolis.us.com/	Cosmopolis	2010.0	46.0
+57371	http://www.nfsd.org/	North Franklin School District	2002.0	57.0
+57372	http://www.ci.yelm.wa.us	Yelm	2003.0	84.0
+57373	http://www.doc.wa.gov/isrb/	Indeterminate Sentence Review Board	2013.0	10.0
+57374	http://www.kcls.org/sammamish/	Sammamish Library	2007.0	862.0
+57375	http://cityofasotin.org/	Asotin	2007.0	49.0
+57376	http://www.royal.wednet.edu/rsd/	Royal School District	2011.0	98.0
+57377	http://www.ci.westport.wa.us	Westport	2000.0	49.0
+57378	http://www.salaries.wa.gov/	Citizens Commission on Salaries for Elected Officials, Washington	1999.0	36.0
+57379	http://www.asd.wednet.edu/education/components/scrapbook/default.php?sectionid=3	Eagle Creek Elementary	2011.0	0.0
+57380	http://www.leg.wa.gov/pages/home.aspx	State Legislature	2009.0	926.0
+57381	http://wshs.wsd.wednet.edu/	WestSide High School	2001.0	12.0
+57382	http://www.colton.k12.wa.us/	Colton School District	2003.0	523.0
+57383	http://www.liq.wa.gov	Liquor Control Board	2000.0	735.0
+57385	http://www.ci.selah.wa.us	Selah	2002.0	148.0
+57386	http://www.goia.wa.gov	Governor's Office of Indian Affairs	2000.0	2.0
+57389	http://www.drs.wa.gov	Retirement Systems, Department of	2002.0	818.0
+57390	http://www.kfsd.org/	Kettle Falls School District	2003.0	6.0
+57391	http://www.desmoineswa.gov	Des Moines	2003.0	558.0
+57393	http://www.taholah.k12.wa.us/	Taholah School District	2003.0	61.0
+57394	http://www.chehalis.k12.wa.us/cms/	Chehalis Middle School	2001.0	2.0
+57395	http://www.kcls.org/desmoines/	Des Moines Library	2007.0	852.0
+57396	http://www.morton.wednet.edu	Morton School District	1999.0	1.0
+57397	http://www.sib.wa.gov/	Investment Board, Washington State	2000.0	55.0
+57398	http://cityoforting.org/	Orting	2003.0	184.0
+57399	http://www.kingcounty.gov	King County	2007.0	2504.0
+57402	http://www.courts.wa.gov/?fa=home.sub&org=mjc&layout=2	Minority and Justice Commission, State	0.0	1645.0
+57403	http://www.rsd.edu/schools/jasonlee/	Jason Lee Elementary School	1998.0	60.0
+57404	http://www.rentonschools.us/home.aspx	Renton School District	2009.0	0.0
+57405	http://www.psd.wednet.edu/	Pomeroy School District	2001.0	51.0
+57406	http://www.opd.wa.gov	Public Defense, Office of	1999.0	124.0
+57410	http://www.epls.org	Everett Public Library	1999.0	751.0
+57411	http://www.wssda.org	School Directors' Association, State	1998.0	1210.0
+57413	http://www.governor.wa.gov/ofco/	Ombudsman, Office of the Family and Children's	2001.0	20.0
+57414	http://www.ilwaco-wa.gov	Ilwaco	2010.0	27.0
+57416	http://www.whitesalmonschools.org/	White Salmon Valley Schools	2010.0	137.0
+57417	http://totemfalls.sno.wednet.edu/	Totem Falls Elementary School	2003.0	17.0
+57418	http://www.pocld.org	Pend Oreille County Library District	1998.0	55.0
+57419	http://www.highline.edu/	Highline Community College	2008.0	23.0
+57420	http://www.wsgc.wa.gov	Gambling Commission, Washington State	2000.0	127.0
+57421	http://www.tacoma.k12.wa.us/sites/schools/mckinley/Pages/Default.aspx	McKinley Elementary School	2010.0	2.0
+57422	http://www.steilacoom.k12.wa.us/page/1	Steilacoom Hist. School District	2011.0	74.0
+57423	http://www.cityofbg.org	Battle Ground	2003.0	404.0
+57424	http://www.skitsap.wednet.edu/site/default.aspx?PageID=1	South Kitsap School District	2011.0	145.0
+57425	http://www.kirklandwa.gov	Kirkland	2011.0	960.0
+57427	http://www.spl.org/locations/wallingford-branch	Seattle Public Library - Wallingford	2011.0	327.0
+57428	http://www.clallam.net/superiorcourt/index.html	Clallam County Court	2009.0	42.0
+57429	http://www.ci.dupont.wa.us	DuPont	2001.0	696.0
+57430	http://www.cityofkittitas.com	Kittitas	2004.0	6.0
+57431	http://www.everettsd.org/site/default.aspx?PageID=1	Everett School District	2013.0	7.0
+57434	http://www.esd.wa.gov/	Employment Security, Department of	2007.0	3453.0
+57436	http://cityofpacific.com	Pacific	2003.0	49.0
+57437	http://www.kcls.org/lakeforestpark/	Lake Forest Park Library	2007.0	636.0
+57438	http://www.bothell.washington.edu/	University of Washington Bothell	1999.0	3430.0
+57439	http://schools.fwps.org/wildwood/	Wildwood Elementary School	2004.0	52.0
+57440	http://www.eastmont206.org/	Eastmont School District	2001.0	4997.0
+57441	http://schools.fwps.org/star/	Star Lake Elementary School	2004.0	26.0
+57442	http://www.burlingtonwa.gov/library	Burlington Public Library	2013.0	942.0
+57443	http://www.centralia.k12.wa.us/chs	Centralia High School	2011.0	1336.0
+57444	http://www.ci.woodland.wa.us	Woodland	2002.0	12.0
+57445	http://www.kcls.org/foster/	Foster Library	2007.0	844.0
+57447	http://www.kcls.org/mercerisland/	Mercer Island Library	2007.0	825.0
+57448	http://www.bvff.wa.gov	Volunteer Firefighters & Reserve Officers, Board for	2001.0	23.0
+57449	http://www.co.mason.wa.us/superior_court/index.php	Mason County Court	2011.0	11.0
+57451	http://www.cityoffife.org	Fife	2001.0	271.0
+57453	http://www.pateros.com	Pateros	2000.0	30.0
+57454	http://schools.fwps.org/val/	Valhalla Elementary School	2004.0	84.0
+57455	http://www.monte.wednet.edu/site/default.aspx?PageID=1	Montesano School District	2013.0	0.0
+57456	http://www.skagit.edu/default.asp	Skagit Valley College	2003.0	4309.0
+57457	http://www.oakvilleschools.org/	Oakville School District	2010.0	7.0
+57458	http://www.cityofvancouver.us	Vancouver	2005.0	857.0
+57459	http://www.kcls.org/boulevardpark/	Boulevard Park Library	2007.0	830.0
+57460	http://www.redistricting.wa.gov/	Redistricting Commission, State	2001.0	28.0
+57462	http://www.cityofmossyrock.com	Mossyrock	2009.0	22.0
+57463	http://www.wablueberrycomm.org/	Blueberry Commission	0.0	17.0
+57464	http://www.eho.wa.gov/boards_hab.aspx	Hydraulics Appeals Board	2007.0	0.0
+57465	http://des.wa.gov/Pages/default.aspx	Enterprise Services, Department of	2013.0	544.0
+57466	https://www.toutlesd.k12.wa.us/	Toutle Lake School District	2002.0	2.0
+57467	http://www.lowercolumbia.edu/	Lower Columbia College	2006.0	342.0
+57468	http://www.kcls.org/richmondbeach/	Richmond Beach Library	2007.0	827.0
+57469	http://www.piercecountylibrary.org	Pierce County Library System	2006.0	872.0
+57471	http://www.edline.net/pages/Prosser_School_District_116	Prosser School District	2010.0	127.0
+57472	http://www.co.lincoln.wa.us/	Lincoln County	2002.0	36.0
+57473	http://www.mountvernonwa.gov	Mount Vernon	2010.0	799.0
+57474	http://www.hoodcanal.wednet.edu/site/default.aspx?PageID=1	Hood Canal School District	2011.0	7.0
+57475	http://www.townofconcrete.com	Concrete	2001.0	19.0
+57476	http://www.tacoma.uw.edu/	University of Washington Tacoma	2010.0	2630.0
+57477	http://www.raymondk12.org/	Raymond School District	2013.0	1304.0
+57478	http://white-salmon.net	White Salmon	2010.0	824.0
+57479	http://www.sos.wa.gov	Secretary of State, Office of the	2009.0	779.0
+57480	http://www.kcls.org/shoreline/	Shoreline Library	2007.0	841.0
+57481	http://www.cvsd.org/greenacreselem/	Greenacres Elementary School	2001.0	0.0
+57485	http://www.governor.wa.gov/oeo/	Ombudsman, Office of the Education	2007.0	37.0
+57486	http://www.tvw.org/	TVW, Public Affairs Network	1996.0	30108.0
+57487	http://www.puyallup.k12.wa.us/	Puyallup School District	1996.0	196.0
+57489	http://www.pierce.ctc.edu/	Pierce College - Fort Steilacoom/Puyallup	1996.0	731.0
+57490	http://www.maplevalleywa.gov	Maple Valley	2010.0	2417.0
+57491	http://www.bellinghampubliclibrary.org/	Fairhaven Branch Library	2001.0	14.0
+57492	http://www.spscc.ctc.edu/	South Puget Sound Community College	1997.0	598.0
+57493	http://ocio.wa.gov	Chief Information Officer, Office of the	2014.0	331.0
+57494	http://cityofprosser.com/	Prosser	2001.0	577.0
+57495	http://www.kelso.gov	Kelso	1998.0	397.0
+57496	http://cityoftieton.com/	Tieton	2010.0	31.0
+57498	http://www.ci.tumwater.wa.us	Tumwater	2002.0	2528.0
+57499	http://www.kentwa.gov	Kent	2011.0	650.0
+57500	http://www.wtb.wa.gov/	Workforce Training and Education Coordinating Board	2001.0	312.0
+57501	http://www.ewu.edu/	Eastern Washington University	1997.0	2938.0
+57502	http://www.altcew.org	Aging & Long Term Care of  Eastern Washington	2000.0	38.0
+57503	http://www.toledo.k12.wa.us	Toledo School District	1999.0	13.0
+57504	http://cityofsumas.com/	Sumas	2002.0	1.0
+57505	http://www.cityoffircrest.net	Fircrest	2007.0	37.0
+57506	http://www.starbuckwa.com	Starbuck	2010.0	14.0
+57507	http://www.wcls.org	Whatcom County Library System	1998.0	1479.0
+57508	http://www.spl.org/locations/madrona-sally-goldmark-branch	Seattle Public Library - Madrona Sally Goldmark	2011.0	327.0
+57509	http://kent.k12.wa.us/km	Kent-Meridian High School	2011.0	2089.0
+57510	http://www.uniontown.us	Uniontown	2003.0	15.0
+57511	http://schools.fwps.org/cam/	Camelot Elementary School	2004.0	27.0
+57515	http://www.ci.benton-city.wa.us	Benton City	2000.0	15.0
+57516	http://www.ci.ellensburg.wa.us/index.aspx?nid=144	Ellensburg Public Library	2010.0	684.0
+57517	http://www.leg.wa.gov/leb/pages/default.aspx	Legislative Ethics Board	2009.0	8.0
+57519	http://www.cityofmccleary.com	McCleary	2002.0	375.0
+57520	http://www.osgov.com/library.html	Ocean Shores Public Library	2001.0	44.0
+57521	http://www.cityofelma.com	Elma	2001.0	122.0
+57522	https://fortress.wa.gov/dop/prb/	Personnel Resources Board	2009.0	26.0
+57523	http://www.gsd.wednet.edu/	Granger School District	2003.0	32.0
+57525	http://www.whatcom.ctc.edu/	Whatcom Community College	1998.0	1064.0
+57526	http://www.cityofwarden.org	Warden	1999.0	181.0
+57527	http://www.nthurston.k12.wa.us/site/default.aspx?PageID=1	North Thurston Public Schools	2011.0	69.0
+57528	http://www.eatonville-wa.gov	Eatonville	2006.0	224.0
+57529	http://pioneer.osd.wednet.edu	Pioneer Elementary	2003.0	37.0
+57530	http://www.ci.lynnwood.wa.us	Lynnwood	1998.0	469.0
+57531	https://www.cityoflakewood.us/	Lakewood	2002.0	596.0
+57532	http://www.spokanefalls.edu/	Spokane Falls Community College	2002.0	752.0
+57533	http://www.chs.riverview.wednet.edu/	Cedarcrest High School	1998.0	64.0
+57535	http://www.harringtonbiz.com	Harrington	2007.0	28.0
+57536	http://www.clark.edu/	Clark College	1997.0	1022.0
+57537	http://www.tonasket.wednet.edu	Tonasket School District	1998.0	15.0
+57538	http://www.edmondsk12.com/	Edmonds Heights K-12	0.0	323.0
+57539	http://www.courts.wa.gov/appellate_trial_courts/index.cfm	Court of Appeals	2005.0	475.0
+57540	http://www.townoftwisp.com	Twisp	2004.0	32.0
+57542	http://www.nwcherries.com/	Northwest Cherries	1996.0	264.0
+57543	http://www.dnr.wa.gov/Pages/default.aspx	Natural Resources, Department of	2008.0	725.0
+57544	http://www.orondo.wednet.edu/site/default.aspx?PageID=1	Orondo School District	2013.0	10.0
+57545	http://www.eho.wa.gov/boards_shb.aspx	Shorelines Hearings Board	2007.0	3.0
+57546	http://www.portangelesschools.org/pahs/	Port Angeles High School	2008.0	45.0
+57548	http://www.co.whatcom.wa.us	Whatcom County	1999.0	575.0
+57551	http://www.townofsouthprairie.com	South Prairie	2006.0	174.0
+57552	http://www.centralia.k12.wa.us/wa	Washington Elementary School	2011.0	1295.0
+57553	http://www.wdfw.wa.gov/	Fish and Wildlife, Department of	2003.0	5439.0
+57554	http://www.cityoftoppenish.us	Toppenish	2004.0	2.0
+57555	http://www.fwps.org	Federal Way School District	2003.0	625.0
+57556	http://www.chehalis.k12.wa.us	Chehalis School District	2001.0	75.0
+57557	http://www.co.garfield.wa.us/	Garfield County	2008.0	192.0
+57558	http://www.sbctc.edu/	Community & Technical Colleges, State Board for	2007.0	151.0
+57559	https://northseattle.edu/	North Seattle Community College	2002.0	2624.0
+57560	http://www.grandview.wa.us	Grandview	2000.0	454.0
+57561	http://www.issaquah.wednet.edu/	Issaquah School District	1997.0	1038.0
+57562	http://www.jclibrary.info	Jefferson County Rural Library District	2003.0	687.0
+57563	http://www-ckhs.cksd.wednet.edu/	Central Kitsap High School	1997.0	51.0
+57565	http://www.cawh.org	Airway Heights	2001.0	695.0
+57566	http://www.cpps.org	College Place School District	1998.0	165.0
+57567	http://www.chehalis.k12.wa.us/wfw/	W.F. West High School	2001.0	8.0
+57568	http://www.psp.wa.gov/	Puget Sound Partnership	2007.0	296.0
+57569	http://www.pateros.org/site/default.aspx?PageID=1	Pateros School District	2012.0	9.0
+57570	http://schools.fwps.org/sequoyah/	Sequoyah Middle School	2005.0	63.0
+57571	http://www.ci.shelton.wa.us	Shelton	1996.0	95.0
+57573	http://www.cityofchewelah.org	Chewelah	2009.0	34.0
+57574	http://osd.wednet.edu/	Olympia School District	1998.0	1421.0
+57575	http://www.spokaneschools.org/tcs	The Community School (Spokane)	2012.0	5937.0
+57576	http://www.spokaneschools.org/garry/	Garry Middle School	2002.0	3.0
+57577	http://www.co.wahkiakum.wa.us/depts/clerk/index.htm	Wahkiakum County Court	2006.0	2.0
+57578	http://www.cvsd.org/university/	University High School	2000.0	0.0
+57579	http://www.nv.k12.wa.us/site/default.aspx?PageID=1	Nooksack Valley School District	2013.0	5.0
+57580	http://www.spl.org/locations/capitol-hill-branch	Seattle Public Library - Capitol Hill	2011.0	305.0
+57581	http://www.ptschools.org/site/default.aspx?PageID=1	Port Townsend School District	2012.0	0.0
+57582	http://www.enumclaw.wednet.edu	Enumclaw School District	2000.0	481.0
+57583	http://www.aclib.org/	Heights Branch Library	2002.0	43.0
+57584	http://www.cityofzillah.us	Zillah	2008.0	25.0
+57586	http://www.asd.wednet.edu/education/school/school.php?sectionid=7	Presidents Elementary	2004.0	0.0
+57587	http://www.tricity.wsu.edu/	Washington State University Tri-Cities	1997.0	609.0
+57588	http://www.greenriver.edu/	Green River Community College	2002.0	560.0
+57590	http://reeves.osd.wednet.edu/	Reeves Middle School	2003.0	90.0
+57591	http://www.waitsburgsd.org/	Waitsburg School District	2001.0	135.0
+57592	http://www.clallam.net	Clallam County	1998.0	2570.0
+57593	http://wscpr.org/	Pesticide Registration, State Commission on	1998.0	43.0
+57596	http://www.kcls.org/crossroads/	Library Connection At Crossroads	2007.0	849.0
+57597	http://www.ncrl.org/	East Wenatchee Community Library	1996.0	73.0
+57599	http://www.spokanecounty.org	Spokane County	1997.0	1335.0
+57600	http://www.mabton.wednet.edu/site/default.aspx?PageID=1	Mabton School District	2013.0	32.0
+57601	http://www.bickletonschools.org	Bickleton School District	2003.0	13.0
+57602	http://northwestmuseum.org/	Historical Society, Eastern Washington State	2001.0	201.0
+57603	http://www.cityofcashmere.org/	Cashmere	0.0	280.0
+57604	http://www.sumner.wednet.edu/	Sumner School District	1999.0	305.0
+57605	http://www.co.mason.wa.us/	Mason County	2000.0	569.0
+57606	http://marysvillewa.gov	Marysville	2008.0	899.0
+57607	http://schools.fwps.org/lakegrove/	Lake Grove Elementary School	2004.0	32.0
+57608	http://www.cptc.edu/	Clover Park Technical College	2002.0	369.0
+57611	http://spokane.wsu.edu/	Washington State University Spokane Campus	1997.0	586.0
+57612	http://www.plia.wa.gov	Pollution Liability Insurance Agency, Washington State	2000.0	12.0
+57613	http://www.cityofleavenworth.com	Leavenworth	2006.0	229.0
+57616	http://www.co.benton.wa.us/	Benton County	1998.0	1206.0
+57619	http://www.go2kennewick.com/	Kennewick	2010.0	674.0
+57620	http://www.kettle-falls.com	Kettle Falls	2011.0	224.0
+57621	http://www.utc.wa.gov/Pages/default.aspx	Utilities and Transportation Commission	2011.0	870.0
+57622	http://www.kent.k12.wa.us/site/default.aspx?PageID=1	Kent School District	2011.0	27.0
+57623	http://www.pasco-wa.gov	Pasco	2007.0	798.0
+57624	http://www.richland.lib.wa.us	Richland Public Library	1996.0	218.0
+57625	http://www.havemilk.com/	Dairy Products Commission	2003.0	59.0
+57626	http://www.tacoma.k12.wa.us/Pages/default.aspx	Tacoma Public Schools	2008.0	875.0
+57627	http://www.marywalker.org/site/default.aspx?PageID=1	Mary Walker School District	2012.0	17.0
+57628	http://lewiscountywa.gov/superiorcourt	Lewis County Court	2009.0	1725.0
+57629	http://huntspoint-wa.gov/	Hunts Point	2007.0	27.0
+57630	http://www.ci.bonney-lake.wa.us	Bonney Lake	2003.0	561.0
+57631	http://www.mtbaker.wednet.edu	Mount Baker School District	1998.0	108.0
+57633	http://www.finleysd.org/index.php	Finley School District	2010.0	565.0
+57635	http://www.dnr.wa.gov/aboutdnr/pages/commissioner.aspx	Land Commissioner, Office of the	2009.0	5.0
+57636	http://www.duvallwa.gov	Duvall	2007.0	385.0
+57637	http://www.aasd.wednet.edu/site/default.aspx?PageID=1	Asotin-Anatone School District	2012.0	40.0
+57638	http://www.spl.org/locations/lake-city-branch	Seattle Public Library - Lake City	2011.0	300.0
+57641	http://www.sirti.org/	Spokane Intercollegiate Research & Technology Institute	1997.0	122.0
+57642	http://www.hr.wa.gov/Pages/default.aspx	Human Resources Director, Office of the State	2013.0	622.0
+57643	http://www.wwrurallibrary.com	Walla Walla County Rural Library District	2005.0	38.0
+57644	http://www.cvsd.org/centralvalley/	Central Valley High School	2002.0	0.0
+57645	http://www.valleysd.org/	Valley School District	2008.0	318.0
+57646	http://www.edmonds.wednet.edu/site/default.aspx?PageID=1	Edmonds School District	2012.0	51.0
+57647	http://www.doh.wa.gov/licensespermitsandcertificates/medicalcommission.aspx	Medical Quality Assurance Commission	2012.0	960.0
+57648	http://www.leoff.wa.gov/default.htm	Law Enforcement Officers and Fire Fighters' Plan 2 Retirement Board	2004.0	53.0
+57649	http://www.bridgeport.wednet.edu	Bridgeport School District	0.0	579.0
+57650	http://lmtaaa.org/	Area Agency on Aging, Lewis-Mason-Thurston	2005.0	34.0
+57653	http://www.spl.org/locations/beacon-hill-branch	Seattle Public Library - Beacon Hill	2011.0	306.0
+57655	http://www.bridgeportwashington.net	Bridgeport	2010.0	10.0
+57657	http://www.whitco.lib.wa.us	Whitman County Library	1998.0	66.0
+57658	http://www.crescentschooldistrict.org/	Crescent School District	2011.0	91.0
+57659	http://www.ci.normandy-park.wa.us/	Normandy Park	1998.0	585.0
+57660	http://www.sequimschools.wednet.edu/site/default.aspx?PageID=1	Sequim School District	2013.0	6.0
+57661	http://ci.castle-rock.wa.us	Castle Rock	2003.0	34.0
+57662	http://www.davenport.wednet.edu/site/default.aspx?PageID=1	Davenport School District	2013.0	29.0
+57663	http://www.skykomishschool.com/sky/main/index.php	Skykomish School District	2011.0	64.0
+57665	http://www.capaa.wa.gov	Asian Pacific American Affairs, State of Washington Commission on	2000.0	97.0
+57667	http://www.riverview.wednet.edu/	Riverview School District	1998.0	90.0
+57668	http://www.spl.org/locations/delridge-branch	Seattle Public Library - Delridge	2011.0	323.0
+57669	http://schools.fwps.org/sac/	Sacajawea Middle School	2004.0	39.0
+57670	http://www.rsd.edu/schools/carmichael/	Carmichael Middle School	1998.0	30.0
+57671	http://dor.wa.gov/Content/Home/Default.aspx	Revenue, Department of	2004.0	163.0
+57672	http://www.tacoma.k12.wa.us/sites/schools/stewart/pages/default.aspx	Stewart Middle School	2010.0	35.0
+57675	http://www.conway.k12.wa.us	Conway School District	1999.0	124.0
+57676	http://www.kcls.org/bothell/	Bothell Library	2007.0	858.0
+57677	http://www.dol.wa.gov/business/engineerslandsurveyors/	Engineers and Land Surveyors, Board of Registration for	2006.0	46.0
+57679	http://www.cityofmillcreek.com	Mill Creek	2000.0	664.0
+57680	http://www.lclib.lib.wa.us	La Conner Regional Library	2003.0	444.0
+57681	http://www.sanjuanco.com	San Juan County	2008.0	617.0
+57682	http://www.co.pacific.wa.us/courts/superior/	Pacific County Court	0.0	3.0
+57683	http://www.forkswashington.org	Forks	2000.0	88.0
+57684	http://www.co.stevens.wa.us	Stevens County	2000.0	213.0
+57685	http://www.bigbend.edu/	Big Bend Community College	2002.0	898.0
+57686	http://www.moseslakeschools.org	Moses Lake School District	2000.0	183.0
+57687	http://www.northbonneville.net	North Bonneville	2002.0	137.0
+57689	http://www.bremertonschools.org/site/default.aspx?PageID=1	Bremerton School District	2011.0	9.0
+57690	http://www.cityofuniongap.com/	Union Gap	2004.0	76.0
+57691	http://www.nmsd.wednet.edu/site/default.aspx?PageID=1	North Mason School District	2011.0	78.0
+57692	http://www.selah.k12.wa.us/	Selah School District	2001.0	173.0
+57693	http://www.ofm.wa.gov/sgc/	Sentencing Guidelines Commission	2011.0	18.0
+57694	http://www.douglascountywa.net/	Douglas County	2000.0	237.0
+57695	http://thelosc.org/	Chewelah Public Library	2012.0	124.0
+57697	http://www.colville.wa.us	Colville	2002.0	33.0
+57698	http://www.klickitatcounty.org	Klickitat County	1998.0	278.0
+57699	http://schools.fwps.org/mirrorlake/	Mirror Lake Elementary School	2004.0	19.0
+57700	http://roosevelths.seattleschools.org/	Roosevelt High School	2012.0	2654.0
+57702	http://www.othellowa.gov	Othello	2013.0	1371.0
+57703	http://www.seattlecentral.org/	Seattle Central Community College	2000.0	324.0
+57704	http://www.cityofwashougal.us	Washougal	2009.0	2524.0
+57706	http://ci.sumner.wa.us/	Sumner	1996.0	931.0
+57707	http://quincywashington.us/quincy/	Quincy	2008.0	805.0
+57708	http://www.asd103.org/	Anacortes School District	2001.0	18.0
+57710	http://www.manson.org	Manson School District	1998.0	439.0
+57711	http://www.ohsd.net	Oak Harbor School District	2000.0	6.0
+57712	http://www.hca.wa.gov/Pages/index.aspx	Health Care Authority, Washington State	2013.0	536.0
+57713	http://roosevelt.osd.wednet.edu/	Roosevelt Elementary School	2003.0	48.0
+57714	http://www.dfi.wa.gov	Financial Institutions, Department of	2000.0	1087.0
+57715	http://www.oakharbor.org	Oak Harbor	1998.0	1819.0
+57716	http://leap.leg.wa.gov/leap/	Legislative Evaluation and Accountability Program Committee	2003.0	123.0
+57717	http://www.rco.wa.gov/boards/srfb.shtml	Salmon Recovery Funding Board	2010.0	19.0
+57718	http://www.kcls.org/woodmont/	Woodmont Library	2007.0	861.0
+57719	http://www.sbe.wa.gov/	Education, State Board of	2001.0	151.0
+57720	http://www.leg.wa.gov/codereviser/pages/default.aspx	Code Reviser  Statute Law Committee	2009.0	19.0
+57721	http://www.ci.tenino.wa.us	Tenino	2004.0	41.0
+57723	http://www.lwtech.edu/	Lake Washington Institute of Technology	2011.0	878.0
+57724	http://www.cob.org	Bellingham	1998.0	685.0
+57725	http://www.cityofpoulsbo.com	Poulsbo	1999.0	335.0
+57727	http://www.spraguelamont.com/	Sprague-Lamont School District	0.0	412.0
+57730	http://www.asd5.org/domain/173	Harbor High School	2011.0	383.0
+57731	http://www.co.clark.wa.us/courts/superior/index.html	Clark County Court	2004.0	17.0
+57733	http://schools.fwps.org/lakedolloff/	Lake Dolloff Elementary School	2004.0	15.0
+57734	http://www.kcls.org/skykomish/	Skykomish Library	2007.0	849.0
+57735	http://www.yakimacounty.us	Yakima County	2005.0	315.0
+57736	http://www.slschools.org/	Soap Lake School District	2006.0	716.0
+57738	http://ci.stevenson.wa.us/	Stevenson	2013.0	173.0
+57740	http://www.cjc.state.wa.us	Judicial Conduct, Commission on	1999.0	109.0
+57741	http://www.ccrld.lib.wa.us	Columbia County Rural Library District	2008.0	1681.0
+57743	http://www.greenmountainschool.us/	Green Mountain School District	2004.0	24.0
+57744	http://schools.fwps.org/sunnycrest/	Sunnycrest Elementary School	2004.0	22.0
+57746	http://www.kcls.org/rentonhighlands/	Renton Highlands Library	2010.0	864.0
+57747	http://www.washington.edu/	University of Washington	1996.0	2624.0
+57748	http://www.townofwinthrop.com	Winthrop	2004.0	7.0
+57749	http://www.newport.wednet.edu/site/default.aspx?PageID=1	Newport School District	2012.0	0.0
+57750	http://www.yvl.org	Yakima Valley Regional Library	2000.0	95.0
+57751	http://www.yvcc.edu/Pages/default.aspx	Yakima Valley Community College	2009.0	621.0
+57752	http://www.achsd.org/	Coulee/Hartline School District	2000.0	55.0
+57754	http://www.courts.wa.gov	Courts, Administrative Office of the	2000.0	2080.0
+57755	http://www.toledowa.us	Toledo	2013.0	23.0
+57756	http://www.forks.wednet.edu	Quillayute Valley School District	1997.0	115.0
+57757	http://www.visitpalouse.com	Palouse	2003.0	119.0
+57758	http://www.brewster.wednet.edu/site/default.aspx?PageID=1	Brewster School District	2011.0	5.0
+57759	http://www.co.benton.wa.us/pview.aspx?id=828&catid=45	Franklin County Court	0.0	966.0
+57760	http://www.townofsteilacoom.com	Steilacoom	2004.0	280.0
+57761	http://schools.fwps.org/tj/	Thomas Jefferson High School	2004.0	256.0
+57762	http://www.nthurston.k12.wa.us/nisqually	Nisqually Middle School	2002.0	3725.0
+57763	http://www.douglascountywa.net/departments/superiorcourt/	Douglas County Court	2006.0	3.0
+57764	https://fortress.wa.gov/cjtc/www/	Criminal Justice Training Commission, Washington State	2005.0	753.0
+57765	http://www.kcls.org/fairwood/	Fairwood Library	2007.0	848.0
+57766	http://www.farmingtonwa.com	Farmington	2001.0	225.0
+57767	http://www.washingtonhistory.org/	History Museum, State	2001.0	356.0
+57768	http://www.eho.wa.gov/boards_fpab.aspx	Forest Practices Appeals Board	2007.0	29.0
+57770	http://www.garpal.wednet.edu/site/default.aspx?PageID=1	Garfield School District	2011.0	10.0
+57771	http://www.cascadesd.org/	Cascade School District	2011.0	215.0
+57772	http://www.lwsd.wednet.edu/site/default.aspx?domainid=78	English Crossing Elementary School	0.0	32.0
+57775	http://www.ci.ferndale.wa.us	Ferndale	2000.0	9.0
+57776	http://www.nthurston.k12.wa.us/olympicview	Olympic View Elementary School	2002.0	3661.0
+57777	http://www.biia.wa.gov/	Industrial Insurance Appeals, Board of	2003.0	1720.0
+57778	http://www.dieringer.wednet.edu/	Dieringer School District	2000.0	89.0
+57779	http://www.cityofcamas.us	Camas	2012.0	3406.0
+57780	http://www.entiatschools.org/site/default.aspx?PageID=1	Entiat School District	2012.0	12.0
+57782	http://www.kcls.org/duvall/	Duvall Library	2007.0	852.0
+57783	http://www.cityofchelan.us	Chelan	2008.0	3.0
+57784	http://www.hca.wa.gov/pebb/wellness/Pages/index.aspx	Washington Wellness	2013.0	40.0
+57785	http://www.spl.org/locations/southwest-branch	Seattle Public Library - Southwest	2011.0	300.0
+57786	http://schools.fwps.org/panther/	Panther Lake Elementary School	2004.0	211.0
+57787	http://www.mead354.org/	Mead School District	2006.0	395.0
+57788	http://www.nwic.edu/	Northwest Indian College	1999.0	299.0
+57789	http://www.carpenter.lib.wa.us	Cle Elum (Carpenter Memorial) Library	2008.0	268.0
+57790	http://www.ocean.k12.wa.us/site/default.aspx?PageID=1	Ocean Beach School District	2012.0	26.0
+57791	http://www.tekoawa.com	Tekoa	2001.0	98.0
+57792	http://www.northportschools.org/site/default.aspx?PageID=1	Northport School District	2013.0	6.0
+57793	http://www.wilsoncreekwa.com	Wilson Creek	2008.0	24.0
+57795	http://www.evsd.org	East Valley School District (Spokane)	2000.0	108.0
+57796	http://www.oroville-wa.com	Oroville	2007.0	19.0
+57797	http://www.cityofpt.us	Port Townsend	2006.0	57.0
+57798	http://www.omakcity.com	Omak	2002.0	43.0
+57799	http://csd49.org/site/default.aspx?PageID=1	Chimacum School District	2013.0	10.0
+57800	http://www.southseattle.edu/	South Seattle Community College	2002.0	720.0
+57801	http://www.asd.wednet.edu/education/school/school.php?sectionid=8	Stillaguamish Valley School	2007.0	0.0
+57802	http://www.krl.org	Kitsap Regional Library	1999.0	827.0
+57803	http://www.carbonado.k12.wa.us	Carbonado School District	2001.0	41.0
+57804	http://www.spokanecity.org	Spokane	1998.0	450.0
+57805	https://students.nthurston.k12.wa.us/riverridge/	River Ridge High School	0.0	0.0
+57806	http://www.arlingtonwa.gov	Arlington	0.0	1121.0
+57808	http://www.ddc.wa.gov/	Developmental Disabilities Council	2003.0	105.0
+57809	http://www.wtsc.wa.gov/	Traffic Safety Commission	2004.0	89.0
+57810	http://www.colfaxwa.org	Colfax	2011.0	62.0
+57811	http://www.kcls.org/kent/index.cfm#closure	Kent Library	2014.0	831.0
+57812	http://www.fmsib.wa.gov/	Freight Mobility Strategic Investment Board	1999.0	14.0
+57813	http://www.visitmorton.com	Morton	2008.0	30.0
+57814	http://www.mountvernonwa.gov/	Mount Vernon City Library	2010.0	824.0
+57815	http://www.cityofwaitsburg.com	Waitsburg	2005.0	44.0
+57816	http://164.116.104.15	Klickitat School District	2000.0	6.0
+57817	http://www.kcls.org/blackdiamond/	Black Diamond Library	2007.0	818.0
+57818	http://www.kingcounty.gov/courts/SuperiorCourt.aspx	King County Court	2008.0	668.0
+57819	http://librariesofstevenscounty.org	Stevens County Rural Library District	2008.0	117.0
+57820	http://www.dnr.wa.gov/aboutdnr/boardscouncils/fpb/pages/home.aspx	Forest Practices Board	2008.0	2.0
+57821	http://www.red-raspberry.org/	Red Raspberry Commission	2000.0	7.0
+57825	http://www.ci.blaine.wa.us	Blaine	1998.0	246.0
+57827	http://www.quilcene.wednet.edu/site/default.aspx?PageID=1	Quilcene School District	2012.0	6.0
+57828	http://schools.fwps.org/twain/	Mark Twain Elementary School	2004.0	354.0
+57829	http://www.omaksd.wednet.edu/site/default.aspx?PageID=1	Omak School District	2013.0	19.0
+57830	http://www.lyndenwa.org	Lynden	1999.0	238.0
+57831	http://ci.granite-falls.wa.us/	Granite Falls	2009.0	25.0
+57832	http://www.kcls.org/lakehills/	Lake Hills Library	2007.0	829.0
+57833	http://www.cityoflfp.com	Lake Forest Park	2000.0	700.0
+57834	http://www.tacomapubliclibrary.org/Default.aspx	Tacoma Public Library	2005.0	269.0
+57835	http://www.pencol.edu/	Peninsula College	2008.0	774.0
+57836	http://www.sos.wa.gov/library/default.aspx	Library, State	2009.0	607.0
+57837	http://www.wvc.edu/	Wenatchee Valley College	2002.0	650.0
+57839	http://www.lacenterschools.org/	LaCenter School District	0.0	287.0
+57841	http://www.wsp.wa.gov	State Patrol, Washington	2003.0	41.0
+57842	http://www.cityofmattawa.com	Mattawa	2011.0	11.0
+57843	http://www.longviewlibrary.org	Longview Public Library	2002.0	1032.0
+57844	http://www.cityofbuckley.com	Buckley	2001.0	564.0
+57845	http://www.welcometowahkiakum.com/mules.html	Wahkiakum School District	2004.0	0.0
+57846	http://www.ci.bothell.wa.us	Bothell	2000.0	372.0
+57847	http://www.kcls.org/redmond/	Redmond Library	2007.0	831.0
+57848	http://bellinghamschools.org/	Bellingham School District	2010.0	2539.0
+57849	http://www.ghc.edu/	Grays Harbor College	2007.0	708.0
+57850	http://www.cfc.wa.gov	Caseload Forecast Council, State of Washington	2003.0	72.0
+57851	http://district.fifeschools.com/	Fife Public Schools	2011.0	96.0
+57852	http://www.leg.wa.gov/jlarc/pages/default.aspx	Audit and Review Committee, Joint Legislative	2009.0	16.0
+57853	http://schools.fwps.org/lakota/	Lakota Middle School	2004.0	1091.0
+57854	http://www.tacomacc.edu/	Tacoma Community College	2005.0	2475.0
+57855	http://fvrl.ent.sirsi.net/client/default/	Fort Vancouver Regional Library District	0.0	538.0
+57856	http://www.townofnaches.com/	Naches	2009.0	12.0
+57857	http://www.perc.wa.gov	Public Employment Relations Commission	2002.0	7889.0
+57859	http://www.kent.k12.wa.us/ph	Kent Phoenix Academy	2011.0	4374.0
+57860	http://www.wvsd208.org	West Valley School District (Yakima)	2002.0	27.0
+57861	http://washingtonarmyguard.org/	Army National Guard	2007.0	45.0
+57862	http://geography.wa.gov/wagic/	Geographic Information Council, Washington State	2012.0	2.0
+57864	http://www.gmhb.wa.gov/	Growth Management Hearings Board	2002.0	56.0
+57865	http://www.osgov.com	Ocean Shores	2001.0	45.0
+57866	http://www.halcyon.com/arborhts/arborhts.html	Arbor Heights Elementary	1998.0	346.0
+57867	http://www.co.walla-walla.wa.us/departments/sup1/index.shtml	Walla Walla County Court	2007.0	2.0
+57870	http://www.kcls.org/newportway/	Newport Way Library	2007.0	812.0
+57873	http://www.lacrossewa.us	LaCrosse	2007.0	51.0
+57874	http://www.omwbe.wa.gov	Minority and Women's Business Enterprises, Office of	1998.0	4607.0
+57875	http://www.lopezlibrary.org/	Lopez Island Library District	2004.0	96.0
+57876	http://www.wstc.wa.gov/	Transportation Commission, State	2005.0	50.0
+57877	http://www.wsac.wa.gov/	Washington Student Achievement Council	2012.0	86.0
+57878	http://www.cityofpuyallup.org/library/	Puyallup Public Library	2009.0	416.0
+57879	http://www.nthurston.k12.wa.us/chinook	Chinook Middle School	2002.0	2076.0
+57880	http://home.wsd.wednet.edu	Wenatchee School District	1997.0	96.0
+57881	http://www.governor.wa.gov/	Governor, Office of the	1999.0	308.0
+57882	http://methow.org/	Methow Valley School District	1999.0	277.0
+57883	http://www.dol.wa.gov/business/landscapearchitects/laboard.html	Landscape Architects, Board of Registration for	2006.0	27.0
+57884	http://wallawallapubliclibrary.org	Walla Walla Public Library	2009.0	72.0
+57885	http://www.wa-k20.net/	K-20 Education Network	1998.0	74.0
+57886	http://www.mtpleasantschool.org/	Mount Pleasant School District	2011.0	18.0
+57887	http://www.rtc.edu/	Renton Technical College	2002.0	731.0
+57888	http://www.toppenish.wednet.edu/admin_home.cfm	Toppenish School District	2009.0	0.0
+57889	http://www.mtadams.wednet.edu/site/default.aspx?PageID=1	Mount Adams School District	2013.0	5.0
+57891	http://www.ocla.wa.gov/	Civil Legal Aid, Office of	2007.0	15.0
+57893	http://www.leg.wa.gov/house/Pages/default.aspx	House of Representatives, Washington State	2009.0	17.0
+57894	http://www.kcls.org/southcenter/	Library Connection At Southcenter	2004.0	801.0
+57895	http://www.stjohnwa.com	St. John	2004.0	10.0
+57896	http://www.cwu.edu/	Central Washington University	1997.0	6481.0
+57898	http://www.cityofcheney.org	Cheney	2003.0	210.0
+57899	http://www.islandcounty.net/superiorcourt/	Island County Court	2006.0	19.0
+57901	http://www.kcls.org/covington/	Covington Library	2007.0	813.0
+57902	http://www.bsd405.org/	Bellevue School District	2003.0	433.0
+57903	http://bucoda.us	Bucoda	2014.0	17.0
+57904	http://schools.fwps.org/decatur/	Decatur High School	2004.0	79.0
+57905	http://www.spl.org/locations/northgate-branch	Seattle Public Library - Northgate	2011.0	303.0
+57906	http://www.dsd.k12.wa.us/	Darrington School District	2001.0	35.0
+57907	http://schools.fwps.org/silverlake/	Silver Lake Elementary School	2004.0	182.0
+57908	http://www.psd1.org/site/default.aspx?PageID=1	Pasco School District	2011.0	11.0
+57909	http://www.sno.wednet.edu	Snohomish School District	2000.0	390.0
+57912	http://www.cityofmabton.com/	Mabton	2013.0	16.0
+57913	http://www.rsd.edu/schools/sacajawea/	Sacajawea Elementary School	1999.0	53.0
+57914	http://www.tumwater.k12.wa.us/site/default.aspx?pagetype=15&siteid=8&directorytype=6&sectionmax=15	A.G. West Black Hills High Schools	0.0	15.0
+57915	http://olympiawa.gov/	Olympia	2006.0	1019.0
+57916	http://www.ci.mukilteo.wa.us	Mukilteo	1997.0	1909.0
+57917	http://www.spl.org/locations/montlake-branch	Seattle Public Library - Montlake	2011.0	330.0
+57918	http://www.rochester.wednet.edu/site/default.aspx?PageID=1	Rochester School District	2012.0	10.0
+57919	http://www.skagitcounty.net/Departments/Home	Skagit County	2014.0	836.0
+57920	http://www.shorelinewa.gov	Shoreline	2009.0	2104.0
+57921	http://www.cksd.wednet.edu/	Central Kitsap School District	1997.0	39.0
+57923	http://www.oksd.wednet.edu/site/default.aspx?PageID=1	Okanogan School District	2012.0	13.0
+57924	http://www.palisades.wednet.edu	Palisades School District	2004.0	8.0
+57925	http://www.peninsula.wednet.edu	Peninsula School District	1997.0	487.0
+57926	http://www.tukwila.wednet.edu	Tukwila School District	1999.0	958.0
+57927	http://www.wsu.edu/	Washington State University	1997.0	144.0
+57929	http://www.cityofnapavine.com	Napavine	2008.0	55.0
+57930	http://www.cersd.org/	Cle Elum-Roslyn School District	2012.0	94.0
+57931	http://nwms.ohsd.net/	North Whidbey Middle School	2001.0	397.0
+57932	http://www.islandcounty.net	Island County	1998.0	156.0
+57933	http://www.camas.wednet.edu/	Camas School District	1998.0	137.0
+57935	http://www.gsd54.org/site/default.aspx?PageID=1	Grapeview School District	2013.0	12.0
+57936	http://www.asd.wednet.edu/education/school/school.php?sectionid=1176	Haller Middle School	2007.0	0.0
+57937	http://www.mercerislandschools.org/site/default.aspx?PageID=1	Mercer Island School District	2012.0	111.0
+57938	http://www.redmond.gov	Redmond	2003.0	2418.0
+57940	http://www.ci.bremerton.wa.us	Bremerton	2001.0	638.0
+57941	http://www.asd.wednet.edu/education/school/school.php?sectionid=2	Arlington High School	2004.0	0.0
+57942	http://www.dol.wa.gov/business/architects/architectboard.html	Architects, Board of Registration for	2006.0	35.0
+57943	http://www.kcls.org/valleyview/	Valley View Library	2007.0	801.0
+57945	http://connect.issaquah.wednet.edu/high/skyline/default.aspx	Skyline High School	2009.0	393.0
+57947	http://okanogancounty.org/superiorcourt/	Okanogan County Court	2008.0	11.0
+57948	http://www.vansd.org/	Vancouver Public Schools	2000.0	2.0
+57949	http://wa.insightschools.net	Insight School of Washington	2009.0	40.0
+57951	http://www.kitsapgov.com/sc/	Kitsap County Court	2002.0	76.0
+57952	http://www.kcls.org/issaquah/	Issaquah Library	2007.0	804.0
+57953	http://www.chelanschools.org/site/default.aspx?PageID=1	Lake Chelan School District	0.0	28.0
+57954	http://washington.osd.wednet.edu/	Washington Middle School	2004.0	181.0
+57955	http://www.kcls.org/burien/	Burien Library	2007.0	810.0
+57957	http://www.kcls.org/fallcity/	Fall City Library	2007.0	798.0
+57959	http://www.tib.wa.gov/	Transportation Improvement Board	2000.0	48.0
+57960	http://www.pendoreilleco.org	Pend Oreille County	2009.0	6034.0
+57961	http://www.edmondswa.gov	Edmonds	2012.0	2711.0
+57963	http://schools.fwps.org/truman/	Truman High School	2004.0	53.0
+57965	http://www.spl.org/locations/university-branch	Seattle Public Library - University	2011.0	327.0
+57967	http://wht.asd103.org/	Whitney Primary School	2000.0	13.0
+57968	http://townofwilkeson.com	Wilkeson	2010.0	51.0
+57969	http://www.woodlandschools.org/	Woodland School District	2007.0	255.0
+57970	http://orientsd.org/	Orient School District	2013.0	57.0
+57974	http://www.kcls.org/maplevalley/	Maple Valley Library	2007.0	800.0
+57976	http://schools.fwps.org/enterprise/	Enterprise Elementary School	2004.0	177.0
+57977	http://schools.shorelineschools.org/shorewood/	Shorewood High School	2001.0	88.0
+57978	http://www.leg.wa.gov/jtc/pages/default.aspx	Joint Transportation Committee	2009.0	40.0
+57979	http://whs.wsd.wednet.edu/	Wenatchee High School	2000.0	309.0
+57981	http://www.clark.wa.gov	Clark County	2002.0	395.0
+57982	http://www.svalley.k12.wa.us	Summit Valley School District	2001.0	34.0
+57984	http://www.newport-wa.org	Newport	2000.0	22.0
+57985	http://www.portangelesschools.org	Port Angeles School District	2003.0	114.0
+57986	http://www.cityofconnell.com	Connell	2001.0	519.0
+57987	http://www.centralia.k12.wa.us/site/default.aspx?PageID=1	Centralia School District	2011.0	66.0
+57988	http://www.kcls.org/vashon/	Vashon Library	2007.0	800.0
+57989	http://www.cityofenumclaw.net	Enumclaw	2001.0	7.0
+57990	http://www.ci.everson.wa.us/index.html	Everson	2006.0	49.0
+57991	http://www.sanjuanco.com/suprcourt/default.aspx	San Juan County Court	2008.0	6.0
+57992	http://www.nkschools.org/site/default.aspx?PageID=1	North Kitsap School District	2012.0	234.0
+57994	http://www.lsdfa.org/	Life Sciences Discovery Fund Authority	2007.0	138.0
+57996	http://www.darringtonelementaryschool.com	Darrington Elementary School	2013.0	11.0
+57999	http://www.spl.org/locations/rainier-beach-branch	Seattle Public Library - Rainier Beach	2011.0	302.0
+58000	http://www.bellevuewa.gov	Bellevue	2006.0	3274.0
+58002	http://www.eho.wa.gov/boards_pchb.aspx	Pollution Control Hearings Board	2007.0	3.0
+58003	http://www.medina-wa.gov	Medina	2006.0	128.0
+58005	http://www.cityofpa.us	Port Angeles	2006.0	500.0
+58006	http://www.cascadia.edu/	Cascadia Community College	2008.0	388.0
+58007	http://www.cityofml.com/	Moses Lake	2011.0	892.0
+58008	http://www.pullman-wa.gov	Pullman	2004.0	2499.0
+58010	http://www.odessa.wednet.edu	Odessa School District	2002.0	11.0
+58012	http://www.tekoa.wednet.edu/	Tekoa School District	2003.0	11.0
+58013	http://oroville.wednet.edu/main.htm	Oroville School District	2005.0	2.0
+58014	http://www.olympic.edu	Olympic College	2004.0	1586.0
+58015	http://www.colsd.org/site/default.aspx?PageID=1	Colville School District	2011.0	10.0
+58016	http://www.kelso.wednet.edu	Kelso School District	1998.0	230.0
+58017	http://ellensburg.schoolfusion.us/	Ellensburg School District	2008.0	1494.0
+58018	http://ephrataschools.org	Ephrata School District	2005.0	384.0
+58019	http://www.cv.riverview.wednet.edu/	Cherry Valley Elementary School	1998.0	31.0
+58021	http://www.scsd.k12.wa.us	Stevenson-Carson School District	2000.0	175.0
+58022	http://lowelles.seattleschools.org/	Lowell Elementary School	2011.0	882.0
+58023	http://cityofraymond.com/	Raymond	2008.0	21.0
+58024	http://www.spl.org/locations/south-park-branch	Seattle Public Library - South Park	2011.0	327.0
+58027	http://ci.sultan.wa.us/	Sultan	1999.0	364.0
+58029	http://www.co.garfield.wa.us/superior-court	Garfield County Court	2011.0	141.0
+58030	http://www.yvrl.org/	Toppenish (Mary Goodrich Memorial) Library	2002.0	90.0
+58031	http://lewiscountywa.gov/	Lewis County	2009.0	1548.0
+58032	http://www.republicwa.org	Republic	2008.0	13.0
+58033	http://www.wshfc.org/	Housing Finance Commission	1999.0	58.0
+58035	http://www.cityofhoquiam.com	Hoquiam	2006.0	214.0
+58037	http://www.wenatcheewa.gov	Wenatchee	2007.0	1145.0
+58038	http://www.burienwa.gov	Burien	2007.0	744.0
+58039	http://www.spl.org/locations/central-library	Seattle Public Library - Central Library	2011.0	348.0
+58040	http://www.beauxarts-wa.gov	Beaux Arts Village	2004.0	17.0
+58041	http://www.starsd.wednet.edu/	Star School District	2005.0	13.0
+58042	http://www.sjlib.org	San Juan Island Library District	2000.0	447.0
+58043	http://www.kibesd.org/site/default.aspx?PageID=1	Kiona Benton School District	2011.0	32.0
+58044	http://www.highland.wednet.edu/education/district/district.php?sectionid=1	Highland School District	2010.0	3248.0
+58046	http://www.whitmancounty.org	Whitman County	2000.0	845.0
+58049	http://www.stanwood.wednet.edu	Stanwood-Camano School District	1999.0	597.0
+58050	http://www.csdk12.org/site/default.aspx?PageID=1	Clarkston School District	2011.0	10.0
+58051	http://schools.fwps.org/brig/	Brigadoon Elementary School	2004.0	301.0
+58052	http://www.cpaboard.wa.gov	Accountancy, State Board of	1999.0	134.0
+58054	http://washtucnawa.com	Washtucna	2011.0	90.0
+58055	http://www.oah.wa.gov	Administrative Hearings, Office of	2000.0	30.0
+58056	http://www.wvsd.com	West Valley School District (Spokane)	2001.0	294.0
+58057	http://www.bates.ctc.edu	Bates Technical College	1999.0	324.0
+58058	http://www.ortingschools.org/site/default.aspx?PageID=1	Orting School District	2012.0	9.0
+58061	http://fpschools.org	Franklin Pierce School District	2009.0	1232.0
+58062	http://www.columbiabasin.edu/	Columbia Basin College	2002.0	4410.0
+58063	http://www.ofm.wa.gov/servewa/	National and Community Service, Commission for	2003.0	42.0
+58065	http://www.spl.org/locations/high-point-branch	Seattle Public Library - High Point	2011.0	324.0
+58066	http://www.kcls.org/kenmore/	Kenmore Library	2007.0	802.0
+58068	http://paideiahs.org/	Paideia High School	2012.0	218.0
+58069	http://www.innovatewashington.org/	Innovate Washington	2011.0	122.0
+58073	http://rentonwa.gov	Renton	2003.0	1336.0
+58074	http://www.ltgov.wa.gov/	Lieutenant Governor, Office of	2002.0	135.0
+58075	http://www.spl.org/locations/newholly-branch	Seattle Public Library - Newholly	2011.0	325.0
+58076	http://www.ridge.k12.wa.us/site/default.aspx?PageID=1	Ridgefield School District	2012.0	48.0
+58077	http://www.onysd.wednet.edu/	Onalaska School District	1997.0	43.0
+58078	http://www.erdc.wa.gov/	Education Research and Data Center	2007.0	28.0
+58080	http://www.wscc.com/	State Convention & Trade Center	1996.0	141.0
+58082	http://www.monroewa.gov	Monroe	2012.0	527.0
+58084	http://www.ci.goldendale.wa.us	Goldendale	2001.0	185.0
+58085	http://www.sunnyside-wa.gov	Sunnyside	2012.0	610.0
+58086	http://www.pendoreilleco.org/county/superior.asp	Pend Oreille County Court	2009.0	441.0
+58087	http://www.washingtonbeer.com/	Beer Commission	2004.0	6.0
+58089	http://www.lwsd.wednet.edu/site/default.aspx?domainid=313	Lakewood High School	0.0	19.0
+58090	http://www.commerce.wa.gov/Pages/default.aspx	Commerce, Department of	2012.0	350.0
+58091	http://www.keller.k12.wa.us/site/default.aspx?PageID=1	Keller School District	2012.0	4.0
+58092	http://www.snohomishcountywa.gov/	Snohomish County Court	2014.0	1621.0
+58093	http://www.odessawa.com	Odessa	1999.0	16.0
+58094	http://sboh.wa.gov/Home.aspx	Health, Washington State Board of	2013.0	132.0
+58095	http://waasparagus.com/	Asparagus Commission	2012.0	19.0
+58096	http://www.sjisd.wednet.edu/site/default.aspx?PageID=1	San Juan School District	2011.0	16.0
+58097	http://www.ptsd.wednet.edu/highschool/default.html	Port Townsend High School	1999.0	12.0
+58098	http://www.garpal.net/site/default.aspx?PageID=1	Garfield-Palouse Cooperative Schools	2013.0	7.0
+58099	http://www.be.wednet.edu/site/default.aspx?PageID=1	Burlington-Edison School District	2012.0	73.0
+58100	http://www.rsd.edu/	Richland School District	1997.0	539.0
+58101	http://www.lakestevenswa.gov	Lake Stevens	2012.0	438.0
+58102	http://library.cityofanacortes.org/client/default	Anacortes Public Library	0.0	460.0
+58103	http://www.oakvillecityhall.com/	Oakville	2010.0	173.0
+58104	http://www.spl.org/locations/fremont-branch	Seattle Public Library - Fremont	2011.0	325.0
+58105	http://www.lopezislandschool.org/	Lopez School District	2009.0	130.0
+58106	http://www.kcls.org/northbend/	North Bend Library	2007.0	795.0
+58107	http://www.evergreenps.org/Pages/default.aspx	Evergreen School District (Clark)	2007.0	297.0
+58109	http://www.wapatosd.org	Wapato School District	2011.0	13.0
+58112	http://wahardwoodscomm.com	Hardwoods Commission	2006.0	16.0
+58113	http://www.centralia.k12.wa.us/cms	Centralia Middle School	2011.0	1208.0
+58115	http://www.leg.wa.gov/scpp/Pages/default.aspx	Pension Policy, Select Committee on	2009.0	9.0
+58116	http://schools.fwps.org/adelaide/	Adelaide Elementary School	2004.0	44.0
+58118	http://www.wahibluedevils.org/	Walla Walla High School	2008.0	1903.0
+58120	http://www.selkirk.k12.wa.us	Selkirk School District	2001.0	210.0
+58121	http://www.centralia.k12.wa.us/oak	Oakview Elementary School	2011.0	1293.0
+58122	http://www.crab.wa.gov/	County Road Administration Board	1996.0	293.0
+58123	http://www.lkstevens.wednet.edu/sunnycrest/	Sunnycrest Elementary	2000.0	1.0
+58124	http://www.del.wa.gov/	Early Learning, Department of	2006.0	282.0
+58125	http://www.tms.riverview.wednet.edu/	Tolt Middle School	1998.0	47.0
+58126	http://www.whitepass.k12.wa.us	White Pass School District	2009.0	15.0
+58128	http://www.seatacosc.org/	SeaTac Occupational Skills Center	2001.0	15.0
+58130	http://www.dshs.wa.gov/hrsa/odhh/	Deaf and Hard of Hearing, Office of the	2002.0	37.0
+58131	http://www.asd.wednet.edu/education/school/school.php?sectionid=5	Pioneer Elementary	2004.0	0.0
+58132	http://www.dahp.wa.gov	Archaeology & Historic Preservation, Department of	2006.0	359.0
+58133	http://www.evergreen.edu/	The Evergreen State College	1996.0	342.0
+58134	http://www.washingtonwine.org/	Wine Commission	1998.0	1780.0
+58135	http://schools.fwps.org/lakeland/	Lakeland Elementary School	2004.0	256.0
+58136	http://www.bingenwashington.org	Bingen	2001.0	1.0
+58137	http://www.freemansd.org/site/default.aspx?PageID=1	Freeman School District	2012.0	5.0
+58138	http://www.rsd.edu/schools/jefferson/	Jefferson Elementary School	1999.0	107.0
+58139	http://www.co.cowlitz.wa.us	Cowlitz County	2001.0	1394.0
+58140	http://www.sje.wednet.edu	Endicott School District	2001.0	73.0
+58142	http://www.whcfa.wa.gov/	Health Care Facilities Authority	2000.0	37.0
+58143	http://www.curlew.wednet.edu/site/default.aspx?PageID=1	Curlew School District	2013.0	6.0
+58144	http://www.co.grant.wa.us	Grant County	2003.0	95.0
+58145	http://scc.wa.gov/	Conservation Commission, State	2002.0	868.0
+58146	http://www.inchelium.wednet.edu/site/default.aspx?PageID=1	Inchelium School District	2013.0	6.0
+58148	http://www.spl.org/locations/west-seattle-branch	Seattle Public Library - West Seattle	2011.0	302.0
+58149	http://schools.fwps.org/tbhs/	Todd Beamer High School	2004.0	99.0
+58150	http://www.spl.org/locations/greenwood-branch	Seattle Public Library - Greenwood	2011.0	304.0
+58151	http://www.spl.org/locations/queen-anne-branch	Seattle Public Library - Queen Anne	2011.0	347.0
+58152	http://www.medical-lake.org	Medical Lake	2001.0	1123.0
+58153	http://schools.fwps.org/gg/	Green Gables Elementary School	2004.0	212.0
+58156	http://www.spl.org/locations/ballard-branch	Seattle Public Library - Ballard	2011.0	307.0
+58157	http://www.carnationwa.gov	Carnation	2011.0	716.0
+58160	http://www.ferry-county.com/	Ferry County	2000.0	34.0
+58161	http://www.orcaslibrary.org	Orcas Island Library District	2000.0	50.0
+58162	http://www.cityofportorchard.us/index.php	Port Orchard	2008.0	285.0
+58163	http://wabeef.org/	Beef Commission	2003.0	95.0
+58164	http://www.washougal.k12.wa.us	Washougal School District	1999.0	113.0
+58165	http://schools.gorge.net/whitesalmon/chs/	Columbia High School	0.0	1.0
+58166	http://www.potatoes.com/	Potato Commission	1996.0	253.0
+58167	http://www.lwsd.wednet.edu/site/default.aspx?PageID=1	Lakewood School District	2013.0	34.0
+58168	http://www.ci.blackdiamond.wa.us	Black Diamond	2007.0	67.0
+58170	http://www.cityoffederalway.com	Federal Way	2001.0	951.0
+58171	http://www.ocsd30.org/	Onion Creek School District	2005.0	3243.0
+58172	http://www.courts.wa.gov/library/	Law Library, State	2001.0	34.0
+58173	http://www.clarkston-wa.com	Clarkston	2008.0	377.0
+58174	http://www.pomeroy.lib.wa.us	Pomeroy (Denny Ashby) Library	2006.0	362.0
+58175	http://www.co.adams.wa.us/departments/superior.asp	Adams County Court	2008.0	74.0
+58176	https://www.sheltonschools.org/default.aspx	Shelton School District	2011.0	1237.0
+58177	http://www.msvl.k12.wa.us/	Marysville School District	2002.0	77.0
+58178	http://www.northbeach.k12.wa.us/site/default.aspx?PageID=1	North Beach School District	2011.0	7.0
+58180	http://www.davenportwa.us	Davenport	2011.0	213.0
+58181	http://www.riversidesd.org/	Riverside School District	1998.0	119.0
+58182	http://schools.fwps.org/nautilus/	Nautilus Elementary School	2004.0	188.0
+58183	http://www.rustonwa.org	Ruston	2008.0	248.0
+58184	http://www.blaine.wednet.edu/	Blaine School District	1998.0	38.0
+58186	http://www.co.thurston.wa.us/home/index.asp	Thurston County	2010.0	2.0
+58187	http://www.ci.sammamish.wa.us	Sammamish	2000.0	4934.0
+58188	http://www.sunnysideschools.org/	Sunnyside School District	2011.0	652.0
+58189	http://www.longview.k12.wa.us	Longview Public Schools	2000.0	138.0
+58190	http://cva.org/	Columbia Virtual Academy	2000.0	61.0
+58191	http://www.okanogancounty.org	Okanogan County	1998.0	34.0
+58192	http://schools.fwps.org/twinlakes/	Twin Lakes Elementary School	2004.0	237.0
+58193	http://schools.fwps.org/kilo/	Kilo Middle School	2004.0	271.0
+58194	http://www.rco.wa.gov/	Recreation and Conservation Office	2007.0	127.0
+58195	http://www.easton.wednet.edu	Easton School District	2003.0	20.0
+58196	http://www.ecy.wa.gov	Ecology, Department of	2000.0	5498.0
+58197	http://www.leg.wa.gov/help/pages/default.aspx	Legislature Customer Service Center	2009.0	11.0
+58199	http://www.hca.wa.gov/pebb/Pages/index.aspx	Public Employees Benefits Board Program	2013.0	98.0
+58200	http://www.willapa.wednet.edu/	Willapa Valley School District	1999.0	9.0
+58201	http://schools.fwps.org/ov/	Olympic View Elementary School	2006.0	290.0
+58202	http://www.waseedpotato.com/	Seed Potato Commission	2001.0	7.0
+58206	http://www.daytonwa.com	Dayton	1998.0	57.0
+58207	http://www.cheneysd.org/site/default.aspx?PageID=1	Cheney School District	2013.0	11.0
+58208	http://www.ci.newcastle.wa.us	Newcastle	1998.0	76.0
+58209	http://www.ci.seatac.wa.us	SeaTac	0.0	1185.0
+58211	http://www.k12.wa.us	Public Instruction, Office of Superintendent of	1999.0	1923.0
+58212	http://www.asd.wednet.edu/education/school/school.php?sectionid=4	Kent Prairie Elementary	2004.0	0.0
+58213	http://webold.nsd.org/education/components/scrapbook/default.php?sectionid=37	Woodinville High School	0.0	0.0
+58214	http://www.dol.wa.gov	Licensing, Department of	1998.0	1239.0
+58215	http://access.wa.gov/	State Government	1998.0	459.0
+58216	http://www.vancouver.wsu.edu/	Washington State University Vancouver	1996.0	61.0
+58217	http://www.ci.ellensburg.wa.us	Ellensburg	1997.0	731.0
+58218	http://www.entiat.org/	Entiat	2003.0	86.0
+58219	http://www.cloverpark.k12.wa.us/	Clover Park School District	2001.0	39.0
+58221	http://www.cityoftacoma.org	Tacoma	2000.0	3463.0
+58223	http://www.nvsd.org/	Naches Valley School District	2008.0	880.0
+58226	http://www.co.pierce.wa.us	Pierce County	1996.0	6233.0
+58228	http://www.chewelah.k12.wa.us/site/default.aspx?PageID=1	Chewelah School District	2013.0	21.0
+58230	http://www.leg.wa.gov/senate/Pages/default.aspx	Senate, Washington State	2009.0	2.0
+58232	http://www.wilsoncreek.org	Wilson Creek School District	2001.0	277.0
+58233	http://www.shoreline.edu/	Shoreline Community College	2003.0	1351.0
+58234	http://brown.osd.wednet.edu/	L.P. Brown Elementary School	2003.0	19.0
+58235	http://www.touchet.k12.wa.us/	Touchet School District	2013.0	14.0
+58236	http://www.doh.wa.gov	Health, Department of	1996.0	4110.0
+58237	http://www.co.grays-harbor.wa.us/info/superiorcourt/index.html	Grays Harbor County Court	2013.0	9.0
+58241	http://www.co.whatcom.wa.us/superior/	Whatcom County Court	2000.0	47.0
+58242	http://www.wsp.wa.gov/fire/firemars.htm	State Fire Marshal, Office of the	2003.0	50.0
+58244	http://marymknightschooldistrict.yolasite.com/	Mary M Knight School District	2012.0	3.0
+58245	http://www.ofm.wa.gov/labor/	Labor Relations Division	2004.0	37.0
+58246	http://www.satsopschool.org/	Satsop School District	2010.0	5.0
+58247	http://www.cityofkalama.com	Kalama	1999.0	885.0

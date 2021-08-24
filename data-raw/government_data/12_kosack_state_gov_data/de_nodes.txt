@@ -1,0 +1,447 @@
+NodeId	NodeURL	NodeName	Year	pages
+12114	http://elsmere.delaware.gov/	Elsmere	2010.0	162.0
+12115	http://campuscommunityschoo.fatcow.com/	CAMPUS COMMUNITY	0.0	1.0
+12116	http://dcdalregistration.webs.com/	Delaware Center for  Distance Adult Learning	0.0	2.0
+12117	http://harrington.delaware.gov	Harrington	2012.0	212.0
+12118	http://www.reddingms.org/	Redding Middle	0.0	888.0
+12119	http://www.maclaryes.org/	Maclary Elementary	0.0	514.0
+12120	http://www.edline.net/pages/rcmarbrook	Marbrook Elementary	2010.0	11.0
+12121	http://www.delawareworks.com/	Labor, Department of	2000.0	13.0
+12122	http://electionssc.delaware.gov/	Elections, Department of, Sussex County	2007.0	30.0
+12123	http://magnolia.delaware.gov/	Magnolia	2010.0	30.0
+12124	http://courts.delaware.gov/cprb/	Child Placement Review Board, Delaware	2008.0	2.0
+12126	http://www.brandywineschools.org/lancashire	Lancashire  Elementary	2012.0	3782.0
+12127	http://www.nccvotech.com/	New Castle County Vo-Tech School District, Education	2003.0	308.0
+12128	http://www.hodgsonde.com/	Hodgson High	2013.0	58.0
+12129	http://www.pulaskies.org/	Pulaski Elementary	0.0	504.0
+12130	http://www.destateparks.com/	Parks and Recreation, DNREC	1999.0	175.0
+12131	https://www.dtcc.edu/our-campuses/georgetown	Owens Campus, Jack F., Del. Tech.	2012.0	26.0
+12132	http://mca.milfordschooldistrict.org/	Milford Central Academy	0.0	755.0
+12133	http://dge.delaware.gov/	Gaming Enforcement, Division of, Safety & Homeland Security	2010.0	13.0
+12134	http://www.seafordde.com/	Seaford	1999.0	65.0
+12135	http://www.edline.net/pages/sdsa	Southern Delaware School of the Arts	2010.0	15.0
+12136	http://www.capehenlopenschools.com/education/dept/dept.php?sectionid=883	Little Vikings Learning Center	2010.0	3.0
+12137	http://www.edline.net/pages/georgetown_elementary_school	Georgetown Elementary	2010.0	12.0
+12138	http://www.apposchooldistrict.com/	District Office	0.0	911.0
+12139	http://www.fairview.capital.k12.de.us	Fairview Elementary	2007.0	2.0
+12140	http://ellendale.delaware.gov/	Ellendale	0.0	55.0
+12141	http://www.seafordbluejays.org	District Office	0.0	565.0
+12142	http://greenwood.delaware.gov/	Greenwood	2009.0	59.0
+12143	http://www.clecc.org/	Cedar Lane Early Childhood Center	0.0	281.0
+12145	http://libraries.delaware.gov/	Libraries, Division of, State	2012.0	17.0
+12146	http://scpd.delaware.gov/	State Council for Persons with Disabilities, DSHS	0.0	20.0
+12147	http://www.violade.com/	Viola	2004.0	11.0
+12148	http://www.pms.cr.k12.de.us/	Postlethwait Middle	2007.0	1582.0
+12149	http://www.dhss.delaware.gov/dhss/dsaapd/index.html	Aging and Adults with Physical Disabilities, DHSS	2005.0	290.0
+12150	http://www.north.capital.k12.de.us	North Dover Elementary	2007.0	2.0
+12151	http://www.townofslaughterbeach.com/	Slaughter Beach	2011.0	20.0
+12152	http://southern.colonial.k12.de.us/	Southern  Elementary	2012.0	25.0
+12153	http://dfm.delaware.gov/	Facilities Management, Management & Budget	2007.0	77.0
+12154	http://www.brandywineschools.org/maple	Maple Lane Elementary	2012.0	3651.0
+12155	http://wses.seafordbluejays.org	West Seaford Elementary	0.0	455.0
+12156	http://www.brown.cr.k12.de.us/	Brown Elementary	2007.0	1606.0
+12157	http://www.cabcallowayschool.org	Austin D. Baltz Elementary	2010.0	99.0
+12158	http://archives.delaware.gov/	Archives, State	2007.0	148.0
+12159	http://www.stubbses.org/	Stubbs Elementary	0.0	630.0
+12161	http://www.smyrna.k12.de.us/	Smyrna School District, Education	0.0	94.0
+12162	http://www.edline.net/pages/rccentral	The Central School	2011.0	45.0
+12163	http://www.wsd.k12.de.us/	Woodbridge School District, Education	2001.0	46.0
+12164	http://www.csdreachprogram.org	REACH Program	0.0	458.0
+12165	http://www.sussexvt.k12.de.us/	Sussex Technical	1998.0	713.0
+12166	http://me.milfordschooldistrict.org/	Morris Early Childhood Center	0.0	388.0
+12167	http://www.wsd.k12.de.us/pwms/pwms.htm	Phillis Wheatley Middle	2008.0	0.0
+12168	http://www.dhss.delaware.gov/dhss/dss/index.html	Social Services, DHSS	2005.0	56.0
+12169	http://gunningbedford.colonial.k12.de.us/	Gunning Bedford Middle	2012.0	73.0
+12170	http://legis.delaware.gov/legislature.nsf/lookup/senatehome?open&nav=senate	State Senate	2009.0	2.0
+12171	http://www.brandywineschools.org/claymont	Claymont Elementary	2012.0	3863.0
+12172	http://gacec.delaware.gov/	Exceptional Citizens, Governor's Advisory Council	2009.0	17.0
+12173	http://www.edline.net/pages/phillip_c_showell_es	Showell Elementary	2011.0	13.0
+12174	http://www.stokes.cr.k12.de.us/	Stokes Elementary	2007.0	1575.0
+12175	http://nles.laurelschooldistrict.org/	North Laurel Elementary	0.0	367.0
+12176	http://gss.omb.delaware.gov/	Support Services, Management & Budget	2007.0	98.0
+12177	http://brandywineschools.org/page/936	Hanby Elementary	2014.0	33.0
+12178	http://www.frear.cr.k12.de.us/	Frear Elementary	2007.0	1581.0
+12179	http://www.166aw.ang.af.mil/	Air National Guard, Delaware	2008.0	704.0
+12180	http://www.delawarepersonnel.com/	Human Resource Management, Management & Budget	2001.0	184.0
+12181	http://www.dmv.de.gov/	Motor Vehicles, Division of, Transportation	2003.0	257.0
+12182	http://www.dcpacademy.org/	Delaware College Preparatory Academy	2009.0	56.0
+12183	http://www.wsd.k12.de.us/wes/wes.htm	Woodbridge Elementary	2008.0	0.0
+12184	http://divcomm.delaware.gov/	Communications, Div. of, Safety & Homeland Security	2007.0	22.0
+12185	http://www.appoecc.org/	Appoquinimink Early Childhood Center	0.0	317.0
+12186	http://www.townofbowersbeach.org/	Bowers Beach	2009.0	62.0
+12187	http://dda.delaware.gov/marketing/index.shtml	Marketing, Agriculture	2007.0	24.0
+12188	http://merb.delaware.gov/	Merit Employee Relations Board, State	2007.0	12.0
+12190	http://www.thomasedison.charter.k12.de.us/education/school/school.php?sectionid=13	Thomas A. Edison Charter	2011.0	1.0
+12191	http://douglass-school.weebly.com/	J. H. Douglass	2013.0	5.0
+12192	http://www.edline.net/pages/rclindenhill	William C. Lewis Dual Language Elementary	2012.0	49.0
+12193	http://dsp.delaware.gov/	Police, Delaware State, Safety & Homeland Security	2007.0	3951.0
+12194	http://www.daccte.k12.de.us/	Delaware Advisory Council on Career and Technical Education	2009.0	13.0
+12195	http://www.brandywineschools.org/concord	Concord High	2012.0	3620.0
+12196	http://carriedownie.colonial.k12.de.us/	Carrie Downie Elementary	2013.0	80.0
+12197	http://www.christina.k12.de.us/christiana/	Christiana High	2003.0	1.0
+12200	http://www.wsd.k12.de.us/whs/whs.htm	Woodbridge High	2008.0	0.0
+12201	http://sussex.de.schoolwebpages.com/education/school/school.php?sectionid=2	Sussex County Vo-Tech School District, Education	2004.0	1.0
+12202	http://www.cr.k12.de.us/	Caesar Rodney School District, Education	2007.0	6.0
+12203	http://www.edline.net/pages/rcaihs	A. I. DuPont High	2013.0	80.0
+12204	http://www.brickmilldolphins.org/	Brick Mill Elementary	0.0	511.0
+12205	http://www.middletownde.org/	Middletown	2004.0	721.0
+12206	http://pldes.laurelschooldistrict.org/	Dunbar Elementary	0.0	310.0
+12207	http://thenewmoyeracademy.org	Moyer Academy	2013.0	487.0
+12208	http://kuumbaacademy.org/	Kuumba Aademy	2005.0	699.0
+12209	http://www.brandywineschools.org/forwood	Forwood  Elementary	2012.0	3730.0
+12210	http://accounting.delaware.gov/	Accounting, Division of, Finance	2007.0	58.0
+12211	http://www.edline.net/pages/rcbaltz	Austin D. Baltz Elementary	2010.0	37.0
+12212	http://gss.omb.delaware.gov/osd/	Supplier Diversity, Office of, Management & Budget	2012.0	21.0
+12213	http://www.starhill.cr.k12.de.us/	Star Hill Elementary	2007.0	1577.0
+12214	http://www.wmhenry.capital.k12.de.us	William Henry Middle	2007.0	5.0
+12215	http://southcoastal.lib.de.us/	South Coastal Library	2005.0	31.0
+12216	http://be.milfordschooldistrict.org/	Banneker Elementary	0.0	615.0
+12217	http://www.oldstateelementary.org/	Old State Elementary	0.0	509.0
+12218	http://finance.delaware.gov/	Finance, Department of	2007.0	32.0
+12219	http://attorneygeneral.delaware.gov/	Attorney General Joseph R. Biden, III	2007.0	98.0
+12220	http://www.motcharter.com/	M.O.T. Charter	2002.0	1243.0
+12221	http://dhss.delaware.gov/dhcc/	Health Care Commission, DHSS	2009.0	49.0
+12223	http://pleasantville.colonial.k12.de.us/	Pleasantville  Elementary	2012.0	85.0
+12224	http://www.edline.net/pages/rcrichardsonpark	Richardson Park Elementary	2010.0	23.0
+12225	http://www.delawareinsurance.gov/	Insurance Commissioner Karen Weldin Stewart	2006.0	92.0
+12226	http://dda.delaware.gov/thoroughbred/index.shtml	Thoroughbred Racing Commission, Agriculture	2007.0	15.0
+12227	http://wyoming.delaware.gov/	Wyoming	2011.0	77.0
+12228	http://omb.delaware.gov/	Management and Budget, Office of, Executive	2005.0	78.0
+12229	http://www.deldot.gov/index.shtml	Transportation, Department of	2005.0	829.0
+12230	http://www.codhhe.delaware.gov	Council On Deaf and Hard of Hearing Equality	2007.0	22.0
+12232	http://www.delottery.com/index.asp	Lottery Office, State, Finance	2007.0	379.0
+12233	http://www.cedarlaneschool.org/	Cedar Lane Elementary	0.0	593.0
+12234	http://newport.delaware.gov/	Newport	2010.0	55.0
+12235	http://www.georgetowndel.com/	Georgetown	2005.0	455.0
+12236	http://afriendofthefamily.com/wordpress/?page_id=168	Brandywine Community School	2011.0	16.0
+12237	http://www.ci.lewes.de.us/	Lewes	1999.0	213.0
+12238	http://www.cityofrehoboth.com/	Rehoboth Beach	2001.0	257.0
+12239	http://www.edline.net/pages/rcforestoak	First State School	2013.0	43.0
+12240	http://www.delawarestatewideprograms.org/	Sterck	2013.0	10.0
+12241	http://www.prestigeacademycs.org/	Prestige Academy	2007.0	36.0
+12242	http://www.reachacademyforgirls.org/	Reach Academy	2010.0	1159.0
+12243	http://www.gallaheres.org/	Gallaher Elementary	0.0	740.0
+12244	http://www.dnrec.delaware.gov/energy/pages/default.aspx	Energy & Climate, DNREC	2009.0	23.0
+12245	http://townsend.delaware.gov/	Townsend	0.0	124.0
+12246	http://legis.delaware.gov/legislature.nsf/?opendatabase	General Assembly, Delaware	2007.0	512.0
+12247	http://www.brooksidees.org	Brookside Elementary	0.0	483.0
+12248	http://www.townofselbyville.com/	Selbyville	2002.0	6.0
+12249	http://statefirecommission.delaware.gov/	Fire Prevention Commission	2007.0	8.0
+12250	http://blades.delaware.gov/	Blades	2012.0	148.0
+12251	http://dda.delaware.gov/nutrients/index.shtml	Nutrient Management, Agriculture	2007.0	27.0
+12252	http://www.dgs.udel.edu/	Delaware Geological Survey	2007.0	1899.0
+12254	http://electionsncc.delaware.gov/	Elections, Department of, New Castle County	2005.0	244.0
+12255	http://revenue.delaware.gov/	Revenue, Division of, Finance	2007.0	109.0
+12256	http://www.sussexcountyde.gov/	Sussex County	2004.0	912.0
+12257	http://statehumanrelations.delaware.gov/	Human Relations, Division of, State	2007.0	24.0
+12258	http://det.delawareworks.com/	Employment & Training, Labor	2011.0	12.0
+12259	http://kids.delaware.gov/mss/mss.shtml	Management Support Services, DSCYF	2007.0	20.0
+12260	http://www.agwaters.org/	Alfred Waters Middle	0.0	1053.0
+12261	http://www.brandywineschools.org/carrcroft	Carrcroft Elementary	2012.0	4020.0
+12262	http://flc.delaware.gov/	Family Law Commission	2007.0	9.0
+12263	http://www.charlton.cr.k12.de.us/	Charlton	2010.0	1575.0
+12264	http://courts.delaware.gov/aoc/jic.stm	Judicial Information Center	2010.0	63.0
+12265	http://www.brandywineschools.org/harlan	Harlan  Elementary	2012.0	4128.0
+12266	http://depic.delaware.gov/	Public Integrity Commission, State	2007.0	41.0
+12267	http://www.cheswoldde.com/	Cheswold	2008.0	143.0
+12268	http://www.dhss.delaware.gov/dhss/dvi/index.html	Visually Impaired, DHSS	2005.0	37.0
+12269	http://www.east.capital.k12.de.us	East Dover Elementary	2007.0	1.0
+12270	http://dda.delaware.gov/aglands/index.shtml	Land Use Planning and Preservation, Agriculture	2007.0	8.0
+12271	http://www.edline.net/pages/rcconrad	The Central School	2010.0	46.0
+12272	http://www.edline.net/pages/sussex_central_high_school	Sussex Central High	2011.0	16.0
+12273	http://eastsidecharterschool.org/	East Side Charter	0.0	19.0
+12274	http://www.olivebloss.org/	Olive B. Loss Elementary	0.0	973.0
+12275	http://publicdefender.delaware.gov/	Public Defender, Office of the	2007.0	28.0
+12276	http://wmpenn.colonial.k12.de.us/	William Penn High	2012.0	82.0
+12277	http://capitolpd.delaware.gov/	Police, Delaware Capitol, Safety & Homeland Security	0.0	16.0
+12278	http://www.appohigh.org/	Appoquinimink High	0.0	1169.0
+12279	http://www.dnrec.delaware.gov/dwhs/pages/default.aspx	Waste & Hazardous Substances, DNREC	2013.0	20.0
+12280	http://lhs.laurelschooldistrict.org/	Laurel High	0.0	1157.0
+12281	http://www.delawarenationalguard.com/	National Guard, Delaware	2001.0	183.0
+12282	http://www.mcveyes.org/	McVey Elementary	0.0	562.0
+12283	http://fdes.seafordbluejays.org	Douglass Elementary	0.0	432.0
+12284	http://dda.delaware.gov/poultryah/index.shtml	Poultry & Animal Health, Agriculture	2007.0	11.0
+12285	http://boardofparole.delaware.gov/	Parole, Board of	2011.0	13.0
+12286	http://ui.delawareworks.com/	Unemployment Insurance, Division of, Labor	2011.0	15.0
+12287	http://www.delawarenewtech.org	New Tech Academy	2011.0	26.0
+12288	http://www.edline.net/pages/rchighlands	Highlands Elementary	2013.0	55.0
+12289	http://www.dhss.delaware.gov/dhss/dssc/index.html	State Service Centers, DHSS	2005.0	52.0
+12291	http://www.capehenlopenschools.com/education/components/layout/default.php?sectionid=34	Milton Elementary	2011.0	1.0
+12292	http://www.edline.net/pages/rcwarner	Warner Elementary	2011.0	48.0
+12293	http://de.gov/	State Government	2001.0	126.0
+12294	http://dda.delaware.gov/breedersfund/index.shtml	Standardbred Breeder's Fund, Delaware, Agriculture	2007.0	6.0
+12295	http://www.co.kent.de.us/	Kent County	1998.0	367.0
+12296	http://www.townepoint.capital.k12.de.us	Towne Point Elementary	2007.0	1.0
+12297	http://kids.delaware.gov/	Services for Children, Youth & Their Families, Department of	2007.0	187.0
+12298	http://www.sarahpyleacademy.org	Sarah Pyle Academy	0.0	571.0
+12299	http://www.edline.net/pages/rcnorthstar	North Star Elementary	2010.0	29.0
+12300	http://www.doe.k12.de.us/infosuites/students_family/dheo/default.shtml	Higher Education Commission, Education	0.0	0.0
+12301	http://www.brandywineschools.org/lombardy	Lombardy  Elementary	2012.0	3894.0
+12302	http://www.millsboro.org/	Millsboro	2001.0	81.0
+12303	http://castlehills.colonial.k12.de.us/	Castle Hills  Elementary	2012.0	46.0
+12304	http://www.brandywineschools.org/bush	Bush Early Education Center	2012.0	3145.0
+12305	http://buenavista.delaware.gov/	Buena Vista Conference Center, State	2011.0	16.0
+12307	http://dedo.delaware.gov/	Economic Development Office, Delaware, Executive	2007.0	165.0
+12308	http://www.capehenlopenschools.com/education/district/district.php?sectionid=1	Cape Henlopen School District, Education	2007.0	2.0
+12309	http://history.delaware.gov/preservation/	Historic Preservation, Office of, State	2006.0	28.0
+12310	http://www.dhss.delaware.gov/dhss/index.html	Health & Social Services, Department of	2005.0	1337.0
+12311	http://auditor.delaware.gov/	Auditor of Accounts R. Thomas Wagner, Jr.	2007.0	27.0
+12312	http://wilmingtonmanor.colonial.k12.de.us/	Wilmington Manor Elementary	2012.0	53.0
+12313	http://kids.delaware.gov/yrs/yrs.shtml	Youth Rehabilitative Services, DSCYF	2012.0	38.0
+12314	http://www.desu.edu/	Delaware State University	2000.0	2219.0
+12315	http://www.springmeadowecc.org/	Spring Meadow Early Childhood Center	0.0	310.0
+12316	http://www.doverhigh.capital.k12.de.us	Dover High	2007.0	150.0
+12317	http://www.artsdel.org/	Arts, Division of, State	1996.0	163.0
+12319	http://www.dnrec.delaware.gov/swc/Pages/portal.aspx	Watershed Stewardship, DNREC	2014.0	22.0
+12320	http://www.lf.k12.de.us/north/	North Elementary	2007.0	56.0
+12322	http://www.oceanviewde.com/	Ocean View	2001.0	321.0
+12323	http://www.shuemedillms.org/	Shue-Medill Middle	0.0	1050.0
+12324	http://itc.sos.delaware.gov/	International Trade and Development, State	2009.0	18.0
+12325	http://www.townofdelmar.us/	Delmar	2007.0	18.0
+12326	http://www.capehenlopenschools.com/education/school/school.php?sectionid=32	Brittingham Elementary	2007.0	3.0
+12327	http://www.glasgowhs.org/	Glasgow Hig	0.0	1097.0
+12328	http://www.capehenlopenschools.com/education/components/layout/default.php?sectionid=31	Cape Henlopen High	0.0	1.0
+12329	http://www.dhss.delaware.gov/dhss/dms/index.html	Management Services, DHSS	2005.0	46.0
+12330	http://www.edline.net/pages/rcdickinson	The Central School	2011.0	48.0
+12331	http://heritage.delaware.gov/	Heritage Commission, Delaware, State	2007.0	17.0
+12332	http://www.theardens.com/ardentown.htm	Ardentown	2003.0	17.0
+12333	http://commissionforwomen.delaware.gov/	Women, Delaware Commission for, State	2007.0	24.0
+12334	http://mhs.milfordschooldistrict.org/	Milford High	0.0	711.0
+12335	http://www.marshalles.org/	Marshall Elementary	0.0	696.0
+12337	http://www.capehenlopenschools.com/education/school/school.php?sectionid=30	Beacon Middle	2007.0	3.0
+12338	http://www.crhs.cr.k12.de.us/	Caesar Rodney High	1998.0	1242.0
+12339	http://www.theardens.com/ardencroft.htm	Ardencroft	2003.0	14.0
+12340	https://www.dtcc.edu/our-campuses/stanton	Stanton Campus, Del. Tech.	2013.0	22.0
+12341	http://www.visitdelaware.com/	Tourism, Office of, DEDO	1998.0	6043.0
+12342	http://www.townofbethanybeach.com/	Bethany Beach	1999.0	738.0
+12343	http://www.edline.net/pages/georgetown_middle_school	Georgetown Middle	2011.0	17.0
+12344	http://charterschool.org/	Charter School of Wilmington	0.0	206.0
+12345	http://www.gatewaylabschool.org/	Gateway Lab	2010.0	33.0
+12346	http://www.lf.k12.de.us/decc/	Delaware Early Childhood Center	2007.0	8.0
+12347	http://www.edline.net/pages/indian_river_high_school	Indian River High	2010.0	14.0
+12348	http://dvcc.delaware.gov	Domestic Violence Coordinating Council	2007.0	35.0
+12349	http://www.cityofmilford.com/	Milford	2000.0	256.0
+12350	http://www.brandywineschools.org/springer	Springer Middle	2012.0	3201.0
+12351	http://www.townoflaurel.net/index.cfm	Laurel	2005.0	38.0
+12352	http://agi.seaford.k12.de.us/default.aspx	Seaford School District, Education	2009.0	276.0
+12353	http://wilbur.colonial.k12.de.us/	Kathleen Wilbur  Elementary	2012.0	74.0
+12354	http://dda.delaware.gov/weightsm/index.shtml	Weights & Measures, Agriculture	2007.0	5.0
+12355	http://kids.delaware.gov/fs/fs.shtml	Family Services, DSCYF	2007.0	22.0
+12356	http://ncs.charter.k12.de.us/	Newark Charter	2007.0	267.0
+12357	http://depsc.delaware.gov/	Public Service Commission, State	2007.0	47.0
+12358	http://www.brandywineschools.org/talley	Talley Middle	2012.0	3170.0
+12360	http://www.edline.net/pages/rcrplc	Richardson Park Learning Center	2011.0	14.0
+12361	http://seaford.lib.de.us/	Seaford Library And Cultural Center	2004.0	79.0
+12362	http://www.sleschool.org/	Silver Lake Elementary	0.0	463.0
+12363	http://ses.smyrna.k12.de.us/	Smyrna Elementary	0.0	466.0
+12364	http://www.wilsones.org/	Wilson Elementary	0.0	473.0
+12365	http://www.networksprogram.org	Networks	0.0	466.0
+12366	http://mccullough.colonial.k12.de.us/	McCullough Middle	2012.0	151.0
+12367	http://www.positiveoutcomescs.org/	Positive Outcomes Charter	0.0	931.0
+12368	http://www.brandywineschools.org/page/1	Brandywine School District, Education	2012.0	59.0
+12369	http://statefireschool.delaware.gov	Fire School, Fire Prevention Comm.	2007.0	24.0
+12370	http://www.capehenlopenschools.com/education/components/layout/default.php?sectionid=36	Shields Elementary	0.0	2.0
+12371	http://www.dnrec.delaware.gov/Pages/Portal.aspx	Natural Resources & Environmental Control, Department of	2011.0	1349.0
+12373	http://www.edline.net/pages/selbyville_middle_school	Selbyville Middle	2011.0	17.0
+12374	http://www.elbertpalmeres.org	Elbert-Palmer Elementary	0.0	501.0
+12375	http://www.oberlees.org/	Oberle Elementary	0.0	740.0
+12377	http://clayton.delaware.gov	Clayton	2008.0	358.0
+12378	http://leach.colonial.k12.de.us/	Leach	2013.0	34.0
+12379	http://www.stateplanning.delaware.gov	Planning Coordination, Office of State, Management & Budget	2007.0	101.0
+12380	http://www.sussexacademy.org/	Sussex Academy	2000.0	389.0
+12381	http://jbm.smyrna.k12.de.us/	J B Moore Middle	0.0	653.0
+12382	http://history.delaware.gov/museums/	Museums, State	2006.0	39.0
+12383	http://felton.delaware.gov/	Felton	2009.0	64.0
+12384	http://www.drba.net/	Delaware River & Bay Authority	1999.0	410.0
+12385	http://cjc.delaware.gov/	Criminal Justice Council, Executive	2007.0	61.0
+12386	http://www.dcet.k12.de.us/	Delaware Center for Educational Technology	1999.0	45.0
+12388	http://publicadvocate.delaware.gov/	Public Advocate, State	2007.0	60.0
+12389	http://www.edline.net/pages/rcbrandywinesprings	Austin D. Baltz Elementary	2010.0	30.0
+12390	http://dda.delaware.gov/education/index.shtml	Information and Education, Agriculture	2007.0	4.0
+12391	http://fenwickisland.delaware.gov/	Fenwick Island	2008.0	388.0
+12392	http://legis.delaware.gov/legislature.nsf/lookup/house_home?open&nav=house	State House of Representatives	2009.0	2.0
+12393	http://polytechschooldistrict.com	District Office	0.0	232.0
+12394	http://sos.delaware.gov/	Secretary of State, Office of the, State	2007.0	23.0
+12395	https://www.dtcc.edu/our-campuses/wilmington	Wilmington Campus, Del. Tech.	2012.0	26.0
+12396	http://re.milfordschooldistrict.org/	Ross Elementary	0.0	901.0
+12397	http://history.delaware.gov/	Historical & Cultural Affairs, Division of, State	2006.0	142.0
+12398	http://www.downeses.org	Downes Elementary	0.0	698.0
+12399	http://www.co.kent.de.us/departments/communitysvcs/library/index.htm	Kent County Library	2006.0	1.0
+12400	http://smyrna.delaware.gov/	Smyrna	2009.0	544.0
+12401	http://mes.milfordschooldistrict.org/	Mispillion Elementary	0.0	328.0
+12402	http://www.edline.net/pages/rclewis	William C. Lewis Dual Language Elementary	2010.0	43.0
+12403	http://eisenberg.colonial.k12.de.us/	Eisenberg  Elementary	2013.0	39.0
+12404	http://www.laurelschooldistrict.org/	District Office	0.0	606.0
+12405	http://cityofnewarkde.us/	Newark	2007.0	819.0
+12406	http://www.edline.net/pages/rcstanton	Stanton Middle	2011.0	114.0
+12407	http://www.brandywineschools.org/psdupont	P S DuPont Middle	2012.0	2751.0
+12408	http://ces.seafordbluejays.org	Seaford Central Elementary	0.0	566.0
+12409	http://www.howardhsde.com/	Howard high	2014.0	55.0
+12410	http://delawarecity.delaware.gov/	Delaware City	0.0	94.0
+12411	http://sms.seafordbluejays.org	Seaford Middle	0.0	1042.0
+12413	http://courts.delaware.gov/	Courts, Delaware	2005.0	397.0
+12414	http://www.capital.k12.de.us	District Office	2007.0	11.0
+12415	http://vethome.delaware.gov/	Veterans Home, Delaware, State	2007.0	12.0
+12416	http://www.dnrec.delaware.gov/air/pages/air-quality.aspx	Air Quality, DNREC	2013.0	82.0
+12417	http://www.christinak12.org/apps/pages/index.jsp?urec_id=181306&type=d	J. H. Douglass	0.0	361.0
+12418	http://www.dswa.com/	Delaware Solid Waste Authority	1998.0	244.0
+12419	http://www.townofdeweybeach.com/	Dewey Beach	2002.0	529.0
+12420	https://www.dtcc.edu/	Delaware Technical & Community College	1997.0	1818.0
+12421	http://www.dhss.delaware.gov/dhss/ocme/index.html	Medical Examiner, Chief, DHSS	2005.0	2.0
+12424	http://www.capehenlopenschools.com/education/school/school.php?sectionid=824	Sussex Consortium	0.0	4.0
+12425	http://kenton.delaware.gov/	Kenton	2013.0	30.0
+12426	http://www.laurel.k12.de.us/	Laurel School District, Education	0.0	579.0
+12427	http://www.lf.k12.de.us/south/	South Elementary	2007.0	78.0
+12428	http://sms.smyrna.k12.de.us/	Smyrna Middle	0.0	970.0
+12429	http://www.edline.net/pages/north_georgetown_es	North Georgetown Elementary	2011.0	14.0
+12430	http://corp.delaware.gov/	Corporations, Division of, State	2007.0	80.0
+12431	http://www.capehenlopenschools.com/education/components/layout/default.php?sectionid=35	Rehoboth Elementary	0.0	1.0
+12432	http://www.cityofdover.com/	Dover	1998.0	3683.0
+12434	http://www.edline.net/pages/rcaims	A. I. DuPont Middle	2011.0	20.0
+12435	http://www.kirkms.org/	Kirk Middle	0.0	801.0
+12436	http://www.colonial.k12.de.us/	Colonial School District, Education	2003.0	172.0
+12438	http://www.albertjoneses.org/	Jones Elementary	0.0	705.0
+12439	http://www.edline.net/pages/lord_baltimore_es	Lord Baltimore Elementary	2011.0	15.0
+12440	http://gic.delaware.gov	Government Information Center	2006.0	14.0
+12441	http://www.lf.k12.de.us/	Lake Forest School District, Education	2007.0	616.0
+12442	http://www.bunkerhillelem.org/	Bunker Hill Elementary	0.0	568.0
+12443	http://deljis.delaware.gov/	Criminal Justice Information System, Delaware	2007.0	18.0
+12444	http://www.aspiraacademy.org/	Aspira Academy	2010.0	732.0
+12445	http://www.middletownhs.org/	Middletown High	0.0	1021.0
+12446	http://www.dnrec.delaware.gov/fw/pages/fwportal.aspx	Fish and Wildlife, DNREC	2011.0	20.0
+12447	http://dti.delaware.gov/	Technology & Information, Department of	2005.0	95.0
+12448	http://legis.delaware.gov/	State Legislature	2007.0	755.0
+12449	http://www.brandywineschools.org/mpe	Mt Pleasant Elementary	2012.0	4262.0
+12450	http://www.lf.k12.de.us/central/	Central Elementary	2007.0	46.0
+12452	http://www.btw.capital.k12.de.us	Booker T. Washington Elementary	2007.0	1.0
+12453	http://nes.smyrna.k12.de.us/	North Smyrna Elementary	0.0	530.0
+12454	http://dda.delaware.gov/harness/index.shtml	Harness Racing Commission, Agriculture	2007.0	9.0
+12455	http://camden.delaware.gov/	Camden	2008.0	80.0
+12456	http://wallin.colonial.k12.de.us/	The Wallin School	2013.0	103.0
+12459	http://www.kccs.capital.k12.de.us	Kent County Community	2007.0	2.0
+12461	http://www.irsd.net/	Indian River School District, Education	2003.0	29.0
+12462	http://millville.delaware.gov/	Millville	2011.0	180.0
+12463	http://lis.laurelschooldistrict.org/	Laurel Intermediate Middle	0.0	374.0
+12464	http://www.dhss.delaware.gov/dhss/dsamh/index.html	Substance Abuse and Mental Health, DHSS	2005.0	109.0
+12465	http://dvr.delawareworks.com/	Vocational Rehabilitation, Division of, Labor	2011.0	23.0
+12466	http://www.mci.cr.k12.de.us/	McIlvaine Early Childhood Center	2007.0	1577.0
+12467	http://dema.delaware.gov/	Emergency Management Agency, Delaware, DSHS	2007.0	106.0
+12468	http://www.bayardms.org/	Bayard Middle	0.0	563.0
+12469	http://www.edline.net/pages/rcrichey	Richey Elementary	2010.0	13.0
+12470	http://www.simpson.cr.k12.de.us/	Simpson Elementary	2007.0	1353.0
+12471	http://www.townofhouston.com	Houston	2011.0	7.0
+12472	http://www.edline.net/pages/howard_t_ennis_school	Howard T. Ennis	2011.0	11.0
+12474	http://www.brandywineschools.org/site/default.aspx?PageID=1	District Office	2012.0	15.0
+12475	http://www.edline.net/pages/long_neck_elementary_school	Long Neck Elementary	2011.0	13.0
+12476	http://kids.delaware.gov/pbhs/pbhs.shtml	Prevention and Behavioral Health Services, Division of, DSCYF	2010.0	16.0
+12477	http://cape.de.schoolwebpages.com/education/school/school.php?sectiondetailid=8363	Sussex Consortium	2012.0	3.0
+12478	http://www.stgeorgesde.com/	St. Georges Technical High	2013.0	72.0
+12479	http://sse.smyrna.k12.de.us/	Sunnyside Elementary	0.0	538.0
+12480	http://ces.smyrna.k12.de.us/	Clayton Elementary	0.0	475.0
+12481	http://electionskc.delaware.gov/	Elections, Department of, Kent County	2007.0	103.0
+12482	http://www.frankfordde.us/	Frankford	2011.0	18.0
+12483	http://milton.lib.de.us/	Milton Public Library	2004.0	36.0
+12484	http://www.delmar.k12.de.us/education/components/scrapbook/default.php?sectionid=1	Delmar School District, Education	2012.0	2.0
+12486	http://www.doc.delaware.gov/	Correction, Department of	2007.0	101.0
+12487	https://www.dtcc.edu/our-campuses/dover	Terry Campus, Del. Tech.	2012.0	26.0
+12489	http://elections.delaware.gov/	Elections, Department of, State	2006.0	354.0
+12491	http://www.christinak12.org/apps/pages/index.jsp?urec_id=181283&type=d	Brennan (Delaware Autism Program)	0.0	407.0
+12492	http://www.westparkplacees.org/	West Park Place Elementary	0.0	492.0
+12493	http://banking.delaware.gov/	Bank Commissioner, Office of the State, State	2007.0	43.0
+12494	http://www.edline.net/pages/rcmeadowood	Meadowood Program	2010.0	79.0
+12495	http://www.laurelschooldistrict.org/apps/pages/index.jsp?urec_id=186247&type=d	Western Sussex Academy	0.0	155.0
+12496	http://www.edline.net/pages/rcshortlidge	Richey Elementary	2013.0	28.0
+12497	http://www.delawareacademycharter.org/	Delaware Academy of Public Safety and Security	2010.0	5.0
+12498	http://www.townofdagsboro.com/portal/	Dagsboro	2012.0	48.0
+12499	http://www.udel.edu/	Delaware, University of	1996.0	3377.0
+12500	http://courts.delaware.gov/childadvocate/	Child Advocate, The Office of, Courts	2005.0	62.0
+12501	http://www.edline.net/pages/rcmote	Meadowood Program	2010.0	17.0
+12502	http://statefiremarshal.delaware.gov/	Fire Marshal, Fire Prevention Comm.	2007.0	41.0
+12503	http://www.christinaeec.org/	Christina Early Education Center	0.0	538.0
+12504	http://www.brandywineschools.org/mphs	Mt Pleasant High	2012.0	3213.0
+12505	http://shs.seafordbluejays.org	Seaford High	0.0	1029.0
+12506	http://www.fms.cr.k12.de.us/	Fifer Middle	2007.0	1404.0
+12507	http://governor.delaware.gov/index.shtml	Governor, Office of, Executive	2007.0	129.0
+12508	http://dia.delawareworks.com/	Industrial Affairs, Division of, Labor	2011.0	28.0
+12509	http://newcastle.colonial.k12.de.us/	New Castle  Elementary	2013.0	18.0
+12510	http://ltgov.delaware.gov/	Lt. Governor, Office of, Executive	2007.0	46.0
+12511	http://www.edline.net/pages/gw_carver_center	G.W. Carver Center	2011.0	14.0
+12512	http://www.edline.net/pages/rcskyline	Skyline Middle	2010.0	26.0
+12513	http://dpr.delaware.gov/	Professional Regulation, Division of, State	2004.0	440.0
+12515	http://ddc.delaware.gov/	Developmental Disabilities Council, DSHS	2007.0	16.0
+12516	http://bridgeville.delaware.gov/	Bridgeville	2012.0	119.0
+12517	http://www.kcilc.capital.k12.de.us	Kent County ILC	2013.0	4.0
+12518	http://www.edline.net/pages/rcheritage	James H. Groves School	2011.0	22.0
+12519	http://www.dabm.cr.k12.de.us/	Dover Air Force Base Middle	2007.0	1459.0
+12520	http://www.lf.k12.de.us/east/	East Elementary	2007.0	86.0
+12521	http://georgeread.colonial.k12.de.us/	George Read Middle	2013.0	96.0
+12522	http://ohs.delaware.gov/	Highway Safety, Office of, Safety & Homeland Security	2007.0	37.0
+12523	http://www.delawarescienceolympiad.com/	Delaware Science Olympiad	2011.0	17.0
+12524	http://www.capehenlopenschools.com/education/school/school.php?sectionid=33	Mariner Middle	2007.0	3.0
+12525	http://dda.delaware.gov/pesticides/index.shtml	Pesticide Compliance, Agriculture	2007.0	30.0
+12526	http://ODYSSEYCHARTERSCHOOLDEL.COM/	Odyssey Charter	2011.0	65.0
+12527	http://dda.delaware.gov/agcompl/index.shtml	Agriculture Compliance, Agriculture	2007.0	3.0
+12528	http://www.meredithmiddle.org/	Meredith Middle	0.0	677.0
+12529	http://courts.delaware.gov/overview.stm	Court System Overview	2010.0	313.0
+12530	http://veteransaffairs.delaware.gov/	Veteran's Affairs, Delaware Commission of, State	2007.0	23.0
+12531	http://www.leasurees.org/	Leasure Elementary	0.0	582.0
+12532	http://newcastlecity.delaware.gov/	New Castle	2011.0	95.0
+12533	http://www.dartfirststate.com/	DART First State	1999.0	124.0
+12534	http://dvr.delawareworks.com/dodhh.php	Deaf and Hard of Hearing, Office for the, Labor	2011.0	23.0
+12535	http://www.christinak12.org/	District Office	0.0	1398.0
+12536	http://www.delawareworks.com/oolmi/home.aspx	Occupational & Labor Market, Labor	2009.0	188.0
+12538	http://odessa.delaware.gov/	Odessa	2008.0	43.0
+12539	http://www.braderes.org/	Brader Elementary	0.0	705.0
+12540	http://kids.delaware.gov/services/crisis.shtml	Crisis Hot Lines, DSCYF	2007.0	3.0
+12541	http://www.townsendecc.org/	Townsend Early Childhood Center	0.0	425.0
+12542	http://www.keenees.org/	Keene Elementary	0.0	742.0
+12543	http://www.edline.net/pages/rcgroves	James H. Groves School	2010.0	25.0
+12544	http://dshs.delaware.gov/	Homeland Security, Department of Safety and	2005.0	28.0
+12545	http://www.dhss.delaware.gov/dhss/dph/index.html	Public Health, DHSS	2005.0	281.0
+12546	http://milton.delaware.gov/	Milton	2012.0	395.0
+12547	http://dda.delaware.gov/	Agriculture, Department of	2007.0	168.0
+12548	http://www.brandywineschools.org/brandywine	Brandywine High	2012.0	2388.0
+12549	http://dhss.delaware.gov/dhss/ddds/index.html	Developmental Disabilities Services, DHSS	2005.0	88.0
+12550	http://www.dnrec.delaware.gov/wr/pages/default.aspx	Water, Division of, DNREC	2011.0	9.0
+12551	http://www.south.capital.k12.de.us	South Dover Elementary	2007.0	2.0
+12552	http://dda.delaware.gov/forestry/index.shtml	Forest Service, Agriculture	2007.0	17.0
+12553	http://www.dctm.k12.de.us/	Delaware Council of Teachers of Mathematics	2007.0	27.0
+12554	http://www.lf.k12.de.us/lfhs/	Lake Forest High	2006.0	102.0
+12555	http://dda.delaware.gov/foodprod/index.shtml	Food Product Inspection, Agriculture	2007.0	5.0
+12556	http://demhra.delaware.gov/	Manufactured Home Relocation Authority	2007.0	32.0
+12557	http://www.aodcharter.org/	Academy of Dover	2008.0	69.0
+12558	http://pardons.delaware.gov/	Pardons, Board of, State	2007.0	17.0
+12559	http://arden.delaware.gov/	Arden	2008.0	60.0
+12560	http://www.southbethany.org/	South Bethany	2001.0	37.0
+12562	http://www.edline.net/pages/east_millsboro_es	East Millsboro Elementary	2011.0	11.0
+12563	http://www.edline.net/pages/rcmckean	Thomas McKean High	2011.0	133.0
+12565	http://www.milfordschooldistrict.org/	Milford School District, Education	0.0	758.0
+12566	http://www.welch.cr.k12.de.us/	Welch Elementary	2007.0	1577.0
+12568	http://www.lf.k12.de.us/chipman/	Chipman Middle	2007.0	70.0
+12569	http://perb.delaware.gov/	Public Employment Relations Board, State	2007.0	16.0
+12570	http://www.polytechpanthers.com	Polytech High	0.0	1558.0
+12572	http://wilmington.lib.de.us/	North Wilmington Library	2013.0	83.0
+12573	http://www.christianahs.org	Christiana High	0.0	871.0
+12574	http://www.delawarepensions.com/	Pensions, Office of, Management & Budget	2001.0	82.0
+12575	http://www.edline.net/pages/john_clayton_es	John M. Clayton Elementary	2011.0	14.0
+12576	http://www.edline.net/pages/rchbdupont	James H. Groves School	2012.0	54.0
+12577	http://www.bancroftes.org/	Bancroft Elementary	0.0	586.0
+12578	http://www.demilacad.org/	Delaware Military Academy	2002.0	37.0
+12579	http://www.smithes.org/	Smith Elementary	0.0	513.0
+12580	http://www.delaware.gov/Greenwood/	Greenwood Public Library	2013.0	0.0
+12581	http://www.townofbellefonte.com/	Bellefonte	2005.0	15.0
+12583	http://shs.smyrna.k12.de.us/	Smyrna High	0.0	1034.0
+12584	http://henlopenacres.delaware.gov/	Henlopen Acres	2011.0	90.0
+12585	http://www.doe.k12.de.us/	Delaware Department of Education	0.0	3574.0
+12586	http://www.dtc.k12.de.us/	Delaware Teacher Center	2005.0	19.0
+12587	http://www.dhss.delaware.gov/dhss/dltcrp/index.html	Long Term Care Residents Protection, DHSS	2005.0	37.0
+12588	http://www.dts.k12.de.us/	Delaware Teachers of Science	2007.0	17.0
+12589	http://www.budget.delaware.gov	Budget Development, Planning and Administration, OMB	2006.0	60.0
+12590	http://www.edline.net/pages/millsboro_middle_school	Millsboro Middle	2011.0	20.0
+12591	http://www.dhss.delaware.gov/dhss/dcse/index.html	Child Support Enforcement, DHSS	2005.0	56.0
+12592	http://dda.delaware.gov/plantind/index.shtml	Plant Industries, Agriculture	2007.0	19.0
+12593	http://treasury.delaware.gov/	State Treasurer Chipman Flowers, Jr.	2011.0	93.0
+12594	http://www.central.capital.k12.de.us	Central Middle	2007.0	8.0
+12596	http://bes.seafordbluejays.org	Blades Elementary	0.0	582.0
+12597	http://www.familyfoundationsacademy.org/	Family Foundations Academy	2006.0	598.0
+12598	http://www.hartly.capital.k12.de.us	Hartly Elementary	2007.0	1.0

@@ -1,0 +1,244 @@
+NodeId	NodeURL	NodeName	Year	pages
+34999	http://attorneys.statelocalgov.net/all/montana	Montana Attorney Database	2014.0	10080.0
+35001	http://msdb.mt.gov	MT Sch For Deaf & Blnd El	2005.0	96.0
+35003	http://belgradeschools.com	Belgrade Middle School	2011.0	188.0
+35004	http://home.montanastatelibrary.org/	State Library	2013.0	32.0
+35005	http://www.ci.missoula.mt.us/	Missoula	1999.0	1527.0
+35006	http://www.scobeyschools.com/	Scobey	2001.0	11.0
+35007	http://www.froidmt.com	Froid	2008.0	16.0
+35008	http://forsyth.k12.mt.us	Forsyth Elementary School	2013.0	1213.0
+35012	http://butte.k12.mt.us	West Elementary School	2001.0	0.0
+35013	http://www.missoulapubliclibrary.org/	Swan Valley Branch Library	2006.0	265.0
+35014	http://www.glaciercountygov.com/library/	East Glacier Park Branch Library	2010.0	3.0
+35015	http://harlem-hs.k12.mt.us	Harlem Elementary School	2009.0	3.0
+35016	http://hsd3.org	Hamilton Middle School	2000.0	108.0
+35017	http://www.bps.k12.mt.us/	Browning Middle School	2000.0	91.0
+35019	http://ftsd.org/site/default.aspx?PageID=1	Frenchtown Intermediate School	2011.0	27.0
+35020	http://www.co.chouteau.mt.us/	Chouteau	2004.0	3.0
+35021	http://arlee.k12.mt.us/site/default.aspx?PageID=1	Arlee High School	2012.0	22.0
+35022	http://www.msubillings.edu	Montana State University - Billings	1996.0	1320.0
+35024	http://roundup.k12.mt.us	Central School	2012.0	239.0
+35025	http://reedpoint.k12.mt.us	Reed Point High School	2001.0	45.0
+35026	http://whitewater.k12.mt.us/site/default.aspx?PageID=1	Whitewater High School	2013.0	4.0
+35028	http://mt.gov/	State Government	1996.0	6389.0
+35029	http://huntley.k12.mt.us	Huntley Project High Schl	1999.0	233.0
+35030	http://valleyviewschool.net	Valley View School	2001.0	5.0
+35032	http://mus.edu/universities/university_main.asp	Universities & Colleges	2011.0	29.0
+35034	http://livingston.k12.mt.us	Sleeping Giant Middle Sch	1999.0	1.0
+35035	http://dli.mt.gov/	Labor & Industry	2005.0	785.0
+35036	http://www.mdt.mt.gov/	Transportation	1996.0	1197.0
+35040	http://www.fvcc.edu/	Flathead Valley Community College	2002.0	1893.0
+35041	http://www.co.sheridan.mt.us/	Sheridan	2001.0	66.0
+35042	http://www.mtech.edu	Montana Tech of the University of Montana	1997.0	2.0
+35047	http://www.ennischamber.com/	Ennis	1998.0	59.0
+35048	http://libbyschools.org	Libby Elementary School	2013.0	100.0
+35049	http://ramsay.k12.mt.us	Ramsay School	0.0	9.0
+35051	http://www.fortbenton.com	Fort Benton	1998.0	87.0
+35052	http://mpera.mt.gov/index.shtml	Montana Public Employees Retirement Administration	2011.0	116.0
+35054	http://sheridan.k12.mt.us/site/default.aspx?PageID=1	Sheridan Elementary Schl	2013.0	19.0
+35055	http://governor.mt.gov/	Governor's Office	2005.0	33.0
+35056	http://bgs.k12.mt.us	Boulder Elementary School	2001.0	79.0
+35057	http://hobson.k12.mt.us	Hobson School	2002.0	174.0
+35058	http://www.umwestern.edu/	UM Western	2001.0	473.0
+35059	http://www.bakermt.com/	Baker	2000.0	2.0
+35060	http://fairfieldsuntimes.com	Fairfield	2009.0	4542.0
+35061	http://www.co.cascade.mt.us/	Cascade	2001.0	7.0
+35062	http://lewistown.k12.mt.us	Highland Park School	1998.0	675.0
+35063	http://denton.k12.mt.us	Denton High School	2002.0	24.0
+35064	http://ybgr.org	Yellowstone Academy Elem	2001.0	228.0
+35065	http://cutbankschools.net	Glacier Elementary School	2003.0	107.0
+35066	http://milescitychamber.com/	Miles City	2010.0	222.0
+35068	http://www.livingstonmontana.org	Livingston	2009.0	162.0
+35069	http://www.umhelena.edu/	Helena College University of Montana	2004.0	286.0
+35070	http://www.bridgerscouts.org/	Bridger Elementary School	0.0	44.0
+35071	http://www.cor.mt.gov/default.mcpx	Corrections	2009.0	348.0
+35072	http://wolfpoint.k12.mt.us	Wolf Point High School	2000.0	8.0
+35073	http://www.interbel.com/	Fortine School	1999.0	14.0
+35074	http://www.flatheadcountylibrary.org/	Columbia Falls Branch Library	2000.0	5.0
+35075	http://www.terry.k12.mt.us/	Terry Middle School	2001.0	5935.0
+35076	http://northstar.k12.mt.us	North Star High School	2006.0	59.0
+35077	http://www.lincolncountymt.us/	Lincoln	2003.0	132.0
+35078	http://superior.k12.mt.us/	Superior High School	2011.0	309.0
+35079	http://www.co.missoula.mt.us/	Missoula	1998.0	788.0
+35082	http://roberts.k12.mt.us	Roberts High School	2010.0	883.0
+35083	http://www.custerschools.org/	Custer 7-8	2012.0	8.0
+35084	http://eldergrove.k12.mt.us	Elder Grove School	2004.0	148.0
+35085	http://rockyboy.k12.mt.us	Rocky Boy High School	2009.0	6767.0
+35087	http://www.mc.umt.edu/	Missoula College University of Montana	2013.0	94.0
+35088	http://www.belgradelibrary.org	Belgrade Community Library	2006.0	337.0
+35089	http://www.co.fergus.mt.us/	Fergus	2001.0	129.0
+35090	http://www.richland.org/	Richland	2000.0	483.0
+35091	http://liv.mt.gov/default.mcpx	Livestock	2011.0	910.0
+35093	http://mainstreetstevensville.com/	Stevensville	2004.0	29.0
+35096	http://commerce.mt.gov/	Commerce	1998.0	90.0
+35097	http://www.lewisandclarklibrary.org/	Library Lincoln Branch Library	2000.0	486.0
+35098	http://kilaschool.com	Kila School	2004.0	33.0
+35099	http://broadview.k12.mt.us	Broadview School	2003.0	1.0
+35101	http://www.helenamt.gov/	Helena	2012.0	528.0
+35102	http://www.dnrc.mt.gov/	Natural Resources & Conservation	1998.0	840.0
+35104	http://shepherd.k12.mt.us/site/default.aspx?PageID=1	Shepherd High School	2011.0	15.0
+35105	https://gaggle.net/	Hinsdale High School	1999.0	11.0
+35106	http://heartbutteschool.com	Heart Butte High School	2013.0	52.0
+35107	http://shelby.k12.mt.us	Shelby Elementary School	0.0	516.0
+35108	http://www.cityofbillings.net/	Billings	2004.0	1653.0
+35109	http://www.lccountymt.gov/	Lewis and Clark	2012.0	722.0
+35110	http://gfps.k12.mt.us	Great Falls High School	1997.0	1026.0
+35111	http://montanalottery.com	Lottery	2000.0	2098.0
+35112	http://www.glasgowmontana.com	Glasgow	2001.0	338.0
+35113	http://cji.k12.mt.us/site/default.aspx?PageID=1	Chester-Joplin-Inverness Schl	0.0	4.0
+35114	http://www.andersonmt.org/	Anderson School	2008.0	205.0
+35115	http://billingsschools.org/site/default.aspx?PageID=1	Lewis & Clark Middle School	2011.0	16.0
+35116	http://www.msun.edu/future/	MSU Northern	2012.0	33.0
+35117	http://victor.k12.mt.us	Victor Middle School	1999.0	94.0
+35118	http://bssd72.org	Ophir Elementary School	0.0	1339.0
+35119	http://www.dphhs.mt.gov/index.shtml	Public Health & Human Services	2005.0	1014.0
+35122	http://poplar.k12.mt.us	Poplar High School	2002.0	16.0
+35123	http://www.shelbymt.com/	Shelby	1999.0	61.0
+35124	http://grps.k12.mt.us	Grass Range High School	2010.0	91.0
+35128	http://target.k12.mt.us/site/default.aspx?PageID=1	Target Range School	2013.0	13.0
+35129	http://agr.mt.gov/	Agriculture	1997.0	699.0
+35132	http://lockwoodschool.org	Lockwood Middle School	2008.0	707.0
+35133	http://www.investmentmt.com/default.mcpx	Board of Investments	2011.0	48.0
+35134	http://westyellowstone.k12.mt.us	West Yellowstone School	2008.0	34.0
+35135	http://www.mylaurel.com/	Laurel	0.0	1.0
+35138	http://ci.wolf-point.mt.us/	Wolf Point	2007.0	41.0
+35139	http://fergusco.k12.mt.us	King Colony School	2013.0	13.0
+35140	http://baker.k12.mt.us	Baker High School	2003.0	77.0
+35142	http://www.itstriangle.com/	Springdale School	2008.0	176.0
+35145	http://www.poplarmt.com/	Poplar	2001.0	39.0
+35147	http://www.leg.mt.gov/css/default.asp	Legislative Branch	2005.0	1495.0
+35148	http://lambertschool.net	Lambert High School	0.0	1.0
+35149	http://www.ponderacountymontana.org/	Pondera	2001.0	76.0
+35150	http://www.trs.mt.gov/	Teachers Retirement System	2006.0	61.0
+35151	http://troutcreekeagles.org	Trout Creek School	2008.0	6.0
+35154	http://sidney.k12.mt.us/site/default.aspx?PageID=1	West Side Elementary	2012.0	19.0
+35155	http://pinecreekschool.com	Pine Creek 7-8	0.0	225.0
+35156	http://bpe.mt.gov/default.mcpx/	Public Education, Board of	2010.0	3.0
+35157	http://www.vaughnschool.com/	Vaughn School	2011.0	23.0
+35158	http://corvallis.k12.mt.us	Quentin Brown Primary K-4	1998.0	208.0
+35161	http://plentywood.k12.mt.us/Login.aspx?ReturnUrl=%2f	Plentywood High School	0.0	0.0
+35167	http://tssmt.net	Cardwell School	2004.0	1.0
+35169	http://westbyschool.k12.mt.us	Westby High School	2001.0	6.0
+35170	http://www.cityofcolstrip.com/	Colstrip	2003.0	2239.0
+35173	http://www.hardinmt.com/	Hardin	2000.0	37.0
+35176	http://dma.mt.gov/default.asp	Military Affairs	2006.0	145.0
+35177	http://www.art.mt.gov/	Arts Council	2004.0	105.0
+35180	http://fortbenton.k12.mt.us	Fort Benton School	2000.0	46.0
+35181	http://politicalpractices.mt.gov/default.mcpx	Political Practices, Commissioner of	2008.0	33.0
+35182	http://www.co.sanders.mt.us/	Sanders	2000.0	74.0
+35184	http://whitesulphur.k12.mt.us	White Sulphur Springs 7-8	2001.0	20.0
+35186	http://frazer.k12.mt.us	Frazer High School	0.0	6906.0
+35187	http://www.cascade.k12.mt.us/	Cascade	1999.0	4617.0
+35188	http://umt.edu/bcp/	Bitterroot College of The University of Montana	2009.0	73.0
+35190	http://sunburst.k12.mt.us/site/default.aspx?PageID=1	Hillside Colony School	0.0	4.0
+35191	http://rapelje.k12.mt.us	Rapelje High School	1999.0	0.0
+35192	http://www.cityofhamilton.net/	Hamilton	2001.0	149.0
+35193	http://www.montana.edu/wwwoche/	Commissioner of Higher Education	1997.0	439.0
+35197	http://www.mtech.edu/academics/highlands/	Highlands College of MT Tech	2012.0	481.0
+35198	http://ekalaka.k12.mt.us	Ekalaka Elementary School	2013.0	1.0
+35200	http://www.gfcmsu.edu/	Great Falls College Montana State University	2013.0	500.0
+35201	http://www.lakemt.gov/	Lake	0.0	80.0
+35202	http://co.mineral.mt.us/	Superior	2004.0	6.0
+35205	http://sgchs.com	Sweet Grass Co High Schl	2004.0	336.0
+35206	http://arrowheadk8.org	Arrowhead School	2010.0	15.0
+35207	http://ci.billings.mt.us/	Billings	1999.0	1775.0
+35209	http://www.sos.mt.gov	Secretary of State	2005.0	224.0
+35210	http://winifred.k12.mt.us	Winifred High School	2000.0	117.0
+35211	http://chinookschools.org	Hartland Elementary School	2007.0	77.0
+35213	http://valier.k12.mt.us	Kingsbury Colony Attn Ctr	2011.0	2.0
+35215	http://bigsandy.k12.mt.us/site/default.aspx?PageID=1	Big Sandy High School	2013.0	9.0
+35216	http://dillonelem.k12.mt.us	Dillon Middle School	0.0	242.0
+35217	http://mhs.mt.gov/	Historical Society	2006.0	179.0
+35218	http://highwood.k12.mt.us	Highwood Middle School	2004.0	7.0
+35220	http://hotsprings.k12.mt.us	Hot Springs School	2013.0	1.0
+35224	http://www.choteaumontana.net	Choteau	2001.0	44.0
+35226	http://publicdefender.mt.gov/	Public Defender, Office of the State	2006.0	147.0
+35227	http://www.hearstfreelibrary.org	Hearst Free Library	2009.0	8.0
+35228	http://www.monfortonschool.org/	Monforton Primary	2011.0	223.0
+35229	http://havre.k12.mt.us/site/default.aspx?PageID=1	Sunnyside School	2013.0	16.0
+35230	http://beltschool.com/site/default.aspx?PageID=1	Pleasant Valley School	2012.0	37.0
+35232	http://www.umt.edu/	University of Montana - Missoula	1997.0	1492.0
+35237	http://lamedeer.k12.mt.us	Lame Deer School	2001.0	1.0
+35238	http://moore.k12.mt.us	Moore High School	2001.0	60.0
+35239	http://www.bozeman.net/Home	Bozeman	2010.0	606.0
+35244	http://lamotteschool.com	LaMotte School	2003.0	78.0
+35245	http://power.k12.mt.us	Power High School	2002.0	16.0
+35246	http://ci.havre.mt.us/	Havre	2002.0	14.0
+35247	http://www.browningmontana.com/	Browning	2004.0	81.0
+35248	http://www.mlct.org/	Montana League of Cities and Towns	2000.0	100.0
+35249	http://clintoncougars.com/login	Clinton School	0.0	0.0
+35250	http://www.teameureka.net/	Eureka Elementary School	2011.0	51.0
+35252	http://deerlodgeschools.org	O D Speer School	2013.0	4476.0
+35256	http://psc.mt.gov/	Public Service Commission	1996.0	235.0
+35257	http://flathead.mt.gov	Flathead	2008.0	319.0
+35258	http://doa.mt.gov/	Administration	2006.0	46.0
+35260	http://www.deq.mt.gov/default.mcpx	Environmental Quality	2009.0	840.0
+35263	http://absarokee.k12.mt.us	Absarokee High School	1998.0	37.0
+35266	http://twinfalcons.org	Twin Bridges High School	2010.0	1.0
+35268	http://www.fschool.org/	Fairview High School	2006.0	15.0
+35269	http://laurel.k12.mt.us/site/default.aspx?PageID=1	Laurel Middle School	2012.0	10.0
+35271	http://stanford.k12.mt.us	Stanford High School	2001.0	142.0
+35275	http://independent.k12.mt.us	Independent School	2009.0	2.0
+35277	http://bluecreek.k12.mt.us	Blue Creek School	1999.0	0.0
+35279	http://www.cityofredlodge.com/	Red Lodge	2005.0	59.0
+35280	http://srvs.k12.mt.us	Sun River Middle School	2010.0	255.0
+35282	http://lonerockschool.org	Lone Rock School	2002.0	20.0
+35284	http://lima.k12.mt.us	Lima High School	2009.0	8.0
+35285	http://sd6.k12.mt.us	Columbia Falls High Schl	2001.0	350.0
+35287	http://circleschools.k12.mt.us	Circle High School	2004.0	4388.0
+35288	http://www.dillonmt.org	Dillon	2007.0	10.0
+35292	http://www.glendivechamber.com/	Glendive	2003.0	41.0
+35295	http://dodson.k12.mt.us	Dodson High School	2002.0	7149.0
+35296	http://willowcreek.k12.mt.us	Willow Creek High School	1999.0	60.0
+35297	http://malta.k12.mt.us	Malta High School	2007.0	12.0
+35298	http://www.harlowtonchamber.com/	Harlowton	2004.0	1.0
+35301	http://www.montana.edu/gallatincollege/	Gallatin College Montana State University	2010.0	36.0
+35302	http://rosebudschooldist.com	Rosebud High School	2003.0	2.0
+35304	http://www.opi.mt.gov/	Public Instruction, Office of	2005.0	721.0
+35308	http://visitmt.com/	Travel Montana	1999.0	792.0
+35309	http://csi.mt.gov/	Securities & Insurance, Commissioner of	2009.0	362.0
+35310	http://www.savagepublicschool.com/	Savage High School	2011.0	32.0
+35312	http://amsterdamschool.org	Amsterdam School	2011.0	27.0
+35313	http://bonner.k12.mt.us	Bonner School	2001.0	107.0
+35314	http://conradschools.org/site/default.aspx?PageID=1	Prairie View School	2013.0	16.0
+35315	http://ennisschools.org	Ennis High School	1999.0	9.0
+35316	http://my.bresnan.net/	Grant School	2009.0	950.0
+35317	http://citycollege.msubillings.edu/	City College at Montana State University Billings	2012.0	213.0
+35318	http://fwp.mt.gov/	Fish, Wildlife & Parks	1997.0	2263.0
+35320	http://courts.mt.gov/default.mcpx	Judicial Branch	2009.0	438.0
+35322	http://www.montana.edu	Montana State University - Bozeman	1996.0	3931.0
+35324	http://clancy.k12.mt.us	Clancy School	2000.0	9.0
+35327	http://www.montanastatefund.com/wps/portal/Home/MSFHome/!ut/p/b1/04_SjzQ0NDIwMjEysjDRj9CPykssy0xPLMnMz0vMAfGjzOK9jQwMDQwCjBzNQgKNDTxDQv0Cvc28jA0sjYAKIoEKDHAARwNC-sP1o8BKnN0dPUzMfQwMLHzcTQ08HT1CgywDjY0NHI2hCvBY4eeRn5uqnxuVY-mp66gIABAuouQ!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/	State Fund	0.0	6743.0
+35329	http://geraldine.k12.mt.us	Geraldine High School	2007.0	4918.0
+35330	http://gallatingatewayschool.com	Gallatin Gateway School	2002.0	175.0
+35331	http://canyoncreekschool.org	Canyon Creek School	2011.0	341.0
+35334	http://www.lincolncountylibraries.com/	Eureka Branch Library	2001.0	25.0
+35335	http://townsendps.schoolwires.com/site/default.aspx?PageID=1	Cecelia Hazelton School	2013.0	13.0
+35336	http://3rivers.net	Golden Ridge School	1997.0	358.0
+35337	http://www.kalispell.com/home/	Kalispell	2011.0	7.0
+35338	http://www.harlowton.k12.mt.us/	Harlowton High School	2004.0	1.0
+35339	http://centerville.k12.mt.us/site/default.aspx?PageID=1	Centerville High School	2011.0	5.0
+35340	https://sites.google.com/a/elysianschool.org/ely23/	Elysian School	2013.0	60.0
+35341	http://turner.k12.mt.us	Turner High School	2004.0	43.0
+35342	http://sd5.k12.mt.us/site/default.aspx?PageID=1	Cornelius Hedges School	2011.0	78.0
+35343	http://jhs.k12.mt.us	Jefferson High School	2001.0	9.0
+35344	http://mus.edu/che/default.asp	Higher Education, Commissioner of	2011.0	11.0
+35345	http://broadus.net	Powder River Co Dist High	2001.0	28.0
+35346	http://montanakids.com/	Montana Kids	2000.0	455.0
+35350	http://sacoschools.k12.mt.us	Saco High School	2000.0	1030.0
+35352	http://www.hillcounty.us/	Hill	2012.0	41.0
+35354	http://www.ci.belgrade.mt.us/	Belgrade	2001.0	109.0
+35355	http://www.milescc.edu/	Miles Community College	2002.0	430.0
+35356	http://metnet.mt.gov	Lakeside Elementary School	1998.0	81.0
+35357	http://tetonwireless.net	Dutton/Brady Middle School	2000.0	5.0
+35359	http://westglacierelementary.org	West Glacier School	2010.0	33.0
+35360	http://www.bizmt.com/	BizMT.com: Business Portal	2001.0	13.0
+35361	http://co.silverbow.mt.us	Butte	2001.0	877.0
+35362	http://pryor.k12.mt.us	Plenty Coups High School	2002.0	0.0
+35363	http://shieldsvalleyschools.org	Shields Valley Elementary	2002.0	18.0
+35364	https://doj.mt.gov/	Justice	1998.0	359.0
+35367	http://nashua.k12.mt.us	Nashua High School	2001.0	940.0
+35369	http://www.smithvalleyschool.org/	Smith Valley Primary Schl	2011.0	131.0
+35370	http://bchsmt.com	Beaverhead Co High School	2002.0	2.0
+35373	http://ehps.k12.mt.us/site/default.aspx?PageID=1	East Valley Middle School	2013.0	26.0
+35375	http://www.westvalleyschool.com/	West Valley Middle School	2011.0	4.0

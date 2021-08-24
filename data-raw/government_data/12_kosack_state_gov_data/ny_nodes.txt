@@ -1,0 +1,2453 @@
+NodeId	NodeURL	NodeName	Year	pages
+39837	http://publicprep.org/	GIRLS PREPARATORY CHARTER SCHOOL OF NEW YORK	2009.0	712.0
+39838	http://www.edline.net/pages/lyncourt_school	Lyncourt  Union Free School District	2010.0	129.0
+39839	http://www2.erie.gov/	Erie, County of	1998.0	964.0
+39841	http://www.northbellmorelibrary.org	North Bellmore Public Library	2006.0	24.0
+39842	http://www.plattsburghlib.org	Plattsburgh Public Library	2004.0	17.0
+39843	http://www.tburg.k12.ny.us/	Trumansburg Central School District	1999.0	1640.0
+39844	http://www.townofsaratoga.com	Saratoga, Town of	2002.0	276.0
+39845	http://www.bryantlibrary.org/	Bryant Library	2008.0	652.0
+39846	http://pearlriver.org/education/district/district.php?sectionid=1	PEARL RIVER HIGH SCHOOL	2009.0	3.0
+39847	http://trivalleycsd.org	TRI-VALLEY ELEMENTARY SCHOOL	0.0	561.0
+39848	http://www.mtplcsd.org/	HAWTHORNE ELEMENTARY SCHOOL	2003.0	480.0
+39849	http://wynantskillufsd.org	GARDNER-DICKINSON SCHOOL	2001.0	83.0
+39850	http://salemcsd.org	SALEM ELEMENTARY SCHOOL	2008.0	27.0
+39851	http://esmonline.org	EASTPORT-SOUTH MANOR JUNIOR SENIOR HIGH SCHOOL	0.0	863.0
+39852	http://www.nypl.org/locations/seward-park	Seward Park Library	2010.0	1.0
+39853	http://www.wyandanch.k12.ny.us/	Wyandanch Union Free School District	2004.0	82.0
+39854	http://henhudschools.org	FRANK G LINDSEY ELEMENTARY SCHOOL	0.0	1296.0
+39855	http://www.wilmingtoncooperlibrary.org/	Wilmington E.M. Cooper Memorial Public Library	2008.0	85.0
+39857	http://www.newburghlibrary.org	Newburgh Free Library	1998.0	118.0
+39858	http://lbeach.org	LINDELL BOULEVARD SCHOOL	2000.0	442.0
+39859	http://www.onlib.org/web/locations_hours/branches/soule.htm	Soule Branch Library	2010.0	2.0
+39861	http://www.townoflewiston.us	Lewiston, Town of	2004.0	65.0
+39862	http://www.roejanlibrary.org/	Roeliff Jansen Community Library Association	2004.0	43.0
+39863	http://www.shandaken.us	Shandaken, Town of	2004.0	145.0
+39864	http://www.northsalemny.org	North Salem, Town of	2001.0	211.0
+39865	http://www.lymefreelibrary.org	Lyme Free Library	2004.0	1.0
+39866	http://www.mahopaclibrary.org	Mahopac Public Library	1998.0	147.0
+39868	http://www.canandaiguanewyork.gov/	Canandaigua, City of	2006.0	191.0
+39869	http://www.communitylibrary.org	Mastics-Moriches-Shirley Community Lib	1998.0	346.0
+39870	http://www.albanypubliclibrary.org	Albany Public Library - Main Library	1998.0	262.0
+39871	http://www.erie.gov/akron/	Akron, Village of	2001.0	113.0
+39873	http://www.greenecsd.org/	Greene Central School District	2002.0	156.0
+39874	http://villagemedina.org/content	Medina, Village of	2006.0	466.0
+39875	http://mechanicville.org	MECHANICVILLE ELEMENTARY SCHOOL	0.0	515.0
+39876	http://www.schenectady.k12.ny.us/	Schenectady City School District	1999.0	499.0
+39877	http://www.waterfordny.org	Waterford, Village of	2003.0	223.0
+39878	http://www.ig.ny.gov/	Inspector General, Office of the	2012.0	12.0
+39879	http://www.cornwallny.com/webpages/home/index.asp	Cornwall, Town of	2007.0	0.0
+39880	http://www.townofnewpaltz.org/	New Paltz, Town of	2002.0	1991.0
+39881	http://bayshoreschools.org	BROOK AVENUE ELEMENTARY SCHOOL	0.0	0.0
+39882	http://www.nysca.org/	Arts, Council on	0.0	13.0
+39883	http://www.weedsport.org/	Weedsport Central School District	2008.0	1070.0
+39884	http://www.crotonfreelibrary.org	Croton Free Library	2001.0	95.0
+39885	http://www.rhnet.org/index.cfm?flash=1	Rush-Henrietta Central  School District	0.0	2044.0
+39886	http://www.buffalolib.org/content/library-locations/area-libraries?lib=kenilworth+branch	Town Of Tonawanda Public Library Kenilworth Branch	2014.0	49.0
+39888	http://mcsd.schoolfusion.us/	Morristown Central School District	2007.0	4687.0
+39889	http://dansvillelibrary.org	Dansville Public Library	2005.0	52.0
+39890	http://www.stls.org/rushford	Rushford Free Library	2003.0	202.0
+39891	http://www.portville-ny.org/	Portville, Town of	2010.0	23.0
+39892	http://lakeview.nassaulibrary.org/	Lakeview Public Library	2013.0	110.0
+39893	http://www.mineola.k12.ny.us/	Mineola Union Free School  District	2000.0	17.0
+39894	http://www.lowville.ny.us	Lowville, Town of	1996.0	10.0
+39895	http://www.lansinglibrary.org/	Lansing Community Library	2005.0	14.0
+39896	http://www.townofhaverstraw.org/	Haverstraw, Town of	2011.0	54.0
+39897	http://www.bklynpubliclibrary.org/locations	HomecreSt. Library	2013.0	3285.0
+39899	http://www.uek12.org/	CHARLES F JOHNSON JR ELEMENTARY SCHOOL	2013.0	300.0
+39900	http://greeceny.gov/	Greece, Town of	2003.0	1051.0
+39901	http://putnamvalleylibrary.org	Putnam Valley Free Library	2002.0	5.0
+39904	http://www.orda.org/newsite/index.php	Olympic Regional Development Authority	2005.0	33.0
+39907	http://www.queenslibrary.org/	Queens Borough Public Library - Mcgoldrick	1999.0	25135.0
+39908	http://library.briarcliffe.net/	Briarcliffe College Library - Patchogue	2008.0	2.0
+39909	http://www.eastfishkilllibrary.org	EaSt. Fishkill Public Library District	2001.0	1.0
+39910	http://uppernyack-ny.us/	Upper Nyack, Village of	2003.0	514.0
+39912	http://www.rccsd.org/	Red Creek Central School  District	0.0	285.0
+39914	http://www.kenton.k12.ny.us/site/default.aspx?PageID=1	Kenmore - Town of Tonawanda Union  Free School District (Ken-Ton)	2012.0	60.0
+39915	http://www.highlandfallsny.org/	Highland Falls, Village of	2009.0	26.0
+39916	http://classicalcharterschools.org/	SOUTH BRONX CLASSICAL CHARTER SCHOOL II	2014.0	181.0
+39918	http://www.townofcatharine.com/	Catharine, Town of	2003.0	19.0
+39920	http://www.academycharterschool.org/	ACADEMY CHARTER SCHOOL	2004.0	67.0
+39921	http://www.mexico.cnyric.org/	Mexico Academy and  Central School District	2001.0	2029.0
+39922	http://www.townofbrighton.net/	Brighton, Town of	2003.0	34.0
+39923	http://www.palmyra.pls-net.org	Palmyra Kings Daughters Free Lib.	1998.0	1.0
+39924	http://www.gfsd.org/	Glens Falls City School District	1997.0	57.0
+39926	http://www.criminaljustice.ny.gov/	Criminal Justice Services, Division of	2011.0	156.0
+39929	http://amherstschools.org	AMHERSt. CENTRAL HIGH SCHOOL	0.0	962.0
+39930	http://www.bclibrary.info	Broome County Public Library	2002.0	349.0
+39931	http://www.nypl.org	New York Public Library, The Branch Libraries	1997.0	3423.0
+39933	http://www.holleycsd.org/	Holley Central School District	0.0	445.0
+39935	http://www.co.seneca.ny.us/	Seneca, County of	2000.0	189.0
+39937	http://www.onlib.org/web/locations_hours/branches/mundy.htm	Mundy Branch Library	2010.0	3.0
+39938	http://www.villageofchesterny.com/	Chester, Village of	2008.0	25.0
+39939	http://www.websterschools.org/	Webster Central School District	1999.0	1935.0
+39941	http://www.steele.lib.ny.us/	Steele Memorial Library	2000.0	210.0
+39942	http://www.cpcsschool.org/	COMMUNITY PARTNERSHIP CHARTER SCHOOL	2003.0	69.0
+39943	http://www.nypl.org/locations/eastchester	Eastchester Library	2010.0	1.0
+39944	http://www.jaynewyork.com/	Jay, Town of	2001.0	434.0
+39945	http://www.batavianewyork.com	Batavia, City of	1999.0	2141.0
+39946	http://www.aufsd.org/	AMAGANSETT SCHOOL	2012.0	4.0
+39947	http://www.village.mamaroneck.ny.us	Mamaroneck, Village of	2001.0	201.0
+39948	http://nyacklibrary.org	Nyack Library	2008.0	72.0
+39950	http://longlakecsd.org	LONG LAKE CENTRAL SCHOOL	2004.0	438.0
+39951	http://www.silvercreek.wnyric.org/site/default.aspx?PageID=1	Silver Creek Central School  District	2013.0	16.0
+39952	http://www.lakegeorgevillage.com/index.htm	Lake George, Village of	2000.0	0.0
+39953	http://www.nassaucountyny.gov/	Nassau, County of	2003.0	3633.0
+39954	http://www.randolphcsd.org/	Randolph Central School District	0.0	1247.0
+39955	http://www.camdenschools.org/	Camden Central School District	2001.0	1122.0
+39956	http://town.floyd.ny.us/content	Floyd, Town of	2005.0	319.0
+39957	http://www.sayville.k12.ny.us/	Sayville Union Free School District	0.0	17305.0
+39958	http://www.townofbeekman.com	Beekman, Town of	2000.0	331.0
+39960	http://www.nypl.org/locations/hunts-point	Hunts Point Library	2010.0	1.0
+39961	http://libraries.adelphi.edu/	Adelphi University Library	2001.0	123.0
+39962	http://www.cattco.org/	Cattaraugus, County of	2001.0	2007.0
+39963	http://www.hempsteadschools.org/site/default.aspx?PageID=1	Hempstead Union Free School  District	2013.0	45.0
+39964	http://www.southoldtownny.gov/	Southold, Town of	2012.0	826.0
+39965	http://www.ossininglibrary.org	Ossining Public Library	1999.0	32.0
+39969	http://www.villageofelbridge.com	Elbridge, Village of	2002.0	9.0
+39970	http://wbab.suffolk.lib.ny.us/	WeSt. Babylon Public Library	2003.0	266.0
+39971	http://www3.libraryweb.org/subpage.aspx?id=345	Lyell Branch Library	2012.0	507.0
+39972	http://www.sunymaritime.edu	SUNY Maritime College	0.0	443.0
+39973	http://www.flls.org/memberpages/berkshir.htm	Berkshire Free Library	2002.0	1.0
+39976	http://harborfieldslibrary.org/main.html	Harborfields Public Library	2011.0	33.0
+39977	http://www.townofbusti.com	Busti, Town of	2001.0	43.0
+39978	http://www.nccc.edu/	North Country Community College-Ticonderoga Campus	1998.0	24.0
+39979	http://www.atticacsd.org/	Attica Central School District	0.0	648.0
+39980	http://www.nypl.org/locations/city-island	City Island Library	2010.0	1.0
+39981	http://www.airmont.org	Airmont, Village of	2001.0	98.0
+39982	http://www.harlemvillageacademies.org/	HARLEM VILLAGE ACADEMY LEADERSHIP CHARTER SCHOOL	2009.0	68.0
+39984	http://www.sunyulster.edu	Ulster County Community College	1998.0	347.0
+39985	http://www.thruway.ny.gov/	Thruway Authority	2012.0	120.0
+39986	http://www.sullivanfreelibrary.org/	Sullivan Free Library Of Bridgeport	0.0	258.0
+39987	http://www.baxterestates.org	Baxter Estates, Village of	2007.0	85.0
+39988	http://www.buffalolib.org/content/library-locations/area-libraries?lib=hamburg+library	Hamburg Library	2014.0	49.0
+39989	http://www.opwdd.ny.gov/	People With Developmental Disabilities, Office for	2010.0	3067.0
+39990	http://www.penfield.edu/	Penfield Central School District	0.0	1778.0
+39991	http://teacherweb.com/NY/Quogue/schoolhomepage/sdhp1.aspx	QUOGUE ELEMENTARY SCHOOL	2012.0	31.0
+39992	http://www.westburyschools.org/	Westbury Union Free School  District	2001.0	167.0
+39993	http://www.bovinalibrary.org/bovina/	Bovina Library Association	2009.0	782.0
+39995	http://scsd.org	STILLWATER ELEMENTARY SCHOOL	0.0	75.0
+39996	http://www.lima-ny.org/	Lima, Village of	2011.0	34.0
+39998	http://troy.k12.ny.us	TROY MIDDLE SCHOOL	1997.0	167.0
+39999	http://www.arlingtonschools.org/	Arlington Central School District	1999.0	104.0
+40001	http://www.steele.lib.ny.us/big_flats.htm	Big Flats Library	1999.0	209.0
+40003	http://www.carmelschools.org/	MATTHEW PATERSON ELEMENTARY SCHOOL	2010.0	38.0
+40004	http://www.wbschools.org/	WeSt. Babylon Union Free School  District	2002.0	209.0
+40006	http://www.stephentownlibrary.org	Stephentown Memorial Library	2009.0	63.0
+40007	http://www.ichabodcrane.org/	Ichabod  Crane Central School District (Kinderhook Central School District)	2003.0	123.0
+40008	http://www.villageofdeposit.org	Deposit, Village of	2011.0	12.0
+40010	http://hewlett-woodmere.net/site/default.aspx?PageID=1	FRANKLIN EARLY CHILDHOOD CENTER	2012.0	67.0
+40011	http://geneseocsd.org	GENESEO MIDDLE SCHOOL HIGH SCHOOL	0.0	1230.0
+40012	https://www.dot.ny.gov/	Transportation, Department of	0.0	7427.0
+40013	http://sthopeharlem.org	St. HOPE LEADERSHIP ACADEMY CHARTER SCHOOL	0.0	154.0
+40014	http://www.binghamtonschools.org/	Binghamton City School District	2005.0	329.0
+40015	http://www.onlib.org/web/locations_hours/branches/hazard.htm	Hazard Branch Library	2010.0	2.0
+40017	http://www.town.bethel.ny.us/	Bethel, Town of	2001.0	37.0
+40018	http://levittownschools.com	GARDINERS AVENUE SCHOOL	2001.0	965.0
+40019	http://www.townofdewitt.com	De Witt, Town of	2002.0	282.0
+40020	http://www.argylecsd.org/	ARGYLE JUNIOR/SENIOR HIGH SCHOOL	2001.0	0.0
+40021	http://townofdeerpark.org/	Deerpark, Town of	2002.0	361.0
+40022	http://rcsdk12.org/site/default.aspx?PageID=1	SCHOOL 1-MARTIN B ANDERSON	2012.0	65.0
+40024	http://cityofbeacon.org	Beacon, City of	2001.0	48.0
+40026	http://www.wilson.wnyric.org/	Wilson Central School District	1998.0	38.0
+40027	http://www.nyshcr.org/	Homes and Community Renewal, Division of	2010.0	694.0
+40028	http://communityroots.org	COMMUNITY ROOTS CHARTER SCHOOL	2001.0	240.0
+40029	http://www.massapequalibrary.org	Massapequa Public Library	2008.0	368.0
+40030	http://pb.state.ny.us/	Central Pine Barrens Joint Planning and Policy Commission, The	1999.0	167.0
+40031	http://www.cityofrochester.gov/index.aspx?id=96	Rochester, City of	2009.0	1479.0
+40033	http://www.floydmemoriallibrary.org	Floyd Memorial Library	2011.0	1.0
+40036	http://heuvelton.schoolfusion.us/	Heuvelton  Central School District	2007.0	2237.0
+40037	http://www.wpcsd.org/	TIOUGHNIOGA RIVERSIDE ACADEMY	2001.0	253.0
+40038	http://www2.lhric.org/eastchester/	Eastchester Union Free School  District	2001.0	0.0
+40041	http://www.cccsd.org/	Churchville-Chili Central School District	1998.0	2243.0
+40043	http://www.wpcsd.k12.ny.us/site/default.aspx?PageID=1	White Plains City School District	2011.0	4.0
+40044	http://www.greenenylibrary.org/	Moore Memorial Library	2011.0	19.0
+40046	http://www.bugsbrooklyn.org/	BROOKLYN URBAN GARDEN CHARTER SCHOOL	2011.0	143.0
+40049	http://whdunes.org/content	WeSt. Hampton Dunes, Village of	2006.0	0.0
+40050	http://westhurleylibrary.org	WeSt. Hurley Public Library	2001.0	49.0
+40051	http://southerncayuga.org	SOUTHERN CAYUGA  7-12 SECONDARY SCHOOL	2002.0	93.0
+40052	http://villageofmenands.com/	Menands, Village of	2000.0	452.0
+40054	http://www.upperbrookville.org	Upper Brookville, Village of	2007.0	20.0
+40055	http://soduscsd.org	SODUS ELEMENTARY SCHOOL	0.0	619.0
+40056	http://www.villageofmaybrook.com	Maybrook, Village of	2008.0	57.0
+40059	http://www.wesleyhills.org/home/home.htm	Wesley Hills, Village of	2013.0	2.0
+40060	http://www.kingstonlibrary.org	Kingston Library	2000.0	40.0
+40063	http://www.potsdam.edu	State University of New York College at Potsdam	1996.0	1606.0
+40064	http://portjefflibrary.org/	Port Jefferson Free Library	2009.0	82.0
+40065	http://www.gloversvilleschools.org/	Gloversville Enlarged City  School District	2001.0	184.0
+40066	http://www.villageofliverpool.org	Liverpool, Village of	2001.0	26.0
+40067	http://www.hohschools.org/site/default.aspx?PageID=1	HILLSIDE ELEMENTARY SCHOOL	2013.0	8.0
+40068	http://www.shermanfreelibrary.org	Sherman Free Library	2008.0	0.0
+40069	http://www.lancasterschools.org/site/default.aspx?PageID=1	Lancaster Central School District	2012.0	69.0
+40070	http://www.townofmanlius.org/	Manlius, Town of	1999.0	77.0
+40071	http://www.akronschools.org/site/default.aspx?PageID=1	Akron Central School District	2011.0	21.0
+40072	http://www.townofthompson.com/	Thompson, Town of	2003.0	443.0
+40073	http://www.rockypointschools.org/	Rocky Point Union Free School  District	2001.0	95.0
+40074	http://pacs.cnyric.org	PULASKI ELEMENTARY SCHOOL	2002.0	425.0
+40075	http://www.longbeachny.gov/	Long Beach, City of	2012.0	1471.0
+40076	http://www.parks.ny.gov/	Parks, Recreation and Historic Preservation, Office of	2012.0	991.0
+40079	http://www.northelba.org	North Elba, Town of	2006.0	50.0
+40080	http://www.riverhead.net/	Riverhead Central School District	1998.0	400.0
+40081	http://oahornets.org	OAKFIELD-ALABAMA MIDDLE SCHOOL HIGH SCHOOL	0.0	296.0
+40082	http://schools.nyc.gov/default.htm	New York City Department of  Education	2006.0	1667.0
+40084	http://www.rooseveltufsd.org/site/default.aspx?PageID=1	Roosevelt Union Free School District	2012.0	21.0
+40085	http://www.jecsd.org/	Jordan-Elbridge Central School District	0.0	1262.0
+40086	http://www.svecsd.org/	Spencer - Van Etten Central School District	2006.0	1.0
+40088	http://www.genevacsd.org/	Geneva City School District	0.0	539.0
+40090	http://www.wsplonline.org	Western Sullivan Public Library - Tusten-Cochecton Branch	2008.0	43.0
+40091	http://esd.ny.gov/	Empire State Development	2010.0	408.0
+40092	http://www.mamakating.org/villageofwurtsboro.php	Wurtsboro, Village of	2011.0	554.0
+40093	http://www.elmiracityschools.com/	Elmira City School  District	2001.0	204.0
+40094	http://attica.org	Attica, Village of	2000.0	39.0
+40095	http://www.hesc.ny.gov/content.nsf/	Higher Education Services Corporation	2012.0	430.0
+40099	http://morton.rhinecliff.lib.ny.us/	Morton Memorial Library And Community House	2001.0	74.0
+40100	http://www.odyoungcsd.org/index.cfm	Owen D. Young Central School  District (Van Hornesville Central School District)	2010.0	728.0
+40101	http://www.nypl.org/locations/bronx-library-center	Bronx Library Center	2010.0	1.0
+40102	http://www.ogdensburgk12.org/	Ogdensburg City School District	2004.0	823.0
+40103	http://www.nyackschools.org/	Nyack Union Free School District	2004.0	53.0
+40104	http://www.bfcsd.org/	Brasher Falls Central School District	0.0	779.0
+40105	http://villageofschuylerville.org	Schuylerville, Village of	2007.0	7.0
+40106	http://eipl.suffolk.lib.ny.us/	EaSt. Islip Public Library	2002.0	156.0
+40107	http://www.lyonslibrary.blogspot.com	Lyons Public Library	2005.0	23.0
+40108	http://northvillecsd.org/	Northville Central  School District	2009.0	1.0
+40109	http://www.bklynpubliclibrary.org/	Brooklyn Public Library	2013.0	1671.0
+40110	http://libraries.4cls.org/walton/	William B. Ogden Free Library	2011.0	3.0
+40114	http://www.williamsvillek12.org/	Williamsville Central School  District	0.0	4254.0
+40115	http://www.lymecsd.org/	Lyme Central School District	2003.0	589.0
+40117	http://pleasantvalleylibrary.org/	Pleasant Valley Free Library	2001.0	65.0
+40118	http://www.townofbloominggroveny.com/	Blooming Grove, Town of	2007.0	5264.0
+40120	http://www.swanlibrary.org	Swan Library	2007.0	133.0
+40121	http://www.onlib.org	Lafayette Public Library	2004.0	152.0
+40123	http://www.baldwinpl.org	Baldwin Public Library	2007.0	388.0
+40124	http://town.plattekill.ny.us/	Plattekill, Town of	2001.0	646.0
+40125	http://phcs.neric.org	PARISHVILLE-HOPKINTON ELEMENTARY SCHOOL	1998.0	325.0
+40126	http://troyprep.uncommonschools.org/	TRUE NORTH TROY PREPARATORY CHARTER SCHOOL	2011.0	82.0
+40127	http://www.townofhardenburgh.org	Hardenburgh, Town of	2003.0	6.0
+40128	http://www.cayuga-cc.edu	Cayuga Community College - Fulton Center	1996.0	583.0
+40129	http://www.eastmeadow.k12.ny.us/	EaSt. Meadow Union Free School  District	2000.0	108.0
+40130	http://www.swcsd.org/	Sullivan WeSt. Central School District	0.0	373.0
+40131	http://www.barkercsd.net/site/default.aspx?PageID=1	Barker Central School District	2011.0	17.0
+40132	http://www.townoffallsburg.com/	Fallsburg, Town of	2003.0	26.0
+40133	http://www.co.jefferson.ny.us/	Jefferson, County of	0.0	851.0
+40134	http://laurelhollow.org/content	Laurel Hollow, Village of	2011.0	361.0
+40135	http://millerplace.k12.ny.us	NORTH COUNTRY ROAD SCHOOL	0.0	517.0
+40136	http://www.bfsa.state.ny.us/	Buffalo Fiscal Stability Authority	2003.0	30.0
+40137	http://wheatland.k12.ny.us	WHEATLAND-CHILI HIGH SCHOOL	0.0	750.0
+40138	http://www.nypl.org/locations/pelham-bay	Pelham Bay Library	2010.0	1.0
+40139	http://www.stls.org/canisteo	Wimodaughsian Free Library	2003.0	202.0
+40141	http://www.roscoe.k12.ny.us/	Roscoe Central School District	0.0	384.0
+40142	http://www.nrwcs.org/	North Rose-Wolcott Central School District	0.0	394.0
+40143	http://niskyschools.org	BIRCHWOOD ELEMENTARY SCHOOL	0.0	157.0
+40144	http://lpschool.com/index/index.php	LAKE PLEASANT SCHOOL	2013.0	258.0
+40146	http://www.clevehill.wnyric.org/	Cleveland Hill Union Free School  District	0.0	783.0
+40148	http://townofminden.org/	Minden, Town of	2005.0	48.0
+40149	http://www.andovercsd.org/site/default.aspx?PageID=1	Andover Central School District	2012.0	8.0
+40150	http://willsborocsd.org	WILLSBORO CENTRAL SCHOOL	2004.0	7.0
+40151	http://centralislip.k12.ny.us	CHARLES A MULLIGAN MIDDLE SCHOOL	0.0	2156.0
+40153	http://www.nypl.org/locations/port-richmond	Port Richmond Library	2010.0	1.0
+40154	http://mcs.k12.ny.us	JEFFERSON ELEMENTARY SCHOOL	2000.0	8819.0
+40156	http://www.sloanschools.org/	Cheektowaga-Sloan Union Free School  District (Sloan Union Free School District)	0.0	1264.0
+40157	http://www2.marist.edu/unionvale/	Union Vale, Town of	2001.0	2.0
+40158	http://brooklyneastcollegiate.uncommonschools.org/	BROOKLYN EASt. COLLEGIATE CHARTER SCHOOL	2011.0	91.0
+40159	http://www.westseneca.net	WeSt. Seneca, Town of	2000.0	2063.0
+40160	http://wfsd.k12.ny.us	WILLIAM FLOYD HIGH SCHOOL	1997.0	341.0
+40161	http://www.buffalolib.org/content/library-locations/area-libraries?lib=elma+public+library	Elma Public Library	2014.0	49.0
+40162	http://malverne.k12.ny.us	DAVISON AVENUE INTERMEDIATE SCHOOL	1998.0	252.0
+40163	http://www.newpaltz.k12.ny.us/site/default.aspx?pageid=1	New Paltz  Central School District	2012.0	112.0
+40164	http://www.fondafultonvilleschools.org/	Fonda-Fultonville  Central School District	2004.0	54.0
+40165	http://challengeprepcharter.org	CHALLENGE PREPARATORY CHARTER SCHOOL	2010.0	1.0
+40166	http://www.stls.org/fillmore	Wide Awake Club Library	2003.0	202.0
+40167	http://www.unityprep.org/	UNITY PREPARATORY CHARTER SCHOOL OF BROOKLYN	2013.0	100.0
+40170	http://www.rensselaerville.com	Rensselaerville, Town of	2000.0	2.0
+40171	http://www.cortland-co.org/towns/willet.htm	Willet, Town of	2002.0	2.0
+40174	http://vs24.org	ROBERT W CARBONARO SCHOOL	0.0	4.0
+40175	http://townofspringwaterny.org/content	Springwater, Town of	2006.0	733.0
+40177	http://www.sunyorange.edu	Orange County Comm College - Newburgh	1997.0	1142.0
+40179	http://www.catskillcsd.org/	Catskill Central School District	2003.0	66.0
+40180	http://www.oswego.org/	Oswego City School District	1997.0	1378.0
+40181	http://www.clake.org/	Chautauqua Lake Central School District	2004.0	5476.0
+40183	http://www.oneonta.edu	State University of New York College at Oneonta	1998.0	459.0
+40184	http://pember.sals.edu	Pember Library Museum	1999.0	2.0
+40186	http://www.ccld.lib.ny.us	Chemung County Library District	2006.0	213.0
+40187	http://www.rcls.org/wpl/	Woodbury Public Library	2002.0	0.0
+40192	http://elmwoodvillageschool.org	ELMWOOD VILLAGE CHARTER SCHOOL	2006.0	16.0
+40193	http://www.putnamcsd.org/	Putnam Central School District	2011.0	21.0
+40198	http://www.nifa.state.ny.us/	Nassau County Interim Finance Authority	2003.0	31.0
+40199	http://www.westmorelandschool.org/site/default.aspx?PageID=1	Westmoreland Central School  District	2013.0	6.0
+40200	http://www.bovinany.org/	Bovina, Town of	2009.0	8.0
+40201	http://www.innovationhs.org/	RENSAISSANCE CHARTER HIGH SCHOOL FOR INNOVATION	2010.0	118.0
+40202	http://www.nscsd.org/	North Syracuse Central School District	2004.0	7517.0
+40203	http://ulstercountyny.gov/	Ulster, County of	2007.0	1312.0
+40204	http://rocklandgov.com/	Rockland, County of	2008.0	595.0
+40206	http://www.4cls.org/webpages/members/andes/andes.html	Andes Public Library	2001.0	1558.0
+40207	http://villageofkinderhook.org/	Kinderhook, Village of	2013.0	42.0
+40208	http://nylottery.ny.gov/highjackpot.html	Lottery, Division of	2012.0	80298.0
+40209	http://westportcs.org	WESTPORT CENTRAL SCHOOL	2000.0	24.0
+40210	http://www.cforks.org/	Chenango Forks Central School District	2001.0	205.0
+40211	http://www.dhr.ny.gov/	Human Rights, Division of	2012.0	86.0
+40212	http://www.dhses.ny.gov/oem/	Emergency Management, Office of	2011.0	120.0
+40213	http://www.townofwallkill.com/	Wallkill, Town of	1998.0	4068.0
+40214	http://www.pypl.org	Penn Yan Public Library	2002.0	80.0
+40215	http://www.villageofminoa.com	Minoa, Village of	2005.0	95.0
+40216	http://kipptechvalley.org	KIPP TECH VALLEY CHARTER SCHOOL	2004.0	169.0
+40217	http://www.northcastleny.com/	North Castle, Town of	1998.0	4728.0
+40218	http://www.vestalny.com	Vestal, Town of	2002.0	70.0
+40219	http://lakeshorecsd.org/site/default.aspx?PageID=1	HIGHLAND ELEMENTARY SCHOOL	2011.0	49.0
+40220	http://townofcorinthny.org/	Corinth, Town of	2011.0	43.0
+40221	http://www.auburn.wednet.edu/site/default.aspx?PageID=1	Auburn Enlarged City  School District	2012.0	8.0
+40222	http://www.masonville-ny.us/	Masonville, Town of	2008.0	33.0
+40223	http://www.suny.edu	State University of New York System Administration	0.0	1609.0
+40226	http://www.onlib.org/web/locations_hours/branches/white.htm	White Branch Library	2010.0	2.0
+40227	http://www.cairodurham.org/	Cairo-Durham Central  School District	2001.0	640.0
+40228	http://www.portchesterlibrary.org.	Port Chester Public Library	2001.0	1.0
+40229	http://www.isliplibrary.org	Islip Public Library	2005.0	38.0
+40230	http://www.buffalolib.org/content/library-locations/area-libraries?lib=kenmore+branch	Kenmore Branch	2014.0	49.0
+40231	http://vliet.neric.org	WATERVLIET ELEMENTARY SCHOOL	0.0	47.0
+40232	http://www.trumansburg.ny.us	Trumansburg, Village of	1996.0	424.0
+40233	http://www.york.cuny.edu/	CUNY York College	1997.0	1769.0
+40234	http://tufsd.org	SLEEPY HOLLOW HIGH SCHOOL	2000.0	71.0
+40235	http://www.nypl.org/locations/throgs-neck	Throgs Neck Library	2010.0	1.0
+40236	http://www.onlib.org/web/locations_hours/branches/petit.htm	Petit Branch Library	2010.0	2.0
+40237	http://bronxacademyofpromise.com	BRONX ACADEMY OF PROMISE CHARTER SCHOOL	2010.0	10.0
+40238	http://www.bellmore-merrick.k12.ny.us/	Bellmore-Merrick Central  High School District	1998.0	202.0
+40242	http://www.stls.org/belfast	BelfaSt. Public Library	2003.0	202.0
+40243	http://www.churchville.net	Churchville, Village of	2000.0	584.0
+40245	http://williamsoncentral.org	WILLIAMSON MIDDLE SCHOOL	0.0	1284.0
+40247	http://www.lynbrooklibrary.org	Lynbrook Public Library	2010.0	236.0
+40248	http://www.gobroomecounty.com/index2.php	Broome, County of	2001.0	2557.0
+40250	http://www.csh.k12.ny.us/	Cold Spring Harbor Central School  District	0.0	1053.0
+40251	http://www.villageofbath.org	Bath, Village of	2004.0	19.0
+40254	http://www.queensbury.net/	Queensbury, Town of	1998.0	1512.0
+40255	http://www.westcanada.org/	WeSt. Canada Valley Central School  District	2001.0	286.0
+40256	http://www.norfolkny.us	Norfolk, Town of	2003.0	0.0
+40258	http://opdv.ny.gov/	Prevention of Domestic Violence, Office for the	2012.0	128.0
+40259	http://townofwebb.org/content	Webb, Town of	2007.0	141.0
+40261	http://greenwichcsd.org	GREENWICH JUNIOR-SENIOR HIGH SCHOOL	2001.0	139.0
+40262	http://www.buffalolib.org/content/library-locations/area-libraries?lib=east+clinton+branch	EaSt. Clinton Branch Library	2014.0	49.0
+40263	http://gcsk12.org	GOUVERNEUR JUNIOR-SENIOR HIGH SCHOOL	2013.0	347.0
+40264	http://www.whufsd.com/	WeSt. Hempstead Union Free  School District	0.0	563.0
+40265	http://townofjohnstown.org/content/	Johnstown, Town of	2010.0	145.0
+40266	http://www.dhses.ny.gov/ocs/	Cyber Security, Office of	2011.0	353.0
+40267	http://washingtonville.ny.schoolwebpages.com/education/district/district.php?sectionid=1	Washingtonville  Central School District	2005.0	1.0
+40268	http://www.townofalbion.com	Albion, Town of	2006.0	21.0
+40269	http://commack.k12.ny.us	BURR INTERMEDIATE SCHOOL	2000.0	145.0
+40270	http://www.socsd.org/	South Orangetown   Central School District	2000.0	71.0
+40272	http://www.bronxarts.net/	BRONX CHARTER SCHOOL FOR THE ARTS	2003.0	118.0
+40274	http://www.villageofmountmorris.com/	Mount Morris, Village of	2001.0	52.0
+40276	http://www.klschooldistrict.org/	Katonah - Lewisboro  Union Free School District	2012.0	115.0
+40280	http://carthagecsd.org	CARTHAGE SENIOR HIGH SCHOOL	0.0	1902.0
+40281	http://www.baldwinsville.org	Baldwinsville, Village of	2003.0	403.0
+40282	http://www.townofelbridge.com	Elbridge, Town of	2004.0	26.0
+40283	http://somersschools.org/site/default.aspx?PageID=1	SOMERS SENIOR HIGH SCHOOL	2013.0	18.0
+40285	http://www.gufs.org/	GARRISON SCHOOL	2001.0	24.0
+40286	http://amityvilleufsd.org	NORTHWESt. ELEMENTARY SCHOOL	2007.0	125.0
+40287	http://www.larchmontlibrary.org	Larchmont Public Library	2001.0	332.0
+40288	http://www.greece.k12.ny.us/	Greece Central School District	0.0	2823.0
+40290	http://www.townofcaton.com	Caton, Town of	2010.0	73.0
+40292	http://www.cvillelibrary.org	Constableville Library	2007.0	217.0
+40293	http://www.amherst.ny.us	Amherst, Town of	2000.0	38.0
+40294	http://www.sunyjefferson.edu	Jefferson Community College	1998.0	905.0
+40295	http://www.nyfacs.net/	NEW YORK FRENCH-AMERICAN CHARTER SCHOOL	2010.0	48.0
+40296	http://www.guilpl.org	Guilderland Public Library	2008.0	116.0
+40298	http://www.stls.org/almond	Almond Twentieth Century Club Library	2003.0	202.0
+40299	http://www.nysefc.org/	Environmental Facilities Corporation	0.0	165.0
+40300	http://www.townoflyme.com	Lyme, Town of	2004.0	27.0
+40301	http://plattscsd.org	ARTHUR P MOMOT ELEMENTARY SCHOOL	2002.0	0.0
+40303	http://www.naples.k12.ny.us/	Naples Central School District	0.0	548.0
+40304	http://www.renaissancecharter.org/	RENAISSANCE CHARTER SCHOOL (THE)	2007.0	93.0
+40306	http://gcacs.org	GRAND CONCOURSE ACADEMY CHARTER SCHOOL	2013.0	4635.0
+40307	http://jeffersoncs.org	JEFFERSON CENTRAL SCHOOL	0.0	576.0
+40309	http://www.peninsulaprep.org/	PENINSULA PREPARATORY ACADEMY CHARTER SCHOOL	2008.0	23.0
+40310	http://villageofchatham.com/	Chatham, Village of	2007.0	201.0
+40311	http://www.orangetown.com/	Orangetown, Town of	1998.0	177.0
+40313	http://ww3.nysif.com/	Insurance Fund, State	2006.0	503.0
+40315	http://www.co.montgomery.ny.us/	Montgomery, County of	2002.0	713.0
+40317	http://hbschools.us	HAMPTON BAYS HIGH SCHOOL	2005.0	151.0
+40319	http://whufsd.org	WATERFORD-HALFMOON JUNIOR-SENIOR HIGH SCHOOL	0.0	411.0
+40320	http://caz.cnyric.org	CAZENOVIA MIDDLE SCHOOL	1998.0	290.0
+40321	http://www.townofamsterdam.org	Amsterdam, Town of	2004.0	477.0
+40322	http://fultonville.org/	Fultonville, Village of	2002.0	48.0
+40324	http://www.macsherrylibrary.org	Macsherry Library	2002.0	51.0
+40325	http://csat-k12.org/site/default.aspx?PageID=1	CHARTER SCHOOL FOR APPLIED TECHNOLOGIES	2012.0	91.0
+40327	http://floridaufsd.org/site/default.aspx?PageID=1	GOLDEN HILL ELEMENTARY	2013.0	20.0
+40329	http://rsufsd.drupalgardens.com/	REMSENBURG-SPEONK ELEMENTARY SCHOOL	2011.0	1647.0
+40330	http://www.apa.ny.gov/	Adirondack Park Agency	2011.0	42.0
+40331	http://deerparklibrary.org/	Deer Park Public Library	2009.0	4721.0
+40334	http://greenburgh7.net/webmail/login/	RICHARD J BAILEY SCHOOL	0.0	1.0
+40339	http://www.stls.org/cuba	Cuba Circulating Library Association	2001.0	202.0
+40340	http://www.onteora.k12.ny.us/site/default.aspx?PageID=1	Onteora Central School District	2012.0	19.0
+40341	http://www.eastrochester.org	EaSt. Rochester, Village of	2002.0	384.0
+40342	http://www.schuylervilleschools.org/	Schuylerville Central School  District	2004.0	186.0
+40343	http://elcs.neric.org/site/default.aspx?PageID=1	Elizabethtown-Lewis Central School District	0.0	9.0
+40344	http://www.wvalley.wnyric.org/	WeSt. Valley Central School District	1999.0	9.0
+40345	http://gccschool.org	GENESEE COMMUNITY CHARTER SCHOOL	2001.0	231.0
+40346	http://www.mountkiscolibrary.org	Mount Kisco Public Library	2002.0	48.0
+40347	http://www.stockbridgevalley.org/	Stockbridge Valley Central  School District	2002.0	671.0
+40350	http://www.philmont.org/	Philmont Public Library	1998.0	126.0
+40351	http://www.mvcc.edu	Mohawk Valley Community College	1997.0	1178.0
+40352	http://www.islandtreespubliclibrary.com	Island Trees Public Library	0.0	2.0
+40354	http://www.germantowncsd.org/	Germantown Central School District	2004.0	7.0
+40356	http://www.ardsleylibrary.org	Ardsley Public Library	2008.0	22.0
+40359	http://fulton.cnyric.org	G RAY BODLEY HIGH SCHOOL	2002.0	101.0
+40360	http://www.endicottny.com	Endicott, Village of	1999.0	73.0
+40361	http://www.harborfieldscsd.net/	Harborfields  Central School District	2004.0	134.0
+40362	http://dundeecs.org	DUNDEE JUNIOR-SENIOR HIGH SCHOOL	0.0	543.0
+40364	http://www.rcls.org/fpl/	Florida Public Library	1999.0	0.0
+40365	http://www.townofmoriah.com	Moriah, Town of	2007.0	17.0
+40366	http://www.villageofcoxsackie.com	Coxsackie, Village of	2006.0	164.0
+40367	http://bellmoreschools.org	REINHARD EARLY CHILDHOOD CENTER	2001.0	0.0
+40368	http://www.malta-town.org/	Malta, Town of	1998.0	447.0
+40369	http://www.edgemont.org/	Edgemont Union Free School District	1997.0	14.0
+40370	http://www.villageofmonroe.org/	Monroe, Village of	2003.0	31.0
+40371	http://www.attica.pls-net.org	Stevens Memorial Community Library	1998.0	1.0
+40372	http://www.berlincentral.org/	Berlin Central School District	2001.0	16.0
+40373	http://www.edenny.org/	Eden, Town of	1998.0	345.0
+40374	http://www.bpcsd.org/	Broadalbin-Perth Central School District	2003.0	378.0
+40376	http://www.townofhhds.com	Horseheads, Town of	0.0	17.0
+40378	http://www.cefls.org/schroonlake.htm	Schroon Lake Public Library	2001.0	172.0
+40379	http://leffertsgardens.org	LEFFERTS GARDENS CHARTER SCHOOL	0.0	372.0
+40380	http://www.villageofperry.com	Perry, Village of	2001.0	38.0
+40381	http://bedstuycollegiate.uncommonschools.org/	BEDFORD STUYVESANT COLLEGIATE CHARTER SCHOOL	2011.0	81.0
+40382	http://www.liverpool.k12.ny.us/	Liverpool Central School District	1996.0	418.0
+40383	http://www.nccscougar.org/	Northeastern Clinton  Central School District	2005.0	175.0
+40384	http://www.cortland-co.org/towns/solon.htm	Solon, Town of	2003.0	0.0
+40386	http://www.cityofpoughkeepsie.com/	Poughkeepsie, City of	2000.0	257.0
+40387	http://www.rootny.com	Root, Town of	2006.0	1.0
+40388	http://www.townofsoutheast-ny.com/home/	Southeast, Town of	2004.0	1.0
+40389	http://www.nypl.org/locations/heiskell	Andrew Heiskell Braille And Talking Book Library	2010.0	1.0
+40390	http://www.rcsd.k12.ny.us/	VAN RENSSELAER ELEMENTARY SCHOOL	2000.0	46.0
+40391	http://www.cityofplattsburgh.com	Plattsburgh, City of	2000.0	8.0
+40392	http://www.townofurbana.net	Urbana, Town of	2004.0	7.0
+40393	http://www.flls.org/memberpages/newark.htm	Tappan-Spaulding Memorial Library	2002.0	1.0
+40394	http://bainbridgeny.org/	Bainbridge, Town of	2004.0	151.0
+40395	http://vil.albion.ny.us/content	Albion, Village of	2006.0	755.0
+40396	http://www.easthamptonlibrary.org	EaSt. Hampton Library	0.0	113.0
+40397	http://www.sandspoint.org/	Sands Point, Village of	1999.0	24.0
+40398	http://chester.ny.schoolwebpages.com/education/school/school.php?sectionid=2	Chester  Union Free School District	2003.0	3.0
+40399	http://medinacsd.org	CLIFFORD WISE INTERMEDIATE/MIDDLE SCHOOL	0.0	1059.0
+40400	http://www.townofnorthharmony.com	North Harmony, Town of	2004.0	21.0
+40402	http://mesacharter.org	MATH, ENGINEERING AND SCIENCE ACADEMY CHARTER HIGH SCHOOL	2013.0	44.0
+40403	http://www.farmingdalelibrary.org/	Farmingdale Public Library	2007.0	70.0
+40404	http://www.finkelsteinlibrary.org	Finkelstein Memorial Library	1999.0	97.0
+40405	http://dmna.ny.gov/	Military and Naval Affairs, Division of	2012.0	3394.0
+40406	http://www.town.waterford.ny.us/	Waterford, Town of	2001.0	418.0
+40407	http://www.bcc.cuny.edu/	Bronx Community College	1997.0	879.0
+40411	http://www.stillwaterny.org/	Stillwater, Village of	2001.0	159.0
+40412	http://www.nypl.org/locations/webster	Webster Library	2010.0	1.0
+40413	http://villageofbridgewater.org/content	Bridgewater, Town of	2010.0	159.0
+40415	http://www.nypl.org/locations/new-dorp	New Dorp Library	2010.0	1.0
+40417	http://www.hartfordcsd.org/education/school/school.php?sectionid=54	Hartford Central School District	2012.0	3.0
+40418	http://www.middleburgh.k12.ny.us/	Middleburgh  Central School District	2000.0	100.0
+40419	http://delhischools.org	DELAWARE ACADEMY ELEMENTARY SCHOOL	0.0	334.0
+40420	http://www.yateslibrary.org	Yates Community Library	2007.0	110.0
+40421	http://www.law.cuny.edu/index.html	CUNY Law School at Queens	2000.0	191.0
+40422	http://roadsschools.org	ROADS CHARTER SCHOOL II	2012.0	44.0
+40423	http://www.bellportvillage.org/	Bellport, Village of	2009.0	16.0
+40424	http://dfs.ny.gov/	Financial Services, Department of	2011.0	223.0
+40425	http://slcs.org/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	PETROVA ELEMENTARY SCHOOL	0.0	1.0
+40426	http://springvillegi.wnyric.org/	Springville-Griffith Institute  Central School District	2000.0	2548.0
+40427	http://www.goldcoastlibrary.org	Gold CoaSt. Public Library District	2004.0	165.0
+40428	https://www.moriahk12.org/	Moriah  Central School District	2001.0	41.0
+40429	http://frontier.wnyric.org	BIG TREE ELEMENTARY SCHOOL	2001.0	3.0
+40430	http://pawlingny.virtualtownhall.net/pages/index	Pawling, Town of	2006.0	132.0
+40432	http://hamburgschools.org/site/default.aspx?PageID=1	ARMOR ELEMENTARY SCHOOL	2011.0	184.0
+40433	http://www.buffalolib.org/content/library-locations/area-libraries?lib=lackawanna+public+library	Lackawanna Public Library	2014.0	49.0
+40434	http://vlansing.org	Lansing, Village of	2002.0	32.0
+40435	http://www.oldforgelibrary.org	Old Forge Library	2009.0	52.0
+40438	http://www.worcestercs.org/	Worcester Central School District	1999.0	54.0
+40439	http://www.nypl.org/locations/west-new-brighton	WeSt. New Brighton Library	2010.0	1.0
+40440	http://www.bmcsd.org/	Brushton-Moira  Central School District	2002.0	21.0
+40443	http://kpcsd.org	RJ O INTERMEDIATE SCHOOL	0.0	1158.0
+40444	http://www.nmerrickschools.org/	North Merrick Union Free  School District	0.0	897.0
+40445	http://www.addisoncsd.org/	Addison Central School District	2007.0	3.0
+40447	http://villageofantwerp.net/	Antwerp, Village of	2010.0	12.0
+40449	http://www.villageoflittlevalley.org	Little Valley, Village of	2006.0	8.0
+40452	http://www.erie.gov/newstead/	Newstead, Town of	2002.0	79.0
+40454	http://www.townofkirkwood.org	Kirkwood, Town of	2004.0	19.0
+40455	http://www.hammesco.com/default.aspx	CULTURAL ARTS ACADEMY CHARTER SCHOOL AT SPRING CREEK	2008.0	153.0
+40456	http://townofdeerfield.org/content	Deerfield, Town of	2006.0	261.0
+40457	http://www.fi.k12.ny.us/	Fire Island Union Free School District	2003.0	72.0
+40459	http://www.ovcs.org/	Georgetown-South Otselic  Valley Central School District (Otselic Valley  Central School District)	2000.0	152.0
+40460	http://www.sunysuffolk.edu	Suffolk County Community College Eastern Campus	1996.0	1348.0
+40461	http://www.midyorklib.org/Camden/	Camden Library Association	0.0	5.0
+40462	http://www.cpcs.k12.ny.us/	Colton-Pierrepont  Central School District	1996.0	42.0
+40464	http://townofliberty.org	Liberty, Town of	2002.0	12.0
+40465	http://oneontacsd.org	ONEONTA SENIOR HIGH SCHOOL	0.0	1412.0
+40466	http://www.albionk12.org/	Albion Central School District	2003.0	25.0
+40467	http://www.dec.ny.gov/	Environmental Conservation, Department of	2007.0	7512.0
+40468	http://www.sisuluwalker.org/	SISULU-WALKER CHARTER SCHOOL OF HARLEM	2007.0	44.0
+40471	http://midyorklib.org/oneida/	Oneida Public Library	0.0	3378.0
+40472	http://www.pelhamgov.com	Pelham, Village of	2005.0	75.0
+40473	http://www.tompkins-co.org	Tompkins, County of	1999.0	1071.0
+40476	http://www.nypl.org/locations/jefferson-market	Jefferson Market Library	2010.0	1.0
+40477	http://www.townofdelaware-ny.us/	Delaware, Town of	2004.0	25.0
+40478	http://www.edwardsny.us	Edwards, Town of	2003.0	3.0
+40481	http://www.granvillecsd.org/	Granville Central School District	0.0	426.0
+40482	http://www.ecs.k12.ny.us/	Ellenville Central School District	2000.0	24.0
+40483	http://www.monroecc.edu/	Monroe Community College - Damon City Center Campus	1997.0	6830.0
+40484	http://www.greenville.k12.ny.us/	Greenville Central School  District	1999.0	131.0
+40490	http://www.stls.org/canaseraga	Essential Club Free Library	2003.0	202.0
+40491	http://www.elmanewyork.com	Elma, Town of	2004.0	58.0
+40492	http://www.bcsdk12.org/	Beekmantown  Central School District	0.0	1825.0
+40493	http://www.hauppauge.k12.ny.us/site/default.aspx?PageID=1	Hauppauge Union Free School  District	2013.0	31.0
+40494	http://www.shawangunk.org	Shawangunk, Town of	2001.0	84.0
+40495	http://www.4cls.org/webpages/members/southnewberlin/southnewberlin.html	South New Berlin Free Library	2001.0	1566.0
+40496	http://www.greatneck.k12.ny.us/	Great Neck Union Free School  District	1998.0	6.0
+40498	http://obenschools.org	THEODORE ROOSEVELT SCHOOL	0.0	73.0
+40499	http://www.mohonasen.org/	Mohonasen  Central School District	1999.0	122.0
+40500	http://bgligschool.org	BRONX GLOBAL LEARNING INSTITUTE FOR GIRLS CHARTER SCHOOL	2011.0	21.0
+40502	http://dolgeville.org	DOLGEVILLE ELEMENTARY SCHOOL	2003.0	3.0
+40503	http://www.pawlinglibrary.org	Pawling Free Library	2006.0	324.0
+40504	http://www.cortland-co.org/towns/marathon.htm	Marathon, Town of	2002.0	2.0
+40505	http://www.human.cornell.edu	New York State College of Human Ecology at Cornell University	1997.0	1052.0
+40506	http://www.aging.ny.gov/	Aging, Office for	2008.0	55.0
+40508	http://childrensaidcollegeprep.org	CHILDREN'S AID COLLEGE PREPARATORY CHARTER SCHOOL	2012.0	118.0
+40509	http://vs30.org	CLEARSTREAM AVENUE SCHOOL	2013.0	1.0
+40511	http://www.haldaneschool.org/	HALDANE ELEMENTARY/MIDDLE SCHOOL	2002.0	25.0
+40512	http://www.townofvanburen.com	Van Buren, Town of	2002.0	513.0
+40516	http://brillacollegeprep.org	BRILLA COLLEGE PREPARATORY CHARTER SCHOOL	2013.0	49.0
+40517	http://www.villageofcorinthny.com	Corinth, Village of	2002.0	108.0
+40520	http://www.plainedgeschools.org/	Plainedge  Union Free School District	2001.0	62.0
+40521	http://saranac.org	MORRISONVILLE ELEMENTARY SCHOOL	2003.0	289.0
+40522	http://www.wolcott.pls-net.org	Wolcott Civic Free Library	1998.0	1.0
+40523	http://esmschools.org	FREMONT ELEMENTARY SCHOOL	2000.0	1110.0
+40524	http://schroonschool.org	SCHROON LAKE CENTRAL SCHOOL	2003.0	33.0
+40525	http://www3.libraryweb.org/subpage.aspx?id=362	Winton Branch Library	2011.0	501.0
+40526	http://www.villagespringvalley.org	Spring Valley, Village of	2004.0	36.0
+40527	http://www.chazy.org/	Chazy Union Free  School District	2005.0	11.0
+40528	http://www.avon.pls-net.org	Avon Free Library	1998.0	1.0
+40529	http://northshorepubliclibrary.org/	North Shore Public Library District	2011.0	272.0
+40530	http://www.lehman.cuny.edu	City University of New York Herbert H. Lehman College	1996.0	875.0
+40533	http://www.gmucsd.org/	Gilbertsville - Mount Upton Central School  District	2004.0	20.0
+40534	http://www.dhses.ny.gov/oct/	Counter Terrorism, Office of	2011.0	40.0
+40535	http://www.ogdensburgpubliclibrary.org	Ogdensburg Public Library	2008.0	924.0
+40537	http://www.bellmorelibrary.org	Bellmore Memorial Library	2005.0	229.0
+40539	http://bufsd.org	SOUTHWESt. ELEMENTARY SCHOOL	2002.0	120.0
+40540	http://www.summitacademycharterschool.org/	SUMMIT ACADEMY CHARTER SCHOOL	2008.0	27.0
+40542	http://www.newburghschools.org/	Newburgh  Enlarged City School District	2008.0	114.0
+40543	http://www.queens.cuny.edu	CUNY Queens College	2002.0	114.0
+40544	http://www.scarsdaleschools.k12.ny.us/site/default.aspx?PageID=1	Scarsdale Union Free School  District	2011.0	98.0
+40545	http://lakelandschools.org	THOMAS JEFFERSON ELEMENTARY SCHOOL	2000.0	2547.0
+40546	http://www.argyleny.com	Argyle, Town of	2003.0	15.0
+40547	http://www.hudsonriverpark.org/	Hudson River Park Trust	0.0	325.0
+40548	http://johnjermain.org	John Jermain Memorial Library	2008.0	501.0
+40550	http://perucsd.org/site/default.aspx?PageID=1	PERU SECONDARY SCHOOL	2014.0	29.0
+40551	http://www.minoalibrary.org	Minoa Library	2007.0	12.0
+40552	http://www.villageofossining.org/	Ossining, Village of	2005.0	1029.0
+40553	http://tuxedopark-ny.gov/	Tuxedo Park, Village of	2006.0	75.0
+40554	http://www.vsvny.org/	Valley Stream, Village of	2011.0	576.0
+40558	http://www.watertown-ny.gov	Watertown, City of	2004.0	853.0
+40561	http://newlebanoncsd.org	WALTER B HOWARD ELEMENTARY SCHOOL	2002.0	53.0
+40562	http://www.sacketspatriots.org/	Sackets Harbor Central School	0.0	458.0
+40563	http://www.townofwoodbury.com	Woodbury, Town of	2004.0	24.0
+40564	http://www.clyde.pls-net.org	Clyde-Savannah Public Library	1998.0	1.0
+40565	http://www.vestal.stier.org/	Vestal Central School District	1998.0	174.0
+40566	http://www.shenet.org/	Shenendehowa  Central School District	1998.0	318.0
+40567	http://www.vofab.org	Atlantic Beach, Village of	2001.0	13.0
+40568	http://dmv.ny.gov/	Motor Vehicles, Department of	2010.0	1509.0
+40569	http://manchesterny.org/	Manchester, Town of	2008.0	2.0
+40570	http://pattersonny.org	Patterson, Town of	2001.0	39.0
+40571	http://www.kvvi.net/~library/	Keene Valley Public Library	1998.0	9.0
+40573	http://www.town.ithaca.ny.us	Ithaca, Town of	2000.0	428.0
+40575	http://philipstown.com/	Philipstown, Town of	2002.0	186.0
+40577	http://gis.ny.gov/?nysgis=	Geographic Information Systems (GIS) Clearinghouse	2012.0	80.0
+40578	http://www.pob.k12.ny.us/site/default.aspx?PageID=1	Plainview-Old Bethpage Central School  District	2011.0	15.0
+40579	http://www.franklincsd.org/	FRANKLIN CENTRAL SCHOOL	2003.0	20.0
+40580	http://www.plattsburgh.edu/	SUC at Plattsburgh at Adirondack Community College	1997.0	2009.0
+40582	http://www.aacs.wnyric.org/	Alfred-Almond Central School District	0.0	248.0
+40583	http://www.buffalolib.org/content/library-locations/area-libraries?lib=clarence+public+library	Clarence Public Library	2014.0	49.0
+40584	http://www.northsyracuse.org	North Syracuse, Village of	2001.0	152.0
+40587	http://www.chathamcentralschools.com/	Chatham Central School  District	1999.0	244.0
+40588	http://www.middlefieldny.com/	Middlefield, Town of	2010.0	12.0
+40589	http://www.longlakecsd.org/	Long Lake Central School District	2004.0	392.0
+40590	http://www.townofkentny.com/	Kent, Town of	2002.0	26.0
+40591	http://www.introsite.com/grove/	Grove, Town of	2001.0	2.0
+40593	http://www.ascendlearning.org/	WILLIAMSBURG ASCEND CHARTER SCHOOL	2008.0	473.0
+40594	http://imaginemeleadership.org/	IMAGINE ME LEADERSHIP CHARTER SCHOOL	2011.0	351.0
+40595	http://www.oriskanyfallslibrary.org/	C. W. Clark Memorial Library	2012.0	5.0
+40596	http://www.IthacaCitySchools.org/index.cfm	Ithaca City School District	2013.0	571.0
+40598	http://lvcsd.k12.ny.us	BAYVILLE ELEMENTARY SCHOOL	2002.0	355.0
+40599	http://swcs.wnyric.org/site/default.aspx?PageID=1	Southwestern Central School District	2012.0	24.0
+40600	http://town.olive.ny.us/	Olive, Town of	2000.0	164.0
+40601	http://www.purchase.edu	State University of New York College at Purchase	1996.0	2198.0
+40602	http://www.enterprisecharter.org/	ENTERPRISE CHARTER SCHOOL	2005.0	35.0
+40605	http://www.cityofelmira.net/	Elmira, City of	2005.0	225.0
+40607	http://www.chittenangoschools.org/	Chittenango Central School  District	2002.0	506.0
+40608	http://mayfieldk12.com/	Mayfield Central School District	2001.0	106.0
+40610	http://www.townoflumberland.org/	Lumberland, Town of	2004.0	34.0
+40612	http://www.windsor-csd.org/	FLOYD BELL ELEMENTARY SCHOOL	1998.0	158.0
+40613	http://www.villageofowego.com	Owego, Village of	2004.0	35.0
+40614	http://www.forestville.com/site/default.aspx?PageID=1	Forestville Central School District	2011.0	16.0
+40615	http://www.ogdenny.com/	Ogden, Town of	1998.0	119.0
+40616	http://www.southcolonieschools.org/	South Colonie  Central School District	2003.0	174.0
+40619	http://westbuffalocharter.org	WESt. BUFFALO CHARTER SCHOOL	2011.0	375.0
+40620	http://www.fairportlibrary.org	Fairport Public Library	2000.0	276.0
+40621	http://village.boonville.ny.us/content	Boonville, Village of	2005.0	137.0
+40624	http://www.nassaulibrary.org/	Nassau Library System	1998.0	61.0
+40627	http://m-ecs.schoolfusion.us/	Morrisville-Eaton  Central School District	2012.0	1966.0
+40628	http://www.ilcsd.org/	Indian Lake Central School District	2001.0	9.0
+40629	http://www.bradfordcsd.org/	Bradford Central  School District	2003.0	1.0
+40631	http://hlacharterschool.org	HEBREW LANGUAGE ACADEMY CHARTER SCHOOL	2009.0	57.0
+40632	http://www.fonlib.blogspot.com/	Frothingham Free Library	2011.0	34.0
+40633	http://pattersonlibrary.org/	Patterson Library	2001.0	24.0
+40634	http://library.cshl.edu/	Cold Spring Harbor Laboratory Library And Archives	2002.0	2333.0
+40635	http://www.albanycommunitycs.org/	ALBANY COMMUNITY CHARTER SCHOOL	2011.0	56.0
+40636	http://www.mountvernonpubliclibrary.org	Mount Vernon Public Library	2000.0	878.0
+40639	http://westportnylibrary.org/	Westport Library Association	2006.0	298.0
+40640	http://www.canton.edu/	SUNY College of Technology at Canton	1996.0	1724.0
+40641	http://www.windhamny.com/windhamhigh.html	Windham Ashland Jewett  Central School District	1999.0	115.0
+40642	http://sgfallssd.org	OLIVER W WINCH MIDDLE SCHOOL	1999.0	5.0
+40643	http://www.niagarafallspubliclib.org	Niagara Falls Public Library	2000.0	16.0
+40644	http://hflcsd.org	MANOR INTERMEDIATE SCHOOL	0.0	2197.0
+40646	http://roxburylibraryonline.com/	Roxbury Library Association	2010.0	77.0
+40647	http://www.nanuetsd.org/	Nanuet Union Free School District	2010.0	11.0
+40648	http://bwccschool.org	BEGINNING WITH CHILDREN CHARTER SCHOOL	0.0	927.0
+40650	http://www.poughkeepsieschools.org/	WARRING MAGNET ACADEMY OF SCIENCE AND TECHNOLOGY	2004.0	432.0
+40654	http://vnhp.org/	New Hyde Park, Village of	2000.0	36.0
+40655	http://www.pittsfordschools.org/	Pittsford Central School District	0.0	2154.0
+40656	http://www.vet.cornell.edu/	New York State College of Veterinary Medicine at Cornell University	1997.0	1992.0
+40658	http://www.glencove.k12.ny.us/	Glen Cove City School District	1998.0	232.0
+40660	http://ci.auburn.ny.us	Auburn, City of	1998.0	714.0
+40663	http://www.cityofschenectady.com	Schenectady, City of	2003.0	66.0
+40665	http://www.townofbabylon.com/	Babylon, Town of	2002.0	709.0
+40666	http://www.hfcshome.org/	Hoosick  Falls Central School District	2009.0	0.0
+40667	http://www.townofmamaroneck.org	Mamaroneck, Town of	2001.0	2427.0
+40668	http://www.benningtonny.com	Bennington, Town of	2007.0	9.0
+40669	http://www.vil.spencerport.ny.us	Spencerport, Village of	2002.0	32.0
+40670	http://www.redhookcentralschools.org/site/default.aspx?PageID=1	Red  Hook Central School District	2012.0	60.0
+40671	http://www.nypl.org/locations/125th-street	125th Street Library	2010.0	1.0
+40672	http://tullyschools.org/	Tully Central School District	2003.0	203.0
+40673	http://cdch.org	CHILD DEVELOPMENT CENTER OF THE HAMPTONS CHARTER SCHOOL	2000.0	0.0
+40674	http://williamsburgcollegiate.uncommonschools.org/	WILLIAMSBURG COLLEGIATE CHARTER SCHOOL	2011.0	74.0
+40675	http://www.castleton-on-hudson.org	Castleton-on-Hudson, Village of	2002.0	38.0
+40677	http://www.spartanpride.org/	South Jefferson Central School  District	0.0	945.0
+40678	http://www.cutchoguelibrary.org	Cutchogue New Suffolk Free Library	2001.0	14.0
+40680	http://www.townofcolumbia.org	Columbia, Town of	2005.0	8.0
+40681	http://www.ci.kingston.ny.us	Kingston, City of	1999.0	384.0
+40682	http://www.tuckahoelibrary.org	Tuckahoe Public Library	2002.0	28.0
+40683	http://www.franklinfreelibrary.org	Franklin Free Library	2007.0	17.0
+40684	http://beaconlibrary.org/	Howland Public Library	2004.0	31.0
+40685	http://www.voh-ny.com/index.htm	Haverstraw, Village of	2010.0	28.0
+40686	http://www.gwlufsd.org/	Greenwood Lake Union Free School District	0.0	450.0
+40688	http://www.townofnewburgh.org	Newburgh, Town of	2005.0	370.0
+40689	http://www.suffernfreelibrary.org	Suffern Free Library	2007.0	71.0
+40690	http://www.cohoes.org/	Cohoes City School District	2001.0	67.0
+40692	http://www.dhses.ny.gov/ofpc/	Fire Prevention and Control, Office of	2011.0	583.0
+40693	http://www.townofkendall.com	Kendall, Town of	2001.0	6.0
+40694	http://www.byramhills.org/	Byram Hills  Central School District	1998.0	612.0
+40697	http://www.portchesterschools.org/	Port Chester-Rye Union Free  School District	2003.0	89.0
+40699	http://www.washingtonny.org/	Washington, Town of	2008.0	85.0
+40701	http://www.tepcharter.org/	EQUITY PROJECT CHARTER SCHOOL (THE)	2008.0	60.0
+40704	http://saddlerockny.gov/	Saddle Rock, Village of	2013.0	107.0
+40705	http://www.skanschools.org/	Skaneateles Central School District	0.0	828.0
+40706	http://www.townofcolton.com	Colton, Town of	2000.0	108.0
+40707	http://www.arkportvillage.com	Arkport, Village of	2007.0	46.0
+40708	http://dfa.ny.gov/	Family Assistance, Department of	2011.0	1.0
+40710	http://www.oysterbaytown.com/	Oyster Bay, Town of	2002.0	311.0
+40711	http://www.opschools.org/	Orchard Park Central School District	0.0	2029.0
+40712	http://www.buffalolib.org/content/library-locations/area-libraries?lib=niagara+branch	Niagara Branch Library	2014.0	49.0
+40716	http://fortedward.net/	Fort Edward, Town of	2008.0	32.0
+40717	http://www.flacsnyc.com/	FAMILY LIFE ACADEMY CHARTER SCHOOL I	2004.0	2.0
+40718	http://www.durhamny.com	Durham, Town of	2001.0	947.0
+40719	http://www.mvls.info/	Mohawk Valley Library Association	2003.0	2075.0
+40721	http://townofgeddes.com/	Geddes, Town of	2002.0	71.0
+40723	http://www.queensburyschool.org/site/default.aspx?PageID=1	Queensbury Union Free School  District	2014.0	66.0
+40724	http://www.schuylercounty.us	Schuyler, County of	2004.0	1092.0
+40725	http://gccs.us	GILBOA-CONESVILLE CENTRAL SCHOOL	2004.0	1.0
+40726	http://www.cefls.org/keeseville.htm	Keeseville Free Library	2001.0	172.0
+40727	http://www.freeportlibrary.info/	Freeport Memorial Library	2011.0	93.0
+40728	http://www.villageofcanaseraga.com	Canaseraga, Village of	2002.0	1.0
+40729	http://gananda.org	RUBEN A CIRILLO HIGH SCHOOL	0.0	606.0
+40730	http://comsewogue.k12.ny.us	JOHN F KENNEDY MIDDLE SCHOOL	0.0	80.0
+40731	http://www.sunywcc.edu/	Westchester Community College	2000.0	917.0
+40732	http://www.courts.state.ny.us/tcadmin.htm	Court Administration, Office of	2000.0	89.0
+40734	http://ww2.porthenry.com/	Port Henry, Village of	0.0	147.0
+40736	http://www.herkimer.edu/	Herkimer County Community College	2004.0	4245.0
+40737	http://copiague.net	DEAUVILLE GARDENS EASt. ELEMENTARY SCHOOL	2003.0	1.0
+40738	http://www.cooperstowncs.org/	Cooperstown Central School District	0.0	827.0
+40739	http://www2.cortland.edu/home/	State University of New York College at Cortland	2010.0	26.0
+40740	http://www.eastrockawaylibrary.org/	EaSt. Rockaway Public Library	2013.0	186.0
+40742	http://www.cortland.org	Cortland, City of	1998.0	174.0
+40743	http://www.fitnyc.edu	Fashion Institute of Technology	1997.0	3205.0
+40744	http://www.potsdam.ny.us/	Potsdam, Village of	1996.0	22.0
+40746	http://mtsinai.k12.ny.us	MOUNT SINAI ELEMENTARY SCHOOL	1998.0	49.0
+40747	http://www.buffalolib.org/content/library-locations/area-libraries?lib=north+collins+public+library	North Collins Library	2014.0	49.0
+40749	http://herkimercounty.org/content	Herkimer, County of	2006.0	449.0
+40751	http://village.whitesboro.ny.us/content	Whitesboro, Village of	2005.0	263.0
+40753	http://valleycentralschools.org/site/default.aspx?PageID=1	EASt. COLDENHAM ELEMENTARY SCHOOL	0.0	21.0
+40754	http://www.lacimacharterschool.org/	LA CIMA CHARTER SCHOOL	2008.0	157.0
+40757	http://heermancelibrary.org/	Heermance Memorial Library	2013.0	67.0
+40758	http://www.ossianny.com	Ossian, Town of	2005.0	17.0
+40759	http://www.nypl.org/locations/great-kills	Great Kills Library	2010.0	1.0
+40760	http://www.townofglenville.org/	Glenville, Town of	2000.0	162.0
+40761	http://www.taplib.org	Tappan Library	2007.0	102.0
+40762	http://www.svsabers.org/	Susquehanna Valley Central School  District	2001.0	67.0
+40763	http://www.lockportschools.wnyric.org/lockportschools/site/default.asp	Lockport  City School District	2007.0	1.0
+40764	http://www.kbcc.cuny.edu/Pages/default.aspx	Kingsborough Community College	2010.0	2023.0
+40765	http://www.bayvillevillagehall.com	Bayville, Village of	2001.0	3.0
+40766	http://www.oflibrary.org	Onondaga Free Library	2004.0	11.0
+40767	http://www.nypa.gov/	Power Authority	0.0	589.0
+40768	http://www.portwashingtonnorth.org	Port Washington North, Village of	2003.0	227.0
+40769	http://hammondcsd.schoolwires.net/site/default.aspx	Hammond Central School District	0.0	6.0
+40770	http://www.gasd.org/	Amsterdam City School District (Greater)	0.0	1057.0
+40771	http://www.sagaponackschool.com/	Sagaponack  Common School District	2008.0	38.0
+40772	http://village.williamsville.ny.us	Williamsville, Village of	2002.0	43.0
+40773	http://villageofnewhartford.com/content	New Hartford, Village of	2009.0	177.0
+40774	http://www.fmcc.edu/	Fulton-Montgomery Community College	2002.0	715.0
+40775	http://clevehill.org	CLEVELAND HILL ELEMENTARY SCHOOL	2008.0	2.0
+40776	http://rrlc.org/	Rochester Regional Library Council	1997.0	570.0
+40778	http://www.livoniacsd.org/	Livonia Central School District	2002.0	932.0
+40780	http://www.northwarren.k12.ny.us/	North Warren Central School  District	2000.0	87.0
+40782	http://www.nypl.org/locations/sibl	Science, Industry And Business Library	2010.0	1.0
+40785	http://www.nypl.org/locations/parkchester	Parkchester Library	2010.0	1.0
+40787	http://wheatfield.ny.us	Wheatfield, Town of	2001.0	122.0
+40788	http://www.townofriga.org/	Riga, Town of	2001.0	709.0
+40790	http://www.hunter.cuny.edu/main/	CUNY Hunter College	2011.0	8.0
+40791	http://www.friendship.wnyric.org/site/default.aspx?PageID=1	Friendship Central School  District	2012.0	13.0
+40792	http://www.fortannschool.org/	Fort Ann Central School District	0.0	1058.0
+40793	http://www.stonybrook.edu	State University of New York at Stony Brook	1999.0	1616.0
+40794	http://www.townofwestbloomfield.org	WeSt. Bloomfield, Town of	2000.0	35.0
+40796	http://www.cclslib.org/little_valley/	Memorial Library Of Little Valley	2008.0	1.0
+40797	http://www.manliusvillage.org	Manlius, Village of	2003.0	27.0
+40798	http://cityofhudson.org/content	Hudson, City of	2005.0	459.0
+40799	http://www.sunyacc.edu	Adirondack Community College	1999.0	1164.0
+40800	http://www.mpbschools.org/	BLYTHEDALE SCHOOL	2005.0	39.0
+40801	http://www.deruyter.k12.ny.us/	DeRuyter  Central School District	1999.0	254.0
+40803	http://www.freeportschools.org/	Freeport Union Free School  District	2000.0	170.0
+40804	http://www.nypl.org/locations/hudson-park	Hudson Park Library	2010.0	1.0
+40805	http://www.flls.org/memberpages/waverly.htm	Waverly Free Library	2002.0	1.0
+40806	http://www.schodack.k12.ny.us/	Schodack  Central School District	2000.0	179.0
+40808	http://www.brunswicklibrary.org	Brunswick Community Library	2000.0	46.0
+40809	http://bkwcsd.k12.ny.us	BERNE-KNOX-WESTERLO JUNIOR-SENIOR HIGH SCHOOL	2003.0	91.0
+40810	http://genevapubliclibrary.net	Geneva Public Library	2008.0	350.0
+40811	http://www.glencove-li.com/	Glen Cove, City of	1998.0	1157.0
+40813	http://www.kendallschools.org/	Kendall Central School District	2003.0	39.0
+40814	http://www.greenburghlibrary.org	Greenburgh Public Library	2001.0	125.0
+40815	http://www.hugedomains.com/domain_profile.cfm?d=brookfieldny&e=com	Brookfield, Town of	0.0	2745.0
+40816	http://www.ambercharter.org/	AMBER CHARTER SCHOOL	2012.0	20.0
+40817	http://www.schroon.net	Schroon, Town of	2003.0	62.0
+40819	http://www.cs.ny.gov/	Civil Service, Department of	2011.0	319.0
+40820	http://bcsdny.org	BEDFORD VILLAGE ELEMENTARY SCHOOL	2007.0	943.0
+40821	http://www.townoffrankfort.com	Frankfort, Town of	2004.0	37.0
+40824	http://www.villageofwestfield.org	Westfield, Village of	2003.0	25.0
+40825	http://www.gilboa-conesville.k12.ny.us/	Gilboa-Conesville  Central School District	0.0	652.0
+40826	http://www.edline.net/pages/east_hampton_ufsd	JOHN M MARSHALL ELEMENTARY SCHOOL	2012.0	2.0
+40827	http://www.fingerlakes.edu	Finger Lakes Community College	1997.0	465.0
+40828	http://www.kpcsd.k12.ny.us/	Kings Park Central School District	0.0	1004.0
+40830	http://peekskillcsd.org/site/default.aspx?PageID=1	PEEKSKILL MIDDLE SCHOOL	2013.0	5.0
+40832	http://www.heketi.org/	HEKETI COMMUNITY CHARTER SCHOOL	2011.0	29.0
+40833	http://www.crcs.wnyric.org/	Cuba-Rushford Central School District	0.0	2454.0
+40834	http://www.ddpc.state.ny.us/	Developmental Disabilities Planning Council	1999.0	31.0
+40836	http://www.sachem.k12.ny.us/	Sachem Central School District	1996.0	16.0
+40837	http://herricks.org	HERRICKS HIGH SCHOOL	0.0	1198.0
+40839	http://scarsdalelibrary.org/	Scarsdale Public Library	2000.0	102.0
+40840	http://www.co.ontario.ny.us	Ontario, County of	1997.0	1447.0
+40841	http://www.nypl.org/locations/woodlawn-heights	Woodlawn Heights Library	2010.0	1.0
+40844	http://clymercsd.org	CLYMER CENTRAL SCHOOL	0.0	274.0
+40846	http://www.lyonsfallslibrary.org	Lyons Falls Library	2007.0	214.0
+40847	http://www.andescentralschool.org/	Andes Central School District	0.0	212.0
+40849	http://www.glencovelibrary.org	Glen Cove Public Library	2007.0	16.0
+40850	http://www.adamsfreelibrary.org/	Adams Free Library	2009.0	226.0
+40851	http://www.nysdta.org/	Tax Appeals and Tax Appeals Tribunal, Division of	0.0	22.0
+40852	http://www.stls.org/cohocton	Cohocton Public Library	2003.0	202.0
+40853	http://www.buffalolib.org/content/library-locations/area-libraries?lib=eggertsville-snyder+branch	Eggertsville-Snyder Branch	2014.0	49.0
+40854	http://www.rcscsd.org/	Ravena-Coeymans-Selkirk  Central School District	2001.0	128.0
+40855	http://www.villageofquogue.com	Quogue, Village of	2007.0	52.0
+40856	http://www.paintedpostny.com/	Painted Post, Village of	2001.0	14.0
+40857	http://rockypoint.k12.ny.us	ROCKY POINT HIGH SCHOOL	2001.0	0.0
+40858	http://www.sandlaketownlibrary.org	Sand Lake Town Library	2009.0	68.0
+40859	http://www.lafargevillecsd.org/	LaFargeville Central School District	2007.0	436.0
+40860	http://www.cvcsd.stier.org/	CHENANGO VALLEY HIGH SCHOOL	1999.0	952.0
+40861	http://www.floralparklibrary.org/	Floral Park Public Library	2011.0	78.0
+40862	http://www.willistonparklibrary.org	Williston Park Public Library	2006.0	27.0
+40863	http://vschsd.org/	Valley Stream Central High School  District	2001.0	131.0
+40864	http://www.lcsd.k12.ny.us/site/default.aspx?PageID=1	RAYMOND C BUCKLEY ELEMENTARY SCHOOL	2012.0	21.0
+40865	http://villagehohny.org/v2/pageon.php?b=home	Head of the Harbor, Village of	2013.0	44.0
+40866	http://www.ardsleyvillage.com	Ardsley, Village of	1999.0	974.0
+40867	http://www.portville.wnyric.org/site/default.aspx?PageID=1	Portville Central School District	2012.0	21.0
+40869	http://dryden.ny.us/	Dryden, Town of	1998.0	841.0
+40871	http://www.shelterisland.k12.ny.us/	Shelter Island Unnion Free School District	1998.0	9.0
+40872	http://townofriverheadny.gov/	Riverhead, Town of	2012.0	1016.0
+40873	http://visitgenevany.com/	Geneva, City of	2013.0	321.0
+40874	http://shufsd.org	SILAS WOOD 6TH GRADE CENTER	2004.0	206.0
+40876	http://www.corinthcsd.com/	Corinth Central School District	0.0	996.0
+40877	http://clarksonny.org	Clarkson, Town of	2001.0	29.0
+40878	http://mcgrawschools.org	MCGRAW ELEMENTARY SCHOOL	2002.0	239.0
+40879	http://www.townofwindham.com	Windham, Town of	1999.0	32.0
+40880	http://www.canaannewyork.org/	Canaan, Town of	2003.0	1263.0
+40883	http://commackpubliclibrary.org	Commack Public Library District	2008.0	42.0
+40884	http://meclib.sals.edu	Mechanicville District Public Library	2007.0	34.0
+40886	http://www.lfcsd.org/site/default.aspx?PageID=1	Little Falls City School District	0.0	5.0
+40887	http://townofplattsburgh.com	Plattsburgh, Town of	2001.0	34.0
+40888	http://www.villageofwalden.org/	Walden, Village of	2003.0	152.0
+40889	http://www.bnl.gov/isd/reslib/main_e.asp	Brookhaven National Laboratory	2006.0	2.0
+40892	http://www.stls.org/addison	Addison Public Library	2003.0	202.0
+40894	http://www.ripleycsd.wnyric.org/ripleycsd/site/default.asp	Ripley Central School District	2010.0	1.0
+40896	http://www.salmun.com	Salamanca, City of	2002.0	3.0
+40898	http://www.hugedomains.com/domain_profile.cfm?d=townofsandlake&e=com	Sand Lake, Town of	0.0	270.0
+40899	http://sweethomeschools.org/	Sweet Home Central School  District	2011.0	7830.0
+40900	http://livingston.lib.ny.us	Livingston Free Library	2001.0	12.0
+40903	http://www.lawrevision.state.ny.us/	New York State Law Revision Commission	2002.0	13.0
+40904	http://www.poestenkilllibrary.org	Poestenkill Library	2002.0	31.0
+40908	http://pulteney.org/	Pulteney Free Library	2001.0	181.0
+40909	http://lmcs.k12.ny.us	LIVINGSTON MANOR ELEMENTARY SCHOOL	0.0	184.0
+40911	http://whes.nrcsd.org	WESt. HAVERSTRAW ELEMENTARY SCHOOL	2004.0	30.0
+40912	http://www.cclslib.org/frewsburg/	Myers Memorial Library	2002.0	14.0
+40914	http://wayne.k12.ny.us	ONTARIO ELEMENTARY SCHOOL	0.0	1340.0
+40915	http://www.sunysccc.edu	Schenectady County Community College	1998.0	801.0
+40918	http://www.brockport.edu	State University of New York College at Brockport	1997.0	1813.0
+40919	http://nacs1.org	NORTHERN ADIRONDACK ELEMENTARY SCHOOL	2004.0	532.0
+40922	http://www.courts.state.ny.us/	Courts	0.0	2724.0
+40923	https://mail.lafargevillecsd.org/owa/auth/logon.aspx?url=https://mail.lafargevillecsd.org/owa/&reason=0	LA FARGEVILLE CENTRAL SCHOOL	0.0	1.0
+40924	http://www.flls.org/memberpages/cincin.htm	Kellogg Free Library	2002.0	1.0
+40925	http://www.webutuckschools.org/	Webutuck  Central School District	2000.0	83.0
+40926	http://www.ardsleyschools.org/	CONCORD ROAD ELEMENTARY SCHOOL	2004.0	14.0
+40928	http://www.henhudfreelibrary.org	Hendrick Hudson Free Library	2004.0	44.0
+40929	http://villageofsolvay.com/	Solvay, Village of	2006.0	36.0
+40931	http://www.budget.ny.gov/	Budget, Division of	2011.0	95.0
+40932	http://www.midlakes.org/	Phelps-Clifton Springs Central School  District (Midlakes)	2001.0	444.0
+40933	http://www.railroaders.net/	Whitehall Central School District	2001.0	85.0
+40934	http://www.spencerportschools.org/	Spencerport Central School  District	0.0	2448.0
+40936	http://www.malonetown.com	Malone, Town of	2007.0	23.0
+40937	http://www.keshequa.org/	Dalton-Nunda Central School District (Keshequa Central School District )	0.0	965.0
+40938	http://www.cjc.ny.gov/	Judicial Conduct, Commission on	2011.0	78.0
+40940	http://www.nypl.org/locations/baychester	Baychester Library	2010.0	1.0
+40941	http://www.ci.tonawanda.ny.us/	Tonawanda, City of	2000.0	127.0
+40942	http://www.townoflakegeorge.org	Lake George, Town of	0.0	0.0
+40943	http://www.warnerlibrary.org	Warner Library	2003.0	3337.0
+40945	http://www2.lhric.org/pocantico/	Pocantico  Hills Central School District	1999.0	0.0
+40946	http://www.skcs.org/	South Kortright  Central School District	2002.0	10.0
+40947	http://roxburyny.com/	Roxbury, Town of	1998.0	408.0
+40949	http://www.youngstownfreelibrary.org	Youngstown Free Library	2007.0	7.0
+40950	http://www.townofalbion-ny.us/	Albion, Town of	2003.0	13.0
+40952	http://www.4cls.org/webpages/members/fenton/fenton.html	Fenton Free Library	2001.0	1672.0
+40953	http://www.pelhamlibrary.org	Town Of Pelham Public Library	2002.0	227.0
+40955	http://longbeachlibrary.org/	Long Beach Public Library	2005.0	56.0
+40956	http://www.townofnewlebanon.com	New Lebanon, Town of	2007.0	94.0
+40957	http://www.marathonschools.org/	Marathon Central School District	2003.0	39.0
+40958	http://www.elbacsd.org/	Elba Central School District	0.0	196.0
+40959	http://www.lpl.org	Liverpool Public Library	1997.0	1347.0
+40961	http://www.watertowncsd.org/	Watertown City School District	2002.0	1124.0
+40962	http://www.newhavenny.com	New Haven, Town of	2005.0	22.0
+40964	http://www.omschools.org/	Odessa-Montour Central School  District	2003.0	399.0
+40966	http://www.cityofyonkers.com/	Yonkers, City of	2000.0	2108.0
+40967	http://www.rhinebeck-ny.gov/	Rhinebeck, Village of	2008.0	524.0
+40968	http://villageofpittsford.org	Pittsford, Village of	2000.0	1092.0
+40969	http://www.wyoming.k12.ny.us/	Wyoming Central School District	2000.0	1.0
+40970	http://www.racschool.com/	ROCHESTER ACADEMY CHARTER SCHOOL	2011.0	427.0
+40971	http://oceansideschools.org	SCHOOL 9E-BOARDMAN ELEM SCHOOL	2009.0	88.0
+40972	http://wges.nrcsd.org/	WILLOW GROVE ELEMENTARY SCHOOL	2012.0	41.0
+40973	http://www.clintoncountygov.com/	Clinton, County of	2001.0	68.0
+40974	http://www.voorheesvillelibrary.org	Voorheesville Public Library	2001.0	139.0
+40976	http://villageofmontourfalls.com/	Montour Falls, Village of	2004.0	42.0
+40979	http://bridgehampton.k12.ny.us	BRIDGEHAMPTON SCHOOL	2000.0	39.0
+40982	http://www.stls.org/andover	Andover Free Library	2003.0	202.0
+40983	http://www.tuxedoparklibrary.org	Tuxedo Park Library	2006.0	23.0
+40984	http://www.freeportny.com/	Freeport, Village of	1998.0	491.0
+40985	http://www.vofishkill.us/	Fishkill, Village of	2007.0	670.0
+40987	http://mylpl.net	Longwood Public Library	2009.0	157.0
+40989	http://whitehall.sals.edu	Whitehall Free Library	2000.0	1.0
+40990	http://www.perutown.com/	Peru, Town of	2001.0	19.0
+40991	http://www.nrcsd.org/home.aspx	Haverstraw-Stony Point Central  School District (North Rockland Central School District)	0.0	27.0
+40992	http://www.nassaufreelibrary.org	Nassau Free Library	0.0	1724.0
+40993	http://ny.gov/	State Government	2005.0	158.0
+40995	http://www.globalccs.org/	GLOBAL CONCEPTS CHARTER SCHOOL	2007.0	90.0
+40996	http://www.nypl.org/locations/muhlenberg	Muhlenberg Library	2010.0	1.0
+40997	http://newrootsschool.org	NEW ROOTS CHARTER SCHOOL	2008.0	1493.0
+40998	http://www1.wappingerschools.org/	FISHKILL PLAINS ELEMENTARY SCHOOL	2002.0	1.0
+40999	http://blodgettmemoriallibrary.org/	Blodgett Memorial Library District Of Fishkill	2013.0	22.0
+41000	http://www.buffalolib.org/content/library-locations/area-libraries?lib=east+delavan+branch	EaSt. Delavan Branch Library	2014.0	20.0
+41001	http://www.ntlibrary.org	North Tonawanda Public Library	2005.0	330.0
+41004	http://www.thetroylibrary.org/	Troy Public Library - Lansingburgh Branch	2007.0	87.0
+41005	http://www.onlib.org/web/locations_hours/branches/beauchamp.htm	Beauchamp Branch	2010.0	2.0
+41006	http://www.fcb.state.ny.us/	Financial Control Board, New York State	2004.0	10.0
+41007	http://www.stls.org/whitesville	Whitesville Public Library	2003.0	202.0
+41008	http://www.ci.buffalo.ny.us	Buffalo, City of	1996.0	2505.0
+41009	http://www.clinton.edu	Clinton Community College	2002.0	4920.0
+41010	http://www.ryeny.gov	Rye, City of	2003.0	91.0
+41011	http://www.butterfieldlibrary.org	Julia L. Butterfield Memorial Library	2001.0	15.0
+41013	http://www.bbpschools.org/	Bayport-Blue Point Union Free School  District	2007.0	186.0
+41015	http://www.assembly.state.ny.us/	State Assembly	1996.0	1444.0
+41016	http://www.stls.org/belmont	Free Library Of The Belmont Literary And Historical Society	2002.0	202.0
+41020	http://www.nypl.org/locations/dongan-hills	Dongan Hills Library	2010.0	1.0
+41021	http://wvcsd.org	WARWICK VALLEY HIGH SCHOOL	2002.0	63.0
+41022	http://olcott-newfane.com	Newfane, Town of	2001.0	29.0
+41023	http://www.nwcsd.k12.ny.us/nwcsd/site/default.asp	Niagara  Wheatfield Central School District	2007.0	1.0
+41024	http://www.ewlibrary.org/	EaSt. Williston Public Library	2011.0	20.0
+41025	http://library.dowling.edu/	Dowling College Library	1999.0	2.0
+41026	http://www.msd.k12.ny.us/	Massapequa Union Free School District	0.0	1626.0
+41027	http://www.yhpl.org	Your Home Public Library	2008.0	149.0
+41028	http://www.sherrillny.org/	Sherrill, City of	2000.0	100.0
+41030	http://www.buffalolib.org/content/library-locations/area-libraries?lib=boston+free+library	Boston Free Library	2014.0	20.0
+41032	http://www.onlib.org/web/locations_hours/central/central.htm	Robert P. Kinchen Central Library	2010.0	7.0
+41033	http://www.rhinebeckcsd.org/	Rhinebeck Central School District	0.0	907.0
+41034	http://www.albanypubliclibrary.org/locations/bach/index.php	Albany Public Library - John J. Bach Branch	2010.0	658.0
+41035	http://www.schalmont.org/	Schalmont  Central School District	1998.0	49.0
+41036	http://avcs.org/	AuSable  Valley Central School District	2001.0	39.0
+41038	https://www2.roslynschools.org/Pages/default.aspx	EASt. HILLS ELEMENTARY SCHOOL	2013.0	106.0
+41042	http://yonkerspublicschools.org	PATRICIA A DICHIARO SCHOOL	1998.0	249.0
+41045	http://www.flacs2nyc.com/	FAMILY LIFE ACADEMY CHARTER SCHOOL II	2013.0	341.0
+41046	http://tcpl.org/	Tompkins County Public Library	2000.0	115.0
+41047	http://www.doverschools.org/	Dover Union Free School District	2003.0	421.0
+41048	http://www.wcsd.org/	Warrensburg Central School District	0.0	504.0
+41049	http://www.merricklibrary.org	Merrick Library	2005.0	1151.0
+41050	http://www.northnet.org/theresalibrary/	Theresa Free Library	1998.0	6.0
+41052	http://www.nystrs.org/	Teachers' Retirement System	2000.0	29.0
+41053	http://www.bethlehempubliclibrary.org	Bethlehem Public Library	2001.0	426.0
+41054	http://townofpomfretny.org/content	Pomfret, Town of	2011.0	0.0
+41055	http://www.hudsongreenway.ny.gov/home.aspx	Hudson River Valley Greenway	2011.0	67.0
+41056	http://youngwomenscollegeprep.org	YOUNG WOMEN'S COLLEGE PREP CHARTER SCHOOL OF ROCHESTER	2012.0	527.0
+41057	http://www.valleystreamdistrict24.org/	Valley Stream District 24 Union Free  School District	2008.0	45.0
+41058	http://www.cambridgeny.gov/	Cambridge, Village of	2009.0	22.0
+41059	http://www.pancent.org/education/components/scrapbook/default.php?sectionid=2&url_redirect=1	Panama Central School District	2011.0	1.0
+41061	http://www.cortland-co.org/towns/cincinnatus.htm	Cincinnatus, Town of	2003.0	2.0
+41064	http://hoosickfallscsd.org	HOOSICK FALLS ELEMENTARY SCHOOL	2009.0	224.0
+41065	http://www.lackawannaschools.org/site/default.aspx?PageID=1	Lackawanna City School District	2011.0	56.0
+41066	http://www.nypl.org/locations/mott-haven	Mott Haven Library	2010.0	1.0
+41067	http://www.villageofjc.com	Johnson City, Village of	2011.0	45.0
+41068	http://www.townofcaroline.org	Caroline, Town of	2004.0	349.0
+41072	http://scotiaglenvilleschools.org/	Scotia-Glenville Central School  District	2003.0	638.0
+41073	http://www.yorktown.org/	Yorktown Central School District	1999.0	178.0
+41074	http://www.croton-harmonschools.org/	Croton-Harmon Union Free  School District	2002.0	119.0
+41075	http://gallatin-ny.org/content	Gallatin, Town of	2012.0	147.0
+41076	http://www.apw.cnyric.org/	Altmar-Parish-Williamstown Central School District	1998.0	481.0
+41077	http://www.bethpagecommunity.com/pagenotfound.aspx	Bethpage Union Free  School District	2013.0	187.0
+41079	http://www.boltoncsd.org/	Bolton Central School District	0.0	674.0
+41082	http://www.bethpagelibrary.info/	Bethpage Public Library	2007.0	20.0
+41083	http://www.islandtrees.org/	Island Trees Union Free School  District	2002.0	524.0
+41084	http://villageofarcade.org/	Arcade, Village of	2001.0	12.0
+41085	http://www.portnet.k12.ny.us/site/default.aspx?PageID=1	Port Washington Union Free School  District	2011.0	25.0
+41086	http://www.co.dutchess.ny.us	Dutchess, County of	2002.0	1101.0
+41087	http://www.dps.ny.gov/	Public Service, Department of	2012.0	34.0
+41089	http://reacschool.com	ROCHDALE EARLY ADVANTAGE CHARTER SCHOOL	2011.0	66.0
+41090	http://www.mamaronecklibrary.org	Mamaroneck Public Library District	2004.0	53.0
+41091	http://www.salina.ny.us	Salina, Town of	2000.0	32.0
+41092	http://townofava.org/content	Ava, Town of	2005.0	194.0
+41094	http://www.buffalolib.org/content/library-locations/area-libraries?lib=crane+branch	Crane Branch Library	2014.0	20.0
+41096	http://www.villageofbrocton.com	Brocton, Village of	2001.0	24.0
+41098	http://www.kirklandtownlibrary.org	Kirkland Town Library	0.0	1404.0
+41102	http://www.gardencity.k12.ny.us/	Garden City Union Free School  District	1998.0	7.0
+41109	http://hufsd.edu	JACK ABRAMS STEM MAGNET SCHOOL	2002.0	4.0
+41110	http://www.nypl.org/locations/67th-street	67th Street Library	2010.0	1.0
+41112	http://townofnassau.org/content	Nassau, Town of	2008.0	483.0
+41113	http://townofrussia.com/content	Russia, Town of	2011.0	183.0
+41115	http://www.nopl.org	Northern Onondaga Public Library	2001.0	218.0
+41117	http://www.warrencountyny.gov/	Warren, County of	2012.0	288.0
+41118	http://www.townwalworthny.com	Walworth, Town of	2001.0	37.0
+41119	http://www.thehuntingtonlibrary.org/?p=5717	Huntington Public Library - Station Branch	2011.0	779.0
+41120	http://www.villageofspringvilleny.com	Springville, Village of	2005.0	34.0
+41122	http://victorschools.org	VICTOR INTERMEDIATE SCHOOL	0.0	3058.0
+41123	http://www.buffalostate.edu	State University of New York College at Buffalo	1998.0	795.0
+41124	http://www.troyny.gov/Home.aspx	Troy, City of	2012.0	336.0
+41125	http://www.oesj.org/	OPPENHEIM-EPHRATAH-St. JOHNSVILLE ELEMENTARY/MIDDLE SCHOOL	0.0	255.0
+41126	http://townofwellsville.org	Wellsville, Town of	2008.0	6558.0
+41127	http://piermontlibrary.org/	Piermont Library District	2007.0	184.0
+41128	http://www.ccny.cuny.edu	CUNY City College	1997.0	3085.0
+41129	http://www.townofellicott.com/	Ellicott, Town of	1999.0	424.0
+41131	http://www.labor.state.ny.us/erb/index.asp	Employment Relations Board, NYS	2010.0	4.0
+41132	http://www.oldfieldny.org	Old Field, Village of	2000.0	22.0
+41133	http://www.co.sullivan.ny.us/	Sullivan, County of	1996.0	1341.0
+41136	http://www.sloatsburgny.com	Sloatsburg, Village of	2001.0	57.0
+41138	http://users.bestweb.net/~vcsclerk/govt.htm	Cold Spring, Village of	2001.0	12.0
+41139	http://www.farmingdale.edu	SUNY College of Technology at Farmingdale	1997.0	4162.0
+41141	http://www.villageofeastrockaway.org/	EaSt. Rockaway, Village of	2000.0	36.0
+41142	http://www.seafordlibrary.org	Seaford Public Library	2008.0	56.0
+41143	http://www.manhattancharterschool.org/	MANHATTAN CHARTER SCHOOL	2007.0	33.0
+41144	http://www.longwood.k12.ny.us/	Longwood Central School District	1998.0	115.0
+41145	http://millbrooklibrary.org	Millbrook Free Library	2001.0	75.0
+41146	http://www.townofbethany.com	Bethany, Town of	2006.0	15.0
+41149	http://www.town.portland.ny.us	Portland, Town of	2000.0	83.0
+41151	http://heritageacademies.com/customerrors/404.htm?aspxerrorpath=/redirector.ashx	BROOKLYN SCHOLARS CHARTER SCHOOL	2014.0	1.0
+41152	http://www.beaconcityk12.org/	Beacon City School District	0.0	388.0
+41153	http://eischools.org	CONNETQUOT ELEMENTARY SCHOOL	1999.0	339.0
+41154	http://www.villageofmuttontown.com	Muttontown, Village of	2002.0	10.0
+41155	http://www.alexandercsd.org/	Alexander Central School District	2003.0	58.0
+41158	http://villageoffrankfortny.org/content	Frankfort, Village of	2007.0	504.0
+41159	http://www.nycacharterschool.org/	NEW YORK CENTER FOR AUTISM CHARTER SCHOOL	2010.0	21.0
+41161	http://www.scsd.us/	Syracuse City School District	2003.0	7.0
+41163	http://www.davidahowelibrary.org	David A Howe Public Library	2002.0	96.0
+41164	http://www.laglib.org	Lagrange Association Library	2001.0	23.0
+41166	http://www.sspl.org	Saratoga Springs Public Library	1999.0	184.0
+41168	http://www.globalcommunitycs.org/	GLOBAL COMMUNITY CHARTER SCHOOL	2012.0	212.0
+41170	http://sbcsica.org	SOUTH BRONX CHARTER SCHOOL-INTER CULTURES AND ARTS	0.0	51.0
+41171	http://www.townofmiltonny.org	Milton, Town of	2001.0	242.0
+41172	http://www.sunyopt.edu	State University of New York College of Optometry	1996.0	745.0
+41174	https://www.hvcc.edu/	Hudson Valley Community College	1997.0	151.0
+41175	http://www.horiconny.gov	Horicon, Town of	2007.0	24.0
+41176	http://www.jamesvilledewitt.org/	Jamesville - Dewitt  Central School District	2001.0	354.0
+41177	http://townofsweden.org	Sweden, Town of	2006.0	2.0
+41179	http://townofmaine.org/content	Maine, Town of	2007.0	179.0
+41180	http://www.lockportlibrary.org	Lockport Public Library	2000.0	64.0
+41181	http://www.somersetny.org	Somerset, Town of	2006.0	3512.0
+41182	http://www.berkshireny.net/	Berkshire, Town of	2013.0	16.0
+41184	http://www.wccsk12.org/	Wayland-Cohocton  Central School District	2002.0	106.0
+41187	http://myls.ent.sirsi.net/client/default	Dunham Public Library	0.0	792.0
+41188	http://new.mta.info/	Metropolitan Transportation Authority	2012.0	916.0
+41189	http://healthsciencescharterschool.org	HEALTH SCIENCES CHARTER SCHOOL	0.0	613.0
+41190	http://www.townofgoshen.org/indexnew.htm	Goshen, Town of	2012.0	48.0
+41191	http://villageofwestcarthage.org/content	WeSt. Carthage, Village of	2007.0	143.0
+41193	http://lkgeorge.org	LAKE GEORGE ELEMENTARY SCHOOL	0.0	1014.0
+41195	http://fortplain.org/	Fort Plain Central School District	2003.0	3.0
+41198	http://www.nypl.org/locations/roosevelt-island	Roosevelt Island Library	2010.0	1.0
+41199	http://www.amityville.com/	Amityville, Village of	1998.0	838.0
+41200	http://www.manorhaven.org	Manorhaven, Village of	2004.0	13.0
+41202	http://www.town.clarkstown.ny.us	Clarkstown, Town of	1999.0	43.0
+41203	http://district.uniondaleschools.org/www/uniondaleschools/site/hosting/Splash_Page/index.htm	CALIFORNIA AVENUE ELEMENTARY SCHOOL	2005.0	1.0
+41204	http://www.salamancany.org/site/default.aspx?PageID=1	Salamanca City Central School District	2011.0	18.0
+41208	http://www.mpbschools.org/home.aspx	Mount Pleasant-Blythedale Union Free School District	0.0	38.0
+41209	http://www.wilsonnewyork.com/	Wilson, Town of	2001.0	146.0
+41211	http://www.tc3.edu	Tompkins Cortland Community College	1999.0	2563.0
+41212	http://www.grotoncs.org/	Groton Central School District	2011.0	298.0
+41213	http://www.townofMinerva.us/	Minerva, Town of	2004.0	7.0
+41215	http://www.pomonavillage.com/	Pomona, Village of	2001.0	49.0
+41216	http://www.milan-ny.gov/	Milan, Town of	2003.0	15.0
+41218	http://www.holland.wnyric.org/site/default.aspx?PageID=1	Holland Central School District	2011.0	30.0
+41219	http://www.townofstafford.com	Stafford, Town of	2006.0	20.0
+41221	http://www.altamontfreelibrary.org/	Altamont Free Library	2008.0	54.0
+41223	http://www.madridny.us	Madrid, Town of	2002.0	13.0
+41224	http://www.co.st-lawrence.ny.us/	St. Lawrence, County of	1999.0	1209.0
+41225	http://www.townofclaverack.com	Claverack, Town of	2005.0	8.0
+41226	http://www.soduspoint.info	Sodus Point, Village of	2002.0	81.0
+41228	http://germantownlibrary.org/	Germantown Library	2003.0	16.0
+41229	http://www.nypl.org/locations/st-agnes	St. Agnes Library	2010.0	1.0
+41231	http://www.sidneylibrary.org	Sidney Memorial Public Library	2006.0	1.0
+41233	http://www.townofwilmington.org	Wilmington, Town of	2008.0	24.0
+41234	http://www.sidneycsd.org/	SIDNEY ELEMENTARY SCHOOL	2006.0	158.0
+41235	http://www.sfcs.k12.ny.us/	Seneca Falls Central School District	0.0	1239.0
+41236	http://www.fillmorecsd.org/fillmorecsd/site/default.asp	Fillmore Central School District	2008.0	1.0
+41237	http://www.fallsburgcsd.net/	FALLSBURG JUNIOR SENIOR HIGH SCHOOL	2000.0	28.0
+41238	http://www.cefls.org/	Clinton Essex Franklin Library System	2001.0	171.0
+41239	http://www3.libraryweb.org/subpage.aspx?id=328	Lincoln Branch Library	2012.0	497.0
+41240	http://www.scarsdale.com	Scarsdale, Town of	1999.0	278.0
+41244	http://www.forestburgh.org/	Forestburgh, Town of	2006.0	612.0
+41245	http://www.rcls.org/liv/	Livingston Manor Free Library	1999.0	5.0
+41246	http://www.villageofgoshen-ny.gov/	Goshen, Village of	2009.0	57.0
+41247	http://www.hamiltoncentral.org/	Hamilton Central School District	0.0	163.0
+41248	http://www.newrochelleny.com	New Rochelle, City of	1999.0	1233.0
+41250	http://www.palmaccsd.org/	Palmyra-Macedon Central School  District	0.0	769.0
+41251	http://www.harrison-ny.gov/	Harrison, Village of	2007.0	2050.0
+41252	http://www.johnsburgcsd.org/education/district/district.php?sectionid=1	Johnsburg  Central School District	2008.0	0.0
+41254	http://www.1000islandsschools.org/site/default.aspx?PageID=1	Thousand Islands Central School  District	2013.0	4.0
+41255	http://www.pval.org/site/default.aspx?PageID=1	Pine Valley Central School District	2011.0	58.0
+41256	http://horseheads.org	Horseheads, Village of	2001.0	595.0
+41257	http://www.hermonhepburnlibrary.org	Hepburn Library Of Hermon	2007.0	198.0
+41258	http://www.cvscs.org/	Cherry Valley-Springfield Central School  District	0.0	774.0
+41259	http://www.scpl.org	Schenectady County Public Library - Quaker Street Branch	1997.0	2.0
+41262	http://bscsd.org	BALLSTON SPA SENIOR HIGH SCHOOL	0.0	1342.0
+41263	http://www.johnsburgny.com	Johnsburg, Town of	2006.0	12.0
+41264	http://www.hammondlibrary.org/	Hammond Library Of Crown Point	2008.0	0.0
+41265	http://www.larclib.org/larc/	Library Association Of Rockland County	2013.0	32.0
+41266	http://si-ccs.org	STATEN ISLAND COMMUNITY CHARTER SCHOOL	2011.0	160.0
+41271	http://www.hastingslibrary.org	Hastings-On-Hudson Public Library	2004.0	54.0
+41274	http://libraries.4cls.org/unadilla/	Unadilla Public Library	2010.0	3.0
+41276	http://www.elmontlibrary.org	Elmont Public Library	2001.0	41.0
+41277	http://www.northcastlelibrary.org	North Castle Public Library	2001.0	36.0
+41278	http://bloomfieldcsd.org	BLOOMFIELD MIDDLE SCHOOL	0.0	373.0
+41279	http://www.willistonpark.org	Williston Park, Village of	2005.0	26.0
+41281	http://www.tuxedogov.org	Tuxedo, Town of	2000.0	265.0
+41282	http://www.villageofmontgomery.com/	Montgomery, Village of	2001.0	7.0
+41284	http://www.scottsvilleny.org	Scottsville, Village of	2008.0	3.0
+41285	http://www.branchportlibrary.org	Modeste Bedient Memorial Library	2004.0	99.0
+41286	http://easton.sals.edu	Easton Library	2000.0	33.0
+41287	http://wantaghschools.org/site/default.aspx?PageID=1	WANTAGH SENIOR HIGH SCHOOL	2013.0	81.0
+41289	http://ccsd.edu	LITTLE TOR ELEMENTARY SCHOOL	0.0	8.0
+41290	http://www.dcseagles.org/	DOWNSVILLE CENTRAL SCHOOL	2002.0	71.0
+41291	http://www.gobroomecounty.com/community	Fenton, Town of	2001.0	3542.0
+41293	http://www.fairhavenlibrary.org	Village Of Fair Haven Public Library	2000.0	2.0
+41295	http://silibrary.org/	Shelter Island Public Library Society	0.0	179.0
+41296	http://www.perry.pls-net.org	Perry Public Library	1999.0	37.0
+41297	http://newvillageofislandia.com/	Islandia, Village of	2007.0	145.0
+41299	http://www.massenaworks.com/town/index.asp	Massena, Town of	2005.0	13.0
+41300	http://www.cornwallschools.com/	Cornwall Central School District	0.0	899.0
+41301	http://www.townofnewscotland.com/townreporter/	New Scotland, Town of	2008.0	373.0
+41303	http://www.averillpark.k12.ny.us/	Averill Park Central School  District	1998.0	276.0
+41304	http://www.nypl.org/locations/morningside-heights	Morningside Heights	2010.0	1.0
+41308	http://www.uscsd.info/schools.cfm	Union Springs Central School  District	0.0	853.0
+41312	http://hhhlibrary.org/main.php	Half Hollow Hills Community Public Library	2011.0	56.0
+41314	http://www.seacliff-ny.gov	Sea Cliff, Village of	2004.0	199.0
+41316	http://silvercreekny.com/	Silver Creek, Village of	1999.0	24.0
+41318	http://phoenicialibrary.org/	Phoenicia Library	2013.0	64.0
+41322	http://hancock.stier.org/site/default.aspx?PageID=1	Hancock Central School District	2012.0	6.0
+41323	http://townofforestport.org/content	Forestport, Town of	2008.0	249.0
+41324	http://www.nassaulibrary.org/valleyst/	Henry Waldinger Memorial Library	2001.0	59.0
+41325	http://www.buffalolib.org/content/library-locations/area-libraries?lib=aurora+town+library	Aurora Town Public Library	2014.0	19.0
+41326	http://ecs.schoolwires.com/site/default.aspx?PageID=1	Eldred Central School  District	2011.0	190.0
+41329	http://www.lakeshore.wnyric.org/site/default.aspx?PageID=1	Evans-Brant Central School  District (Lake Shore)	2011.0	42.0
+41330	http://saranaclakecs.org/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Saranac  Lake Central School District	2010.0	1.0
+41331	http://townofhopewell.org/content	Hopewell, Town of	2007.0	115.0
+41332	http://www.lagrangeny.org	La Grange, Town of	2002.0	412.0
+41333	http://www.islipufsd.org/	Islip Union Free School District	2005.0	119.0
+41334	http://www.lyonscsd.org/	Lyons Central School District	0.0	374.0
+41337	http://www.flowermemoriallibrary.org	Roswell P. Flower Memorial Library	2001.0	2.0
+41338	http://www.copiague.k12.ny.us/	Copiague Union Free School District	1999.0	131.0
+41339	http://www.penfield.org	Penfield, Town of	2000.0	292.0
+41340	http://www.townofhalfmoon.org/	Halfmoon, Town of	2001.0	614.0
+41341	http://www.westchesterlibraries.org/	Westchester Library System	2000.0	63.0
+41344	http://homercentral.org	HOMER SENIOR HIGH SCHOOL	2000.0	450.0
+41346	http://www.osc.state.ny.us/	State Comptroller, Office of	1997.0	390.0
+41347	http://village.clinton.ny.us/content	Clinton, Village of	2005.0	171.0
+41348	http://www.sodus.pls-net.org	Sodus Free Library	2004.0	1.0
+41349	http://www.bayshore.k12.ny.us/	Bay Shore Union Free School  District	0.0	0.0
+41350	http://www.herkimercsd.org/site/default.aspx?PageID=1	Herkimer Central School District	2013.0	6.0
+41351	http://www.coeymans.org	Coeymans, Town of	2001.0	1145.0
+41352	http://franklincony.org/content	Franklin, County of	2007.0	307.0
+41353	http://www.fpvillage.org/	Floral Park, Village of	2000.0	35.0
+41354	http://www.schodack.org/	Schodack, Town of	2003.0	80.0
+41355	http://www.palmyrany.com	Palmyra, Village of	1998.0	53.0
+41356	http://niagaracounty.com	Niagara, County of	2000.0	642.0
+41357	http://alden.erie.gov/	Alden, Town of	2006.0	75.0
+41359	http://sabrenet.net	JEFFERSON ELEMENTARY SCHOOL	2010.0	2.0
+41361	http://www.townofpelham.com	Pelham, Town of	2000.0	43.0
+41362	http://townofulster.org/content	Ulster, Town of	2005.0	1671.0
+41364	http://www.southcountry.org/	South Country Central School District	2000.0	172.0
+41365	http://midyorklib.org/middleville/	Middleville Free Library	0.0	48.0
+41368	http://www.launchschool.org/	LAUNCH EXPEDITIONARY LEARNING CHARTER SCHOOL	2013.0	156.0
+41369	http://sgcsd.net	GLEN-WORDEN ELEMENTARY SCHOOL	2005.0	175.0
+41371	http://www.bestschools.org/	Jericho Union Free School District	1999.0	722.0
+41372	http://www.fairport.org/	Fairport Central School District	0.0	7.0
+41373	http://www.wscschools.org/	WeSt. Seneca Central School District	0.0	1889.0
+41376	http://pbcschools.org	A A GATES ELEMENTARY SCHOOL	2012.0	2.0
+41377	http://mccsd.net	NORTH COLEMAN ROAD SCHOOL	0.0	740.0
+41378	http://www.isliptown.org/	Islip, Town of	1999.0	1821.0
+41380	http://tvcs.k12.ny.us/	Tri-Valley Central School District	0.0	351.0
+41381	http://www.katonahlibrary.org	Katonah Village Library	2003.0	109.0
+41383	http://www.justicecenter.ny.gov/	Justice Center for the Protection of People with Special Needs	2013.0	368.0
+41384	http://www.rcls.org/crg/	Cragsmoor Free Library	2000.0	0.0
+41385	http://www.omig.ny.gov/	Medicaid Inspector General, Office of	2010.0	5705.0
+41386	http://inwoodacademy.org/owa/auth/logon.aspx?url=http://inwoodacademy.org/owa/&reason=0	INWOOD ACADEMY FOR LEADERSHIP CHARTER SCHOOL	0.0	1.0
+41387	http://villagepulaski.org/content	Pulaski, Village of	2005.0	0.0
+41388	http://eastharlemscholars.org	EASt. HARLEM SCHOLARS ACADEMY CHARTER SCHOOL	0.0	100.0
+41389	http://www.woodwardmemoriallibrary.org	Woodward Memorial Library	2001.0	86.0
+41391	http://www.newfieldschools.org/	Newfield Central School District	2001.0	385.0
+41392	http://hoosicvalley.k12.ny.us	HOOSIC VALLEY ELEMENTARY SCHOOL	2003.0	10.0
+41393	http://www.harlemhebrewcharter.org/	HARLEM HEBREW LANGUAGE ACADEMY CHARTER SCHOOL	0.0	55.0
+41395	http://www.buffalolib.org/content/library-locations/area-libraries?lib=alden+ewell+free+library	Alden Ewell Free Library	2014.0	22.0
+41397	http://www.oacsd.org/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Owego Apalachin  Central School District	0.0	0.0
+41398	http://www.salem-ny.com	Salem, Village of	2001.0	26.0
+41399	http://www.fischool.com/	Fishers Island Union Free School District	2000.0	20.0
+41400	http://www.pls-net.org/	Pioneer Library System	1997.0	58.0
+41402	http://www.lakeplacidlibrary.org	Lake Placid Public Library	2002.0	8.0
+41403	http://www.ips.k12.ny.us/	Island Park Union Free School District	2000.0	14.0
+41404	http://www.broomestreetacademy.org/	BROOME STREET ACADEMY CHARTER HIGH SCHOOL	2011.0	341.0
+41405	http://www.townofwheatland.org	Wheatland, Town of	2002.0	16.0
+41406	http://ashvillelibrary.com/	Ashville Free Library	2011.0	531.0
+41407	http://candor.org	CANDOR JUNIOR-SENIOR HIGH SCHOOL	2000.0	1.0
+41409	http://sjcsd.org/classroompages.cfm	Saint Johnsville  Central School District	2013.0	5.0
+41410	http://www.floralpark.k12.ny.us/	FLORAL PARK-BELLEROSE SCHOOL	2000.0	57.0
+41411	http://www.starpointcsd.org/	Starpoint  Central School District	0.0	1411.0
+41412	http://www.co.genesee.ny.us	Genesee, County of	2000.0	605.0
+41414	http://www.niskayuna.org/	Niskayuna, Town of	2000.0	425.0
+41415	http://www.dobbsferry.com	Dobbs Ferry, Village of	1998.0	1156.0
+41416	http://www.townoflitchfield.com	Litchfield, Town of	2004.0	12.0
+41417	https://webmail.wallkillcsd.k12.ny.us/owa/auth/logon.aspx?url=https://webmail.wallkillcsd.k12.ny.us/owa/&reason=0	LEPTONDALE ELEMENTARY SCHOOL	0.0	1.0
+41418	http://townofwalton.org/	Walton, Town of	2007.0	163.0
+41419	http://www.cayugacounty.us/portals/1/villageofmoravia/	Moravia, Village of	2013.0	15.0
+41420	http://www.taconichills.k12.ny.us/	Taconic Hills Central School  District	1998.0	133.0
+41421	http://townofcamillus.com	Camillus, Town of	2000.0	106.0
+41425	http://bcs1.org	GINTHER ELEMENTARY SCHOOL	0.0	2708.0
+41426	http://fruitbeltcharter.org	ALOMA D JOHNSON CHARTER SCHOOL	2011.0	1.0
+41427	http://gstboces.org	THOMAS A EDISON HIGH SCHOOL	2006.0	287.0
+41430	http://www.massenaworks.com/village/index.asp	Massena, Village of	2005.0	17.0
+41431	http://www.whitesville.wnyric.org/education/school/school.php?sectionid=10279	Whitesville  Central School District	2002.0	3.0
+41432	http://greecepubliclibrary.org/	Greece Public Library	2013.0	55.0
+41433	http://www.brewsterschools.org/	Brewster Central School District	1999.0	495.0
+41434	http://www.morristownpubliclibrary.org	Morristown Public Library	2008.0	1046.0
+41435	http://www.cayuga-heights.ny.us	Cayuga Heights, Village of	2004.0	25.0
+41437	http://www.colonie.org/	Colonie, Town of	1999.0	180.0
+41440	http://www.sherman.wnyric.org/	Sherman Central School District	0.0	725.0
+41442	http://nfschools.net/site/default.aspx?PageID=1	SEVENTY NINTH STREET SCHOOL	2012.0	157.0
+41444	http://www.uniondalelibrary.org/news.php	Uniondale Public Library	2008.0	89.0
+41445	http://udteam.org	URBAN DOVE TEAM CHARTER SCHOOL	2012.0	219.0
+41446	http://www.oxfordny.com	Oxford, Town of	2001.0	350.0
+41447	http://www.rcls.org/eld/	Sunshine Hall Free Library	2000.0	15.0
+41448	http://www.hydebrooklyn.org/	HYDE LEADERSHIP CHARTER SCHOOL OF BROOKLYN	2011.0	20.0
+41449	http://equalitycharterschool.org	EQUALITY CHARTER SCHOOL	2009.0	230.0
+41450	http://www.williamsonfreepubliclibrary.blogspot.com	Williamson Free Public Library	2011.0	3.0
+41454	http://www.sla.ny.gov/	Alcoholic Beverage Control, Division of (State Liquor Authority)	2011.0	1320.0
+41455	http://www.stls.org/jasper	Jasper Free Library	2003.0	202.0
+41457	http://www.vchamplain.com/index.htm	Champlain, Village of	2002.0	17.0
+41458	http://yorkcsd.org	YORK CENTRAL ELEMENTARY SCHOOL	0.0	231.0
+41459	http://www.townofwappinger.us	Wappinger, Town of	2003.0	57.0
+41460	http://poklib.org/	Poughkeepsie Public Library District	1999.0	623.0
+41462	http://www.naples.pls-net.org	Naples Library	1998.0	1.0
+41464	http://www.smithtown.k12.ny.us/	Smithtown Central School District	1996.0	389.0
+41465	http://www.baldwinschools.org/	Baldwin Union Free School District	2004.0	249.0
+41469	http://cooperstownny.org/	Cooperstown, Village of	2003.0	63.0
+41470	http://www.buffalolib.org/content/library-locations/area-libraries?lib=frank+e.+merriweather%2c+jr.+library	Frank E. Merriweather, Jr. Library	2014.0	20.0
+41471	http://www.portjeff.com/	Port Jefferson, Village of	1998.0	544.0
+41472	http://kippstar.org	KIPP SUCCESS THROUGH TEAMWORK ACHIEVE & RESPON COL PREP CHARTER SCH	2005.0	47.0
+41473	http://www.nypl.org/locations/belmont	Belmont Library And Enrico Fermi Cultural Center	2010.0	1.0
+41474	http://www.cclslib.org/fran/fran.html	Blount Library	1998.0	1.0
+41475	http://clarenceschools.org	HARRIS HILL ELEMENTARY SCHOOL	0.0	3.0
+41477	http://www3.libraryweb.org/Penfield/home.aspx	Penfield Public Library	2012.0	11.0
+41480	http://mw.k12.ny.us	PINE TREE ELEMENTARY SCHOOL	1997.0	1875.0
+41481	http://akwesasneculturalcenter.org/	Akwesasne Cultural Center, Inc.	2007.0	40.0
+41482	http://villageofclayton.org/content	Clayton, Village of	2005.0	770.0
+41485	http://www.norwoodny.org	Norwood, Village of	2004.0	30.0
+41487	http://www.ekcsk12.org/site/default.aspx?PageID=1	Edwards-Knox Central School District	2013.0	11.0
+41488	http://manliuslibrary.org/	Manlius Library	2009.0	52.0
+41489	http://www.lflibrary.org/	Little Falls Public Library	0.0	133.0
+41491	http://www.hdcsk12.org/	Hermon DeKalb Central School District	0.0	242.0
+41492	http://www.copiaguelibrary.org	Copiague Memorial Public Library	1998.0	451.0
+41493	http://townofschuyler.com/	Schuyler, Town of	2009.0	17.0
+41494	http://www.hlcs.org/	HADLEY-LUZERNE HIGH SCHOOL	2000.0	849.0
+41498	http://www.townoffranklin.com	Franklin, Town of	1999.0	261.0
+41501	http://pineplains.lib.ny.us	Pine Plains Free Library	2001.0	13.0
+41503	http://www.westirondequoit.org/	WeSt. Irondequoit Central School  District	1998.0	113.0
+41504	http://www.townofeastbloomfield.com	EaSt. Bloomfield, Town of	2007.0	28.0
+41505	http://www.amityvillepubliclibrary.org/	Amityville Public Library	2010.0	2.0
+41506	http://www.buffalolib.org/content/library-locations/area-libraries?lib=grand+island+memorial+library	Grand Island Memorial Library	2014.0	48.0
+41510	http://www.stamfordcs.org/	Stamford Central School District	2002.0	60.0
+41512	http://kippinfinity.org	KIPP INFINITY CHARTER SCHOOL	2008.0	50.0
+41514	http://www.greenisland.org/	Green Island Union Free School  District	2001.0	49.0
+41515	http://www.nyack.org/	Nyack, Village of	2000.0	3.0
+41517	http://www.bronxprep.org/	BRONX PREPARATORY CHARTER SCHOOL	2003.0	36.0
+41519	http://www.townofhollandny.com/	Holland, Town of	2012.0	41.0
+41520	http://www.nanuetlibrary.org	Nanuet Public Library	2008.0	9.0
+41521	http://www.albanyny.org/Home.aspx	Albany, City of	2007.0	425.0
+41522	http://alcsny.org/site/default.aspx?PageID=1	ALLEGANY-LIMESTONE HIGH SCHOOL	2011.0	6.0
+41523	http://www.perry.k12.ny.us/	Perry Central School District	0.0	633.0
+41524	http://www.nhp-gcp.org/	New Hyde Park-Garden City Park Union Free  School District	0.0	449.0
+41526	http://www.indian-lake.com	Indian Lake, Town of	2000.0	143.0
+41527	http://www.jcschools.com/	Johnson City Central School District	1999.0	118.0
+41530	http://highland-k12.org	HIGHLAND ELEMENTARY SCHOOL	0.0	1055.0
+41531	http://www.cliftoncomlib.org	Clifton Community Library	2008.0	274.0
+41532	http://waterloocsd.org	SKOI-YASE SCHOOL	0.0	865.0
+41533	http://desmondfishlibrary.org/	Alice Curtis Desmond Hamilton Fish Lib	2012.0	24.0
+41536	http://www.pmlib.org	Patchogue-Medford Library	2007.0	635.0
+41537	http://sewanhaka.k12.ny.us/site/default.aspx?PageID=1	ELMONT MEMORIAL HIGH SCHOOL	2012.0	52.0
+41539	http://www.randolphacademy.org/	Randolph Academy Union Free School  District	2003.0	8.0
+41540	http://www.hicksvillepublicschools.org/site/default.aspx?PageID=1	Hicksville Union Free School District	2012.0	11.0
+41542	http://www.nypl.org/locations/washington-heights	Washington Heights Library	2010.0	1.0
+41544	http://www.waddingtonlibrary.org	Hepburn Library Of Waddington	2010.0	472.0
+41545	http://www.scoc.ny.gov/	Correction, Commission of	2012.0	46.0
+41546	http://northsalemschools.org	PEQUENAKONCK ELEMENTARY SCHOOL	2007.0	419.0
+41547	http://www.cityofutica.com/	Utica, City of	1998.0	299.0
+41548	http://www.ongov.net	Onondaga, County of	2000.0	544.0
+41549	http://townofhalcott.com/	Halcott, Town of	2001.0	10.0
+41550	http://www.cortland-co.org/towns/harford.htm	Harford, Town of	2002.0	2.0
+41551	http://www.onlib.org/web/locations_hours/branches/paine.htm	Paine Branch Library	2010.0	2.0
+41553	http://greenb.lhric.org	GREENBURGH ELEVEN ELEMENTARY SCHOOL	2013.0	3.0
+41554	http://www.huntingtonbay.org/	Huntington Bay, Village of	2002.0	2.0
+41556	http://cischools.org	CORDELLO AVENUE ELEMENTARY SCHOOL	0.0	4043.0
+41557	http://mtmorriscsd.org	MOUNT MORRIS MIDDLE/SENIOR HIGH SCHOOL	0.0	829.0
+41558	http://www.waddingtonny.us	Waddington, Town of	2003.0	21.0
+41559	http://www.ecc.edu	Erie Community College-North Campus	1999.0	0.0
+41560	http://www.gardinerlibrary.org/gardiner/	Gardiner Library	2014.0	68.0
+41562	http://www.nrpl.org	New Rochelle Public Library	2000.0	384.0
+41563	http://www.orangeburg-library.org	Orangeburg Library	2009.0	21.0
+41565	http://plandomemanor.com/	Plandome Manor, Village of	2007.0	1.0
+41567	http://rosendalelibrary.org	Rosendale Library	2003.0	21.0
+41568	http://oceanhillcollegiate.uncommonschools.org/	OCEAN HILL COLLEGIATE CHARTER SCHOOL	2011.0	71.0
+41569	http://www.romulustown.com/	Romulus, Town of	2006.0	18.0
+41570	http://townofcazenovia.org/content	Cazenovia, Town of	2007.0	142.0
+41573	http://www.sccs.cnyric.org/	Sandy Creek  Central School District	2001.0	30.0
+41574	http://k12mcsd.net	KENNETH L RUTHERFORD SCHOOL	2010.0	1.0
+41577	http://www.villageofmonticello.com/	Monticello, Village of	2005.0	22.0
+41578	http://www.suffernvillage.com	Suffern, Village of	2000.0	284.0
+41579	http://www.prendergastlibrary.org	James PrendergaSt. Library Association	2003.0	4920.0
+41580	http://www.newpaltz.edu	State University of New York College at New Paltz	1997.0	1458.0
+41582	http://bronxexcellence.org	BRONX CHARTER SCHOOL FOR EXCELLENCE	2004.0	4308.0
+41583	http://www.nypl.org/locations/tottenville	Tottenville Library	2010.0	1.0
+41584	http://www.emoschools.org/	EaSt. Moriches Union Free School  District	2010.0	22.0
+41585	http://www.homerny.org	Homer, Village of	2000.0	1611.0
+41589	http://www.doccs.ny.gov/	Corrections and Community Supervision, Department of	2012.0	306.0
+41591	http://pobschools.org/site/default.aspx?PageID=1	PASADENA ELEMENTARY SCHOOL	2011.0	22.0
+41592	http://www.perb.ny.gov/index.asp	Public Employment Relations Board	2012.0	155.0
+41594	http://www2.erie.gov/clarence/	Clarence, Town of	2002.0	190.0
+41595	http://www.townofmoreau.org/	Moreau, Town of	2002.0	83.0
+41596	http://midyorklib.org/westwinfield/	WeSt. Winfield Library	0.0	1078.0
+41597	http://www.galwaycsd.org/	Galway Central School District	0.0	440.0
+41598	http://www.northtonawanda.org	North Tonawanda, City of	2001.0	78.0
+41599	http://www.ryebrook.org/	Rye Brook, Village of	2000.0	1431.0
+41600	http://www.rvclibrary.org	Rockville Centre Public Library	2006.0	263.0
+41601	http://www.pattersonlibrary.info	Patterson Library	2005.0	60.0
+41602	http://www.townofarietta.com	Arietta, Town of	2007.0	11.0
+41604	http://www.bville.lib.ny.us	Baldwinsville Public Library	1998.0	57.0
+41606	http://townofhamptonburgh.org/content	Hamptonburgh, Town of	2006.0	161.0
+41607	http://eldred.k12.ny.us/site/default.aspx?PageID=1	ELDRED JUNIOR-SENIOR HIGH SCHOOL	2011.0	56.0
+41608	http://www.ogdenlibrary.com/index.html	Ogden Farmers Library	2010.0	92.0
+41610	http://www.rose.pls-net.org	Rose Free Library	2001.0	9.0
+41611	http://www.saranaclakeny.gov	Saranac Lake, Village of	2009.0	182.0
+41613	http://www.dexterfreelibrary.org	Dexter Free Library	2011.0	271.0
+41615	http://www.co.wayne.ny.us/	Wayne, County of	2001.0	455.0
+41616	http://newsuffolkschool.com/	New Suffolk Common  School District	2011.0	109.0
+41617	http://thewcs.org	WILLIAMSBURG CHARTER HIGH SCHOOL	2004.0	86.0
+41618	http://www.nypl.org/locations/grand-concourse	Grand Concourse Library	2010.0	1.0
+41620	http://www.sunydutchess.edu	Dutchess Community College	1996.0	717.0
+41626	http://www.wappingersfallsny.gov/	Wappingers Falls, Village of	2006.0	91.0
+41627	http://www.albanypubliclibrary.org/locations/northalbany/index.php	Albany Public Library - North Albany Branch	2007.0	658.0
+41628	http://www.nypl.org/locations/harlem	Harlem Library	2010.0	1.0
+41629	http://cpl.suffolk.lib.ny.us	Comsewogue Public Library	2001.0	19.0
+41630	http://opportunitycharter.org	OPPORTUNITY CHARTER SCHOOL	2009.0	13.0
+41631	http://www.tannersvilleny.org/index.htm	Tannersville, Village of	2009.0	23.0
+41633	http://www.madison.k12.sd.us/	Madison Central School District	1998.0	20.0
+41635	http://www.tapestryschool.org/	TAPESTRY CHARTER SCHOOL	2001.0	469.0
+41636	http://www.pulteneyny.com	Pulteney, Town of	2008.0	55.0
+41637	http://www.rcls.org/ros/	Roscoe Free Library	1999.0	18.0
+41640	http://www.pwpl.org	Port Washington Public Library	1998.0	535.0
+41641	http://www.brittonkill.k12.ny.us/	Brittonkill  Central School District (Brunswick Central School District)	1998.0	565.0
+41642	http://www.cclslib.org/findley/	Alexander Findley Community Library	2006.0	24.0
+41643	http://www.warsaw.k12.ny.us/	Warsaw Central School District	0.0	445.0
+41645	http://www.montaukschool.org/	Montauk Union Free School District	2003.0	190.0
+41646	http://www.lawrence.org/	Lawrence Union Free School District	1996.0	198.0
+41647	http://www.morrisville.edu/norwich/	SUNY College of Agriculture And Technology at Morrisville - Norwich Campus	2001.0	12.0
+41649	http://www.jamestownny.net	Jamestown, City of	2004.0	383.0
+41650	http://www.safeny.ny.gov/	Governor's Traffic Safety Committee	2010.0	161.0
+41652	http://www.townofelmira.com	Elmira, Town of	2003.0	17.0
+41653	http://www.redhooknyvillage.org	Red Hook, Village of	2002.0	18.0
+41655	http://www.nrcsd.org/	STONY POINT ELEMENTARY SCHOOL	2002.0	28.0
+41656	http://www.hamlinny.org	Hamlin, Town of	2001.0	32.0
+41657	http://bcsd.org	COUNCIL ROCK PRIMARY SCHOOL	0.0	7281.0
+41659	http://www.nypl.org/locations/kips-bay	Kips Bay Library	2010.0	1.0
+41660	http://www.villageofmontebello.com	Montebello, Village of	2003.0	140.0
+41663	http://wi.k12.ny.us	BAYVIEW ELEMENTARY SCHOOL	2002.0	104.0
+41667	http://www.hydeparkny.us	Hyde Park, Town of	2002.0	122.0
+41668	http://www.villageofwestbury.org/	Westbury, Village of	2001.0	31.0
+41669	http://townofhartland.org/content	Hartland, Town of	2007.0	234.0
+41670	http://arkcharter.org	ARK COMMUNITY CHARTER SCHOOL	2002.0	0.0
+41672	http://midyorklib.org/hamilton/	Hamilton Public Library	0.0	346.0
+41673	http://www.hostos.cuny.edu/	Eugenio Maria De Hostos Comm College	1996.0	1885.0
+41674	http://hudsoncityschooldistrict.com	HUDSON JUNIOR/SENIOR HIGH SCHOOL	2006.0	101.0
+41675	http://www.valleystream30.com/	Valley Stream 30 Union Free School  District	1997.0	179.0
+41677	http://www.angelica-ny.com	Angelica, Village of	2002.0	26.0
+41680	http://villageofbarneveld.org/content	Barneveld, Village of	2008.0	378.0
+41681	http://aldenschools.org	ALDEN PRIMARY AT TOWNLINE	0.0	1168.0
+41682	http://www.ryelibrary.org	Rye Free Reading Room	2001.0	82.0
+41683	http://www.townofgates.org	Gates, Town of	1999.0	1658.0
+41684	http://www.alfredny.org	Alfred, Village of	2000.0	52.0
+41685	http://www.townofcambria.com	Cambria, Town of	2001.0	35.0
+41686	http://www.bloom.pls-net.org	Bloomfield Public Library	1999.0	1.0
+41690	http://www.flls.org/memberpages/nichols.htm	George P. Susan Platt Cady Library	2002.0	1.0
+41691	http://nymills.com/content	New York Mills Public Library	2013.0	303.0
+41692	http://ccsdli.org	HELEN B DUFFIELD ELEMENTARY SCHOOL	0.0	2509.0
+41693	http://invictusprep.org	INVICTUS PREPARATORY CHARTER SCHOOL	2010.0	433.0
+41695	http://www.heightsschools.com/	Elmira Heights Central School  District	2000.0	36.0
+41696	http://www.westgenesee.org/	WeSt. Genesee Central School District	2002.0	305.0
+41697	http://www.yatescounty.org/	Yates, County of	2004.0	160.0
+41698	http://www.clydeny.com	Clyde, Village of	2002.0	9.0
+41699	http://cityofcorning.com/	Corning, City of	2006.0	523.0
+41701	http://www.hamptonlibrary.org	The Hampton Library	2005.0	1452.0
+41702	http://www.cazenoviapubliclibrary.org/	Cazenovia Public Library Society	2010.0	54.0
+41703	http://www.elwood.k12.ny.us/	Elwood Union Free School District	1999.0	100.0
+41705	https://webmail.rvcschools.org/owa/auth/logon.aspx?url=https://webmail.rvcschools.org/OWA/&reason=0	SOUTH SIDE MIDDLE SCHOOL	0.0	1.0
+41707	http://www.nypl.org/locations/epiphany	Epiphany Library	2010.0	1.0
+41708	http://www.wcb.ny.gov/	Workers Compensation Board	2011.0	1340.0
+41710	http://duanesburg.org	DUANESBURG ELEMENTARY SCHOOL	2002.0	632.0
+41712	https://mail.mmcsd.org/owa/auth/logon.aspx?url=https://mail.mmcsd.org/owa/&reason=0	Mount  Markham Central School District (Bridgewater-WeSt. Winfield Central School  District)	0.0	1.0
+41714	http://www.connetquotlibrary.org	Connetquot Public Library	2009.0	606.0
+41718	http://townofenfield.org/	Enfield, Town of	2008.0	142.0
+41719	http://www.riverheadlibrary.org/	Riverhead Free Library	2009.0	222.0
+41722	http://morton.pinehill.lib.ny.us/	Morton Memorial Library	2001.0	64.0
+41723	http://www.townofmendon.org	Mendon, Town of	2002.0	68.0
+41724	http://www.ticharter.org/	TECH INTERNATIONAL CHARTER SCHOOL	2011.0	1.0
+41725	http://www.levittownpl.org/index.html	Levittown Public Library	0.0	0.0
+41726	http://htcsd.org	HUNTER-TANNERSVILLE MIDDLE SCHOOL HIGH SCHOOL	2006.0	12.0
+41727	http://www.menands.org/	Menands  Union Free School District	2011.0	34.0
+41729	http://amsterdamfreelibrary.org/	Amsterdam Free Library	2010.0	65.0
+41730	http://schenevuscs.org	SCHENEVUS CENTRAL SCHOOL	0.0	1175.0
+41731	http://manhassetlibrary.org/	Manhasset Public Library	2008.0	170.0
+41733	http://www.nypl.org/locations/mosholu	Mosholu Library	2010.0	1.0
+41734	http://www.remsencsd.org/site/default.aspx?PageID=1	Remsen Central School District	0.0	4.0
+41735	http://www.alleganyco.com/	Allegany, County of	1999.0	185.0
+41736	http://www.dhses.ny.gov/	Homeland Security and Emergency Services, Division of	2010.0	1280.0
+41737	http://www.briarcliffschools.org/	Briarcliff Manor Union Free  School District	2001.0	258.0
+41738	http://www.its.ny.gov/	Information Technology Services, Office of	2012.0	333.0
+41739	http://www.mec.cuny.edu	Medgar Evers College	1998.0	602.0
+41740	http://www.afton.stier.org/	Afton Central School District	2001.0	198.0
+41742	http://www.buffalolib.org/content/library-locations/area-libraries?lib=marilla+free+library	Marilla Free Library	2014.0	50.0
+41745	http://www.irondequoit.org	Irondequoit, Town of	1998.0	209.0
+41748	http://www.thetownofchester.org/	Chester, Town of	2006.0	211.0
+41749	http://www.depositcsd.org/	Deposit Central School  District	0.0	291.0
+41750	http://www.greenport.k12.ny.us/	Greenport Union Free School  District	1999.0	184.0
+41751	http://ftpblog.blogspot.com	Fort Plain Free Library	2011.0	4.0
+41753	http://www.townofonondagany.com	Onondaga, Town of	2006.0	32.0
+41755	http://www.newcombny.com	Newcomb, Town of	1999.0	61.0
+41756	http://windhamlibrary.org/	Windham Public Library	2013.0	11.0
+41757	http://pendletonny.us/	Pendleton, Town of	2004.0	93.0
+41758	http://www.lindenhurstschools.org/	LindenhurSt. Union Free School  District	2003.0	115.0
+41761	http://olivefreelibrary.org/	Olive Free Library Association	2011.0	68.0
+41764	http://www.shorehamvillage.org	Shoreham, Village of	2006.0	102.0
+41765	http://town.remsen.ny.us/content	Remsen, Town of	2005.0	195.0
+41769	http://www.islandparklibrary.org	Island Park Public Library	2008.0	120.0
+41770	http://www.townofevans.org	Evans, Town of	2006.0	1928.0
+41771	http://www.marlboroughny.com	Marlborough, Town of	1999.0	83.0
+41772	http://www.tivolilibrary.org	Tivoli Free Library	2001.0	10.0
+41775	http://shpl.info	South Huntington Public Library	2007.0	315.0
+41776	http://healthscienceschool.org	DR RICHARD IZQUIERDO HEALTH AND SCIENCE CHARTER SCHOOL	2010.0	159.0
+41781	http://www.edinburgny.com/	Edinburg, Town of	2001.0	41.0
+41783	http://hpcsd.org	FRANKLIN D ROOSEVELT SENIOR HIGH SCHOOL	0.0	1358.0
+41785	http://www.deerparkschools.org/	Deer Park Union Free School  District	2001.0	140.0
+41786	http://www.brockportny.org	Brockport, Village of	2001.0	79.0
+41787	http://www.townofstonypoint.org	Stony Point, Town of	2007.0	246.0
+41788	http://www.nypl.org/locations/melrose	Melrose Library	2010.0	1.0
+41789	http://www.farmingdalevillage.com/	Farmingdale, Village of	2001.0	62.0
+41790	http://www.stls.org/montourfalls	Montour Falls Memorial Library	2003.0	202.0
+41791	http://www.pinebushschools.org/	Pine Bush Central School District	2001.0	22.0
+41792	http://stregisfallscsd.org/	Saint Regis Falls Central School  District	2008.0	6.0
+41794	http://www.stls.org/corning	SoutheaSt. Steuben County Library	2002.0	202.0
+41795	http://www.townofhoosick.org	Hoosick, Town of	2009.0	121.0
+41797	http://www.alexandria-bay.ny.us	Alexandria Bay, Village of	1996.0	12.0
+41798	http://www.johnstownschools.org/	Johnstown City School District  (Greater)	2005.0	284.0
+41799	http://www.maryvale.wnyric.org/	Cheektowaga-Maryvale  Union Free School District (Maryvale Union Free  School District)	0.0	821.0
+41800	http://www.cpcsteam.org/	Crown Point Central School  District	2008.0	141.0
+41801	http://www.minervasd.org/site/default.aspx?PageID=1	Minerva  Central School District	2013.0	70.0
+41803	http://lafayetteschools.org/	LaFayette  Central School District	2003.0	517.0
+41804	http://www.nypl.org/locations/schwarzman	Stephen A. Schwarzman Building	2010.0	1.0
+41805	http://uascs.org	UTICA ACADEMY OF SCIENCE CHARTER SCHOOL	2012.0	1798.0
+41809	http://www.letchworth.k12.ny.us/	Letchworth  Central School District	0.0	429.0
+41813	http://www.preble-ny.org	Preble, Town of	2001.0	57.0
+41814	http://gateschili.org	GATES-CHILI HIGH SCHOOL	0.0	5168.0
+41817	http://www.townofminetto.net	Minetto, Town of	2008.0	40.0
+41818	http://www.cambridgecsd.org/	Cambridge Central School District	0.0	670.0
+41819	http://www.depewschools.org/	Depew Union Free School District	0.0	945.0
+41820	http://orleansny.com	Orleans, County of	1998.0	414.0
+41821	http://www.cvb.state.ny.us/	Office of Victim Services	1999.0	20.0
+41822	http://www.rvcny.us/	Rockville Centre, Village of	2007.0	87.0
+41823	http://www.gouverneurny.com	Gouverneur, Town of	2002.0	14.0
+41824	http://www.owncs.org/	OUR WORLD NEIGHBORHOOD CHARTER SCHOOL	2001.0	289.0
+41826	http://www.corfuny.com	Corfu, Village of	2002.0	52.0
+41827	http://kingscollegiate.uncommonschools.org/	KINGS COLLEGIATE CHARTER SCHOOL	2011.0	74.0
+41828	http://cmschools.org	CENTER MORICHES HIGH SCHOOL	2004.0	825.0
+41829	http://www.sagharborschools.org/	Sag  Harbor Union Free School District	0.0	728.0
+41830	http://www.adamscenterfreelibrary.org	Adams Center Free Library	2006.0	256.0
+41831	http://www.alexandriacentral.org/site/default.aspx?PageID=1	Alexandria Central School  District	2013.0	8.0
+41832	http://www.ndchsbrooklyn.org/	NEW DAWN CHARTER HIGH SCHOOL	0.0	25.0
+41833	http://www.cclslib.org/portville/	Portville Free Library	2002.0	31.0
+41834	http://www.canajoharieschools.org/	Canajoharie Central School  District	0.0	135.0
+41836	http://pocanticohills.org	POCANTICO HILLS CENTRAL SCHOOL	2002.0	0.0
+41837	http://www.villageofcattaraugus.com	Cattaraugus, Village of	2009.0	6.0
+41838	http://tfoaprofessionalprep.org	TEACHING FIRMS OF AMERICA PROFESSIONAL PREP CHARTER	2010.0	141.0
+41839	http://gcsny.org	GOSHEN CENTRAL HIGH SCHOOL	0.0	1214.0
+41840	http://www.sherburne.org	Sherburne, Village of	1999.0	51.0
+41841	http://www.nypl.org/locations/richmondtown	Richmondtown Library	2010.0	1.0
+41842	http://morriscs.org	MORRIS CENTRAL SCHOOL	0.0	527.0
+41848	http://www.nypl.org/locations/lpa	New York Public Library For The Performing Arts, Dorothy And Lewis B. Cullman Center	2010.0	1.0
+41850	http://www.eastquogue.k12.ny.us/	EaSt. Quogue Union Free School  District	2002.0	12.0
+41851	http://www.charlottevalleycs.org/	Charlotte Valley Central School  District	0.0	341.0
+41852	http://crcs.k12.ny.us	GEORGE D RYDER ELEMENTARY SCHOOL	1997.0	253.0
+41853	http://niagarafallsusa.org	Niagara Falls, City of	2001.0	202.0
+41854	http://www.nypl.org/locations/ottendorfer	Ottendorfer Library	2010.0	1.0
+41856	http://www.villageofkensingtonny.gov	Kensington, Village of	2008.0	39.0
+41858	http://www.erwinny.org	Erwin, Town of	2001.0	5.0
+41859	http://www.4cls.org/	Four County Library System	2000.0	4544.0
+41861	http://www.townofclinton.com	Clinton, Town of	1998.0	87.0
+41862	http://www.hcs.stier.org/	Harpursville Central School District	2000.0	239.0
+41863	http://townofmarcy.org/content	Marcy, Town of	2005.0	385.0
+41866	http://www.nypl.org/locations/stapleton	Stapleton Library	2010.0	1.0
+41867	http://www.dfsd.org/	SPRINGHURSt. ELEMENTARY SCHOOL	2002.0	92.0
+41869	http://www.ci.ithaca.ny.us/	Ithaca, City of	1997.0	0.0
+41870	http://www.townofbristol.org	Bristol, Town of	2000.0	47.0
+41871	http://www.royhart.org/site/default.aspx?PageID=1	Royalton Hartland Central School District	0.0	12.0
+41873	http://www.hcsk12.org/	Harrisville Central School District	2003.0	8.0
+41875	http://www.westburylibrary.org	Westbury Memorial Public Library	2002.0	78.0
+41876	http://www.hannibalcsd.org/	Hannibal Central School District	2005.0	124.0
+41877	http://www.buffalolib.org/	Buffalo Erie County Public Library System	1999.0	17991.0
+41878	http://sharonsprings.org	SHARON SPRINGS CENTRAL SCHOOL	2000.0	91.0
+41879	http://www.townofbatavia.com/	Batavia, Town of	2000.0	36.0
+41881	http://www.newark.pls-net.org	Newark Public Library	1998.0	1.0
+41883	http://www.deruyternygov.us	De Ruyter, Town of	2005.0	47.0
+41884	http://www.valleystream13.com/	Valley Stream #13 Union Free School  District	2001.0	104.0
+41885	http://www.sunybroome.edu	Broome Community College	1998.0	836.0
+41886	http://www.mamakating.org/villageofbloomingburg.php	Bloomingburg, Village of	2011.0	554.0
+41887	http://www.lynbrookvillage.net/	Lynbrook, Village of	2007.0	42.0
+41888	http://villageofeastnassau.org/content	EaSt. Nassau, Village of	2010.0	167.0
+41890	http://hffmcsd.org	FORT MONTGOMERY ELEMENTARY SCHOOL	0.0	794.0
+41892	http://www.oysterponds.org/	Oysterponds  Union Free School District	2008.0	107.0
+41893	http://www.nypl.org/locations/huguenot-park	Huguenot Park Library	2010.0	1.0
+41897	http://www.stls.org/bolivar	Bolivar Free Library	2003.0	202.0
+41898	http://www.emmaclark.org	Emma S. Clark Memorial Library	2002.0	263.0
+41899	http://portnet.k12.ny.us	GUGGENHEIM ELEMENTARY SCHOOL	1996.0	37.0
+41900	http://www.cscsd.org/site/default.aspx?PageID=1	Campbell Savona Central  School District	2014.0	2.0
+41902	http://dansvillecsd.org	ELLIS B HYDE ELEMENTARY SCHOOL	0.0	875.0
+41903	http://www.bsnbcs.org/	BEDFORD STUYVESANT NEW BEGINNINGS CHARTER SCHOOL	2011.0	108.0
+41904	http://www.saratogaschools.org/	Saratoga Springs City School  District	0.0	616.0
+41905	http://www.babylonlibrary.org	Babylon School District Public Library	2010.0	941.0
+41906	http://www.townofpembroke.org	Pembroke, Town of	2002.0	19.0
+41907	http://kingstoncityschools.org	GEORGE WASHINGTON SCHOOL	0.0	1902.0
+41908	http://www.sunyjcc.edu	Jamestown Community College	1997.0	2188.0
+41911	http://leewhedon.org/	Lee-Whedon Memorial Library	2007.0	52.0
+41913	http://www.aftoncsd.org/	AFTON ELEMENTARY SCHOOL	0.0	202.0
+41914	http://www.mahopac.k12.ny.us/	AUSTIN ROAD ELEMENTARY SCHOOL	2000.0	52.0
+41915	http://www.hendersonfreelibrary.org	Henderson Free Library	2007.0	208.0
+41918	http://gwllibrary.org	Greenwood Lake Public Library	1999.0	44.0
+41919	http://www.scribany.org	Scriba, Town of	1999.0	20.0
+41922	http://www.townofrosendale.com/	Rosendale, Town of	2002.0	510.0
+41923	http://www.rcls.org/mng/	Montgomery Free Library	2000.0	15.0
+41924	http://hauppaugelibrary.org/	Hauppauge Public Library	2009.0	45.0
+41925	http://brentwoodnylibrary.org	Brentwood Public Library	2007.0	42.0
+41930	http://www.somersny.com	Somers, Town of	2001.0	151.0
+41931	http://www.emhcharter.org/	EUGENIO MARIA DE HOSTOS CHARTER SCHOOL	2011.0	14.0
+41932	http://www.bmcc.cuny.edu/j2ee/index.jsp	Borough of Manhattan Comm College	2006.0	2.0
+41935	http://nemillertonlibrary.org/	North East- Millerton Library	2001.0	60.0
+41938	http://www.maxwellmemoriallibrary.org	Maxwell Memorial Library	2004.0	14.0
+41939	http://www.villageofwashingtonville.org	Washingtonville, Village of	2007.0	262.0
+41941	http://www.marioncs.org/	Marion Central School District	0.0	876.0
+41942	http://www.thurman-ny.com	Thurman, Town of	2001.0	16.0
+41943	http://www.frontiernet.net/~pavtown/	Pavilion, Town of	2002.0	5.0
+41944	http://www.dryden-ny.org	Dryden, Village of	2000.0	19.0
+41945	http://www.nypl.org/locations/chatham-square	Chatham Square Library	2010.0	1.0
+41946	http://manhasset.k12.ny.us	MANHASSET SECONDARY SCHOOL	0.0	2522.0
+41947	http://www.me.stier.org/	MAINE-ENDWELL MIDDLE SCHOOL	1999.0	328.0
+41949	http://www.harrisonpl.org	Harrison Public Library	2006.0	161.0
+41951	http://www.phelpsny.com/community/town/	Phelps, Town of	2013.0	5.0
+41954	http://brighterchoice.org	BRIGHTER CHOICE CHARTER SCHOOL FOR BOYS	2001.0	64.0
+41955	http://www.fabius-ny.gov	Fabius, Town of	2008.0	10.0
+41957	http://pjschools.org	ANNA S KUHL ELEMENTARY SCHOOL	2007.0	399.0
+41959	http://www.genesee.edu	Genesee Community College	2002.0	4463.0
+41962	http://www.nypl.org/locations/columbus	Columbus Library	2010.0	1.0
+41963	http://www.cityofwhiteplains.com/	White Plains, City of	1997.0	530.0
+41964	http://www.stls.org/scio	Scio Memorial Library	2003.0	202.0
+41965	http://www.cal-mum.com/cal.htm	Caledonia, Town of	1999.0	550.0
+41966	http://marcellusschools.org	K C HEFFERNAN ELEMENTARY SCHOOL	2007.0	405.0
+41970	http://www.roundlakevillage.org/	Round Lake, Village of	1998.0	38.0
+41971	http://www.cliftonpark.org/index.php?page=townhall	Clifton Park, Town of	2013.0	2216.0
+41973	http://www.mpcsny.org/	Mount Pleasant Cottage Union Free School  District	2001.0	22.0
+41974	http://www.mtvernoncsd.org/	Mount  Vernon City School District	2008.0	202.0
+41975	http://www.nypl.org/locations/cathedral	Terence Cardinal Cooke-Cathedral Library	2010.0	1.0
+41978	http://www.mendonlibrary.org/	Mendon Public Library	2004.0	2.0
+41979	http://www.brewstervillage-ny.gov	Brewster, Village of	2006.0	281.0
+41980	http://carmellibrary.org/	Reed Memorial Library	2011.0	78.0
+41986	http://www.jcope.ny.gov/	Joint Commission on Public Ethics	2012.0	66.0
+41987	http://moraviaschool.org	MILLARD FILLMORE ELEMENTARY SCHOOL	2003.0	185.0
+41989	http://www.eastwilliston.org	EaSt. Williston, Village of	2002.0	387.0
+41990	http://www.flls.org/cortlandlib	Cortland Free Library	2004.0	309.0
+41991	http://village.herkimer.ny.us/content	Herkimer, Village of	2006.0	94.0
+41992	http://www.lima.pls-net.org	Lima Public Library	1998.0	4.0
+41998	http://www.villageofandover.com	Andover, Village of	2010.0	0.0
+42000	http://oxac.org	OXFORD ACADEMY MIDDLE SCHOOL	0.0	801.0
+42002	http://townofmeredith.com/	Meredith, Town of	2010.0	285.0
+42003	http://www.oleanschools.org/site/default.aspx?PageID=1	Olean City School District	2012.0	33.0
+42005	http://www.cityofhornell.com	Hornell, City of	2001.0	44.0
+42006	http://www.stls.org/friendship	Friendship Free Library	2003.0	202.0
+42008	http://www.stls.org/genesee	Genesee Library	2003.0	202.0
+42010	http://www.egcsd.org/	EaSt.  Greenbush Central School District	2000.0	809.0
+42012	http://www.villageofravena.com/	Ravena, Village of	2001.0	14.0
+42013	https://mail.mufsd.com:443/owa/auth/logon.aspx?url=https%3a%2f%2fmail.mufsd.com%2fowa&reason=0	MATTITUCK JUNIOR-SENIOR HIGH SCHOOL	0.0	1.0
+42014	http://www.harrisvillefreelibrary.org	Harrisville Free Library	2010.0	239.0
+42015	http://coxsackie-athens.org/site/default.aspx?PageID=1	COXSACKIE-ATHENS HIGH SCHOOL	2013.0	43.0
+42017	http://www.broctoncsd.org/brocton/site/default.asp	Brocton Central School District	2007.0	1.0
+42018	http://www.kippnyc.org/	KIPP NYC WASHINGTON HEIGHTS ACADEMY CHARTER SCHOOL	2008.0	239.0
+42019	http://townverona.org/content	Verona, Town of	2006.0	392.0
+42021	http://www.townofbrunswick.org/	Brunswick, Town of	2000.0	147.0
+42022	http://niagaracharter.org	NIAGARA CHARTER SCHOOL	2006.0	15.0
+42024	http://ryeschools.org	RYE MIDDLE SCHOOL	2009.0	232.0
+42026	http://www.rcls.org/hfl/	Highland Falls Library	1999.0	14.0
+42027	http://southcountry.org	KREAMER STREET ELEMENTARY SCHOOL	2000.0	189.0
+42029	http://senecafallslibrary.org/	Seneca Falls Library	2002.0	66.0
+42031	http://www.nypl.org/locations/francis-martin	Francis Martin Library	2010.0	1.0
+42032	http://www.keenecentralschool.org/	Keene Central School District	2008.0	148.0
+42033	http://obenschools.org/	Oyster Bay - EaSt. Norwich Central School  District	0.0	84.0
+42035	http://www.lewisny.com	Lewis, Town of	2000.0	113.0
+42036	http://www.townofhornellsville.com	Hornellsville, Town of	2008.0	14.0
+42037	http://www.sucf.suny.edu/	State University Construction Fund	0.0	186.0
+42038	http://www.threevillagecsd.org/	Three Village Central School  District	2009.0	273.0
+42039	http://www.potsdamny.us	Potsdam, Town of	2006.0	14.0
+42040	http://www.pearlriverlibrary.org/pearlriver/	Pearl River Public Library	2012.0	792.0
+42042	http://www.merrick-k6.org/merrick/merrick.cfm	Merrick Union Free  School District	2001.0	2581.0
+42043	http://www.oag.state.ny.us/	Attorney General, Office of	1997.0	4874.0
+42044	http://home.htva.net/~townofhector/home.html	Hector, Town of	2005.0	30.0
+42045	http://www.amityvilleschools.org/	Amityville Union Free School  District	2002.0	114.0
+42046	http://www.eastgreenbush.org/	EaSt. Greenbush, Town of	2000.0	2477.0
+42048	http://www.cuny.edu/index.html	City University of New York Central Administration	0.0	2284.0
+42050	http://www.franklinsquare.k12.ny.us/home	Franklin Square Union Free  School District	2009.0	567.0
+42051	http://www3.libraryweb.org/subpage.aspx?id=292	Charlotte Branch Library	2012.0	507.0
+42053	http://www.rcls.org/chs/	Chester Public Library	2000.0	0.0
+42054	http://www.mattlibrary.org	Mattituck-Laurel Library	2010.0	155.0
+42057	http://www.grandisland-cs.k12.ny.us/	Grand Island Central School  District	0.0	831.0
+42058	http://www.canadice.org	Canadice, Town of	2001.0	67.0
+42059	http://www.cefls.org/tupperlake.htm	Goff-Nelson Memorial Library, Tupper Lake	2001.0	171.0
+42063	http://www.csi.cuny.edu	City University of New York College of Staten Island	1997.0	302.0
+42065	http://cgcsd.org/site/default.aspx?PageID=1	CANISTEO-GREENWOOD HIGH SCHOOL	2012.0	10.0
+42066	http://www.stls.org/odessa	Dutton S. Peterson Memorial Library	2003.0	202.0
+42068	http://www.4cls.org/webpages/members/worcester/worcester.html	Worcester Free Library	2001.0	156.0
+42069	http://www.rcls.org/ptj/	Port Jervis Free Library	1999.0	0.0
+42071	http://www.brookhavenfreelibrary.org/wordpress/	Brookhaven Free Library	2013.0	29.0
+42072	http://www.sals.edu/	Southern Adirondack Library System	2000.0	3.0
+42075	http://ryeneck.k12.ny.us	F E BELLOWS ELEMENTARY SCHOOL	1997.0	135.0
+42076	http://www.nypl.org/locations/clasons-point	Clasons Point Library	2010.0	1.0
+42077	http://www.nypl.org/locations/westchester-square	Westchester Square Library	2010.0	1.0
+42078	http://www.kentlibrary.org	Kent Public Library	2000.0	22.0
+42079	http://www.villageofhamburg.com/	Hamburg, Village of	2008.0	288.0
+42081	http://www.slibrary.org	Bancroft Public Library	2001.0	18.0
+42083	http://www.highlandlibrary.org/	Highland Public Library	2002.0	95.0
+42085	http://www.denning.us	Denning, Town of	2005.0	94.0
+42086	http://townofgreig.org/content	Greig, Town of	2007.0	250.0
+42088	http://www.veterans.state.ny.us/	Veterans' Affairs, Division of	0.0	101.0
+42093	http://www.parishvilleny.us	Parishville, Town of	2006.0	27.0
+42094	http://www.erschools.org/	EaSt. Rochester Union Free School  District	0.0	546.0
+42097	http://democracyprep.org	HARLEM PREP CHARTER SCHOOL	2005.0	101.0
+42098	http://www.dunkirktoday.com/	Dunkirk, City of	2009.0	630.0
+42099	http://chesterufsd.org	CHESTER ACADEMY-MIDDLE/HIGH SCHOOL	0.0	943.0
+42101	http://www.buffalolib.org/content/library-locations/area-libraries?lib=dudley+branch	Dudley Branch Library	2014.0	49.0
+42102	http://www.mamakating.org/	Mamakating, Town of	2004.0	555.0
+42103	http://www.centralsquareschools.org/	Central Square Central School  District	1998.0	1545.0
+42104	http://www.edline.net/pages/bxv	Bronxville Union Free School  District	2012.0	3.0
+42106	http://www.saltaire.org/	Saltaire, Village of	1999.0	38.0
+42108	http://www.northmerrickpubliclibrary.org	North Merrick Public Library	2007.0	34.0
+42109	http://www.townofnewbaltimore.org	New Baltimore, Town of	2004.0	1379.0
+42112	http://www.corningareaschools.com/	Corning City School District	2000.0	212.0
+42113	http://www.berneny.org	Berne, Town of	0.0	21.0
+42114	http://www.hydebronxny.org/	HYDE LEADERSHIP CHARTER SCHOOL	2007.0	44.0
+42115	http://www.buffalolib.org/content/library-locations/area-libraries?lib=concord+public+library	Concord Public Library	2014.0	49.0
+42116	http://www.villageoflawrence.org/	Lawrence, Village of	2001.0	28.0
+42119	http://www.pelhamschools.org/	PELHAM MEMORIAL HIGH SCHOOL	2002.0	12.0
+42121	http://www.co.delaware.ny.us	Delaware, County of	2002.0	88.0
+42123	http://www.middletowncityschools.org/	Middletown Enlarged City  School District	2004.0	794.0
+42125	http://www.woodstock.org	Woodstock Public Library District	1998.0	370.0
+42127	http://livoniany.com	Livonia, Town of	2001.0	3.0
+42128	http://www.rcmcs.us/	ROCHESTER CAREER MENTORING CHARTER SCHOOL	2012.0	392.0
+42130	http://www.leroycsd.org/	Le Roy Central School District	0.0	377.0
+42131	http://www.nred.org/	New Rochelle City School District	1999.0	30.0
+42132	http://www.waltoncsd.org/	TOWNSEND ELEMENTARY SCHOOL	2010.0	254.0
+42133	http://www.delhi.edu	State University of New York College of Technology at Delhi	1997.0	1095.0
+42135	http://www.nypl.org/locations/inwood	Inwood Library	2010.0	1.0
+42136	http://www.brightonlibrary.org	Brighton Memorial Library	1999.0	18.0
+42139	http://www.nypl.org/locations/jerome-park	Jerome Park Library	2010.0	1.0
+42143	http://www.oasas.ny.gov/	Alcoholism and Substance Abuse Services, Office of	2011.0	533.0
+42144	http://www.bhpanthers.org/site/default.aspx?PageID=1	BelleVille  Henderson Central School District	2013.0	22.0
+42147	http://www.greenwichny.org	Greenwich, Town of	2005.0	29.0
+42148	http://www.nhaschools.com/pages/default.aspx	BUFFALO UNITED CHARTER SCHOOL	2011.0	16.0
+42149	http://hes.nrcsd.org/	HAVERSTRAW ELEMENTARY SCHOOL	2012.0	32.0
+42153	http://www.ossiningufsd.org/	Ossining Union Free School District	2003.0	17.0
+42154	http://www.ci.carmel.ny.us/	Carmel, Town of	1999.0	1771.0
+42155	http://townofclayton.com	Clayton, Town of	2001.0	163.0
+42156	http://www.morrisville.edu	SUNY College of  Agriculture And Technology at Morrisville	1998.0	1129.0
+42157	http://solvaylibrary.org/	Solvay Public Library	2007.0	238.0
+42160	http://pvcsd.org/index.php	Putnam Valley Central School District	2005.0	85.0
+42161	http://acs.stev.net/education/school/school.php?sectionid=3	Arkport Central  School District	2011.0	3.0
+42162	http://www.northhempstead.com/	North Hempstead, Town of	1998.0	2141.0
+42164	http://www.bcsd.org/index.cfm	Brighton Central School  District	0.0	5546.0
+42165	http://www.fmschools.org/highschool.cfm	Fayetteville-Manlius  Central School District	2005.0	2162.0
+42167	http://www.albanyschools.org/	Albany City School District	0.0	154.0
+42170	http://www.cal-mum.org/	Caledonia-Mumford Central School District	2001.0	31.0
+42171	http://www.stoneridgelibrary.org	Stone Ridge Public Library	1999.0	90.0
+42174	http://www.sallyploofhunterlibrary.org/	Sally Ploof Hunter Memorial Library	2011.0	223.0
+42175	http://www.edmestoncentralschool.net/	Edmeston  Central School District	2007.0	755.0
+42177	http://www.bgcsd.org/	Bainbridge-Guilford Central School District	2003.0	91.0
+42178	http://www.Binghamton-ny.gov/	Binghamton, City of	2013.0	1359.0
+42180	http://www.chappaqualibrary.org	Chappaqua Library	2000.0	1790.0
+42182	http://www.oakfield.govoffice.com	Oakfield, Village of	2002.0	117.0
+42183	http://wappingersschools.org/site/default.aspx?PageID=1	BRINCKERHOFF ELEMENTARY SCHOOL	2012.0	239.0
+42184	http://brooklynprospect.org	BROOKLYN PROSPECT CHARTER SCHOOL	2007.0	504.0
+42185	http://www.bedfordfreelibrary.org	Bedford Free Library	2005.0	33.0
+42186	http://www.dryden.k12.ny.us/	Dryden Central School District	2002.0	1189.0
+42188	http://town.steuben.ny.us/content	Steuben, Town of	2005.0	297.0
+42191	http://www.co.washington.ny.us	Washington, County of	2005.0	63.0
+42192	http://www.swrschools.org/	Shoreham Wading River Central School  District	2008.0	174.0
+42193	http://hurleylibrary.org/	Hurley Library District	2013.0	59.0
+42194	http://www.patchoguevillage.org/	Patchogue, Village of	2002.0	26.0
+42195	http://www.villageflowerhill.com	Flower Hill, Village of	1999.0	0.0
+42196	http://www.binghamton.edu/index.php	State University of New York at Binghamton	2013.0	3588.0
+42199	http://www.sunyocc.edu	Onondaga Community College	1996.0	774.0
+42201	http://www.nypl.org/locations/allerton	Allerton Library	2010.0	1.0
+42203	http://elmsd.org	CARL L DIXSON ELEMENTARY SCHOOL	2002.0	30.0
+42205	http://deruytercentral.org	DERUYTER ELEMENTARY SCHOOL	2007.0	289.0
+42206	http://www.sandycreekny.us	Sandy Creek, Town of	2006.0	34.0
+42207	https://www.corning-cc.edu/	Corning Community College	1996.0	2190.0
+42208	http://havenacademy.org	MOTT HAVEN ACADEMY CHARTER SCHOOL	0.0	57.0
+42210	http://www.village.millbrook.ny.us/	Millbrook, Village of	2001.0	53.0
+42211	http://www.gc.cuny.edu/Home	CUNY Graduate School And University Center	2011.0	1402.0
+42212	http://www.townofspafford.com	Spafford, Town of	2007.0	30.0
+42213	http://www.fultonpubliclibrary.org/	Fulton Public Library	2005.0	234.0
+42214	http://www.omh.ny.gov/	Mental Health, Office of	2010.0	1862.0
+42215	http://www.tiogacentral.org/	TIOGA SENIOR HIGH SCHOOL	2008.0	60.0
+42217	http://jcschools.stier.org	JOHNSON CITY ELEMENTARY/PRIMARY SCHOOL	2009.0	471.0
+42220	http://townofchenango.com/	Chenango, Town of	2003.0	35.0
+42221	http://www.northcollins.com/	North Collins Central School District	0.0	567.0
+42223	http://hadluzblog.sals.edu	Hadley-Luzerne Public Library	2008.0	304.0
+42225	http://thehuntingtonlibrary.org	Huntington Public Library	2009.0	1269.0
+42226	http://ballston.sals.edu	Ballston Spa Public Library	2000.0	1.0
+42227	http://www.edinburgcs.org/	Edinburg Common School District	2007.0	50.0
+42228	http://www.wajcs.org/	WINDHAM ASHLAND CENTRAL SCHOOL	2001.0	60.0
+42230	http://www.genvalley.org/gvcs/site/default.asp	Genesee Valley Central School District	2008.0	1.0
+42231	http://www.cclslib.org/sherman/	Minerva Free Library	2003.0	1.0
+42232	http://www1.nyc.gov/	New York, City of	1998.0	2030.0
+42234	http://cornwall-on-hudson.org/	Cornwall-on-Hudson, Village of	2004.0	17.0
+42235	http://eplm.sharepoint.com/Pages/default.aspx	Ellenville Public Library And Museum	2012.0	20.0
+42238	http://townofticonderoga.org/	Ticonderoga, Town of	2011.0	34.0
+42239	http://oraclecharterschool.org	ORACLE CHARTER SCHOOL	2004.0	525.0
+42241	http://www.sgfny.com	South Glens Falls, Village of	2003.0	3.0
+42245	http://www.co.oswego.ny.us	Oswego, County of	1996.0	471.0
+42247	http://newfane.wnyric.org/site/default.aspx?PageID=1	NEWFANE EARLY CHILDHOOD CENTER	2012.0	20.0
+42248	http://www.buffalo.edu	State University of New York at Buffalo	1997.0	5304.0
+42252	http://www.ccsknights.org/	Copenhagen Central School District	2001.0	408.0
+42253	http://www.villageofvoorheesville.com/index.asp?id=3	Voorheesville, Village of	2010.0	43.0
+42254	http://www.mountpleasantlibrary.org	Mount Pleasant Public Library	2000.0	120.0
+42255	http://www.pat-med.k12.ny.us/	Patchogue-Medford Union Free School  District	0.0	1148.0
+42256	http://www.nenpl.org	Northport Public Library	2002.0	397.0
+42257	http://www.babylon.k12.ny.us/	Babylon Union Free School  District	2000.0	147.0
+42258	http://www.andersonleelibrary.com	Anderson Lee Library	2008.0	1.0
+42260	http://www.fredonia.wnyric.org/	Fredonia Central School District	1997.0	978.0
+42261	http://www.elockport.com	Lockport, City of	2002.0	166.0
+42262	http://www.laurenscs.org/	Laurens Central School District	2003.0	47.0
+42263	http://www.nypl.org/locations/countee-cullen	Countee Cullen Library	2010.0	1.0
+42265	http://www.albertwisnerlibrary.org	Albert Wisner Public Library	2001.0	1544.0
+42268	http://www.centermoriches.k12.ny.us/	Center Moriches Union Free  School District	2000.0	271.0
+42269	http://www.amaglibrary.org	Amagansett Free Library	2011.0	9.0
+42270	http://www.onlib.org/web/locations_hours/branches/necc.htm	NortheaSt. Community Center Library	2010.0	2.0
+42272	http://www.potsdam.k12.ny.us/	Potsdam Central School District	1998.0	232.0
+42273	http://saugerties.ny.us/content	Saugerties, Town of	2011.0	300.0
+42276	http://www.villageofcatskill.net	Catskill, Village of	2006.0	165.0
+42277	http://www.co.essex.ny.us	Essex, County of	0.0	919.0
+42279	http://www.oacs.k12.ny.us/	Oakfield Alabama Central School  District	0.0	218.0
+42280	http://www.steele.lib.ny.us/van_etten.htm	Van Etten Library	1999.0	207.0
+42281	http://toblibrary.sals.edu	Ballston Community Public Library	2008.0	86.0
+42282	http://www.brookhaven.org/	Brookhaven, Town of	1998.0	2612.0
+42283	http://www.perinton.org/	Perinton, Town of	2000.0	230.0
+42284	http://www.castile.pls-net.org	Cordelia A. Greene Library	1998.0	39.0
+42285	http://uticaschools.org/site/default.aspx?PageID=1	ALBANY ELEMENTARY SCHOOL	2013.0	8.0
+42287	http://www.marbletown.net/	Marbletown, Town of	2002.0	262.0
+42288	http://www.pineplainsschools.org/	Pine Plains Central School  District	0.0	811.0
+42290	http://www.columbiacountyny.com/	Columbia, County of	1999.0	52.0
+42291	http://www.townofrochester.net	Rochester, Town of	2005.0	796.0
+42293	http://www.geneseo.edu	State University of New York College at Geneseo	1997.0	1446.0
+42294	http://www.townofminisink.com/	Minisink, Town of	2011.0	35.0
+42296	http://ellicottvillelibrary.wix.com/ellicottville-memorial-library	Ellicottville Memorial Library	2012.0	1.0
+42299	http://www.buffalolib.org/content/library-locations/area-libraries?lib=orchard+park+public+library	Orchard Park Public Library	2014.0	49.0
+42300	http://www.middletown-ny.com	Middletown, City of	2007.0	4903.0
+42301	http://sctylib.org	South Country Library	2007.0	40.0
+42302	http://townofannsville.org/content	Annsville, Town of	2008.0	214.0
+42303	http://www.centralqueensacademy.org/	CENTRAL QUEENS ACADEMY CHARTER SCHOOL	2011.0	82.0
+42307	http://www.cphlibrary.org	Clifton-Park Halfmoon Public Library	2003.0	56.0
+42308	http://www.tonawanda.ny.us/	Tonawanda, Town of	1998.0	775.0
+42310	http://gouverneurcentralschool.org/	Gouverneur  Central School District	2008.0	347.0
+42312	http://www.co.chenango.ny.us/	Chenango, County of	2002.0	262.0
+42315	http://minisink.com/index.php?id=7	MINISINK VALLEY HIGH SCHOOL	2006.0	866.0
+42316	http://www.victorschools.org/index.cfm	Victor Central School  District	0.0	1927.0
+42317	http://www.irvingtonlibrary.org	Irvington Pub Lib Guiteau Foundation	2004.0	24.0
+42319	http://www.cantonfreelibrary.org	Canton Free Library	2003.0	175.0
+42320	http://www.cayugacounty.us/portals/1/summerhill/	Summerhill, Town of	2013.0	16.0
+42321	http://www.cshlibrary.org	Cold Spring Harbor Village Improvement Society Library	2008.0	191.0
+42323	http://www.coveneck.org	Cove Neck, Village of	2008.0	15.0
+42325	http://www.gufs.org/home.aspx	Garrison Union Free School District	0.0	23.0
+42327	http://www.buffalolib.org/content/library-locations/area-libraries?lib=angola+public+library	Angola Public Library	2014.0	49.0
+42328	http://www.tarrytowngov.com/	Tarrytown, Village of	2003.0	108.0
+42329	http://www.lansingtown.com/	Lansing, Town of	2003.0	762.0
+42334	http://cambridge.sals.edu	Cambridge Public Library	2000.0	23.0
+42335	http://www.avoncsd.org/	Avon Central School District	0.0	2718.0
+42336	http://www.halfhollowhills.k12.ny.us/	Half Hollow Hills Central  School District	1999.0	741.0
+42337	http://www.wacs.wnyric.org/site/default.aspx?PageID=1	Westfield Academy and Central School  District	2012.0	21.0
+42338	http://merrickacademy.org	MERRICK ACADEMY-QUEENS PUBLIC CHARTER SCHOOL	2006.0	12.0
+42339	http://marlboroschools.schoolwires.com/marlboroschools	MARLBORO CENTRAL HIGH SCHOOL	2011.0	890.0
+42340	http://www.fultoncountyny.gov/	Fulton, County of	2009.0	68.0
+42342	http://www.villageofskaneateles.com	Skaneateles, Village of	2007.0	5323.0
+42344	http://www.kinderhook-ny.gov	Kinderhook, Town of	2004.0	80.0
+42346	http://thenewamericanacademy.org	NEW AMERICAN ACADEMY CHARTER SCHOOL (THE)	2010.0	188.0
+42347	http://greenville.lib.ny.us/	Greenville Public Library	2001.0	77.0
+42348	http://westhillschools.org	CHERRY ROAD ELEMENTARY SCHOOL	2003.0	147.0
+42350	http://www.esc.edu	State University of New York Empire State College	1996.0	1664.0
+42351	http://www.eastmeadow.info	EaSt. Meadow Public Library	2005.0	113.0
+42352	http://www.alfred.edu	NYS College of Ceramics at Alfred University	1996.0	1635.0
+42353	http://www.citytech.cuny.edu	CUNY NYC College of Technology	2002.0	522.0
+42354	http://www.purchasefreelibrary.org	Purchase Free Library	2000.0	27.0
+42355	http://www.cefls.org/altona.htm	Altona Reading Center	2001.0	171.0
+42356	http://marlborolibrary.org	Marlboro Free Library	0.0	125.0
+42357	http://www.fortedward.org/	Fort Edward Union Free School District	0.0	533.0
+42358	http://www.allegany.org	Allegany, Town of	2002.0	404.0
+42359	http://www.buffalolib.org/content/library-locations/area-libraries?lib=lancaster+library	Lancaster Public Library	2014.0	49.0
+42360	http://www.vclib.org	Valley Cottage Free Library	2000.0	478.0
+42370	http://www.east-aurora.ny.us	EaSt. Aurora, Village of	2002.0	36.0
+42371	http://www.marionny.blogspot.com	Marion Public Library	2013.0	2.0
+42372	http://www.rcls.org/pal/	Palisades Free Library	1999.0	0.0
+42373	http://www.eastauroraschools.org/site/default.aspx?PageID=1	EaSt. Aurora Union Free School District	2011.0	98.0
+42374	http://www.townoffarmingtonny.com	Farmington, Town of	0.0	74.0
+42375	http://www.nypl.org/locations/van-cortlandt	Van Cortlandt Library	2010.0	1.0
+42376	http://www3.libraryweb.org/subpage.aspx?id=314	Highland Branch Library	2011.0	519.0
+42377	http://www.franklinsquare.k12.ny.us/	WASHINGTON STREET SCHOOL	2000.0	565.0
+42378	http://fflib.org/	Fayetteville Free Library	2012.0	579.0
+42379	http://www.srk12.org/	Salmon River Central School District	2003.0	209.0
+42380	http://www.bronxcommunity.org/	BRONX COMMUNITY CHARTER SCHOOL	2009.0	17.0
+42381	http://woodstockny.org/content	Woodstock, Town of	2009.0	345.0
+42386	http://auburn.cnyric.org	CASEY PARK ELEMENTARY SCHOOL	1996.0	0.0
+42388	http://www.ccsdny.org/site/default.aspx?PageID=1	Canaseraga  Central School District	2011.0	12.0
+42389	http://www.nncsk12.org/	Norwood-Norfolk Central School District	2002.0	303.0
+42390	http://www.wipublib.org	WeSt. Islip Public Library	2000.0	2.0
+42391	http://townoflysander.org/	Lysander, Town of	2001.0	56.0
+42393	http://www.phelpslibrary.org	Phelps Community Memorial Library	2008.0	2.0
+42396	http://www.saratogacountyny.gov	Saratoga, County of	2008.0	825.0
+42397	http://www.dhses.ny.gov/oiec/	Interoperable and Emergency Communications, Office of	2011.0	44.0
+42398	http://www.nypl.org/locations/todt-hill-westerleigh	Todt Hill-Westerleigh Library	2010.0	1.0
+42399	http://valhallaschools.org	VIRGINIA ROAD ELEMENTARY SCHOOL	0.0	585.0
+42400	http://www.tuxedoufsd.org/	Tuxedo Union Free School  District	0.0	608.0
+42402	http://www.albanypubliclibrary.org/locations/howe/index.php	Albany Public Library - John A. Howe Branch	2007.0	54.0
+42407	http://www.poquott.org	Poquott, Village of	2001.0	25.0
+42409	http://goshenpubliclibrary.org/	Goshen Public Library And Historical Society	2005.0	51.0
+42411	http://www.villageofbabylonny.gov	Babylon, Village of	2004.0	163.0
+42416	http://www.millbrookcsd.org/	Millbrook Central School District	1999.0	1108.0
+42418	http://www.walworthseely.blogspot.com	Walworth-Seely Public Library	2011.0	0.0
+42420	http://www.villageoflyons.com/	Lyons, Village of	2001.0	73.0
+42422	http://www.seymourlibrary.org	Seymour Public Library District	2002.0	23.0
+42424	http://sagharborvillage.com/	Sag Harbor, Village of	2001.0	19.0
+42426	http://town.danby.ny.us	Danby, Town of	2004.0	4.0
+42427	http://www.hammondsportcsd.org/hammondsportcsd/site/default.asp	Hammondsport Central School  District	2007.0	2.0
+42429	http://www.camdenny.com	Camden, Village of	1999.0	17.0
+42430	http://www.sunycgcc.edu	Columbia-Greene Community College	1998.0	847.0
+42431	http://www.stls.org/savona	Savona Free Library	2003.0	202.0
+42432	http://www.lancastervillage.org	Lancaster, Village of	2001.0	31.0
+42434	http://www.townofcolden.com/	Colden, Town of	2011.0	54.0
+42437	http://www.nysed.gov/	Education, Department of	0.0	320.0
+42439	http://town.paris.ny.us/content	Paris, Town of	2006.0	230.0
+42441	http://mwcsd.org	MARCUS WHITMAN HIGH SCHOOL	0.0	1570.0
+42442	http://hfcsd.org	HUDSON FALLS HIGH SCHOOL	2002.0	1480.0
+42444	http://www.townofghent.org	Ghent, Town of	2008.0	15.0
+42449	http://www.hicksvillelibrary.org/	Hicksville Free Public Library	2013.0	32.0
+42450	http://www.ticonderogak12.org/	Ticonderoga Central School District	0.0	272.0
+42451	http://townofschaghticoke.org/content	Schaghticoke, Town of	2010.0	238.0
+42452	http://www.crandalllibrary.org	Crandall Public Library	1998.0	88.0
+42454	http://www.kippnyc.org/schools	KIPP AMP CHARTER SCHOOL	2013.0	239.0
+42456	http://www.cclslib.org/	Chautauqua-Cattaraugus Library System	1998.0	593.0
+42457	http://www.nypl.org/locations/soundview	Soundview Library	2010.0	1.0
+42458	http://www.villageofpennyan.com	Penn Yan, Village of	2003.0	63.0
+42459	http://www.gowcsd.com/	Gowanda Central School District	0.0	836.0
+42460	http://www.town.nunda.ny.us/	Nunda, Town of	2001.0	15.0
+42461	http://www.ulysses.ny.us	Ulysses, Town of	2000.0	153.0
+42462	http://sayvillelibrary.org	Sayville Library	2010.0	115.0
+42466	http://www.ilionny.com/	Ilion, Village of	1998.0	47.0
+42468	http://www.thrall.org	Thrall Public Library District Of Middletown And Wallkill	1998.0	8792.0
+42469	http://www.stls.org/hammondsport	Fred And Harriet Taylor Memorial Library	2002.0	202.0
+42470	http://www.russellny.us	Russell, Town of	0.0	13.0
+42471	http://esd.ny.gov/nystar/	Science, Technology and Innovation, NYS Foundation for	2012.0	13.0
+42472	http://ncsharlem.org	NEIGHBORHOOD CHARTER SCHOOL OF HARLEM	2010.0	36.0
+42475	http://www.dunkirkcsd.org/dunkirkcsd/site/default.asp	Dunkirk City School District	2007.0	1.0
+42476	http://otda.ny.gov/	Temporary and Disability Assistance, Office of	2011.0	266.0
+42478	http://rochesterdiscovery.com	DISCOVERY CHARTER SCHOOL	2011.0	62.0
+42479	http://dannemorafreelibrary.org	Dannemora Free Library	2008.0	2.0
+42480	http://brighterchoicems.org	BRIGHTER CHOICE CHARTER MIDDLE SCHOOL FOR BOYS	2011.0	64.0
+42482	http://www.comlibrary.org	The Community Library	2001.0	10.0
+42483	http://townofmorristownny.org/content	Morristown, Town of	2007.0	136.0
+42484	http://www.ogdensburg.org	Ogdensburg, City of	2000.0	398.0
+42488	http://jerichoschools.org	CANTIAGUE ELEMENTARY SCHOOL	2003.0	2320.0
+42489	http://www.gunlockelibrary.org	Wayland Free Library	1999.0	499.0
+42491	http://www.clermontny.org	Clermont, Town of	2004.0	540.0
+42493	http://www.oceansidelibrary.com	Oceanside Library	2000.0	16.0
+42495	http://scio.schooltools.us/	Scio  Central School District	2007.0	786.0
+42496	http://www.villageofmacedon.org/	Macedon, Village of	2006.0	36.0
+42498	http://littleflowerufsd.org	LITTLE FLOWER SCHOOL	2003.0	218.0
+42499	http://www.cortland-co.org/towns/taylor.htm	Taylor, Town of	2002.0	2.0
+42500	http://www.hancockny.org/	Hancock, Town of	2004.0	53.0
+42501	http://www.mamkschools.org/	Mamaroneck Union Free School District	1998.0	10.0
+42502	http://greenfieldny.org/	Greenfield, Town of	2012.0	1790.0
+42503	http://libertyk12.org	LIBERTY ELEMENTARY SCHOOL	2001.0	68.0
+42505	http://www.downstate.edu/	State University of New York Health Science Center at Brooklyn	2000.0	291.0
+42507	http://www.fremontnewyork.us/	Fremont, Town of	2003.0	30.0
+42509	http://www.margaretvillecs.org/	Margaretville Central School  District	2002.0	23.0
+42514	http://www.greatnecklibrary.org	Great Neck Library	2003.0	60.0
+42515	http://www.batteryparkcity.org/	Battery Park City Authority	0.0	110.0
+42518	http://www.buffalolib.org/content/library-locations/area-libraries?lib=north+park+branch	North Park Branch Library	2014.0	49.0
+42519	http://www.lewistonpubliclibrary.org	Lewiston Public Library	2004.0	2.0
+42520	http://www.easthampton.k12.ny.us/	EaSt. Hampton Union Free School  District	1998.0	89.0
+42521	http://www.villageofhoneoyefalls.org/	Honeoye Falls, Village of	2005.0	68.0
+42523	http://www.bayvillefreelibrary.org/	Bayville Free Library	2007.0	7.0
+42524	http://harlemlink.org	HARLEM LINK CHARTER SCHOOL	2005.0	91.0
+42526	http://midyorklib.org/morrisville/	Morrisville Public Library	0.0	267.0
+42527	http://www.hewlettharbor.org	Hewlett Harbor, Village of	2005.0	17.0
+42531	http://www.buffalolib.org/content/library-locations/area-libraries?lib=reinstein+memorial+library	Reinstein Memorial Library	0.0	49.0
+42534	http://www.hempsteadlibrary.info	Hempstead Public Library	2009.0	28.0
+42535	http://ww2.northwarren.k12ny.us/	NORTH WARREN CENTRAL SCHOOL	0.0	364.0
+42536	http://www.panynj.gov/	Port Authority of New York and New Jersey	1997.0	1093.0
+42539	http://www.lagcc.cuny.edu/home/	Fiorello H. La Guardia Comm College	2008.0	90.0
+42540	http://www.redjacket.org/	Manchester-Shortsville Central School  District	1997.0	2798.0
+42541	http://www.newarkcsd.org/site/default.aspx?PageID=1	Newark Central School District	2013.0	14.0
+42547	http://townofmarilla.com/	Marilla, Town of	2010.0	155.0
+42550	http://www.pelhammanor.org/	Pelham Manor, Village of	2001.0	375.0
+42554	http://www.townofniagara.com	Niagara, Town of	2001.0	60.0
+42556	http://www.upstate.edu/	State University of New York Health Science Center at Syracuse	2000.0	3348.0
+42558	http://www.vcsd.k12.ny.us/site/default.aspx?PageID=1	Valley-Montgomery  Central School District (Valley Central School District)	2011.0	22.0
+42560	http://www.stls.org/dundee	Dundee Library	2002.0	202.0
+42561	http://www.nypl.org/locations/sedgwick	Sedgwick Library	2010.0	1.0
+42562	http://totalwebgov.org/	Gardiner, Town of	2008.0	6.0
+42563	http://rochesterprep.uncommonschools.org/	TRUE NORTH ROCHESTER PREP CHARTER SCHOOL-WESt. CAMPUS	2011.0	170.0
+42564	http://lewiscountyny.org/content	Lewis, County of	2005.0	554.0
+42565	http://starrlibrary.org/	Starr Library	2004.0	54.0
+42567	http://fmschools.org	FAYETTEVILLE ELEMENTARY SCHOOL	2004.0	2352.0
+42570	http://townofpittsford.org/home-libraryport	Pittsford Community Library	2007.0	543.0
+42572	http://mcdonoughny.net	Mc Donough, Town of	2004.0	0.0
+42573	http://dreamschoolnyc.org	DREAM CHARTER SCHOOL	2008.0	112.0
+42574	http://www.canandaiguaschools.org/	Canandaigua City School  District	0.0	4423.0
+42576	http://ewsdonline.org	WHEATLEY SCHOOL	2001.0	7379.0
+42577	http://www.northbabylonschools.net/	North Babylon Union Free School  District	2007.0	268.0
+42578	http://www3.libraryweb.org/subpage.aspx?id=275	Arnett Branch Library	2012.0	517.0
+42581	http://www.belfast.wnyric.org/	BelfaSt. Central School District	1999.0	17.0
+42584	http://www.plandomeheights-ny.gov	Plandome Heights, Village of	2004.0	62.0
+42586	http://townofcopake.org/	Copake, Town of	2013.0	8500.0
+42587	http://www.villageofvernonny.org/page/page/8509301.htm	Vernon, Village of	2012.0	10.0
+42588	http://www.dos.ny.gov/	State, Department of	2011.0	1086.0
+42589	http://www.albanycounty.com/Home.aspx	Albany, County of	2013.0	767.0
+42590	http://www.pioneerschools.org/site/default.aspx?PageID=1	Pioneer Central School District  (Yorkshire-Pioneer Central School District)	2011.0	34.0
+42592	http://peninsulapublic.org/	Peninsula Public Library	2004.0	37.0
+42593	http://harborcharter.org	HARBOR SCIENCE AND ARTS CHARTER SCHOOL	0.0	391.0
+42595	http://orchardparkny.org/content	Orchard Park, Town of	2011.0	498.0
+42598	http://www.greatneckvillage.org	Great Neck, Village of	2003.0	13.0
+42601	http://www.townofaurora.com	Aurora, Town of	2002.0	42.0
+42603	http://town.danube.ny.us/content	Danube, Town of	2005.0	197.0
+42604	http://greenegovernment.com/	Greene, County of	2003.0	1037.0
+42606	http://www.villageofwarwick.org/villagehome.shtml	Warwick, Village of	2010.0	24.0
+42607	http://villageofpoland.org	Poland, Village of	2008.0	7.0
+42609	http://www.townofguilderland.org/	Guilderland, Town of	2001.0	104.0
+42611	http://www.albanypubliclibrary.org/locations/pinehills/index.php	Albany Public Library - Pine Hills Branch	2007.0	55.0
+42612	http://cityoffulton.sharepoint.com/Pages/default.aspx	Fulton, City of	2012.0	114.0
+42615	http://northshoreschools.org	GLEN HEAD ELEMENTARY SCHOOL	2008.0	190.0
+42617	http://elwoodlibrary.org/	Elwood Public Library	2009.0	23.0
+42618	http://rioc.ny.gov/	Roosevelt Island Operating Corporation of the State of New York	2010.0	20.0
+42619	http://middleburghcsd.org	MIDDLEBURGH HIGH SCHOOL	2011.0	103.0
+42620	http://wgcsd.org	WATKINS GLEN ELEMENTARY SCHOOL	2011.0	44.0
+42621	http://www.townofsouthport.com	Southport, Town of	2004.0	31.0
+42623	http://www.cefls.org/ticonderoga.htm	Black Watch Memorial Library, Ticonderoga	2001.0	171.0
+42626	http://www.newhartfordtown.com/	New Hartford, Town of	2008.0	146.0
+42629	http://www.nysba.ny.gov/	Bridge Authority, New York State	2013.0	34.0
+42630	http://www.nypl.org/locations/hamilton-grange	Hamilton Grange Library	2010.0	1.0
+42631	http://www.ci.cohoes.ny.us	Cohoes, City of	2000.0	267.0
+42632	http://www.newcombcsd.org/	Newcomb Central School District	1999.0	42.0
+42633	http://www.nypl.org/locations/morrisania	Morrisania Library	2010.0	1.0
+42634	http://www.townofhamburgny.com/	Hamburg, Town of	2000.0	45.0
+42636	http://www.waterloony.com/	Waterloo, Village of	1999.0	33.0
+42638	http://www.lavelleprep.org/	JOHN W LAVELLE PREPARATORY CHARTER SCHOOL	2013.0	668.0
+42639	http://www.bellmore.k12.ny.us/	Bellmore Union Free School District	1999.0	42.0
+42640	http://bhbl.org	FRANCIS L STEVENS ELEMENTARY SCHOOL	2000.0	90.0
+42641	http://www.fayettevilleny.gov/	Fayetteville, Village of	2007.0	38.0
+42644	http://www.sefanys.org/	State Employees Federated Appeal (SEFA)	2009.0	8.0
+42646	http://www.lloydharbor.org	Lloyd Harbor, Village of	2007.0	53.0
+42647	http://smithlibrary.org	Smith Memorial Library	2001.0	1.0
+42648	http://www.dasny.org/	Dormitory Authority	0.0	753.0
+42650	http://kenton.k12.ny.us	ALEXANDER HAMILTON ELEMENTARY SCHOOL	2000.0	87.0
+42651	http://www.steele.lib.ny.us/horseheads.htm	Horseheads Free Library	2000.0	208.0
+42653	http://www.health.ny.gov/	Health, Department of	2010.0	5614.0
+42654	http://midyorklib.org/newwoodstock/	New Woodstock Free Library	0.0	419.0
+42656	http://www.townofthurston.com	Thurston, Town of	2010.0	3389.0
+42657	http://www.rcls.org/	Ramapo Catskill Library System	1998.0	272.0
+42658	http://www.byronny.com	Byron, Town of	2002.0	24.0
+42659	http://villageoffonda.ny.gov/content	Fonda, Village of	2013.0	330.0
+42663	http://www.rensco.com/	Rensselaer, County of	1998.0	440.0
+42668	http://www.eastchesterlibrary.org	Eastchester Public Library	2004.0	83.0
+42670	http://www.villageofeasthills.org	EaSt. Hills, Village of	2000.0	11.0
+42672	http://www.uticapubliclibrary.org	Utica Public Library	2000.0	299.0
+42674	http://bemusptcsd.org	BEMUS POINT ELEMENTARY SCHOOL	2008.0	212.0
+42676	http://village.holland-patent.ny.us/content	Holland Patent, Village of	2005.0	113.0
+42677	http://www.mineola-ny.gov	Mineola, Village of	2003.0	115.0
+42678	http://www.nypl.org/locations/george-bruce	George Bruce Library	2010.0	1.0
+42680	http://elcsd.org/site/default.aspx?PageID=1	ELIZABETHTOWN-LEWIS CENTRAL SCHOOL	2013.0	12.0
+42681	http://www.ccs.edu/	Clinton Central School District	2001.0	5.0
+42682	http://www.briarcliffmanorlibrary.org	Briarcliff Manor Public Library	2004.0	134.0
+42685	http://www.frontier.wnyric.org/site/default.aspx?PageID=1	Frontier Central School District	2013.0	19.0
+42686	http://www.nypl.org/locations/castle-hill	Castle Hill Library	2010.0	1.0
+42688	http://www.locustvalleylibrary.org	LocuSt. Valley Library	2007.0	225.0
+42689	http://gufsd.org	GREENPORT ELEMENTARY SCHOOL	2009.0	225.0
+42690	http://www.villageofmanchester.org	Manchester, Village of	2004.0	25.0
+42691	http://townofhighlandny.com/	Highland, Town of	2010.0	6.0
+42695	http://www.fishkill-ny.gov	Fishkill, Town of	2003.0	270.0
+42696	http://www.greentechhigh.org/	GREEN TECH HIGH CHARTER SCHOOL	2007.0	458.0
+42697	http://www.oleanlibrary.org	Olean Public Library	2000.0	47.0
+42698	http://bwccs2.org	BEGINNING WITH CHILDREN CHARTER SCHOOL II	2011.0	12.0
+42699	http://midhudson.org/	Mid-Hudson Library System	1997.0	415.0
+42700	http://wantaghlibrary.org/	Wantagh Public Library	2004.0	170.0
+42702	http://townofleray.org	Le Ray, Town of	2007.0	33.0
+42704	http://www.williamstownlibrary.org	Williamstown Library	2007.0	400.0
+42705	http://hastingsgov.org/	Hastings-on-Hudson, Village of	2001.0	249.0
+42706	http://www.cityofglensfalls.com	Glens Falls, City of	2000.0	236.0
+42707	http://www.sunyrockland.edu	Rockland Community College	1997.0	5216.0
+42708	http://www.sunynassau.edu	Nassau Community College	1996.0	437.0
+42709	http://www.nypl.org/locations/tompkins-square	Tompkins Square Library	2010.0	1.0
+42710	http://www.albanypubliclibrary.org/locations/delaware/index.php	Albany Public Library - Delaware Branch	2007.0	54.0
+42711	http://vcsd.neric.org/	Voorheesville Central School District	1999.0	0.0
+42715	http://www.clayvillelibrary.org	Clayville Library Association	1998.0	1.0
+42717	http://southbristol.org/	South Bristol, Town of	2003.0	8.0
+42719	http://www.tivoliny.org	Tivoli, Village of	2002.0	22.0
+42721	http://www.gateslibrary.org	Gates Public Library	2000.0	5.0
+42722	http://townofroyalton.org/content	Royalton, Town of	2006.0	191.0
+42723	http://frewsburgcsd.org/	Frewsburg  Central School District	0.0	868.0
+42725	http://www.baruch.cuny.edu	CUNY Bernard M. Baruch College	1997.0	719.0
+42726	http://www.villageofholley.org	Holley, Village of	0.0	89.0
+42728	http://www.townofstanford.org/	Stanford, Town of	2007.0	32.0
+42729	http://www.bascs.org/	BUFFALO ACADEMY OF SCIENCE CHARTER SCHOOL	2003.0	800.0
+42730	http://gugcs.org	GROWING UP GREEN CHARTER SCHOOL	0.0	448.0
+42731	http://www.nypl.org/locations/schomburg	Schomburg Center For Research In Black Culture	2010.0	1.0
+42732	http://lpds-ny.schoolloop.com/	Lake Placid Central School District	2010.0	513.0
+42736	http://www.avocacsd.org/site/default.aspx?PageID=1	Avoca Central School District	2012.0	7.0
+42738	http://www.paveacademy.org/	PAVE ACADEMY CHARTER SCHOOL	2008.0	157.0
+42740	http://www.mufsd.com/	Mattituck-Cutchogue Union Free School  District	0.0	1059.0
+42745	http://www.oldwestbury.edu	State University of New York College at Old Westbury	1998.0	1651.0
+42746	http://cps.k12.ny.us	CARLE PLACE MIDDLE SENIOR HIGH SCHOOL	1997.0	145.0
+42747	http://www.blackriverny.org	Black River, Village of	2004.0	16.0
+42749	http://www.ntschools.org/site/default.aspx?PageID=1	North Tonawanda City School  District	2011.0	100.0
+42751	http://nyackschools.com	LIBERTY ELEMENTARY SCHOOL	2000.0	0.0
+42752	http://www.nypl.org/locations/fort-washington	Fort Washington Library	2010.0	1.0
+42753	http://www.ci.webster.ny.us/	Webster, Town of	1996.0	603.0
+42754	http://academyofthecity.org	ACADEMY OF THE CITY CHARTER SCHOOL	2011.0	18.0
+42756	http://www.portjerviscsd.k12.ny.us/	Port Jervis City School  District	1998.0	95.0
+42758	http://mylonglake.com/	Long Lake, Town of	2010.0	695.0
+42760	http://www.nypl.org/locations/van-nest	Van NeSt. Library	2010.0	1.0
+42763	http://moffatlibrary.org/	Moffat Library Of Washingtonville	2003.0	75.0
+42768	http://www.nypl.org/locations/woodstock	Woodstock Library	2010.0	1.0
+42769	http://www.jervislibrary.org	The Jervis Public Library Association, Inc.	2000.0	29.0
+42771	http://www.dobbsferrylibrary.org	Dobbs Ferry Public Library	2004.0	56.0
+42772	http://www.sccs.cnyric.org/index.php	SANDY CREEK HIGH SCHOOL	2007.0	31.0
+42773	http://shslib.blogspot.com/	Sharon Springs Free Library	2013.0	244.0
+42775	http://roxburycs.org	ROXBURY CENTRAL SCHOOL	2001.0	48.0
+42776	http://www.townofmanheim.org	Manheim, Town of	2003.0	33.0
+42778	http://www.cortland-co.org/towns/freetown.htm	Freetown, Town of	2002.0	2.0
+42779	http://www.villageofwebster.com	Webster, Village of	2001.0	80.0
+42781	http://www.poblib.org	Plainview-Old Bethpage Public Library	2008.0	406.0
+42782	http://midyorklib.org/ilion/	Ilion Free Public Library	0.0	769.0
+42783	http://www.onlib.org/web/locations_hours/branches/swcc.htm	SouthweSt. Community Center Library	2010.0	2.0
+42784	http://www.townofboston.com	Boston, Town of	2001.0	1287.0
+42785	http://www.nvcs.stier.org/	Newark Valley Central School District	1999.0	77.0
+42787	http://www.buffalolib.org/content/library-locations/area-libraries?lib=newstead+public+library	Newstead Public Library	2014.0	49.0
+42789	http://www.spackenkillschools.org/	Spackenkill  Union Free School District	2003.0	962.0
+42790	http://wellscsd.com/main/	Wells Central School District	2009.0	2277.0
+42791	http://www.stonycreekny.org	Stony Creek, Town of	0.0	15.0
+42793	http://www.cclslib.org/bemus/bemus.html	Bemus Point Public Library	1998.0	50.0
+42794	http://www3.libraryweb.org/subpage.aspx?id=355	Phillis Wheatley Community Library	2011.0	518.0
+42795	http://www.rotterdamny.org	Rotterdam, Town of	2002.0	26.0
+42796	http://woodlibrary.org	Wood Library Association	2002.0	48.0
+42797	http://merrick.k12.ny.us	NORMAN J LEVY LAKESIDE SCHOOL	0.0	2171.0
+42798	http://www.norwichnewyork.net	Norwich, City of	2001.0	45.0
+42799	http://www.pavilioncsd.org/	Pavilion Central School District	0.0	348.0
+42800	http://www.pleasantvilleschools.com/	Pleasantville Union Free  School District	0.0	842.0
+42801	http://www.albanyleadershiphigh.org/	ALBANY LEADERSHIP CHARTER HIGH SCHOOL FOR GIRLS	2010.0	644.0
+42804	http://www.townofwillsboro.com/	Willsboro, Town of	2012.0	50.0
+42805	http://bcsd.k12.ny.us/	Bethlehem Central School District	2001.0	596.0
+42806	http://southnyack.ny.gov	South Nyack, Village of	2013.0	197.0
+42810	http://www.hcks.org/	HAWTHORNE CEDAR KNOLLS SR/JR HIGH SCHOOL	2001.0	21.0
+42812	http://www.westportny.net	Westport, Town of	2001.0	161.0
+42815	http://www.arcade.pls-net.org	Arcade Free Library	1998.0	1.0
+42816	http://www.falconerschools.org/falconercsd/site/default.asp	Falconer Central School District	2007.0	1.0
+42818	http://townofhadley.org/content	Hadley, Town of	2008.0	216.0
+42819	http://www.galwaypubliclibrary.org	Galway Public Library	2003.0	811.0
+42820	http://www.gorham.pls-net.org	Gorham Free Library	1998.0	1.0
+42821	http://southbuffalocs.org/site/default.aspx?PageID=1	SOUTH BUFFALO CHARTER SCHOOL	2012.0	14.0
+42823	http://www.townofchili.org/	Chili, Town of	1999.0	1222.0
+42824	http://ww2.jamestownpublicschools.org/	Jamestown City School  District	2011.0	354.0
+42829	http://www.forestvilleny.com	Forestville, Village of	2001.0	0.0
+42832	http://www.fahariacademy.org/	FAHARI ACADEMY CHARTER SCHOOL	2009.0	116.0
+42833	http://www.guilderlandschools.org/	Guilderland Central School  District	2002.0	142.0
+42835	http://www.duanesburg.net/	Duanesburg, Town of	2002.0	7.0
+42836	http://www.clydesavannah.org/	Clyde Savannah Central School  District	0.0	544.0
+42837	http://towschool.org/site/default.aspx?PageID=1	TOWN OF WEBB SCHOOL	2013.0	25.0
+42838	http://bronxvillelibrary.org/	Bronxville Public Library	2002.0	250.0
+42840	http://townofmounthope.org/content/	Mount Hope, Town of	2011.0	186.0
+42841	http://www.gouverneurlibrary.org	Reading Room Association Of Gouverneur	2008.0	257.0
+42842	http://www.co.suffolk.ny.us/	Suffolk, County of	1998.0	2112.0
+42843	http://watervliet.com/welcome/	Watervliet, City of	2010.0	72.0
+42844	http://www3.libraryweb.org/subpage.aspx?id=348	Maplewood Community Library	2012.0	518.0
+42845	http://www.honeoye.org/	Honeoye Central School District	0.0	490.0
+42847	http://www.townofdarienny.com	Darien, Town of	2011.0	20.0
+42851	http://www.bathcsd.org/	Bath Central School District	2002.0	1028.0
+42852	http://www.tupperlakecsd.net/	Tupper Lake Central School District	1999.0	55.0
+42853	http://www.mechanicville.com/	Mechanicville, City of	2000.0	217.0
+42854	http://www.villageofpawling.org/	Pawling, Village of	2008.0	257.0
+42857	http://www.townofbethlehem.org/	Bethlehem, Town of	1998.0	697.0
+42858	http://www.hartwickny.org	Kinney Memorial Library	2001.0	324.0
+42860	http://www.hiltonny.org	Hilton, Village of	2000.0	31.0
+42861	http://www.argylecsd.org/?sectionid=2	Argyle Central School District	2014.0	0.0
+42862	http://www.fredonia.edu	State University of New York College at Fredonia	1996.0	2811.0
+42863	http://www.troopers.ny.gov/	State Police, Division of	2011.0	483.0
+42866	http://www.hhh.k12.ny.us/	OTSEGO ELEMENTARY SCHOOL	2005.0	736.0
+42868	http://www.buffalolib.org/content/library-locations/area-libraries?lib=central+%28downtown+buffalo%29	Central Library	2014.0	49.0
+42869	http://www.nypl.org/locations/riverdale	Riverdale Library	2010.0	1.0
+42871	http://www.buffaloschools.org/	Buffalo City School District	0.0	9268.0
+42873	http://townofchemung.com/content	Chemung, Town of	2010.0	0.0
+42875	http://www.dewlib.org	Dewitt Community Library Assoc., Inc	2007.0	49.0
+42876	http://www.dormannlibrary.org	Dormann Library	2004.0	62.0
+42879	http://www.humetown.org	Hume, Town of	2001.0	38.0
+42881	http://townofcolesville.org/content	Colesville, Town of	2006.0	211.0
+42883	http://www.townofmontgomery.com	Montgomery, Town of	2003.0	578.0
+42884	http://www.nypl.org/locations/bloomingdale	Bloomingdale Library	2010.0	1.0
+42886	http://www.townofoswego.com	Oswego, Town of	2001.0	126.0
+42888	http://www.watervillepl.org/	Waterville Public Library	0.0	379.0
+42889	http://towngranby.org/content	Granby, Town of	2006.0	210.0
+42890	http://www.townofchautauqua.com	Chautauqua, Town of	2005.0	19.0
+42892	http://www.southseneca.com/	South Seneca Central School District	2001.0	2.0
+42893	http://www.qcc.cuny.edu	Queensborough Community College	1998.0	353.0
+42895	http://www.nysenate.gov/	Senate, New York State	2009.0	26315.0
+42896	http://wp.teccs-ny.org/wp/	ETHICAL COMMUNITY CHARTER SCHOOL (THE)	2014.0	33.0
+42897	http://www.seaclifflibrary.org	Sea Cliff Village Library	2007.0	126.0
+42899	http://www.centralsquarelibrary.org	Central Square Library	2008.0	326.0
+42900	http://www.hilton.k12.ny.us/	Hilton Central School District	1998.0	288.0
+42901	http://www.poundridgelibrary.org	Pound Ridge Library District	2007.0	26.0
+42903	http://www.townofwales.com	Wales, Town of	2005.0	43.0
+42905	http://midyorklib.org/herkimer/	Frank J. Basloe Library Of Herkimer, New York	0.0	936.0
+42906	http://www.nypl.org/locations/yorkville	Yorkville Library	2010.0	1.0
+42907	http://www.elections.ny.gov/	Elections, Board of	2012.0	189.0
+42910	http://www.lcsd.k12.ny.us/lcsd/site/default.asp	Lansing Central School District	2009.0	1.0
+42912	http://www.watkinsglenlibrary.org	Watkins Glen Cen Sch Dis Free Pub Lib	2009.0	269.0
+42916	http://plattekill.lib.ny.us	Plattekill Public Library	2001.0	56.0
+42918	http://southworthlibrary.org	The Southworth Library Association	2004.0	40.0
+42919	http://www.cortland-co.org/towns/cuyler.htm	Cuyler, Town of	2002.0	2.0
+42920	http://www.brockport.k12.ny.us/	Brockport Central School District	0.0	1671.0
+42922	http://pmschools.org	BARTON ELEMENTARY SCHOOL	0.0	1336.0
+42923	http://www.gfjlibrary.org	George F. Johnson Memorial Library	2006.0	81.0
+42924	http://guttman.cuny.edu/index.html	CUNY Stella And Charles Guttman Community College	2013.0	102.0
+42925	http://www.newyorkmills.org/	New York Mills Union Free School  District	2002.0	27.0
+42927	http://www.cortlandville.org	Cortlandville, Town of	2002.0	842.0
+42929	http://townofskaneateles.com	Skaneateles, Town of	2000.0	129.0
+42930	http://www.villageoflakesuccess.com/index1.html	Lake Success, Village of	2000.0	52.0
+42931	http://www.hillburn.org/home/homepage.htm	Hillburn, Village of	2013.0	2.0
+42932	http://www.albanypubliclibrary.org/locations/arborhill-westhill/index.php	Albany Public Library - Arbor Hill-WeSt. Hill Branch	2010.0	54.0
+42934	http://sascs.org	SYRACUSE ACADEMY OF SCIENCE CHARTER SCHOOL	2001.0	444.0
+42936	http://clinton.lib.ny.us/	Clinton Community Library	2001.0	20.0
+42937	http://schools.nyc.org	SCHUYLERVILLE PREPARATORY HIGH SCHOOL	2007.0	3.0
+42938	http://www.villageofmillerton.com/	Millerton, Village of	2009.0	17.0
+42941	http://www.gardencitypl.org	Garden City Public Library	2005.0	847.0
+42942	http://www.pawlingschools.org/	Pawling Central School District	0.0	680.0
+42943	http://www.nypl.org/locations/96th-street	96th Street Library	2010.0	1.0
+42944	http://www.phoenixcsd.org/	Phoenix Central School District	2011.0	1318.0
+42945	http://www.jtcsd.org/	Jasper-Troupsburg  Central School District	2011.0	169.0
+42947	http://www.stls.org/richburg	Colonial Library	2003.0	202.0
+42948	http://www.hinsdalebobcats.org/hinsdale/site/default.asp	Hinsdale  Central School District	2008.0	1.0
+42951	http://www.nypl.org/locations/high-bridge	High Bridge Library	2010.0	1.0
+42952	http://townofhanover.org/content	Hanover, Town of	2006.0	292.0
+42954	http://www.chittenango.org/page/page/7933436.htm	Chittenango, Village of	2011.0	8.0
+42955	http://www.cortland-co.org/towns/lapeer.htm	Lapeer, Town of	2002.0	2.0
+42956	http://sacketsharborny.com/	Hounsfield, Town of	1999.0	386.0
+42958	http://www.sleepyhollowny.gov/	Sleepy Hollow, Village of	2008.0	1395.0
+42962	http://www.townofcortlandt.com/	Cortlandt, Town of	2001.0	569.0
+42964	http://www.dos.ny.gov/consumerprotection/	Consumer Protection, Division of	2011.0	67.0
+42965	http://schoharie.k12.ny.us	SCHOHARIE ELEMENTARY SCHOOL	1999.0	52.0
+42966	http://www.townofdix.com	Dix, Town of	2004.0	16.0
+42968	http://www.nunda.pls-net.org	Bell Memorial Library	2000.0	7.0
+42969	http://bradfordcsd.org	BRADFORD CENTRAL SCHOOL	2003.0	246.0
+42970	http://www.co.orange.ny.us/	Orange, County of	1998.0	1488.0
+42971	http://lakepleasantny.org/lp/	Speculator, Village of	2012.0	244.0
+42973	http://www.nypl.org/locations/mid-manhattan-library	Mid-Manhattan Library	2010.0	1.0
+42974	http://www.villageofhempstead.org	Hempstead, Village of	2000.0	558.0
+42978	http://www.frankfort-schuyler.org/page/1	Frankfort-Schuyler  Central School District	0.0	13.0
+42979	http://www.waverlyschools.com/	Waverly Central School District	2001.0	5.0
+42980	http://www.oklibrary.org	Kinderhook Memorial Library	2000.0	1140.0
+42982	http://lakegroveny.gov/	Lake Grove, Village of	2004.0	35.0
+42984	http://www.cayugacounty.us/portals/1/townofvictory/	Victory, Town of	2013.0	14.0
+42985	http://www.shelterislandtown.us/	Shelter Island, Town of	2003.0	68.0
+42986	http://www.vvsschools.org/	Vernon-Verona-Sherrill Central  School District	2009.0	5.0
+42987	http://www.townofbrighton.org	Brighton, Town of	1998.0	1083.0
+42988	http://www.monticelloschools.net/	Monticello Central School  District	2003.0	99.0
+42990	http://www.mcpl.lib.ny.us	Middle Country Public Library	1998.0	2.0
+42991	http://corinth.sals.edu	Corinth Free Library	2001.0	1.0
+42994	http://redjacket.pls-net.org	Red Jacket Community Library	2002.0	17.0
+42998	http://www.macedontown.net/s2/	Macedon, Town of	2013.0	14.0
+42999	http://town.bolton.ny.us	Bolton, Town of	2004.0	40.0
+43000	http://www.ocs.cnyric.org/	Onondaga Central School District	1998.0	850.0
+43001	http://www.hamiltoncounty.com/	Hamilton, County of	1998.0	40.0
+43002	http://www.uhls.org/	Upper Hudson Library System	1998.0	108.0
+43003	http://www.gilbertsvillefreelibrary.org	Gilbertsville Free Library	2008.0	11.0
+43004	http://www.nypl.org/locations/aguilar	Aguilar Library	2010.0	1.0
+43005	http://www.stls.org/hornell	Hornell Public Library	2003.0	202.0
+43006	http://www.townofpompey.com	Pompey, Town of	2004.0	68.0
+43007	http://www.tuckahoe.com	Tuckahoe, Village of	1998.0	57.0
+43008	http://www.libraryweb.org/erochester/	EaSt. Rochester Public Library	2001.0	5.0
+43009	http://www.schenectadycounty.com	Schenectady, County of	2000.0	1025.0
+43010	http://secsd.org	SHERBURNE-EARLVILLE ELEMENTARY SCHOOL	2003.0	22.0
+43011	http://www.victorny.org	Victor, Town of	2002.0	516.0
+43012	http://www.townofcanandaigua.org/	Canandaigua, Town of	2000.0	22.0
+43014	http://www.townofmurray.org	Murray, Town of	2007.0	31.0
+43015	http://www.buffalolib.org/content/library-locations/area-libraries?lib=collins++public+library	Collins Public Library	0.0	49.0
+43016	http://www.sunysullivan.edu	Sullivan County Community College	2003.0	336.0
+43020	http://www.townofrocklandny.com/	Rockland, Town of	2004.0	15.0
+43021	http://honeoye.pls-net.org	Honeoye Public Library	1998.0	15.0
+43022	http://www.jericholibrary.org	Jericho Public Library	2002.0	145.0
+43023	http://townofsullivan.org/content	Sullivan, Town of	2006.0	280.0
+43024	http://portjervisny.org/	Port Jervis, City of	1998.0	696.0
+43026	http://bataviacsd.org	BATAVIA HIGH SCHOOL	0.0	1017.0
+43027	http://www.townofconklin.org	Conklin, Town of	2004.0	26.0
+43028	http://www.nypl.org/locations/st-george-library-center	St. George Library Center	2010.0	1.0
+43029	http://scarsdaleschools.org/site/default.aspx?PageID=1	SCARSDALE SENIOR HIGH SCHOOL	2011.0	6.0
+43032	http://drevartslibrary.org/	D.R. Evarts Library	2011.0	68.0
+43033	http://www.nypl.org/locations/mulberry-street	Mulberry Street Library	2010.0	1.0
+43034	http://ecsli.org	EVERGREEN CHARTER SCHOOL	2011.0	17.0
+43035	http://www.townofunion.com	Union, Town of	2000.0	208.0
+43036	http://www.northportny.gov/	Northport, Village of	2009.0	41.0
+43037	http://www.goer.ny.gov/	Employee Relations, Governor's Office of	2010.0	62.0
+43038	http://www.easthamptonvillage.org	EaSt. Hampton, Village of	2002.0	20.0
+43040	http://www.lisbonny.net/library.htm	Hepburn Library Of Lisbon	2004.0	63.0
+43042	http://pleasantvalley-ny.gov/	Pleasant Valley, Town of	2008.0	48.0
+43045	http://newheightsacademy.org	NEW HEIGHTS ACADEMY CHARTER SCHOOL	2008.0	116.0
+43046	http://www.cohoctonny.com	Cohocton, Town of	2002.0	4927.0
+43049	http://town.new-windsor.ny.us	New Windsor, Town of	2001.0	1252.0
+43050	http://www.ameniany.gov	Amenia, Town of	2004.0	1687.0
+43053	http://www.ircsd.org/	Indian River Central School District	0.0	1450.0
+43054	http://www.northshore.k12.ny.us/	North Shore Central School  District	1996.0	145.0
+43057	http://www.lyndonvillecsd.org/	Lyndonville Central School District	0.0	492.0
+43058	http://www.cclslib.org/kennedy/	Kennedy Free Library	2002.0	5.0
+43063	http://www.seymourlibraryweb.org	Seymour Library	2008.0	1.0
+43064	http://www.townofrush.com/	Rush, Town of	2006.0	529.0
+43065	http://www.ramapocentral.org/	Ramapo  Central School District	2003.0	84.0
+43066	http://www.villageofangola.org	Angola, Village of	2007.0	15.0
+43067	http://www.flls.org/portbyron	Port Byron Library	2004.0	320.0
+43070	http://pvcsd.org	PUTNAM VALLEY HIGH SCHOOL	2004.0	86.0
+43072	http://www.tusten.org/	Tusten, Town of	2010.0	39.0
+43073	http://www.ecfsa.state.ny.us/	Erie County Fiscal Stability Authority	2006.0	19.0
+43074	http://town.trenton.ny.us/content	Trenton, Town of	2005.0	580.0
+43075	http://oneonta.ny.us/	Oneonta, City of	1998.0	156.0
+43076	http://www.agriculture.ny.gov/	Agriculture and Markets, Department of	2011.0	184.0
+43077	http://www.cliftonspringsny.org	Clifton Springs, Village of	2002.0	18.0
+43079	http://www.nypl.org/locations/58th-street	58th Street Library	2010.0	1.0
+43080	http://jamestown.wnyric.org	CARLYLE C RING ELEMENTARY SCHOOL	1998.0	4.0
+43081	http://www.rcs.k12.ny.us/	Romulus Central School District	0.0	737.0
+43083	http://www.midyorklib.org/Barneveld	Barneveld Free Library Association	0.0	9.0
+43085	http://www.cclslib.org/falconer/falconer/home.html	Falconer Public Library	2007.0	1.0
+43087	http://www.colonievillage.org	Colonie, Village of	2003.0	9.0
+43089	http://www.cortlandschools.org/	Cortland City School District	2000.0	237.0
+43090	http://www.nundany.org	Nunda, Village of	2006.0	5.0
+43091	http://www.parmany.org	Parma, Town of	2001.0	27.0
+43092	http://www.quoguelibrary.org	Quogue Library	2011.0	88.0
+43093	http://coneyislandprep.org	CONEY ISLAND PREPARATORY PUBLIC CHARTER SCHOOL	2009.0	52.0
+43094	http://www.hugedomains.com/domain_profile.cfm?d=ciceronewyork&e=com	Cicero, Town of	0.0	3182.0
+43095	http://www.wadsworthnylibrary.blogspot.com	Wadsworth Library	2013.0	106.0
+43097	http://www.nypl.org/locations/macombs-bridge	Macombs Bridge Library	2010.0	1.0
+43098	http://www.potsdamlibrary.org	Potsdam Public Library	2001.0	1.0
+43101	http://www.southoldufsd.net/	Southold Union Free School District	0.0	12.0
+43102	http://chufsd.org	CARRIE E TOMPKINS SCHOOL	2012.0	111.0
+43103	http://www.villageofnelsonville.org	Nelsonville, Village of	2000.0	2.0
+43105	http://www.peekskill.org	The Field Library	2001.0	474.0
+43108	http://www.cal-mum.com/library.htm	Caledonia Library Association	1999.0	549.0
+43109	http://www.steele.lib.ny.us/elmira_west.htm	WeSt. Elmira Library	1999.0	209.0
+43110	http://www.townofpoughkeepsie.com	Poughkeepsie, Town of	2002.0	34.0
+43112	http://www.nypl.org/locations/kingsbridge	Kingsbridge Library	2010.0	1.0
+43113	http://www.whiteplainspublicschools.org/site/default.aspx?PageID=1	GEORGE WASHINGTON SCHOOL	2011.0	147.0
+43114	http://www.yorktownlibrary.org	John C. Hart Memorial Library	2002.0	49.0
+43115	http://town.whitestown.ny.us/content	Whitestown, Town of	2005.0	435.0
+43116	http://www.monroecounty.gov	Monroe, County of	2001.0	6730.0
+43117	http://www.harrisoncsd.org/	Harrison Central School District	1999.0	6607.0
+43118	http://www.cfeagles.org/education/school/school.php?sectionid=2	Clifton-Fine  Central School District	2007.0	3.0
+43120	http://www.brooklyn.cuny.edu/web/home.php	City University of New York Brooklyn College	2012.0	2001.0
+43122	http://www.tonawandacsd.org/tonawandacsd/site/default.asp	Tonawanda City School District	2008.0	1.0
+43123	http://town.westmoreland.ny.us/content	Westmoreland, Town of	2005.0	323.0
+43124	http://bronxlabschool.org	BRONX LAB SCHOOL	2006.0	62.0
+43125	http://www.lilrc.org/	Long Island Library Resources Council	1997.0	191.0
+43129	http://townconstantia.org	Constantia, Town of	2005.0	33.0
+43132	http://ocfs.ny.gov/main/	Children and Family Services, Office of	2011.0	682.0
+43133	http://www.cclslib.org/busti/	Hazeltine Public Library	2002.0	24.0
+43134	http://www.cg.wnyric.org/site/default.aspx?PageID=1	Greenwood Central School District (Canisteo-Greenwood Central School  District)	2011.0	4.0
+43135	http://www.town.east-hampton.ny.us/	EaSt. Hampton, Town of	2000.0	55.0
+43136	http://www.irvingtonny.gov/	Irvington, Village of	2007.0	494.0
+43137	http://www.monroeny.org	Monroe, Town of	2001.0	940.0
+43138	http://www.canastotalibrary.org	Canastota Public Library	0.0	457.0
+43140	http://www.jjay.cuny.edu	City University of New York John Jay College of Criminal Justice	1997.0	2073.0
+43143	http://www.villageofdepew.org	Depew, Village of	2002.0	25.0
+43144	http://northville.mvls.info	Northville Public Library	2007.0	22.0
+43147	http://www.governor.ny.gov/	Governor's Office	2011.0	92.0
+43148	http://townofhastings.org	Hastings, Town of	2005.0	0.0
+43149	http://www.seaford.k12.ny.us/site/default.aspx?PageID=1	Seaford Union Free School District	2012.0	10.0
+43150	http://sc1881.org	KAPLAN CAREER ACADEMY	2002.0	30.0
+43151	http://www.brantny.com	Brant, Town of	2004.0	108.0
+43152	http://www.oecs.k12.ny.us/	Oppenheim-Ephratah  Central School District	1999.0	7.0
+43153	http://www.alfredstate.edu	SUNY College of  Technology at Alfred Wellsville Campus	2004.0	1660.0
+43154	http://catskillpubliclibrary.org/	Catskill Public Library Palenville Branch	2011.0	64.0
+43155	http://www.nyserda.org/	Energy Research and Development Authority	0.0	2660.0
+43156	http://www.westhamptonbeach.k12.ny.us/site/default.aspx?PageID=1	Westhampton Beach Union  Free School District	2011.0	156.0
+43157	http://www.putnamcountyny.com/	Putnam, County of	1999.0	648.0
+43158	http://www.niskayunaschools.org/	Niskayuna Central School District	0.0	108.0
+43159	http://hudsonfalls.sals.edu	Hudson Falls Free Library Association	2001.0	39.0
+43163	http://www.warsaw.pls-net.org	Warsaw Public Library	2000.0	1.0
+43164	http://dcs.neric.org/	Duanesburg Central  School District	2000.0	105.0
+43165	http://www.portchesterny.com/	Port Chester, Village of	1998.0	180.0
+43166	http://lml.online.org	LindenhurSt. Memorial Library	2011.0	1.0
+43167	http://www.co.livingston.state.ny.us/	Livingston, County of	1998.0	1102.0
+43168	http://www.brcsd.org	Beaver  River Central School District	2008.0	568.0
+43170	http://www.nyslocalgov.org/	Local Government Efficiency & Competitiveness, Commission on	2007.0	3.0
+43171	http://www.townofwestfield.org	Westfield, Town of	2006.0	21.0
+43174	http://www.holleylibrary.org	Community Free Library	2004.0	12.0
+43175	http://www.cortland-co.org/towns/truxton.htm	Truxton, Town of	2002.0	2.0
+43176	http://www.lisbonny.net	Lisbon, Town of	2004.0	63.0
+43177	http://amenialibrary.org/	Amenia Free Library	2013.0	15.0
+43179	http://www.flls.org/memberpages/spencer.htm	Spencer Library	2002.0	1.0
+43181	http://villageoforiskanyfalls.org/content	Oriskany Falls, Village of	2010.0	365.0
+43182	http://cityofjohnstown.ny.gov/	Johnstown, City of	2013.0	129.0
+43183	http://amityville.k12.ny.us	EDMUND W MILES MIDDLE SCHOOL	2008.0	114.0
+43184	http://www.hepburnlibraryofmadrid.org	Hepburn Library Of Madrid	2008.0	993.0
+43186	http://www.nypl.org/locations/tremont	Tremont Library	2010.0	1.0
+43188	http://www.labor.ny.gov/home/	Labor, Department of	2010.0	7.0
+43190	http://www.bodmanmemoriallibrary.org	Bodman Memorial Library	2011.0	752.0
+43192	http://www.eastiron.org/	EaSt. Irondequoit Central  School District	2011.0	1551.0
+43194	http://www.townoflafayette.com	La Fayette, Town of	2001.0	68.0
+43196	http://www.townofneversink.org/	Neversink, Town of	2007.0	67.0
+43197	http://www.westnyacklib.org/westnyack/	WeSt. Nyack Free Library	0.0	774.0
+43198	http://www.ellicottvillecentral.com/site/default.aspx?PageID=1	Ellicottville Central School  District	2012.0	5.0
+43199	http://www.onlib.org/web/locations_hours/branches/betts.htm	Betts Branch Library	2010.0	2.0
+43202	http://www.nypl.org/locations/new-amsterdam	New Amsterdam Library	2010.0	1.0
+43203	http://www.earlvillefreelibrary.org/	Earlville Free Library	2012.0	22.0
+43204	http://www.townoforleans.com	Orleans, Town of	2004.0	25.0
+43206	http://www.lowvillefreelibrary.org	Lowville Free Library	2008.0	370.0
+43207	http://www.tiogacountyny.com/	Tioga, County of	2001.0	979.0
+43209	http://myrml.org	Rogers Memorial Library	2002.0	457.0
+43212	http://www.dfsd.org/home.aspx	Dobbs Ferry Union Free School  District	0.0	90.0
+43213	http://www.unatego.org/	Unatego Central  School District	2005.0	84.0
+43216	http://www.unionvilleny.org/	Unionville, Village of	2001.0	11.0
+43217	http://lancasterny.gov/	Lancaster, Town of	2005.0	61.0
+43218	http://hainesfalls.lib.ny.us/	Haines Falls Free Library	2001.0	12.0
+43220	http://chathamnewyork.us/	Chatham, Town of	2004.0	38.0
+43223	http://www.catomeridian.org/	Cato-Meridian Central School District	2003.0	428.0
+43225	http://www.newcitylibrary.org	New City Free Library	1996.0	1777.0
+43228	http://www.fabiuspompey.org/	Fabius -  Pompey Central School District	2003.0	162.0
+43229	http://www.nypl.org/locations/hamilton-fish-park	Hamilton Fish Park Library	2010.0	1.0
+43230	http://www.stls.org/avoca	Avoca Free Library	2003.0	202.0
+43231	http://www.flls.org/memberpages/mara.htm	Peck Memorial Library	2002.0	1.0
+43232	http://www.cobleskill.edu	SUNY College of Agriculture And Technology at Cobleskill	1997.0	754.0
+43233	http://www.middleburghlibrary.blogspot.com	Middleburgh Library	2012.0	3.0
+43234	http://www.villageofoceanbeach.org/	Ocean Beach, Village of	2006.0	53.0
+43236	http://libraries.4cls.org/cherryvalley/	Cherry Valley Memorial Library	2010.0	3.0
+43237	http://www.ontario.pls-net.org	Ontario Public Library	2002.0	2.0
+43238	http://www.townofpittsford.com	Pittsford, Town of	2000.0	346.0
+43241	http://www.livonia.pls-net.org	Livonia Public Library	1998.0	1.0
+43242	http://veterans.ny.gov/content/operation-recognition-0	Operation Recognition	2014.0	88.0
+43244	http://www.oneidacsd.org	Oneida  City School District	2011.0	193.0
+43245	http://amanicharter.org	AMANI PUBLIC CHARTER SCHOOL	2010.0	33.0
+43246	http://www.nypl.org/locations/spuyten-duyvil	Spuyten Duyvil Library	2010.0	1.0
+43251	http://roundlake.sals.edu/	Womens Round Lake Improvement Society Lib	2007.0	582.0
+43253	http://www.delhischools.org/index.cfm	Delhi Central School District	0.0	314.0
+43255	http://www.esf.edu	State University of New York College of Environmental Science And Forestry at Syracuse	1996.0	2912.0
+43257	http://cals.cornell.edu/	New York State College of Agriculture And Life Sciences at Cornell	1997.0	391.0
+43258	http://www.townofporter.net/	Porter, Town of	2003.0	67.0
+43261	http://www.salinalibrary.org	Salina Free Library	2001.0	25.0
+43262	http://dpca.state.ny.us/	Probation and Correctional Alternatives, Division of	1999.0	224.0
+43263	http://www.chemungcounty.com/	Chemung, County of	1999.0	496.0
+43264	http://gloversvillelibrary.org/	Gloversville Public Library	2005.0	82.0
+43265	http://www.Cayugacounty.us/	Cayuga, County of	2003.0	601.0
+43266	http://beekmanlibrary.org/	Beekman Library	2000.0	17.0
+43269	http://villageofharrisvilleny.org/content	Harrisville, Village of	2008.0	163.0
+43270	http://www.nypl.org/locations/grand-central	Grand Central Library	2010.0	1.0
+43271	http://www.eram.k12.ny.us/education/components/scrapbook/default.php?sectionid=1	EaSt. Ramapo Central School District	2005.0	5.0
+43272	http://www.nypl.org/locations/edenwald	Edenwald Library	2010.0	1.0
+43274	http://www.malvernevillage.org/index.html	Malverne, Village of	2007.0	16.0
+43276	http://chatham.lib.ny.us	Chatham Public Library	2001.0	76.0
+43277	http://www.ontariotown.org	Ontario, Town of	2001.0	39.0
+43278	http://www.waterfordlibrary.net/	Waterford Public Library	2007.0	125.0
+43279	http://www.nypl.org/locations/wakefield	Wakefield Library	2010.0	1.0
+43280	http://www.nypl.org/locations/morris-park	Morris Park Library	2010.0	1.0
+43281	http://www.townofcatskillny.gov	Catskill, Town of	2004.0	62.0
+43291	http://findleylakelibrary.weebly.com/	Findley Lake Community Library	2011.0	24.0
+43293	http://esopuslibrary.org/	Town Of Esopus Port Ewen Library	2000.0	13.0
+43295	http://www.townofgreenport.com	Greenport, Town of	2005.0	80.0
+43297	https://www.villageofnewark.com/	Newark, Village of	2004.0	96.0
+43298	http://sherburnelibraryny.org	Sherburne Public Library	2008.0	6.0
+43299	http://libraries.4cls.org/oxford/	Oxford Memorial Library	2009.0	0.0
+43300	http://www.cefls.org/ellenburgcenter.htm	Ellenburg Center Reading Center	2001.0	171.0
+43302	http://www.asharoken.com/	Asharoken, Village of	2003.0	3.0
+43304	http://www.brewsterlibrary.org	Brewster Public Library	1999.0	18.0
+43305	http://southseneca.org	SOUTH SENECA ELEMENTARY SCHOOL	2013.0	110.0
+43311	http://brownsvillecollegiate.uncommonschools.org/	BROWNSVILLE COLLEGIATE  CHARTER SCHOOL	2011.0	77.0
+43316	http://austerlitzny.com/	Austerlitz, Town of	2003.0	84.0
+43318	http://cassadaga.ny.schoolwebpages.com/education/district/district.php?sectionid=1	Cassadaga Valley Central School District	2007.0	87.0
+43319	http://www.bigflatsny.gov/	Big Flats, Town of	2003.0	1464.0
+43322	http://ccsd.ws	DOUGLAS G GRAFFLIN SCHOOL	0.0	2166.0
+43325	http://town.williamson.ny.us	Williamson, Town of	2004.0	21.0
+43327	http://www.tbcsc.org/english	BRONX CHARTER SCHOOL FOR CHILDREN	2010.0	68.0
+43330	http://www.clifton.pls-net.org	Clifton Springs Library	1999.0	1.0
+43331	http://www.hamdenny.com/	Hamden, Town of	2000.0	7.0
+43334	http://www.cortland-co.org/towns/virgil.htm	Virgil, Town of	2002.0	0.0
+43335	http://villageoflindenhurst.com	Lindenhurst, Village of	2001.0	88.0
+43337	http://www.rcls.org/blb/	Town Of Mamakating Library District	1999.0	0.0
+43338	http://www.brcs.wnyric.org/	Bolivar-Richburg  Central School District	0.0	1359.0
+43339	http://www.valatielibrary.net/	Valatie Free Library	2012.0	0.0
+43340	http://townoffine.org/content	Fine, Town of	2006.0	497.0
+43341	http://www.hwpl.org	Hewlett-Woodmere Public Library	2005.0	810.0
+43342	http://www.alden.wnyric.org/	Alden Central School District	0.0	1043.0
+43344	http://mamakatinglibrary.org/	Mamakating Library	2013.0	88.0
+43346	http://www.buffalolib.org/content/library-locations/area-libraries?lib=riverside+branch	Riverside Branch Library	2014.0	49.0
+43347	http://www.johnstownpubliclibrary.info/	Johnstown Public Library	2009.0	5.0
+43348	http://www.saratoga-springs.org/	Saratoga Springs, City of	1999.0	3326.0
+43354	https://mail.watervillecsd.org/owa/auth/logon.aspx?url=https://mail.watervillecsd.org/owa/&reason=0	MEMORIAL PARK ELEMENTARY SCHOOL	0.0	1.0
+43355	http://www.tax.ny.gov/	Taxation and Finance, Department of	2010.0	1470.0
+43356	http://wboro.org/site/default.aspx?PageID=1	MARCY ELEMENTARY SCHOOL	2014.0	16.0
+43357	http://www.lewisborolibrary.org	Lewisboro Library	2008.0	21.0
+43359	http://www.lansingburgh.org/	Lansingburgh  Central School District	2000.0	76.0
+43360	http://www.redhook.org	Red Hook, Town of	1998.0	153.0
+43361	http://www.esopus.com/	Esopus, Town of	2000.0	435.0
+43363	http://eastrockawayschools.org	RHAME AVENUE ELEMENTARY SCHOOL	2002.0	845.0
+43364	http://www.oldbrookville.net	Old Brookville, Village of	2004.0	15.0
+43366	http://greenwich.sals.edu	Greenwich Free Library	0.0	2.0
+43369	http://www.plandomevillage.com	Plandome, Village of	2001.0	3.0
+43371	http://www.villageofroslynestates.com	Roslyn Estates, Village of	2004.0	252.0
+43372	http://mx.pancent.org	PANAMA K-6 SCHOOL	2010.0	3.0
+43373	http://www.ramapo.org/	Ramapo, Town of	1998.0	82.0
+43378	http://stanfordlibrary.org	Stanford Free Library	2001.0	90.0
+43379	http://www.otsegocounty.com	Otsego, County of	1999.0	61.0
+43380	http://town.conesus.ny.us/content	Conesus, Town of	2005.0	474.0
+43382	http://www.ogs.ny.gov/	General Services, Office of	2011.0	339.0
+43383	http://www.tuckahoeschools.org/	Tuckahoe Union Free School  District	2004.0	14.0
+43386	http://www.sunyit.edu	SUNY Institute of Technology at Utica/Rome	1997.0	2800.0
+43387	http://www.cwc-newyork.org/	CITIZENS OF THE WORLD CHARTER SCHOOL 1	2014.0	21.0
+43391	http://www.villageofgouverneur.org	Gouverneur, Village of	2004.0	21.0
+43392	http://www.warwickvalleyschools.com/	Warwick Valley Central School  District	1997.0	147.0
+43393	http://www.franklinsquarepl.org/	Franklin Square Public Library	2008.0	241.0
+43394	http://www.madisoncounty.org/	Madison, County of	1999.0	147.0
+43395	http://blindbrook.org/site/default.aspx?PageID=1	BRUNO M PONTERIO RIDGE STREET SCHOOL	2013.0	6.0
+43397	http://www.northhornell.com	North Hornell, Village of	2007.0	63.0
+43400	http://villageofremsen.org/content	Remsen, Village of	2005.0	124.0
+43401	http://nycmcs.org	NEW YORK CITY MONTESSORI CHARTER SCHOOL	2011.0	21.0
+43402	http://www.keene-keenevalley.com/town/town_of_keene.htm	Keene, Town of	2002.0	7.0
+43403	http://www.putnamvalley.com/	Putnam Valley, Town of	2001.0	163.0
+43406	http://www.hillsidelibrary.info/	Hillside Public Library Of New Hyde Park	2013.0	149.0
+43407	http://www.newhartfordpubliclibrary.org	New Hartford Public Library	2002.0	306.0
+43409	http://www3.libraryweb.org/subpage.aspx?id=351	Monroe Branch Library	2012.0	494.0
+43410	http://www.bville.org	Baldwinsville Central  School District	2001.0	762.0
+43411	http://www.oswegony.org/	Oswego, City of	1999.0	92.0
+43414	http://www3.libraryweb.org/subpage.aspx?id=359	Sully Branch Library	2012.0	502.0
+43416	http://www.edencsd.org/edencsd/site/default.asp	Eden Central School District	2007.0	1.0
+43418	http://www.oswego.edu	State University of New York College at Oswego	1997.0	3774.0
+43422	http://www.bellerosevillage.org	Bellerose, Village of	2002.0	42.0
+43424	http://www.steubencony.org/	Steuben, County of	1999.0	697.0
+43426	http://www.smithtownny.gov/	Smithtown, Town of	2012.0	655.0
+43428	http://www.buffalolib.org/content/library-locations/area-libraries?lib=audubon+branch	Audubon Branch	2014.0	49.0
+43429	http://www.greenburgh-graham.org/home	Greenburgh-Graham Union Free School   District	2010.0	30.0
+43430	http://hmloneonta.org	Huntington Memorial Library	2007.0	181.0
+43431	http://www.munseypark.org	Munsey Park, Village of	1999.0	65.0
+43432	http://www.sherrillkenwoodlibrary.org/	Sherrill-Kenwood Free Library	2011.0	14.0
+43433	http://www.nypl.org/locations/riverside	Riverside Library	2010.0	1.0
+43434	http://www.rondout.k12.ny.us/	Rondout  Valley Central School District	1999.0	612.0
+43435	http://www.southamptonschools.org/	Southampton Union Free School  District	0.0	778.0
+43436	http://www.windsorny.org	Windsor, Town of	2007.0	62.0
+43437	http://www.village.fairport.ny.us/	Fairport, Village of	2000.0	41.0
+43438	http://kippny.org	KIPP ACADEMY CHARTER SCHOOL	2002.0	50.0
+43439	http://www.townofnorthumberland.org/	Northumberland, Town of	2001.0	79.0
+43444	http://www.ellicottville-newyork.com	Ellicottville, Town of	2006.0	7.0
+43445	http://www.senecafalls.com	Seneca Falls, Village of	1999.0	738.0
+43447	http://www.southamptontownny.gov/	Southampton, Town of	2008.0	1302.0
+43451	http://www.lewisborogov.com/	Lewisboro, Town of	2001.0	1236.0
+43453	http://youngstownnewyork.us/	Youngstown, Village of	2002.0	18.0
+43454	http://www.cefls.org/malone.htm	Wead Library, Malone	2001.0	171.0
+43457	http://www.northcolonie.org/	Maplewood Common School District (North Colonie  Central School District)	0.0	85.0
+43458	http://www.nypl.org/locations/battery-park-city	Battery Park City Library	2010.0	1.0
+43459	http://www.oswegopubliclibrary.org	Oswego School District Public Library	2004.0	2449.0
+43460	http://www.oneidacity.com	Oneida, City of	2000.0	1524.0
+43461	http://www.franklinvilleny.org	Franklinville, Town of	2003.0	8.0
+43462	http://www.townofjewett.com	Jewett, Town of	2002.0	161.0
+43463	http://www.middlecountry.k12.ny.us/	Middle Country Central School  District	0.0	627.0
+43465	http://tuckahoecommonsd.com/welcome.php?ActiveYear=2013/2014	TUCKAHOE SCHOOL	2013.0	1065.0
+43466	http://www.4cls.org/webpages/members/lisle/index.html	Lisle Free Library	2002.0	4.0
+43467	http://romenewyork.com/	Rome, City of	2000.0	560.0
+43469	http://www.stamfordny.com	Stamford, Village of	1998.0	8.0
+43471	http://www.abewing.org/	Abraham Wing School (Glens Falls  Common School)	2012.0	9.0
+43472	http://www.iroquoiscsd.org/site/default.aspx?PageID=1	Iroquois Central School District	2012.0	67.0
+43473	http://www.nypl.org/locations/south-beach	South Beach Library	2010.0	1.0
+43477	http://www.villageofbergen.com	Bergen, Village of	2003.0	51.0
+43480	http://www.cortland-co.org/	Cortland, County of	1999.0	456.0
+43481	http://www.hkdpl.org	Haverstraw Kings Daughters Public Library - Village Branch	2002.0	28.0
+43482	http://www.eastgreenbushlibrary.org	EaSt. Greenbush Community Library	2001.0	616.0
+43484	http://www.albany.edu	State University of New York at Albany	1996.0	2616.0
+43485	http://rhnet.org	ETHEL K FYLE ELEMENTARY SCHOOL	0.0	2270.0
+43488	http://www.hpl.org	Henrietta Public Library	2000.0	78.0
+43492	http://www.townofbolivar.com	Bolivar, Town of	2011.0	25.0
+43493	http://www.buffalolib.org/content/library-locations/area-libraries?lib=eden+library	Eden Library	2014.0	49.0
+43494	http://cityoflittlefalls.net	Little Falls, City of	2003.0	81.0
+43495	http://stillwater.sals.edu	Stillwater Free Library	2001.0	29.0
+43497	http://www.nypl.org/locations/115th-street	115th Street Library	2010.0	1.0
+43498	http://www.villageofgreenwoodlake.org	Greenwood Lake, Village of	2002.0	82.0
+43499	http://www.urbanchoicecharter.org/	URBAN CHOICE CHARTER SCHOOL	2005.0	1548.0
+43501	http://www.charterschoolofeducationalexcellence.org/	CHARTER SCHOOL OF EDUCATIONAL EXCELLENCE	2010.0	40.0
+43502	http://www.wyomingco.net/	Wyoming, County of	2003.0	5.0
+43504	http://www.villageofbuchanan.com	Buchanan, Village of	2006.0	81.0
+43507	http://www.ypl.org	Yonkers Public Library	2001.0	213.0
+43508	http://www.cortland-co.org/towns/scott.htm	Scott, Town of	2003.0	2.0
+43509	http://www.nypl.org/locations/west-farms	WeSt. Farms Library	2010.0	1.0
+43512	http://www.flls.org/	Finger Lakes Library System	1998.0	313.0
+43513	http://hillsdaleny.com/	Hillsdale, Town of	2002.0	706.0
+43516	https://ticsd.org/owa/auth/logon.aspx?url=https://ticsd.org/owa/&reason=0	GUARDINO ELEMENTARY SCHOOL	0.0	1.0
+43518	http://mayfieldny.org/content	Mayfield, Town of	2005.0	528.0
+43519	http://www.smithlib.org	Smithtown Special Library District	2001.0	417.0
+43521	http://www.elmiraheights.org	Elmira Heights, Village of	2007.0	1492.0
+43523	http://southoldufsd.com	SOUTHOLD ELEMENTARY SCHOOL	2013.0	2.0
+43524	http://www.gaming.ny.gov/	New York State Gaming Commission	2013.0	44.0
+43526	http://www.cclslib.org/fluvanna/	Fluvanna Free Library	2003.0	62.0
+43528	http://villageofotisville.com/content	Otisville, Village of	2010.0	184.0
+43529	http://www.somerslibrary.org/somers/	Somers Library	2013.0	86.0
+43530	http://www.lew-port.com/site/default.aspx?PageID=1	Lewistown-Porter Central School District	2012.0	95.0

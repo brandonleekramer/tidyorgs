@@ -1,0 +1,686 @@
+NodeId	NodeURL	NodeName	Year	pages
+10867	http://www.townofeasthavenct.org	East Haven	2008.0	81.0
+10868	http://www.prestonlibrary.org	Preston Public Library	2001.0	19.0
+10869	http://clintonct.org/	Clinton	2007.0	27.0
+10870	http://www.windsorlibrary.com	Windsor Public Library	2001.0	46.0
+10871	http://www.danbury.k12.ct.us/dhsweb/main/	DANBURY School	2001.0	17.0
+10872	http://www.rhamhs.reg8.k12.ct.us/	REGIONAL SCHOOL DISTRICT 08 (Andover, Hebron, Marlborough) School	2003.0	160.0
+10874	http://ww2.watertownctschools.org/whs/index.html	WATERTOWN School	0.0	1.0
+10876	http://www.hamden.org/page.cfm?p=1494	HAMDEN School	2012.0	1457.0
+10877	http://newtown.k12.ct.us/	NEWTOWN School	1999.0	411.0
+10878	http://bridgewaterct.com/	Bridgewater	2001.0	309.0
+10880	http://www.marlborough.k12.ct.us	MARLBOROUGH School	2000.0	115.0
+10881	http://www.townofstratford.com/	Stratford	2000.0	767.0
+10882	http://www.biblio.org/roxbury/	Minor Memorial Library	2001.0	21.0
+10883	http://www.twnlyme.org/	Lyme	2004.0	39.0
+10884	http://www.hamden.org/page.cfm?p=1386	HAMDEN School	2012.0	1363.0
+10888	http://eliwhitney.stratfordk12.org/	STRATFORD School	2009.0	94.0
+10889	http://www.windham.k12.ct.us/	WINDHAM School	1998.0	263.0
+10890	http://www.cttech.org/prince/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	147.0
+10891	http://ci.new-london.ct.us	New London	2001.0	448.0
+10892	http://www.electronicvalley.org/shelton/index.html	Shelton	1999.0	101.0
+10894	http://www.salemct.gov/	Salem	2003.0	114.0
+10895	http://www.berlinschools.org/subsite/ehws	BERLIN School	2011.0	2263.0
+10896	http://www.ellington-ct.gov/Plugs/homepage.aspx	Ellington	2011.0	247.0
+10898	http://www.stoningtonfreelibrary.org	Stonington Free Library	1999.0	42.0
+10899	http://www.avon.k12.ct.us/avonmiddle/	AVON School	2001.0	0.0
+10900	http://www.washingtonct.org	Washington	2002.0	2105.0
+10901	http://www.ci.guilford.ct.us/	Guilford	2000.0	208.0
+10902	http://bportlibrary.org/newfield/	Newfield Branch Library	2010.0	2.0
+10904	http://www.brooklyntownlibrary.org	Brooklyn Town Library Association	2011.0	21.0
+10905	http://www.ct.gov/ecd/site/default.asp	Economic and Community Development, Department of	2003.0	2.0
+10906	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=11	BRIDGEPORT School	2002.0	6.0
+10908	http://www.warrenct.com	Warren Public Library	2003.0	13.0
+10914	http://www.norwalkct.org	Norwalk	2001.0	1993.0
+10915	http://www.qvcc.commnet.edu/	Quinebaug Valley Community College	2000.0	581.0
+10917	http://www.middlebury-ct.org/Pages/default.aspx	Middlebury	2012.0	94.0
+10919	http://www.greenwichschools.org/page.cfm?p=8	GREENWICH School	2007.0	105.0
+10920	http://www.ct.gov/ltcop/site/default.asp	Long Term Care Ombudsman Program	2007.0	4.0
+10922	http://www.groton-ct.gov/library/	Groton Public Library	2011.0	27.0
+10924	http://www.northcanaan.org/	North Canaan	2007.0	10.0
+10927	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=343	BRIDGEPORT School	2002.0	5.0
+10928	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=342	BRIDGEPORT School	2002.0	5.0
+10929	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=341	BRIDGEPORT School	2002.0	6.0
+10930	http://www.vernon-ct.gov/	Vernon	2008.0	178.0
+10931	http://www.ct.gov/dcs/site/default.asp	Construction Services, Department of	2012.0	2.0
+10933	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=345	BRIDGEPORT School	2002.0	6.0
+10934	http://www.cityofmeriden.org	Meriden	1999.0	397.0
+10936	http://www.westhavenpl.org	West Haven Public Library	2003.0	1.0
+10937	http://www.andoverct.org	Andover Public Library	2004.0	18.0
+10938	http://www.sde.ct.gov/sde/site/default.asp	Department of Education	2006.0	7.0
+10939	http://www.ct.gov/jrc/site/default.asp	Judicial Review Council	2007.0	2.0
+10940	http://www.kentmemoriallibrary.org	Kent Library Association	2001.0	71.0
+10941	http://www.beekleylibrary.org	Licia Mason Beekley Community Library	2007.0	44.0
+10942	http://www.ct.gov/dcf/site/default.asp	Children and Families, Department of	2006.0	2.0
+10943	http://www.ctstatelibrary.org/	Library, Connecticut State	2012.0	13632.0
+10944	http://www.law.uconn.edu	School of Law	1997.0	1439.0
+10945	http://sajohnson.stratfordk12.org	STRATFORD School	2009.0	86.0
+10946	http://www.stonington-ct.gov	Stonington	2005.0	3280.0
+10947	http://www.osc.ct.gov/	State Comptroller	2011.0	234.0
+10948	http://www.rhamms.reg8.k12.ct.us/	REGIONAL SCHOOL DISTRICT 08 (Andover, Hebron, Marlborough) School	2004.0	67.0
+10949	http://www.swindsor.k12.ct.us/uploaded/404.html	SOUTH WINDSOR School	2014.0	1.0
+10950	http://www.ct.gov/oca/site/default.asp	Child Advocate, Office of the	2004.0	4.0
+10951	http://www.newingtonct.gov/	Newington	2007.0	1666.0
+10952	http://www.ctreg14.org/searchresults.cfm?keywords=nhs&fields=name,keywords	REGIONAL SCHOOL DISTRICT 14 (Bethlehem, Woodbury) School	0.0	712.0
+10953	http://www.newmilfordps.org/subsite/sis	NEW MILFORD School	2012.0	1252.0
+10954	http://www.ct.edu/	Regents for Higher Education, Board of	2000.0	255.0
+10957	http://www.ct.gov/opapd/site/default.asp	Disabilities, Office of Protection and Advocacy for Persons with	2004.0	12.0
+10958	http://www.ct.gov/drs/site/default.asp	Department of Revenue Services	2004.0	2.0
+10959	http://www.brainerdlibrary.lioninc.org	Brainerd Memorial Library	2005.0	15.0
+10960	http://www.cga.ct.gov/olr/	Office of Legislative Research	2004.0	72.0
+10961	http://www.ci.glastonbury.ct.us/	Glastonbury	2001.0	2650.0
+10963	http://www.huntlibrary.org/	David M. Hunt Library	2010.0	21.0
+10964	http://www.ct.gov/demhs/site/default.asp	Office of Emergency Management	2005.0	5.0
+10965	http://www.rockvillehighschool.org/	VERNON School	2000.0	277.0
+10968	http://states.ng.mil/sites/ct/Pages/Default.aspx	Connecticut National Guard	2010.0	8.0
+10969	http://www.cttech.org/goodwin/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	110.0
+10972	http://www.westbrookct.us/	Westbrook	2002.0	3.0
+10977	http://bakervillelibrary.org/	Bakerville Library, Inc.	2002.0	39.0
+10978	http://www.madisonct.org/	Madison	2001.0	52.0
+10979	http://www.danielhand.org/page.cfm?p=442	MADISON School	2010.0	1786.0
+10981	http://www.ct.gov/ceq/site/default.asp	Environmental Quality, Council on	2002.0	2.0
+10982	http://www.waterfordct.org/	Waterford	2001.0	59.0
+10984	http://www.swindsor.k12.ct.us/uploaded/404.html	SOUTH WINDSOR School	2014.0	1.0
+10985	http://www.townofnorthbranfordct.com	North Branford	2000.0	65.0
+10986	http://www.marlboroughct.com/	Marlborough	2001.0	206.0
+10987	http://www.columbiact.org/	Columbia	2001.0	527.0
+10988	http://www.newfairfieldlibrary.org/	New Fairfield Free Public Library	2004.0	16.0
+10991	http://www.greenwichschools.org/page.cfm?p=15	GREENWICH School	2008.0	2255.0
+10992	http://www.wlps.org/wms/	WINDSOR LOCKS School	2006.0	7467.0
+10994	http://www.haddam.org/	Haddam	2000.0	34.0
+10995	http://norfolklibrary.org/	Norfolk Library	2001.0	87.0
+10996	http://www.darienps.org/oxridge/	DARIEN School	2004.0	1.0
+10997	http://www.asnuntuck.edu/	Asnuntuck Community College	2012.0	592.0
+10998	http://www.southernct.edu	Southern Connecticut State University	1999.0	1362.0
+10999	http://www.governor.ct.gov/malloy/site/default.asp	Governor	2011.0	2.0
+11001	http://www.mcc.commnet.edu	Manchester Community College	2000.0	164.0
+11003	http://www.franklinschoolct.org	FRANKLIN School	0.0	1.0
+11004	http://www.ct.gov/dob/site/default.asp	Banking, Department of	2005.0	2.0
+11005	http://www.granby-ct.gov/	Granby	2004.0	207.0
+11007	http://www.cttech.org/whitney/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	133.0
+11011	http://www.cga.ct.gov/	State Legislature	2004.0	12300.0
+11012	http://www.ct.gov/deep/site/default.asp	Department of Environmental Protection	2011.0	2.0
+11014	http://www.monroect.org	Monroe	2005.0	176.0
+11015	http://douglaslibrary.org/	Douglas Library Of Hebron	1999.0	53.0
+11018	http://www.waterburyct.org/content/9567/15033.aspx?aspxerrorpath=/content/458/4000/589/default.aspx	Waterbury Health Department	0.0	6.0
+11019	http://www.cantonschools.org/chs/	CANTON School	2000.0	20.0
+11020	http://www.simsburylibrary.info	Simsbury Public Library	2004.0	63.0
+11023	http://www.fairfieldct.org	Fairfield	2000.0	676.0
+11024	http://www.avon.k12.ct.us/thompsonbrook/	AVON School	2001.0	0.0
+11025	http://www.newfairfield.org/	New Fairfield	2000.0	737.0
+11026	http://bridgeport.ct.schoolwebpages.com/education/admin/default.php?js_check=ok&redirect=1&section=4&detail=	BRIDGEPORT School	0.0	3.0
+11027	http://www.ct.gov/ssmf/site/default.asp	Soldiers, Sailors and Marines Fund	2006.0	13.0
+11028	http://www.hotchkisslibrary.org/home.aspx	Hotchkiss Library	2011.0	0.0
+11030	http://www.region18.org/page.cfm?p=101	REGIONAL SCHOOL DISTRICT 18 (Lyme, Old Lyme) School	2008.0	447.0
+11031	http://www.brookfieldlibrary.org/	The Brookfield Library	2001.0	147.0
+11032	http://www.blmfld.org/page.cfm?p=3952	BLOOMFIELD School	2012.0	769.0
+11034	http://www.willingtonct.org/	Willington	2001.0	153.0
+11035	http://www.portlandlibraryct.org	Portland Public Library	2004.0	154.0
+11036	http://www.nwcc.commnet.edu	Northwestern Connecticut Community College	2001.0	85.0
+11037	http://www.watertownct.org/	Watertown	2001.0	283.0
+11038	http://www.avonctlibrary.info	Avon Free Public Library	2004.0	77.0
+11039	http://www.ct.gov/chro/site/default.asp	Human Rights and Opportunities, Commission on	2007.0	13.0
+11040	http://www.townofkillingworth.com/	Killingworth	2009.0	45.0
+11042	http://www.town.wallingford.ct.us	Wallingford	2001.0	124.0
+11043	http://www.coventryct.org	Coventry	2000.0	1005.0
+11045	http://www.polsonmiddleschool.org/page.cfm?p=76	MADISON School	2010.0	1924.0
+11046	http://www.ct.gov/ag/site/default.asp	Attorney General, Office of the State	2005.0	2.0
+11047	http://www.north-haven.k12.ct.us/	NORTH HAVEN School	1998.0	275.0
+11051	http://www.greenwichct.org	Greenwich	2000.0	1491.0
+11052	http://www.andoverelementary.com/	ANDOVER School	2000.0	313.0
+11053	http://www.sterlingct.us	Sterling	2005.0	204.0
+11054	http://www.darienps.org/hindley/	DARIEN School	2004.0	2.0
+11058	http://www.region18.org/page.cfm?p=523	REGIONAL SCHOOL DISTRICT 18 (Lyme, Old Lyme) School	2008.0	476.0
+11059	http://www.lebanontownhall.org/	Lebanon	2005.0	4820.0
+11061	http://chapelstreet.stratfordk12.org/	STRATFORD School	2009.0	116.0
+11065	http://www.rockyhillps.us/	ROCKY HILL School	2002.0	2.0
+11066	http://www.amityregion5.org	REGIONAL SCHOOL DISTRICT 05 (Bethany, Orange, Woodbridge) School	1998.0	1411.0
+11070	http://tunxis.edu/	Tunxis Community College	2012.0	1692.0
+11072	http://fairfieldpubliclibrary.org/	Fairfield Public Library	2000.0	1409.0
+11073	http://www.enfield-ct.gov/content/91/109/5402.aspx	Enfield Public Library	2007.0	0.0
+11074	http://www.platths.com/	MERIDEN School	1999.0	238.0
+11075	http://www.simsbury.k12.ct.us/page.cfm?p=159	SIMSBURY School	2007.0	908.0
+11076	http://www.newbritainct.gov/	New Britain	2010.0	1968.0
+11079	http://www.townofdurhamct.org	Durham	2003.0	1292.0
+11080	http://www.cttech.org/ellis/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	96.0
+11081	http://www.ctinnovations.com/	Department of Economic and Community Development: Connecticut Innovations Inc.	1998.0	392.0
+11082	http://www.munic.state.ct.us/hartland/library.htm	Hartland Public Library	2004.0	27.0
+11083	http://www.suffieldtownhall.com	Suffield	1999.0	218.0
+11084	http://www.oxfordpublicschools.org	OXFORD School	2001.0	14.0
+11085	http://www.darienps.org/tokeneke/	DARIEN School	2004.0	2.0
+11086	http://www.newingtonct.gov/content/78/118/136/618/default.aspx	Lucy Robbins Welles Library	2008.0	14.0
+11087	http://www.westbrooklibrary.lioninc.org	Westbrook Public Library	2007.0	8.0
+11088	http://das.ct.gov/sp1.aspx?page=432	Administrative Services, Department of	2013.0	319.0
+11089	http://www.nv.edu/	Naugatuck Valley Community College	2012.0	2992.0
+11092	http://www.greenwichschools.org/page.cfm?p=9	GREENWICH School	2007.0	2270.0
+11093	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=10	BRIDGEPORT School	2002.0	4.0
+11095	http://www.ct.gov/dot/site/default.asp	Transportation, Department of	2003.0	2.0
+11097	http://www.ct.gov/serc/site/default.asp	State Emergency Response Commission	2006.0	2.0
+11098	http://www.ct.gov/dph/site/default.asp	Department of Public Health	2007.0	12.0
+11099	http://www.unionconnecticut.org	Union Free Public Library	2007.0	72.0
+11102	http://www.ct.gov/doc/site/default.asp	Correction, Department of	2003.0	2.0
+11103	http://www.waterburyct.org/	Waterbury	2003.0	1628.0
+11104	http://www.cornwalllibrary.org	Cornwall Library Association	2008.0	28.0
+11105	http://www.averypoint.uconn.edu	Avery Point	1998.0	269.0
+11107	http://www.chesterct.org/	Chester	2007.0	3.0
+11108	http://www.leaplibraries.org/nhaven	North Haven Memorial Library	2000.0	2581.0
+11110	http://www.ct.gov/csc/site/default.asp	Siting Council	2002.0	4.0
+11111	http://www.ct.gov/doag/site/default.asp	Agriculture, Department of	2003.0	4.0
+11114	http://www.cttech.org/wolcott/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	110.0
+11115	http://www.ct.gov/dph/cwp/view.asp?a=3902&q=277344	Health Care Access, Office of	0.0	1813.0
+11117	http://woostermiddle.stratfordk12.org/	STRATFORD School	2009.0	92.0
+11118	http://www.hamptonct.org	Fletcher Memorial Library	2004.0	1454.0
+11119	http://www.thefriendshipschool.org	LEARN School	2004.0	78.0
+11121	http://windhamfreelibrary.org/	Windham Free Library	2006.0	28.0
+11122	http://www.greenwichschools.org/page.cfm?p=4	GREENWICH School	2007.0	2246.0
+11123	http://www.plainvillect.com/pages/page_content/Plainville_home.aspx	Plainvill	2010.0	212.0
+11124	http://www.biblio.org/whittemore/	Howard Whittemore Memorial Library	2000.0	43.0
+11126	http://www.suffield-library.org	Kent Memorial Library	1998.0	222.0
+11127	http://www.newcanaan.info	New Canaan	2002.0	453.0
+11128	http://www.wwml.org	Willoughby Wallace Memorial Library	2006.0	197.0
+11132	http://www.ct.gov/cid/site/default.asp	Insurance, Department of	2003.0	2.0
+11133	http://easthamptonct.org	EAST HAMPTON School	2001.0	181.0
+11134	http://www.townofwindsorct.com	Windsor	1999.0	1468.0
+11136	http://www.hamden.com	Hamden	2000.0	840.0
+11139	http://www.torringtonct.org	Torrington	2002.0	240.0
+11142	http://www.townofwoodstock.com/	Woodstock	2000.0	1669.0
+11143	http://bunnellhigh.stratfordk12.org/	STRATFORD School	2009.0	303.0
+11149	http://www.plymouth.k12.ct.us/	PLYMOUTH School	2001.0	247.0
+11150	http://www.ct.gov/ova/site/default.asp	Victim Advocate, Office of the	2007.0	2.0
+11153	http://www.town.north-haven.ct.us/	North Haven	1998.0	170.0
+11154	http://www.trcc.commnet.edu/	Three Rivers Community College	2000.0	159.0
+11156	http://www.newfieldschool.org/	STAMFORD School	1999.0	20.0
+11157	http://www.cityofwesthaven.com/	West Haven	2002.0	124.0
+11159	http://www.staffordct.org/	Stafford	2001.0	567.0
+11162	http://www.hvrhs.org	REGIONAL SCHOOL DISTRICT 01(Canaan,Crnwl,Kent,NCanan,Slsby,Sharn) School	2001.0	78.0
+11163	http://www.region4schools.com/cms/One.aspx	CHESTER School	0.0	176.0
+11164	http://www.jud.state.ct.us/	Judicial Branch	1999.0	353.0
+11166	http://www.town.new-hartford.ct.us/	New Hartford	1999.0	3007.0
+11167	http://www.islandavenue.org/page.cfm?p=67	MADISON School	2010.0	1502.0
+11168	http://www.eosmith.org/	REGIONAL SCHOOL DISTRICT 19 (Ashford, Mansfield, Willington) School	2000.0	462.0
+11169	http://www.essexct.gov/	Essex	2004.0	2337.0
+11170	http://webpages.charter.net/harwintonct/	Harwinton	2004.0	1.0
+11171	http://www.ct.gov/dcp/site/default.asp	Department of Consumer Protection	2004.0	2.0
+11173	http://www.wethersfieldct.com/	Wethersfield	2000.0	486.0
+11174	http://www.killingworthlibrary.org	Killingworth Library	2001.0	125.0
+11176	http://www.hchlibrary.org	Henry Carter Hull Library	2001.0	189.0
+11178	http://www.town.groton.ct.us/	Groton	1998.0	145.0
+11180	http://www.oldlyme.lioninc.org	Old Lyme - Phoebe Griffin Noyes Library	2001.0	145.0
+11181	http://www.munic.state.ct.us/hartland/hartland.htm	Hartland	2001.0	27.0
+11182	http://meridenlibrary.org/	Meriden Public Library	2009.0	53.0
+11183	http://www.glasct.org	Glastonbury	2000.0	2603.0
+11184	http://www.ridgefieldlibrary.org	Ridgefield Library	2008.0	96.0
+11185	http://www.mansfieldct.gov	Mansfield	2010.0	1025.0
+11186	http://porterschool.org/	COLUMBIA School	2011.0	0.0
+11187	http://www.ct.gov/ethics/site/default.asp	Ethics, Office of State	2005.0	4.0
+11190	http://burlingtonct.us/	Burlington	2009.0	186.0
+11192	http://www.milfordlibrary.org	Milford Public Library	0.0	458.0
+11193	http://www.ctsprague.org	Sprague	2004.0	1109.0
+11196	http://www.woodburyct.org/	Woodbury	2000.0	812.0
+11197	http://www.hebronct.com/	Hebron	1998.0	115.0
+11199	http://www.eastfordct.org	EASTFORD School	0.0	666.0
+11201	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=350	BRIDGEPORT School	2002.0	3.0
+11202	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=351	BRIDGEPORT School	2002.0	5.0
+11203	http://bridgeport.ct.schoolwebpages.com/education/components/layout/default.php?sectionid=352&url_redirect=1	BRIDGEPORT School	0.0	1.0
+11204	http://www.roxburyschool.org/	STAMFORD School	2002.0	733.0
+11205	http://www.cityofmiddletown.com	Middletown	2000.0	416.0
+11206	http://www.ct.gov/dmv/site/default.asp	Motor Vehicles, Department of	2002.0	2.0
+11207	http://www.ktmurphy.org/	STAMFORD School	2001.0	422.0
+11208	http://www.toquamschool.org/	STAMFORD School	2002.0	437.0
+11211	http://www.ct.gov/mil/site/default.asp	Connecticut Military Department	2003.0	2.0
+11212	http://www.easthaddam.org	East Haddam	2000.0	3835.0
+11213	http://www.hugedomains.com/domain_profile.cfm?d=carringtonschool&e=com	WATERBURY School	0.0	2357.0
+11214	http://www.cityofshelton.org	Shelton	2003.0	704.0
+11216	http://burnhamlibrary.org/	Burnham Public Library	2006.0	22.0
+11217	http://www.griswold-ct.org	Griswold	2001.0	79.0
+11218	http://www.scovillelibrary.org	Scoville Memorial Library	2002.0	7.0
+11219	http://www.townofcantonct.org	Canton	2001.0	723.0
+11221	http://www.eastgranbyct.org	East Granby	2011.0	65.0
+11222	http://www.eastfordct.org/TownofEastford.cfm	Eastford	0.0	540.0
+11223	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=185	BRIDGEPORT School	2002.0	2.0
+11224	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=184	BRIDGEPORT School	2002.0	11.0
+11225	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=187	BRIDGEPORT School	2002.0	6.0
+11226	http://www.russelllibrary.org	Russell Library	2000.0	19.0
+11227	http://www.ct.gov/bfpe/site/default.asp	Firearms Permit Examiners, Board of	2004.0	3.0
+11228	http://litchfieldschools.org/lis/lis.html	LITCHFIELD School	2004.0	5.0
+11229	http://www.ct.gov/psrb/site/default.asp	Psychiatric Security Review Board	2006.0	2.0
+11230	http://www.chaplinct.org	Chaplin	2004.0	551.0
+11231	http://www.ct.gov/despp/site/default.asp	Department of Public Safety	2012.0	2.0
+11232	http://www.ivoryton.com	Ivoryton Library Association	1998.0	22.0
+11233	http://www.hartford.gov/	Hartford	2001.0	1147.0
+11235	http://www.burlingtonctlibrary.info	Burlington Public Library	2004.0	29.0
+11236	http://www.simsbury.k12.ct.us/page.cfm?p=160	SIMSBURY School	2007.0	953.0
+11238	http://www.sots.ct.gov/sots/site/default.asp	Secretary of the State	2008.0	2.0
+11240	http://www.torrington.uconn.edu	Torrington	2000.0	26.0
+11241	http://www.simsbury-ct.gov/	Simsbury	2003.0	3551.0
+11243	http://www.cttech.org/bullard-havens/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	155.0
+11244	http://easthartfordct.gov	East Hartford	2010.0	3285.0
+11245	http://www.madison.k12.ct.us/searchresults.cfm?keywords=tclc&fields=name,keywords	MADISON School	0.0	1936.0
+11247	http://www.kentcenter.com	KENT School	1999.0	42.0
+11249	http://www.townofprospect.org/.	Prospect	2001.0	111.0
+11250	http://www.columbiactlibrary.org	Saxton B. Little Free Library	2006.0	60.0
+11251	http://www.goshenct.gov/	Goshen	2008.0	103.0
+11256	http://www.northcanaanelementaryschool.org	NORTH CANAAN School	2005.0	11.0
+11257	http://www.wlps.org/whs/	WINDSOR LOCKS School	2006.0	7467.0
+11258	http://www.eltownhall.com	East Lyme	2000.0	605.0
+11260	http://www.norwalklib.org	Norwalk Public Library	1999.0	612.0
+11264	http://teacherweb.com/ct/maloneymagnetschool/maloney/index.aspx	WATERBURY School	0.0	0.0
+11266	http://www.newmilfordps.org/subsite/jps	NEW MILFORD School	2012.0	1253.0
+11268	http://www.southwindsorlibrary.org/sw/	South Windsor Public Library	2007.0	105.0
+11271	http://www.ci.milford.ct.us	Milford	2001.0	2782.0
+11272	http://www.ct.gov/	State of Connecticut	2002.0	965.0
+11273	http://www.eastwindsor-ct.gov/home/	East Windsor	2003.0	0.0
+11275	http://www.uchc.edu	Health Center	1997.0	30.0
+11276	http://www.ridgefieldct.org/content/46/72/default.aspx	Ridgefield Health Department	2006.0	13.0
+11277	http://www.southwindsor.org/pages/swindsorct_health/index	South Windsor Health Department	2006.0	9.0
+11278	http://www.sheltonpublicschools.org/	SHELTON School	2004.0	13.0
+11279	http://www.avonoldfarms.com	AVON School	1996.0	1465.0
+11281	http://www.greenwichschools.org/page.cfm?p=11	GREENWICH School	2006.0	2245.0
+11282	http://www.townofwinchester.org/Plugs/home.aspx	Winchester	2011.0	0.0
+11285	http://www.guilford.k12.ct.us/%7Eadams/	GUILFORD School	2003.0	690.0
+11286	http://www.greenwichschools.org/page.cfm?p=14	GREENWICH School	2007.0	2341.0
+11290	http://www.trumbullps.org/mms/	TRUMBULL School	2002.0	206.0
+11295	http://www.putnamct.us/new/library.htm	Putnam Public Library	2006.0	37.0
+11296	http://www.farmington-ct.org	Farmington	2002.0	160.0
+11301	http://www.cttech.org/norwich/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2001.0	105.0
+11303	http://www.greenwichschools.org/page.cfm?p=7	GREENWICH School	2007.0	2258.0
+11304	http://www.newmilford.org/	New Milford	1998.0	1071.0
+11307	http://www.killingly.org	Killingly	2001.0	3563.0
+11308	http://www.berlinschools.org/subsite/hes	BERLIN School	2011.0	2256.0
+11310	http://www.thomastonschools.org	THOMASTON School	2001.0	369.0
+11311	http://wcc.state.ct.us/	Workers' Compensation Commission	1998.0	122.0
+11312	http://www.cityofmeriden.org/content/health_and_human_services/	Meriden Health Department	2011.0	25.0
+11313	http://www.hagamanlibrary.info/	Hagaman Memorial Library	2009.0	106.0
+11314	http://www.ct.gov/ctf/site/default.asp	Children's Trust Fund	2005.0	2.0
+11318	http://www.windsorlockslibrary.org	Windsor Locks Public Library	2001.0	75.0
+11320	http://www.branford.k12.ct.us/	BRANFORD School	1999.0	364.0
+11323	http://cga.ct.gov/apa/	Auditors of Public Accounts	2008.0	32.0
+11324	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=340	BRIDGEPORT School	2002.0	6.0
+11325	http://www.hartschool.org/	STAMFORD School	2001.0	595.0
+11327	http://www.darienps.org/royle/	DARIEN School	2004.0	2.0
+11328	http://HOPEACADEMYCT.COM/	ORANGE School	2010.0	12.0
+11330	http://www.newmilfordlibrary.org/	New Milford Public Library	2011.0	33.0
+11332	http://www.springdalect.com/	STAMFORD School	2002.0	2581.0
+11334	http://www.stamfordct.gov	Stamford	2013.0	3495.0
+11335	http://www.hcc.commnet.edu/	Housatonic Community College	2001.0	904.0
+11338	http://www.ccc.commnet.edu	Capital Community College	2000.0	252.0
+11339	http://www.munic.state.ct.us/bozrah/bozrah.htm	Bozrah	2000.0	26.0
+11342	http://electronicvalley.org/derby/	Derby	1998.0	90.0
+11344	http://www.ct.gov/redcjs/site/default.asp	Racial and Ethnic Disparity Commission in the Criminal Justice System	2007.0	2.0
+11346	http://www.town.avon.ct.us	Avon	2002.0	1993.0
+11349	http://www.bloomfieldct.org/Plugs/home.aspx	Bloomfield	2011.0	2.0
+11351	http://www.ct.gov/doh/site/default.asp	Housing, Department of	2013.0	2.0
+11354	http://www.salisburycentral.org	SALISBURY School	2001.0	13.0
+11356	http://www.ct.gov/occ/site/default.asp	Consumer Counsel, Office of	2004.0	8.0
+11357	http://www.ct.gov/dmhas/site/default.asp	Department of Mental Health and Addiction Services	2007.0	2.0
+11358	http://www.ct.gov/oec/site/default.asp	Early Childhood, Office of	2014.0	2.0
+11361	http://bridgeport.ct.schoolwebpages.com/education/components/scrapbook/default.php?sectionid=188&url_redirect=1	BRIDGEPORT School	2008.0	1.0
+11362	http://www.bolton.govoffice.com/	Bolton	2003.0	1421.0
+11365	http://www.biblio.org/willimantic/	Willimantic Public Library	2001.0	27.0
+11367	http://www.rockvillepubliclibrary.org/	Rockville Public Library, Inc.	2011.0	50.0
+11369	http://newcanaanlibrary.org/	New Canaan Library	1998.0	1176.0
+11371	http://www.plainfieldct.org	Plainfield	2003.0	38.0
+11372	http://www.coventrypl.org	Booth Dimock Memorial Library	2001.0	42.0
+11374	http://bportlibrary.org/blackrock/	Black Rock Branch Library	2010.0	2.0
+11379	http://pomfretlibrary.org/	Pomfret Public Library	2001.0	151.0
+11380	http://das.ct.gov/cr1.aspx?page=171	State Insurance and Risk Management Board	2010.0	267.0
+11383	http://www.ncc.commnet.edu/default.asp	Norwalk Community College	2001.0	590.0
+11385	http://www.watertownlibrary.org	Watertown Library Association	1998.0	27.0
+11387	http://clintonct.com/	Clinton	1998.0	364.0
+11388	http://www.willingtonpubliclibrary.org	Willington Public Library	2007.0	18.0
+11389	http://www.cityofnewhaven.com/	New Haven	1998.0	548.0
+11393	http://www.scotlandschool.org	SCOTLAND School	2001.0	1.0
+11398	http://www.kentct.org/default.htm	Kent	2005.0	10.0
+11399	http://www.perrotlibrary.org/	Perrot Memorial Library	2001.0	2.0
+11400	https://sites.google.com/a/clintonpublic.net/district/home	CLINTON School	2010.0	916.0
+11402	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=344	BRIDGEPORT School	2002.0	2.0
+11404	http://www.townofstonington.com/	Stonington Health Department	2001.0	2380.0
+11405	https://sites.google.com/site/ashfordschoolct/Home	ASHFORD School	2009.0	96.0
+11407	http://www.darienps.org/middlesex/	DARIEN School	2004.0	35.0
+11409	http://www.uconn.edu/	University of Connecticut	1996.0	8.0
+11410	http://www.boltonpublicschools.com	BOLTON School	2002.0	232.0
+11411	http://www.waterfordpubliclibrary.org	Waterford Public Library	1998.0	14.0
+11412	http://www.griswold.k12.ct.us/	GRISWOLD School	1999.0	2267.0
+11413	http://secondhilllane.stratfordk12.org/	STRATFORD School	2009.0	74.0
+11414	http://www.killinglypubliclibrary.org	Killingly Public Library	2004.0	81.0
+11415	http://www.otislibrarynorwich.org	Otis Library	2003.0	126.0
+11419	http://www.marlboroughct.net	Marlborough	2007.0	1021.0
+11422	http://bportlibrary.org/north/	North Branch Library	2010.0	4.0
+11423	http://www.willingtonpublicschools.org/	WILLINGTON School	2008.0	305.0
+11424	http://www.simsbury.k12.ct.us/page.cfm?p=142	SIMSBURY School	2007.0	895.0
+11427	http://www.southingtonlibrary.org	Southington Public Library	2003.0	5.0
+11428	http://www.ct.gov/dds/site/default.asp	Department of Mental Retardation	2007.0	5.0
+11429	http://www.berlinpeck.lib.ct.us	Berlin-Peck Memorial Library	2000.0	85.0
+11431	http://www.waterbury.uconn.edu	Waterbury	1998.0	71.0
+11433	http://www.cornwallct.org/library.html	Hughes Memorial Library	2000.0	1.0
+11435	http://www.trumbullps.org/df/	TRUMBULL School	2002.0	126.0
+11436	http://www.munic.state.ct.us/woodbridge/woodbridge.htm	Woodbridge	2000.0	530.0
+11437	http://www.plainvillelibrary.org	Plainville Public Library	2002.0	18.0
+11438	http://www.putnamct.us/	Putnam	2003.0	79.0
+11440	http://www.branford-ct.gov	Branford	2003.0	99.0
+11441	http://www.colchesterct.org	COLCHESTER School	2001.0	338.0
+11443	http://www.ct.gov/pura/site/default.asp	Department of Public Utility Control	2012.0	2.0
+11444	http://www.berlinschools.org/subsite/ges	BERLIN School	2011.0	2281.0
+11447	http://www.wallingford.lioninc.org	Wallingford Public Library	2001.0	127.0
+11448	http://www.brooklynct.org	Brooklyn	2001.0	903.0
+11451	http://www.norwichct.org	Norwich	1999.0	1398.0
+11454	http://www.ct.gov/dss/site/default.asp	Social Services, Department of	2005.0	2.0
+11457	http://www.cityofnewhaven.com/health/	New Haven Health Department	2009.0	36.0
+11458	http://www.bronsonlibrary.org	Silas Bronson Library	2001.0	145.0
+11462	http://www.ct.gov/agingservices/site/default.asp	Aging, Department of	2006.0	2.0
+11463	http://www.southington.org/	Southington	2001.0	652.0
+11464	http://www.crosbyhigh.com/	WATERBURY School	2001.0	1.0
+11465	http://www.wilbyhs.org/	WATERBURY School	2002.0	1.0
+11467	https://www.northbranfordschools.org/Default.asp	NORTH BRANFORD School	2003.0	60.0
+11468	http://www.windsorlocksct.org/index.php/windsor_locks.htm	Windsor Locks	2012.0	0.0
+11469	http://www.hamdenlibrary.org	Hamden Library System	1999.0	315.0
+11471	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=348	BRIDGEPORT School	2002.0	5.0
+11473	http://www.derbypubliclibrary.org	Derby Public Library	1999.0	55.0
+11475	http://www.seymourct.org/	Seymour	2000.0	1267.0
+11476	http://www.cttech.org/wilcox/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	106.0
+11478	http://www.thompsonct.org	Thompson	2001.0	2525.0
+11481	http://www.wiltonct.org/	Wilton	2003.0	21.0
+11486	http://www.simsbury.k12.ct.us/page.cfm?p=34	SIMSBURY School	2007.0	1215.0
+11488	http://cornwallschool.org	CORNWALL School	2005.0	44.0
+11489	http://www.easternct.edu	Eastern Connecticut State University	2000.0	2391.0
+11493	http://scotlandct.org/	Scotland	2007.0	300.0
+11495	http://www.guilford.k12.ct.us/%7Eleete/	GUILFORD School	2004.0	690.0
+11496	http://www.greenwichschools.org/page.cfm?p=19	GREENWICH School	2008.0	2316.0
+11497	http://www.ccsu.edu	Central Connecticut State University	1997.0	1701.0
+11499	http://www.simsbury.k12.ct.us/page.cfm?p=33	SIMSBURY School	2007.0	1219.0
+11500	http://www.gunnlibrary.org/index.html	Gunn Memorial Library	2007.0	36.0
+11501	http://www.wolcottct.org/pages/page_content/Primary_home.aspx	Wolcott	2012.0	194.0
+11502	http://sahoneyspot.stratfordk12.org/	STRATFORD School	2009.0	69.0
+11504	http://www.lymepl.org	Lyme Public Library	2003.0	24.0
+11508	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=192	BRIDGEPORT School	2002.0	5.0
+11509	http://www.ct.gov/foi/site/default.asp	Freedom of Information Commission	2011.0	2.0
+11510	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=190	BRIDGEPORT School	2002.0	6.0
+11511	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=191	BRIDGEPORT School	2002.0	4.0
+11513	http://www.durhamlibrary.org	Durham Public Library	2008.0	88.0
+11514	http://www.preston-ct.org	Preston	2001.0	318.0
+11518	http://www.ct.gov/caes/site/default.asp	Agricultural Experiment Station, Connecticut	2007.0	2.0
+11519	http://www.guilford.k12.ct.us/%7Eghs/	GUILFORD School	2001.0	690.0
+11521	http://www.starkschool.org/	STAMFORD School	2002.0	457.0
+11523	http://www.woodbridge.lioninc.org	Woodbridge Town Library	2001.0	97.0
+11527	http://www.ct.gov/ctedtech/site/default.asp	Commission for Educational Technology	2003.0	7.0
+11529	http://www.somersct.gov	Somers	2008.0	60.0
+11530	http://www.barkhamstedschool.org	BARKHAMSTED School	2001.0	104.0
+11532	http://www.ct.gov/oha/site/default.asp	Healthcare Advocate, Office of the	2005.0	2.0
+11533	http://www.ewml.org	Edith Wheeler Memorial Library	2007.0	111.0
+11536	http://www.richmondlibrary.info	Richmond Memorial Library	2007.0	33.0
+11538	http://www.ct.gov/dors/site/default.asp	Rehabilitation Services, Department of	2012.0	2.0
+11540	http://www.orange.lioninc.org/	Case Memorial Library	2009.0	90.0
+11541	http://www.hamden.org/page.cfm?p=1442	HAMDEN School	2012.0	369.0
+11543	http://www.electronicvalley.org/beacon-falls/	Beacon Falls	1999.0	1.0
+11545	http://www.west-hartford.com/	West Hartford	1998.0	65.0
+11546	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectiondetailid=1493	BRIDGEPORT School	2002.0	5.0
+11547	http://www.wtmlib.com	Welles-Turner Memorial Library	1998.0	51.0
+11550	http://www.colchesterct.gov/pages/colchesterct_dept/cml/index	Cragin Memorial Library	2008.0	39.0
+11551	http://www.cantonschools.org/cis/	CANTON School	2000.0	23.0
+11552	http://www.cttech.org/wright/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	26.0
+11554	http://www.ridgefieldct.org/	Ridgefield	1998.0	325.0
+11556	http://billmemorial.org	Bill Memorial Library	1998.0	45.0
+11557	http://scotlandpubliclibrary.org/	Scotland Public Library	2009.0	8.0
+11562	http://www.marktwainlibrary.org	Mark Twain Library	2001.0	70.0
+11563	http://www.swindsor.k12.ct.us/uploaded/404.html	SOUTH WINDSOR School	2014.0	1.0
+11565	http://www.ct.gov/cjc/site/default.asp	Criminal Justice Commission	2003.0	2.0
+11566	http://bportlibrary.org/burroughs-saden/	Burroughs Saden Branch Library	2010.0	2.0
+11568	http://www.portlandct.org	Portland	2000.0	439.0
+11569	http://www.brownmiddleschool.org/page.cfm?p=309	MADISON School	2011.0	1535.0
+11570	http://www.madisonct.org/health/	Madison Health Department	2011.0	39.0
+11572	http://nichols.stratfordk12.org/	STRATFORD School	2009.0	79.0
+11573	http://www.plymouthct.us/	Plymouth	2003.0	1651.0
+11575	http://www.woodstockschools.net	WOODSTOCK School	2002.0	4324.0
+11581	http://www.hamden.org/page.cfm?p=1346	HAMDEN School	2012.0	806.0
+11582	http://www.lebanonctlibrary.org	Jonathan Trumbull Library	2005.0	19.0
+11586	http://www.hplct.org	Hartford Public Library	2002.0	254.0
+11594	http://www.biblio.org/middlebury/	Middlebury Public Library	2002.0	47.0
+11595	http://www.newbritainct.gov/index.php/government/boards-a-commissions/board-of-health.html	New Britain Health Department	2012.0	115.0
+11597	http://www.trumbullps.org/jane-ryan/	TRUMBULL School	2001.0	4766.0
+11599	http://www.munic.state.ct.us/eastford/eastford.htm	Eastford	2001.0	520.0
+11601	http://www.trumbull-ct.gov	Trumbull	2006.0	1692.0
+11607	http://www.mansfieldct.org/mboe/	MANSFIELD School	0.0	67.0
+11611	http://www.cromwellct.com	Cromwell	2001.0	50.0
+11613	http://www.pequotlibrary.org/	Pequot Library Association	2001.0	3389.0
+11614	http://www.town.berlin.ct.us/	Berlin	2000.0	866.0
+11615	http://www.biblio.org/ansonia/	Ansonia Public Library	2000.0	10.0
+11616	http://www.windsorlocksct.org/index.php	Windsor Locks	2007.0	201.0
+11617	http://www.owlibrary.org	Oliver Wolcott Library	2002.0	41.0
+11619	http://www.ct.gov/scsb/site/default.asp	State Contracting Standards Board	2008.0	3.0
+11620	http://www.hamptonschool.org	HAMPTON School	2001.0	81.0
+11626	http://www.munic.state.ct.us/barkhamsted/	Barkhamsted	2001.0	34.0
+11628	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=339	BRIDGEPORT School	2002.0	5.0
+11629	http://www.stamfordhigh.org/	STAMFORD School	1999.0	2948.0
+11632	http://www.eastgranby.k12.ct.us	EAST GRANBY School	2001.0	13.0
+11635	http://www.explorationscs.com	Explorations Charter School School	2009.0	46.0
+11636	http://www.ctfreedomtrail.com/	Historical Commission: Connecticut Freedom Trail	1999.0	1.0
+11639	http://www.voluntownct.org	VOLUNTOWN School	2004.0	32.0
+11644	http://www.harwinton.us/	Harwinton	2005.0	2986.0
+11645	http://www.newmilfordps.org/subsite/nes	NEW MILFORD School	2012.0	1251.0
+11646	http://www.ct.gov/best/site/default.asp	Department of Information Technology	2011.0	2.0
+11647	http://www.bethany-ed.org	BETHANY School	2006.0	245.0
+11648	http://www.darienps.org/dhs/cms/	DARIEN School	2012.0	178.0
+11649	http://www.colebrookschool.org	COLEBROOK School	2002.0	65.0
+11650	http://canterburylibrary.org	Canterbury Public Library	2006.0	16.0
+11651	http://www.ct.gov/sprb/site/default.asp	Properties Review Board	2007.0	3.0
+11653	http://www.stratfordlibrary.org	Stratford Library Association	2003.0	136.0
+11654	http://www.orange-ct.gov/	Orange	2003.0	64.0
+11657	http://salisburyct.us	Salisbury	2005.0	1292.0
+11659	http://www.ct.gov/oma/site/default.asp	Office of Military Affairs	2008.0	2.0
+11661	http://www.torringtonlibrary.org/	Torrington Library Association	2001.0	313.0
+11663	http://www.gatewayct.edu/	Gateway Community College	2005.0	808.0
+11664	http://www.newtown-ct.gov	Newtown	2004.0	232.0
+11670	http://bportlibrary.org/oldmill/	Old Mill Green Branch Library	2010.0	2.0
+11671	http://www.lisbonct.com/	Lisbon	2008.0	73.0
+11681	http://www.guilfordfreelibrary.org	Guilford Free Library	2005.0	160.0
+11682	http://www.ctreg14.org/searchresults.cfm?keywords=mes&fields=name,keywords	REGIONAL SCHOOL DISTRICT 14 (Bethlehem, Woodbury) School	0.0	728.0
+11684	http://www.prestonschools.org	PRESTON School	2004.0	63.0
+11690	http://www.sharonct.org/	Sharon	2005.0	884.0
+11695	http://www.westhartfordlibrary.org	West Hartford Public Library	2007.0	530.0
+11697	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=2	BRIDGEPORT School	2002.0	4.0
+11698	http://www.egpl.org	East Granby Public Library	2005.0	116.0
+11699	http://www.berlinschools.org/subsite/mms	BERLIN School	2011.0	2307.0
+11700	http://bportlibrary.org/	Bridgeport Public Library	2007.0	289.0
+11704	http://www.town.ledyard.ct.us	Ledyard	2000.0	686.0
+11705	http://www.sheltonlibrarysystem.org/	Plumb Memorial Library	2009.0	131.0
+11706	http://mxcc.edu/	Middlesex Community College	0.0	1834.0
+11707	http://www.cttech.org/cheney/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	123.0
+11708	http://www.canterburypublicschools.org	CANTERBURY School	2003.0	69.0
+11711	http://www.greenwichschools.org/page.cfm?p=6	GREENWICH School	2008.0	2247.0
+11714	https://warren.webtownhall.com/Default.aspx	Warren	2010.0	33.0
+11719	http://bridgeport.ct.schoolwebpages.com/education/components/scrapbook/default.php?sectionid=7&url_redirect=1	BRIDGEPORT School	2008.0	1.0
+11721	http://www.greenwichschools.org/page.cfm?p=17	GREENWICH School	2008.0	2269.0
+11722	http://www.douglaslibrarycanaan.org	Douglas Library	2007.0	36.0
+11723	http://www.wcsu.edu	Western Connecticut State University	2001.0	2463.0
+11724	http://www.avon.k12.ct.us/roaringbrook/	AVON School	2001.0	0.0
+11725	http://www.southbury-ct.org/	Southbury	2009.0	1886.0
+11727	http://www.guilford.k12.ct.us/%7Emjs/	GUILFORD School	2001.0	690.0
+11729	http://www.greenwichschools.org/page.cfm?p=18	GREENWICH School	2007.0	4532.0
+11730	http://www.rockyhillct.gov/	Rocky Hill	2012.0	90.0
+11735	http://www.bristollib.com/	Bristol Public Library	2008.0	121.0
+11736	http://www.terryvillepl.info	Terryville Public Library	2004.0	51.0
+11738	http://www.westbrookct.us/humanservice.php	Westbrook Health Department	2008.0	3.0
+11743	http://saintbernadette.org	NEW HAVEN School	2001.0	100.0
+11747	http://www.voluntown.gov/	Voluntown	2001.0	54.0
+11748	http://www.charteroak.edu/	Charter Oak State College	2001.0	410.0
+11749	http://www.darienct.gov	Darien	2006.0	90.0
+11751	http://www.goshenpublib.org	Goshen Public Library	2001.0	13.0
+11752	http://www.avon.k12.ct.us/avonhigh/	AVON School	2001.0	0.0
+11754	http://www.ct.gov/jsc/site/default.asp	Judicial Selection Commission	2007.0	2.0
+11756	http://www.seymourpubliclibrary.org	Seymour Public Library	0.0	53.0
+11757	http://www.eastwindsor-ct.gov	East Windsor	2003.0	176.0
+11762	http://www.greenwichschools.org/page.cfm?p=12	GREENWICH School	2007.0	2289.0
+11763	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=186	BRIDGEPORT School	2002.0	5.0
+11765	http://www.swindsor.k12.ct.us/page.cfm?p=2559	SOUTH WINDSOR School	2011.0	673.0
+11766	http://www.tolland.org/	Tolland	1999.0	352.0
+11767	http://lordship.stratfordk12.org/	STRATFORD School	2009.0	77.0
+11768	http://www.townofcolebrook.org/	Colebrook	2011.0	103.0
+11770	http://www.sharoncenterschool.org	SHARON School	2002.0	14.0
+11772	http://www.swindsor.k12.ct.us/page.cfm?p=2727	SOUTH WINDSOR School	2011.0	673.0
+11775	http://www.guilford.k12.ct.us/%7Ecox/	GUILFORD School	2004.0	690.0
+11776	http://www.new-britain.net/	New Britain	2002.0	1982.0
+11777	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=183	BRIDGEPORT School	2002.0	4.0
+11781	http://www.townofmanchester.org/	Manchester	2003.0	59.0
+11782	http://www.townofreddingct.org	Redding	2001.0	170.0
+11783	http://www.parishhill.org	REGIONAL SCHOOL DISTRICT 11 (Chaplin, Hampton, Scotland) School	2001.0	254.0
+11784	http://www.woodbridgect.org	Woodbridge	2005.0	529.0
+11790	http://www.ci.bethlehem.ct.us/	Bethlehem	1998.0	42.0
+11791	http://www.region18.org/page.cfm?p=477	REGIONAL SCHOOL DISTRICT 18 (Lyme, Old Lyme) School	2008.0	470.0
+11792	http://www.hartlandschool.com/	HARTLAND School	2001.0	198.0
+11793	http://www.ct.gov/sots/site/default.asp	Secretary of State	2008.0	2.0
+11796	http://www.ct.gov/trb/site/default.asp	Teachers' Retirement Board	2004.0	9.0
+11800	http://www.region18.org/page.cfm?p=187	REGIONAL SCHOOL DISTRICT 18 (Lyme, Old Lyme) School	2008.0	478.0
+11801	http://www.jeffreyschool.org/page.cfm?p=965	MADISON School	2011.0	1548.0
+11807	http://www.cttech.org/vinal/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	101.0
+11808	http://stamford.uconn.edu/	Stamford	1998.0	293.0
+11810	http://www.southwindsor.org/	South Windsor	1998.0	409.0
+11811	http://www.cornwallct.org/	Cornwall	2000.0	65.0
+11813	http://www.southburylibrary.org/	Southbury Public Library	2002.0	0.0
+11820	http://www.ct.gov/seec/site/default.asp	Elections Enforcement Commission, State	2006.0	2.0
+11821	http://www.cheshirect.org/	Cheshire	1999.0	211.0
+11826	http://humanservices.townofmanchester.org/health/	Manchester Health Department	2003.0	18.0
+11827	http://www.ct.gov/opm/site/default.asp	Policy and Management, Office of	2007.0	2.0
+11829	http://morris.webtownhall.com/	Morris Public Library	2011.0	30.0
+11831	http://www.biblio.org/mansfield/	Mansfield Public Library	2000.0	383.0
+11833	http://www.townofwindsorct.com/health/	Windsor Health Department	2004.0	10.0
+11835	http://www.ct.gov/csao/site/default.asp	Criminal Justice, Division of	2005.0	3.0
+11836	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=8	BRIDGEPORT School	2002.0	4.0
+11837	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=9	BRIDGEPORT School	2002.0	7.0
+11839	http://www.babcocklibrary.org/blog1/	Babcock Library	2009.0	571.0
+11840	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=3	BRIDGEPORT School	2002.0	7.0
+11841	http://www.newmilfordps.org/subsite/nhs	NEW MILFORD School	2012.0	1251.0
+11843	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=6	BRIDGEPORT School	2002.0	5.0
+11845	http://www.bethel-ct.gov/	Bethel	2012.0	304.0
+11846	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=5	BRIDGEPORT School	2002.0	7.0
+11848	http://barkhamsted.us/home/tabid/36/default.aspx	Barkhamsted	2009.0	5.0
+11850	http://www.greenwichlibrary.org	Greenwich Library	2001.0	896.0
+11851	http://www.ctreg14.org/searchresults.cfm?keywords=wms&fields=name,keywords	REGIONAL SCHOOL DISTRICT 14 (Bethlehem, Woodbury) School	0.0	679.0
+11853	http://www.cttech.org/grasso/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	122.0
+11857	http://www.nfaschool.org/index.cfm	NORWICH FREE ACADEMY School	2013.0	1296.0
+11858	http://www.northstonington.k12.ct.us/	NORTH STONINGTON School	2001.0	14.0
+11860	http://www.kelloggschool.org	CANAAN School	2000.0	794.0
+11861	http://www.ncc.commnet.edu	Norwalk Community College	2001.0	580.0
+11862	http://www.darienps.org/holmes/	DARIEN School	2004.0	2.0
+11863	http://www.pomfretct.gov/	Pomfret	2014.0	2189.0
+11865	http://www.whhd.org/	West Haven Health Department	2007.0	8.0
+11867	http://www.nbpl.info	New Britain Public Library	2004.0	60.0
+11868	http://www.beardsleyandmemorial.org	Beardsley Memorial Library	2001.0	59.0
+11870	http://www.avon.k12.ct.us/pinegrove/	AVON School	2001.0	0.0
+11871	http://www.ct.gov/ocme/site/default.asp	Medical Examiner, Office of the Chief	2005.0	2.0
+11872	http://www.botelleschool.org	NORFOLK School	2001.0	11.0
+11873	http://www.cityofansonia.com/	Ansonia	2004.0	207.0
+11875	http://www.magnetmiddle.org/	STAMFORD School	2001.0	14.0
+11876	http://www.town.wallingford.ct.us/content/health_department.asp	Wallingford Health Department	2011.0	128.0
+11877	http://www.ctdol.state.ct.us/	Labor, Department of	1997.0	139.0
+11878	http://www.westovermagnet.org/	STAMFORD School	2002.0	744.0
+11879	http://www.ci.bristol.ct.us	Bristol	2000.0	849.0
+11884	http://mybflib.org/	Beacon Falls Public Library	2009.0	437.0
+11886	http://www.wlps.org/ses/	WINDSOR LOCKS School	2006.0	1414.0
+11887	http://www.townofshermanct.org	Sherman	2004.0	21.0
+11889	http://www.eastgranby.net	East Granby	2003.0	2581.0
+11890	http://www.oldsaybrookct.org/pages/oldsaybrookct_library/index	Acton Public Library	2006.0	37.0
+11891	http://www.bethellibrary.org	Bethel Public Library	2004.0	184.0
+11893	http://cheshirelibrary.com/	Cheshire Public Library	2013.0	97.0
+11895	http://www.westonct.gov/	Weston	2006.0	160.0
+11897	http://www.blackstone.lioninc.org/	James Blackstone Memorial Library	2000.0	274.0
+11903	http://www.eastonct.gov	Easton	2008.0	2430.0
+11904	http://www.windhamct.com	Windham	2000.0	1701.0
+11905	http://www.wethersfieldlibrary.org	Wethersfield Public Library	1998.0	112.0
+11907	http://www.staffordlibrary.org	Stafford Library Association	2003.0	13.0
+11910	http://www.bridgeportct.gov	Bridgeport	2008.0	1892.0
+11911	http://www.ct.gov/ctva/site/default.asp	Veterans Affairs, Department of	2005.0	2.0
+11914	http://www.newmilfordps.org/subsite/sms	NEW MILFORD School	2012.0	1251.0
+11917	http://floodmiddle.stratfordk12.org/	STRATFORD School	2009.0	136.0
+11919	http://www.westportct.gov	Westport	0.0	2898.0
+11923	http://deepriverct.com/library/	Deep River Public Library	2000.0	1.0
+11924	http://www.ci.danbury.ct.us/	Danbury	2001.0	742.0
+11925	http://www.ct.gov/wyman/site/default.asp	Lieutenant Governor's Office	2011.0	2.0
+11928	http://www.norwalkct.org/index.aspx?nid=676	Norwalk Health Department	2010.0	1693.0
+11929	http://www.das.state.ct.us/sp1.aspx?page=432	Department of Administrative Services	2013.0	187.0
+11932	http://www.rowayton.org	Rowayton Library	1998.0	25.0
+11934	http://www.ct.gov/cfpc/site/default.asp	Commission on Fire Prevention and Control	2002.0	3.0
+11935	http://www.cerc.com/	Connecticut Economic Resource Center	1997.0	38.0
+11938	http://www.ct.gov/bopp/site/default.asp	Pardons and Paroles, Board of	2012.0	2.0
+11939	http://www.fergusonlibrary.org	Ferguson Library	2006.0	335.0
+11942	http://www.townofmontville.org/	Montville	2004.0	377.0
+11944	http://www.plnl.org/	Public Library Of New London	2009.0	152.0
+11946	http://www.oess.org	ORANGE School	2001.0	656.0
+11949	http://www.mysticnoanklibrary.org	Mystic Noank Library	2008.0	10.0
+11950	http://www.norfolkct.org	Norfolk	2006.0	25.0
+11951	http://www.munic.state.ct.us/ansonia/ansonia.htm	Ansonia	2000.0	208.0
+11952	http://www.cttech.org/kaynor/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	111.0
+11953	http://www.ctohe.org/	Higher Education, Office of	2011.0	66.0
+11954	http://ww2.ctarts.org/	Connecticut Commission on the Arts	0.0	148.0
+11955	http://www.cttech.org/windham/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	110.0
+11959	http://www.newmilfordps.org/subsite/hps	NEW MILFORD School	2012.0	1304.0
+11961	http://www.swrpa.org/	South Western Regional Planning Agency	2001.0	840.0
+11964	http://www.guilford.k12.ct.us/%7Elakes/	GUILFORD School	2003.0	691.0
+11965	http://www.region16ct.org	REGIONAL SCHOOL DISTRICT 16 (Beacon Falls, Prospect) School	2004.0	680.0
+11969	http://wilcoxson.stratfordk12.org/	STRATFORD School	2009.0	70.0
+11970	http://www.oxford-ct.gov/	Oxford	2003.0	1417.0
+11971	http://www.ct.gov/oga/site/default.asp	Governmental Accountability, Office of	2011.0	2.0
+11972	http://www.simsbury.k12.ct.us/page.cfm?p=161	SIMSBURY School	2007.0	914.0
+11973	http://www.ehtfdlib.info/	East Hartford Public Library	2004.0	28.0
+11976	http://westportlibrary.org/	Westport Library	2001.0	2440.0
+11977	http://www.trumbullct-library.org	Trumbull Library	1999.0	68.0
+11981	http://townlyme.org/	Lyme Health Department	2009.0	360.0
+11984	http://www.darienlibrary.org	Darien Library	2001.0	4381.0
+11985	http://www.shermanlibrary.org/	Sherman Library Assn.	2004.0	15.0
+11987	http://www.achievementfirst.org	Achievement First Hartford Academy Inc School	2004.0	949.0
+11989	http://stratfordhigh.stratfordk12.org/	STRATFORD School	2009.0	153.0
+11992	http://www.prosserlibrary.info	Prosser Public Library	2005.0	19.0
+11995	http://stoningtonhigh.org/	STONINGTON School	1999.0	16.0
+11997	http://www.townofkentct.org/	Kent	2009.0	1298.0
+11998	http://www.ct.gov/ctportal/cwp/view.asp?a=843&Q=431930	State Telephone/E-mail Directory	0.0	197.0
+12000	http://www.townofprospect.org/	Prospect	2001.0	111.0
+12003	http://franklin.stratfordk12.org/	STRATFORD School	2009.0	61.0
+12004	http://www.enfield-ct.gov	Enfield	2006.0	1649.0
+12006	http://www2.youseemore.com/harwinton/	Harwinton Public Library	2010.0	105.0
+12007	http://www.salem-ct-library.org	Salem Free Public Library	2001.0	2558.0
+12009	http://www.westhillweb.com/	STAMFORD School	2000.0	941.0
+12010	http://www.tolland.org/library/	Town Of Tolland Public Library	1999.0	15.0
+12013	http://www.easthamptonct.gov/pages/easthamptonct_library/index	East Hampton Public Library	2008.0	5.0
+12015	http://www.ely.lioninc.org	East Lyme Public Library	2001.0	21.0
+12021	http://www.portlandctschools.org	PORTLAND School	2007.0	87.0
+12022	http://farmingtonlibraries.org/	Farmington Library	2010.0	198.0
+12023	http://www.cttech.org/platt/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	115.0
+12025	http://www.simsbury.k12.ct.us/page.cfm?p=39	SIMSBURY School	2007.0	882.0
+12026	http://www.godfrey.org/	Godfrey Memorial Library	1998.0	10.0
+12029	http://www.occ.ct.gov/cc_fp1.aspx?page=151	Claims Commissioner, Office of the	2011.0	10.0
+12030	http://www.leaplibraries.org/nbranford	North Branford Library Department	2000.0	2581.0
+12032	http://www.region18.org/page.cfm?p=269	REGIONAL SCHOOL DISTRICT 18 (Lyme, Old Lyme) School	2008.0	475.0
+12037	http://www.middlefieldct.org	Middlefield	2010.0	58.0
+12038	http://www.derbynecklibrary.org	Derby Neck Library	2001.0	18.0
+12040	http://wolcottlibrary.org/	Wolcott Public Library	2003.0	142.0
+12042	http://www.greenwichschools.org/page.cfm?p=13	GREENWICH School	2008.0	2250.0
+12046	http://bridgeport.ct.schoolwebpages.com/education/school/school.php?sectionid=347	BRIDGEPORT School	2002.0	4.0
+12047	http://www.munic.state.ct.us/thomaston/thomaston.htm	Thomaston	2000.0	35.0
+12052	http://www.enfield.org/	Enfield	2000.0	1772.0
+12054	http://www.canterburyct.org/	Canterbury	2011.0	102.0
+12055	http://www.prospectct.com/library/	Prospect Public Library	1998.0	7.0
+12056	http://www.ct.gov/ctcdd/site/default.asp	Developmental Disabilities, Connecticut Council on	2005.0	2.0
+12058	http://commongroundct.org/	Common Ground High School School	2008.0	288.0
+12059	http://www.chaplinschool.org	CHAPLIN School	2001.0	150.0
+12060	http://www.thompsonpubliclibrary.org	Thompson Public Library	2003.0	53.0
+12061	http://aldrichlibrary.org	Aldrich Free Public Library	2002.0	30.0
+12063	http://tashuaschool.com/	TRUMBULL School	2000.0	341.0
+12064	http://calvertlibrary.org/	Janet Carlson Calvert Library	2007.0	29.0
+12068	http://www.thomastonct.org/	Thomaston	2002.0	35.0
+12074	http://www.hartford.uconn.edu	Greater Hartford	1998.0	209.0
+12076	http://www.woodburylibraryct.org/	Woodbury Public Library	2011.0	12.0
+12081	http://www.danbury.k12.ct.us/elemweb/mriweb/index.htm	DANBURY School	1999.0	1.0
+12085	http://www.ccrpa.org/	Central Connecticut Regional Planning Agency	2001.0	58.0
+12088	http://www.ashfordtownhall.org	Ashford	2006.0	626.0
+12090	http://www.canaanfallsvillage.org	Canaan	2006.0	1.0
+12091	http://www.eastonlibrary.org	Easton Public Library	2001.0	47.0
+12092	http://www.state.ct.us/ott/	Treasurer, Office of the State	1996.0	141.0
+12093	http://www.cttech.org/abbott/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	100.0
+12098	http://www.townofeasthaven.com/	East Haven	2002.0	12.0
+12101	http://www.chboothlibrary.org	Cyrenius H. Booth Library	2007.0	93.0
+12103	http://www.greenwichschools.org/page.cfm?p=5	GREENWICH School	2008.0	1343.0
+12104	http://rathbun.lioninc.org	Rathbun Free Memorial Library	2002.0	2.0
+12105	http://www.pomfret.ctschool.net	POMFRET School	1999.0	37.0
+12107	http://www.khryerson.org/page.cfm?p=966	MADISON School	2010.0	1298.0
+12108	http://www.danburylibrary.org	Danbury Public Library	2001.0	707.0
+12111	http://www.cantonpubliclibrary.org	Canton Public Library	2001.0	45.0
+12113	http://www.cttech.org/obrien/index.htm	CONNECTICUT TECHNICAL HIGH SCHOOL SYSTEM School	2000.0	85.0

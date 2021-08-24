@@ -1,0 +1,676 @@
+NodeId	NodeURL	NodeName	Year	pages
+22969	http://www.ci.lenexa.ks.us/	Lenexa	1996.0	80.0
+22970	http://www.klpi.org/	Legal Professionals, Inc.	1998.0	10.0
+22971	http://www.kansastreasurers.org/	Treasurers Association, Kansas County	2000.0	124.0
+22972	http://skyways.lib.ks.us/library/paola/	Paola Free Library	2001.0	1.0
+22973	http://corning.mykansaslibrary.org	Corning City Library	2007.0	2.0
+22974	http://www.leavenworthcounty.org/	Leavenworth	2001.0	30.0
+22975	http://jordaanlibrary.wordpress.com/	Jordaan Memorial Library	2013.0	78.0
+22976	http://bronson.mykansaslibrary.org	Bronson Public Library	2011.0	13.0
+22978	http://www.allencc.edu/	Allen County Community College	2002.0	877.0
+22979	http://www.stevenscountylibrary.com	Stevens County Library	2003.0	175.0
+22981	http://www.khca.org/	Health Care Association, Kansas	2001.0	58.0
+22982	http://www.ksdental.org/	Dental Association, Kansas	2000.0	178.0
+22983	http://hcsf.kansas.gov/pages/default.aspx	Health Care Stabilization Fund	2010.0	30.0
+22984	http://www.lkm.org/	League of Kansas Municipalities	2000.0	1267.0
+22985	http://www.dhes.derbyschools.com	Derby Schools	2010.0	0.0
+22986	http://abilene.mykansaslibrary.org	Abilene Public Library	2007.0	300.0
+22988	http://www.kgtc.org/	Gifted, Talented, and Creative, Association for the	2000.0	12.0
+22989	http://grenola.mykansaslibrary.org	Grenola Public	2011.0	18.0
+22990	http://www.accesskansas.org/kbi/	Kansas Bureau of Investigation	2001.0	22.0
+22991	https://www.kansas.gov/cota-search/	Tax Appeals, Kansas Court of	2013.0	3.0
+22993	http://www.wichita.edu/thisis/	Wichita State University	2007.0	220.0
+22994	http://www.kdheks.gov/	Department of Health and Environment	2005.0	874.0
+22995	http://cityofkirwin.com/	Kirwin City Library	2003.0	12.0
+22997	http://www.acmhck.org	Association of Community Mental Health Centers of Kansas	2000.0	101.0
+22998	http://highlandcc.edu/	Highland Community College	2002.0	2522.0
+22999	http://www.osbornecounty.org/	Osborne	2003.0	478.0
+23000	http://schools.olatheschools.com/buildings/clearwatercreek/	Olathe Schools	0.0	25.0
+23001	http://smithcenterpl.blogspot.com	Smith Center Public Library	2011.0	35.0
+23002	http://skyways.lib.ks.us/kansas/government/las/index.html	Legislative Administrative Services, Kansas	1998.0	1.0
+23003	http://www.librarydistrict1.org	Library District 1, Doniphan County	2007.0	1.0
+23004	http://www.kasp.org/	School Psychologists, Kansas Association of	2001.0	68.0
+23005	http://www.kec.org/	Electric Cooperatives, Kansas	1998.0	26.0
+23006	http://skyways.lib.ks.us/kansas/library/kingman/	Kingman Carnegie Library	1998.0	1.0
+23008	http://louisburglibrary.org/	Louisburg Library	2002.0	1170.0
+23009	http://www.usd463.org	Udall USD 463	2001.0	1354.0
+23010	http://www.dhs.derbyschools.com	Derby Schools	2010.0	0.0
+23011	http://www.krha.org/	Restaurant and Hospitality Association, Kansas	2001.0	77.0
+23012	http://www.prattcounty.org/	Pratt	2000.0	269.0
+23013	http://buhlerschools.org	Buhler USD 313	2006.0	112.0
+23014	http://www.bartoncounty.org/	Barton	2001.0	661.0
+23015	http://www.prattcc.edu/	Pratt Community College	2002.0	3400.0
+23016	http://www.sentencing.ks.gov/	Sentencing Commission, Kansas	2013.0	124.0
+23017	http://skyways.lib.ks.us/towns/oxford/library.html	Oxford Public Library	1998.0	0.0
+23020	http://www.chanute.org/	Chanute	2001.0	769.0
+23021	http://www.buhlerschools.org/Prosperity/index.php	Prosperity Elementary School	2012.0	2.0
+23022	http://usd258.net	Humboldt Public Library	1999.0	230.0
+23023	http://www.miamicountyks.org	Miami	2001.0	652.0
+23024	http://parsons.mykansaslibrary.org/	Parsons Public Library	2010.0	48.0
+23025	http://overbrook.mykansaslibrary.org	Overbrook Public Library	2007.0	80.0
+23027	http://pomona.mykansaslibrary.org/	Pomona Community Library	2012.0	6.0
+23029	http://ww2.kansasjoblink.com/ada/	KansasJobLink	0.0	2325.0
+23030	http://www.lanecolibrary.info/	Dighton-Lane County Library	2003.0	75.0
+23031	http://www.kansas.gov/ethics/	Ethics Commission, The Kansas Governmental	2006.0	41.0
+23032	http://www.kssb.net/	Blind, Kansas State School for the	1999.0	57.0
+23033	http://www.accesskansas.org/ksga/	Kansas State Gaming Agency	2003.0	9.0
+23034	http://www.hesstonks.org/	Hesston	2001.0	478.0
+23036	http://www.harveycounty.com/	Harvey	2001.0	2049.0
+23037	http://www.usd475.org/school/mi/default.aspx	Milford Elementary School	2012.0	4.0
+23039	http://www.kansas.gov	accessKansas	2005.0	364.0
+23040	http://stpaul.mykansaslibrary.org	Graves Memorial Public Library	2010.0	14.0
+23041	http://www.labette.edu/	Labette Community College	2002.0	47.0
+23042	http://www.usd431.net	Hoisington USD #431	2004.0	401.0
+23043	http://www.buhlerschools.org/PHMS/index.php	Prairie Hills Middle School	2012.0	9.0
+23044	http://www.cityofsedgwick.org/	Sedgwick	2003.0	35.0
+23045	http://schools.olatheschools.com/buildings/prairiecenter/	Olathe Schools	2013.0	21.0
+23046	http://kstransit.org/	Public Transit Association, Kansas	2008.0	9.0
+23047	http://usd473.net	USD 473	2003.0	0.0
+23048	http://www.usd216.org/	Deerfield USD 216	2004.0	605.0
+23049	http://www.usd399.com	USD 399	2001.0	397.0
+23051	http://www.bucklinschools.com	Bucklin USD 459	2008.0	590.0
+23052	https://www.khlaac.ks.gov/	Hispanic and Latino American Affairs Commission, Kansas	2010.0	11.0
+23053	http://www.kansas.gov/kdcu/	Credit Unions, Kansas Department of	2006.0	333.0
+23055	http://watc.edu/	Wichita Area Technical College	2004.0	1082.0
+23056	http://es.hesstonschools.org	Hesston Elementary School	2002.0	416.0
+23057	http://www.beloitks.org/	Beloit	2000.0	226.0
+23058	http://girardpubliclibrary.net	Girard Public Library	2004.0	56.0
+23059	http://www.cheney268.com	Cheney USD 268 Redirect	2000.0	173.0
+23060	http://schools.olatheschools.com/buildings/arborcreek/	Olathe Schools	2013.0	21.0
+23062	http://www.coffeyville.com/	Coffeyville	2000.0	666.0
+23064	http://www.saline.org/	Saline	2000.0	343.0
+23065	http://www.usd468.org/	Healy Public Schools	2011.0	381.0
+23066	http://www.cityofrosehill.com/	Rose Hill	2002.0	1.0
+23068	http://www.newtonkansas.com/	Newton	0.0	780.0
+23069	http://www.macpl.org	Mcpherson Public Library	2004.0	90.0
+23070	http://www.atchisoncountyks.org/	Atchison	2003.0	390.0
+23071	http://skyways.lib.ks.us/kansas/ksl/	Kansas State Library: Blue Skyways of Kansas	1998.0	1.0
+23072	http://www.marysvilleschools.org	Marysville Schools	2001.0	966.0
+23074	http://www.usd410.net	Hillsboro USD 410	2000.0	2.0
+23076	http://www.kckcc.edu/	Kansas City Kansas Community College	2002.0	13.0
+23077	http://cityofdouglassks.com	Douglass Public Library	2004.0	58.0
+23078	http://schools.olatheschools.com/buildings/harmony/	Olathe Schools	0.0	17.0
+23079	http://skyways.lib.ks.us/library/emporia/	Emporia Public Library	1998.0	1.0
+23080	http://www.cyberlodg.com/lincoln/	Lincoln Library	1998.0	10.0
+23081	http://www.sedgwickcounty.org/	Sedgwick	2000.0	131.0
+23082	http://www.cityofshawnee.org/	Shawnee	1998.0	3724.0
+23083	http://skyways.lib.ks.us/towns/stafford/library.html	Nora E. Larabee Memorial Library	1999.0	0.0
+23084	http://www.franklincoks.org/	Franklin	2003.0	614.0
+23085	http://hepler.mykansaslibrary.org	Hepler City Library	2010.0	25.0
+23086	http://www.andoverks.com/	Andover	1999.0	543.0
+23087	http://www.usd475.org/school/cu/sitepages/home.aspx	Custer Hill Elementary - Home	2013.0	4.0
+23088	http://www.usd506.org	USD 506 Labette County	2011.0	627.0
+23091	http://www.haysusa.com/	Hays	2000.0	14.0
+23092	http://www.ghcopublib.org	Graham County Public Library	2011.0	17.0
+23093	http://www.effinghamlibrary.net	Effingham Community Library	2008.0	74.0
+23094	http://www.usd450.net/shhigh.cfm	SH High School	0.0	2961.0
+23095	http://www.cityofliberal.com/	Liberal	2000.0	29.0
+23097	http://www.ksrevisor.org/	Revisor of Statutes	2008.0	42260.0
+23098	http://www.tongie.org/	Tonganoxie	2000.0	11.0
+23099	http://www.cheneypubliclibrary.org/	Cheney Public Library	2011.0	1.0
+23101	http://www.dsgc.derbyschools.com	Derby Schools	2010.0	0.0
+23102	http://www.ksrevenue.org/vehicle.html	Motor Vehicles, Kansas Division of	2011.0	408.0
+23103	http://www.wes.derbyschools.com	Derby Schools	2010.0	0.0
+23104	http://www.holton.k12.ks.us	Welcome to Holton USD 336	1998.0	80.0
+23106	http://www.usd350.com	Ida Long Goodman Memorial Library	2005.0	234.0
+23108	http://www.ksrevenue.org/	Revenue, Department of	2001.0	405.0
+23110	http://schools.olatheschools.com/buildings/brougham/	Olathe Schools	0.0	22.0
+23111	http://www.jccc.edu/index.html	Johnson County Community College	2006.0	185.0
+23112	http://www.ku.edu	University of Kansas	1998.0	68.0
+23114	http://gardnerkansas.gov/	Gardner	2005.0	632.0
+23115	http://www.kpers.org/	Public Employees Retirement System, Kansas	2000.0	18.0
+23116	http://schools.olatheschools.com/buildings/central/	Olathe Schools	0.0	18.0
+23118	http://merriampark.smsd.org/default.aspx	Merriam Park Elementary	0.0	141.0
+23119	http://iplks.org	Independence Public Library	2003.0	19.0
+23120	http://www.nortonvillelibrary.org	Nortonville Public Library	2007.0	51.0
+23121	http://usd388.k12.ks.us	USD 388 Ellis, KS	1998.0	80.0
+23122	http://www.kansascounties.org/	Counties, Kansas Association of	2001.0	255.0
+23123	http://www.usd246.org	Northeast USD 246	2006.0	52.0
+23124	http://skyways.lib.ks.us/towns/lyons/library.html	Lyons Public Library	1999.0	0.0
+23125	http://www.ellisco.net/	Ellis	2001.0	433.0
+23127	http://www.ksinsurance.org/	Insurance Department, Kansas	2000.0	6.0
+23128	http://www.buhlerschools.org/UV/index.php	Union Valley Elementary School	2012.0	2.0
+23129	http://www.usd360.com	USD 360 Caldwell Schools	2001.0	94.0
+23130	http://www.rsk.net/school.htm	Realty School of Kansas	2001.0	20.0
+23131	http://schools.olatheschools.com/buildings/manchesterpark/	Olathe Schools	0.0	27.0
+23132	http://www.cowley.edu/	Cowley Community College	2002.0	8.0
+23133	http://schools.olatheschools.com/buildings/cedarcreek/	Olathe Schools	0.0	20.0
+23134	http://www.merriam.org/	Merriam	1997.0	416.0
+23135	http://www.kansascommerce.com/	Commerce, Department of	1998.0	1339.0
+23137	http://www.hesstonschools.org	Hesston USD 460	2002.0	189.0
+23138	http://www.usd458.org/gres/	Basehor Linwood School District, USD 458	2006.0	1.0
+23139	http://skyways.lib.ks.us/towns/kiowa/index.html	Kiowa Public Library	1998.0	0.0
+23140	http://grainfield.mykansaslibrary.org	Grainfield City Library	2007.0	5.0
+23141	http://agcks.org/	General Contractors, Kansas Association of	2000.0	38.0
+23142	http://www.hortonkansas.net/	Horton	2004.0	37.0
+23143	http://www.acecks.org	American Council of Engineering Companies of Kansas	2004.0	48.0
+23144	http://pleasanton.mykansaslibrary.org	Linn County Library District 5	2007.0	56.0
+23145	http://www.ellsworthkschamber.net/index.aspx?NID=1037	Kanopolis Public Library	2013.0	191.0
+23146	http://www.kansas.gov/krec/	Real Estate Commission, Kansas State	2006.0	142.0
+23147	http://usd331.groupfusion.net/	Norwich Public	2008.0	1.0
+23148	http://web.usd475.org/school/wa/default.aspx	Washington Elementary	2013.0	2.0
+23149	http://www.salinapubliclibrary.org/	Salina Public Library	2011.0	668.0
+23150	http://www.nwkls.org/	Northwest Kansas Library System	2010.0	2.0
+23152	http://www.washburntech.edu/index.html	Washburn Institute of Technology	2009.0	28.0
+23153	http://web.usd475.org/school/frms/sitepages/home.aspx	Fort Riley Middle School	0.0	3.0
+23155	http://www.fordcounty.net/	Ford	1999.0	164.0
+23156	http://www.kansaschiro.com/	Chiropractic Association, Kansas	1998.0	50.0
+23157	http://www.kcc.state.ks.us/	Kansas Corporation Commission	1997.0	84.0
+23158	http://www.usd299.org	USD 299	2008.0	719.0
+23159	http://schools.olatheschools.com/buildings/indiancreek/	Olathe Schools	0.0	25.0
+23160	http://www.goddardusd.com	Goddard Public School, Goddard School District, Goddard, Goddard KS, Kansas, Goddard Kansas, GPS, Goddard Schools	2003.0	1026.0
+23161	http://schools.olatheschools.com/buildings/blackbob/	Olathe Schools	0.0	24.0
+23165	http://www.lvks.org/	Leavenworth	2000.0	864.0
+23166	http://www.lindsborgcity.org/	Lindsborg	2002.0	661.0
+23168	http://skyways.lib.ks.us/library/solomon/	Solomon Public Library	2003.0	0.0
+23169	http://www.ksbsrb.org/	Behavioral Sciences Regulatory Board	2001.0	64.0
+23170	http://www.harpercounty.org/	Harper	2001.0	345.0
+23171	http://skyways.lib.ks.us/library/hesston/homepage.htm	Hesston Public Library	1998.0	1.0
+23172	http://www.dcf.ks.gov/services/rs/pages/kcdhh.aspx	Deaf and Hard of Hearing, Kansas Commission for the	2012.0	151.0
+23173	http://www.ksfm.ks.gov/	Fire Marshal, Kansas State	2010.0	311.0
+23174	http://cityofwellington.net/	Wellington	2001.0	292.0
+23176	http://schools.olatheschools.com/buildings/madisonplace/	Olathe Schools	0.0	26.0
+23180	http://www.gpnc.org/	Great Plains Nature Center	1998.0	659.0
+23181	http://www.khrc.net/	Human Rights Commission, Kansas	2002.0	25.0
+23182	http://heartlandparalegalassociation.weebly.com/	Legal Assistants, Heartland Association of	2012.0	10.0
+23183	http://www.ksbankers.com/	Bankers Association, Kansas	2003.0	107.0
+23184	http://fallriver.mykansaslibrary.org	Fall River Public Library	2010.0	22.0
+23185	http://www.usd269.k12.ks.us/	Palco - Damar - Zurich	1999.0	4.0
+23187	http://www.kansasfirst.org/	KansasFirst  Kansas Business Professionals	2001.0	0.0
+23188	http://www.ces.derbyschools.com	Derby Schools	2010.0	0.0
+23192	http://www.pes.derbyschools.com	Derby Schools	2010.0	0.0
+23193	http://www.dustdevil.com/towns/concordia/	Concordia	1998.0	136.0
+23195	http://schools.olatheschools.com/buildings/heatherstone/	Olathe Schools	0.0	28.0
+23197	http://www.ci.elkhart.ks.us/	Elkhart	2001.0	19.0
+23198	http://enterprisecity.org	Enterprise Public Library	2010.0	47.0
+23201	http://www.goodlandlibrary.org	Goodland Public Library	2007.0	111.0
+23202	http://www.lawrence.lib.ks.us/	Lawrence Public Library	1998.0	801.0
+23203	http://www.usd397.com	Centre : Home	2011.0	295.0
+23204	http://www.kssbeo.com/	Optometry, Kansas State Board of Examiners in	2004.0	32.0
+23205	http://kcva.ks.gov/	Veterans Affairs, Kansas Commission on	2012.0	15.0
+23207	http://schools.olatheschools.com/buildings/regencyplace/	Olathe Schools	0.0	24.0
+23209	http://www.bucklinpubliclibrary.org	Bucklin Public Library	2008.0	2.0
+23210	http://www.cheyennecounty.org/	Cheyenne	2002.0	33.0
+23211	http://www.ksparalegals.org/	Paralegal Association, Kansas	2006.0	1.0
+23212	http://www.spearvillelibrary.org	Spearville Township Library	2008.0	31.0
+23213	http://schools.olatheschools.com/buildings/pioneertrail/	Olathe Schools	0.0	45.0
+23214	http://www.lansing.ks.us/	Lansing Community Library	1997.0	530.0
+23215	http://claycenter.mykansaslibrary.org	Clay Center Carnegie Library	2008.0	220.0
+23216	http://www.accesskansas.org/kdcu/	Department. of Credit Unions	2003.0	19.0
+23217	http://www.kacct.org/	Community College Trustees, Kansas Association of	2004.0	9.0
+23219	http://www.plainslibrary.info/	Plains Community Library	2008.0	5.0
+23220	http://www.skyways.org/towns/index404.html	Sabetha	2004.0	1.0
+23221	http://www.kansas.gov/keta/	Electric Transmission Authority	2006.0	12.0
+23222	http://www.onwravens.net/	Olathe Northwest High School: Home of the Ravens	2003.0	2763.0
+23223	http://greeleycolibrary.info	Greeley County Public Library	2004.0	1.0
+23224	http://www.kansasbioauthority.org/	Bioscience Authority, Kansas	2006.0	154.0
+23225	http://cgpl.mykansaslibrary.org/	Council Grove Public Library	2008.0	32.0
+23226	http://www.leawood.org/	Leawood	1998.0	7255.0
+23227	http://www.usd288.org/	Central Heights USD 288 - Home	2008.0	957.0
+23228	http://ottawalibrary.org/	Ottawa Library	2011.0	99.0
+23230	http://www.dcpl.info	Dodge City Public Library	2002.0	617.0
+23231	http://www.travelks.com/	Department of Travel and Tourism	2001.0	3776.0
+23232	http://www.ulysses.org/	Ulysses USD 214	2000.0	1258.0
+23233	http://www.kana.org/	Nurse Anesthetists, Kansas Association of	1999.0	169.0
+23234	http://corning.mykansaslibrary.org/	Comotara Branch Library	2007.0	2.0
+23235	http://www.winfieldks.org/index.aspx	Winfield	2009.0	592.0
+23236	http://lyoncounty.org/index/	Lyon	2012.0	231.0
+23237	http://www.meadelibrary.info	Meade Public Library	2004.0	122.0
+23238	http://www.grantcoks.org/	Grant	2000.0	1095.0
+23239	http://www.buhlerschools.org/Obee/index.php	Obee Elementary School	2012.0	2.0
+23242	http://www.kinsleypublicschools.org	Kinsley-Offerle Public Schools	2004.0	163.0
+23243	http://www.rileycountyks.gov	Riley	2004.0	886.0
+23244	http://curb.kansas.gov/	Citizens Utility Ratepayer Board	2007.0	83.0
+23245	http://www.nekls.org/	Northeast Kansas Library System	2002.0	1339.0
+23246	http://www.usd466.com/	USD 466	1999.0	749.0
+23247	http://schools.olatheschools.com/buildings/prairietrail/	Olathe Schools	0.0	46.0
+23248	http://schools.olatheschools.com/buildings/washington/	Olathe Schools	2013.0	15.0
+23250	http://www.atchisonlibrary.org/	Atchison Library	2001.0	110.0
+23251	http://www.kwo.org/	Water Office, Kansas	1999.0	36.0
+23252	http://www.bartonccc.edu/	Barton County Community College	2002.0	679.0
+23253	http://www.kansas.gov/kbi/	Investigation, Kansas Bureau of	2006.0	22.0
+23255	http://kansasrealtor.com/	Realtors, Association of	1999.0	259.0
+23256	http://blueskyways.org	Scandia City Library	2001.0	3.0
+23258	http://www.ricecounty.org/	Rice	2003.0	7653.0
+23259	http://www.kansas.gov/veterinary/	Veterinary Examiners, Kansas State Board of	2006.0	338.0
+23260	http://schools.olatheschools.com/buildings/northview/	Olathe Schools	0.0	29.0
+23262	http://ag.ks.gov/victim-services/victim-compensation	Crime Victims Compensation Program	2012.0	102.0
+23264	http://www.countycounselors.org/	County Counselors Association of Kansas	2002.0	86.0
+23265	http://www.silverlakelibrary.org	Silver Lake Library	2010.0	62.0
+23267	http://www.kscountyclerks.net/	County Clerks and Elected Officials Association, Kansas	2014.0	130.0
+23268	http://www.kdads.ks.gov/index.html	Aging and Disability Services, Kansas Department for	2012.0	122.0
+23269	http://www.kadc.org/	Defense Counsel, Association of	1999.0	25.0
+23271	http://schools.olatheschools.com/buildings/greensprings/	Olathe Schools	2013.0	20.0
+23272	http://www.co.sumner.ks.us/	Sumner	2000.0	1708.0
+23273	http://www.haysvillecommunitylibrary.org	Haysville Community Library	2006.0	67.0
+23274	http://www.usd475.org/school/mo/sitepages/home.aspx	Morris Hill Elementary - Home	2013.0	3.0
+23275	http://www.marionks.com	Marion City Library	1998.0	261.0
+23276	http://oswego.mykansaslibrary.org	Oswego Public	2010.0	55.0
+23277	http://www.kaia.com/default.aspx	Insurance Agents, Association of	2013.0	193.0
+23279	http://www.buhlerschools.org/BGS/index.php	Buhler Grade School	2012.0	2.0
+23280	http://web.usd475.org/school/je/default.aspx	Jefferson Elementary School	2013.0	14.0
+23281	http://www.mhklibrary.org/	Manhattan Public Library	2014.0	2115.0
+23284	http://www.bonnersprings.org/	Bonner Springs	2001.0	1425.0
+23288	http://skyways.lib.ks.us/library/fredonia/	Fredonia Public Library	1998.0	1.0
+23290	http://www.usd357.org	Belle Plaine USD 357 - Index	2011.0	537.0
+23291	http://walnut.mykansaslibrary.org	Walnut Public Library	2012.0	18.0
+23292	http://www.mcphersoncountyks.us/	Mcpherson	2003.0	482.0
+23293	http://meriden.mykansaslibrary.org	Meriden Community Library	2007.0	33.0
+23294	http://www.cityofulysses.com/	Ulysses	2000.0	217.0
+23295	http://www.syracuselibrary.info/	Hamilton County Public Library	2004.0	8.0
+23296	http://www.ksbtp.ks.gov/	Technical Professions, Kansas State Board of	2012.0	69.0
+23298	http://www.bourboncountyks.org/	Bourbon	2001.0	331.0
+23299	http://hillsboro.mykansaslibrary.org	Hillsboro Public Library	2008.0	49.0
+23300	http://www.pittks.org/	Pittsburg	1998.0	750.0
+23301	http://www.bucoks.com/	Butler	1999.0	832.0
+23302	http://www.usd458.org/blhs/	Basehor Linwood School District, USD 458	2005.0	1.0
+23303	http://www.cityofcolby.com/	Colby	2001.0	362.0
+23304	http://ww25.dkcoks.com/	Dickinson	2013.0	0.0
+23305	http://www.ksagretailers.org/mx/hm.asp?id=home	Agribusiness Retailers Association, Kansas	2011.0	83.0
+23306	http://www.usd259.org	Wichita Public Schools	2001.0	357.0
+23307	http://richmond.mykansaslibrary.org	Richmond Public Library	2007.0	266.0
+23308	http://www.abilenecityhall.com/	Abilene	2002.0	479.0
+23309	http://www.ksbha.org/	Kansas State Board of Healing Arts	2000.0	6.0
+23310	https://governor.ks.gov/about-the-governor/lt-governor-troy-findley	Lieutenant Governor of the State of Kansas	2009.0	31.0
+23311	http://schools.olatheschools.com/buildings/east/	Olathe Schools	2013.0	43.0
+23313	http://schools.olatheschools.com/buildings/heritage/	Olathe Schools	0.0	15.0
+23314	http://hs.hesstonschools.org	Hesston High School	2002.0	1020.0
+23315	http://usd287.org	USD 287	2002.0	84.0
+23317	http://www.usd355.org	USD 355 Ellinwood School District 	2004.0	57.0
+23318	http://kdoch.state.ks.us/Account/Login.aspx?ReturnUrl=%2f	Department of Commerce and Housing	2013.0	3.0
+23319	http://www.accesskansas.org/ethics/	Governmental Ethics Commission	2001.0	4.0
+23320	http://www.parkcitypubliclibrary.com/Pages/default.aspx	Park City Public Library	2013.0	28.0
+23321	http://moran.mykansaslibrary.org	Moran Public Library	2010.0	8.0
+23322	http://krgc.ks.gov/	Racing and Gaming Commission, Kansas	2009.0	350.0
+23325	http://www.jclib.org	Dorothy Bramlage Public Library	2000.0	12.0
+23328	http://www.pittstate.edu	Pittsburg State University	1997.0	4580.0
+23329	http://www.kacm.us/	City/County Management, Kansas Association of	2006.0	34.0
+23330	http://www.kansasstatefair.com/	State Fair, Kansas	2000.0	737.0
+23331	http://www.kslottery.com/	Lottery, Kansas	1997.0	162.0
+23332	http://www.roelandpark.net/	Roeland Park	2002.0	211.0
+23333	http://www.kansasjudicialcouncil.org/	Judicial Council	2008.0	71.0
+23334	http://www.linwoodlibrary.org	Linwood Community Library District 1	2003.0	20.0
+23335	http://skyways.lib.ks.us/library/oakley/	Oakley Public Library	1999.0	0.0
+23336	http://mclouth.mykansaslibrary.org	Mclouth Public Library	2007.0	32.0
+23338	http://www.kshs.org/	Historical Society, Kansas State	1999.0	4455.0
+23339	http://www.ksha.org/	Speech-Language-Hearing Association, Kansas	1999.0	67.0
+23341	http://www.kismetlibrary.info	Kismet Public Library	0.0	2.0
+23342	http://www.kslegislature.org/li/current/	State Legislature	2011.0	2.0
+23344	http://www.knusd331.com	USD 331 Kingman-Norwich - Home	1999.0	55.0
+23345	http://www.stpwebspace.net/library/	Lyon County Library Dist. 1	2009.0	9.0
+23346	http://schools.olatheschools.com/buildings/forestview/	Olathe Schools	0.0	19.0
+23347	http://www.ktia.org/	Telecommunications Industry Association, Kansas	2004.0	0.0
+23348	http://www.opkansas.org/	Overland Park	1999.0	991.0
+23349	http://www.quinterlibrary.org	Jay Johnson Public Library	2008.0	16.0
+23350	http://www.ci.manhattan.ks.us/	Manhattan	1998.0	958.0
+23351	http://www.cloud.edu/	Cloud County Community College	2002.0	563.0
+23352	http://www.labettecounty.com/	Labette	1999.0	404.0
+23353	http://schools.olatheschools.com/buildings/missiontrail/	Olathe Schools	0.0	51.0
+23354	http://www.dc.state.ks.us/	Corrections, Department of	2000.0	695.0
+23355	http://www.manhattantech.edu/	Manhattan Area Technical College	2012.0	659.0
+23356	http://skyways.lib.ks.us/library/stockton/	Stockton	2007.0	1.0
+23357	http://www.kacdc.com	Certified Development Companies, Kansas Association of	1999.0	33.0
+23358	http://www.usd420.org	Osage City Schools	2004.0	72.0
+23359	http://web.usd475.org/school/sh/default.aspx	Home - Sheridan Elementary	0.0	7.0
+23360	http://www.kscourts.org/	Kansas Judicial Branch	1999.0	2918.0
+23362	http://www.usd250.org	USD 250 Pittsburg - Home	2004.0	486.0
+23363	http://www.edwardsvilleks.org/	Edwardsville	2000.0	314.0
+23365	http://burlingame.mykansaslibrary.org	Burlingame Community Library	2007.0	24.0
+23367	http://ks-brown.manatron.com/	Brown	2012.0	455.0
+23369	http://kansassoybeans.org/	Soybean Association, Kansas	2001.0	91.0
+23370	http://www.usd207.org	Fort Leavenworth Unified School District 207	2010.0	280.0
+23371	http://www.ksde.org/	Education, Kansas Department of	2000.0	1806.0
+23373	http://www.salinatech.edu/	Salina Area Technical College	2009.0	159.0
+23374	http://www.swkls.org/ford/	Ford City Library	2008.0	0.0
+23375	http://rookscounty.net/	Rooks	2001.0	403.0
+23376	http://tscpl.org/	Topeka And Shawnee County Public Library	1998.0	7235.0
+23377	http://www.arkcity.org/portal/portal.aspx	Arkansas City	2009.0	372.0
+23379	http://mcfarlandks.com/	Mcfarland	2001.0	0.0
+23380	http://schools.olatheschools.com/buildings/rollingridge/	Olathe Schools	0.0	24.0
+23381	http://www.usd394.com/	Rose Hill Schools USD 394	2000.0	1365.0
+23385	http://www.usd230.org/ourschools/insightschoolofkansas/	Insight School of Kansas	2012.0	2.0
+23388	http://www.osagecitylibrary.org	Osage City Public Library	2009.0	85.0
+23389	http://howardlibrary.org	Howard City Library	2008.0	21.0
+23390	http://www.dodgecity.org/	Dodge City	1998.0	410.0
+23391	http://www.cawkercitypl.blogspot.com	Cawker City Public Library	2011.0	40.0
+23392	http://www.williamsburgcommunitylibrary.org	Williamsburg Community Library	2007.0	60.0
+23393	http://eriecity.mykansaslibrary.org	Erie City Public Library	2007.0	15.0
+23394	http://www.derbyschools.com	Derby Schools	2000.0	14.0
+23396	http://www.agingkansas.org/	Department on Aging	2002.0	16.0
+23399	http://www.usd218.org	Elkhart USD 218	1998.0	1728.0
+23400	http://agriculture.ks.gov/	Agriculture, Kansas Department of	2013.0	67092.0
+23401	http://www.sbids.org/	Indigents Defense Services, Board of	2001.0	16.0
+23402	http://www.nortoncountyks.org/	Norton	2003.0	1252.0
+23403	http://www.ksbar.org/	Bar Association, Kansas	1998.0	790.0
+23405	http://www.nckcn.com/homepage/portlib/	Port Library	2005.0	288.0
+23406	https://www.paak.org/	Public Accountants Association of Kansas, Inc.	1998.0	45.0
+23407	http://skyways.lib.ks.us/library/pottwablib/	Pottawatomie Wabaunsee Regional Library	1999.0	1.0
+23408	http://schools.olatheschools.com/buildings/south/	Olathe Schools	2013.0	45.0
+23410	http://www.khima.com/	Health Information Management Association	2001.0	25.0
+23413	http://srskansas.org/	Department of Social and Rehabilitation Services	2001.0	594.0
+23414	http://skyways.lib.ks.us/towns/anthony/library.html	Anthony Public Library	1998.0	0.0
+23415	http://www.kfb.org/	Farm Bureau, Kansas	1998.0	355.0
+23416	http://www.usd254.org	Barber County North USD 254	2001.0	260.0
+23417	http://bisonpl.blogspot.com	Bison Community Library	2013.0	20.0
+23418	http://www.fhsu.edu	Fort Hays State University	1996.0	2504.0
+23419	http://www.kansascommerce.com/index.aspx?NID=541	Arts Commission, Kansas	2012.0	1261.0
+23422	http://www.usd353.com/	Wellington USD 353 - Index	1997.0	277.0
+23423	http://schools.olatheschools.com/buildings/north/	Olathe Schools	2013.0	78.0
+23424	http://www.altamontks.com	Altamont Public Library	1998.0	103.0
+23425	http://www.haskellcounty.org/	Haskell	2001.0	447.0
+23426	http://www.turnerusd202.org	Turner Unified	2000.0	602.0
+23427	http://schools.olatheschools.com/buildings/ravenwood/	Olathe Schools	0.0	23.0
+23428	http://schools.olatheschools.com/buildings/oregontrail/	Olathe Schools	0.0	46.0
+23431	http://www.russellpl.blogspot.com	Russell Public Library	2011.0	0.0
+23432	http://columbus.mykansaslibrary.org	Columbus Public Library	2010.0	77.0
+23434	http://www.kswheat.com/	Wheat Commission, Kansas	1998.0	280.0
+23436	http://www.sewardcountyks.org/	Seward	2007.0	679.0
+23437	http://www.marc.org/	Mid-America Regional Council	1997.0	1138.0
+23438	http://www.sckls.info/	South Central Kansas Library System	2005.0	281.0
+23439	http://www.pvkansas.com/	Prairie Village	0.0	1729.0
+23440	http://www.usd272.org	Waconda USD 272	2002.0	304.0
+23441	http://www.havencityhall.org/	Haven	2008.0	19.0
+23442	http://edna.mykansaslibrary.org	Edna Public Library	2010.0	24.0
+23443	https://www.kscle.org/index.asp	Continuing Legal Education Commission, Kansas	2011.0	6.0
+23444	http://www.usd407.org	Welcome to USD 407	2000.0	39.0
+23445	http://www.kumc.edu	University of Kansas Medical Center	1996.0	1253.0
+23446	http://www.nwktc.edu	Northwest Kansas Technical College	2006.0	252.0
+23447	http://web.usd475.org/school/fr/sitepages/home.aspx	Franklin Elementary - Home	2013.0	3.0
+23448	http://www.usd475.org/school/jchs/sitepages/home.html	Junction City High School	2013.0	1.0
+23449	http://wamego.mykansaslibrary.org/	Wamego Public Library	2008.0	50.0
+23451	http://www.ses.derbyschools.com	Derby Schools	2010.0	0.0
+23452	http://www.indycc.edu/	Independence Community College	2002.0	383.0
+23453	https://www.governor.ks.gov/	Governor of the State of Kansas	2000.0	296.0
+23454	http://hutchcc.edu/	Hutchinson Community College	1996.0	1569.0
+23455	http://www.usakansas.org/	United School Administrators of Kansas	2009.0	92.0
+23456	http://www.usd489.com	USD 489	2002.0	68.0
+23457	http://www.olathelibrary.org	Olathe Schools	2005.0	212.0
+23458	http://www.ksamber.org/ksamber/index.do	Kansas Amber Plan	2010.0	24.0
+23459	https://www.kcua.coop/	Credit Union Association, Kansas	2004.0	786.0
+23460	http://www.usd292.org	USD 292	2008.0	165.0
+23461	http://bluemound.mykansaslibrary.org	Linn County Library Dist 3	2007.0	10.0
+23463	http://ashland.mykansaslibrary.org/	Ashland Library	2007.0	77.0
+23464	http://www.usd252.org/olpe/ohs/	Olpe High School	2006.0	0.0
+23466	http://andoverlibrary.org/	Andover Public Library	2005.0	510.0
+23467	http://www.usd384.org	USD 384 Blue Valley - Home	2006.0	728.0
+23468	http://www.kslegislature.org/li/	Legislative Services, Kansas	2011.0	4051.0
+23470	http://www.sccc.edu/	Seward County Community College/Area Technical School	2002.0	430.0
+23471	http://schools.olatheschools.com/buildings/ridgeview/	Olathe Schools	0.0	19.0
+23472	http://www.usd205.com	Bluestem USD 205	2002.0	560.0
+23474	http://www.glenelder.com/	Glen Elder	2001.0	76.0
+23475	http://everest.mykansaslibrary.org	Barnes Reading Room	2007.0	20.0
+23476	http://www.kshomecare.org/	Home Care Association, Kansas	1996.0	118.0
+23477	http://schools.olatheschools.com/buildings/fairview/	Olathe Schools	0.0	16.0
+23478	http://www.coffeyville.edu/	Coffeyville Community College	2002.0	2437.0
+23479	http://www.chetopalibrary.org	Chetopa City Library	2008.0	0.0
+23480	http://www.doc.ks.gov/juvenile-services	Juvenile Justice Authority, Kansas	2013.0	761.0
+23481	http://www.mtcoks.com/	Morton	2001.0	2.0
+23482	http://www.ksbems.org/ems/	Emergency Medical Services, Kansas State Board of	2009.0	143.0
+23484	http://www.ksdeaf.org/	Deaf, Kansas School for the	2002.0	63.0
+23485	http://www.mcphcity-bpu.com/	Mcpherson	2000.0	0.0
+23486	http://www.piperschools.com	Piper USD 203	2002.0	94.0
+23487	http://www.kansashighwaypatrol.org/	Highway Patrol, Kansas	2001.0	34.0
+23488	http://bonnerlibrary.org/	Bonner Springs City Library	2001.0	83.0
+23490	http://herington.mykansaslibrary.org/	Herington Public Library	2007.0	44.0
+23491	http://www.kansasombudsmanksgov.com/	Long-Term Care Ombudsman	2009.0	33.0
+23492	http://www.kapa-krmca.org/	Aggregate Producers Association, Kansas	1999.0	54.0
+23493	http://www.kckps.org	Kansas Public Schools	2002.0	1.0
+23494	http://www.ksbn.org/	Nursing, Kansas State Board of	2000.0	69.0
+23495	http://schools.olatheschools.com/buildings/westview/	Olathe Schools	0.0	19.0
+23496	http://www.russellcity.org/	Russell	2000.0	44.0
+23498	http://www.newtonplks.org	Newton Public Library	2000.0	65.0
+23499	http://www.armakansas.org/	Arma	2001.0	30.0
+23500	http://kansassheriffs.org/	Sheriffs Association, Kansas	2011.0	153.0
+23501	http://weir.mykansaslibrary.org	Weir Public Library	2010.0	14.0
+23502	http://www.kdheks.gov/nps/	Unified Watershed Assessment, Kansas	2005.0	21.0
+23503	http://www.kansas.gov/board/	Information Network of Kansas	2005.0	27.0
+23504	http://www.smsd.org/default.aspx	Shawnee Mission School District	0.0	560.0
+23505	http://www.ksia.org/home.aspx	Self-Insurers Association, Kansas	2011.0	54.0
+23506	http://www.springhillks.com/	Spring Hill	2001.0	397.0
+23507	http://www.protectionlibrary.com	Protection Township Library	2008.0	17.0
+23509	http://www.cityofiola.com/	Iola	2003.0	50.0
+23511	http://schools.olatheschools.com/buildings/walnutgrove/	Olathe Schools	2013.0	33.0
+23512	http://kec.kansas.gov/	Energy Council, Kansas	2006.0	36.0
+23513	http://ag.ks.gov/about-the-office/affiliated-orgs/scdrb	Child Death Review Board	2012.0	125.0
+23517	http://www.sabethalibrary.org	Mary Cotton Pubic Library	2006.0	16.0
+23519	http://www.accesskansas.org/kdem/	Division of Emergency Management	2003.0	3.0
+23520	http://www.stocktonkansas.net/	Stockton	2001.0	189.0
+23521	http://www.usd314.k12.ks.us	usd 314 MAIN PAGE	1998.0	25.0
+23523	http://www.derbylibrary.com	Derby Public Library	2001.0	64.0
+23524	http://www.buhlerschools.org/BHS/index.php	Buhler High School	2012.0	11.0
+23525	http://www.stantoncountylib.info/	Stanton County Public Library	2009.0	2.0
+23527	http://www.kansastag.gov/	Adjutant Generals Department, State of Kansas	2011.0	488.0
+23528	http://www.wiba.org/	Kansas Organization for Private Enterprise	1999.0	270.0
+23529	http://schools.olatheschools.com/buildings/pleasantridge/	Olathe Schools	0.0	21.0
+23530	http://www.nkcpl.org/	North Kansas City Public Library-High School Media Center	2013.0	370.0
+23531	http://www.kaaac.ks.gov/	African American Affairs Commission, Kansas	2010.0	109.0
+23532	http://www.holton.k12.ks.us/hhs/	Holton High School	2000.0	19.0
+23533	http://www.usd475.org/school/we/sitepages/home.aspx	Westwood Elementary - Home	2012.0	4.0
+23534	http://www.usd358.com	Oxford Public Schools 	2001.0	276.0
+23535	http://www.usd259.com	Wichita Public Schools	1998.0	368.0
+23536	http://www.usd475.org/school/wr/sitepages/home.aspx	Ware Elementary - Home	2013.0	5.0
+23538	http://kcdcinfo.ks.gov/home	Disability Concerns, Kansas Commission on	2013.0	83.0
+23540	http://schools.olatheschools.com/buildings/mahaffie/	Olathe Schools	0.0	29.0
+23541	http://prattpubliclibrary.org/site/	Pratt Public Library	2012.0	144.0
+23543	http://rankin.mykansaslibrary.org	Neodesha-W.A. Rankin Memorial	2007.0	46.0
+23544	http://www.securities.state.ks.us/	Office of the Kansas Securities Commissioner	2001.0	240.0
+23545	http://www.usd465.com	Winfield Unified School District #465: Home Page	1999.0	22453.0
+23547	http://www.oah.ks.gov/	Office of Administrative Hearings	2009.0	11.0
+23548	http://www.krwa.net/	Rural Water Association, Kansas	1998.0	2.0
+23549	http://www.kioga.org/	Independent Oil and Gas, Kansas Association of	2000.0	254.0
+23550	http://www.treasurer.state.ks.us/prodweb/main/index.php	Treasurer, Kansas State	2010.0	6.0
+23551	http://www.kansas.gov/employee/comp/	State Employee Compensation Oversight Commission	2008.0	9.0
+23553	http://www.ksdot.org/	Transportation, Department of	2000.0	626.0
+23554	http://www.kansascommerce.com/index.aspx	Technology Enterprise Corporation, Kansas	2010.0	1285.0
+23555	http://schools.olatheschools.com/buildings/meadowlane/	Olathe Schools	0.0	26.0
+23557	http://skyways.lib.ks.us/ksl/	Library, Kansas State	1999.0	1.0
+23558	http://www.kansascontractors.org/	Contractors Association, Kansas	2007.0	765.0
+23559	http://www.networkkansas.com/	Network Kansas	2006.0	194.0
+23560	http://www.ellsworthcounty.org	Ellsworth	2003.0	35.0
+23561	http://www.lacygnelibrary.org	Library District 2 , Linn County	2003.0	105.0
+23562	http://www.douglas-county.com/	Douglas	0.0	7.0
+23563	http://www.colbycc.edu/	Colby Community College	2002.0	559.0
+23564	http://schools.olatheschools.com/buildings/bentwood/	Olathe Schools	0.0	28.0
+23565	http://www.kspca.org/	Medically Underserved, Association for the	2003.0	51.0
+23566	http://www.ksaenet.org/	Society of Association Executives, Kansas	2009.0	115.0
+23567	http://www.oes.derbyschools.com	Derby Schools	2013.0	0.0
+23568	http://schools.olatheschools.com/buildings/sunnyside/	Olathe Schools	2013.0	22.0
+23569	https://www.ksaj.org/	Trial Lawyers Association	0.0	21.0
+23570	http://www.osagecity.com/	Osage	2001.0	175.0
+23571	http://www.washburn.edu	Washburn University	1998.0	139.0
+23572	http://www.gckschools.com	Garden City Public Schools	1998.0	322.0
+23573	http://www.topeka.org/	Topeka	1997.0	447.0
+23575	http://baldwin.mykansaslibrary.org/	Baldwin City Library	2011.0	11.0
+23576	https://www.facebook.com/pages/Ellis-Public-Library/140157903717	Ellis Public Library	0.0	1.0
+23577	http://www.usd395.org	La Crosse Public Schools	2007.0	1009.0
+23578	http://www.ncktc.edu	North Central Kansas Technical College	2006.0	630.0
+23579	http://peabody.mykansaslibrary.org	Peabody Township Library	2007.0	35.0
+23580	http://www.usd458.org/les/	Basehor Linwood School District, USD 458	2006.0	2.0
+23581	https://sites.google.com/a/usd253.net/fhlc/	Flint Hills Learning Center	2013.0	46.0
+23583	http://www.jocolibrary.org	Johnson County Library	2001.0	2099.0
+23584	http://schools.olatheschools.com/buildings/frontiertrail/	Olathe Schools	0.0	48.0
+23588	http://www.jcks.com/	Junction City	2001.0	777.0
+23589	http://fcpl.homestead.com	Finney County Public Library	2001.0	2.0
+23590	http://waterville.mykansaslibrary.org	Waterville Public Library	2007.0	52.0
+23591	http://schools.olatheschools.com/buildings/plc/	Olathe Schools	0.0	5.0
+23592	http://www.krcs.org/	Respiratory Care Society, Kansas	2000.0	20.0
+23593	http://www.havenschools.com	Haven USD 312	2006.0	583.0
+23594	http://www.crawfordcountykansas.org/	Crawford	2000.0	238.0
+23595	http://www.kshousingcorp.org/	Housing  Kansas Housing Resources Corporation	2003.0	366.0
+23596	http://www.usd497.org	USD 497 - Lawrence Public Schools	2000.0	3992.0
+23597	http://www.wichita.lib.ks.us	Wichita Public Library	1998.0	392.0
+23598	http://www.usd475.org/school/li/default.aspx	Home - Lincoln Elementary	2012.0	274.0
+23599	http://cityofhugoton.com/	Hugoton	2001.0	54.0
+23600	http://www.hayspublib.org	Hays Public Library	2000.0	1.0
+23601	http://oits.ks.gov/home/	Office of Information Technology Services	2012.0	54.0
+23603	http://www.florenceks.com	Florence	2003.0	111.0
+23604	http://www.dol.ks.gov/	Human Resources, Kansas Department of	2005.0	141.0
+23605	http://www.ottawacounty.org/	Ottawa	1998.0	496.0
+23606	http://www.phillipscounty.org/	Phillips	2001.0	65.0
+23607	http://www.rockcreekschools.org	Rock Creek USD 323	2000.0	1233.0
+23608	http://www.ulysses.org/vnews/display.v/sec/ulysses	Ulysses USD 214	0.0	150.0
+23609	http://www.ellis.ks.us/	Ellis	1999.0	28.0
+23610	http://www.kansasbuilders.org/	Building Industry Association, Kansas	2004.0	26.0
+23611	http://lhs.usd497.org	Lawrence High School	2001.0	2.0
+23612	http://www.carbondalecitylibrary.org	Carbondale City Library	2007.0	17.0
+23613	http://www.phes.derbyschools.com	Derby Schools	2010.0	0.0
+23614	http://www.ci.salina.ks.us/	Salina	1998.0	120.0
+23615	http://staffordcounty.org/	Stafford	2001.0	63.0
+23616	http://www.kslpa.org/	Legislative Division of Post Audit, Kansas	2012.0	190.0
+23617	http://www.kawvalley.k12.ks.us/	Kaw Valley Online | USD 321	1997.0	56.0
+23618	http://ms.hesstonschools.org	Hesston Middle School	2002.0	1006.0
+23619	http://interhab.org/main/	InterHab	2011.0	14.0
+23620	http://nesscitylibrary.org	Ness City Public Library	2008.0	1.0
+23621	http://valleyfalls.mykansaslibrary.org	Delaware Township Library	2007.0	58.0
+23622	http://www.kansasinc.org/	Kansas, Inc.	2001.0	1.0
+23623	http://tiak.org/	Travel Industry Association of Kansas	1998.0	30.0
+23624	http://www.emporia.edu	Emporia State University	1997.0	2047.0
+23625	http://www.usd327.org	USD 327	1998.0	151.0
+23627	http://www.skyways.org/library/thayer/index.html	Thayer Friday Reading Club City Library	2002.0	1.0
+23628	http://www.coffeycountyks.org/	Coffey	2000.0	201.0
+23629	http://www.dcf.ks.gov/Pages/default.aspx	Children and Families, Kansas Department for	2012.0	1921.0
+23630	http://www.kdheks.gov/hcf/	Health Policy Authority, Kansas	2011.0	138.0
+23631	http://riley.mykansaslibrary.org	Riley City Library	2008.0	1.0
+23632	http://schools.olatheschools.com/buildings/heartland/	Olathe Schools	0.0	8.0
+23633	http://www.hiawathalibrary.org	Hiawatha-Morrill Public Library	2007.0	64.0
+23634	http://topekaareahomes.com/	Realtors, Topeka Board of	2004.0	883.0
+23635	http://www.kansas.gov/kdb/	Dental Board, Kansas	2006.0	60.0
+23636	http://arkcity.scklf.info/	Arkansas City Public Library	2013.0	504.0
+23638	http://marysommerville.mykansaslibrary.org	Mary Sommerville Free Library, Mound City	2010.0	74.0
+23639	http://johnston.mykansaslibrary.org/	Johnston Public Library	2007.0	49.0
+23640	http://www.osageco.org/	Osage	2001.0	553.0
+23641	http://www.jfcountyks.com/	Jefferson	1999.0	833.0
+23642	http://www.kansas.gov/kreab/	Real Estate Appraisal Board, Kansas	2006.0	20.0
+23643	http://www.usd439.com	Sedgwick Public Schools USD 439 - Index	2011.0	508.0
+23644	http://fortscott.mykansaslibrary.org	Fort Scott Public Library	2008.0	7.0
+23645	http://www.tonganoxielibrary.org	Tonganoxie Public Library	2004.0	40.0
+23646	http://schools.olatheschools.com/buildings/countryside/	Olathe Schools	0.0	17.0
+23647	http://www.lyndonlibrary.org	Lyndon Carnegie Library	2007.0	47.0
+23648	http://www.ksboa.org/	Accountancy, Board of	2002.0	31.0
+23649	http://www.kdfa.org/	Development Finance Authority, Kansas	2000.0	164.0
+23650	http://www.heringtonschools.org	Herington Schools USD 487	2005.0	1495.0
+23651	http://www.fpakc.org/	Financial Planning Association	2004.0	33.0
+23652	http://www.lmlibrary.org	Liberal Memorial Library	2002.0	140.0
+23654	http://www.kansasforests.org/	Forest Service, Kansas	0.0	186.0
+23655	https://www.fhtc.edu/	Flint Hills Technical College	2008.0	139.0
+23656	http://www.fairwaykansas.org/	Fairway	2001.0	251.0
+23657	http://www.abileneschools.org	Abilene Public Schools - Home	2007.0	1106.0
+23658	http://www.da.ks.gov/	Administration, Department of	2006.0	340.0
+23659	http://ag.ks.gov/	Attorney General, Kansas	2012.0	959.0
+23660	http://www.northnewton.org/	North Newton	2003.0	135.0
+23661	http://www.neosho.edu/	Neosho County Community College	2002.0	1436.0
+23662	http://www.usd261.com	Haysville Schools	1998.0	16.0
+23663	http://www.kansas.gov/ksga/	Kansas State Gaming	2006.0	10.0
+23664	http://www.kwea.net/	Water Environment Association, Kansas	1999.0	74.0
+23665	http://www.epes.derbyschools.com	Derby Schools	2012.0	0.0
+23666	http://fshs.usd497.org	Free State High School	2000.0	1.0
+23667	http://childally.org/	Childrens Alliance of Kansas	2001.0	33.0
+23668	http://www.skyways.org/library/meadowlark/	Meadowlark Library-Lewis	2001.0	1.0
+23669	http://kcc.ks.gov/	Corporation Commission, Kansas	2000.0	93.0
+23670	http://www.ckls.org/	Central Kansas Library System	1997.0	1033.0
+23673	http://www.usd393.net	USD 393 Solomon Public Schools - Home	2010.0	1177.0
+23674	http://www.mission-ks.org/	Mission	2000.0	483.0
+23675	http://www.dcf.ks.gov/services/rs/pages/rsservices.aspx	Rehabilitation Transition Services, Kansas	2012.0	151.0
+23676	http://schools.olatheschools.com/buildings/californiatrail/	Olathe Schools	0.0	50.0
+23679	http://caney.mykansaslibrary.org	Caney City Library	2007.0	92.0
+23680	http://marysville.mykansaslibrary.org	Marysville Public Library	2007.0	152.0
+23681	http://www.ksc.ks.gov/	Securities Commissioner, Kansas	2007.0	244.0
+23682	http://schools.olatheschools.com/buildings/indiantrail/	Olathe Schools	0.0	84.0
+23683	http://www.hayshighindians.com	Hays High Indians	2000.0	148.0
+23684	http://www.usd266.com/education/components/scrapbook/default.php?sectiondetailid=14965&	District - Maize School District - Homepage	0.0	5.0
+23685	http://www.kab.net/	Broadcasters, Kansas Association of	1998.0	185.0
+23687	http://www.gcccks.edu/	Garden City Community College	2002.0	322.0
+23688	http://www.salina.k-state.edu	Kansas State University Salina	2005.0	370.0
+23689	http://cimarroncitylibrary.org/	Cimarron City Library	2004.0	79.0
+23690	http://www.usd475.org/school/jcms/sitepages/home.aspx	Junction City Middle School - Home	2013.0	14.0
+23691	http://schools.olatheschools.com/buildings/santafetrail/	Olathe Schools	2013.0	35.0
+23692	http://basehorlibrary.org/	Basehor Community Library, Dist 2, Lv. Co.	2000.0	150.0
+23693	http://www.kha-net.org/	Hospital Association, Kansas	1998.0	1167.0
+23695	http://www.dc3.edu	Dodge City Community College	2002.0	602.0
+23696	http://www.snco.us/	Shawnee	2009.0	569.0
+23697	http://www.osbckansas.org/	Bank Commissioner, Office of the State	2000.0	31.0
+23699	http://www.senecafreelibrary.org	Seneca Free Library	2006.0	87.0
+23700	http://www.ksgrainandfeed.org/mx/hm.asp?id=home	Grain and Feed Association, Kansas	2008.0	78.0
+23701	http://arma.mykansaslibrary.org/	Arma City Library	2010.0	51.0
+23702	http://www.swkls.org/	Southwest Kansas Library System	2005.0	2.0
+23703	http://hamiltoncity.mykansaslibrary.org	Hamilton City Library	2007.0	12.0
+23704	http://www.usd408.com	Marion-Florence USD 408	2001.0	772.0
+23705	https://pooledmoneyinvestmentboard.com/	Pooled Money Investment Board	2004.0	20.0
+23706	http://www.usd458.org/blms/	Basehor Linwood School District, USD 458	2006.0	1.0
+23707	http://kspress.com/	Press Association, Kansas	1998.0	467.0
+23708	http://www.swkls.org/minneola/	Minneola City Library	2007.0	0.0
+23709	http://www.kansasregents.org/	Regents, Kansas Board of	2000.0	518.0
+23711	http://www.kla.org/	Livestock Association, Kansas	1998.0	49.0
+23713	http://swkls.org/ransom/	Ransom Public Library	2007.0	0.0
+23715	http://schools.olatheschools.com/buildings/havencroft/	Olathe Schools	0.0	23.0
+23716	http://www.usd316.k12.ks.us/	Golden Plains USD #316	1996.0	767.0
+23717	http://www.ksturnpike.com/	Turnpike Authority, Kansas	1996.0	159.0
+23724	http://www.leadingagekansas.org/i4a/pages/index.cfm?pageid=4629	Homes and Services for the Aging, Kansas Association of	2012.0	171.0
+23725	http://www.eldoks.com/	El Dorado	2000.0	553.0
+23727	http://www.kansastag.gov/kdem_default.asp	Emergency Management, Kansas Division of	2011.0	0.0
+23728	http://www.kssos.org/	Secretary of State, Kansas	1999.0	630.0
+23731	http://www.fredoniaks.com/cms/One.aspx	Fredonia Unified School District	2013.0	112.0
+23732	http://www.dms.derbyschools.com	Derby Schools	2010.0	0.0
+23734	http://schools.olatheschools.com/buildings/woodland/	Olathe Schools	0.0	23.0
+23735	http://www.finneycounty.org/	Finney	2001.0	469.0
+23736	http://www.allencounty.org/	Allen	1998.0	87.0
+23737	http://schools.olatheschools.com/buildings/briarwood/	Olathe Schools	2013.0	24.0
+23738	http://www.pottcounty.org/	Pottawatomie	2000.0	7.0
+23739	http://skyways.lib.ks.us/towns/delphos/library.html	Delphos Public Library	2001.0	0.0
+23740	http://www.usd462.org	Central USD 462	1999.0	711.0
+23741	http://www.kansas.gov/kala/	Legal Assistants, Association of	2006.0	12.0
+23742	http://www.usd475.org/school/sz/sitepages/home.aspx	Seitz Elementary - Home	2012.0	3.0
+23743	http://www.kema.org/	Emergency Management Association, Kansas	1998.0	31.0
+23745	http://mclib.elkhart.com	Elkhart-Morton County Library	2000.0	15.0
+23746	http://www.emporia-kansas.gov/	Emporia	2007.0	52.0
+23747	http://www.usd458.org/bes/	Basehor Linwood School District, USD 458	2006.0	1.0
+23749	http://www.accesskansas.org/krc/	Racing and Gaming Commission	2003.0	351.0
+23750	http://belleplainelibrary.com	Belle Plaine Public Library	2002.0	10.0
+23751	http://schools.olatheschools.com/buildings/chisholmtrail/	Olathe Schools	2014.0	49.0
+23752	http://www.usd230.org	Spring Hill School District :: Serving Olathe, Overland Park & Spring Hill, Kansas	2004.0	1058.0
+23753	http://skyways.lib.ks.us/library/bradford/	Bradford Memorial Library	2002.0	1.0
+23755	http://www.wpl.org	Winfield Public Library	1998.0	55.0
+23756	http://www.cvillepublib.org	Coffeyville Public Library	2007.0	1.0
+23758	http://www.cowleycounty.org/	Cowley	2001.0	1440.0
+23760	http://www.fortscott.edu/	Fort Scott Community College	2002.0	277.0
+23761	http://www.butlercc.edu/	Butler County Community College	2002.0	1300.0
+23762	http://www.wetmorepubliclibrary.org	Wetmore Public Library	2007.0	106.0
+23764	http://plainvillepl.blogspot.com	Plainville Memorial	2011.0	77.0
+23766	http://www.goddardlibrary.com	Goddard Public Library	2007.0	7.0
+23767	http://www.kansascollaborative.com/	Kansas Collaborative, The	2011.0	23.0
+23769	http://kdwpt.state.ks.us/	Wildlife, Parks and Tourism, Kansas Department of	2011.0	5634.0
+23771	http://www.usd508.org	Baxter Springs Public Schools	2003.0	347.0
+23772	http://www.garden-city.org/	Garden City	1999.0	518.0
+23773	http://www.usd306.k12.ks.us/site/default.aspx?PageID=1	USD 306 Southeast of Saline / Homepage	2013.0	7.0
+23774	http://pharmacy.ks.gov/	Pharmacy, Kansas Board of	2013.0	110.0
+23775	https://www.kansas.gov/ksbma-renewals/bus-credentials.html	Mortuary Arts, Kansas State Board of	2013.0	4.0
+23776	http://olathe.k-state.edu	Olathe Schools	2010.0	341.0
+23777	http://www.mgcountyks.org/	Montgomery	2001.0	320.0
+23778	http://www.doc.ks.gov/facilities/lcf	Lansing Correctional Facility	2009.0	270.0
+23780	http://leavenworthpubliclibrary.org/	Leavenworth Public Library	2006.0	438.0
+23782	http://www.kwswa.org/	Wine and Spirits Wholesalers Association, Kansas	2010.0	8.0
+23783	http://www.kansassafekids.org/	SAFE KIDS, Kansas	2008.0	24.0
+23784	http://www.ksaap.org/	Kansas Association of Addiction Professionals	2006.0	7.0
+23785	http://www.kasb.org/	School Boards, Association of	2001.0	209.0
+23786	http://www.burrton.schoolfusion.us/	Burrton USD 369 - Launch Page	2010.0	298.0
+23787	http://schools.olatheschools.com/buildings/scarborough/	Olathe Schools	0.0	36.0
+23789	http://www.woodsoncounty.net/	Woodson	2000.0	38.0
+23790	http://www.usd252.org/olpe/oes/	Olpe Elementary School	2006.0	0.0
+23791	http://www.ottawaks.gov/	Ottawa	2009.0	399.0
+23792	http://www.kansas.gov/kboc/	Cosmetology, Kansas Board of	2006.0	64.0
+23793	http://colonycity.mykansaslibrary.org/	Colony City Library	2010.0	4.0
+23795	http://www.k-state.edu	Kansas State University	1998.0	3212.0
+23796	http://www.usd475.org/school/fre/sitepages/home.aspx	Fort Riley Elementary - Home	2013.0	3.0
+23797	http://www.colbylibrary.com	Colby-Pioneer Memorial Library	2006.0	27.0
+23798	http://leonardville-library.tripod.com	Leonardville City Library	2012.0	1.0
+23799	http://nckls.mykansaslibrary.org/	North Central Kansas Library System	2007.0	217.0
+23801	http://centralia.mykansaslibrary.org	Centralia Community Library	2007.0	2.0
+23802	http://www.winchesterlibrary.org	Winchester Public Library	2007.0	69.0
+23803	http://www.pv362.org	USD 362 Prairie View	2004.0	585.0
+23804	http://www.usd107.org	Rock Hills Grizzlies Website	2008.0	38.0
+23805	http://www.mcpherson.com/418/	USD 418 Home	1997.0	102.0
+23806	http://www.usd383.org	Manhattan Ogden, KS : Manhattan Ogden	2000.0	2154.0
+23807	http://schools.olatheschools.com/buildings/tomahawk/	Olathe Schools	0.0	15.0
+23808	http://www.usd443.org	Dodge City Public Schools	0.0	2548.0
+23810	http://www.jocogov.org	Johnson	2003.0	1789.0
+23811	http://www.halsteadks.com/	Halstead	2001.0	1.0

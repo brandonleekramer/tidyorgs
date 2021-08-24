@@ -1,0 +1,737 @@
+NodeId	NodeURL	NodeName	Year	pages
+46688	http://www.eagletownisd.org/	Eagletown Public Schools	2011.0	338.0
+46689	http://www.ok.gov/oesc_web/	Employment Security Commission (0290)	2008.0	161.0
+46691	http://www.binger-oney.k12.ok.us/	Binger-Oney Public Schools	2001.0	371.0
+46692	http://www.nwosu.edu	Northwestern Oklahoma St. University (0505)	1999.0	2418.0
+46693	http://www.westville.k12.ok.us/	Westville Public School	2001.0	6239.0
+46694	http://www.ocisales.com/	Oklahoma Correctional Industries	2005.0	104.0
+46695	https://www.redlandscc.edu/	Redlands Community College (0241)	2002.0	641.0
+46696	http://src.k12.ok.us/	South Rock Creek Public School	2009.0	18.0
+46697	http://www.crescentok.com/	Crescent Public Schools	2002.0	20.0
+46698	http://www.checotah.k12.ok.us/	Checotah Public Schools	2001.0	645.0
+46699	http://www.ci.edmond.ok.us/	Edmond	2000.0	6.0
+46700	http://www.bartlesville.k12.ok.us/	Bartlesville Public School District	2000.0	16.0
+46701	http://www.okhouse.gov	House of Representatives (0422)	2004.0	9.0
+46702	http://www.haworth.k12.ok.us/	Haworth Public Schools	1999.0	974.0
+46705	http://www.laverne.k12.ok.us/	Laverne Public Schools	2000.0	452.0
+46706	http://www.law.ou.edu/	University of Oklahoma Law Center (0761)	1997.0	1299.0
+46708	http://ok.gov/dcs/	Capital Assets Managment, Division- DCAM (0580)	2006.0	1248.0
+46709	http://www.haywood.k12.ok.us/	Haywood Public School	2008.0	207.0
+46711	http://www.chandler.k12.ok.us/	Chandler Public Schools	2002.0	430.0
+46712	http://www.newkirkpl.okpls.org	Newkirk Public Library	2006.0	2.0
+46713	http://www.jenksps.org/	Jenks Public Schools	2003.0	3226.0
+46714	http://www.tonkawa.k12.ok.us/	Tonkawa Schools	0.0	355.0
+46715	http://www.omhof.com/	Music Hall of Fame	2007.0	72.0
+46716	http://www.poncacityok.com/	Ponca City	2000.0	1.0
+46717	http://www.sweetwater.k12.ok.us/	Sweetwater Public School	2008.0	59.0
+46718	http://www.davisokla.com/	Davis	2000.0	2.0
+46719	http://www.prague.k12.ok.us/	Prague Public Schools	2006.0	957.0
+46720	http://www.buffalo.k12.ok.us/	Buffalo Public Schools	2001.0	4.0
+46721	http://www.grandfield.k12.ok.us/	Grandfield Public Schools	2001.0	10.0
+46722	http://www.ok.gov/odol/	Department of Labor	2008.0	101.0
+46723	http://www.carney.k12.ok.us/	Carney Public Schools	2001.0	264.0
+46724	http://www.adacougars.net/custom/index.php	Ada City Schools	2012.0	116.0
+46725	http://www.collinsville.k12.ok.us/	Collinsville Public Schools	1999.0	19.0
+46726	http://www.lg.k12.ok.us/	Locust Grove Public Schools	2002.0	127.0
+46727	http://www.swosu.edu/sayre/	Southwestern Oklahoma State University	1997.0	2.0
+46728	http://www.uco.edu/	UCO - University of Central Oklahoma (0120)	1997.0	120.0
+46729	http://www.kiowa.k12.ok.us/	Kiowa Public School	2001.0	24.0
+46730	http://www.madillok.com/	Madill Public Schools	1998.0	123.0
+46731	http://www.oklegislature.gov/	Legislative Service Bureau (0423)	2010.0	1252.0
+46733	http://www.blued.org/	Walters Public Schools	2001.0	1042.0
+46734	http://www.tulsalibrary.org/	South Broken Arrow Library	1998.0	1304.0
+46735	http://www.reydonps.k12.ok.us/	Reydon Public Schools	2009.0	1.0
+46736	http://www.owcc.state.ok.us/	Workers' Compensation Court (0369)	2002.0	54.0
+46737	http://www.oklahomacentennial.com/	Centennial Commission	2001.0	1.0
+46739	http://midway.k12.ok.us/	Midway Public Schools	2010.0	2.0
+46741	http://www.courthouse.kay.ok.us/home.html	Kay	1999.0	1035.0
+46742	http://www.thevillageok.org/	The Village	2002.0	51.0
+46743	http://www.opers.ok.gov/	Public Employees Retirement System (0515)	2008.0	159.0
+46744	http://www.glover.lib.ok.us	Rush Springs-Glover Spencer Memorial Library	2003.0	12.0
+46745	http://www.ardmoreschools.org/	Ardmore City Schools	2009.0	341.0
+46746	http://www.ok.gov/treasurer/	State Treasurer (0740)	2007.0	103.0
+46747	http://www.nicholshills.net/	Nichols Hills	2001.0	1638.0
+46748	http://wplibs.com/branches/cheyenne/	Minnie R Slief Library	2010.0	0.0
+46749	http://www.ok.gov/oubcc/	Uniform Building Code Commission (0753)	2010.0	73.0
+46750	http://www.vinitahornets.com/	Vinita Public Schools	2002.0	938.0
+46751	http://www.dustin.k12.ok.us/	Dustin Public Schools	2001.0	10.0
+46752	http://www.wynnewood.k12.ok.us/	Wynnewood Public Schools	2001.0	37.0
+46753	http://www.sallisawok.org/	Sallisaw	2002.0	345.0
+46754	http://www.healthsciences.okstate.edu/college/index.cfm	Osteopathic Medicine, College - OSU (0773)	2007.0	66.0
+46756	http://www.ok.gov/dentistry/	Dentistry Board (0215)	2013.0	12.0
+46757	http://www.adaok.com/	Ada	1999.0	38.0
+46758	http://www.ok.gov/tset/	Tobacco Settlement Endowment Trust (0092)	2007.0	138.0
+46759	http://www.okcca.net/	Criminal Appeals Court (0199)	2001.0	22.0
+46760	http://www.frontierok.com/	Frontier Public Schools	2001.0	13766.0
+46762	http://www.springerschools.com/	Springer Public Schools	2009.0	536.0
+46763	http://www.chatty.k12.ok.us/education/school/school.php?sectionid=3	Chattanooga Public School	2008.0	3.0
+46764	http://www.stilwellk12.org/	Stilwell Public Schools	2010.0	1016.0
+46766	http://www.cityofsapulpa.net/	Sapulpa	2001.0	93.0
+46767	http://www.walterspubliclibrary.com	Walters Public Library	2006.0	2.0
+46769	http://www.durant.org/	Durant	1998.0	48.0
+46771	http://www.nrc.k12.ok.us/	North Rock Creek School	2008.0	705.0
+46772	http://www.kansasps.com/	Kansas Public Schools	2007.0	389.0
+46773	http://www.bigpastureps.k12.ok.us/	Big Pasture Public Schools	2002.0	261.0
+46774	http://www.kingston.k12.ok.us/	Kingston Public School	2001.0	1616.0
+46775	http://www.nsuok.edu/NSUHome.aspx	Northeastern State   University	2009.0	528.0
+46776	http://www.state.ok.us/~ok-pension/	Pension Commission, Oklahoma State	2000.0	8.0
+46777	http://gans.k12.ok.us/	Gans Public School	2001.0	484.0
+46778	http://www.pocola.k12.ok.us/	Pocola Public Schools	1998.0	158.0
+46779	http://www.guymontigers.com/	Guymon Public Schools	2003.0	0.0
+46780	http://www.pmtc.ok.gov/	Physician Manpower Training Commission (0619)	2006.0	23.0
+46781	http://www.altusschools.k12.ok.us/	Altus Public Schools	1998.0	645.0
+46782	https://www.cityoftulsa.org/default.aspx	Tulsa	2012.0	1378.0
+46783	http://www.fairlandowls.com/	Fairland Public Schools	2002.0	21.0
+46784	http://www.okkids.org/	Children & Youth Commission (0127)	1998.0	277.0
+46785	http://www.skiatookschools.org/	Skiatook Public Schools	0.0	1240.0
+46786	http://www.ok.gov/oklahomafilm/	Film and Music Office	2010.0	85.0
+46787	http://bethanyschools.com/	Bethany Public Schools	2007.0	238.0
+46788	http://www.ogs.ou.edu	Geological Survey (0325)	2002.0	91.0
+46789	http://www.health.state.ok.us/	Department of Health	1996.0	1000.0
+46790	http://www.swosu.edu	Southwestern Oklahoma State   University	1996.0	1233.0
+46793	http://www.pawnee.k12.ok.us/	Pawnee Public Schools	2012.0	175.0
+46794	http://www.tuttleschools.info/	Tuttle Public Schools	2006.0	142.0
+46795	http://www.kingfisher.k12.ok.us/	Kingfisher School District	2001.0	262.0
+46796	http://www.ok.gov/cleet/	Council on Law Enforcement Education and Training	2008.0	116.0
+46798	http://www.tenkiller.k12.ok.us/	Tenkiller School	2004.0	505.0
+46799	http://www.rsu.edu/pryor/	Rogers State University	1999.0	47.0
+46800	http://www.oces.okstate.edu/	OSU - Extension Division (0012)	2000.0	75.0
+46801	http://www.poncacityok.gov/index.aspx?nid=155	Ponca City Library	2011.0	937.0
+46802	http://bethel.k12.ok.us/district/	Bethel Public Schools	2009.0	9.0
+46803	http://www.oesc.state.ok.us/	Employment Security Commission	1996.0	1.0
+46804	http://www.ohfa.org/	Housing Finance Agency (0922)	0.0	135.0
+46805	http://www.wynona.k12.ok.us/	Wynona Public Schools	2005.0	617.0
+46806	http://www.guthrie.okpls.org	Guthrie Public Library	2004.0	3.0
+46807	http://www.guymonok.com/	Guymon	1998.0	506.0
+46808	http://www.cityofowasso.com/	Owasso	2000.0	569.0
+46809	http://www.ucponcacity.com/	University Center at Ponca   City	2006.0	19.0
+46810	http://www.ada.lib.ok.us	Ada Public Library	2001.0	3.0
+46811	http://ocib.org/ocib/web.nsf/pages/index.html	Capital Investment Board (0915)	2007.0	19.0
+46812	http://www.lonegrove.k12.ok.us/	Lone Grove Public Schools	2003.0	81.0
+46813	http://texhoma61.weebly.com/	Texhoma Oklahoma Schools	2011.0	45.0
+46814	http://www.harmonyps.org/	Harmony Public School	2007.0	430.0
+46815	http://www.salina.k12.ok.us/	Salina Public Schools	2000.0	747.0
+46816	https://www.sos.ok.gov/Default.aspx	Secretary of State (0625)	2010.0	197.0
+46817	http://www.henryettalibrary.org	Henryetta Public Library	2003.0	1.0
+46819	http://www.ok.gov/obespa/	Speech-Language Pathology & Audiology Board (0632)	2010.0	28.0
+46820	http://www.zionjets.com/	Zion Public School	2004.0	59.0
+46821	http://www.navajo.k12.ok.us/	Navajo Public Schools	2004.0	27.0
+46822	http://www.teacherweb.com/OK/RobinHillPublicSchool/HomePage/SDHP1.aspx	Robin Hill Public School	2012.0	17.0
+46823	http://www.sperry.k12.ok.us/	Sperry Public Schools	1999.0	0.0
+46824	http://www.tulsalibrary.org/hkkaiser/	Herman Kate Kaiser Library	2008.0	4.0
+46825	http://www.eodls.lib.ok.us	Eastern Oklahoma District Library System	1998.0	41.0
+46826	http://climate.ok.gov	Climatological Survey	2007.0	210.0
+46827	https://carlalbert.edu/?id=84	Carl Albert State College - CASC Sallisaw	2013.0	1511.0
+46828	http://www.sentinel.k12.ok.us/	Sentinel Public Schools	2001.0	18.0
+46829	http://www.soutarlibrary.okpls.org/	Soutar Memorial Library	2011.0	4.0
+46831	http://www.cvm.okstate.edu/	Veterinary Medicine, OSU College of (0014)	1997.0	8093.0
+46832	http://eldoradoschool.weebly.com/	Eldorado Public Schools	2012.0	32.0
+46834	http://www.lutherlions.org/	Luther Public Schools	2001.0	388.0
+46835	http://www.ok.gov/able/	Alcoholic Beverage Laws Enforcement Commission	2008.0	38.0
+46837	http://www.mcalester.k12.ok.us/	McAlester Public Schools	1998.0	1040.0
+46838	http://www.nsuok.edu	Northeastern State University	1997.0	528.0
+46840	http://www.dps.state.ok.us/	Public Safety Department (0585)	1996.0	489.0
+46841	http://www.holdenvillepl.okpls.org	Holdenville - Grace Pickens Public Library	2003.0	3.0
+46842	http://www.okhca.org	Health Care Authority (0807)	2005.0	1758.0
+46843	http://midwestcityok.org/	Midwest City	2003.0	474.0
+46844	http://www.thackervilleschools.org/	Thackerville Public Schools	2002.0	153.0
+46845	http://www.rockymtn.k12.ok.us/	Rocky Mountain School	2001.0	555.0
+46846	http://www.ok.gov/omvc/	Motor Vehicle Commission (0475)	2005.0	25.0
+46847	http://www.foxps.k12.ok.us/	Fox Public Schools	2001.0	360.0
+46848	http://www.cameron.edu/duncan/	Cameron University	2004.0	48.0
+46849	http://www.erickps.k12.ok.us/	Erick Public Schools	2004.0	210.0
+46850	http://www.benningtonisd.org/	Bennington Public School	2000.0	461.0
+46851	http://www.hintonschools.org/	Hinton Public Schools	2011.0	70.0
+46852	http://www.ruso.edu	Regional University System of Oklahoma (0610)	2007.0	8.0
+46855	http://www.chs.k12.ok.us/	Calumet Public School	2000.0	160.0
+46857	http://www.rushsprings.k12.ok.us/	Rush Springs Public Schools	2004.0	620.0
+46858	http://www.oag.ok.gov/	Human Rights Commission (0355)	2007.0	0.0
+46860	http://www.brokenarrowok.gov	Broken Arrow	2003.0	556.0
+46861	http://occa.state.ok.us/	Oklahoma Court of Criminal Appeals	1997.0	10.0
+46862	http://jdmc.org/	J.D. McCarty Center (0670)	1998.0	0.0
+46863	http://www.okfuneral.com/	Funeral Board (0285)	2001.0	207.0
+46864	http://www.sequoyaheagles.net/	Sequoyah Public Schools	2000.0	950.0
+46865	http://www.cityof.lawton.ok.us/	Lawton	1998.0	412.0
+46866	http://www.jennings.k12.ok.us/	Jennings Public Schools	2004.0	320.0
+46867	http://www.mustangps.org/	Mustang Public Schools	2003.0	239.0
+46868	http://www.commercetigers.net/	Commerce Public Schools	2001.0	59.0
+46869	http://www.apswarriors.org/	Anadarko Public Schools	2009.0	234.0
+46870	http://www.odl.state.ok.us/	Libraries Department (0430)	1999.0	393.0
+46871	http://www.granite.k12.ok.us/	Granite Public Schools	2009.0	1.0
+46872	http://www.eodls.lib.ok.us/sallisaw.html	Stanley Tubbs Memorial Library	2000.0	41.0
+46873	http://www.ok.gov/OIDS/	Indigent Defense System (0047)	2006.0	17.0
+46875	http://www.ketchumwarriors.com/	Ketchum Public Schools	2001.0	848.0
+46876	http://www.swink.k12.ok.us/	Swink Public Schools	0.0	76.0
+46877	http://jackson.okcounties.org/	Jackson	2013.0	71.0
+46878	http://www.boisecity.k12.ok.us/	Boise City School	1999.0	382.0
+46879	http://www.shawnee.k12.ok.us/	Shawnee Public Schools	2000.0	140.0
+46880	http://www.pondcreek-hunter.k12.ok.us/	Pond Creek-Hunter Schools	2000.0	66.0
+46881	http://www.chickasha.k12.ok.us/	Chickasha Public Schools	2002.0	173.0
+46882	http://www.spavinawok.com/	Spavinaw School	2011.0	25.0
+46883	http://www.tax.ok.gov/	Tax Commission (0695)	2005.0	710.0
+46884	http://www.banner.k12.ok.us/	Banner School District	2009.0	1.0
+46885	http://www.freedom.k12.ok.us/	Freedom Public Schools	2001.0	27.0
+46886	http://www.miami.k12.ok.us/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Miami Public Schools	0.0	1.0
+46887	http://www.alvaschools.com/	Alva Independent Schools	2003.0	33.0
+46888	http://www.schoolreportcard.org/	Education Oversight Board-Office of Accountability	2000.0	9.0
+46891	http://konawa.k12.ok.us/	Konawa Public School	1998.0	1117.0
+46892	http://www.okhistory.org/	Historical Society (0350)	2003.0	2016.0
+46893	http://dahlonegah.k12.ok.us/	Dahlonegah Public Schools	2001.0	317.0
+46894	http://www.mid-del.net/education/components/scrapbook/default.php?sectionid=1	Mid-Del Schools	2012.0	0.0
+46895	http://www.rsu.edu/	Rogers State University (0461)	1998.0	3242.0
+46896	http://www.paulsvalleyschools.com/	Pauls Valley Public Schools	2010.0	250.0
+46897	http://www.ardmorelibrary.org	Ardmore Public Library	2008.0	26.0
+46898	http://www.chickasha.org/	Chickasha	1999.0	8.0
+46901	http://www.cimarron.k12.ok.us/	Cimarron Public Schools	2000.0	567.0
+46902	http://www.biosurvey.ou.edu/	Biological Survey (7600)	1998.0	243.0
+46904	http://www.ahec.osrhe.edu	Ardmore Higher Education Center (0606)	1996.0	6.0
+46905	http://www.wetumka.k12.ok.us/	Wetumka Public Schools	2002.0	442.0
+46907	http://www.shawneeok.org/	Shawnee	2000.0	3198.0
+46908	http://www.tlake.k12.ok.us/	Timberlake Public Schools	2001.0	41.0
+46909	http://www.okstate.edu	Oklahoma State University	1997.0	6.0
+46910	http://www.gearyschools.org/	Geary Public Schools	2010.0	940.0
+46911	http://www.opsu.edu	Oklahoma   Panhandle State University	1998.0	512.0
+46913	http://www.oerb.com/	Energy Resources Board (0359)	1998.0	281.0
+46915	http://www.hollis.k12.ok.us/	Hollis Independent School District	2000.0	6070.0
+46916	http://www.ok.gov/OEM/	Department of Civil Emergency Management	2005.0	871.0
+46917	http://www.stringtown.k12.ok.us/	Stringtown Public Schools	1998.0	387.0
+46919	http://www.ok.gov/oec/	Ethics Commission (0296)	2008.0	90.0
+46921	http://www.bowringps.com	Bowring Public Schools	2008.0	0.0
+46922	http://albion.k12.ok.us/	Albion Public School	2009.0	34.0
+46924	http://www.newkirkps.com/	Newkirk Public Schools	2007.0	69.0
+46925	http://www.ok.ngb.army.mil/	Military Department, Oklahoma (0025)	2006.0	74.0
+46926	http://www.apache.k12.ok.us/	Boone-Apache Public Schools	2001.0	78.0
+46927	http://www.centralps.k12.ok.us/	Central Public Schools	2001.0	147.0
+46928	http://www.ok.gov/ocast/	Oklahoma Center for the Advancement of Science and Technology	2009.0	184.0
+46929	https://sites.google.com/a/middleberg.k12.ok.us/middleberg-schools/home	Middleberg Schools	0.0	2.0
+46930	http://www.carmen.lib.ok.us	Carmen Public Library	2001.0	9.0
+46931	http://www.mooreschools.com/site/default.aspx?PageID=1	Moore Public Schools	2011.0	10.0
+46932	http://www.cityofdelcity.com/	Del City	1999.0	144.0
+46933	https://sites.google.com/site/arkomak12/	Arkoma Public Schools	2013.0	5.0
+46934	http://www.antlers.k12.ok.us/	Antlers Public School	2001.0	1352.0
+46935	http://www.eosc.edu	Eastern Oklahoma State College	2002.0	699.0
+46936	http://www.rose.edu	Rose State   College	2002.0	1308.0
+46937	http://www.turnerisd.org/	Turner Public Schools	2001.0	21.0
+46940	http://www.glencoe.k12.ok.us/education/school/school.php?sectionid=3	Glencoe Public Schools	2009.0	5.0
+46941	http://www.milburn.k12.ok.us/	Milburn Public Schools	2001.0	335.0
+46942	http://www.washington.k12.ok.us/	Washington Public Schools	2002.0	12.0
+46943	http://cityofharrah.com/	Harrah	2011.0	79.0
+46944	http://ompa.com/	Municipal Power Authority (0981)	1998.0	98.0
+46945	http://crutchoesd.org/	Crutcho Public Schools	2002.0	1088.0
+46946	http://www.ringwood.k12.ok.us/	Ringwood Public Schools	2000.0	423.0
+46948	http://www.tulsaweb.com/ucat.htm	University Center at Tulsa (0774)	1999.0	24.0
+46950	http://www.idabelps.org/	Idabel Public Schools	2002.0	502.0
+46951	http://www.nwosu.edu/enid/	Northwestern Oklahoma State   University	2002.0	10.0
+46952	http://www.braggs.k12.ok.us/	Braggs Public Schools	2002.0	286.0
+46953	http://www.ecphs.k12.ok.us/	Elmore City-Pernell Public Schools	2001.0	706.0
+46956	http://www.ok.gov/odva/	Veterans Affair Department (0650)	2006.0	70.0
+46957	http://www.quartzmountain.org/	Quartz Mountain Arts & Conference Center & Nature Park (0620)	2003.0	41.0
+46958	http://www.millcreek.k12.ok.us/	Mill Creek School	0.0	133.0
+46959	http://www.thegunmuseum.com	J.M. Davis Memorial Commission (0204)	2002.0	7.0
+46960	http://www.mccurtain.k12.ok.us/	McCurtain Public School	0.0	37.0
+46961	http://www.weleetka.k12.ok.us/	Weleetka Public Schools	1998.0	879.0
+46962	http://www.woodall.k12.ok.us/	Woodall Public Schools	1999.0	468.0
+46963	http://www.cityofmcalester.com/	Mcalester	2001.0	494.0
+46964	http://www.flowermound.k12.ok.us/	Flower Mound School	2002.0	1.0
+46965	http://tiptonps.k12.ok.us/	Tipton Public Schools	1998.0	36.0
+46966	http://www.ok.gov/cosmo/	Cosmetology Board (0190)	2009.0	27.0
+46967	http://choctawcity.org/	Choctaw	2001.0	175.0
+46968	http://www.okdrs.gov	Rehabilitation Services (0805)	2009.0	350.0
+46969	http://www.ossm.edu/	School of Science & Mathematics (0629)	1998.0	155.0
+46971	http://www.mls.lib.ok.us/	Ralph Ellison Branch Library	1997.0	1074.0
+46972	http://www.okc.gov/	Oklahoma	2003.0	1814.0
+46973	http://www.oksorghum.com/	Sorghum Commission (0038)	2011.0	1.0
+46974	https://guymon.biblionix.com/atoz/catalog/	Guymon Public Library	0.0	1.0
+46975	http://www.yukonps.com/	Yukon Public Schools	1999.0	648.0
+46976	https://www.pikepass.com/	Turnpike Authority (0978)	1998.0	74.0
+46977	http://www.stonewall.k12.ok.us/	Stonewall Public Schools	2001.0	635.0
+46978	http://www.clintonokschools.org/	Clinton Public Schools	2008.0	330.0
+46979	http://www.ucso.osrhe.edu	University Center of Southern Oklahoma	2012.0	38.0
+46980	http://www.mannford.k12.ok.us/	Mannford Public Schools	1999.0	10.0
+46982	http://www.obweo.org/	Boll Weevil Eradication (0039)	1998.0	13.0
+46983	http://www.sos.state.ok.us/	Secretary of State	2000.0	1.0
+46984	http://www.ok.gov/governor/	Governor (0305)	2005.0	68.0
+46985	http://www.ok.gov/nursing/	Nursing, Oklahoma Board of (0510)	2005.0	51.0
+46986	http://www.ravia.k12.ok.us/	Ravia Public Schools	2013.0	211.0
+46987	http://www.ok.gov/okmpc/	Merit Protection Commission (0298)	2007.0	56.0
+46988	http://www.owrb.ok.gov/	Water Resources Board (0835)	2007.0	350.0
+46989	http://www.hardesty.k12.ok.us/	Hardesty Public Schools	2001.0	3.0
+46991	http://www.cityofwoodward.com/	Woodward	2002.0	189.0
+46992	http://www.newlima.k12.ok.us/	New Lima Public Schools	2000.0	691.0
+46993	http://www.lowrey.k12.ok.us/	Lowrey School	2000.0	1.0
+46994	http://www.sayre.k12.ok.us/	Sayre Public Schools	2001.0	695.0
+46995	http://ok.gov/energy/	Secretary of Energy, Office of	2010.0	67.0
+46996	http://www.asher.k12.ok.us/	Asher Public Schools	2000.0	381.0
+46997	http://www.ok.gov/banking/	Banking Department (0065)	2012.0	81.0
+46998	http://www.nashoba.k12.ok.us/	Nashoba Public School	2007.0	14.0
+46999	http://soerok.com/	Marginal Well Commission (0446)	2013.0	75.0
+47000	http://www.sapulpaps.org/	Sapulpa Public Schools	2011.0	1173.0
+47001	http://www.ok.gov/oid/	Insurance Department (0385)	2008.0	241.0
+47002	http://billings.k12.ok.us/	Billings Public Schools	2002.0	12.0
+47004	http://www.mccord.k12.ok.us/	McCord Public School	2003.0	21.0
+47005	http://www.hobart.k12.ok.us/	Hobart Public Schools	1998.0	130.0
+47006	http://www.hodgen.k12.ok.us/	Hodgen Elementary School	2001.0	259.0
+47007	http://www.jenks.com/	Jenks	1997.0	401.0
+47008	http://www.hartshorne.k12.ok.us/	Hartshorne Public Schools	2003.0	1093.0
+47010	http://www.minco.k12.ok.us/	Minco Public Schools	2001.0	89.0
+47011	http://www.okacco.com/	Association of County Commissioners of Oklahoma	2000.0	605.0
+47013	http://www.sterling.k12.ok.us/	Sterling Public Schools	2000.0	28.0
+47014	http://www.coyle.k12.ok.us/	Coyle Public Schools	2001.0	5.0
+47015	http://ok.gov/OSF/	Office of State Finance	2006.0	275.0
+47016	http://www.norman.k12.ok.us/	Norman Public Schools	1996.0	374.0
+47018	http://attorneys.statelocalgov.net/all/oklahoma	Oklahoma Attorney Database	2014.0	10088.0
+47019	http://www.claremore.k12.ok.us/	Claremore Public Schools	1998.0	93.0
+47020	http://www.travelok.com/state_parks	Oklahoma Parks, Resorts and Golf	2010.0	7913.0
+47022	http://www.ok.gov/osbeltca/	Long Term Care Administrators Board (0509)	2007.0	30.0
+47023	http://www.inola.k12.ok.us/	Inola Public Schools	0.0	1521.0
+47024	http://www.eodls.lib.ok.us/jay.html	Delaware County Library	1999.0	41.0
+47025	http://www.claremorecity.com/index.aspx?nid=168	Claremore - Will Rogers Library	2010.0	694.0
+47026	http://www.peavinepanthers.net/	Peavine Public School	2008.0	362.0
+47027	http://denison.k12.ok.us/	Denison Public School	2003.0	646.0
+47028	http://antlers-ok.com/	Antlers	2001.0	46.0
+47032	http://www.avant.k12.ok.us/	Avant Public School	1999.0	180.0
+47033	https://www.ecok.edu/	East Central University (0230)	1997.0	4832.0
+47034	http://www.justustiawah.com/	Justus-Tiawah School	2008.0	624.0
+47035	http://www.twinhills.k12.ok.us/	Twin Hills Public School	2004.0	127.0
+47036	http://www.webbersfalls.k12.ok.us/	Webbers Falls Public School	2002.0	64.0
+47037	http://www.oksenate.gov	State Senate (0421)	2003.0	142.0
+47039	http://www.panola.k12.ok.us/	Panola Public School	2002.0	36.0
+47040	http://www.ok.gov/socialworkers/	Licensed Social Workers Board (0622)	2011.0	14.0
+47042	http://www.jcbyerslibrary.okpls.org/index.shtml	Jay C. Byers Memorial Library	2013.0	2.0
+47043	http://www.ridgerunners.net/	Grove Public Schools	2000.0	4.0
+47044	http://www.ok.gov/osboe/	Osteopathic Examiners Board (0525)	2008.0	33.0
+47047	http://www.okdrugcounselors.org/	Alcohol and Drug Counselors Board (0448)	2006.0	10.0
+47048	http://www.arapaho.k12.ok.us/	Arapaho-Butler Public School District	2001.0	389.0
+47049	http://adair.k12.ok.us/APS/	Adair Public Schools	2013.0	73.0
+47050	http://www.ok.gov/bondadvisor/	Bond Advisor (0582)	2012.0	13.0
+47051	http://www.sapulpa.lib.ok.us/	Bartlett-Carnegie Sapulpa Public Library	2010.0	12.0
+47054	http://www.graham.k12.ok.us/	Graham Public School	2005.0	268.0
+47055	http://cottonwoodschool.net/	Cottonwood Public School	2008.0	559.0
+47056	http://www.ok.gov/	State of Oklahoma	2004.0	4683.0
+47057	http://www.maud.k12.ok.us/	Maud Public Schools	2001.0	349.0
+47058	http://www.ryal.k12.ok.us/	Ryal Public Schools	1998.0	191.0
+47059	http://www.ok.gov/abstractor/	Abstractors Board (0022)	2008.0	16.0
+47060	http://www.brightok.net/cartercounty/	Carter	2000.0	30.0
+47061	http://www.kiefer.k12.ok.us/	Kiefer Public Schools	2002.0	1130.0
+47063	http://www.ok.gov/osbi/	Bureau of Investigation - OSBI (0308)	2007.0	873.0
+47064	http://www.jones.k12.ok.us/	Jones District	2011.0	49.0
+47066	http://www.grda.com/	Grand River Dam Authority (0980)	1998.0	337.0
+47067	http://www.cityof.lawton.ok.us/library/	Lawton Public Library	1999.0	73.0
+47068	http://chandleroklibrary.tripod.com	Chandler Public Library	2012.0	83.0
+47069	http://www.grove.k12.ok.us	Grove School	2012.0	50.0
+47071	http://www.langleypubliclibrary.org	Langley Public Library	2001.0	8.0
+47073	http://www.daviswolves.org/	Davis Public Schools	0.0	682.0
+47074	http://www.boswellschools.org/	Boswell Independent School District	2003.0	566.0
+47075	http://www.eodls.lib.ok.us/kansas.html	Kansas Public Library	2003.0	41.0
+47076	http://www.millwood.k12.ok.us/	Millwood Public Schools	2001.0	746.0
+47078	http://www.travelok.com/	TravelOK.com	1998.0	7545.0
+47079	http://www.sayre.lib.ok.us	Sayre Public Library	1999.0	14.0
+47080	http://www.environment.ok.gov/	Environment Secretary	2007.0	34.0
+47082	http://darlingtonps.com/	Darlington Public Schools	2009.0	1.0
+47083	http://www.ok.gov/obndd/	Narcotics & Dangerous Drugs Control (0477)	2007.0	87.0
+47085	http://wplibs.com/	Cheyenne - Minnie R Slief Memorial Library	2001.0	66.0
+47086	http://www.wpstigers.k12.ok.us/	Wilson Public Schools	2003.0	364.0
+47087	http://www.cityofmustang.org	Mustang Public Library	2001.0	1846.0
+47088	http://www.chickashapl.okpls.org/	Chickasha Public Library	2006.0	3.0
+47089	http://www.waynoka.k12.ok.us/	Waynoka Schools	1999.0	477.0
+47090	http://library.stillwater.org	Stillwater Public Library	1999.0	167.0
+47091	http://okcommerce.gov/	Commerce Department (0160)	2004.0	10.0
+47092	http://www.rattan.k12.ok.us/	Rattan Public Schools	2001.0	580.0
+47093	http://www.allenbowden.k12.ok.us/	Allen Bowden Public School	1999.0	192.0
+47095	http://www.oscn.net/oscn/schome/start.htm	Oklahoma Supreme Court Network	0.0	28.0
+47097	http://www.rolandschools.org/	Roland Public Schools	2001.0	49.0
+47098	http://www.rogerscounty.org/	Rogers	1999.0	48.0
+47101	http://www.okladot.state.ok.us/	Transportation Department (0345)	1996.0	1329.0
+47103	http://www.cordell.k12.ok.us/	Cordell Public Schools	1999.0	455.0
+47104	http://www.pioneer.lib.ok.us/	Blanchard Public Library	1998.0	256.0
+47105	http://www.fairviewok.org/	Fairview	1999.0	34.0
+47106	http://www.eodls.lib.ok.us/haskell.html	Rieger Memorial Library	1999.0	40.0
+47107	http://www.usao.edu	University of Science & Arts of   Oklahoma	1998.0	1111.0
+47108	http://www.disneyisland.org/	Disney	2000.0	3.0
+47109	http://www.mpsi20.org/site/default.aspx?PageID=1	Muskogee Public Schools	2013.0	24.0
+47110	http://www.ninnekah.ok.nph.schoolinsites.com/	Ninnekah Public Schools	2013.0	103.0
+47111	http://www.okddc.ok.gov	Developmental Disabilities Council	2004.0	70.0
+47112	http://www.preston.k12.ok.us/	Preston Public School	2002.0	3.0
+47113	http://www.sai.state.ok.us/	Auditor and Inspector	2002.0	600.0
+47114	http://www.osu-tulsa.okstate.edu/index.php	Oklahoma State University-Tulsa	2011.0	1439.0
+47115	http://www.bixby.com/	Bixby	2000.0	461.0
+47116	http://www.ok.gov/okfirepen/	Firefighters Pension & Retirement (0315)	2005.0	31.0
+47117	http://www.keota.k12.ok.us/	Keota Public School	1998.0	90.0
+47118	http://calvin.k12.ok.us/	Calvin Public School	2001.0	60.0
+47119	http://perry.k12.ok.us/	Perry Public Schools	1999.0	225.0
+47121	http://www.okmedicalboard.org	Medical Licensure and Supervision Board (0450)	2004.0	332.0
+47122	http://www.oktechcert.org/	Highway Construction Materials Technician Certification Board (345a)	2003.0	36.0
+47124	http://www.porum.k12.ok.us/	Porum Public Schools	2001.0	530.0
+47125	http://mangumpubliclibrary.com/	Margaret Carder Library	2013.0	60.0
+47127	http://www.eodls.lib.ok.us/checotah.html	Jim Lucas Checotah Public Library	1999.0	40.0
+47128	http://www.pawhuskadistrict.org/	Pawhuska Public Schools	2007.0	657.0
+47129	http://www.durantisd.org/	Durant Independent School District	1999.0	73.0
+47130	http://www.gracemont.k12.ok.us/	Gracemont Public School	2000.0	5.0
+47131	https://www.occhd.org/	Health Department, Oklahoma City-County (5501)	2008.0	395.0
+47132	http://www.oktahaschool.com/	Oktaha Public School	2004.0	1182.0
+47133	http://aftonschools.net	Afton Public Schools	2001.0	57.0
+47134	http://www.osuokc.edu	Oklahoma State University-Oklahoma   City	1996.0	4.0
+47136	http://www.morrison.k12.ok.us/	Morrison Public Schools	2001.0	2.0
+47137	http://www.hugoschools.com/	Hugo Schools	2001.0	188.0
+47138	http://www.tecumseh.k12.ok.us/	Tecumseh Public Schools	2000.0	933.0
+47139	http://www.ok.gov/oid/Regulated_Entities/Real_Estate_Appraiser_Board_(REAB)/index.html	Real Estate Appraiser Board (385a)	2008.0	27.0
+47140	http://www.ok.gov/cib/	Construction Industries Board (0170)	2007.0	42.0
+47141	http://neo.edu/	Northeastern Oklahoma A&M College	2007.0	2208.0
+47142	http://www.oklahomacounty.org/	Oklahoma	1998.0	192.0
+47143	http://www.oakdale.org/	Oakdale Public School	1999.0	354.0
+47144	http://www.forestry.ok.gov	Oklahoma Forestry Services	2007.0	718.0
+47146	http://www.tulsalibrary.org/helmerich/	Peggy V. Helmerich Library	2003.0	4.0
+47147	http://www.deq.state.ok.us/	Environmental Quality Department (0292)	1998.0	1052.0
+47148	http://www.siloisd.org/	Silo Public Schools	2004.0	936.0
+47149	http://www.unioncity.k12.ok.us/	Union City School	2007.0	6.0
+47150	http://www.central.k12.ok.us/	Central High Public Schools	2001.0	7.0
+47152	http://drivendigital.us/	Foyil Public Schools	2013.0	42.0
+47153	http://www.paoli.k12.ok.us/	Paoli Public Schools	2001.0	17.0
+47154	http://www.ok.gov/dac/	District Attorneys Council (0220)	2006.0	235.0
+47156	http://www.optometry.state.ok.us/	Optometry Board (0520)	2002.0	47.0
+47157	http://www.forttowson.k12.ok.us/	Fort Towson Public Schools	2001.0	639.0
+47158	http://www.paynecounty.org/	Payne	2000.0	51.0
+47160	http://www.bridgecreek.k12.ok.us/	Bridge Creek Public Schools	2000.0	658.0
+47161	http://www.braydoyle.k12.ok.us/	Bray Doyle Public Schools	2014.0	815.0
+47162	http://www.waurikaschools.org/	Waurika Public Schools	2003.0	1123.0
+47164	http://www.stidham.k12.ok.us/	Stidham Public Schools	0.0	107.0
+47166	http://www.vinitapl.okpls.org	Vinita Public Library	2003.0	3.0
+47167	http://www.stillwater.org/	Stillwater	1998.0	97.0
+47168	http://www.colbert.k12.ok.us/	Colbert Public Schools	2001.0	868.0
+47169	http://www.cement.k12.ok.us/	Cement Public Schools	2013.0	18.0
+47170	http://www.state.ok.us/~ohrc/	Oklahoma Horse Racing Commission	1997.0	1.0
+47171	http://www.gage.k12.ok.us/	Gage Public Schools	2001.0	3.0
+47172	http://www.vian.k12.ok.us/	Vian Public Schools	1998.0	794.0
+47173	http://ok.gov/chiropracticboard/	Chiropractic Examiners (0145)	2007.0	34.0
+47174	http://www.cushing.k12.ok.us/	Cushing Public Schools	2011.0	121.0
+47175	http://felt.k12.ok.us/	Felt Public Schools	2003.0	324.0
+47176	http://www.noc.edu/stillwater/	Northern   Oklahoma College	2013.0	3.0
+47178	http://www.guthrie.k12.ok.us/site/default.aspx?PageID=1	Guthrie Public Schools	2011.0	37.0
+47179	http://www.beggs.k12.ok.us/site/default.aspx?PageID=1	Beggs Public Schools	2012.0	12.0
+47180	http://www.quintonschools.com	Quinton Public Schools	2013.0	0.0
+47181	http://ok.gov/odmhsas/	Department of Mental Health and Substance Abuse Services (0452)	2009.0	641.0
+47182	http://www.noc.edu	Northern Oklahoma College	2013.0	1175.0
+47183	http://www.dale.k12.ok.us/	Dale Public Schools	2002.0	234.0
+47185	http://www.harrahschools.com/	Harrah Public Schools	2002.0	662.0
+47186	http://www.glenpool.k12.ok.us/	Glenpool Public Schools	1998.0	1.0
+47187	http://cityofpragueok.org/	Prague Public Library	2007.0	278.0
+47188	http://www.cowetaps.com/education/district/district.php?sectionid=1	Coweta Public Schools	2009.0	3.0
+47189	http://www.ok.gov/OPPRS/	Police Pension and Retirement System (0557)	2006.0	24.0
+47190	http://www.oda.state.ok.us/	Agriculture, Food & Forestry Department (0040)	2001.0	62.0
+47191	http://www.heavenerschools.org/	Heavener Public Schools	2008.0	32.0
+47192	http://www.tushka.k12.ok.us/	Tushka Public School	1999.0	582.0
+47193	http://www.oklahomascenicrivers.net/	Scenic Rivers Commission (0568)	2007.0	0.0
+47194	http://www.arts.ok.gov/	Oklahoma Arts Council	2004.0	1884.0
+47195	http://mcloudschools.us/	McLoud Public Schools	2013.0	2907.0
+47197	http://www.baschools.org/	Broken Arrow Public Schools	2007.0	4842.0
+47198	http://www.prue.k12.ok.us/	Prue Public Schools	1998.0	242.0
+47199	http://www.ok.gov/OSBP/	Pharmacy Board (0560)	2006.0	53.0
+47200	http://www.barnsdall.k12.ok.us/	Barnsdall Public Schools	2003.0	756.0
+47201	http://www.talihina.k12.ok.us/	Talihina Public Schools	2000.0	563.0
+47202	http://www.ok.gov/agrability/	AgrAbility (012A)	2012.0	36.0
+47203	http://www.vanoss.k12.ok.us/	Vanoss Public Schools	2003.0	352.0
+47204	http://www.lg.lib.ok.us	Locust Grove Public Library	2000.0	11.0
+47205	http://www.krebs.k12.ok.us/	Krebs Public Schools	2011.0	560.0
+47206	http://www.okhighered.org/	Regents for Higher Education (0605)	1998.0	296.0
+47208	http://www.se.edu	Southeastern Oklahoma State   University	2008.0	2994.0
+47209	http://teacherweb.com/ok/empirepublicschools/homepage/sdhp1.aspx	Empire Public Schools	2009.0	43.0
+47211	http://www.hulbertriders.com/	Hulbert Public Schools	2013.0	270.0
+47212	http://www.dcla.k12.ok.us/	Deer Creek-Lamont Public Schools	1998.0	21.0
+47214	http://www.lottery.ok.gov	Lottery Commission (0435)	2005.0	975.0
+47215	http://www.caleraisd.k12.ok.us/	Calera Public Schools	2000.0	685.0
+47216	http://www.fortsupply.k12.ok.us/	Fort Supply School	2000.0	1.0
+47217	http://www.skelly.k12.ok.us/	Skelly Public School	2006.0	0.0
+47218	http://www.turkeyford.net/	Turkey Ford Public School	2000.0	34.0
+47219	http://www.garber.k12.ok.us/	Garber Public Schools	1998.0	61.0
+47220	http://www.indiahoma.k12.ok.us/	Indiahoma Public Schools	2001.0	370.0
+47221	http://www.mooreland.k12.ok.us/	Mooreland Public Schools	2000.0	347.0
+47222	http://thomas.k12.ok.us/	Thomas Fay Custer Unified Schools	2001.0	2.0
+47223	http://www.oscn.net/applications/oscn/start.asp	Supreme Court (0677)	0.0	4135.0
+47224	http://www.turpin.k12.ok.us/	Turpin Schools	2002.0	0.0
+47225	http://www.tupelo.k12.ok.us/	Tupelo Public Schools	2001.0	424.0
+47226	http://www.ohrc.org/	Horse Racing Commission (0353)	1998.0	41.0
+47227	http://www.ok.gov/odc/	Disability Concerns (0326)	2010.0	135.0
+47230	http://www.okmulgeelibrary.org	Okmulgee Public Library	2003.0	1.0
+47232	http://www.ok.gov/ocme/	Medicolegal Investigations, Board of (0342)	2012.0	15.0
+47234	http://www.roff.k12.ok.us/	Roff Public Schools	2002.0	448.0
+47235	http://www.blackwell.k12.ok.us/	Blackwell Public Schools	1998.0	1385.0
+47236	http://www.okpodiatrists.org/	Podiatric Medical Examiners Board (0140)	2010.0	5.0
+47237	http://www.stigler.k12.ok.us/	Stigler Public Schools	2001.0	226.0
+47238	http://www.beaverpl.okpls.org	Beaver County Pioneer Library	2003.0	2.0
+47239	http://www.cashion.k12.ok.us/	Cashion Public Schools	2000.0	122.0
+47240	http://www.ok.gov/wheat/	Wheat Commission (0875)	2013.0	10.0
+47241	http://www.downtowncollege.com	OKC Downtown College	2001.0	2.0
+47242	http://www.watongapublicschools.com/	Watonga Public Schools	0.0	614.0
+47243	http://www.ok.gov/OREC/	Real Estate Commission (0588)	2006.0	46.0
+47245	http://www.ok.gov/mines/	Mines Department (0125)	2009.0	113.0
+47247	http://wplibs.com/bookmobile/	Bookmobile	2013.0	2.0
+47248	http://www.dewey.k12.ok.us/	Dewey Public Schools	1998.0	363.0
+47249	http://www.unionps.org/	Union Public Schools	1998.0	2703.0
+47250	http://www.hammon.k12.ok.us/	Hammon Public Schools	2000.0	531.0
+47252	http://www.canadiancounty.org/	Canadian	2002.0	397.0
+47253	http://www.mls.lib.ok.us/mls/mls_library/dn.htm	Downtown Library	2006.0	1128.0
+47254	http://pleasantgroveschools.com	Pleasant Grove Public School	2013.0	411.0
+47255	http://www.ou.edu/	University of Oklahoma - OU (0760)	1997.0	1641.0
+47256	http://www.wpsok.org/	Weatherford Public Schools	2001.0	540.0
+47257	http://www.lawtonps.org/	Lawton Public Schools	2001.0	94.0
+47258	http://cherokee.k12.ok.us/	Cherokee Public Schools	2011.0	1.0
+47259	http://www.mariettaisd.org/	Marietta Public Schools	2012.0	31.0
+47260	http://www.bowlegs.k12.ok.us/	Bowlegs Public Schools	2001.0	693.0
+47261	http://www.fargo.k12.ok.us/	Fargo Public Schools	1999.0	473.0
+47262	http://www.occc.edu/	Oklahoma City Community College (0633)	2006.0	1293.0
+47263	http://www.allen.k12.ok.us/	Allen Public Schools	2001.0	410.0
+47264	http://www.marlow.k12.ok.us/	Marlow Public Schools	2000.0	1084.0
+47265	http://www.chisholm.k12.ok.us/	Chisholm Public Schools	2001.0	1118.0
+47268	http://www.lexington.k12.ok.us/	Lexington Public Schools	2001.0	72.0
+47270	http://www.temple.k12.ok.us/	Temple Public Schools	2001.0	337.0
+47271	http://www.bvpsd.org/	Buffalo Valley Public Schools	2008.0	6.0
+47272	http://www.wcisd.org/	Wright City Public School	2001.0	527.0
+47273	http://www.spls.lib.ok.us	Southern Prairie Library System	1998.0	22.0
+47274	http://www.edline.net/pages/Cheyenne_Public_Schools	Cheyenne Public Schools	2010.0	11.0
+47275	http://www.nwosu.edu/woodward/	Northwestern Oklahoma State University	2002.0	28.0
+47276	http://www.sulphur.k12.ok.us/	Sulphur Public Schools	1998.0	120.0
+47277	http://www.ok.gov/pels/	Professional Engineers & Land Surveyors Licensure Board (0570)	2009.0	199.0
+47278	http://www.nowataps.k12.ok.us/	Nowata School District	2000.0	0.0
+47279	http://www.p-t.k12.ok.us/	Perkins-Tryon Public Schools	2001.0	29.0
+47282	http://www.yale.k12.ok.us/	Yale Public Schools	1999.0	46.0
+47283	http://depew.k12.ok.us/	Depew Public Schools	2005.0	543.0
+47284	http://www.tulsaschools.org/	Tulsa Public Schools	1998.0	400.0
+47286	http://www.merritt.k12.ok.us/	Merritt Public School	2011.0	18.0
+47287	http://www.dickson.k12.ok.us/	Dickson Public Schools	2001.0	362.0
+47288	http://www.tannehill.k12.ok.us/	Tannehill Public School	2001.0	9.0
+47290	http://www.osagehills.k12.ok.us/	Osage Hills School	1999.0	321.0
+47291	http://www.medford.k12.ok.us/	Medford Public Schools	2000.0	30.0
+47292	http://www.oologah.k12.ok.us/	Oologah-Talala Public Schools	2001.0	824.0
+47293	http://www.buffalo.lib.ok.us	Buffalo Public Library	2000.0	6.0
+47295	http://www.ampo.k12.ok.us/	Amber-Pocasset Public Schools	2003.0	750.0
+47296	http://www.sscok.edu/	Seminole State College (0623)	2004.0	211.0
+47297	http://www.putnamcityschools.org/	Putnam City Schools	2000.0	2076.0
+47298	http://www.mvgschools.com/	Mountain View-Gotebo Schools	2001.0	3.0
+47301	http://www.sasakwaschools.org/	Sasakwa Public Schools	2007.0	590.0
+47303	http://www.okgeosurvey1.gov/	Oklahoma Geological Survey	1998.0	18.0
+47304	http://www.pryorok.org/	Pryor Public Schools	2000.0	348.0
+47307	http://www.balko.k12.ok.us/	Balko Public School	2008.0	244.0
+47308	http://www.wakita.k12.ok.us/	Wakita Public School	2000.0	20.0
+47309	http://www.caddoisd.org/	Caddo Public Schools	2001.0	250.0
+47311	http://www.ripley.k12.ok.us/	Ripley Public Schools	2002.0	479.0
+47312	http://lanepublicschool.com/education/school/school.php?sectionid=2	Lane Elementary School	2012.0	7.0
+47313	http://www.state.ok.us/~oja/	Office of Juvenile Affairs	1999.0	60.0
+47315	http://www.olive.k12.ok.us/	Olive Public Schools	2002.0	287.0
+47316	http://www.elrenolibrary.okpls.org/	El Reno Carnegie Library	2013.0	4.0
+47317	http://origins.ou.edu/	Oklahoma Resources Integrated General Information Network Systems	1998.0	41.0
+47318	http://www.cleora.net/	Cleora Public School	1999.0	9.0
+47319	http://www.olustee.k12.ok.us/	Olustee Public School	2003.0	21.0
+47320	http://www.bbisd.org/	Broken Bow Public Schools	1999.0	651.0
+47321	http://www.tulsalibrary.org/zarrow/	Zarrow Regional Library	2004.0	4.0
+47322	http://www.okperfusionists.org/	Perfusionists Board of Examiners (0343)	2010.0	6.0
+47323	http://www.oeta.tv/home/	Educational Television Authority (0266)	2014.0	14.0
+47324	http://www.theamericanindiancenter.org/	Native American Cultural and Education Authority of Oklahoma (0361)	2011.0	140.0
+47325	http://www.ok.gov/architects/	Architects Board (0045)	2005.0	32.0
+47326	http://www.panama.k12.ok.us/	Panama School District	2000.0	27.0
+47328	http://www.dukeschools.com/	Duke Public Schools	2004.0	35.0
+47329	http://www.ok.gov/usedcarcommission/	Used Motor Vehicle and Parts Commission (0755)	2013.0	20.0
+47331	http://www.maple.k12.ok.us/	Maple Public School	2007.0	18.0
+47332	http://www.logancountyok.com/Assessor.php	Logan	2011.0	433.0
+47333	http://www.nsuba.edu	Northeastern   State University	2001.0	364.0
+47335	http://www.tulsalibrary.org/kishner/	Judy Z. Kishner Library	2008.0	4.0
+47337	http://www.owl.okpls.org/	Hooker - Olive Warner Memorial Library	2013.0	3.0
+47339	http://www.wanette.k12.ok.us/	Wanette Public Schools	2001.0	159.0
+47340	http://purcellps.org/	Purcell Public School District	2011.0	10.0
+47341	http://www.drummond.k12.ok.us/joomla/	Drummond Public Schools	2011.0	22.0
+47343	http://www.lomega.k12.ok.us/	Lomega School	2000.0	878.0
+47344	http://www.stroud.k12.ok.us/	Stroud Public Schools	2004.0	63.0
+47345	http://www.lindsay.k12.ok.us/	Lindsay Public Schools	2002.0	1100.0
+47348	http://www.ok.gov/OGCPFS/	Physical Fitness and Sports, Governor's Council on	2006.0	15.0
+47349	http://www.byars.k12.ok.us/	Byars Elementary School	2007.0	0.0
+47350	http://www.odl.state.ok.us/oar/administration/oarc.htm	Archives and Records Commission (430A)	2001.0	12.0
+47351	http://www.ok.gov/elections/	State Election Board	2010.0	152.0
+47352	http://www.piedmontschools.org/	Piedmont Public Schools	2008.0	936.0
+47353	http://www.catoosaps.net/	Catoosa Public Schools	2010.0	655.0
+47354	http://www.hilldale.k12.ok.us/	Hilldale Public Schools	2001.0	1321.0
+47356	http://www.shattuck.k12.ok.us/	Shattuck Public Schools	2000.0	461.0
+47357	http://www.clo.state.ok.us/	Land Office, Commissioners of the (0410)	2001.0	2.0
+47358	http://mannford.booksys.net/opac/mannfordpl/	Mannford Public Library	0.0	4.0
+47359	http://www.stratfordisd.org/	Stratford Public Schools	2000.0	0.0
+47360	http://beaver.okcounties.org	Beaver	2008.0	25.0
+47361	http://www.caneyvalleyschool.org/	Caney Valley Schools	2008.0	646.0
+47362	https://otrd.ok.gov/OkTourism/	Tourism & Recreation Department (0566)	2013.0	7.0
+47363	http://www.ouhsc.edu	University of Oklahoma Health Sciences   Center	1998.0	880.0
+47364	http://www.c-d.k12.ok.us/	Covington-Douglas Public Schools	2000.0	508.0
+47365	http://www.metrolibrary.org	Metropolitan Library System	2001.0	1290.0
+47367	http://www.ok.gov/bot/	Board of Tests for Alcohol and Drug Influence (0772)	2005.0	39.0
+47368	http://www.cache.k12.ok.us/	Cache Public Schools	2000.0	1090.0
+47369	http://www.sandites.org/	Sand Springs Public Schools	2001.0	748.0
+47370	http://www.justice.k12.ok.us/	Justice Public School	2011.0	849.0
+47372	http://www.lefloreps.k12.ok.us/	LeFlore Public School	1998.0	563.0
+47373	http://www.leedey.k12.ok.us/	Leedey Public Schools	2001.0	395.0
+47375	http://www.sps.k12.ok.us/	Seminole Public Schools	1998.0	38.0
+47376	http://www.okcps.org/	Oklahoma City Public Schools	2002.0	349.0
+47378	http://www.ag.ok.gov/petbreeders/	Oklahoma State Board of Commercial Pet Breeders (0117)	2012.0	3.0
+47380	http://www.hennessey.lib.ok.us	Hennessey Public Library	2000.0	133.0
+47381	http://www.vpsd.org/	Valliant Public Schools	2001.0	1016.0
+47383	http://go.osuit.edu/	OSU - Technical Branch, Okmulgee (0013)	2013.0	369.0
+47384	http://www.ok.gov/ocsw/	Commission on the Status of Women	2010.0	62.0
+47385	http://www.edmondschools.net/	Edmond Public Schools	2003.0	605.0
+47387	http://www.ok.gov/ppb/	Pardon and Parole Board (0306)	2013.0	45.0
+47388	http://www.beaver.k12.ok.us/	Beaver Public Schools	2009.0	372.0
+47389	http://www.hps.k12.ok.us/	Hennessey Public Schools	2000.0	116.0
+47390	http://www.perrypl.okpls.org	Perry Carnegie Library	2005.0	3.0
+47391	http://www.davenport.k12.ok.us/	Davenport Public Schools	2003.0	2.0
+47392	http://www.byngschools.com/	Byng Public Schools	2002.0	673.0
+47393	http://www.crookedoak.org/	Crooked Oak Public Schools	2006.0	870.0
+47394	http://www.occeweb.com/	Corporation Commission (0185)	2004.0	28.0
+47395	http://www.hobartok.com	Hobart Public Library	2001.0	16.0
+47396	http://www.ok.gov/abletech/	ABLE Tech (1337)	2006.0	343.0
+47398	http://www.sandspringsok.org/	Sand Springs	2001.0	659.0
+47399	http://www.ebc.state.ok.us/Pages/default.aspx	Employees Benefits Council (0815)	2013.0	383.0
+47400	http://www.taloga.k12.ok.us	Taloga Public Schools	2002.0	163.0
+47401	http://www.hydroeakly.k12.ok.us/	Hydro-Eakly Public Schools	2002.0	12.0
+47402	http://www.eufaula.k12.ok.us/	Eufaula Public Schools	2002.0	3.0
+47404	http://www.bartlesville.lib.ok.us/	Bartlesville Public Library	1997.0	41.0
+47405	http://www.okarche.k12.ok.us/	Okarche Public Schools	2001.0	592.0
+47406	http://www.ok.gov/fire/	Fire Marshal (0310)	2012.0	19.0
+47407	http://www.mossps.k12.ok.us/	Moss Public Schools	2009.0	365.0
+47408	http://www.berryhillschools.org/	Berryhill Public Schools	2010.0	48.0
+47410	http://www.ok.gov/homeland/	Homeland Security Office	2007.0	607.0
+47412	http://welch.ok.wps.schoolinsites.com/	Welch Public School	2010.0	10.0
+47414	http://www.hominy.lib.ok.us	Hominy Public Library	2003.0	18.0
+47415	http://www.stillwaterschools.com/	Stillwater Public Schools	2010.0	82.0
+47416	http://www.prettywater.k12.ok.us/	Pretty Water Public Schools	2007.0	598.0
+47417	http://www.comanche.k12.ok.us/	Comanche Public Schools	2001.0	12.0
+47418	http://www.dover.k12.ok.us/	Dover Public Schools	2001.0	348.0
+47419	http://connorsstate.edu/	Connors State College (0165)	2002.0	964.0
+47421	http://www.norwood.k12.ok.us/	Norwood School	2000.0	27.0
+47422	http://dibblepublicschools.schoolinsites.com/	Dibble Public School	2013.0	145.0
+47424	http://www.warner.k12.ok.us/	Warner Public Schools	2006.0	551.0
+47426	http://www.cnpschools.org/	Choctaw-Nicoma Park Public Schools	2001.0	11.0
+47427	http://www.ftgibson.k12.ok.us/	Fort Gibson Public Schools	2001.0	202.0
+47428	http://www.stuart.k12.ok.us/	Stuart Public Schools	2001.0	441.0
+47429	http://www.poteau.k12.ok.us/	Poteau Public Schools	2000.0	463.0
+47430	http://www.geronimo.k12.ok.us/	Geronimo Public Schools	2004.0	644.0
+47431	http://www.healdtonschools.org/	Healdton Public Schools	2006.0	438.0
+47432	http://bishop.k12.ok.us/	Bishop Public School	2001.0	7.0
+47433	http://www.porter.k12.ok.us/	Porter Consolidated Schools	2005.0	715.0
+47434	http://www.tulsacc.edu/	Tulsa Community College (0750)	2002.0	2288.0
+47435	http://www.meeker.k12.ok.us/	Meeker Public Schools	2002.0	923.0
+47436	http://www.belfonte.k12.ok.us/	Belfonte and Bell Public Schools	2001.0	388.0
+47437	http://www.okeene.okpls.org	Okeene Public Library	2005.0	5.0
+47438	http://www.mscok.edu	Murray State College (0470)	2002.0	465.0
+47439	http://www.ok.gov/conservation/	Conservation Commission (0645)	2009.0	712.0
+47440	http://www.muldrowps.org/	Muldrow Public Schools	2012.0	0.0
+47441	http://www.oktax.state.ok.us/	Oklahoma Tax Commission	1998.0	73.0
+47442	http://www.vicischools.k12.ok.us/	Vici Public Schools	1998.0	732.0
+47444	http://www.tishomingo.k12.ok.us/	Tishomingo Public Schools	1999.0	551.0
+47446	http://www.okcc.state.ok.us/	Conservation Commission	2000.0	1482.0
+47447	http://www.oklpgas.org/	Oklahoma Liquid Propane Gas Research, Marketing and Safety Commission	2003.0	29.0
+47448	http://www.jay.k12.ok.us/	Jay Public Schools	2001.0	134.0
+47449	http://www.velma-alma.k12.ok.us/	Velma-Alma Public Schools	2003.0	425.0
+47452	http://www.okmulgeeps.com/	Okmulgee Public Schools	2012.0	82.0
+47454	http://www.ok.gov/oem/	Emergency Management (0309)	2005.0	873.0
+47455	http://www.oag.state.ok.us/	Attorney General	2000.0	55.0
+47456	http://www.drumright.k12.ok.us/	Drumright Public Schools	2001.0	383.0
+47457	http://www.noc.edu/enid	Northern Oklahoma College	2013.0	1184.0
+47459	http://www.cityoftahlequah.com/	Tahlequah	2001.0	268.0
+47460	http://www.ok.gov/oab_web/	Accountancy Board (0020)	2007.0	53.0
+47462	http://www.whitebead.org/	Whitebead Schools	2008.0	28.0
+47463	http://www.ok.gov/octp/	Teacher Preparation Commission (0269)	2007.0	35.0
+47464	http://www.chelseadragons.net/	Chelsea Public Schools	2001.0	535.0
+47465	http://www.cityofmuskogee.com/	Muskogee	2001.0	413.0
+47466	http://blanchard.publishpath.com/	Blanchard Public Schools	0.0	37.0
+47467	http://www.clevelandtigers.com/	Cleveland Public Schools	2006.0	4.0
+47469	http://www.oklibrary.net	Mattie Terry Public Library	2009.0	91.0
+47470	http://www.strother.k12.ok.us/	Strother Public Schools	2000.0	419.0
+47472	http://www.yarbrough.k12.ok.us/	Yarbrough Public School	1998.0	463.0
+47474	http://www.ok.gov/sde/	Education Department (0265)	2012.0	739.0
+47475	http://www.ok.gov/ltgovernor/	Lt. Governor	2009.0	24.0
+47476	http://www.plainview.k12.ok.us/	Plainview Schools	1998.0	1225.0
+47477	http://www.compsourceok.com/	CompSource Oklahoma (0390)	2001.0	121.0
+47478	http://www.okdhs.org/	Human Services Department - OKDHS (0830)	1999.0	2313.0
+47480	http://www.eodls.lib.ok.us/westville.html	John F. Henderson Public Library	1999.0	40.0
+47481	http://www.uhatok.com/	University Hospitals Authority (0825)	2012.0	487.0
+47482	http://www.ok.gov/faithlinksok/	Faith-Based & Community Initiatives	2012.0	4.0
+47484	http://www.agra.k12.ok.us/	Agra Public Schools	2001.0	382.0
+47485	http://www.holdenville.k12.ok.us/	Holdenville Public Schools	1999.0	3.0
+47486	http://www.duncanps.org/	Duncan Public Schools	2009.0	368.0
+47487	http://www.ok.gov/health/	Health Department (0340)	2007.0	1006.0
+47489	http://www.eodls.lib.ok.us/ft_gibson.html	Q. B. Boydstun Library	1999.0	40.0
+47490	http://homepages.se.edu/mccurtain/	Southeastern Oklahoma State University	2013.0	48.0
+47492	http://www.wps.k12.ok.us/	Wewoka Public Schools	1999.0	134.0
+47493	http://www.leachschool.net/	Leach Public Schools	2001.0	252.0
+47494	http://ok.gov/wcc/	Workers' Compensation Commission (0865)	2014.0	43.0
+47496	http://www.eosc.edu/discover_eosc/locations/mcalester_campus.aspx	Eastern Oklahoma State College	2012.0	10.0
+47497	http://www.smithville.k12.ok.us/	Smithville Public School	2001.0	486.0
+47498	http://tecumseh.squarespace.com/	Tecumseh	2012.0	686.0
+47500	http://www.willrogers.com	Will Rogers Memorial Commission (0880)	1999.0	26.0
+47501	http://www.alex.k12.ok.us/	Alex Public Schools	2001.0	29.0
+47502	http://www.seiling.k12.ok.us/	Seiling Schools	2000.0	773.0
+47503	http://www.nobleps.com/Pages/default.aspx	Noble Public Schools	2010.0	2948.0
+47504	http://www.bfdc.k12.ok.us/	Burns Flat-Dill City School District	2001.0	36.0
+47506	http://www.blairschool.org/	Blair Public Schools	2002.0	537.0
+47507	https://carlalbert.edu/	Carl Albert State College - CASC Poteau (0108)	2002.0	1518.0
+47509	http://www.securities.ok.gov	Securities Commission (0630)	2005.0	1233.0
+47511	http://www.wayne.k12.ok.us/	Wayne Public Schools	1999.0	1393.0
+47512	http://www.dcs.state.ok.us/	Department of Central Services	2012.0	1168.0
+47515	http://www.schulter.k12.ok.us/	Schulter Public School	2005.0	343.0
+47516	http://www.crowder.k12.ok.us/	Crowder Public School	2001.0	457.0
+47517	http://www.elkcityschools.com/	Elk City Public Schools	2001.0	480.0
+47518	http://ok.gov/saa/	Accrediting Agency, State	2010.0	12.0
+47520	http://www.ci.norman.ok.us/	Norman	1997.0	1956.0
+47523	http://www.sallisawps.org/	Sallisaw Public Schools	2007.0	520.0
+47524	http://www.ok.gov/aeronautics/	Aeronautics Commission (0060)	2005.0	59.0
+47525	http://www.colcordschools.com/	Colcord Public Schools	2002.0	133.0
+47526	http://www.wyandotte.k12.ok.us/	Wyandotte Public Schools	1999.0	93.0
+47527	http://gore.k12.ok.us/	Gore Public Schools	2000.0	992.0
+47528	http://www.ok.gov/trs/	Teachers' Retirement System (0715)	2005.0	83.0
+47529	http://www.rockcreekisd.net/	Rock Creek Public Schools	2003.0	485.0
+47530	http://www.burlingtonschool.com/	Burlington School	2001.0	53.0
+47531	http://www.cityofduncan.com/	Duncan	1999.0	84.0
+47532	http://www.fairviewhigh.com/	Fairview Public Schools	2000.0	10.0
+47533	http://wilburtondiggers.org/	Wilburton Public Schools	2011.0	67.0
+47534	http://www.vps.k12.ok.us/	Verdigris Public Schools	2002.0	5956.0
+47535	http://www.bristow.k12.ok.us/	Bristow Public Schools	0.0	365.0
+47536	http://www.wildlifedepartment.com/	Wildlife Conservation (0320)	2000.0	33.0
+47537	http://www.okvetboard.com/	Veterinary Medical Examiners Board (0790)	2000.0	1156.0
+47538	http://www.olers.state.ok.us	Law Enforcement Retirement System (0416)	2002.0	24.0
+47539	http://www.alvaok.org/	Alva	2000.0	42.0
+47541	http://www.coalgateschools.org/	Coalgate Public Schools	2001.0	792.0
+47542	http://www.whitefield.k12.ok.us/	Whitefield Public Schools	2001.0	252.0
+47543	http://www.littleaxeps.org	Little Axe Public School System	2012.0	133.0
+47544	http://www.okemah.k12.ok.us/	Okemah Public Schools	1998.0	193.0
+47545	http://www.morris.k12.ok.us/	Morris Public Schools	2007.0	1776.0
+47547	http://www.soperschool.com/	Soper School	2011.0	106.0
+47548	http://www.savanna.k12.ok.us/	Savanna Public Schools	2001.0	360.0
+47551	http://www.wagonerps.org/	Wagoner Public Schools	2003.0	876.0
+47552	http://www.cameron.edu/	Cameron University (0100)	1997.0	2014.0
+47553	http://www.oml.org/	Oklahoma Municipal League	1998.0	144.0
+47555	http://www.canton.k12.ok.us/	Canton Public Schools	1998.0	1.0
+47556	http://www.coft-oklahoma.org/	Council on Firefighter Training (310a)	2006.0	42.0
+47557	http://www.cityofyukonok.gov/city-departments/mabel-c-fry-public-library/	Mabel C. Fry Public Library	2010.0	12.0
+47559	http://www.rsu.edu/bartlesville/	Rogers State University	2008.0	4.0
+47560	http://www.henryetta.k12.ok.us/	Henryetta Public Schools	2003.0	1376.0
+47561	http://www.arnett.k12.ok.us/	Arnett Public Schools	2000.0	539.0
+47563	http://www.okcareertech.org/	Career and Technology Education (0800)	2000.0	3575.0
+47565	http://www.wosc.edu/	Western Oklahoma State College (0041)	2002.0	320.0
+47566	http://www.snyder.k12.ok.us/	Snyder Public Schools	2001.0	8.0
+47567	http://www.ok.gov/okdocc/	Consumer Credit Department (0635)	2009.0	41.0
+47568	http://www.osla.org	Student Loan Authority (0618)	2001.0	27.0
+47570	http://kps-ok.schoolloop.com/	Kellyville Schools	2010.0	1045.0
+47571	http://www.woodland.k12.ok.us/	Woodland Public Schools	2001.0	569.0
+47572	http://www.canutepublicschool.com/	Canute Public School	2013.0	25.0
+47574	http://howep3.ning.com/	Howe Public Schools	2010.0	3038.0
+47575	http://www.ok.gov/doc/	Corrections Department (0131)	2013.0	298.0
+47576	http://www.atoka.org/	Atoka Public Schools	2002.0	704.0
+47577	http://www.verdenschools.org	Verden Public Schools	2011.0	661.0
+47578	http://www.langston.edu	Langston University	2010.0	568.0
+47580	http://www.sai.ok.gov/	Auditor and Inspector (0300)	2009.0	600.0
+47581	http://www.owasso.k12.ok.us/	Owasso Public Schools	0.0	1316.0
+47582	http://www.bokosheschools.org/	Bokoshe Public Schools	0.0	20.0
+47583	http://www.spiro.k12.ok.us/	Spiro Public Schools	1999.0	113.0
+47587	http://www.mangum.k12.ok.us/	Mangum Schools	2001.0	59.0
+47588	http://healthsciences.okstate.edu/	Oklahoma State University Center for Health Sciences	2001.0	894.0
+47589	http://clayton.k12.ok.us	Clayton Public School	1999.0	604.0
+47590	http://www.claremorecity.com/	Claremore	2001.0	739.0
+47591	http://www.kremlin.k12.ok.us/	Kremlin-Hillsdale Public School	2001.0	101.0
+47593	http://www.elkcity.com/library.aspx	Elk City Carnegie Library	2013.0	706.0
+47594	http://www.carnegieschools.com/	Carnegie Public Schools	2000.0	55.0
+47595	http://www.ok.gov/oja/	Office of Juvenile Affairs (0400)	2007.0	60.0
+47596	http://www.deercreekschools.org/	Deer Creek School District	2004.0	799.0

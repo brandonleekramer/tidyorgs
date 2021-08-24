@@ -1,0 +1,1134 @@
+NodeId	NodeURL	NodeName	Year	pages
+18543	http://www.olney.lib.il.us	Olney Public Library	2004.0	205.0
+18547	http://www.grayslake.info	Grayslake Area Public Library District	2002.0	249.0
+18548	http://northbrook28.net/index.aspx?nid=82	Meadowbrook Elementary	2012.0	234.0
+18550	http://www.state.il.us/hpa/	Historic Preservation Agency	1997.0	2.0
+18551	http://www.state.il.us/agency/icdd/	Developmental Disabilities, Illinois Council on	2001.0	16.0
+18552	http://www.jaxpl.org/jacksonville/	Jacksonville Public Library	2010.0	40.0
+18554	http://pesotum.org/	Pesotum	1999.0	0.0
+18555	http://www.elpasoil.org/	El Paso	2000.0	205.0
+18556	http://www.villageofpeotone.com/	Peotone	2001.0	389.0
+18558	http://www.deerfieldlibrary.org/deerfield/	Deerfield Public Library	2008.0	3176.0
+18560	http://southmacon.lib.il.us	South Macon Public Library District	2006.0	5.0
+18561	http://frankfortlibrary.org	Frankfort Public Library District	2002.0	1383.0
+18562	http://www.kahoks.org/schools/index.html?lp_parent=70	Jefferson Elementary School	2007.0	15.0
+18563	http://www.kahoks.org/schools/index.html?lp_parent=74	Summit Elementary School	2007.0	15.0
+18564	http://www.wcplibrary.org	Warren County Public Library District	2005.0	27.0
+18565	http://www.illinois.gov/idol/Pages/default.aspx	Department of Labor	2013.0	4.0
+18567	http://www.palatine.il.us/	Palatine	1996.0	2228.0
+18568	http://www.mgpl.org/	Morton Grove Public Library	2008.0	298.0
+18569	http://www.kanevillelibrary.org	Kaneville Public Library District	2010.0	22.0
+18570	http://www.villageofdolton.com/	Dolton	2001.0	167.0
+18571	http://www.macomb.lib.il.us	Macomb Public Library District	1998.0	17.0
+18575	http://www.cityofevanston.org/	Evanston	2001.0	2681.0
+18576	http://www.westchicago.org/	West Chicago	1999.0	434.0
+18577	http://www.ccsd89.org/	Community Consolidated School District #89	2001.0	138.0
+18578	http://www.triton.edu/	Triton College	2002.0	1857.0
+18579	http://www.grandeprairie.org	Grande Prairie Public Library District	1996.0	957.0
+18580	http://www.sd925.org/	Westchester School District #92 1/2	2000.0	301.0
+18581	http://www.broadviewlibrary.org	Broadview Public Library District	2003.0	305.0
+18582	http://www.oswego.lib.il.us	Oswego Public Library District	2002.0	57.0
+18583	http://www.wcusd5.net/	Waterloo Community Unit School District #5	2000.0	54.0
+18584	http://www.lyonslibrary.org	Lyons Public Library	2007.0	31.0
+18585	http://www.at-the-library.org	Nancy L. Mcconathy Public Library District	2002.0	4.0
+18586	http://www.countrysideschool.org	Countryside School	2005.0	631.0
+18588	http://www.ccc.edu/colleges/daley/Pages/default.aspx	CCC - Richard J. Daley College	2012.0	221.0
+18589	http://www.benet.org	Benet Academy	1998.0	832.0
+18590	http://hillsboroillinois.net	Hillsboro	2002.0	112.0
+18592	http://www.uhigh.ilstu.edu/	University High	2000.0	9.0
+18593	http://mfhs1.mfsd.k12.il.us/	Maroa Forsyth School District #2	1998.0	1.0
+18596	http://www.windsor.k12.il.us	Windsor High School	2000.0	111.0
+18597	http://www.hillside-il.org/	Hillside	2001.0	218.0
+18598	http://www.idph.state.il.us/	Public Health, Department of	1996.0	164.0
+18602	http://www.ci.freeport.il.us/	Freeport	1999.0	94.0
+18604	http://www.d91.net/	Milne-Kelvin Grove District 91	2004.0	211.0
+18605	http://www.frgml.lib.il.us	Fox River Grove Public Library District	2003.0	19.0
+18609	http://www.revenue.state.il.us/	Department of Revenue	1996.0	507.0
+18611	http://www.cityofedwardsville.com/	Edwardsville	2002.0	1328.0
+18613	http://www.berkeleylib.org	Berkeley Public Library	2008.0	12.0
+18614	http://www.d125.org/	Stevenson High	2008.0	3030.0
+18615	http://www.fllib.org/	Fox Lake Public Library District	1998.0	1.0
+18616	http://www.rcs.k12.il.us/~bm/	Broadmeadow Elementary	2002.0	12.0
+18617	http://www.csd99.org/	Community High School District #99	2003.0	676.0
+18618	http://www.guerinprep.org/	Mother Theodore Guerin High School	2004.0	254.0
+18619	http://www.hoffmanestates.com/	Hoffman Estates	1998.0	2284.0
+18620	http://www.tremont.lib.il.us/library/	Tremont District Library	0.0	40.0
+18621	http://www.bolingbrook.com/	Bolingbrook	1996.0	1903.0
+18622	http://www.jwcc.edu/	John Wood Community College	1996.0	957.0
+18623	http://www.d214.org/	High School District #214	2004.0	1609.0
+18626	http://www.surs.org/	State Universities Retirement System	2000.0	1019.0
+18627	http://www.district87.org/	Bloomington District #87	1999.0	11.0
+18628	http://www.mountprospect.org/	Mount Prospect	1999.0	531.0
+18629	http://www.ilcma.org/	Illinois City/County Management Association	2000.0	480.0
+18632	http://roodhouselibrary.org	Roodhouse Public Library	2002.0	308.0
+18633	http://www.alsip-mp.lib.il.us	Alsip-Merrionette Park Library District	1999.0	733.0
+18634	http://geneseo.lib.il.us	Geneseo Public Library District	2006.0	157.0
+18635	http://www.i-saverx.net/	I-SaveRx	2004.0	1.0
+18636	http://www.op97.org/	Oak Park Elementary School District #97	2002.0	4473.0
+18637	http://www.co.st-clair.il.us/Pages/default.aspx	St. Clair	2013.0	255.0
+18638	http://www.villageofoaklawn.com/	Oak Lawn	2001.0	187.0
+18639	http://www2.illinois.gov/cms/Pages/default.aspx	Central Management Services, Department of	2011.0	5.0
+18640	http://www.chicagoridge.org/	Chicago Ridge	2002.0	344.0
+18641	http://www.hinckley.lib.il.us	Hinckley Public Library District	2007.0	26.0
+18642	http://www.villageofbourbonnais.com/	Bourbonnais	2003.0	683.0
+18643	http://www.breese.org/	Breese	2000.0	27.0
+18644	http://www.rockfallslibrary.com	Rock Falls Public Library District	2004.0	1169.0
+18645	http://www.dkpl.org	Dekalb Public Library	2000.0	611.0
+18646	http://www.brookwood.s-cook.k12.il.us/bjrhs	Brookwood Junior High School	0.0	0.0
+18647	http://www.parliningersoll.org/	Parlin-Ingersoll Public Library	2001.0	15.0
+18648	http://hudsonarealibrary.com/	Hudson Area Public Library District	2000.0	105.0
+18650	http://www.ayerpubliclibrary.com/	Ayer Public Library District	2008.0	0.0
+18651	http://www.sycamorelibrary.org	Sycamore Public Library	2001.0	297.0
+18652	http://www.glenview.il.us/	Glenview	1998.0	159.0
+18653	http://elmhurstpubliclibrary.org/	Elmhurst Public Library	2000.0	466.0
+18654	http://www.cherryvalley.lib.il.us	Cherry Valley Public Library District	2000.0	20.0
+18655	http://adc.d211.org/	Township High School District 211	2013.0	1336.0
+18656	http://www.southhollandlibrary.org	South Holland Public Library	2001.0	39.0
+18657	http://www.kcc.edu/Pages/Home.aspx	Kankakee Community College	2008.0	799.0
+18658	http://eghs.d214.org/	Elk Grove High	2004.0	421.0
+18659	http://www.wesclin.k12.il.us/	Wesclin Community Schools	1998.0	899.0
+18660	http://www.illinois.gov/Pages/default.aspx	Illinois Homeland Security	2010.0	444.0
+18661	http://www.asd4.org/schools/armytrail/index-at.htm	Army Trail School	2009.0	10197.0
+18662	http://www.elpasopubliclibrary.net	El Paso Public Library	2006.0	338.0
+18663	http://www.crystallake.org/	Crystal Lake	1996.0	3932.0
+18664	https://www.co.mchenry.il.us/	Mchenry	1998.0	1967.0
+18665	http://www.k111.k12.il.us/	Kankakee School District #111	1998.0	1754.0
+18667	http://home.comcast.net/~roselibrary/	Ogden Rose Public Library	2010.0	8.0
+18668	http://www.centralcougars.org/	Central Community High School	2002.0	241.0
+18669	http://www.capital.tec.il.us	Capitol Area Career Center	2001.0	76.0
+18672	http://www.huntley.il.us/	Huntley	1999.0	221.0
+18673	http://www.naperville-lib.org	Naperville Public Library	1999.0	949.0
+18674	http://www.ioc.state.il.us/	Comptroller, Office of the	1998.0	1077.0
+18675	https://www.dist50.net/default.aspx	Woodland School District #50	2011.0	761.0
+18676	http://oregon.lib.il.us	Oregon Public Library District	2002.0	86.0
+18680	http://www.dekalbcounty.org/	De Kalb	2000.0	584.0
+18681	http://www.hillsboroschools.net/schools/hjhs/hjhs.htm	Hillsboro Junior High	2003.0	0.0
+18682	http://www.oprfhs.org	Oak Park and River Forest High School	1997.0	1176.0
+18685	http://www.woodland5.org/	Woodland Community Unit District #5	2004.0	142.0
+18686	http://www.sandwich.lib.il.us	Sandwich District Library	2002.0	632.0
+18687	http://www.pontiac.k12.il.us/	Pontiac Township High School	2000.0	257.0
+18688	http://www.lasallecounty.org/	La Salle	2001.0	723.0
+18690	http://www.franklincountyil.org	Franklin	2006.0	1.0
+18691	http://www.ccc.edu/colleges/kennedy/Pages/default.aspx	CCC - Kennedy-King College	2011.0	221.0
+18692	http://www.op97.org/julian/	Percy Julian Middle School	2003.0	529.0
+18693	http://www.woodriver.org/	Wood River	1999.0	18.0
+18694	http://www.jerseyvillelibrary.org	Jerseyville Public Library	2001.0	726.0
+18695	http://www.eastaltonvillage.org/	East Alton	2003.0	184.0
+18696	http://www.lincolnlibrary.info	Lincoln Library	2004.0	42.0
+18697	http://lincolnwood.district65.net/	Lincolnwood Elementary	2005.0	66.0
+18699	http://www.woodridgelibrary.org	Woodridge Public Library	2000.0	115.0
+18700	http://www.itasca.com/	Itasca	1998.0	799.0
+18702	http://www.fisher.k12.il.us/newindex.html	Fisher Grade School	2004.0	14.0
+18703	http://valmeyerk12.org	Valmeyer Public Library District	2002.0	212.0
+18704	http://www.deercreekillinois.org	Deer Creek District Library	2007.0	20.0
+18705	http://astoria.fulton.k12.il.us/	Astoria Community Unit School District #1	2000.0	288.0
+18708	http://www.roycemoreschool.org/	Roycemore School	2001.0	160.0
+18709	http://www.centralialibrary.org	Centralia Regional Library District	2003.0	591.0
+18711	http://catlin.il.schoolwebpages.com/education/school/school.php?sectionid=8475	Catlin Community Unit School District #5	2003.0	2.0
+18712	http://www.earlvillelibrary.org	Earlville Public Library District	2002.0	11.0
+18713	http://www.lemontlibrary.org	Lemont Public Library District	2002.0	93.0
+18717	http://www.op97.org/Beye/	Beye Elementary School	2003.0	493.0
+18718	http://www.cityofottawa.org/	Ottawa	2002.0	498.0
+18721	http://www.wheaton.il.us/	Wheaton	2002.0	751.0
+18722	http://www.arts.illinois.gov	Arts Council	2007.0	673.0
+18723	http://www.glencoepubliclibrary.org	Glencoe Public Library	2007.0	53.0
+18724	http://www2.illinois.gov/ltgov/Pages/default.aspx	Lt. Governor	2011.0	1006.0
+18725	http://www.cityofdanville.org/	Danville	2001.0	37.0
+18727	http://flossmoorlibrary.org/page.php?41	Flossmoor Public Library	2010.0	78.0
+18729	http://morrisonil.org/	Morrison	2002.0	177.0
+18731	http://www.streamwood.org/	Streamwood	2001.0	261.0
+18732	http://www.columbialibrary.org	Columbia Public Library	2003.0	30.0
+18733	http://www.downers.us	Downers Grove	2004.0	980.0
+18734	http://www.stanthony.com/ourschools/highschool/	St. Anthony High	2011.0	24.0
+18736	http://www2.illinois.gov/gov/Pages/default.aspx	Governor, Office of the	2010.0	73.0
+18737	http://www.npeschool.org/	North Park Elementary School	1998.0	150.0
+18738	http://www.lcls.org	Grand Prairie Of The West Public Library District	1999.0	785.0
+18739	http://gridleylibrary.org/	Gridley Public Library District	2008.0	12.0
+18740	http://www.newberlin.il.us/	New Berlin	2001.0	26.0
+18741	http://www.richland.edu/	Richland Community College	2002.0	630.0
+18742	http://www.carmi.white.k12.il.us	Carmi-White County School System	1998.0	275.0
+18743	http://www.alton-il.com/	Alton	2002.0	55.0
+18744	http://www.huntleylibrary.org	Huntley Area Public Library District	2000.0	4224.0
+18746	http://west.maine207.org/	Maine West High	2004.0	1879.0
+18747	http://www.d107.org/elementary.aspx	Pleasantdale Elementary School	2011.0	206.0
+18748	http://www.hinsdale86.org/pages/default.aspx	Hinsdale Township District 86	2008.0	67.0
+18749	http://www.tarkington.d21.k12.il.us/	Booth Tarkington Elementary School	2000.0	1.0
+18750	http://www.winfield34.org/	Winfield School District #34	2001.0	19387.0
+18751	http://gepl.org/	Glen Ellyn Public Library	1998.0	289.0
+18752	http://www.robinson.lib.il.us	Robinson Public Library District	2004.0	1087.0
+18753	http://www.parkland.edu/	Parkland College	2002.0	556.0
+18754	http://www.tazewell.com/	Tazewell	1998.0	55.0
+18755	http://www.co.kankakee.il.us/	Kankakee	2001.0	170.0
+18756	http://www2.illinois.gov/icsc/Pages/default.aspx	Civil Service Commission, Illinois	2010.0	18.0
+18757	http://westvillepubliclibrarydistrict.org	Westville Public Library District	2009.0	8.0
+18758	http://www.carbondale.lib.il.us/	Carbondale Public Library	2004.0	75.0
+18759	http://www.bethaltolibrary.org	Bethalto Public Library District	2001.0	269.0
+18760	http://maroa.lib.il.us	Maroa Public Library District	2004.0	1.0
+18761	http://www.rockislandcounty.org/	Rock Island	2004.0	406.0
+18762	http://www.mchenrylibrary.org	Mchenry Public Library District	2003.0	96.0
+18763	http://andrew.d230.org/	Victor J Andrew High School	2005.0	1047.0
+18764	http://www.hanoverparkillinois.org/	Hanover Park	2001.0	1389.0
+18766	http://www.edwardsvillelibrary.org	Edwardsville Public Library	2001.0	24.0
+18767	http://www.cityofmacomb.com/	Macomb	2001.0	212.0
+18768	http://www.savoy.illinois.gov/	Savoy	2013.0	182.0
+18770	http://www.moline.il.us/	Moline	1996.0	727.0
+18771	http://www.state.il.us/iema/	Emergency Management Agency	1997.0	2.0
+18772	http://www.swchristian.org/	Chicago Christian High	2001.0	184.0
+18773	https://gac.state.il.us/	Guardianship and Advocacy Commission	2002.0	2.0
+18774	http://www.mchs.net	Minooka Community High School	1999.0	101.0
+18775	http://www.nscds.org/	North Shore Country Day School	2000.0	171.0
+18776	http://www.ipdpl.org	Illinois Prairie District Public Library	2002.0	42.0
+18777	http://www.savannaillinois.com/	Savanna	2001.0	34.0
+18778	http://www.ci.chillicothe.il.us/	Chillicothe	1998.0	40.0
+18779	http://www.richcentral.org	Rich Central High School	2000.0	258.0
+18780	http://www.epl.org	Evanston Public Library	1996.0	878.0
+18782	http://www.berwyn-il.gov/	Berwyn	2004.0	2.0
+18783	http://www.villageofworth.com/	Worth	2001.0	59.0
+18784	http://www.shawneecc.edu/	Shawnee Community College	2003.0	117.0
+18785	http://www2.illinois.gov/dhr/Pages/default.aspx	Human Rights, Department of	2012.0	4.0
+18786	http://www.glenbard87.org	Glenbard Township High School District 87	2007.0	2811.0
+18787	http://www.illiopolisniantic.lib.il.us	Illiopolis-Niantic Public Library District	2007.0	620.0
+18788	http://www.cityofharvard.org/	Harvard	2001.0	78.0
+18789	http://www.eastmoline.com/	East Moline	1999.0	462.0
+18790	http://www.bensenville.il.us/	Bensenville	1998.0	498.0
+18791	http://www.villageofstickney.com/	Stickney	2001.0	138.0
+18792	http://www.lakeforestlibrary.org	Lake Forest Library	2007.0	26.0
+18793	http://www.kishwaukeecollege.edu/	Kishwaukee College	0.0	803.0
+18794	http://schools.naperville203.org/central/	Naperville Central High	2008.0	0.0
+18796	http://www.gorevilleillinois.com	Goreville	2009.0	2.0
+18797	http://www.vniles.com/	Niles	1996.0	1358.0
+18798	http://www.d300.org/schools/pves	Parkview Elementary School	2008.0	7.0
+18800	http://www.hplibrary.org	Highland Park Public Library	2001.0	1971.0
+18802	http://elmwoodpark.org/	Elmwood Park	1999.0	174.0
+18803	http://www.op97.org/Irving/	Washington Irving School	2003.0	419.0
+18805	http://www.auditor.illinois.gov/	Auditor General	2007.0	3163.0
+18806	http://crestwoodlibrary.org	Crestwood Public Library District	2007.0	1338.0
+18807	http://www.altamontil.net/	Altamont	2001.0	17.0
+18808	http://www.village.bartlett.il.us/	Bartlett	1998.0	69.0
+18809	http://www.ides.illinois.gov:80/default.aspx	Employment Security, Department of	2011.0	253.0
+18811	http://www.algonquin.org/	Algonquin	1998.0	1060.0
+18812	http://www.berkeley.il.us/	Berkeley	1998.0	399.0
+18813	http://www.prairietrailslibrary.org	Prairie Trails Public Library District	2002.0	56.0
+18816	http://www.westville.k12.il.us/	Westville Community Unit School District #2	2001.0	913.0
+18817	http://www.ilga.gov/	Illinois General Assembly	2004.0	29436.0
+18818	http://www.southholland.org/	South Holland	1998.0	247.0
+18820	http://www.mahometpubliclibrary.org	Mahomet Public Library District	2000.0	35.0
+18821	http://hooplib.org	Hoopeston Public Library District	2001.0	9.0
+18822	http://www.src.edu/Pages/default.aspx	Spoon River College	2011.0	873.0
+18823	http://www.edline.net/pages/oak_terrace_es	Oak Terrace Elementary School	2012.0	15.0
+18824	http://www.hartfordillinois.net/	Hartford	2002.0	24.0
+18825	http://www.ilhousegop.org/	Illinois House Republicans	2008.0	162.0
+18826	http://portbyron.com/	Port Byron	2001.0	15.0
+18827	http://www.alphapark.org	Alpha Park Public Library District	2001.0	31.0
+18828	http://www.graveshume.lib.il.us	Graves-Hume Public Library District	2003.0	445.0
+18831	http://www.benldlibrary.org	Frank Bertetti Benld Public Library	2002.0	13.0
+18833	http://www.holytrinitywestmont.org/school/	Holy Trinity Catholic School	2009.0	49.0
+18836	http://www.prairiecentral.org/cwpages/html/index.html	Chatsworth Elementary	2001.0	13.0
+18837	http://www.cassd63.org/concord	Concord Elementary School	2004.0	694.0
+18838	http://www.danville.lib.il.us	Danville Public Library	1998.0	83.0
+18839	http://www.villageofwinfield.com/	Winfield	2001.0	331.0
+18840	http://www.hfs.illinois.gov/	Department of Public Aid	0.0	2.0
+18841	http://hononegah.il.schoolwebpages.com/education/school/school.php?sectiondetailid=75	Hononegah High	2009.0	1.0
+18843	http://www.pawneeschools.com/vnews/display.v/art/4491c6cc03620	Pawnee High School	2007.0	9.0
+18844	http://www.rockdale-il.com/	Rockdale	2001.0	1.0
+18845	http://shelbyville.lib.il.us	Shelbyville Public Library	2004.0	14.0
+18846	http://carlinvillelibrary.org	Carlinville Public Library	2006.0	513.0
+18848	http://www.lmelibrary.org	Lillie M. Evans Library District	2002.0	1402.0
+18849	http://www.ofallon.org/	O Fallon	1998.0	4267.0
+18852	http://www.edline.net/pages/Rochelle_Township_High_School	Rochelle Township High	2010.0	9.0
+18856	http://www.peotonelibrary.org	Peotone Public Library District	2010.0	619.0
+18858	http://westmontlibrary.org/	Westmont Public Library	2003.0	441.0
+18859	http://www.leroyk12.org/home	LeRoy Community Unit School District #2	2013.0	39.0
+18862	http://www.op97.org/lincoln/	Abraham Lincoln School	2003.0	486.0
+18863	http://www.homerglen.org/	Homer Glen	2001.0	224.0
+18865	http://www.fieldcrest.k12.il.us/	Fieldcrest Community Unit School District #6	0.0	765.0
+18867	http://insurance.illinois.gov/	Insurance Department of	2009.0	419.0
+18868	http://www.carlinvilleschools.net/	Carlinville Unit #1 school district	2002.0	17.0
+18869	http://www.district30.org/	Northbrook/Glenview School District 30	2013.0	1258.0
+18870	http://www.co.peoria.il.us/	Peoria	2000.0	32.0
+18871	http://www.masoncountyil.org/	Mason	2002.0	53.0
+18872	http://iema.illinois.gov/	Emergency Management Agency	2007.0	744.0
+18873	http://www.kcsd96.org/k/	Kildeer Countryside School	2013.0	329.0
+18874	http://www.dot.il.gov/	Transportation, Department of	2004.0	294.0
+18875	http://www.rivergrovelibrary.org	River Grove Public Library District	2002.0	0.0
+18876	http://www.willcountyillinois.com/	Will	1999.0	522.0
+18877	http://riverdaleschools.org/site/district/	Riverdale School District	2010.0	32.0
+18878	http://www2.illinois.gov/gov/exports/pages/council.aspx	Illinois Export Advisory Council	2012.0	32.0
+18879	http://www.lakeblufflibrary.org	Lake Bluff Public Library	2004.0	39.0
+18880	http://www.twain.d21.k12.il.us/	Mark Twain Elementary School	2000.0	32.0
+18881	http://www.polo.lib.il.us	Polo Public Library District	2006.0	462.0
+18882	http://vil.carpentersville.il.us/	Carpentersville	1999.0	139.0
+18884	http://easthazelcrest.com/	East Hazel Crest	2001.0	571.0
+18885	http://www.roxanalibrary.org	Roxana Public Library District	2001.0	324.0
+18886	http://www.csu.edu/	Chicago State University	1997.0	1705.0
+18888	http://www.mtzion.lib.il.us	Mount Zion Public Library District	2001.0	1319.0
+18889	http://www.brightonpubliclibrary.org	Brighton Memorial Public Library	2008.0	8.0
+18890	http://www.elections.il.gov/	Elections, Board of	2005.0	583.0
+18891	http://www.northriversidelibrary.org/	North Riverside Public Library District	2003.0	189.0
+18893	http://www.city.clay.k12.il.us/education/district/district.php?sectionid=699	Clay City Community Unit School District #10	2002.0	2.0
+18894	http://www.tfd215.org/	Thornton Fractional Township District #215	2000.0	312.0
+18895	http://www.icc.illinois.gov/	Commerce Commission, Illinois	2006.0	1170.0
+18896	http://www.rockfalls61071.com/	Rock Falls	2001.0	45.0
+18898	http://www.op97.org/Hatch/	William Hatch Elementary	2003.0	255.0
+18899	http://www.bethalto.org/education/components/scrapbook/default.php?sectionid=543&url_redirect=1	Bethalto Community Unit School District #8	2013.0	0.0
+18900	http://rivervalleylibrary.org/	River Valley District Library	2009.0	34.0
+18901	http://www.stcharlesil.gov/	St. Charles	2003.0	2376.0
+18906	http://www.eastaltonlibrary.org	East Alton Public Library District	2003.0	473.0
+18907	http://www.cityoflockport.net/	Lockport	2011.0	349.0
+18908	http://www.usd116.org/uhs/	Urbana High School	2004.0	252.0
+18911	http://www.warsawlib.org	Warsaw Public Library	2008.0	11.0
+18912	http://www.lincolnwoodil.org/	Lincolnwood	2001.0	1813.0
+18913	http://www.ahml.info	Arlington Heights Memorial Library	2002.0	4040.0
+18914	http://www.perrycountyil.org/	Perry	2004.0	3.0
+18915	http://www.shiloh.k12.il.us/	Shiloh CUSD #1	2000.0	35.0
+18916	http://www.evergreenpark-ill.com/	Evergreen Park	2001.0	267.0
+18917	http://www.eldorado.lib.il.us	Eldorado Memorial Public Library District	2004.0	851.0
+18921	http://www.pfpl.org	Park Forest Public Library	2000.0	54.0
+18922	http://www.iccb.org/	Community College Board, Illinois	2002.0	127.0
+18923	http://www.tricountyrpc.org/	Tri-County Regional Planning Commission	2002.0	927.0
+18925	http://www.acornlibrary.org	Acorn Public Library District	2002.0	206.0
+18926	http://www.henrycty.com/	Henry	2000.0	2076.0
+18927	http://www.bsd100.org/www/Berwyn/site/hosting/pd/index.html	South Berwyn School District 100	2013.0	2.0
+18928	http://www.hinsdalelibrary.info	Hinsdale Public Library	2004.0	90.0
+18929	http://www.westchester-il.org/	Westchester	2000.0	297.0
+18930	http://www.greenup.lib.il.us	Greenup Township Public Library	2007.0	297.0
+18931	http://www.johnsburg12.org/	Johnsburg Community School District No. 12	2010.0	470.0
+18932	http://ww2.villageofjustice.com/	Justice	0.0	141.0
+18933	http://www.villageofgilberts.com	Gilberts	2002.0	240.0
+18934	http://fairview.d57.org/	Fairview Elementary	2009.0	247.0
+18935	http://www.usd116.org/leal/	Leal Elementary	2004.0	76.0
+18937	http://www.cityofbatavia.net/	Batavia	1998.0	406.0
+18938	http://www.belleville.net/	Belleville	0.0	698.0
+18939	http://www.epchs.k12.il.us/	East Peoria Community High	1999.0	0.0
+18941	http://www.carterville.lib.il.us	Anne West Lindsey Carterville District Library And Nature Pa	2004.0	1.0
+18942	http://www.dist399.net/	Chadwick - Milledgeville Community Unit School District #399	1998.0	277.0
+18943	http://www.rlalibrary.org	Round Lake Area Public Library District	2000.0	1379.0
+18944	http://www.toi.org/	Township Officials of Illinois	1998.0	64.0
+18945	http://jolietlibrary.org/	Joliet Public Library	2011.0	998.0
+18946	http://www.kcsd96.org/p/	Prairie School	2013.0	373.0
+18948	http://www.pekinpubliclibrary.org	Pekin Public Library	2008.0	53.0
+18949	http://www.elburn.il.us/	Elburn	2000.0	393.0
+18951	http://www.illinois.gov/dceo/Pages/default.aspx	Department of Commerce and Community Affairs	2013.0	8.0
+18952	http://www.normalpl.org/	Normal Public Library	2011.0	253.0
+18953	http://www.oswego308.org/	Oswego School District #308	2005.0	2590.0
+18955	http://arthurelem.weebly.com/	Arthur Elementary School	2013.0	34.0
+18956	http://www.morrislibrary.com	Morris Area Public Library District	2001.0	469.0
+18957	http://www.heritage.k12.il.us/hs.html	Heritage High School	2002.0	1.0
+18958	http://www.mortonlibrary.org	Morton Public Library District	2001.0	143.0
+18959	http://www.ssc.cc.il.us/	South Suburban Coll. of Cook Co.	1998.0	66.0
+18960	http://www.d107.org/	Pleasantdale School District 107	2004.0	200.0
+18961	http://www.laddlibrary.com	Ladd Public Library District	2011.0	117.0
+18962	http://www.palestinelibrary.org	Palestine Public Library District	2004.0	1.0
+18963	http://www.pinckneyville.lib.il.us/	Pinckneyville Public Library	2004.0	9.0
+18964	http://www.cityofelgin.org/	Elgin	2000.0	1054.0
+18965	http://www.dacc.edu	Danville Area Community College	2002.0	739.0
+18966	http://www.vil.shorewood.il.us/	Shorewood	2001.0	165.0
+18967	http://www.govst.edu/	Governors State University	1997.0	1034.0
+18969	http://www.ccsd59.org/	Community Consolidated School District #59	2005.0	123.0
+18970	http://www.greenhills.lib.il.us	Green Hills Public Library District	1999.0	18.0
+18971	http://www.op97.org/Holmes/	Holmes School	2003.0	367.0
+18972	http://www.metropolis.lib.il.us	Metropolis Public Library	2004.0	310.0
+18973	http://www.franklinhigh.com/	Franklin C.U.S.D. #1	2001.0	5.0
+18975	http://www.carmelhs.org/	Carmel High School	2001.0	79.0
+18976	http://www.champaignschools.org/	Community Unit School District #4	2004.0	780.0
+18978	http://www.stonington.lib.il.us/	Stonington Township Public Library	2008.0	521.0
+18979	http://www.cretelibrary.org/wordpress/	Crete Public Library District	0.0	59.0
+18980	http://www.universityparkpubliclibrary.org	University Park Public Library District	2002.0	536.0
+18981	http://www.farmingtonpublic.org	Farmington Area Library District	0.0	40.0
+18982	http://waterloolibrary.org/	Morrison-Talbott Library	2001.0	52.0
+18983	http://www.illinois.gov/ihpa/Pages/default.aspx	Historic Preservation Agency	2013.0	5.0
+18985	http://www.highland.cc.il.us/	Highland Community College	1998.0	152.0
+18987	http://www.tolonolibrary.org	Tolono Public Library District	2000.0	6.0
+18990	http://www.waterloo.il.us/	Waterloo	1998.0	237.0
+18991	http://www.icc.edu/	Illinois Central College	2002.0	1160.0
+18992	http://www.montgomeryco.com/	Montgomery	1999.0	322.0
+18993	http://antiochdistrictlibrary.org	Antioch Public Library District	2002.0	32.0
+18994	http://www.co.effingham.il.us/	Effingham	2001.0	87.0
+18995	http://www.lagrangelibrary.org/lagrange/	Lagrange Public Library	2007.0	64.0
+18996	http://www.speed802.org/	SPEED Special Education Joint Agreement #802	2003.0	450.0
+18997	http://www.jjc.edu/Pages/default.aspx	Joliet Junior College	2008.0	1403.0
+18998	http://www.isac.org/	Student Assistance Commission, Illinois	2002.0	590.0
+18999	http://www.jalc.edu/	John A. Logan College	2002.0	809.0
+19000	http://www.lakeforestschools.org/lfhs/index.aspx	Community High School District #115	2013.0	519.0
+19001	http://www.isp.state.il.us/	State Police, Illinois	2001.0	135.0
+19003	http://www.aurora-il.org/	Aurora	0.0	1312.0
+19004	http://www.kcsd96.org/tg/	Twin Groves Middle School	2013.0	492.0
+19005	http://elgin.edu/homepage.aspx	Elgin Community College	2007.0	1549.0
+19006	http://www.melroseparklibrary.org	Melrose Park Public Library	2000.0	612.0
+19007	http://www.monticellolibrary.org	Monticello Township Library	2001.0	11.0
+19008	http://www.state.il.us/agency/ptab/	Property Tax Appeal Board	1998.0	7.0
+19009	http://shilohil.org/	Shiloh	1998.0	250.0
+19010	http://www.mcleancountyil.gov	Mclean	2003.0	883.0
+19012	http://www.kewaneehs.org/	Kewanee High School	2008.0	1.0
+19014	http://www.ci.rolling-meadows.il.us/	Rolling Meadows	1998.0	35.0
+19015	http://www.aurora.lib.il.us	Aurora Public Library	1998.0	341.0
+19016	http://www.fairviewheightslibrary.org	Fairview Heights Public Library	2001.0	68.0
+19017	http://www.eths.k12.il.us/main.aspx	Evanston Township High	2010.0	3722.0
+19018	http://www.limestonelibrary.org	Limestone Township Library	2002.0	207.0
+19019	https://www.chathamil.net/	Chatham	2001.0	437.0
+19022	http://www.rantoul.lib.il.us	Rantoul Public Library	2001.0	69.0
+19025	http://www.cescook.org/	Cook County Regional Office of Education	2010.0	8.0
+19027	http://lhswildcats.org/	Libertyville High School	2004.0	856.0
+19028	http://www.nauvoo.lib.il.us/	Nauvoo Public Library	0.0	25.0
+19029	http://www.d121.org/Pages/Start.aspx	Warren Township High School	2014.0	43.0
+19031	http://www.ccc.edu/colleges/olive-harvey/Pages/default.aspx	CCC - Olive-Harvey College	2011.0	112.0
+19033	http://waynesvilletownshiplibrary.org	Waynesville Township Library	2003.0	1.0
+19034	http://www.waukeganpl.org	Waukegan Public Library	1998.0	1436.0
+19035	http://www.ccld.org	Central Citizens Library District	2001.0	76.0
+19036	http://zblibrary.info/	Zion-Benton Public Library District	2009.0	394.0
+19037	http://www.newmanregionallibrary.org	Newman Regional Library District	2008.0	891.0
+19040	http://www.salembbl.lib.il.us	Bryan-Bennett Library	2004.0	435.0
+19041	http://www.agr.state.il.us/	Agriculture, Department of	1998.0	1953.0
+19042	http://www.blueisland.org/	Blue Island	1998.0	330.0
+19043	http://www.forestpark.net/dfp/	Forest Park	2012.0	127.0
+19044	http://www.flossmoor.org/	Flossmoor	2001.0	242.0
+19045	http://www.treasurer.il.gov/	State Treasurer, Office of the	2006.0	84.0
+19048	http://www.villageofjerome.com/	Jerome	2001.0	22.0
+19049	http://www.senecahs.org/	Seneca Township High School	2002.0	1450.0
+19051	http://www.sandwich.il.us/	Sandwich	2000.0	23.0
+19052	http://search.illinoisheartland.org/default.aspx?ctx=27.1033.0.0.1	Carmi Public Library	0.0	425.0
+19053	http://ghs.chathamschools.org/	Glenwood High School	2011.0	1759.0
+19054	http://prairieskieslibrary.com/	Prairie Skies Public Library District	2007.0	1.0
+19056	http://rockislandlibrary.org/	Rock Island 30-31 Branch	2010.0	285.0
+19059	http://www.fairviewheightscity.com/	Fairview Heights	2000.0	325.0
+19060	http://www.d131.org/easthighschool/homepage.asp?guid=%7b4f0e7f88-74d1-4bec-9517-cb1b29755eb4%7d	East Aurora High School	2009.0	1027.0
+19062	http://www.mattesonpubliclibrary.org	Matteson Public Library	2007.0	98.0
+19063	http://www.vit.k12.il.us/	V.I.T. C.U.S.D. #2	1996.0	0.0
+19064	http://www.vapld.info	Vernon Area Public Library District	2002.0	426.0
+19067	http://www.sic.cc.il.us/	Southeastern Illinois College	1997.0	912.0
+19068	http://mundeleinmustangs.com/	Mundelein High School	2004.0	6.0
+19069	http://www.flgs.lake.k12.il.us/education/district/district.php?sectionid=1	Fox Lake Grade School District #114	2011.0	2.0
+19070	http://www.co.logan.il.us/	Logan	2002.0	65.0
+19071	http://www.rich227.org/	Rich Township High School District 227	2000.0	232.0
+19074	http://www.prairiecreeklibrary.org	Prairie Creek Public Library District	2003.0	8.0
+19075	http://www.carroll-county.net	Carroll	2009.0	112.0
+19076	http://www.co.jackson.il.us/	Jackson	1998.0	528.0
+19077	http://www.piattcounty.org/	Piatt	2002.0	29.0
+19080	http://www.roanokeil.org	Roanoke	2002.0	25.0
+19081	http://www.ci.collinsville.il.us/	Collinsville	1999.0	320.0
+19083	http://www.freeburg.lib.il.us	Freeburg Area Library District	2004.0	2.0
+19084	http://www.homerlibrary.org/homer/	Homer Township Public Library District	2011.0	52.0
+19085	http://maltalibrary.org	Malta Township Public Library	2008.0	16.0
+19086	http://ci.pinckneyville.il.us/	Pinckneyville	2001.0	477.0
+19087	http://www.niu.edu/index.shtml	Northern Illinois University	2006.0	973.0
+19088	http://www.psm.k12.il.us/	Providence-St. Mel School	1998.0	3.0
+19089	http://www.hodgkinslibrary.org/hodgkins/	Hodgkins Public Library District	2013.0	99.0
+19090	http://www.harlem122.org/	Harlem School District #122	2000.0	137.0
+19091	http://unityhs.weebly.com/	Unity High School	2012.0	23.0
+19092	http://www.ecusd7.org/	Edwardsville Community Unit School District 7	2000.0	433.0
+19093	http://www.sullivanil.us/library.html	Elizabeth Titus Memorial Library	2007.0	24.0
+19094	http://www.ihsa.org/default.aspx	Illinois High School Association	2011.0	12218.0
+19095	http://www.eiu.edu/	Eastern Illinois University	1996.0	1133.0
+19096	http://www.mascoutah.com/	Mascoutah	1997.0	408.0
+19098	http://www.bridgeviewlibrary.org/bridgeview/	Bridgeview Public Library	2007.0	126.0
+19099	http://www.juliahull.org	Julia Hull District Library	2005.0	6.0
+19100	http://www.mokena159.org/	Mokena School District #159	2007.0	42.0
+19103	http://www.wilmington.will.k12.il.us/	Wilmington School District #209-U	1998.0	57.0
+19104	http://www.paloshillsweb.org/	Palos Hill	2002.0	250.0
+19105	http://schools.naperville203.org/millstreet/	Mill Street School	2009.0	0.0
+19106	http://www.cityoffulton.us/	Fulton	2002.0	2851.0
+19107	http://www.fondulaclibrary.org	Fondulac Public Library District	2004.0	147.0
+19108	http://www.wauclib.org	Wauconda Area Public Library District	1998.0	136.0
+19109	http://www.ssch.lib.il.us	Steger-South Chicago Heights Public Library District	2001.0	1554.0
+19110	http://www.florapubliclibrary.org	Flora Public Library	2004.0	1195.0
+19111	http://www.oppl.org	Oak Park Public Library	1998.0	1141.0
+19112	http://www.woodstockil.gov/	Woodstock	2006.0	3477.0
+19113	http://www.ahlibrary.com	Atwood-Hammond Public Library District	2000.0	218.0
+19114	http://www.auburnctnet.com/	Auburn	1997.0	122.0
+19115	http://www.villageofbeecher.org/	Beecher	2003.0	75.0
+19116	http://www2.illinois.gov/elrb/Pages/default.aspx	Educational Labor Relations Board, Illinois	2010.0	0.0
+19118	http://www.marist.net/	Marist High	2000.0	645.0
+19119	http://www.warrenville.il.us/	Warrenville	2000.0	788.0
+19120	http://www.fountaindale.org/	Fountaindale Public Library District	2009.0	265.0
+19121	http://www.murphysboro.lib.il.us	Sallie Logan Public Library	2004.0	878.0
+19122	http://www.riversidelibrary.org	Riverside Public Library	2000.0	21.0
+19123	http://www.stauntonschools.org/shs_index.htm	Staunton High School	2008.0	37.0
+19125	http://www.elsah.org/	Elsah	2000.0	25.0
+19126	http://chadwicklibrary.org	Chadwick Public Library District	2002.0	15.0
+19128	http://www.ilsaap.org/	Appellate Prosecutor, Office of	2005.0	91.0
+19129	http://www.sfm.illinois.gov/	Illinois State Fire Marshal	2010.0	233.0
+19132	http://www.wooddalelibrary.org	Wood Dale Public Library District	2005.0	28.0
+19134	http://www.marioncarnegielibrary.org	Marion Carnegie Library	2004.0	56.0
+19137	http://www.op97.org/Longfellow/	Longfellow Elementary	2003.0	362.0
+19138	http://pekin.net/education/school/school.php?sectionid=2042&linkid=nav-menu-container-1-13591	Washington Intermediate School	0.0	34.0
+19139	http://www.latinschool.org/page	Latin School of Chicago	2013.0	535.0
+19140	http://www.kvillepublib.org	Knoxville Public Library	2006.0	1.0
+19141	http://www.glen-ellyn.com/gov/index.html	Glen Ellyn	1998.0	1.0
+19142	http://www.co.stephenson.il.us/	Stephenson	2002.0	65.0
+19144	http://www.crevecoeurpubliclibrary.com	Creve Coeur Public Library District	2008.0	10.0
+19147	http://www.morton.edu	Morton College	2004.0	215.0
+19149	http://www.champaignschools.org/schools/home/?id=14	Garden Hills Elementary School	2011.0	2.0
+19150	http://gac.state.il.us/	Illinois Guardianship and Advocacy Commission	2002.0	2.0
+19151	http://www.willowbrookil.org/	Willowbrook	1999.0	336.0
+19152	http://www.maywood-il.org/	Maywood	2002.0	102.0
+19153	http://www2.illinois.gov/ppb/Pages/default.aspx	Procurement Policy Board	2012.0	15.0
+19155	http://www.myshawnee.net/	Shawneetown Public Library	2014.0	22.0
+19156	http://www.caryillinois.com/	Cary	2000.0	540.0
+19157	http://eawr.madison.k12.il.us/	East Alton-Wood River Community High	1996.0	0.0
+19158	http://www.ucls.uchicago.edu/	University of Chicago Laboratory Schools	1996.0	1998.0
+19160	http://www.trpld.org	Three Rivers Public Library District	2011.0	46.0
+19162	http://www.village.rantoul.il.us/	Rantoul	1999.0	893.0
+19163	http://www.freeportpubliclibrary.org	Freeport Public Library	2002.0	85.0
+19164	http://www.palosheights.org/	Palos Heights	1999.0	390.0
+19165	http://www.chipublib.org/	Chicago Public Library	1998.0	1555.0
+19166	http://www2.illinois.gov/veterans/Pages/default.aspx	Department of Veterans' Affairs	2010.0	11.0
+19167	http://www.city.centralia.il.us/	Centralia	2001.0	0.0
+19168	http://mgs.metamora.k12.il.us/	Metamora Grade School	1998.0	21.0
+19169	http://www2.illinois.gov/gov/P20/Pages/default.aspx	P20 Council	2011.0	32.0
+19170	http://dnr.state.il.us/lands/landmgt/parks/	State Parks	2000.0	5.0
+19171	http://www.dist113.org/pages/default.aspx	Township High School District 113	2010.0	139.0
+19172	http://www.villageofwinnetka.org/	Winnetka	1999.0	701.0
+19173	http://www.isbe.state.il.us/	State Board of Education	1997.0	610.0
+19174	http://www.siue.edu/	Southern Illinois University Edwardsville	1997.0	1193.0
+19175	http://www2.illinois.gov/jib/Pages/default.aspx	Judicial Inquiry Board	2010.0	16.0
+19177	http://www2.illinois.gov/isbi/Pages/default.aspx	Investment, Illinois State Board of	2012.0	13.0
+19178	http://www.mtvbrehm.lib.il.us	C.E. Brehm Memorial Public Library District	2004.0	481.0
+19180	http://www.grundyco.org/	Grundy	2004.0	864.0
+19182	http://www.marshallillibrary.com	Marshall Public Library	2007.0	389.0
+19183	http://barclay.lib.il.us	Barclay Public Library District	2004.0	378.0
+19184	http://www.holycrosselem.org/	Holy Cross Catholic School	2002.0	484.0
+19185	http://www.jamiesonschool.org/	Jamieson Elementary	0.0	810.0
+19186	http://www.northbrook28.net/index.aspx?nid=71	Greenbriar Elementary	2012.0	1069.0
+19187	http://www.altamontpubliclibrary.com	Altamont Public Library	2005.0	1.0
+19188	http://www.armstrong.k12.il.us/	Armstrong District High	1999.0	262.0
+19189	http://www.collinsvillelibrary.org	Mississippi Valley Public Library District	2000.0	28.0
+19190	http://www.bartlett.lib.il.us	Bartlett Public Library District	1999.0	37.0
+19191	http://www.harrisburg.lib.il.us/	Harrisburg Public Library District	2004.0	1.0
+19192	http://www.litchfield.k12.il.us/	Litchfield Community Unit School District #12	1996.0	1.0
+19195	http://www.state.il.us/aging/	Department on Aging	1997.0	6.0
+19196	http://www.morgancounty-il.com/	Morgan	2003.0	303.0
+19199	http://mascoutah.il.schoolwebpages.com/education/school/school.php?sectionid=5871&phpsessid=d827ef0a0a56db7cc6055aa89cde0aab	Mascoutah Middle School	2002.0	12.0
+19200	http://www.molinelibrary.com	Moline Public Library	2002.0	71.0
+19202	http://www.d23.org/	Prospect Heights District 23	2000.0	352.0
+19203	http://www.germantownhills.com/village/index.html	Germantown Hills	2000.0	2.0
+19206	http://www.channahon.org/	Channahon	1999.0	173.0
+19207	http://www.ptb.state.il.us/	Law Enforcement Training and Standards Board, Illinois	2001.0	43.0
+19208	http://www.franklingrovelibrary.org/	Winifred Knox Memorial Library	2006.0	12.0
+19209	http://schools.wps60.org/hydepark/	Hyde Park School	2012.0	0.0
+19210	http://www2.illinois.gov/economy/Pages/default.aspx	Economic Recovery Commission	2009.0	9.0
+19211	http://www.co.adams.il.us/	Adams	2000.0	159.0
+19212	http://www.parispubliclibrary.org	Paris Carnegie Public Library	2006.0	252.0
+19214	http://www.glpld.org	Glenwood-Lynwood Public Library District	2004.0	50.0
+19216	http://ippl.info/	Indian Prairie Public Library District	2010.0	1886.0
+19218	http://www.williamsvilleil.org	Williamsville Public Library	2002.0	16.0
+19219	http://www.bensenville.lib.il.us	Bensenville Community Public Library District	1998.0	2.0
+19221	http://www.pawneepubliclibrary.org	Pawnee Public Library	2008.0	17.0
+19222	http://www.galvalibrary.org	Galva Public Library District	2004.0	13.0
+19223	http://www.lawpubliclibrary.org	Lawrence Public Library District	2010.0	666.0
+19224	http://www.newlenox.net/	New Lenox	2001.0	842.0
+19226	https://www.imsa.edu/	Illinois Mathematics and Science Academy	1997.0	1165.0
+19228	http://www.nashville.lib.il.us	Nashville Public Library	2004.0	758.0
+19229	http://www.cityofmarengo.com/	Marengo	2000.0	260.0
+19230	http://www.villageofbrookfield.com/	Brookfield	2006.0	105.0
+19231	http://UrbanaIllinois.us/	Urbana	2010.0	3089.0
+19232	http://www.riverdale.lib.il.us	Riverdale Public Library District	2006.0	103.0
+19234	http://www.heritage.k12.il.us/	Heritage Community Unit School District #8	2002.0	30.0
+19236	http://mattoonlibrary.org	Mattoon Public Library	2002.0	17.0
+19237	http://vi.wheeling.il.us/	Wheeling	2000.0	224.0
+19238	http://www.usd116.org/	Urbana School District 116	2004.0	542.0
+19239	http://www.ccsd146.k12.il.us/static.asp?path=2853	Kruse Education Center	2011.0	299.0
+19242	http://south.maine207.org/	Maine South High School	2004.0	1362.0
+19243	http://www.edline.net/pages/Costa_Catholic_Academy	Costa Catholic School	2010.0	6.0
+19244	http://www.llcc.edu	Lincoln Land Community College	2002.0	1497.0
+19245	http://www2.illinois.gov/ipa/Pages/default.aspx	Power Agency, Illinois	2010.0	38.0
+19246	http://www.mpld.org	Manhattan Public Library District	2009.0	4.0
+19247	http://www.watsekalibrary.org	Watseka Public Library	2001.0	11.0
+19248	http://www.ibhe.state.il.us/	Higher Education, Board of	1998.0	82.0
+19249	http://lanarkil.com/	Lanark	2001.0	2.0
+19252	http://www.cahokialibrary.org/	Cahokia Public Library District	2001.0	47.0
+19256	http://fordlibrary.org/	Thomas Ford Memorial Library	2001.0	106.0
+19257	http://www.athens.lib.il.us	Athens Municipal Library	2004.0	35.0
+19258	http://www.ridgenet.org	Ridgewood High	1998.0	4586.0
+19259	http://www.rigov.org/	Rock Island	2000.0	937.0
+19260	http://www.wilmette.com/	Wilmette	1998.0	1427.0
+19261	http://www.dpl.lib.il.us	Duquoin Public Library	2004.0	1297.0
+19263	http://schools.wps60.org/greenwood/	Greenwood School	2009.0	0.0
+19264	http://www.oak-brook.org/	Oak Brook	1999.0	337.0
+19265	http://www.wheatonlibrary.org	Wheaton Public Library	2007.0	65.0
+19266	http://www.northbrook28.net/index.aspx?nid=136	Westmoor Elementary	2012.0	826.0
+19267	http://lions.d57.org/	Lions Park Elementary	2010.0	286.0
+19268	http://www.bataviapubliclibrary.org	Batavia Public Library District	2008.0	185.0
+19270	http://www.harpercollege.edu/	William Rainey Harper College	2002.0	991.0
+19271	http://www.whiteoaklibrary.org	White Oak Library District	2011.0	227.0
+19272	http://www.oswego308.org/schools/ohs/	Oswego High School	2007.0	388.0
+19273	http://www.ccsd146.k12.il.us/	Community Consolidated School District #146	2000.0	299.0
+19274	http://www.nundalibrary.org	Mchenry Nunda Public Library District	2004.0	17.0
+19276	http://brimfieldlibrary.org	Brimfield Public Library District	2003.0	34.0
+19277	http://www.sirin.lib.il.us/docs/mcp/docs/lib/index.html	Mount Carmel Public Library	1999.0	16.0
+19278	http://www.spring-valley.il.us/	Spring Valley	1998.0	2.0
+19279	http://limestone.k12.il.us	Limestone Community High	1998.0	65.0
+19280	http://www.phs.net/	Pittsfield High School	1998.0	84.0
+19281	http://www.sirin.lib.il.us	Fairfield Public Library	1998.0	18.0
+19283	http://www.clevelandschool.org	Cleveland School	1999.0	1.0
+19284	http://www.co.sangamon.il.us/	Sangamon	1998.0	89.0
+19285	http://www.kings144.org/	Kings Consolidated School District #144	2007.0	25.0
+19286	http://www.rhodes.k12.il.us/	Rhodes School District	1998.0	66.0
+19287	http://www.northlakelibrary.org	Northlake Public Library District	2003.0	41.0
+19288	http://www.kcsd96.org/ih/	Ivy Hall School	2013.0	332.0
+19289	http://www.washington.lib.il.us	Washington District Library	2001.0	30.0
+19290	http://www.gailborden.info	Gail Borden Public Library District	2002.0	384.0
+19291	http://www.ci.schaumburg.il.us/Pages/home.aspx	Schaumburg	2009.0	627.0
+19292	http://mppl.org/	Mount Prospect Public Library	1998.0	2991.0
+19293	http://www.cityofchicago.org/city/en.html	Chicago	2010.0	7375.0
+19294	http://www.elk-grove-village.il.us/	Elk Grove	2000.0	0.0
+19295	http://www.addisonlibrary.org	Addison Public Library	2004.0	144.0
+19296	http://www.dist228.org/	Geneseo Community Unit School District #228	1999.0	194.0
+19297	http://www.herrin.lib.il.us	Herrin City Library	2006.0	22.0
+19298	http://www.fenton100.org/	Fenton High	1999.0	303.0
+19299	http://wincoil.us/	Winnebago	2008.0	330.0
+19301	http://www.ms.k12.il.us/	Mahomet-Seymour CUSD #3	1997.0	296.0
+19302	http://www.northriverside-il.org/dnr/	North Riverside	2012.0	342.0
+19303	http://www.illinois.gov/osad/Pages/default.aspx	Appellate Defender, Office of	2013.0	2.0
+19304	http://www.edline.net/pages/TRIAD_High_School	Triad High School	2010.0	75.0
+19305	http://bethalto.com/	Bethalto	1998.0	624.0
+19306	http://www.stgilbertschool.org/	St. Gilbert School	0.0	1112.0
+19307	http://www.lanetech.org/	Lane Technical High School	2004.0	138.0
+19308	http://www.princeville.org/	Princeville	2000.0	55.0
+19310	http://www.cicerolibrary.org	Cicero Public Library	2008.0	10.0
+19312	http://www.melrosepark.org/	Melrose Park	2000.0	64.0
+19313	http://www.lincolnpubliclibrary.org/	Lincoln Public Library	2001.0	24.0
+19314	http://www.cortlandlibrary.com	Cortland Community Library	2002.0	157.0
+19315	http://www.universalschool.org/	Universal School	1999.0	77.0
+19316	http://www.iwcc.il.gov/	Workers' Compensation Commission, Illinois	2004.0	43.0
+19318	http://www.enjoyillinois.com/	Enjoy Illinois: Illinois Bureau of Tourism	1996.0	13918.0
+19319	http://www.kaskaskia.edu/Home/Default.aspx	Kaskaskia College	2009.0	4.0
+19320	http://www.cpsaonline.com/	College Preparatory School of America	2003.0	80.0
+19321	http://www.mchenry.edu/	McHenry County College	2002.0	876.0
+19322	http://www.kewaneelibrary.org	Kewanee Public Library District	2001.0	134.0
+19324	http://www.tinleypark.org/	Tinley Park	2000.0	995.0
+19325	http://www.sparta.lib.il.us	Sparta Public Library	2004.0	1315.0
+19326	http://www.dupolibrary.org	Daugherty Public Library District	2004.0	981.0
+19327	http://www.calumetcitypl.org	Calumet City Public Library	1999.0	9.0
+19328	http://www.fremontlibrary.org	Fremont Public Library District	2001.0	257.0
+19329	http://www.messengerpl.org	Messenger Public Library Of North Aurora	2004.0	167.0
+19330	http://oak-brook.org/109/Library	Oak Brook Public Library	2014.0	2.0
+19332	http://www.villageoffrankfort.com	Frankfort	2001.0	130.0
+19333	http://www.danville.k12.il.us/	Danville School District 118	1999.0	749.0
+19334	http://www.arts.illinois.gov./	Illinois Arts Council	2007.0	388.0
+19335	http://www.chatham.lib.il.us	Chatham Area Public Library District	2007.0	583.0
+19336	http://www.uni.illinois.edu//	University of Illinois Laboratory High School	2008.0	43.0
+19338	http://www.bartonville66.com/education/school/school.php?sectionid=8480	Bartonville Grade School - District 66	2003.0	3.0
+19339	http://www.orland-park.il.us/	Orland Park	2000.0	1495.0
+19340	http://www.evergreenparklibrary.org	Evergreen Park Public Library	2001.0	105.0
+19341	http://www.somonauk.net/	Somonauk Community Unit School District #432	1998.0	1354.0
+19342	http://www.forsythvillage.us/	Forsyth	2006.0	240.0
+19343	http://www.charleston.k12.il.us/cms/index.html	Charleston Middle School	2002.0	53.0
+19344	http://www.cliftonlibrary.info	Clifton Public Library	2009.0	105.0
+19345	http://www.ci.pekin.il.us/	Pekin	2000.0	197.0
+19346	http://www.streatorpubliclibrary.org/	Streator Public Library	2013.0	10.0
+19347	http://www.salemhigh.com	Salem Community High School	1999.0	3.0
+19349	http://whs.woodstockschools.org/	Woodstock High School	2010.0	550.0
+19350	http://www2.illinois.gov/idoc/Pages/default.aspx	Corrections, Department of	2012.0	8.0
+19351	http://www.tuscola.lib.il.us	Tuscola Public Library	2008.0	67.0
+19352	http://ww2.d46.org/school-gms.asp	Grayslake Middle School	2008.0	1380.0
+19353	http://www.toulonpld.org	Toulon Public Library District	2008.0	1.0
+19355	http://www.holmes.d21.k12.il.us	Oliver Wendell Holmes Middle School	2000.0	9.0
+19356	http://www.peotone.will.k12.il.us/	Peotone Community Unit District #207-U	1998.0	0.0
+19357	http://www.cusd200.org/Domain/80	Wheaton North High School	2013.0	1192.0
+19359	http://www.harvey.lib.il.us	Harvey Public Library District	1998.0	45.0
+19360	http://www.theobcs.com/	Oak Brook Christian School	2003.0	2.0
+19361	http://www.altamontschools.org/	Altamont High	2011.0	474.0
+19362	http://www.clcillinois.edu/	College of Lake County	2002.0	2346.0
+19363	http://www.il-fa.com/	Finance Authority, Illinois	2004.0	63.0
+19364	http://www.carthage.lib.il.us	Carthage Public Library District	0.0	93.0
+19365	http://www.eurekapl.org	Eureka Public Library District	2004.0	25.0
+19368	http://www.champaignschools.org/schools/home/?id=32	Central High School	2011.0	2.0
+19369	http://www.champaignschools.org/schools/home/?id=31	Centennial High	2011.0	2.0
+19370	http://www.cityofgalena.org/	Galena	2001.0	236.0
+19374	http://www.chester.lib.il.us	Chester Public Library	2004.0	10.0
+19375	http://www.swanseail.org/	Swansea	2001.0	1.0
+19376	http://rochesteril.org/	Rochester	2001.0	41.0
+19378	http://www.morton-il.gov	Morton	2006.0	643.0
+19380	http://www.cherryvalley.org/	Cherry Valley	1999.0	291.0
+19381	http://www.plano.lib.il.us	Plano Community Library District	2002.0	62.0
+19382	http://www.cityofmonmouth.com	Monmouth	2004.0	1519.0
+19383	http://www.ihda.org/	Illinois Housing Development Authority	1996.0	163.0
+19384	http://www.woodhull.lib.il.us/library/	Clover Public Library District	0.0	8.0
+19385	http://www.cowden-herrick.k12.il.us	Cowden-Herrick Elementary and Jr. High	2000.0	30.0
+19386	http://www.waubonsee.edu/	Waubonsee Community College	2002.0	515.0
+19387	http://www.mascoutah.lib.il.us	Mascoutah Public Library	2004.0	1304.0
+19388	http://www.chipublib.org/branch/details/library/harold-washington/	Harold Washington Library Center(Main Library)	2008.0	2.0
+19389	http://www.stpiuslombard.org/school/	St. Pius X Parish School	2010.0	81.0
+19390	http://www.hillsboroschools.net/schools/hhs/hhs.htm	Hillsboro High School	2003.0	0.0
+19391	http://www.dot.state.il.us/	Department of Transportation	1996.0	281.0
+19392	http://www.iml.org/	Illinois Municipal League	1998.0	2874.0
+19394	http://urbanafreelibrary.org	Urbana Free Library	2000.0	779.0
+19395	http://www.mchs.wabash.k12.il.us/	Mt. Carmel High School	1998.0	47.0
+19396	http://www2.illinois.gov/irb/Pages/default.aspx	Racing Board, Illinois	2011.0	55.0
+19397	http://www.nippersinklibrary.org	Nippersink Public Library District	2003.0	149.0
+19399	http://www.museum.state.il.us/	State Museum	1997.0	432.0
+19400	http://www.ms.k12.il.us/linc/	Lincoln Trail Elementary School	2004.0	47.0
+19401	http://jes.union.k12.il.us/	Jonesboro Elementary	1998.0	259.0
+19402	http://www.rfsd13.org/	Rock Falls Middle School	2006.0	14.0
+19404	http://www.ipcb.state.il.us/	Illinois Pollution Control Board	1998.0	7.0
+19405	http://www.saintalphonsus.com	St. Alphonsus Liguori School	2000.0	185.0
+19406	http://www.igb.illinois.gov/	Gaming Board, Illinois	2013.0	27.0
+19409	http://www2.illinois.gov/serve/Pages/default.aspx	Volunteerism & Community Service, Governors Commission on	2010.0	306.0
+19410	http://www.chip.state.il.us/default.htm	Comprehensive Health Insurance Plan, State of Illinois	2003.0	35.0
+19411	http://www.oaklawnlibrary.org	Oak Lawn Public Library	2005.0	141.0
+19412	http://www.elmhurst.org/	Elmhurst	1996.0	0.0
+19413	http://bradley.il.schoolwebpages.com/education/components/layout/default.php?sectionid=1&url_redirect=1	Bradley School District #61	2012.0	3.0
+19414	http://dppl.org/	Des Plaines Public Library	2002.0	724.0
+19415	http://www.rockfordpubliclibrary.org	Rockford Public Library	2004.0	156.0
+19417	http://www.clarkcountyil.org/	Clark	2000.0	80.0
+19418	http://www.warner.lib.il.us	Vespasian Warner Public Library District	1998.0	67.0
+19419	http://www2.illinois.gov/prb/Pages/default.aspx	Prisoner Review Board, Illinois	2010.0	14.0
+19420	http://www.lincolnwoodlibrary.org	Lincolnwood Public Library District	2001.0	67.0
+19421	http://www.ignatius.org	St. Ignatius College Prep	1998.0	280.0
+19422	http://www.perulibrary.org	Peru Public Library	2003.0	180.0
+19423	http://www.bplib.net	Bedford Park Public Library District	2001.0	10.0
+19425	http://pr.glenview34.org/	Pleasant Ridge School	2006.0	106.0
+19427	http://www.glencarbonlibrary.org	Glen Carbon Centennial Library	2001.0	73.0
+19429	http://www.plainfield-il.org/	Plainfield	2000.0	86.0
+19430	http://galesburglibrary.org/	Galesburg Public Library	2001.0	88.0
+19431	http://www.swic.edu/	Southwestern Illinois College	2002.0	1182.0
+19432	http://www.northbrook.il.us/	Northbrook	0.0	2148.0
+19433	http://www.cityblm.org/	Bloomington	2000.0	1384.0
+19435	http://www.byron.lib.il.us/	Byron Public Library District	2000.0	4.0
+19436	http://www.heartland.edu/	Heartland Community College	2002.0	579.0
+19438	http://www.odelllibrary.com	Odell Public Library District	2003.0	4.0
+19440	http://www.reddicklibrary.org	Reddick Public Library District	2002.0	881.0
+19441	http://www.aopld.lib.il.us	Argenta Public Library	2010.0	703.0
+19443	http://www.newlenoxlibrary.org	New Lenox Public Library District	2002.0	270.0
+19445	http://www.illinoislottery.com/en-us/home.html	Department of Lottery	2012.0	644.0
+19446	http://www.icjia.state.il.us/public/	Criminal Justice Information Authority	2001.0	270.0
+19447	http://westerndistrictlibrary.org	Western District Library	2006.0	119.0
+19449	http://www.cityofharvey.org/	Harvey	2001.0	2.0
+19451	http://www.schillerparklibrary.org	Schiller Park Public Library	2004.0	38.0
+19452	http://www.villapark.lib.il.us	Villa Park Public Library	1999.0	2.0
+19453	http://district185.macomb.com/index.aspx?nid=176	Macomb Senior High School	2012.0	684.0
+19454	http://www.mountcarrollpubliclibrary.org	Mount Carroll Township Public Library	2007.0	387.0
+19455	http://www.mtpl.lib.il.us/library/	Martin Township Public Library	0.0	16.0
+19457	http://www.mtzion.com/	Mount Zion	1999.0	106.0
+19458	http://www.mybpl.org	Bloomingdale Public Library	2007.0	438.0
+19459	http://www.prospect-heights.il.us/	Prospect Heights	2002.0	286.0
+19461	http://www.yorkville.lib.il.us/pages/default.asp	Yorkville Public Library	2007.0	22.0
+19465	http://northlakecity.com/	North Lake	2000.0	240.0
+19468	http://whs.d214.org/	Wheeling High School	2004.0	975.0
+19469	http://www.glenview34.org/schools/henking.asp	Henking	2004.0	9.0
+19470	http://school.stbedechicago.org/	St. Bede the Venerable Grammar School	2010.0	79.0
+19471	http://eisenhowerlibrary.org/	Eisenhower Public Library District	2001.0	694.0
+19472	http://stinsonlibrary.org/	Stinson Memorial Public Library District	2003.0	33.0
+19473	http://www.riverside.il.us/	Riverside	2000.0	712.0
+19474	http://www.618connect.com/~bhlibrary/	Bunker Hill Public Library District	2001.0	11.0
+19475	http://www.johnsburglibrary.org	Johnsburg Public Library District	2000.0	620.0
+19476	http://www.darien.il.us/	Darien	2001.0	116.0
+19478	http://www.villageoflombard.org/	Lombard	1998.0	972.0
+19479	http://www.co.madison.il.us/	Madison	1997.0	140.0
+19480	http://www.ci.galesburg.il.us/	Galesburg	2000.0	1121.0
+19481	http://mascoutah.il.schoolwebpages.com/education/school/school.php?sectionid=5870	Scott Elementary School	2002.0	11.0
+19482	http://mascoutah.il.schoolwebpages.com/education/components/scrapbook/default.php?sectionid=5872&url_redirect=1	Mascoutah Elementary School	2007.0	10.0
+19484	http://www.illinois.gov/idjj/Pages/default.aspx	Juvenile Justice, Department of	2013.0	28.0
+19485	http://www.bendist25.org/	Benjamin Middle School	2002.0	11712.0
+19486	http://www.d131.org/	O. C. Allen Elementary School	2005.0	5639.0
+19487	http://www.quincylibrary.org/	Quincy Public Library	2000.0	85.0
+19488	http://www.hillsborolibrary.org	Hillsboro Public Library	2008.0	434.0
+19489	http://www.harvard-diggins.org	Harvard Diggins Library	2001.0	16.0
+19490	http://www.argohs.net	Argo Community High School	2007.0	443.0
+19491	http://www.northbrook.info	Northbrook Public Library	2003.0	1661.0
+19492	http://www.stedwardschool.com/	St. Edward School	2002.0	200.0
+19494	http://crestonlib.us/	Creston-Dement Public Library District	2013.0	35.0
+19496	http://www.ccc.edu/colleges/truman/Pages/default.aspx	CCC - Harry S Truman College	2012.0	112.0
+19498	http://www.cordova.lib.il.us	Cordova District Library	2006.0	107.0
+19499	http://justicepubliclibrary.com/wordpress/	Justice Public Library District	2014.0	60.0
+19501	http://www.lakeland.cc.il.us/	Lake Land College	1997.0	1482.0
+19502	http://www.stphiliplutheran.com	St. Philip School	2001.0	111.0
+19503	http://www.kansaslibrary.bravehost.net	Kansas Community Memorial Library	2012.0	2.0
+19504	http://www.villageofhazelcrest.com/	Hazel Crest	2000.0	68.0
+19506	http://blpl.ent.sirsi.net/client/default	Bloomington Public Library	0.0	51.0
+19507	http://www.assumptionpubliclibrary.com	Assumption Public Library District	2007.0	14.0
+19508	http://riverdaleschools.org/site/rhs/	Riverdale High School	2010.0	41.0
+19509	http://breeselibrary.org/	Breese Public Library	2008.0	6.0
+19511	http://www.westfrankfort-il.com	West Frankfort	2006.0	40.0
+19512	http://www.frcds.org/	Fox River Country Day School - Chicago Junior School	2003.0	9.0
+19514	http://www.dnr.illinois.gov/Pages/default.aspx	Natural Resources, Department of	2010.0	933.0
+19516	http://www.illinoistollway.com/homepage;jsessionid=4D4A240C93A92D41D4A91DB0583FE9E4	Toll Highway Authority, Illinois State	0.0	406.0
+19518	http://www.stalexanderschool.org/	St. Alexander's School	2002.0	13.0
+19519	http://www.boonecountyil.org/	Boone	2002.0	518.0
+19521	http://www.ci.mchenry.il.us/	McHenry	2002.0	21.0
+19522	http://www.effinghamil.com/	Effingham	0.0	750.0
+19523	http://www.dixonil.com	Dixon	2000.0	1126.0
+19525	http://www.cary.lib.il.us	Cary Area Public Library District	2003.0	2.0
+19528	http://www.co.kendall.il.us/	Kendall	2003.0	521.0
+19529	http://www.shorewood.lib.il.us	Shorewood-Troy Public Library District	2002.0	36.0
+19530	http://www.mtolivepubliclibrary.org	Mount Olive Public Library	2011.0	794.0
+19533	http://www.giants.jacksn.k12.il.us/education/school/school.php?sectionid=4244	Giant City School	2003.0	5.0
+19534	http://il-bradley.civicplus.com/	Bradley	2014.0	376.0
+19537	http://www.winnebagopubliclibrary.org	Winnebago Public Library District	2001.0	1385.0
+19539	http://shs.d211.org/	Schaumburg High School	1998.0	12668.0
+19542	http://www.worthlibrary.com	Worth Public Library District	2001.0	50.0
+19544	http://www.villageofschillerpark.com/	Schiller Park	2000.0	1095.0
+19545	http://www.ppcusd8.org/	Pleasant Plains Community Unit District 8	1998.0	25.0
+19547	http://www.senatedem.ilga.gov/	Illinois Senate Democrats	2008.0	10275.0
+19548	http://www.illinois.gov/pages/default.aspx	State Government	2010.0	552.0
+19551	http://www.lexington.k12.il.us/	Lexington CUSD #7	1997.0	262.0
+19552	http://www.roselle.lib.il.us	Roselle Public Library District	1998.0	48.0
+19553	http://www.egvpl.org	Elk Grove Village Public Library	1997.0	243.0
+19554	http://www.homewoodlibrary.org	Homewood Public Library District	2001.0	125.0
+19555	http://www.edline.net/pages/sherwood_elem_school	Sherwood Elementary School	2011.0	16.0
+19556	http://www.bbchs.org/	Bradley-Bourbonnais Community High School	2000.0	1988.0
+19557	http://www.cityofdekalb.com/	De Kalb	2000.0	45.0
+19558	http://www.cusd50.org/	Harvard Community Unit School District #50	2007.0	93.0
+19559	http://www.cumtd.com/	Champaign-Urbana Mass Transit District	1998.0	1050.0
+19563	http://www.phpl.info	Prospect Heights Public Library District	2007.0	44.0
+19564	http://oglesby.lib.il.us	Oglesby Public Library District	2003.0	117.0
+19567	http://www.eastdubuquelibrary.com	East Dubuque District Library	2008.0	565.0
+19569	http://www.shg.org	Sacred Heart-Griffin High School	1997.0	400.0
+19570	http://www.illinois.gov/taxtribunal/pages/default.aspx	Illinois Independent Tax Tribunal	2014.0	5.0
+19571	http://www.shermanlibrary.net	Sherman Public Library District	2005.0	36.0
+19572	http://www.washburn.k12.il.us/	Lowpoint-Washburn Community Unit School District #21	1998.0	1.0
+19573	http://tc.sangamon.k12.il.us/	Tri-City School District #1	2000.0	370.0
+19574	http://www.panhandle.k12.il.us/	Panhandle Community Unit School District #2	2001.0	46.0
+19575	http://hillsidelibrary.org/	Hillside Public Library	2000.0	134.0
+19576	http://www2.illinois.gov/idhhc/Pages/default.aspx	Deaf and Hard of Hearing Commission, Illinois	2011.0	28.0
+19577	http://eriepubliclibrary.org	Erie Public Library District	2007.0	7.0
+19578	http://www.taylorville.lib.il.us	Taylorville Public Library	2007.0	983.0
+19579	http://www.glen-carbon.il.us/	Glen Carbon	2000.0	315.0
+19580	http://www.caseyvillelibrary.org	Caseyville Public Library District	2006.0	607.0
+19581	http://www.ofallonlibrary.org	Ofallon Public Library	2002.0	80.0
+19582	http://216.240.208.25/legacy/index.html	Walnut Public Library District	2013.0	1.0
+19583	http://www.d131.org/schools/index.asp?guid=%7be6ad7e81-c0e8-459b-a1ab-e26839587b7e%7d&schoolname=bardwellelementary	Bardwell Elementary	0.0	404.0
+19584	http://www.downersgrovelibrary.org	Downers Grove Public Library	2001.0	1053.0
+19585	http://www.columbiaillinois.com/	Columbia	1999.0	490.0
+19586	http://www.princetonpl.org	Princeton Public Library	2010.0	2.0
+19587	http://www.lakecountyil.gov/Pages/default.aspx	Lake	2011.0	857.0
+19588	http://www.villageofoblong.com/	Oblong	2001.0	100.0
+19589	http://www.litchfieldpubliclibrary.org	Litchfield Carnegie Public Library	2007.0	641.0
+19590	http://leepertown.lib.il.us	Leepertown Township Public Library	2008.0	32.0
+19591	http://lf67.org/	Lake Forest School District 67	2009.0	1633.0
+19592	http://www.co.coles.il.us/	Coles	2001.0	36.0
+19593	http://www.vbg.org/	Buffalo Grove	1997.0	632.0
+19594	http://www.tplibrary.org	Tinley Park Public Library	2000.0	637.0
+19598	http://www.vah.com/	Arlington Heights	1996.0	1151.0
+19599	http://www.atkinsonlibrary.info/	Atkinson Public Library District	2012.0	98.0
+19600	http://www.nileslibrary.org	Niles Public Library District	1999.0	169.0
+19601	http://www.avoca.k12.il.us/	Avoca School District	1997.0	5.0
+19602	http://www.sleepyhollowil.org/	Sleepy Hollow	0.0	689.0
+19603	http://www.rocktonvillage.com/	Rockton	2009.0	1263.0
+19604	http://www.colonalibrary.com	Colona District Public Library	2006.0	27.0
+19606	http://www.mccook.lib.il.us	Mccook Public Library District	2009.0	900.0
+19607	http://www.genoalibrary.org	Genoa Public Library District	2008.0	13.0
+19609	http://www.lc.cc.il.us/	Lewis & Clark Community College	1996.0	461.0
+19610	http://www.op97.org/whittier/	Whittier Elementary	2003.0	354.0
+19613	http://www.forsythlibrary.com/departments/library/index.htm	Forsyth Public Library	2011.0	15.0
+19614	http://www.lvdl.org	Lake Villa Public Library District	1998.0	339.0
+19615	http://www.epcusd401.org/	Elmwood Park Community Unit District #401	2007.0	541.0
+19616	http://idapubliclibrary.org/	Ida Public Library	2001.0	34.0
+19617	http://www.edline.net/pages/hillsidedistrict93/	Hillside School District #93	2012.0	2.0
+19619	http://www.cm201u.org/	Crete Monee Community Unit School District #201-U	2000.0	1422.0
+19621	http://www.westchicago.lib.il.us	West Chicago Public Library District	2001.0	50.0
+19622	http://www.parkridgelibrary.org	Park Ridge Public Library	2001.0	431.0
+19624	http://www.sucss.state.il.us/	State Universities Civil Service System	2004.0	3.0
+19625	http://www.sfvpld.org/stickney/	Stickney-Forest View Public Library District	2010.0	778.0
+19626	http://www.highlandcusd5.org/	Highland CUSD #5	2007.0	71.0
+19630	http://www.wilmettelibrary.info	Wilmette Public Library District	2006.0	387.0
+19631	http://www.dupageco.org/	Du Page	1998.0	2345.0
+19633	http://www.supportlibrary.com/nl/br.cfm?x=350&url=http://www.supportlibrary.com/nl/users/mhpl/web/home.html	Marquette Heights Public Library	0.0	148.0
+19634	http://www.ci.decatur.il.us/	Decatur	2000.0	89.0
+19635	http://www.villageofglenwood.com/	Glenwood	2004.0	588.0
+19636	http://marseilleslibrary.com	Marseilles Public Library	2010.0	1.0
+19637	http://www.normal.org/	Normal	1997.0	1335.0
+19638	http://www.sugargrove.lib.il.us	Sugar Grove Public Library District	2000.0	345.0
+19641	http://www.uis.edu/	U of I at Springfield	1996.0	3810.0
+19643	http://www.cod.edu/	College of DuPage	1996.0	1793.0
+19644	http://www.westfrankfort.lib.il.us	West Frankfort Public Library	2004.0	13.0
+19645	http://www.ellajohnsonlibrary.org	Ella Johnson Memorial Public Library District	2008.0	4.0
+19646	http://www.easd13.org/	East Alton School District #13	2007.0	1334.0
+19647	http://www.charlestonlibrary.org	Charleston Carnegie Public Library	2000.0	34.0
+19649	http://www.newbaden.lib.il.us	New Baden Public Library	2010.0	10.0
+19651	http://www.brehm.org	Brehm Preparatory School	1998.0	47.0
+19652	http://www.crystallakelibrary.org	Crystal Lake Public Library	1998.0	70.0
+19653	http://www2.illinois.gov/hfs/Pages/default.aspx	Healthcare and Family Services - Formerly known as Public Aid, Dept. of	2011.0	2.0
+19655	http://homerillinois.blogspot.com	Homer Community Library	2005.0	929.0
+19656	http://mfhs1.mfsd.k12.il.us/?	Maroa-Forsyth Schools	1998.0	1.0
+19657	http://www.sugar-grove.il.us/	Sugar Grove	2000.0	202.0
+19658	http://www.leyden212.org/	Leyden High School District #212	2001.0	48.0
+19660	http://www.illinoisatlas.com/	IllinoisAtlas.com	2001.0	0.0
+19661	http://www.palosparklibrary.org	Palos Park Public Library	2006.0	21.0
+19662	http://www.putnamcountylibrary.org/	Putnam County Public Library District	2002.0	832.0
+19663	http://ho.glenview34.org/	Hoffman School	2007.0	29.0
+19664	http://redbud.il.schoolwebpages.com/education/district/district.php?sectionid=1	Red Bud Elementary School	2009.0	2.0
+19665	http://www.agr.state.il.us/isf/	Fair, Illinois State	2002.0	561.0
+19667	http://www.somonauklibrary.org	Somonauk Public Library District	2002.0	11.0
+19668	http://district.d303.org/	St. Charles Community School District #303	2013.0	1503.0
+19669	http://www.cassd63.org/	Cass School District #63	2002.0	795.0
+19670	http://www.muld.org	Marengo Public Library District	2008.0	518.0
+19672	http://www.wps60.org/	Waukegan Public School District 60	2008.0	1102.0
+19673	https://www.srs.illinois.gov/	State Retirement Systems	2013.0	12.0
+19674	http://www.stark-county.net/	Stark	2003.0	1.0
+19678	http://www.dewittcountyill.com/	De Witt	2001.0	53.0
+19679	http://www.dhs.state.il.us/page.aspx	Human Services, Department of	2007.0	3133.0
+19680	http://www.effinghamlibrary.org	Helen Matthes Library	2001.0	90.0
+19681	http://www.chicagoheightslibrary.org	Chicago Heights Public Library	2001.0	119.0
+19682	http://www.glendaleheights.org/	Glendale Heights	1997.0	655.0
+19683	http://www.oakton.edu/	Oakton Community College	1997.0	705.0
+19684	http://www.villageofbeecher.org/library/	Beecher Public Library District	2006.0	25.0
+19686	http://www.senategop.state.il.us/	Illinois Senate Republicans	2000.0	157.0
+19687	http://www.northsuburbanlibrary.org/AppError.aspx?aspxerrorpath=/templates/system/nsld.aspx	North Suburban Public Library District	2013.0	2.0
+19689	http://www.benton.lib.il.us	Benton Public Library District	2003.0	1161.0
+19690	http://www.sd735.org/education/school/school.php?sectionid=74	Skokie School District 73.5	2012.0	9.0
+19692	http://pontiacpubliclibrary.org/	Pontiac Public Library	2004.0	59.0
+19694	http://www.pawneeschools.com/	Pawnee Community Schools	2006.0	652.0
+19695	http://www.morainevalley.edu/	Moraine Valley Community College	2002.0	266.0
+19696	http://www.hampshireillinois.com/	Hampshire	2002.0	3.0
+19697	http://www.edline.net/pages/OCUSD220	Oregon Community School District #220	2010.0	135.0
+19698	http://www.maryville.lib.il.us	Maryville Community Library District	2008.0	611.0
+19699	http://prairiestate.edu/	Prairie State College	2002.0	783.0
+19700	http://www.ncplibrary.org	North Chicago Public Library	2008.0	14.0
+19702	http://www.stauntonschools.org/	Staunton Unit Schools	2007.0	37.0
+19704	http://www.ipsd.org/	Indian Prairie School District 204	1998.0	200.0
+19705	http://www.countyofkane.org/Pages/default.aspx	Kane	2007.0	797.0
+19706	http://www.transitchicago.com/	Chicago Transit Authority - CTA	1996.0	2289.0
+19707	https://www.svcc.edu/	Sauk Valley Community College	1997.0	1939.0
+19708	http://www.richtonparklibrary.org	Richton Park Public Library District	2003.0	58.0
+19709	http://www.wiu.edu/	Western Illinois University	1997.0	3836.0
+19710	http://www.romeoville.org/	Romeoville	1999.0	74.0
+19711	http://www.lplibrary.org	Lagrange Park Public Library District	1999.0	143.0
+19712	http://www.harwoodheights.org/	Harwood Heights	1999.0	248.0
+19713	http://www.cusd200.org/Domain/140	Wheaton Warrenville South High	2013.0	1136.0
+19714	http://www.olympia.org/	Olympia School District #16	1998.0	444.0
+19715	http://www.naperville203.org/	Naperville Community Unit School District 203	2005.0	10.0
+19716	http://www.richsouth.org	Rich South High School	2000.0	232.0
+19717	http://www.jersey100.k12.il.us/	Jersey Community Unit School District #100	1998.0	937.0
+19718	http://www.stcharleslibrary.org	Saint Charles Public Library District	2003.0	570.0
+19720	http://www.peoriaheightslibrary.com	Peoria Heights Public Library	2001.0	7.0
+19723	http://www.lisle202.org/	Lisle Community School District 202	2003.0	1345.0
+19724	http://www.mendota.il.us/	Mendota	1998.0	27.0
+19725	http://www.housedem.state.il.us/	Illinois House Democrats	1998.0	8.0
+19726	http://www.springfield.il.us/	Springfield	1997.0	43.0
+19727	http://www.oak-forest.org/	Oak Forest	2001.0	531.0
+19728	http://www.berwynlibrary.net	Berwyn Public Library	2002.0	67.0
+19730	http://www.taylorvilleschools.com/	Taylorville Community Unit School District #3	2000.0	28.0
+19731	http://www.phcusd325.net/	Peoria Heights Grade School	2003.0	30.0
+19732	http://olson.woodstockschools.org/	Olson Midddle School	2010.0	554.0
+19734	http://www.coalcity-illinois.com/village.shtml	Coal City	2000.0	27.0
+19735	http://www.cityofeastpeoria.com/	East Peoria	2001.0	503.0
+19736	http://www.bhc.edu/	Black Hawk College	1996.0	2100.0
+19737	http://www.livingstoncounty-il.org/	Livingston	2001.0	107.0
+19738	http://www.co.champaign.il.us/	Champaign	2001.0	96.0
+19739	http://www.sjo.k12.il.us	St. Joseph-Ogden High	2000.0	69.0
+19740	http://www.lislelibrary.org	Lisle Library District	1998.0	436.0
+19742	http://www.rvc.cc.il.us/	Rock Valley College	1997.0	771.0
+19743	http://www.cityofmetropolis.com/	Metropolis	2003.0	62.0
+19745	http://www.lphs.org/	Lake Park High	2001.0	212.0
+19746	http://www.icjia.org/public/	Illinois Criminal Justice Information Authority	2001.0	313.0
+19747	http://www.greenfieldpl.org	Greenfield Public Library	2008.0	15.0
+19748	http://clintonco.org/	Clinton	2000.0	5.0
+19749	http://www.eapl.org	Ela Area Public Library District	2001.0	642.0
+19750	http://www.palosheightslibrary.org	Palos Heights Public Library	2001.0	409.0
+19751	http://www.doltonpubliclibrary.org	Dolton Public Library District	2002.0	894.0
+19752	http://www.mohawks.net/	Morrisonville Community Unit School District No. 1	2001.0	28.0
+19753	http://www.plainfieldpubliclibrary.org/	Plainfield Public Library District	2011.0	82.0
+19755	http://richmond-il.com/svmanager/g1/index.php	Richmond	2014.0	2.0
+19758	http://www.elmwoodparklibrary.org	Elmwood Park Public Library	2001.0	84.0
+19759	http://www.hillsboroschools.net/	Hillsboro CUSD #3	2002.0	6.0
+19761	http://jasper17.wayne.k12.il.us/	Jasper Community Consolidated School District #17	1999.0	1.0
+19762	http://www.taylorville.net/	Taylorville	2001.0	635.0
+19765	http://www.illinoisattorneygeneral.gov/	Attorney General, Office of the	2004.0	179.0
+19766	http://tax.illinois.gov/	Revenue, Department of	2005.0	498.0
+19767	http://www.chicagoridge.lib.il.us	Chicago Ridge Public Library	2001.0	10.0
+19768	http://mascoutah.il.schoolwebpages.com/education/school/school.php?sectionid=6181	Mascoutah Community High School	2002.0	11.0
+19771	http://www.co.macon.il.us	Macon	2004.0	59.0
+19773	http://www.mortongroveil.org/	Morton Grove	2001.0	206.0
+19774	http://www.laharpe.lib.il.us/library/	Laharpe Carnegie Public Library District	0.0	8.0
+19775	http://talcottfreelibrary.com	Talcott Free Library District	2001.0	75.0
+19777	http://www.villageoflagrange.com/	La Grange	2001.0	484.0
+19778	http://stbern.com/parish/	St. Bernardine School	2008.0	649.0
+19779	http://www.iardc.org/	Attorney Registration & Disciplinary Commission of the Supreme Court of Illinois	2001.0	256.0
+19780	http://www.hopeweltylibrary.com	Hope Welty Public Library District	2004.0	153.0
+19782	http://www.glenviewpl.org	Glenview Public Library	2003.0	58.0
+19785	http://www.addisonadvantage.org/	Addison	1997.0	97.0
+19786	http://schools.naperville203.org/north/	Naperville North High School	2009.0	0.0
+19787	http://www.minooka.com/	Minooka	1998.0	249.0
+19788	http://www.rockfordchristian.org	Rockford Christian School	1998.0	3312.0
+19790	http://www.charleston.k12.il.us/	Charleston Community Unit School District #1	1998.0	107.0
+19793	http://www.mokena.org/	Mokena	2001.0	208.0
+19795	http://www.sjbschool.org	St. John Brebeuf School	2001.0	159.0
+19797	http://www.bv119.org/	Belle Valley School District #119	2006.0	702.0
+19798	http://www.mtmorris-il.org	Mount Morris Public Library	2001.0	288.0
+19799	http://www.state.il.us/lcc/	Illinois Liquor Control Commission	1997.0	17.0
+19800	http://education.illinois.edu/ups/	Universirty Primary School	2010.0	6.0
+19803	http://www.cyberdriveillinois.com/	Secretary of State, Office of the	2000.0	75.0
+19805	http://www.orlandparklibrary.org	Orland Park Public Library	2001.0	106.0
+19806	http://ci.champaign.il.us/	Champaign	1999.0	2372.0
+19807	http://www.illinois.gov/cdb/Pages/default.aspx	Capital Development Board	2012.0	4.0
+19810	http://www.annawanillinois.org/library.htm	Annawan-Alba Township Library	2006.0	0.0
+19812	http://www.stjohn-mpil.org/	St. John Lutheran School	2010.0	18.0
+19814	http://www.cslibrary.org	Carol Stream Public Library	2001.0	68.0
+19815	http://www.palatinelibrary.org	Palatine Public Library District	2001.0	5245.0
+19817	http://www.belleville.net/index.aspx?NID=350	Belleville Public Library	0.0	582.0
+19818	http://www.stjoe.k12.il.us/	St. Joseph Grade School	2000.0	28.0
+19819	http://www.psd150.org/lindbergh	Lindbergh Middle School	2002.0	6488.0
+19820	http://www.rivertonschools.org/	Riverton School District #14	2003.0	377.0
+19821	http://www.ag.state.il.us/	Attorney General	1997.0	66.0
+19822	http://www.wnpl.info	Warren-Newport Public Library District	2002.0	1605.0
+19823	http://www3.illinois.gov/teledirectory/	State Telephone Directory	2003.0	9.0
+19824	http://molineschools.org/	Moline School District #40	2003.0	370.0
+19825	http://www.vil.woodridge.il.us/	Woodridge	2000.0	509.0
+19826	http://www.machesney-park.il.us/	Machesney Park	1998.0	744.0
+19827	http://www.roselle.il.us/	Roselle	1998.0	419.0
+19829	http://www.villageoflisle.org//home/index.asp	Lisle	2005.0	764.0
+19830	http://www.illinoisdata.com/	illinois data	2001.0	1.0
+19832	http://www.champaign.org	Champaign Public Library	1998.0	362.0
+19833	http://www.rushville.lib.il.us/library/	Rushville Public Library	0.0	8.0
+19834	http://www.charlestonillinois.org/	Charleston	1999.0	1241.0
+19837	http://www.winfield.lib.il.us/winfield/	Winfield Public Library	2001.0	45.0
+19839	http://www.eldorado.k12.il.us/education/school/school.php?sectionid=3	Eldorado Elementary School	2011.0	3.0
+19840	http://www.village.homewood.il.us/	Homewood	2001.0	519.0
+19841	http://www2.state.il.us/ilrb/index.asp	Labor Relations Board	2001.0	23.0
+19842	http://cgfa.ilga.gov/	Illinois Commission on Government Forecasting and Accountability	2013.0	178.0
+19843	http://www.state.il.us/budget/	Management and Budget, Office of	1997.0	23.0
+19844	http://www.tuscola.k12.il.us/	Tuscola Community Unit District #301	2000.0	639.0
+19846	http://www.forrestonlibrary.org	Forreston Public Library	2005.0	11.0
+19847	http://www.craborchard.lib.il.us	Crab Orchard Public Library District	2008.0	525.0
+19849	http://www.crawfordcountycentral.com/	Crawford	2001.0	65.0
+19850	http://www.u-46.org/	School District U-46	2005.0	338.0
+19851	http://www.lemont.il.us/	Lemont	1998.0	458.0
+19853	http://rockislandschools.org/risd/	Rock Island/Milan School District #41	2009.0	59.0
+19854	http://www.lhs210.net/	Lemont High	2004.0	2769.0
+19855	http://www.sd113a.org/	Lemont-Bromberek School District 113A	2002.0	3571.0
+19856	http://www.richeast.org/	Rich East High School	2000.0	232.0
+19857	http://mascoutah.il.schoolwebpages.com/education/district/district.php?sectionid=5864	Mascoutah Community Unit School District #19	2002.0	5.0
+19858	http://www.yorkville.il.us	Yorkville	2000.0	336.0
+19859	http://www.henry.lib.il.us	Henry Public Library	2003.0	10.0
+19860	http://cm201u.org/index.aspx?NID=2239	Crete-Monee High School	2012.0	1561.0
+19861	http://www.niles-hs.k12.il.us/west	Niles West High	1998.0	733.0
+19863	http://www.towandalibrary.org/	Towanda District Library	2004.0	16.0
+19864	http://www.whiteside.org/	Whiteside	2000.0	5090.0
+19865	http://stagg.d230.org/	Amos Alonzo Stagg High School	2005.0	866.0
+19866	http://www.cusd4.com/mendon-elementary/	Mendon Elementary School	2012.0	2.0
+19868	http://www.troylibrary.org	Tri-Township Public Library District	2002.0	65.0
+19869	http://www.barringtonarealibrary.org	Barrington Public Library District	2001.0	1249.0
+19871	http://whitehalltownshiplibrary.org	White Hall Township Library	2008.0	19.0
+19872	http://health.illinois.gov/	The Fight For Affordable Prescription Drugs	0.0	13.0
+19875	http://www.c-hawks.net/	Carrollton Community Unit School District #1	2007.0	55.0
+19876	http://www.ivcc.edu/	Illinois Valley Community College	1997.0	952.0
+19877	http://www.vil.north-aurora.il.us/	North Aurora	2002.0	229.0
+19880	http://www.cityofsycamore.com/	Sycamore	2000.0	71.0
+19884	http://www.cbplib.us	Charles B. Phillips Public Library District	2004.0	482.0
+19885	http://www.salemil.us/	Salem	2002.0	107.0
+19886	http://www.d21.k12.il.us/	Community Consolidated School District #21	1996.0	96.0
+19887	http://www.pittsfieldil.org/	Pittsfield	1999.0	84.0
+19888	http://www.imdc.org/	Medical District Commission	1998.0	269.0
+19889	http://www.siu.edu/	Southern Illinois University Carbondale	1997.0	44.0
+19891	http://www.tisklib.org/	Tiskilwa Public Library	2005.0	10.0
+19894	http://www.idfpr.com/	Financial and Professional Regulation, Department of	2004.0	385.0
+19895	http://www.villageofhinsdale.org/	Hinsdale	2002.0	63.0
+19896	http://www.zionsaintsbethalto.org/home.html	Zion Lutheran School	2011.0	80.0
+19898	http://www.galesburg205.org/	Galesburg Community Unit School District 205	2000.0	3.0
+19899	http://www.uic.edu/uic/	U of I at Chicago	2010.0	66.0
+19900	http://www.epl.lib.il.us	Evans Public Library District	2004.0	555.0
+19901	http://www.bellwoodlibrary.org	Bellwood Public Library	2001.0	1926.0
+19902	http://www.sirpdc.org/	Southeastern Illinois Regional Planning	1999.0	37.0
+19903	http://www.geneva.il.us/	Geneva	1999.0	933.0
+19904	http://www.co.cook.il.us/	Cook	1997.0	1275.0
+19905	https://www2.illinois.gov/icsc/pages/default.aspx	Illinois Civil Service Commission	2010.0	18.0
+19906	http://www.nwmc-cog.org/	Northwest Municipal Conference	2001.0	93.0
+19907	http://illinois.edu/	U of I at Urbana/Champaign	1998.0	8330.0
+19908	http://phs.d211.org/	Palatine High School	1998.0	361.0
+19909	http://www.state.il.us/auditor/	Auditor General	1997.0	176.0
+19910	http://www.freeburg.com/	Freeburg	1998.0	9.0
+19911	http://www.ci.belvidere.il.us/	Belvidere	2000.0	298.0
+19912	http://www.sps186.org/schools/springfield/	Springfield High School	2012.0	4170.0
+19913	http://chsd218.shepard.schoolfusion.us/?sessionid=1bc1ad3524ddf8c79da46e213f1f593c&t	Alan B. Shepard High	0.0	2958.0
+19914	http://www.oswegoil.org/	Oswego	2001.0	229.0
+19915	http://www.cooklib.org	Cook Memorial Public Library District	1997.0	563.0
+19918	http://www.heritage.k12.il.us/el.html	Heritage Elementary School	2002.0	180.0
+19920	http://www.astoria.lib.il.us/	Astoria Public Library District	1998.0	10.0
+19923	http://www.morrisonville.lib.il.us	Kitchell Memorial Library	2012.0	721.0
+19924	http://www.co.vermilion.il.us/	Vermilion	2000.0	139.0
+19925	http://pekin.net/education/school/school.php?sectionid=2041&linkid=nav-menu-container-1-13591	Edison Junior High	0.0	34.0
+19926	http://www.havana.lib.il.us	Havana Public Library District	0.0	9.0
+19927	http://www.indiantrailslibrary.org	Indian Trails Public Library District	2002.0	78.0
+19928	http://www.neiu.edu/	Northeastern Illinois University	1997.0	1627.0
+19929	http://centrevillelibrary.org/	Centreville Public Library	2003.0	8.0
+19930	http://www.rochesterlibrary.org	Rochester Public Library District	2001.0	15.0
+19931	http://www.villageofglencoe.org/	Glencoe	2010.0	1064.0
+19932	http://www.aapld.org	Algonquin Area Public Library District	2001.0	162.0
+19933	http://cms.lib.il.us	Carrier Mills-Stonefort Public Library District	2012.0	5.0
+19934	http://www.lfanet.org/	Lake Forest Academy	2002.0	45.0
+19935	http://www.heritage.k12.il.us/jh.html	Heritage Junior High School	2002.0	180.0
+19936	http://www.mokena.lib.il.us/	Mokena Community Public Library District	2001.0	1.0
+19937	http://www.finditillinois.org/	Find-It! Illinois	2001.0	21.0
+19938	http://www.richtonpark.org/	Richton Park	2001.0	466.0
+19939	http://www.poplarcreek.lib.il.us	Poplar Creek Public Library District	1998.0	660.0
+19940	http://www.il.ngb.army.mil/	Military Affairs, Department of	2000.0	97.0
+19941	http://www.ccc.edu/colleges/washington/Pages/default.aspx	CCC - Harold Washington College	2012.0	112.0
+19942	http://www.franklinparklibrary.org	Franklin Park Public Library District	2000.0	643.0
+19945	http://www.lagrangepark.org/	La Grange Park	2000.0	936.0
+19946	http://www.iccb.state.il.us/	Community College Board	1996.0	127.0
+19948	http://www.d107.org/middle.aspx	Pleasantdale Middle School	2011.0	202.0
+19950	http://www.cityofplanoil.com/	Plano	2003.0	40.0
+19952	http://www.boganhs.org/	Bogan Computer Technical High School	0.0	1400.0
+19953	http://www.newtrier.k12.il.us/	New Trier High	1996.0	1823.0
+19954	http://trs.illinois.gov/	Teachers Retirement System	2005.0	124.0
+19955	http://schmaling.lib.il.us	Schmaling Memorial Public Library District	2006.0	726.0
+19956	http://www3.rps205.com/Pages/default.aspx	Rockford Public School District #205	2013.0	345.0
+19959	http://www.state.il.us/court/	Supreme Court, Illinois	1997.0	75.0
+19960	http://www.jodaviess.org/	Jo Daviess	2002.0	803.0
+19961	http://www.carolstream.org/	Carol Stream	1997.0	1641.0
+19962	http://www.invillapark.com/	Villa Park	2000.0	673.0
+19964	http://www.elburn.lib.il.us	Town And Country Public Library District	2001.0	1138.0
+19965	http://ivchs.ivcschools.com/	Illinois Valley Central High	2009.0	113.0
+19966	http://www.illinois.gov/idol/pages/default.aspx	Labor, Department of	2013.0	5.0
+19967	http://www.chillicothepubliclibrary.org	Chillicothe Public Library District	2001.0	117.0
+19968	http://www2.illinois.gov/ihrc/Pages/default.aspx	Human Rights Commission	2010.0	44.0
+19970	http://www.state.il.us/dcfs/	Children and Family Services, Department of	1997.0	68.0
+19972	http://www.ccc.edu/colleges/malcolm-x/Pages/default.aspx	CCC - Malcolm X College	2012.0	112.0
+19973	http://www.oes141.org/	Ottawa Elementary District #141	2013.0	304.0
+19974	http://www.cityoflitchfieldil.com	Litchfield	2007.0	893.0
+19975	http://www.senecalibrary.org	Seneca Public Library District	2008.0	5.0
+19976	http://www.daniel-wright.district103.k12.il.us/	Daniel Wright Junior High	1996.0	0.0
+19977	http://www.markhamlibrary.org	Bradford Anderson Oglesby Public Library	2007.0	18.0
+19979	http://lovington.lib.il.us	Lovington Public Library District	2008.0	0.0
+19980	http://www.tonicagradeschool.org/	Tonica Community Consolidated Grade School	2004.0	45.0
+19981	http://www.villageofparkforest.com/	Park Forest	2000.0	664.0
+19982	http://www.lith.org/	Lake in the Hills	1998.0	2455.0
+19983	http://pearlcitylibrary.20m.com	Pearl City Public Library District	2002.0	7.0
+19984	http://www.brookwood167.org/domain/10	Hickory Bend School	0.0	0.0
+19985	http://www.ccc.edu/colleges/wright/Pages/default.aspx	CCC - Wilbur Wright College	2011.0	112.0
+19986	http://www.cortlandil.org/	Cortland	2002.0	232.0
+19988	http://www.desplaines.org/	Des Plaines	2001.0	904.0
+19989	http://smrld.org/	Six Mile Regional Library District	2012.0	401.0
+19991	http://www.epa.state.il.us/	Environmental Protection Agency	1997.0	539.0
+19993	http://www.brookfieldpubliclibrary.info	Brookfield Public Library	2006.0	7.0
+19994	http://oglecounty.org/	Ogle	2000.0	537.0
+19995	http://www.itascalibrary.org	Itasca Community Library	2007.0	230.0
+19996	http://dnr.state.il.us/	Department of Natural Resources	1997.0	936.0
+19997	http://illinoisstate.edu/	Illinois State University	2000.0	2926.0
+19999	http://www.skokie.org/	Skokie	2002.0	240.0
+20001	http://depueschools.org/education/school/school.php?sectionid=3	DePue Unit School District 103	2011.0	4.0
+20002	http://www.skokielibrary.info	Skokie Public Library	2003.0	1808.0
+20003	http://www.warrenville.com	Warrenville Public Library District	1999.0	165.0
+20004	http://www.sps186.org/	Springfield School District #186	2011.0	2992.0
+20006	http://www.moyer.lib.il.us	Moyer District Library	2008.0	1307.0
+20007	http://www.nlsd122.org/	New Lenox School District 122	2002.0	219.0
+20008	http://www.stocktonlibrary.org/	Stockton Township Public Library	2008.0	6.0
+20009	http://fossilridge.org/	Fossil Ridge Public Library District	2002.0	205.0
+20011	http://www.sps186.org/schools/sandburg/	Carl Sandburg Elementary School	2012.0	1324.0
+20012	http://blueislandlibrary.org/	Blue Island Public Library	2001.0	27.0
+20015	http://www2.illinois.gov/eec/Pages/default.aspx	Executive Ethics Commission	2010.0	24.0
+20016	http://www.sandburg.edu/	Carl Sandburg College	2002.0	1032.0
+20018	http://www.rc255.net/rcps/Pages/default.aspx	Custer Park Elementary	2014.0	6.0
+20019	http://www.marshall-il.com/	Marshall	2001.0	327.0
+20020	http://www.southelgin.com/	South Elgin	1998.0	2494.0
+20023	http://woodriverlibrary.org	Wood River Public Library	2001.0	72.0
+20024	http://www.beardstown.lib.il.us/	Beardstown Houston Memorial Public Library	1998.0	585.0
+20025	http://www2.illinois.gov/gov/budget/pages/results.aspx	Budgeting for Results Commission	2012.0	25.0
+20026	http://www.mothermcauley.org/	Mother McAuley Liberal Arts High	2000.0	547.0
+20027	http://www.lasalle.lib.il.us	Lasalle Public Library	2004.0	69.0
+20028	http://ci.washington.il.us/	Washington	2002.0	78.0
+20029	http://maldengradeschool.org/	Malden Community Consolidated School District #84	2011.0	11.0
+20030	http://www.burr-ridge.gov/	Burr Ridge	1999.0	42.0
+20032	http://www.vil.bellwood.il.us/	Bellwood	1998.0	292.0
+20033	http://www.naperville.il.us/	Naperville	1996.0	615.0
+20034	http://www.westchesterpl.org	Westchester Public Library	2003.0	19.0
+20035	http://lions-online.org	Kankakee Public Library	2002.0	37.0
+20036	http://uths.net/hs/	United Township High	2010.0	0.0
+20037	https://www.homerschools.org/default.aspx	Homer School District 33-C	2012.0	4969.0
+20038	http://www.midlothianlibrary.org	Midlothian Public Library	2002.0	146.0
+20039	http://ghills.metamora.k12.il.us/	Germantown Hills District #69	1998.0	124.0
+20040	http://www.foxrivergrove.org/	Fox River Grove	1999.0	62.0
+20042	http://www.niles-hs.k12.il.us/	Niles Township High School District 219	1998.0	578.0
+20043	http://www.moweaqua.lib.il.us	Moweaqua Public Library District	2007.0	665.0
+20045	http://www.orlandhills.org/	Orland Hills	2001.0	458.0

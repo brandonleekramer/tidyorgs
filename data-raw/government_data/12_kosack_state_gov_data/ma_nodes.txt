@@ -1,0 +1,1467 @@
+NodeId	NodeURL	NodeName	Year	pages
+27407	http://www.newbedfordschools.org/elementary/ashley.htm	Charles S Ashley (School)	2009.0	0.0
+27408	http://www.wellesleyfreelibrary.org/home/index.html	Wellesley Public Library	2011.0	51.0
+27409	http://www.worthingtonlibrary.blogspot.com	Worthington Public Library	2011.0	417.0
+27410	http://www.cohassetk12.org	Cohasset (School District)	2003.0	549.0
+27411	http://www.massrmv.com/MeritRatingBoard.aspx	Merit Rating Board	2013.0	290.0
+27412	http://www.masstech.org/	Technology Park Corporation, Massachusetts	2001.0	227.0
+27414	http://www.tantasqua.org/burgess/	Burgess Elementary (School)	2003.0	2.0
+27415	http://www.grsd.org	Gateway Regional Junior High School (School)	2001.0	1137.0
+27416	http://www.hopkintonlibrary.org/hopkinton/	Hopkinton Public Library	2007.0	58.0
+27418	http://www.chicopeeps.org/Lambert/	Lambert-Lavoie (School)	2013.0	46.0
+27419	http://north.worcesterschools.org	North High (School)	2009.0	11293.0
+27420	http://pearlrhodes.pioneervalley.k12.ma.us	Pearl E Rhodes Elementary (School)	2006.0	9.0
+27421	http://www.essexma.org/library/	Essex Public Library	2011.0	1.0
+27422	http://www.lynnfield.k12.ma.us	Lynnfield Preschool (School)	2012.0	21.0
+27423	http://www.hingham-ma.gov/	Hingham	2005.0	21.0
+27424	http://lincoln.nsboro.k12.ma.us	Lincoln Street (School)	2013.0	187.0
+27425	http://www.miltonps.org	Charles S Pierce Middle (School)	2001.0	67.0
+27426	http://www.mass.gov/eohhs/gov/departments/masshealth/	Medicaid, Office of (MassHealth)	2011.0	16.0
+27429	http://www.southhadley.org/	South Hadley	1999.0	302.0
+27430	http://www.truromass.org	Truro (School District)	2001.0	48.0
+27433	http://www.townofchelmsford.us/	Chelmsford	2003.0	856.0
+27434	http://www.mass.gov/cgly/	Massachusetts Commission on Gay, Lesbian, Bisexual and Transgender Youth	2006.0	9.0
+27435	http://www.thayerpubliclibrary.org	Braintree Public Library	2002.0	33.0
+27436	http://www.franklin.k12.ma.us/remington/	Remington Middle (School)	2001.0	0.0
+27437	http://www.newbedfordschools.org/elementary/hay-mac.htm	Hayden/McFadden (School)	2009.0	0.0
+27438	http://www.mass.edu/campuses/phecampuses.asp	Universities and Colleges, State	2007.0	2.0
+27440	http://spssaltonstall.salemk12.org/Pages/index	Saltonstall School (School)	2009.0	57.0
+27441	http://www.lincnet.org/site/default.aspx?PageID=1	Lincoln (School District)	2013.0	44.0
+27442	http://www.edline.net/pages/Freetown-Lakeville_MS	Freetown-Lakeville Middle School (School)	2011.0	10.0
+27443	http://hood.north-reading.k12.ma.us/Pages/index	J Turner Hood (School)	2010.0	74.0
+27444	http://www.newbedfordschools.org	New Bedford (School District)	2008.0	168.0
+27445	http://www.cambridgema.gov/cpl/hoursandlocations/oconnellbranch.aspx	Cambridge Public Library	2010.0	23.0
+27446	http://www.mass.gov/hed/business/small-business-community-in-massachusetts.html	Entrepreneurship, Office of Small Business and	2011.0	27.0
+27447	http://marbleheadcharter.org	Marblehead Community Charter Public (District) (School District)	2007.0	352.0
+27448	http://www.townofholliston.us/	Holliston	2002.0	3294.0
+27449	http://www.leverettschool.org	Leverett Elementary (School)	2006.0	1145.0
+27450	http://sps.springfield.ma.us	Springfield Public Day Elementary School (School)	1999.0	80.0
+27451	http://www.townofhudson.org/	Hudson	2002.0	113.0
+27452	http://www.mass.gov/eopss/agencies/msp/	Police, Department of State	2011.0	20.0
+27453	http://www.bcso-ma.us/	Sheriff's Office, Bristol County	2003.0	97.0
+27454	http://www.mass.gov/auditor/	Local Mandates, Division of	2012.0	294.0
+27455	http://www.mcla.mass.edu/	Massachusetts College of Liberal Arts	1998.0	942.0
+27456	http://tatnuck.worcesterschools.org	Tatnuck (School)	2010.0	1418.0
+27458	http://rockland-ma.gov/	Rockland	2003.0	680.0
+27459	http://www.holbrook.k12.ma.us	Holbrook Jr Sr High (School)	2003.0	60.0
+27460	http://www.mass.gov/mdaa/	District Attorneys Association, Massachusetts	2004.0	964.0
+27461	http://www.winthroppubliclibrary.org/	Winthrop Public Library	0.0	64.0
+27462	http://chilmarkschool.mvyps.org/Chilmark_School/Welcome.html	Chilmark Elementary (School)	2010.0	0.0
+27463	http://www.stow-ma.gov/	Stow	2004.0	258.0
+27465	http://www.natickps.org	J F Kennedy Middle School (School)	2009.0	827.0
+27466	http://www.mass.gov/eohhs/gov/departments/mcb/	Blind, Massachusetts Commission for the	2011.0	36.0
+27467	http://www.chicopeeps.org/Barry/	Barry (School)	0.0	33.0
+27468	http://www.wsps.org	West Springfield (School District)	2001.0	156.0
+27469	http://sails.ent.sirsi.net/client/wbwater	West Bridgewater Public Library	0.0	949.0
+27470	http://hajjar.billerica.k12.ma.us	Hajjar Elementary (School)	2009.0	45.0
+27471	http://www.springfieldlibrary.org/library/	Springfield Public Library	2013.0	116.0
+27472	http://www.trurolibrary.org	North Truro Public Library	2002.0	3153.0
+27473	http://lps.lexingtonma.org/harringtones	Harrington (School)	2012.0	1366.0
+27474	http://www2.pittsfield.net/groups/HMS/	Theodore Herberg Middle (School)	2011.0	659.0
+27475	http://www.winchendonk12.org	Winchendon PreSchool Program (School)	2001.0	88.0
+27476	http://www.townofrandolph.com/	Randolph	2004.0	130.0
+27477	http://www.sec.state.ma.us/sct/sctidx.htm	Securities Division	0.0	51.0
+27478	http://www.danverslibrary.org/	Danvers Public Library	2007.0	309.0
+27479	http://www.mass.gov/perac/	Public Employee Retirement Administration Commission	2004.0	639.0
+27480	http://www.royalston.com/	Royalston	2000.0	16.0
+27481	http://www.mass.gov/eohhs/gov/commissions-and-initiatives/hst/	Transportation Office, Human Service	2011.0	38.0
+27482	http://www.nortonma.org/	Norton	2000.0	136.0
+27484	http://www.millislibrary.org/millis/	Millis Public Library	2007.0	68.0
+27485	http://www.townofnorwell.net/Public_Documents/index	Norwell	2007.0	253.0
+27486	http://www.framingham.k12.ma.us/wilson.cfm	Woodrow Wilson (School)	2009.0	547.0
+27487	http://www.bsheriff.net/index.htm	Sheriff's Office, Barnstable County	2004.0	115.0
+27488	http://www.walpole.k12.ma.us/boy/	Boyden (School)	2014.0	601.0
+27489	http://www.brockton.ma.us/	Brockton	2000.0	367.0
+27490	http://www.aacommission.org/	Commission, Asian American	2012.0	21.0
+27491	http://www.mass.gov/governor/	Governor, Office of the	2008.0	3248.0
+27493	http://ww1.brocktonpublicschools.org/	Joseph F. Plouffe Academy (School)	0.0	686.0
+27494	http://www.akfcs.org	Abby Kelley Foster Charter Public (District) (School District)	2001.0	145.0
+27495	http://www.sandwich.k12.ma.us/wing/	Henry T Wing (School)	0.0	18.0
+27496	http://www.newbedfordschools.org/elementary/congdon.htm	James B Congdon (School)	2009.0	0.0
+27498	http://www.hatfieldps.net/	Hatfield Elementary (School)	2009.0	68.0
+27500	http://www.eastbrookfieldma.us/	East Brookfield	2005.0	916.0
+27501	http://www.townoflenox.com/	Lenox	2003.0	236.0
+27502	http://sms.nmrsd.org	Spaulding Memorial (School)	2012.0	27.0
+27503	http://www.ashbylibrary.org	Ashby Public Library	2002.0	12.0
+27504	http://www.mass.gov/lwd/labor-standards/	Occupational Safety, Division of	2011.0	372.0
+27506	http://dutile.billerica.k12.ma.us	Frederick J Dutile (School)	2009.0	25.0
+27507	http://www.union28.org	Leverett (School District)	2001.0	31.0
+27508	http://www.salisburylibrary.org	Salisbury Public Library	2007.0	30.0
+27509	http://www.glts.net/	Gr Lawrence Regional Vocational Technical (School)	2001.0	974.0
+27510	http://www.mass.gov/courts/sjc/	Supreme Judicial Court	2007.0	250.0
+27511	http://www.mscba.org	Massachusetts State College Building Authority	2001.0	112.0
+27512	http://lps.lexingtonma.org/hastingses	Maria Hastings (School)	2011.0	1387.0
+27513	http://www.mass.gov/export/	Export Center, Massachusetts	2004.0	90.0
+27514	http://www.fiskelib.org	Wrentham Public Library	2002.0	34.0
+27515	http://chandler.worcesterschools.org	Chandler Elementary Community (School)	2010.0	1586.0
+27516	http://www.northbrookfield.net/	North Brookfield	2002.0	73.0
+27517	http://www3.springfield-ma.gov/cos/	Springfield	2008.0	2703.0
+27519	http://www.lowell.k12.ma.us/	Lowell (School District)	1996.0	16.0
+27520	http://www.watertownlib.org/	Watertown Public Library	2000.0	1625.0
+27521	http://www.sawyerfreelibrary.org/	Gloucester Public Library	2000.0	178.0
+27522	http://www.easthampton.k12.ma.us	Easthampton (School District)	2001.0	10.0
+27523	http://www.rockportlibrary.org	Rockport Public Library	2004.0	120.0
+27524	http://www.mass.gov/eea/grants-and-tech-assistance/grants-and-loans/dcs/	Division of Conservation Services	2011.0	21.0
+27525	http://www.barnstable.k12.ma.us/Domain/9	Barnstable Intermediate School (School)	2012.0	399.0
+27526	http://www.barnstable.k12.ma.us/Domain/8	Barnstable High (School)	2012.0	399.0
+27527	http://www.mass.gov/mtrs/	Massachusetts Teachers Retirement System	2006.0	148.0
+27528	http://www.wareham.ma.us/	Wareham	2002.0	157.0
+27529	http://www.littletonps.org/home/	Littleton (School District)	2011.0	492.0
+27530	http://www.duxbury.k12.ma.us/site/default.aspx?PageID=1	Duxbury (School District)	2011.0	10.0
+27531	http://www.townofsharon.net/	Sharon	2002.0	2841.0
+27532	http://www.framingham.k12.ma.us/stapleton.cfm	Mary E Stapleton Elementary (School)	2009.0	598.0
+27533	http://www.sbrsd.org	Southern Berkshire (School District)	2001.0	124.0
+27534	http://www.abington.k12.ma.us	Beaver Brook Elementary School (School)	2001.0	1.0
+27535	http://www.stoughton-ma.gov	Stoughton	2004.0	155.0
+27536	http://www.westnewburylibrary.org/gar/	West Newbury Public Library	2013.0	51.0
+27537	http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/dala/	Administrative Law Appeals, Division of	2011.0	11.0
+27538	http://center.nrsd.net	Center School (School)	2003.0	77.0
+27539	http://nrhs.nrsd.net/	Nashoba Regional (School)	2000.0	107.0
+27540	http://www.wrsd.net	Wachusett (School District)	2000.0	407.0
+27541	http://www.watertown-ma.gov/	Watertown	2008.0	1010.0
+27542	http://www.mass.gov/hed/economic/eohed/dhcd/	Community Development, Department of Housing and	2011.0	162.0
+27543	http://www.mps-edu.org	1 LT Charles W. Whitcomb School (School)	2010.0	426.0
+27544	http://avon.k12.ma.us	Avon Middle High School (School)	2004.0	9.0
+27545	http://finnryan.northampton-k12.us	R. K. Finn Ryan Road (School)	2009.0	0.0
+27546	http://www.edline.net/pages/Daniel_Webster	Daniel Webster (School)	2013.0	11.0
+27548	http://townofstockbridge.com/wp/	Stockbridge	2013.0	18319.0
+27549	http://www.warwickma.org/	Warwick	2008.0	136.0
+27550	http://www.gleasonlibrary.org	Carlisle Public Library	2004.0	65.0
+27551	http://warehamps.org/	Wareham Cooperative Junior/Senior High School (School)	2007.0	1039.0
+27552	http://www.shrewsbury-ma.gov	Oak Middle School (School)	2003.0	2537.0
+27553	http://www.ayer.ma.us/	Ayer	1998.0	928.0
+27555	http://www.shutesbury.org	Shutesbury Public Library	2000.0	230.0
+27556	http://www.mass.gov/eea/agencies/agr/	State Reclamation and Mosquito Control Board	2012.0	278.0
+27557	http://www.upacademyboston.org	UP Academy Charter School of Boston (School)	2011.0	2.0
+27558	http://forestgrove.worcesterschools.org	Forest Grove Middle (School)	2009.0	2278.0
+27559	http://www.bedford.k12.ma.us/home/lt-job-lane-elementary-school.html	Lt Job Lane School (School)	2011.0	78.0
+27560	http://www.longmeadow.org/	Longmeadow	1998.0	364.0
+27561	http://www.massdot.state.ma.us/Aeronautics/	Aeronautics Commission, Massachusetts	2009.0	65.0
+27562	http://hinghamschools.com/	East Elementary School (School)	2001.0	434.0
+27564	http://www.edline.net/pages/AssawompsetES	Assawompset Elementary School (School)	2012.0	11.0
+27565	https://www.masshousing.com/portal/server.pt/community/home/217	Massachusetts Housing Finance Agency (MassHousing)	2013.0	52.0
+27566	http://www.mass.gov/eopss/agencies/state-911/	Emergency Telecommunications Board, Statewide	2011.0	36.0
+27567	http://www.ci.ashby.ma.us/	Ashby	1999.0	43.0
+27568	http://www.westtisbury-ma.gov/	West Tisbury	2008.0	62.0
+27569	http://www.walpole.k12.ma.us/	Walpole (School District)	2009.0	546.0
+27570	http://medwaylib.org/	Medway Public Library	2000.0	42.0
+27571	http://www.prospecthillacademy.org	Prospect Hill Academy Charter (District) (School District)	2003.0	252.0
+27572	http://www.town.lynnfield.ma.us/	Lynnfield	2001.0	205.0
+27573	http://www.brookfieldma.us/	Brookfield	2003.0	96.0
+27575	http://www.mass.gov/lwd/labor-relations/	Conciliation and Arbitration, Board of	2011.0	230.0
+27576	http://lps.lexingtonma.org/diamondms	Wm Diamond Middle (School)	2011.0	1467.0
+27577	http://www.townofhatfield.org/	Hatfield	2001.0	282.0
+27578	http://www.leepublicschools.net	Lee Middle/High School (School)	2006.0	20.0
+27579	http://www.townofrussell.us/	Russell	2008.0	51.0
+27580	http://www.stgrsd.org	Southwick-Tolland-Granville Regional School District (School District)	2012.0	30.0
+27581	http://www.cbrsd.org	Washington (non-op) (School District)	2001.0	66.0
+27582	http://www.cmrpc.org/	Central Massachusetts Regional Planning Commission	2000.0	477.0
+27583	http://www.edline.net/pages/Furnace_Brook_Middle_School	Furnace Brook Middle (School)	2011.0	15.0
+27584	http://www.middleboro.k12.ma.us/site/default.aspx?PageID=1	Henry B. Burkland Elementary School (School)	2014.0	6.0
+27585	http://northfield.pioneervalley.k12.ma.us	Northfield Elementary (School)	2005.0	14.0
+27586	http://www.massrmv.com/	Motor Vehicles Division, Registry of	2008.0	368.0
+27587	http://www.haverhill-ps.org	Silver Hill Horace Mann Charter (District) (School District)	2005.0	1804.0
+27588	http://westtatnuck.worcesterschools.org	West Tatnuck (School)	2009.0	819.0
+27589	http://www.townsend.ma.us/	Townsend	1998.0	541.0
+27590	http://phoenixcharteracademy.org/	Phoenix Charter Academy (District) (School District)	0.0	68.0
+27591	http://www.chicopeeps.org/	Chicopee (School District)	2011.0	666.0
+27592	http://www.boylston-ma.gov/	Boylston	2007.0	136.0
+27593	http://www.sherbornma.org/	Sherborn	2003.0	170.0
+27594	http://www.mass.gov/pca/	Personal Care Attendant	2009.0	67.0
+27596	http://www.pollardml.org/	Lowell Public Library	2001.0	166.0
+27597	http://www.westfalmouthlibrary.org	West Falmouth Public Library	2005.0	44.0
+27598	http://www.lincolnpl.org	Lincoln Public Library	2002.0	118.0
+27599	http://www.greenfieldpubliclibrary.org	Greenfield Public Library	2002.0	19.0
+27600	http://www.bostonrenaissance.org	Boston Renaissance Charter Public (District) (School District)	0.0	538.0
+27601	http://www.edgartown-ma.us/	Edgartown	2004.0	748.0
+27602	http://orange-elem.org/	Orange (School District)	2001.0	61.0
+27604	http://oakbluffslibrary.org	Oak Bluffs Public Library	2006.0	826.0
+27605	http://massgaming.com/	Gaming Commission, Massachusetts	2001.0	362.0
+27606	http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/bbrs.html	Building Regulations and Standards, Board of	2011.0	53.0
+27607	http://stonehamlibrary.org/	Stoneham Public Library	2004.0	62.0
+27608	http://www.fallriverschools.org/stone.cfm	Stone Therapeutic Day Middle School (School)	2010.0	521.0
+27609	http://www.hubbardlibrary.org	Ludlow Public Library	2001.0	429.0
+27610	http://spswhes.salemk12.org/Pages/index	Witchcraft Heights (School)	2009.0	58.0
+27611	http://www.ipswichma.gov/	Ipswich	2010.0	4099.0
+27612	http://www.brocktonpubliclibrary.org/	Brockton Public Library	2000.0	81.0
+27613	http://gates.ab.mec.edu	Gates (School)	2001.0	40.0
+27614	http://ab.mec.edu/abrhs/	Acton-Boxborough Regional High (School)	2001.0	42.0
+27615	http://www.doverma.org/	Dover	2000.0	380.0
+27616	http://www.sersd.org	Southeastern Regional Vocational Technical (School District)	2000.0	541.0
+27617	http://www.cambridgema.gov/cpl.aspx	Cambridge Public Library	2010.0	1929.0
+27618	http://www.berkshireplanning.org/	Berkshire Regional Planning Commission	2000.0	91.0
+27620	http://www.norfolk.k12.ma.us	Freeman-Kennedy School (School)	1996.0	12.0
+27621	http://www.mass.gov/dor/	Revenue, Department of	2008.0	1175.0
+27623	http://www.hanoverschools.org	Center Elementary (School)	1998.0	85.0
+27624	http://www.arlingtonma.gov/	Arlington	2006.0	10853.0
+27625	http://town.buckland.ma.us/	Buckland	2012.0	146.0
+27626	http://www.mashpeema.gov/Pages/index	Mashpee	2011.0	1150.0
+27627	http://www.wendellmass.us/	Wendell	2002.0	7017.0
+27628	http://www.westfordma.gov/	Westford	2007.0	912.0
+27629	http://www.bedfordma.gov/	Bedford	2009.0	5371.0
+27630	http://www.peabody.k12.ma.us/site/default.aspx?PageID=1	J Henry Higgins Middle (School)	2013.0	10.0
+27631	http://monsonschools.com/gvms/	Granite Valley Middle (School)	2007.0	0.0
+27632	http://www.tewksbury.net	Tewksbury	1996.0	2237.0
+27633	http://www.townofbraintreegov.org/	Braintree	2000.0	139.0
+27634	http://www.shirley-ma.gov/	Shirley	2004.0	232.0
+27635	http://www.fallriverschools.org/	Henry Lord Middle (School)	2007.0	440.0
+27636	http://burncoatprep.worcesterschools.org	Burncoat Street (School)	2010.0	918.0
+27637	http://www.walpole-ma.gov/	Walpole	2003.0	4613.0
+27639	http://www.scituate.k12.ma.us/jenkins	Jenkins Elementary School (School)	2003.0	1066.0
+27640	http://www.mcaulifferegional.org	Christa McAuliffe Regional Charter Public (District) (School District)	2005.0	123.0
+27641	http://www.scituate.k12.ma.us/cushing	Cushing Elementary (School)	2003.0	1065.0
+27643	http://www.mass.gov/osc/	Comptroller, Office of the State	2004.0	583.0
+27644	http://www.medfordpublicschools.org/schools/andrews-middle-school/	Madeleine Dugger Andrews (School)	2009.0	85.0
+27645	http://www.easthampton.org/	Easthampton	1999.0	92.0
+27646	http://www.trsd.net/	Triton Regional Middle School (School)	2003.0	975.0
+27647	http://williamstown.ws/	Williamstown	2010.0	664.0
+27648	http://www.nsths.net	North Shore Regional Vocational Technical (School District)	2009.0	24.0
+27649	http://www.bacademy.org	Boston Day and Evening Academy Charter (District) (School District)	2002.0	1.0
+27650	http://www.mass.gov/lwd/eolwd/mwib/	Massachusetts Workforce Investment Board	2011.0	11.0
+27651	http://www.carver.org	Carver Middle/High School (School)	1998.0	257.0
+27652	http://www.acushnet.ma.us/	Acushnet	1999.0	46.0
+27653	http://www.mass-service.org/	Service Alliance, Massachusetts	2001.0	86.0
+27654	http://www.essexma.org/	Essex	2002.0	195.0
+27655	http://www.capecod.edu/	Cape Cod Community College	2003.0	764.0
+27656	http://www.townofmiddleton.org/	Middleton	2002.0	165.0
+27657	http://sb.westfordk12.us/Pages/index	Stony Brook School (School)	2007.0	6021.0
+27658	http://nms.nmrsd.org	Nissitissit Middle School (School)	2012.0	41.0
+27659	http://www.rocklandmemoriallibrary.org	Rockland Public Library	2001.0	13.0
+27660	http://www.mvpcs.org/	Martha's Vineyard Charter (District) (School District)	2000.0	38.0
+27661	http://www.newburyport.k12.ma.us	Edward G. Molin Elementary School (School)	2001.0	110.0
+27663	http://www.kippma.org	KIPP Academy Boston Charter School (District) (School District)	2012.0	13.0
+27664	http://www.sudbury.k12.ma.us/	Josiah Haynes (School)	2001.0	3033.0
+27665	http://www.ssttdc.com	Southfield (non-op) (School District)	2001.0	24.0
+27666	http://www.scituatema.gov/	Scituate	2014.0	3987.0
+27667	http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/dpu/	Public Utilities (DPU), Department of	2011.0	133.0
+27668	http://www.westborough.org/education/components/scrapbook/default.php?sectionid=1	Elsie A Hastings Elementary (School)	2013.0	0.0
+27669	http://monsonlibrary.com/	Monson Public Library	2001.0	54.0
+27670	http://www.tantasqua.org/holland/	Holland Elementary (School)	2003.0	3.0
+27671	http://sharonpubliclibrary.org	Sharon Public Library	2001.0	108.0
+27672	http://newburylibrary.org	Byfield Public Library	2001.0	40.0
+27673	http://www.dudleystreetschool.org/	Dudley Street Neighborhood Charter School (District) (School District)	2012.0	40.0
+27674	http://www.townofgranville.net/Pages/default.aspx	Granville	2012.0	53.0
+27675	http://www.somervillema.gov/	Somerville	2004.0	2942.0
+27676	http://www.boxboroughschool.org	Boxborough (School District)	2000.0	129.0
+27677	http://kennedy.billerica.k12.ma.us	John F Kennedy (School)	2009.0	39.0
+27678	http://merriam.ab.mec.edu/	Merriam (School)	2001.0	44.0
+27679	http://www.worcpublib.org	Worcester Public Library	1998.0	81.0
+27680	http://www.watertown.k12.ma.us	Watertown (School District)	1998.0	1.0
+27681	http://www.wakefieldlibrary.org	Wakefield Public Library	2003.0	1045.0
+27682	http://www.nps.org/nes	Northbridge Elementary (School)	2010.0	1751.0
+27683	http://www.mass.gov/eopss/crime-prev-personal-sfty/personal-sfty/sexual-and-dom-viol/	Governor's Council to Address Sexual Assault and Domestic Violence	2011.0	13.0
+27684	http://www.mass.gov/dor/local-officials/	Local Services, Division of	2011.0	246.0
+27685	http://spscarlton.salemk12.org/Pages/index	Carlton (School)	2009.0	27.0
+27686	http://www.gpsk12.org	Greenfield (School District)	2000.0	30.0
+27687	http://www.ci.lynn.ma.us/	Lynn	2001.0	152.0
+27688	http://www2.wbrookfieldlibrary.org/	West Brookfield Public Library	2003.0	0.0
+27689	http://www.granbyschoolsma.org	Granby Jr Sr High School (School)	2006.0	60.0
+27690	http://www.town.northborough.ma.us/	Northborough	2001.0	199.0
+27691	http://abbotlibrary.org/	Marblehead Public Library	2001.0	96.0
+27692	http://risingtide.org	Rising Tide Charter Public School (School)	2000.0	12.0
+27693	http://www.mass.gov/governor/administration/jnc/	Judicial Nominating Commission	2011.0	72.0
+27695	http://burncoatmiddle.worcesterschools.org	Burncoat Middle School (School)	2010.0	2761.0
+27696	http://jacobhiatt.worcesterschools.org	Jacob Hiatt Magnet (School)	2010.0	1428.0
+27697	http://mcgrath.worcesterschools.org	Francis J McGrath Elementary (School)	2010.0	1265.0
+27698	http://www.westath.org	Westfield Public Library	2002.0	48.0
+27699	http://www.newbedfordschools.org/elementary/brooks.htm	Elizabeth Carter Brooks (School)	2009.0	0.0
+27700	http://www.bpsma.org	B B Russell Alternative School (School)	2007.0	1071.0
+27701	http://www.mass.gov/courts/	Court System, Massachusetts	2004.0	2212.0
+27702	http://www.dedham-ma.gov/	Dedham	2006.0	1303.0
+27703	http://www.mass.gov/eopss/architectural-access-board.html	Architectural Access Board	2011.0	1795.0
+27704	http://middlesexda.com/	Middlesex District Attorney	1998.0	172.0
+27705	http://cohasset.chs.schoolfusion.us/	Cohasset Middle/High School (School)	2008.0	3277.0
+27707	http://www.pioneervalley.k12.ma.us	Bernardston (non-op) (School District)	2002.0	18.0
+27708	http://sails.ent.sirsi.net/client/plympton/	Plympton Public Library	0.0	216.0
+27712	http://www.town.orleans.ma.us/	Orleans	1999.0	5137.0
+27713	http://mhs.marbleheadschools.org/	Marblehead High (School)	2008.0	124.0
+27714	http://www.blandinglibrary.net	Rehoboth Public Library	2010.0	5.0
+27715	http://www.robbinslibrary.org	Arlington Public Library	2001.0	37.0
+27716	http://www.pvcics.org	Pioneer Valley Chinese Immersion Charter(District) (School District)	2007.0	120.0
+27717	http://maldenpubliclibrary.org/blog/	Malden Public Library	2007.0	39.0
+27719	http://www.winchester.us/	Winchester	2004.0	625.0
+27720	http://www.belchertown.org/	Belchertown	1996.0	281.0
+27723	http://www.williamstownelementary.org/	Williamstown Elementary (School)	2003.0	229.0
+27724	http://www.farmingtonriverelementary.com	Farmington River Elementary (School)	2002.0	106.0
+27725	http://www.brimfieldma.org/	Brimfield	2009.0	40.0
+27726	http://almadelmar.org	Alma del Mar Charter School (District) (School District)	2010.0	107.0
+27727	http://www.bourne.k12.ma.us	Bournedale Elementary School (School)	0.0	727.0
+27728	http://www.amesfreelibrary.org	North Easton Public Library	2002.0	201.0
+27729	http://www.mass.gov/eea/agencies/czm/	Coastal Zone Management	2013.0	313.0
+27731	http://www.nevinslibrary.org	Methuen Public Library	2001.0	69.0
+27732	http://www.townofberlin.com/	Berlin	2001.0	19214.0
+27733	http://www.mass.gov/eopss/agencies/doc/	Correction, Department of	2011.0	18.0
+27734	http://www.edgartownschool.org	Edgartown Elementary (School)	2007.0	99.0
+27736	http://www.chicopeeps.org/Bellamy/	Bellamy Middle (School)	0.0	35.0
+27737	http://hale.nrsd.net/	Hale (School)	2002.0	46.0
+27738	http://www.mass.gov/ocabr/licensee/dpl-boards/pl/	Plumbers and Gas Fitters, Board of State Examiners of	2011.0	221.0
+27739	http://glev.marbleheadschools.org/	Dr Samuel C Eveleth (School)	2008.0	9.0
+27740	http://www.carlislema.gov	Carlisle	2007.0	237.0
+27741	http://www.town.winthrop.ma.us	Winthrop	2002.0	95.0
+27742	https://sites.google.com/a/quaboagrsd.org/qrsd2/	West Brookfield Elementary (School)	0.0	39.0
+27743	http://www.norwoodma.gov/	Norwood	2008.0	18660.0
+27744	http://www.newbedfordschools.org/elementary/rodman.htm	Thomas R Rodman (School)	2009.0	0.0
+27745	http://www.millisps.org	Millis (School District)	2007.0	1037.0
+27746	http://www.barnstable.k12.ma.us/site/default.aspx?PageID=1	Barnstable Community Horace Mann Charter Public (District) (School District)	2012.0	5.0
+27747	http://www.wellfleetma.org/	Wellfleet	2001.0	2411.0
+27749	http://www.sec.state.ma.us/pre/preidx.htm	Public Records Division	0.0	12.0
+27750	http://gateslane.worcesterschools.org	Gates Lane (School)	2009.0	1873.0
+27751	http://www.mccanntech.org	Northern Berkshire Regional Vocational Technical (School District)	2001.0	1738.0
+27752	http://www.medwayschools.org	Medway (School District)	2005.0	1433.0
+27753	http://www.lakevillelibrary.org	Lakeville Public Library	2003.0	42.0
+27754	http://www.hps.holyoke.ma.us/	Holyoke (School District)	2001.0	85.0
+27755	http://www.eastlongmeadowma.gov/	East Longmeadow	2007.0	741.0
+27756	http://www.mass.gov/anf/budget-taxes-and-procurement/oversight-agencies/osd/	Operational Services Division	2011.0	35.0
+27757	http://www.mmpl.org	Marstons Mills Public Library	1998.0	100.0
+27758	http://www.newbedford-ma.gov/	New Bedford	2007.0	6185.0
+27759	http://www.bostonprep.org	Boston Preparatory Charter Public (District) (School District)	0.0	284.0
+27760	http://tes.attleboroschools.com	Peter Thacher Elementary School (School)	2001.0	16.0
+27761	http://www.colrainma.com/	Colrain	2001.0	58.0
+27762	http://www.pvpc.org/	Pioneer Valley Planning Commission	1996.0	817.0
+27764	http://wawecus.worcesterschools.org	Wawecus Road School (School)	2010.0	1247.0
+27766	http://www.hollistonlibrary.org/holliston/	Holliston Public Library	2008.0	121.0
+27768	http://www.charltonlibrary.org/charlton/	Charlton Public Library	2009.0	142.0
+27770	http://www.newbedfordschools.org/elementary/hannigan.htm	John Hannigan (School)	2009.0	0.0
+27771	http://www.meekins-library.org	Williamsburg Public Library	2007.0	43.0
+27772	http://www.sscps.org	South Shore Charter Public (District) (School District)	2004.0	50.0
+27773	http://www.littletonma.org/	Littleton	2001.0	397.0
+27774	http://millburyschools.sharepointsite.com/elmwood/default.aspx	Elmwood Street (School)	2009.0	44.0
+27775	http://www.sec.state.ma.us/cor/coridx.htm	Corporations Division	0.0	38.0
+27776	http://www.tantasqua.org/wales/	Wales Elementary (School)	2002.0	3.0
+27777	http://lps.lexingtonma.org/estabrookes	Joseph Estabrook (School)	2012.0	1255.0
+27780	http://worcestercountysheriff.com/	Sheriff's Office, Worcester County	2003.0	89.0
+27781	http://www.framingham.k12.ma.us/mccarthy.cfm	Miriam F McCarthy School (School)	2009.0	604.0
+27782	http://www.johnsonschool.org	Nahant (School District)	2003.0	52.0
+27783	http://www.hudsonpubliclibrary.com	Hudson Public Library	2004.0	96.0
+27784	http://www.cantonma.org	Rodman Early Childhood Center (School)	2001.0	20.0
+27785	http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/mddc/	Developmental Disabilities Council, Massachusetts	2011.0	18.0
+27786	http://www.wilmlibrary.org/	Wilmington Public Library	2000.0	365.0
+27787	http://www.thecommunitygroupinc.org/cdc-public-school-gateway/index.aspx	Community Day Charter Public School - Gateway (District) (School District)	2013.0	38.0
+27788	http://www.mass.gov/eea/grants-and-tech-assistance/grants-and-loans/assistance-seeking-grants/office-of-grants-and-technical-assistance.html	Grants and Technical Assistance, Office of	2011.0	6.0
+27789	http://www.mass.gov/eea/land-use-habitats/fisheries-and-wildlife/natural-resource-damages/	Natural Resource Damages Assessment and Restoration (NRD)	2013.0	21.0
+27790	http://merrickpubliclibrary.blogspot.com	Brookfield Public Library	2011.0	699.0
+27791	http://www.harvardpubliclibrary.org	Harvard Public Library	2002.0	23.0
+27792	http://www.tisbury.mvyps.org	Tisbury Elementary (School)	2009.0	130.0
+27793	http://www.littletonma.org/content/19459/19471/default.aspx	Littleton Public Library	2013.0	3.0
+27795	http://www.blandfordlibrary.org	Blandford Public Library	2007.0	1.0
+27796	http://www.dimanregional.org	Greater Fall River Regional Vocational Technical (School District)	2007.0	2147.0
+27797	http://www.edline.net/pages/Apponequet_Regional_HS	Apponequet Regional High (School)	2010.0	10.0
+27798	http://www.townofmilton.org	Milton	2002.0	216.0
+27799	http://www.southboroughtown.com/	Southborough	2002.0	59.0
+27800	http://ahs.attleboroschools.com	Attleboro High (School)	2001.0	56.0
+27802	http://www.gloucesterschools.com	Ralph B O'Maley Middle (School)	2000.0	216.0
+27803	http://www.mass.gov/eohhs/gov/departments/che/	Soldiers Home, Chelsea	2011.0	29.0
+27804	http://www.amesburyma.gov/	Amesbury	0.0	1972.0
+27805	http://www.conwaygrammar.com/	Conway Grammar (School)	0.0	42.0
+27807	http://www.southamptonlibrary.org	Southampton Public Library	2004.0	25.0
+27808	http://www.chelmsfordlibrary.org	Chelmsford Public Library	2001.0	143.0
+27809	http://www.sandwich.k12.ma.us	Sandwich (School District)	0.0	14.0
+27810	http://rs.westfordk12.us/Pages/index	Col John Robinson (School)	2007.0	499.0
+27811	http://thomascranelibrary.org/	Quincy Public Library	2004.0	3070.0
+27812	http://www.townofsavoy.org/	Savoy	2004.0	0.0
+27815	http://woodward.nsboro.k12.ma.us	Albert S. Woodward Memorial School (School)	2013.0	71.0
+27816	http://www.chicopeeps.org/Academy/	Chicopee Academy (School)	0.0	35.0
+27817	http://www.nps.org/highschool	Northbridge High (School)	2006.0	1691.0
+27818	http://www.town.orleans.ma.us/Pages/OrleansMA_Snow/index	Orleans Public Library	2008.0	4414.0
+27819	http://www.gmrsd.org	Montague Elementary School (School)	2005.0	57.0
+27820	http://www.templeton1.org/	Templeton	2001.0	1621.0
+27821	http://www.dovertownlibrary.org	Dover Public Library	2008.0	312.0
+27822	http://www.agawam.ma.us/	Agawam	1997.0	735.0
+27823	http://www.valleytech.k12.ma.us	Blackstone Valley Regional Vocational Technical (School District)	2000.0	46.0
+27824	http://lincoln.worcesterschools.org	Lincoln Street (School)	2010.0	1256.0
+27825	http://www.flintmemoriallibrary.org	North Reading Public Library	2001.0	38.0
+27826	http://www.cityofboston.gov/ELECTIONS/	Boston	2001.0	105.0
+27827	http://grafton.nges.schoolfusion.us	North Grafton Elementary (School)	2011.0	2560.0
+27828	http://www.ashland.k12.ma.us	William Pittaway Elementary (School)	2001.0	55.0
+27829	http://www.abbottmemorial.org	Florida (School District)	2004.0	99.0
+27830	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=96	Somerville High (School)	2009.0	6.0
+27831	http://www.lmacs.org	Lowell Middlesex Academy Charter (District) (School District)	2008.0	29.0
+27832	http://www.slrsd.org	Silver Lake Regional Middle School (School)	2004.0	28.0
+27833	http://www.bhrsd.org	Monument Mt Regional High (School)	2000.0	1973.0
+27834	http://www.chatham-ma.gov/	Chatham	2005.0	237.0
+27835	http://www.suffolkdistrictattorney.com/	Suffolk District Attorney	2011.0	2059.0
+27837	http://www.townofashfield.org/	Ashfield	2013.0	4.0
+27838	http://www.town.raynham.ma.us/Public_Documents/index2	Raynham	2008.0	195.0
+27839	http://burncoathigh.worcesterschools.org	Burncoat Senior High (School)	2009.0	11912.0
+27840	http://georgetownpl.org/	Georgetown Public Library	2004.0	212.0
+27841	http://reading.k12.ma.us/rmhs/	Reading Memorial High (School)	2001.0	2.0
+27842	http://www.prsd.org	Pentucket Regional Sr High (School)	2000.0	13684.0
+27843	http://www.naplibrary.com	North Adams Public Library	2001.0	85.0
+27847	http://www.lawrence.k12.ma.us/	South Lawrence East 5th Grade Academy (School)	1998.0	3413.0
+27848	http://norrback.worcesterschools.org	Norrback Avenue (School)	2010.0	1932.0
+27849	http://www.assabettech.com	Assabet Valley Regional Vocational Technical (School District)	1998.0	304.0
+27850	http://www.worcesterma.gov/	Worcester	2009.0	2131.0
+27851	http://www.townofbolton.com/	Bolton	2002.0	330.0
+27852	http://www.newton.k12.ma.us	Newton (School District)	2006.0	346.0
+27853	http://www.mass.gov/essexsheriff/	Sheriff's Department, Essex County	2011.0	67.0
+27854	http://www.awrsd.org	Ashburnham-Westminster (School District)	1998.0	45.0
+27855	http://oakbluffsmv.weebly.com/	Oak Bluffs Elementary (School)	2011.0	234.0
+27856	http://norfolksheriff.com/	Sheriff's Office, Norfolk County	2002.0	28.0
+27857	http://www.innovationcharter.org	Innovation Academy Charter (District) (School District)	2008.0	522.0
+27858	http://www.northadams-ma.gov/	North Adams	2007.0	229.0
+27859	http://worcesterda.com/	Worcester District Attorney	2002.0	236.0
+27860	http://www.fcts.org	Franklin County Regional Vocational Technical (School District)	2001.0	168.0
+27861	http://www.tantasqua.org/ths/	Tantasqua Regional Sr High (School)	2001.0	27.0
+27862	http://www.doversherborn.org	Dover-Sherborn Regional Middle School (School)	2000.0	1295.0
+27863	http://www.mass.gov/ocabr/government/oca-agencies/dob-lp/	Banks, Division of	2011.0	85.0
+27864	http://www.edline.net/pages/North_Attleborough_High_School	North Attleboro High (School)	2012.0	12.0
+27865	http://www.palmerschools.org/ElemSchool/ElementarySchool.html	Old Mill Pond (School)	2002.0	11.0
+27866	http://grafton.ghs.schoolfusion.us	Grafton High School (School)	2009.0	6227.0
+27867	http://www.pioneercss.org	Pioneer Charter School of Science (District) (School District)	0.0	30.0
+27868	http://www.mass.gov/ig/	Inspector General	2004.0	230.0
+27869	http://www.edline.net/pages/comm_school	Community (School)	2012.0	8.0
+27870	http://www.wilbrahamlibrary.org/	Wilbraham Public Library	2000.0	61.0
+27871	http://www.gloucester-ma.gov	Gloucester	2003.0	802.0
+27872	http://www.rowe-ma.gov/Pages/index	Rowe	2007.0	58.0
+27873	http://www.framingham.k12.ma.us/potter.cfm	Potter Road (School)	2009.0	613.0
+27874	http://www.ludlow.k12.ma.us/	Ludlow (School District)	2004.0	313.0
+27875	https://www.google.com/a/quaboagrsd.org/ServiceLogin2?continue=https%3A%2F%2Fsites.google.com%2Fa%2Fquaboagrsd.org%2Fqrsd%2F&followup=https%3A%2F%2Fsites.google.com%2Fa%2Fquaboagrsd.org%2Fqrsd%2F&service=jotspot&passive=true&ul=1	Quaboag Regional High (School)	0.0	13.0
+27877	http://www.gpsk12.org/newton/newtonhome.html	Newton School (School)	2008.0	10.0
+27878	http://www.ci.haverhill.ma.us/	Haverhill	2003.0	1336.0
+27879	http://www.west-springfield.ma.us/	West Springfield	1999.0	2.0
+27880	http://www.mursd.org/	Nipmuc Regional High (School)	2011.0	190.0
+27881	http://spsbates.salemk12.org/Pages/index	Bates (School)	2009.0	42.0
+27882	http://cohasset.dhs.schoolfusion.us/	Deer Hill (School)	2010.0	1545.0
+27883	http://www.town.west-bridgewater.ma.us/	West Bridgewater	2001.0	143.0
+27884	http://www.massvacation.com/	Travel and Tourism, Massachusetts Office of	1998.0	10715.0
+27886	http://www.erving-ma.org/	Erving	2008.0	1911.0
+27887	http://www.belmont-ma.gov/	Belmont	2009.0	2498.0
+27888	http://www.dedham.k12.ma.us	Early Childhood Center (School)	2000.0	13.0
+27889	http://www.waylandlibrary.org	Wayland Public Library	2007.0	60.0
+27890	http://www.falmouthpubliclibrary.org/	Falmouth Public Library	2000.0	392.0
+27891	http://highschool.swampscott.k12.ma.us/pages/index	Swampscott High (School)	2008.0	237.0
+27892	http://www.mass.gov/eohhs/gov/departments/borim/	Medicine, Board of Registration in	2011.0	104.0
+27893	http://www.townofbarnstable.us/index.asp?h=t	Barnstable	2014.0	514.0
+27894	http://www.mhp.net/	Housing Partnership Fund, Massachusetts	1998.0	520.0
+27897	http://www.lanesborough-ma.gov/	Lanesborough	2004.0	748.0
+27898	http://www.stcc.edu/	Springfield Technical Community College	2002.0	566.0
+27899	https://malegislature.gov/	General Court (Legislature)	2010.0	17861.0
+27901	http://www.chicopeeps.org/Fairview/	Fairview Middle (School)	2013.0	42.0
+27902	http://www.carylibrary.org/	Lexington Public Library	2000.0	107.0
+27905	http://www.parker.org	Francis W. Parker Charter Essential (District) (School District)	1997.0	405.0
+27906	http://neary.nsboro.k12.ma.us	Margaret A Neary (School)	2011.0	117.0
+27907	http://www.massdot.state.ma.us/StateTransportationLibrary.aspx	Transportation Library, State	2012.0	483.0
+27908	http://www.town.sturbridge.ma.us/	Sturbridge	2001.0	88.0
+27910	http://townofsheffield.com	Sheffield Public Library	2008.0	143.0
+27911	http://www.georgetown-schools.org	Georgetown (School District)	2011.0	102.0
+27912	http://www.grafton.k12.ma.us	Grafton (School District)	2003.0	324.0
+27913	http://www.stevensmemlib.org/	North Andover Public Library	2000.0	50.0
+27914	http://www.dracut-ma.us/	Dracut	2003.0	2171.0
+27915	http://coge.marbleheadschools.org/	Elbridge Gerry (School)	2008.0	191.0
+27916	http://www.hr-k12.org	New Hingham Regional Elementary (School)	2007.0	15.0
+27918	http://www.fallriverschools.org/watson.cfm	Samuel Watson (School)	2008.0	613.0
+27920	http://universitypark.worcesterschools.org	University Pk Campus School (School)	2009.0	3454.0
+27921	http://www.topsfield-ma.gov/	Topsfield	2004.0	218.0
+27922	http://www.mass.gov/eohhs/gov/departments/dds/	Department of Developmental Services	2011.0	34.0
+27924	http://www.chicopeeps.org/CCHS/	Chicopee Comprehensive High School (School)	2013.0	130.0
+27925	http://grafton.gms.schoolfusion.us	Grafton Middle (School)	2009.0	1652.0
+27927	http://www.townofotisma.com/Pages/index	Otis	2008.0	281.0
+27928	http://www.bridgewaterpubliclibrary.org	Bridgewater Public Library	2002.0	33.0
+27930	http://www.saugus.k12.ma.us	Belmonte Saugus Middle (School)	2004.0	34.0
+27933	http://www.edline.net/pages/South_River	South River (School)	2012.0	36.0
+27934	http://www.sec.state.ma.us/rec/recidx.htm	Records Center, State	0.0	7.0
+27935	http://ebps.net/site/default.aspx?PageID=1	East Bridgewater High (School)	2012.0	65.0
+27936	http://www.bournelibrary.org/jbl/	Bourne Public Library	2008.0	845.0
+27937	http://tewksburypl.org	Tewksbury Public Library	2001.0	69.0
+27938	http://www.fallriverschools.org/durfeehigh.cfm	B M C Durfee High (School)	2008.0	497.0
+27940	http://www.webster-ma.gov/	Webster	2004.0	1270.0
+27941	http://www.hampden-library.org	Hampden Public Library	2008.0	60.0
+27942	http://www.townofbernardston.org/	Bernardston	2012.0	179.0
+27943	http://www.plumblibrary.com	Rochester Public Library	2002.0	20.0
+27944	http://www.edline.net/pages/North_Attleborough_Middle_Scho	North Attleborough Middle (School)	2012.0	7.0
+27945	http://www.hwschools.net	Hamilton-Wenham Regional High (School)	2004.0	483.0
+27946	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=84	Benjamin G Brown (School)	2009.0	2.0
+27947	http://bridge.northampton-k12.us	Bridge Street (School)	2007.0	0.0
+27948	http://www.mass.gov/eea/agencies/dfg/dfg-site-help.html	Ecological Restoration, Division of	2013.0	40.0
+27949	http://www.mass.gov/dppc/	Disabled Persons Protection Commission	2004.0	79.0
+27950	http://www.doe.mass.edu/	Elementary and Secondary Education, Department of	1997.0	2680.0
+27951	http://northwesternda.org/	Northwestern (Franklin & Hampshire) District Attorney	2011.0	521.0
+27952	http://uptonlibrary.blogspot.com/	Upton Public Library	2008.0	651.0
+27953	http://www.walpole.k12.ma.us/fis/	Fisher (School)	2013.0	438.0
+27954	http://www.townofmarshfield.org/	Marshfield	2003.0	532.0
+27955	http://www.tyngsboroughma.gov/	Tyngsborough	2006.0	249.0
+27956	http://www.brewsterladieslibrary.org	Brewster Public Library	2004.0	5263.0
+27957	http://www.yarmouth.ma.us/index.aspx?NID=818	South Yarmouth Public Library	2010.0	1467.0
+27959	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=98	Winter Hill Community (School)	2009.0	1.0
+27960	http://www.north-reading.k12.ma.us/Pages/index	North Reading (School District)	2010.0	81.0
+27961	http://www.westhampton-ma.com/	Westhampton	2011.0	13.0
+27962	http://www.cedac.org/index.html	Economic Development Assistance Corporation, Community	2001.0	5.0
+27963	http://www.fitchburgma.gov/	Fitchburg	2010.0	336.0
+27964	http://www.townofmedway.org/	Medway	2001.0	180.0
+27965	http://www.mass.gov/eohhs/gov/departments/ori/	Office for Refugees and Immigrants	2011.0	43.0
+27966	http://www.suttonpubliclibrary.org/sutton/	Sutton Public Library	2007.0	50.0
+27967	http://easton.k12.ma.us/Middle/Home.html	Easton Middle School (School)	2009.0	17.0
+27968	http://www.avonmass.org/	Avon	2007.0	1888.0
+27969	http://www.framingham.k12.ma.us/hemenway.cfm	Hemenway (School)	2009.0	643.0
+27970	http://melican.nsboro.k12.ma.us	Robert E. Melican Middle School (School)	2011.0	63.0
+27971	http://www.leicesterma.org/	Leicester	2001.0	112.0
+27972	http://townofalford.org/	Alford	2005.0	105.0
+27974	http://www.fcso-ma.com/	Sheriff's Office, Franklin County	2003.0	43.0
+27975	http://www.mass.gov/eopss/agencies/hsd/	Highway Safety Bureau, Governor's	2011.0	8.0
+27976	http://www.mass.gov/courts/probation/	Commissioner of Probation, Office of the	2004.0	25.0
+27977	http://www.town.southampton.ma.us/	Southampton	2005.0	66.0
+27978	http://www.newbedfordschools.org/elementary/gomes.htm	Alfred J Gomes (School)	2009.0	0.0
+27979	http://www.bridge-rayn.org	Bridgewater (non-op) (School District)	0.0	528.0
+27980	http://www.newbedfordschools.org/keith.htm	Keith Middle School (School)	2009.0	0.0
+27981	http://www.framingham.k12.ma.us/walsh.cfm	Walsh Middle (School)	2009.0	618.0
+27982	http://www.framingham.k12.ma.us/cameron.cfm	Cameron Middle School (School)	2009.0	624.0
+27983	http://www.pcsdma.org/	Sheriff's Department, Plymouth County	2004.0	26.0
+27984	http://www.pembrokepublicschools.org	Pembroke Community Middle School (School)	0.0	1656.0
+27985	http://www.fallriverschools.org/letourneau.cfm	Letourneau Elementary School (School)	2008.0	605.0
+27986	http://www.centervillelibrary.org/centerville/	Centerville Public Library	2011.0	810.0
+27987	http://www.millbury-ma.org/	Millbury	2003.0	231.0
+27988	http://www.chicopeeps.org/Belcher/	Belcher (School)	0.0	34.0
+27989	http://www.mass.gov/eopss/agencies/ogr/	Office of Grants and Research	2011.0	5.0
+27990	http://www.tritownschoolunion.com	Middleton (School District)	2004.0	3008.0
+27991	http://dcrsd.org/DudleyElem.cfm?subpage=34762	Dudley Elementary (School)	0.0	1337.0
+27992	http://www.sics-sabis.net	Sabis International Charter (District) (School District)	2001.0	78.0
+27993	http://www.tynglib.org	Tyngsborough Public Library	2002.0	75.0
+27994	http://www.wayland.k12.ma.us	Wayland High School (School)	1997.0	1173.0
+27995	http://www.millvillema.org/	Millville	2001.0	121.0
+27996	http://www.shawsheentech.org	Shawsheen Valley Regional Vocational Technical (School District)	2011.0	489.0
+27997	http://www.mass.gov/eopss/agencies/dfs/dfs2/emerg-resp-invest/hazmat/	Hazardous Materials Response Program	2011.0	14.0
+27999	http://middle.north-reading.k12.ma.us/Pages/index	North Reading Middle (School)	2010.0	74.0
+28000	http://www.cityoflawrence.com/	Lawrence	2000.0	657.0
+28001	http://www.whitman-ma.gov/	Whitman	2004.0	596.0
+28002	http://nelsonplace.worcesterschools.org	Nelson Place (School)	2010.0	1499.0
+28004	http://www.revereps.mec.edu/	Beachmont Veterans Memorial School (School)	1998.0	3224.0
+28005	http://www.pennbrookschool.net	Penn Brook (School)	2011.0	48.0
+28006	http://www.southhadleyschools.org	South Hadley (School District)	0.0	587.0
+28007	http://www.ostervillefreelibrary.org/osterville/	Osterville Public Library	2009.0	141.0
+28008	https://malegislature.gov/People/House	House of Representatives	2010.0	979.0
+28009	http://www.townofnewbury.org/	Newbury	2001.0	85.0
+28010	http://www.stoughtonlibrary.org	Stoughton Public Library	2007.0	1749.0
+28011	http://www.readingpl.org	Reading Public Library	1998.0	448.0
+28012	http://www.ayerlibrary.org/ayer/	Ayer Public Library	2010.0	774.0
+28013	http://www.mass.gov/ocabr/government/oca-agencies/dtc-lp/	Cable, Department of Telecommunications and	2011.0	143.0
+28014	http://www.cotuitlibrary.org/	Cotuit Public Library	2009.0	76.0
+28015	http://www.sandwich.k12.ma.us/shs/	Sandwich High (School)	0.0	7.0
+28016	http://www.hanover-ma.gov/	Hanover	2006.0	3481.0
+28017	http://www.dighton-ma.gov/	Dighton	2004.0	69.0
+28018	http://www.salemstate.edu/	Salem State University	2000.0	3713.0
+28019	http://www.thecommunitygroupinc.org/cdc-public-school-r-kingman-webster/index.aspx	Community Day Charter Public School - R. Kingman Webster (District) (School District)	2013.0	38.0
+28020	http://www.mass.gov/lwd/workers-compensation/	Industrial Accidents, Department of	2011.0	662.0
+28022	http://www.westfordlibrary.org/	Westford Public Library	2000.0	116.0
+28023	http://www.townofwales.net/	Wales	2009.0	2386.0
+28024	http://www.ci.lancaster.ma.us/	Lancaster	2002.0	85.0
+28025	http://www.massdot.state.ma.us/highway/Main.aspx	Highway Division	2009.0	260.0
+28026	http://www.gltech.org	Greater Lowell Regional Vocational Technical (School District)	2000.0	2877.0
+28027	http://www.mwra.state.ma.us/	Water Resources Authority (MWRA), Massachusetts	1997.0	248.0
+28028	http://www.schoolsofwestfield.org	Westfield (School District)	2008.0	3.0
+28029	http://www.mass.gov/eohhs/	Health and Human Services, Executive Office of	2008.0	1532.0
+28030	http://www.taunton-ma.gov/	Taunton	2008.0	310.0
+28031	http://www.sevenhillscharter.org	Seven Hills Charter Public (District) (School District)	2005.0	518.0
+28032	http://www.mass.gov/abcc/	Alcoholic Beverages Control Commission	2004.0	67.0
+28033	http://ewmlibrary.org/	Easthampton Public Library	2004.0	7023.0
+28035	http://midland.worcesterschools.org	Midland Street (School)	2010.0	1363.0
+28036	http://www.cityofeverett.com/	Everett	2000.0	194.0
+28037	http://www.wbrookfield.com/	West Brookfield	2008.0	344.0
+28038	http://brooklinebeep.org	Brookline Early Education Program at Beacon (School)	2010.0	64.0
+28039	http://quincypublicschools.com/	Lincoln-Hancock Community School (School)	2002.0	1480.0
+28040	http://www.cohassetlibrary.org/	Cohasset Public Library	2000.0	68.0
+28041	http://www.massschoolbuildings.org/	School Building Authority, Massachusetts	2006.0	1780.0
+28042	http://www.lee.ma.us/	Lee	2006.0	87.0
+28043	http://www.sec.state.ma.us/ele/eleidx.htm	Elections Division	0.0	52.0
+28044	http://www.maritime.edu/	Massachusetts Maritime Academy	2002.0	680.0
+28045	http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/csc/	Civil Service Commission	2011.0	18.0
+28046	http://www.ashburnham-ma.gov/	Ashburnham	2006.0	209.0
+28047	http://www.fallriverschools.org/tansey.cfm	James Tansey (School)	2008.0	609.0
+28049	http://www.bedford.k12.ma.us	Bedford (School District)	2000.0	745.0
+28050	http://dcrsd.org/Charlton.cfm?subpage=34756	Charlton Middle School (School)	0.0	788.0
+28051	http://unionhill.worcesterschools.org	Union Hill School (School)	2010.0	1468.0
+28052	http://www.northampton-k12.us	Northampton (School District)	2007.0	151.0
+28053	http://www.massachusetts.edu/buildingauthority/bahome.html	University of Massachusetts Building Authority	2006.0	76.0
+28054	http://www.chicopeeps.org/Stefanik/	Gen John J Stefanik (School)	0.0	34.0
+28055	http://lanesboroughschool.org/	Lanesborough (School District)	2010.0	221.0
+28056	http://wdlibrary.com/	West Dennis Public Library	2008.0	0.0
+28059	http://www.randolph.k12.ma.us/Pages/default.aspx	Randolph (School District)	2010.0	10.0
+28060	http://www.glcps.org	Global Learning Charter Public  (District) (School District)	2008.0	57.0
+28061	http://www.bedford.k12.ma.us/home/john-glenn-middle-school.html	John Glenn Middle (School)	2011.0	85.0
+28062	http://locke.billerica.k12.ma.us	Locke Middle (School)	2009.0	17.0
+28064	http://www.sec.state.ma.us/wso/wsoidx.htm	Western and Southeastern Offices	0.0	4.0
+28065	http://www.northfieldpubliclibrary.org	Northfield Public Library	2007.0	47.0
+28066	http://www.mpsd.org	Marshfield (School District)	2001.0	10.0
+28067	http://www.carlisle.k12.ma.us	Carlisle (School District)	2008.0	195.0
+28068	http://www.dennispubliclibrary.org	Dennisport Public Library	2005.0	40.0
+28069	http://www.danvers.govoffice.com/	Danvers	2006.0	1133.0
+28070	http://www.sudbury.ma.us/	Sudbury	1999.0	14064.0
+28071	http://www.marionma.gov/	Marion	2009.0	80.0
+28072	http://www.doe.mass.edu/apa/review/district/	Educational Quality and Accountability, Office of	0.0	2.0
+28073	http://www.bbrsd.org	Berlin-Boylston (School District)	2003.0	32.0
+28074	http://www.warren-ma.gov	Warren	2009.0	78.0
+28075	http://www.wareps.org/	Ware (School District)	2014.0	748.0
+28076	http://www.marlborough-ma.gov/	Marlborough	2003.0	372.0
+28077	http://www.burgy.org/	Williamsburg	2000.0	126.0
+28078	http://www.northbridgemass.org/	Northbridge	2002.0	3372.0
+28079	http://www.srpedd.org/	Southeastern Regional Planning and Economic Development District	1996.0	407.0
+28080	http://www.plainville.k12.ma.us/site/default.aspx?PageID=1	Beatrice H Wood Elementary (School)	2011.0	23.0
+28081	http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/	Geographic and Environmental Information (MassGIS), Office of	2012.0	278.0
+28082	http://www.noblenet.org/salem/	Salem Public Library	1999.0	711.0
+28083	http://www.worcester.edu/	Worcester State University	2008.0	0.0
+28084	http://www.mass.gov/edu/	Education, Executive Office of	2011.0	769.0
+28085	http://www.townofpembrokemass.org/	Pembroke	2002.0	1764.0
+28086	http://www.palmerschools.org/Highschool/HighSchool.html	Palmer High (School)	2002.0	16.0
+28087	http://sterlinglibrary.org/conant/	Sterling Public Library	2008.0	30.0
+28088	http://ab.mec.edu/rjweb/index.html	Raymond J Grey Junior High (School)	1999.0	59.0
+28090	http://www.mass.gov/lwd/labor-standards/das/	Apprentice Training, Division of	2012.0	201.0
+28091	http://goddard.worcesterschools.org	Goddard School/Science Technical (School)	2010.0	1458.0
+28092	http://wa.westfordk12.us/Pages/index	Westford Academy (School)	2007.0	1755.0
+28093	http://www.fairhaven-ma.gov/Pages/index	Fairhaven	2008.0	425.0
+28094	http://www.mapc.org/	Metropolitan Area Planning Council	1997.0	417.0
+28095	http://www.mass.gov/ocabr/government/oca-agencies/dpl-lp/	Licensure, Division of Professional	2011.0	217.0
+28096	http://doherty.worcesterschools.org	Doherty Memorial High (School)	2009.0	14700.0
+28097	http://www.mass.gov/hed/economic/eohed/bd/	Business Development, Massachusetts Office of	2011.0	37.0
+28098	http://lps.lexingtonma.org/fiskees	Fiske (School)	2011.0	1322.0
+28099	http://www.townofblackston.org/	Blackstone	2013.0	33.0
+28101	http://www.cambridgema.gov/cpl/hoursandlocations/boudreaubranch.aspx	Cambridge Public Library	2011.0	23.0
+28102	http://www.palmer.lib.ma.us	Palmer Public Library	1998.0	11.0
+28103	http://scituatetownlibrary.org	Scituate Public Library	2001.0	80.0
+28104	http://little.north-reading.k12.ma.us/Pages/index	E Ethel Little School (School)	2010.0	118.0
+28105	http://www.town.halifax.ma.us/	Halifax	2002.0	304.0
+28106	http://www.mass.gov/eopss/	Public Safety and Security, Executive Office of	2011.0	1777.0
+28108	http://kingstonpubliclibrary.org/	Kingston Public Library	2001.0	122.0
+28109	http://www.swanseaschools.org	Mark G Hoyle Elementary (School)	2001.0	383.0
+28110	http://www.hinsdalelibrary.org	Hinsdale Public Library	2002.0	61.0
+28111	http://www.edline.net/pages/falls_school	Falls (School)	2012.0	5.0
+28112	http://ditson.billerica.k12.ma.us	Thomas Ditson (School)	2008.0	17.0
+28113	http://www.uml.edu/	University of Massachusetts Lowell	1997.0	6332.0
+28114	http://www.miltonlibrary.org/	Milton Public Library	2000.0	71.0
+28115	http://www.bedfordlibrary.net/	Bedford Public Library	2002.0	84.0
+28116	http://www.newbedfordschools.org/elementary/campbell.htm	Elwyn G Campbell (School)	2009.0	0.0
+28117	http://dcrsd.org/CharltonElem.cfm?subpage=34764	Charlton Elementary (School)	0.0	976.0
+28120	http://www.beverlypubliclibrary.org/	Beverly Public Library	2009.0	122.0
+28121	http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/atb/	Appellate Tax Board	2011.0	8.0
+28123	http://dcrsd.org/Heritage.cfm?subpage=34760	Heritage School (School)	0.0	1281.0
+28125	http://medfield.net	Ralph Wheelock School (School)	1998.0	2526.0
+28126	http://www.mass.gov/ocabr/government/oca-agencies/dos-lp/	Standards, Division of	2011.0	46.0
+28127	http://www.drregional.org	Rehoboth (non-op) (School District)	2001.0	58.0
+28128	http://www.burgyschools.org/	Williamsburg Schools (School)	2009.0	11.0
+28129	http://www.mass.gov/eopss/agencies/dfs/	Firefighting Academy	2011.0	453.0
+28131	http://www.billerica.k12.ma.us	Billerica (School District)	2008.0	28.0
+28132	http://www.southbridge.k12.ma.us	Southbridge (School District)	2003.0	294.0
+28133	http://batchelder.north-reading.k12.ma.us/Pages/index	L D Batchelder (School)	2010.0	122.0
+28134	http://www.attleboroschools.com	Early Learning Center (School)	2002.0	289.0
+28135	http://www.mass.gov/ClientsSecurityBoard/	Clients Security Board	2004.0	50.0
+28136	http://wrentham.k12.ma.us/default.aspx	Charles E Roderick (School)	2006.0	0.0
+28137	http://www.lakevillema.org/	Lakeville	2003.0	153.0
+28139	http://www.cambridgema.gov/cpl/hoursandlocations/valentebranch.aspx	Cambridge Public Library	2011.0	23.0
+28140	http://www.pelham-library.org	Pelham Public Library	2003.0	33.0
+28141	http://www.fallriverschools.org/viveiros.cfm	Carlton M. Viveiros Elementary School (School)	2008.0	613.0
+28145	http://www.ludlow.ma.us/	Ludlow	2001.0	110.0
+28147	http://www.northshore.edu/	North Shore Community College	2002.0	510.0
+28149	http://www.mhl.org/	Andover Public Library	1997.0	854.0
+28150	http://www.mass.gov/ocabr/licensee/dpl-boards/re/	Real Estate Brokers & Salespersons, Board of Registration of	2011.0	173.0
+28151	http://home.comcast.net/~sherbornlibrary/	Sherborn Public Library	2003.0	1.0
+28152	http://jfk.northampton-k12.us	John F Kennedy Middle School (School)	2009.0	0.0
+28153	http://www.mass.gov/eopss/law-enforce-and-cj/law-enforce/mptc/	Training Committee, Municipal Police	2011.0	136.0
+28155	http://www.whrsd.org/page.cfm?p=25	Whitman Hanson Regional (School)	2008.0	1174.0
+28156	http://www.suttonma.org/	Sutton	2003.0	167.0
+28157	http://www.whrsd.org/page.cfm?p=26	Whitman Middle (School)	2008.0	1112.0
+28158	http://www.whrsd.org/page.cfm?p=30	Indian Head (School)	2008.0	1091.0
+28159	http://www.mass.gov/da/norfolk/	Norfolk District Attorney	2004.0	40.0
+28160	http://www.whrsd.org/page.cfm?p=27	Hanson Middle School (School)	2008.0	1018.0
+28161	http://www.hopedale-ma.gov/	Hopedale	2003.0	49.0
+28162	http://www.town.princeton.ma.us/	Princeton	2001.0	167.0
+28163	http://www.whrsd.org/page.cfm?p=29	John H Duval (School)	2008.0	1125.0
+28164	http://kennedyacademy.org	Edward M. Kennedy Academy for Health Careers (Horace Mann Charter School) (School District)	0.0	761.0
+28165	http://www.fallriverschools.org/silvia.cfm	North End Elementary (School)	2008.0	546.0
+28166	http://www.hanovermass.com/library/	Hanover Public Library	1997.0	36.0
+28168	http://www.aquinnah-ma.gov/	Aquinnah	2009.0	176.0
+28170	http://townofmtwashington.com/index.php	Mount Washington	2009.0	684.0
+28171	http://www.lynnfieldlibrary.org/	Lynnfield Public Library	2014.0	351.0
+28172	http://www.acton-ma.gov/	Acton	2003.0	660.0
+28173	http://www.newburyportpl.org	Newburyport Public Library	2001.0	153.0
+28174	http://www.lawrencelibrary.org	Pepperell Public Library	2001.0	18.0
+28175	http://www.cclighthouseschool.org	Cape Cod Lighthouse Charter (District) (School District)	2008.0	16.0
+28176	http://www.langleyadamslib.org	Groveland Public Library	2008.0	82.0
+28177	http://www.newbedfordschools.org/normand.htm	Normandin Middle School (School)	2009.0	0.0
+28178	http://westwarrenlibrary.org/	West Warren Public Library	2003.0	20.0
+28179	http://www.lillylibrary.org	Florence Public Library	2000.0	42.0
+28180	http://www.mass.gov/obcbbo/	Bar Counsel, Office of the	2004.0	1786.0
+28181	http://www.mass.gov/da/cape/	Cape & Islands District Attorney	2004.0	2.0
+28182	http://www.pvpa.org	Pioneer Valley Performing Arts Charter Public (District) (School District)	2001.0	540.0
+28183	http://www.scituate.k12.ma.us/	Scituate (School District)	2002.0	1668.0
+28185	http://flagg.worcesterschools.org	Flagg Street (School)	2010.0	1425.0
+28186	http://www.hwlibrary.org	South Hamilton Public Library	2002.0	59.0
+28187	http://www.lunenburgschools.net	Lunenburg Primary School (School)	2010.0	91.0
+28189	http://www.provincetown-ma.gov/	Provincetown	2003.0	1299.0
+28190	http://www.pacrim.org	Academy Of the Pacific Rim Charter Public (District) (School District)	0.0	683.0
+28191	http://www.mhlac.org	Mental Health Legal Advisors Committee	2011.0	39.0
+28192	http://mblc.state.ma.us/	Library Commissioners, Board of	2004.0	1288.0
+28193	http://www.petershamcenterschool.org	Petersham (School District)	2008.0	49.0
+28194	http://www.town.rehoboth.ma.us/	Rehoboth	2000.0	127.0
+28196	http://www.fallriverschools.org/fonseca.cfm	Mary Fonseca Elementary School (School)	2008.0	589.0
+28198	http://www.mass.gov/eopss/agencies/ocme/	Chief Medical Examiner, Office of the	2011.0	3.0
+28200	http://www.mass.gov/eea/agencies/mepa/	Environmental Policy Act (MEPA), Massachusetts	2012.0	70.0
+28201	http://www.hanson-ma.gov/	Hanson	2003.0	113.0
+28202	http://www.marblehead.org/	Marblehead	1999.0	1317.0
+28203	http://www.gdrsd.org	Groton-Dunstable (School District)	2000.0	843.0
+28204	http://ab.mec.edu	Acton-Boxborough (School District)	1996.0	163.0
+28205	http://monsonschools.com/mhs/	Monson Innovation High School (School)	2007.0	0.0
+28206	http://lps.lexingtonma.org/bowmanes	Bowman (School)	2011.0	1232.0
+28207	http://spsbentley.salemk12.org/Pages/index	Bentley (School)	2009.0	65.0
+28208	http://www.oxps.org	Alfred M Chaffee (School)	2001.0	329.0
+28209	http://www.northreadingma.gov/	North Reading	2006.0	202.0
+28210	http://www.tauntonschools.org	Taunton Alternative High School (School)	0.0	1752.0
+28211	http://www.ncces.org/content/	North Central Charter Essential (District) (School District)	2013.0	215.0
+28213	http://roxburyprep.uncommonschools.org/	Roxbury Preparatory Charter (District) (School District)	2011.0	57.0
+28214	http://www.swanseamass.org/	Swansea	2002.0	45.0
+28215	http://www.tauntonlibrary.org	Taunton Public Library	1998.0	30.0
+28216	http://www.agtech.org	Essex Agricultural and Technical Institute (School)	1998.0	0.0
+28218	http://www.tantasqua.org	Brookfield (School District)	1998.0	36.0
+28219	http://www.quaboag.org	West Brookfield (non-op) (School District)	1999.0	3.0
+28221	http://www.mvrcs.com	Mystic Valley Regional Charter (District) (School District)	2000.0	17.0
+28222	http://www.townofchesterfieldma.com/	Chesterfield	2008.0	211.0
+28223	http://www.everett.k12.ma.us	Madeline English School (School)	2002.0	121.0
+28224	http://www.carverma.org/	Carver	2001.0	403.0
+28225	http://www.cityofwestfield.org/	Westfield	2003.0	758.0
+28226	http://www.falmouthmass.us/	Falmouth	2007.0	2601.0
+28227	http://www.chicopeeps.org/CHS/	Chicopee High (School)	2013.0	58.0
+28228	http://www.amesburylibrary.org	Amesbury Public Library	2002.0	70.0
+28230	http://www.forbeslibrary.org/	Northampton Public Library	2001.0	1057.0
+28231	http://www.townofnorthandover.com/	North Andover	2001.0	247.0
+28232	http://bostongreenacademy.org/	Boston Green Academy Horace Mann Charter School (District) (School District)	2011.0	57.0
+28234	http://www.nmcog.org/	Northern Middlesex Council of Governments	2000.0	60.0
+28235	http://www.townofheath.org/	Heath	2001.0	226.0
+28236	http://cms.attleboroschools.com	Robert J. Coelho Middle School (School)	2001.0	10.0
+28237	http://www.edline.net/pages/Freetown_Elementary	Freetown Elementary School (School)	2011.0	11.0
+28238	http://vil.marbleheadschools.org/	Village School (School)	2008.0	2.0
+28239	http://www.gillmass.org/	Gill	2003.0	67.0
+28240	http://www.vhlibrary.org	Vineyard Haven Public Library	2000.0	29.0
+28241	http://www.belmont.lib.ma.us/	Belmont Public Library	2000.0	209.0
+28242	http://www.oakbluffsma.gov/	Oak Bluffs	2009.0	1411.0
+28243	http://www.mashpee.k12.ma.us	Kenneth Coombs School (School)	0.0	1026.0
+28244	http://www.mvrhs.org	Marthas Vineyard (School District)	2004.0	875.0
+28245	http://www.hccs-sabis.net	Holyoke Community Charter (District) (School District)	2006.0	30.0
+28246	http://www.leelibrary.org	Lee Public Library	2004.0	13.0
+28248	http://proctor.nsboro.k12.ma.us	Fannie E Proctor (School)	2012.0	63.0
+28249	http://www.hcc.edu/	Holyoke Community College	1998.0	1202.0
+28250	http://be.marbleheadschools.org/	Malcolm L Bell (School)	2008.0	388.0
+28251	http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/doer/	Energy Resources (DOER), Department of	2011.0	85.0
+28252	http://www.edline.net/pages/JCSolmonese	J C Solmonese (School)	2011.0	71.0
+28254	http://www.edline.net/pages/early_learning_ctr	North Attleborough Early Learning Center (School)	2012.0	9.0
+28255	http://www.dukescounty.org/	Gosnold	2001.0	316.0
+28256	http://www.aps1.net	Henry C Sanborn Elementary (School)	2001.0	1864.0
+28257	http://www.townsendlibrary.org	Townsend Public Library	2001.0	46.0
+28260	http://www.commcorp.org/	Commonwealth Corporation	2001.0	27.0
+28261	http://www.huntingtonma.us	Huntington	2012.0	181.0
+28262	http://portal.techhigh.us/Pages/default.aspx	Worcester Technical High (School)	2007.0	168.0
+28263	http://www.eastham-ma.gov	Eastham	2004.0	195.0
+28264	http://danverspublicschools.org/	Holten Richmond Middle School (School)	2013.0	1410.0
+28266	http://seekonk.sharpschool.com/	Seekonk (School District)	2007.0	1972.0
+28267	http://www.mass.gov/eohhs/gov/departments/dta/	Transitional Assistance, Department of	2011.0	32.0
+28268	http://www.mgrhs.org	Mt Greylock Regional High (School)	2000.0	254.0
+28270	http://www.beverlyschools.org/district/	Beverly (School District)	2007.0	94.0
+28271	http://www.whitmanpubliclibrary.org	Whitman Public Library	2003.0	30.0
+28272	http://www.mass.gov/eea/energy-utilities-clean-tech/energy-facilities-siting-board/	Energy Facilities Siting Board	2011.0	21.0
+28273	http://www.town.oxford.ma.us/	Oxford	2001.0	157.0
+28274	http://www.uppercapetech.com	Upper Cape Cod Regional Vocational Technical (School District)	2000.0	166.0
+28275	http://www.newtonma.gov/	Newton	2008.0	2014.0
+28276	http://www.cambridgema.gov/cpl/hoursandlocations/collinsbranch.aspx	Cambridge Public Library	2011.0	23.0
+28277	http://arrsd.org/	Athol-Royalston (School District)	2005.0	1012.0
+28278	http://www.newbedfordschools.org/elementary/devalles.htm	John B Devalles (School)	2009.0	0.0
+28279	http://www.framingham.k12.ma.us/brophy.cfm	Brophy (School)	2009.0	612.0
+28280	http://www.wilbraham-ma.gov/	Wilbraham	2004.0	683.0
+28282	http://www.mass.gov/hed/economic/eohed/dhcd/public-housing-and-rental-assistance.html	Public Housing and Rental Assistance, Division of	2011.0	161.0
+28283	http://www.pioneervalley.k12.ma.us/PVRSD/	Pioneer Valley (School District)	2005.0	8.0
+28284	http://burbank.nrsd.net/	Luther Burbank Middle School (School)	2004.0	39.0
+28285	http://www.uxbridgeschools.com	Taft Early Learning Center (School)	2007.0	192.0
+28286	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=92	Albert F. Argenziano School at Lincoln Park (School)	2009.0	2.0
+28287	http://fitchburgpubliclibrary.org	Fitchburg Public Library	2006.0	111.0
+28288	http://www.leominster.mec.edu	Center For Technical Education Innovation (School)	1999.0	258.0
+28289	http://www.agawamlibrary.org	Agawam Public Library	2005.0	149.0
+28290	http://www.virtualnorfolk.org	Norfolk	2000.0	185.0
+28292	http://www.merrimac01860.info/	Merrimac	2004.0	200.0
+28293	http://www.nps.org/balmer	W Edward Balmer (School)	2010.0	1860.0
+28294	http://www.asrsd.org	Ayer Shirley School District (School District)	2011.0	12.0
+28295	http://www.westonschools.org	Field Elementary School (School)	2002.0	3232.0
+28296	http://www.mass.gov/eea/agencies/dcr/water-res-protection/watershed-mgmt/	Water Supply Protection, Division of	2013.0	41.0
+28297	http://bms.westfordk12.us/Pages/index	Blanchard Middle (School)	2007.0	2159.0
+28298	http://www.oldcolony.us	Old Colony Regional Vocational Technical (School District)	2006.0	671.0
+28299	http://www.arps.org	Amherst-Pelham (School District)	2001.0	1815.0
+28300	http://westfordk12.us/Pages/index	Westford (School District)	2007.0	1911.0
+28302	http://www.edline.net/pages/Henri_A_Yelle_ES	Henri A. Yelle (School)	2011.0	46.0
+28303	http://www.fallriverschools.org/greene.cfm	William S Greene (School)	2008.0	642.0
+28304	http://www.town.boxford.ma.us/	Boxford	2003.0	169.0
+28305	http://www.newbedfordschools.org/elementary/parker.htm	John Avery Parker (School)	2009.0	0.0
+28306	http://www.fallriverschools.org/kuss.cfm	Matthew J Kuss Middle (School)	2008.0	540.0
+28307	http://www.sheffieldma.gov/	Sheffield	2006.0	140.0
+28308	http://www.monson-ma.gov	Monson	2004.0	145.0
+28310	http://www.joneslibrary.org/	Amherst Public Library	2000.0	166.0
+28312	http://www.westport-ma.com/	Westport	2006.0	13.0
+28313	http://www.newmarlboroughma.gov/pages/index	New Marlborough	2012.0	148.0
+28314	http://www.edline.net/pages/Gov_Edward_Winslow	Gov Edward Winslow (School)	2012.0	12.0
+28315	http://www.nbschools.org	North Brookfield Elementary (School)	2001.0	116.0
+28316	http://chandlermagnet.worcesterschools.org	Chandler Magnet (School)	2010.0	1760.0
+28317	http://www.falmouth.k12.ma.us	Falmouth (School District)	1999.0	6.0
+28318	http://www.millburyschools.org	Millbury (School District)	2013.0	217.0
+28319	http://www.townofleyden.com/	Leyden	2003.0	18.0
+28320	http://townofshelburne.com/	Shelburne	2004.0	527.0
+28321	http://www.midlib.org	Middleborough Public Library	2001.0	57.0
+28322	http://www.westonlibrary.org	Weston Public Library	2003.0	56.0
+28323	http://www.massdot.state.ma.us/Transit/	Transit Division	2009.0	64.0
+28324	http://www.city.waltham.ma.us/	Waltham	1998.0	5524.0
+28325	http://heard.worcesterschools.org	Heard Street (School)	2010.0	1288.0
+28326	http://www.harwich-ma.gov	Harwich	2008.0	273.0
+28327	http://www.massachusetts.edu/index.html	University of Massachusetts System Office	2006.0	216.0
+28330	http://south.worcesterschools.org	South High Community (School)	2009.0	12902.0
+28332	http://schools.shrewsbury-ma.gov	Sherwood Middle School (School)	2009.0	9456.0
+28333	http://www.flintlibrary.org/	Middleton Public Library	2000.0	25.0
+28334	http://www.plymouthpubliclibrary.org	Plymouth Public Library	2003.0	388.0
+28335	http://www.mass.gov/eohhs/gov/departments/dcf/	Children and Families, Department of	2011.0	86.0
+28337	http://www.norwood.k12.ma.us	Norwood (School District)	2001.0	1550.0
+28338	http://www.mass.gov/eohhs/gov/departments/dph/programs/health-stats/vitals/	Vital Records & Statistics, Registry of	2012.0	19.0
+28339	http://www.newbedfordschools.org/elementary/hathaway.htm	Ellen R Hathaway (School)	2009.0	0.0
+28340	http://lps.lexingtonma.org/site/default.aspx?PageID=1	Lexington (School District)	2011.0	41.0
+28341	http://www.yarmouth.ma.us/	Yarmouth	1998.0	1406.0
+28342	http://www.hcsdmass.org/	Sheriff's Department, Hampden County	2005.0	15.0
+28343	http://www.concordpublicschools.net	Concord-Carlisle (School District)	2008.0	53.0
+28344	http://www.massculturalcouncil.org/	Cultural Council, Massachusetts	1998.0	134.0
+28345	http://spsbentley.salemk12.org/pages/SPS_DistECC/index	Salem Early Childhood (School)	2009.0	3.0
+28346	http://www.bostonpublicschools.org/site/default.aspx?PageID=1	Dr. Catherine Ellison-Rosa Parks Early Ed School (School)	2014.0	6.0
+28347	http://www.mass.gov/cjc/	Judicial Conduct, Commission on	2004.0	49.0
+28348	http://www.woodsholepubliclibrary.org	Woods Hole Public Library	0.0	84.0
+28349	http://www.wellesley.k12.ma.us	Sprague Elementary School (School)	2010.0	3516.0
+28350	http://www.plymouth.k12.ma.us	Plymouth Commun Intermediate (School)	2001.0	682.0
+28352	http://www.hudson.k12.ma.us	Forest Avenue Elementary (School)	1998.0	89.0
+28353	http://www.dalton-ma.gov/	Dalton	2005.0	1992.0
+28355	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=89	Arthur D Healey (School)	2009.0	1.0
+28356	http://cs.westfordk12.us/Pages/index	John A. Crisafulli Elementary School (School)	2007.0	951.0
+28357	http://hbms.nmrsd.org	Hawthorne Brook (School)	2012.0	38.0
+28358	http://lfdcs.org	Lawrence Family Development Charter (District) (School District)	2003.0	3896.0
+28359	http://www.cityofwoburn.com/	Woburn	2004.0	809.0
+28360	http://www.eldredgelibrary.org	Chatham Public Library	2002.0	61.0
+28361	http://www.wbschools.com	West Boylston Junior/Senior High (School)	2002.0	4966.0
+28362	http://cohasset.jos.schoolfusion.us/	Joseph Osgood (School)	2010.0	1886.0
+28363	http://www.acushnetschools.us/aps/	Albert F Ford Middle School (School)	2006.0	18.0
+28364	http://www.wenhamma.gov/	Wenham	2004.0	208.0
+28365	http://www.revere.org/	Revere	1999.0	594.0
+28366	http://www.richmondma.org/	Richmond	2007.0	136.0
+28367	http://www.fairhavenps.org/	Fairhaven (School District)	1999.0	119.0
+28368	http://www.townofgreenfield.org/	Greenfield	1999.0	250.0
+28371	http://mansfieldma.com	Mansfield	1999.0	153.0
+28372	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=87	E Somerville Community (School)	2009.0	3.0
+28373	http://dightonlibrary.org/	Dighton Public Library	2007.0	221.0
+28374	http://www.townofbourne.com/	Bourne	1999.0	351.0
+28375	http://middleeast.milfordpublicschools.com	Milford Middle East (School)	2011.0	3274.0
+28376	http://www.gnbvt.edu	Greater New Bedford Regional Vocational Technical (School District)	2001.0	16.0
+28377	http://wes.westportschools.org	Westport Elementary (School)	2012.0	51.0
+28378	https://www.edline.net/pages/Norton_High_School	Norton High (School)	2012.0	310.0
+28379	http://www.town.medfield.net/	Medfield	2000.0	2052.0
+28380	http://mass-ventures.com/	Massachusetts Technology Development Corporation (MassVentures)	2012.0	154.0
+28381	http://www.chicopeeps.org/Selser/	Selser (School)	0.0	39.0
+28382	http://www.town.dartmouth.ma.us/	Dartmouth	1998.0	293.0
+28383	http://www.mass.gov/ocabr/licensee/dpl-boards/pa/	Public Accountancy, Board of	2011.0	65.0
+28384	http://www.mass.gov/treasury/retirement/state-board-of-retire/	Retirement, State Board of	2011.0	14.0
+28385	http://www.clintonma.gov/	Clinton	2008.0	42.0
+28386	http://waltham.lib.ma.us/	Waltham Public Library	2000.0	288.0
+28387	http://www.banneker.org/education/school/school.php?sectionid=202	Benjamin Banneker Charter Public (District) (School District)	2012.0	0.0
+28388	http://www.townofgroton.org/	Groton	1998.0	712.0
+28389	http://www.burlington.org/residents/schools/burlington_public_schools/index.php	Francis Wyman Elementary (School)	2012.0	2.0
+28390	http://www.cambridgema.gov/election	Cambridge	2007.0	2110.0
+28391	http://www.hampden.org/	Hampden	1998.0	298.0
+28392	http://www.dy-regional.k12.ma.us/dennis-yarmouth-regional-high-school	Dennis-Yarmouth Regional High (School)	2012.0	7636.0
+28393	http://www.edline.net/pages/Marshfield_High_School	Marshfield High (School)	2011.0	15.0
+28394	http://www.mass.gov/eopss/agencies/parole-board/	Parole Board	2011.0	35.0
+28395	http://www.thecommunitygroupinc.org/cdc-public-school-prospect/index.aspx	Community Day Charter Public School - Prospect (District) (School District)	2013.0	111.0
+28396	http://vbes.nmrsd.org	Varnum Brook (School)	2012.0	34.0
+28397	http://jackson.northampton-k12.us	Jackson Street (School)	2008.0	0.0
+28399	http://www.athol-ma.gov/	Athol	2007.0	648.0
+28400	http://www.pembrokepubliclibrary.org	Pembroke Public Library	2002.0	13.0
+28402	http://www.framinghamma.gov/	Framingham	2005.0	1098.0
+28404	http://www.townofware.com/	Ware	2002.0	175.0
+28405	http://www.hilltowncharter.org	Hilltown Cooperative Charter Public School (School)	2002.0	35.0
+28409	http://www.mass.gov/bbe/bbeindex.htm	Bar Examiners, Board of	2004.0	20.0
+28410	http://www.nrsd.net/	Nashoba (School District)	0.0	231.0
+28412	http://www.freelake.org	Lakeville (non-op) (School District)	2006.0	14.0
+28413	http://www.baypath.tec.ma.us	Southern Worcester County Regional Vocational Technical (School District)	1998.0	105.0
+28414	http://www.wakefield.k12.ma.us	Wakefield Memorial High (School)	2001.0	172.0
+28415	http://www.mass.gov/hed/housing/	Housing Development, Division of	2011.0	90.0
+28416	http://www.mass.gov/eopss/agencies/dcjis/	Department of Criminal Justice Information Services (formerly Criminal History Systems Board)	2011.0	17.0
+28417	http://www.town.pepperell.ma.us/	Pepperell	1999.0	1005.0
+28418	http://www.mass.gov/courts/courtsandjudges/courts/probateandfamilycourt/	Probate and Family Court Department	2004.0	45.0
+28419	http://www.publiccounsel.net/	Committee for Public Counsel Services	2008.0	81.0
+28420	http://mvyps.org	Edgartown (School District)	2007.0	49.0
+28421	http://www.plainville.ma.us/	Plainville	2003.0	54.0
+28422	http://www.chicopeeps.org/Bowie/	Bowie (School)	0.0	36.0
+28423	http://www.mass.gov/eohhs/gov/departments/mrc/	Rehabilitation Commission, Massachusetts	2011.0	16.0
+28424	http://www.edline.net/pages/JWM_Elementary_School	Joseph W Martin Jr Elementary (School)	2012.0	10.0
+28425	http://www.ocpcrpa.org/	Old Colony Planning Council	2000.0	125.0
+28426	http://www.town.hull.ma.us/	Hull	2001.0	152.0
+28427	http://www.sturgislibrary.org	Barnstable Public Library	2006.0	152.0
+28428	http://www.methuen.k12.ma.us	Comprehensive Grammar School (School)	1999.0	95.0
+28429	http://www.kingphilip.org	King Philip Middle School (School)	1998.0	813.0
+28431	http://www.town.canton.ma.us/	Canton	2001.0	59.0
+28434	http://www.medfieldlibrary.org	Medfield Public Library	2002.0	2.0
+28436	http://hs.north-reading.k12.ma.us/Pages/index	North Reading High (School)	2010.0	162.0
+28437	http://www.town.brewster.ma.us/	Brewster	2000.0	715.0
+28438	http://www.sharon.k12.ma.us	Heights Elementary (School)	1998.0	40.0
+28439	http://www.montague.net	Turners Falls Public Library	1998.0	145.0
+28440	http://www.sec.state.ma.us/	Commonwealth, Secretary of the	0.0	321.0
+28441	http://thoreau.colonial.net/	Thoreau (School)	2007.0	176.0
+28442	http://www.brimfieldpubliclibrary.org/	Brimfield Public Library	2002.0	104.0
+28443	http://www.lowellma.gov/Pages/Home.aspx	Lowell	0.0	617.0
+28444	https://malegislature.gov/People/Senate	Senate	2010.0	979.0
+28445	http://www.corbinlibrary.org	Webster Public Library	2003.0	17.0
+28446	http://www.chicopeeps.org/Litwin/	Litwin (School)	0.0	35.0
+28447	http://www.townofpalmer.com/	Palmer	2001.0	1254.0
+28448	http://trottier.nsboro.k12.ma.us	P Brent Trottier (School)	2011.0	98.0
+28449	http://wss.southbridge.k12.ma.us	West Street (School)	2009.0	1882.0
+28451	http://www.framingham.k12.ma.us/blocks.cfm	Blocks Pre-School @ King (School)	2009.0	628.0
+28452	http://conservatorylab.org/	Conservatory Lab Charter (District) (School District)	2002.0	86.0
+28453	http://www.umass.edu/	University of Massachusetts Amherst	1997.0	3341.0
+28456	http://www.town.dennis.ma.us/	Dennis	2000.0	736.0
+28457	http://www.warelibrary.org	Ware Public Library	2003.0	32.0
+28458	http://www.mass.gov/courts/jury/index2.htm	Jury Commissioner, Office of	2004.0	68.0
+28459	http://www.gardnerk12.org	Gardner Academy for Learning and Technology (School)	2001.0	34.0
+28460	http://www.townofrochestermass.com/	Rochester	2004.0	43.0
+28461	http://www.truro-ma.gov/	Truro	2003.0	3468.0
+28462	http://www.sturbridgelibrary.org	Sturbridge Public Library	2003.0	67.0
+28463	http://www.cambridgema.gov/cpl/hoursandlocations/centralsquarebranch.aspx	Cambridge Public Library	2011.0	23.0
+28464	http://www.westhamptonelementaryschool.org/	Westhampton Elementary School (School)	2004.0	15.0
+28465	http://www.framingham.k12.ma.us	Framingham (School District)	1998.0	598.0
+28466	http://www.umassd.edu/	University of Massachusetts Dartmouth	1997.0	4399.0
+28467	http://wms.westportschools.org	Westport Middle (School)	2012.0	52.0
+28468	http://www.quincyma.gov/	Quincy	2009.0	1299.0
+28469	http://www.nps.org/nms	Northbridge Middle (School)	2010.0	1827.0
+28470	http://www.masslottery.com/	Lottery, State	1998.0	72.0
+28471	http://www.dartmouthps.schoolfusion.us	Andrew B. Cushman School (School)	2009.0	1128.0
+28472	http://dracutps.org/	Dracut (School District)	2012.0	5562.0
+28473	http://www.westwood.k12.ma.us	E W Thurston Middle (School)	1999.0	1055.0
+28474	http://www.bridgewaterma.org/	Bridgewater	2002.0	201.0
+28477	http://leverettlibrary.org	Leverett Public Library	2004.0	41.0
+28478	http://www.townofbecket.org/	Becket	2002.0	187.0
+28479	http://www.newbedfordschools.org/elementary/swift.htm	Jireh Swift (School)	2009.0	0.0
+28480	http://www.mass.gov/hed/	Economic Development, Executive Office of Housing and	2011.0	691.0
+28482	http://www.milfordpublicschools.com	Milford (School District)	2003.0	246.0
+28483	http://www.westtisburylibrary.org	Vineyard Haven Public Library	2008.0	58.0
+28484	http://www.edline.net/pages/Allen_Avenue_School	Allen Avenue (School)	2012.0	7.0
+28485	http://www.mass.gov/treasury/unclaimed-prop/	Property, Abandoned	2011.0	22.0
+28486	http://www.seb.mec.edu	Spencer-E Brookfield (School District)	2011.0	449.0
+28487	http://www.norwellpubliclibrary.org	Norwell Public Library	2003.0	67.0
+28489	http://www.cityofmalden.org/	Malden	2004.0	2096.0
+28490	http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/sac/	Boxing Commission	2011.0	16.0
+28492	http://www.holliston.k12.ma.us	Robert H. Adams Middle School (School)	2000.0	707.0
+28493	http://www.mass.gov/anf/budget-taxes-and-procurement/procurement-info-and-res/procurement-prog-and-serv/sdo/sdp/	Affirmative Market Program	2011.0	10.0
+28494	http://www.noblenet.org/everett/	Everett Public Library	1998.0	19.0
+28495	http://www.mbta.com/	Transportation Authority, Massachusetts Bay	1996.0	1227.0
+28496	http://www.wes.whately.ma.us	Whately Elementary (School)	2001.0	11.0
+28497	http://www.brooksfreelibrary.org/brooks/	Harwich Public Library	2012.0	96.0
+28499	http://www.mass.gov/lwd/employment-services/	Workforce Development, Department of	2011.0	203.0
+28500	http://www.sec.state.ma.us/trs/trsidx.htm	State House Tours	0.0	12.0
+28501	http://QuincyPublicSchools.com	Quincy (School District)	2002.0	1499.0
+28502	http://www.littletonps.org/home/index.php/sls-home	Shaker Lane Elementary (School)	2011.0	491.0
+28503	http://www.townofgb.org/	Great Barrington	2007.0	156.0
+28504	http://www.townofcohasset.org/	Cohasset	2006.0	137.0
+28506	http://www.salisburyma.gov/	Salisbury	2004.0	182.0
+28508	http://www.petershamlibrary.net/	Petersham Public Library	2010.0	13.0
+28510	http://leeds.northampton-k12.us	Leeds (School)	2007.0	0.0
+28511	http://www.grafton.nses.schoolfusion.us/	North Street Elementary School (School)	2012.0	286.0
+28513	http://www.granbylibrary.com	Granby Public Library	2002.0	57.0
+28514	http://www.lenoxps.org	Lenox Memorial High (School)	2001.0	98.0
+28516	http://www.nantucketatheneum.org	Nantucket Public Library	2002.0	114.0
+28517	http://www.jacobedwardslibrary.org	Southbridge Public Library	2004.0	31.0
+28518	http://www.unlocking-potential.org	UP Academy Charter School of Boston (District) (School District)	2011.0	40.0
+28519	http://www.newbedfordschools.org/westside.htm	Trinity Day Academy (School)	2009.0	0.0
+28521	http://www.sandwich.k12.ma.us/oakridge/	Oak Ridge (School)	0.0	14.0
+28523	http://www.bhcc.mass.edu/	Bunker Hill Community College	2001.0	1306.0
+28525	http://roosevelt.worcesterschools.org	Roosevelt (School)	2009.0	1911.0
+28527	http://www.tolland-ma.gov/public_documents/	Tolland Public Library	2005.0	338.0
+28528	http://www.mendonma.gov/	Mendon	2010.0	2640.0
+28529	http://www.cityofattleboro.us/	Attleboro	2004.0	3.0
+28530	http://www.georgetownma.gov/	Georgetown	2004.0	111.0
+28531	http://vernonhill.worcesterschools.org	Vernon Hill School (School)	2010.0	1244.0
+28532	http://www.sandwich.k12.ma.us/forestdale/	Forestdale (School)	0.0	16.0
+28533	http://www.mass.gov/anf/research-and-tech/oversight-agencies/itd/	Information Technology Division	2011.0	14.0
+28534	http://www.mass.gov/eohhs/gov/departments/dys/	Youth Services, Department of	2011.0	40.0
+28535	http://www.wrsd.net/ecc/	Early Childhood Center (School)	2009.0	20.0
+28536	http://www.foxboroughrcs.org	Foxborough Regional Charter (District) (School District)	2006.0	240.0
+28537	http://www.norfolkaggie.org	Norfolk County Agricultural (School District)	2001.0	11.0
+28538	http://www.mass.gov/mova/	Victim Assistance, Massachusetts Office for	2004.0	63.0
+28539	http://www.mass.gov/eohhs/gov/departments/hly/	Holyoke, The Soldiers' Home in	2011.0	37.0
+28540	http://www.townofcharlton.net/	Charlton	2001.0	105.0
+28541	http://www.mass.gov/anf/research-and-tech/oversight-agencies/lib/	Library of Massachusetts, State	2011.0	39.0
+28542	http://www.holbrookpubliclibrary.org	Holbrook Public Library	2004.0	16.0
+28543	http://whrsd.k12.ma.us	Whitman (non-op) (School District)	1998.0	1017.0
+28545	http://www.fallriverschools.org/doran.cfm	John J Doran (School)	2008.0	609.0
+28546	http://www.nortonlibrary.org	Norton Public Library	2004.0	29.0
+28547	http://www.fitchburgstate.edu/	Fitchburg State University	2010.0	1055.0
+28548	http://ers.southbridge.k12.ma.us	Eastford Road (School)	2010.0	904.0
+28549	http://www.mansfieldschools.com	Jordan/Jackson Elementary (School)	1999.0	158.0
+28552	http://www.westboylston.com	West Boylston	1999.0	238.0
+28554	http://marshall.billerica.k12.ma.us/	Marshall Middle School (School)	2009.0	15.0
+28555	http://www.nattleboro.com/	North Attleborough	2011.0	2006.0
+28557	http://www.franklin.k12.ma.us	Annie Sullivan Middle School (School)	2000.0	1.0
+28558	http://milford.ma.us/	Milford	1998.0	352.0
+28561	http://www.andoverma.gov/	Andover	2004.0	2.0
+28562	http://www.bptech.org.	Bristol-Plymouth Regional Vocational Technical (School District)	2000.0	2.0
+28563	http://www.medwayschools.org/	Medway Middle (School)	2005.0	1434.0
+28564	http://www.townofblandford.com/	Blandford	2010.0	33.0
+28566	http://dcrsd.org	Dudley-Charlton Reg (School District)	0.0	1711.0
+28567	http://www.chicopeeps.org/Streiber/	Streiber Memorial School (School)	0.0	42.0
+28569	http://thehuntingtonpubliclibrary.org/	Huntington Public Library	2008.0	33.0
+28572	http://www.sec.state.ma.us/mus/museum/index.htm	Museum, Commonwealth	0.0	41.0
+28573	http://www.stoneham-ma.gov/	Stoneham	2006.0	3544.0
+28575	http://www.agawampublicschools.org	Agawam Early Childhood Center (School)	2000.0	84.0
+28576	http://www.smithleadership.org	Smith Leadership Academy Charter Public (District) (School District)	2003.0	26.0
+28577	http://www.boxlib.org	Boxborough Public Library	2001.0	23.0
+28580	http://www.cityonahill.org	City On A Hill Charter Public (District) (School District)	2001.0	65.0
+28581	http://bms.attleboroschools.com	Cyril K. Brennan Middle School (School)	2001.0	4.0
+28582	http://www.hopkinton.k12.ma.us/site/default.aspx?PageID=1	Hopkins Elementary School (School)	2012.0	59.0
+28584	http://www.mass.gov/eohhs/gov/departments/dph/	Public Health, Department of	2011.0	1335.0
+28585	https://www.chicopeema.gov/page.php?id=1	Chicopee	2009.0	405.0
+28586	http://spscollins.salemk12.org/Pages/index	Collins Middle (School)	2009.0	96.0
+28587	http://www.dplma.org/	Dartmouth Public Library	2013.0	380.0
+28588	http://www.norwellschools.org/site/default.aspx?PageID=1	Norwell Middle School (School)	2012.0	71.0
+28589	http://www.nmrsd.org	Squannacook Early Childhood Center (School)	2012.0	91.0
+28590	http://www.scsdma.org/	Sheriff's Department, Suffolk County	2001.0	105.0
+28591	http://www.southwickma.org/	Southwick	2001.0	198.0
+28592	http://www.lsrhs.net	Lincoln-Sudbury Regional High (School)	1998.0	305.0
+28593	http://www.needhamma.gov/index.aspx?nid=3031	Needham Public Library	2013.0	1593.0
+28594	http://www.barrelibrary.org	Barre Public Library	2005.0	32.0
+28595	http://www.holdenma.gov/Pages/index	Holden	0.0	2615.0
+28597	http://smhs.southbridge.k12.ma.us	Southbridge Middle/High School (School)	2012.0	2564.0
+28598	http://www.edline.net/pages/Bristol_County_Agr_High	Bristol County Agricultural (School District)	2011.0	37.0
+28599	http://hres.attleboroschools.com	Hill-Roberts Elementary School (School)	2001.0	19.0
+28600	http://www.newbedfordschools.org/elementary/lincoln.htm	Abraham Lincoln (School)	2009.0	0.0
+28602	http://wes.attleboroschools.com	Thomas E. Willett School (School)	2001.0	57.0
+28603	http://www.edline.net/pages/Martinson_Elementary	Martinson Elementary (School)	2013.0	11.0
+28604	http://mwcc.edu/	Mount Wachusett Community College	2002.0	2483.0
+28605	http://www.salemacademycs.org	Salem Academy Charter (District) (School District)	2003.0	0.0
+28606	http://www.frrsd.org	Farmington River Reg (School District)	2011.0	106.0
+28607	http://nhs.northampton-k12.us/	Northampton High (School)	2013.0	0.0
+28608	http://www.massdevelopment.com/	Development Finance Agency, Massachusetts	2001.0	774.0
+28609	http://www.massasoit.mass.edu/	Massasoit Community College	1999.0	199.0
+28610	http://www.chelseaschools.com/cps/	Eugene Wright Science and Technology Academy (School)	2009.0	320.0
+28611	http://www.chicopeepubliclibrary.org	Chicopee Public Library	1999.0	135.0
+28612	http://www.wilmingtonma.gov	Wilmington	2011.0	169.0
+28613	http://www.auburnlibrary.org/auburn/	Auburn Public Library	2010.0	47.0
+28614	http://www.lunenburgpubliclibrary.org/	Lunenburg Public Library	2013.0	12.0
+28615	http://www.phillipston-ma.gov/	Phillipston	2006.0	42.0
+28616	http://www.plymptonschool.org	Thomas R Plympton Elementary School (School)	2002.0	0.0
+28617	http://www.mass.gov/eohhs/gov/departments/dmh/	Mental Health, Department of	2011.0	53.0
+28618	http://www.townofconway.com/	Conway	2006.0	298.0
+28619	http://www.necc.mass.edu/	Northern Essex Community College	1996.0	994.0
+28621	http://www.thayermemoriallibrary.org	Lancaster Public Library	2007.0	1.0
+28622	http://www.town.duxbury.ma.us/	Duxbury	2001.0	227.0
+28623	http://www.mass.gov/eea/agencies/dcr/	Conservation and Recreation, Department of	2013.0	709.0
+28624	http://www.qrsd.org	Quabbin Regional Middle School (School)	2007.0	308.0
+28625	http://may.worcesterschools.org	May Street (School)	2010.0	1367.0
+28626	http://lps.lexingtonma.org/lexingtonhs	Lexington High (School)	2011.0	1483.0
+28628	http://www.ebrooke.org	Edward W. Brooke Charter School 3 (District) (School District)	2003.0	60.0
+28629	http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/business-assistance/	Technical Assistance and Technology (OTA), Office of	2011.0	24.0
+28630	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=97	West Somerville Neighborhood (School)	2009.0	2.0
+28633	http://woodland.worcesterschools.org	Woodland Academy (School)	2010.0	1393.0
+28634	http://www.wnewbury.org/	West Newbury	2009.0	145.0
+28635	http://www.sturgischarterschool.org	Sturgis Charter Public (District) (School District)	2001.0	107.0
+28636	http://www.mvcommission.org/	Martha's Vineyard Commission	2004.0	237.0
+28637	http://www.mass.gov/lwd/unemployment-insur/understanding-ui/bor/	Board of Review	2011.0	154.0
+28639	http://www.hopkintonma.gov/	Hopkinton	2012.0	300.0
+28640	http://www.mass.gov/hed/economic/eohed/dhcd/hac.html	Housing Appeals Committee	2011.0	161.0
+28641	http://elmpark.worcesterschools.org	Elm Park Community (School)	2010.0	1558.0
+28642	http://savoyelementary.com/	Emma L Miller Elementary School (School)	2013.0	18.0
+28643	http://www.walpole.k12.ma.us/dfp/	Daniel Feeney Preschool Center (School)	2014.0	498.0
+28644	http://www.massbay.edu/	Massachusetts Bay Community College	2002.0	749.0
+28645	http://www.des.deerfield.ma.us	Deerfield Elementary (School)	1999.0	11.0
+28649	http://lps.lexingtonma.org/clarkems	Jonas Clarke Middle (School)	2011.0	1268.0
+28650	http://www.amsacs.org	Advanced Math and Science Academy Charter (District) (School District)	0.0	1084.0
+28651	http://www.townofrowley.net/common/index.php?com=rowl&div=AA&nav=AA&page=A91	Rowley	0.0	185.0
+28652	http://www.beverlyma.gov/	Beverly	2004.0	650.0
+28653	http://www.athollibrary.org	Athol Public Library	2000.0	2575.0
+28654	http://www.holyokelibrary.org/holyokenew/	Holyoke Public Library	2014.0	60.0
+28655	http://www.minuteman.org	Minuteman Regional Vocational Technical (School District)	1998.0	518.0
+28657	http://www.mattapoisett.net/	Mattapoisett	1999.0	236.0
+28658	http://www.chelmsfordcommunityeducation.org	Community Education Center (School)	2002.0	2.0
+28659	http://www.frontierregionalandunion38.com	Sunderland (School District)	2002.0	29.0
+28660	http://www.mass.gov/ocabr/licensee/dpl-boards/ra/	Real Estate Appraisers, Board of Registration of	2011.0	80.0
+28662	http://www.rcc.mass.edu/	Roxbury Community College	1999.0	1773.0
+28664	http://ns.westfordk12.us/Pages/index	Nabnasset (School)	2007.0	164.0
+28665	http://www.mass.gov/eea/grants-and-tech-assistance/grants-and-loans/mass-enviro-trust/	Environmental Trust, Massachusetts	2011.0	12.0
+28666	http://www.manchester.ma.us/	Manchester-By-The-Sea	2000.0	176.0
+28667	http://www.tolland-ma.gov/	Tolland	2004.0	41.0
+28668	http://www.foxboroughma.gov	Foxborough	2009.0	411.0
+28669	http://millburyschools.sharepointsite.com/hs/default.htm	Millbury Junior/Senior High (School)	0.0	42.0
+28670	http://www.needhamma.gov/	Needham	2007.0	1717.0
+28672	http://www.newbedfordschools.org/elementary/winslow.htm	Betsey B Winslow (School)	2009.0	0.0
+28674	http://bfccps.org/	Benjamin Franklin Classical Charter Public (District) (School District)	2004.0	918.0
+28675	http://www.lccps.org	Lowell Community Charter Public (District) (School District)	2006.0	37.0
+28676	http://www.dy-regional.k12.ma.us	Laurence C MacArthur Elementary (School)	1998.0	7323.0
+28677	http://www.mass.gov/courts/courtsandjudges/courts/superiorcourt/	Superior Court Department	2004.0	17.0
+28678	http://www.arlington.k12.ma.us/home/	M Norcross Stratton (School)	2005.0	4.0
+28679	http://grafton.worcesterschools.org	Grafton Street (School)	2010.0	1607.0
+28681	http://www.whately.org/library	Whately Public Library	2009.0	743.0
+28683	http://www.mass.gov/eea/	Energy and Environmental Affairs, Executive Office of	2011.0	5373.0
+28684	http://www.fallriverma.org/	Fall River	2002.0	782.0
+28685	http://www.somerset.k12.ma.us	Somerset Middle School (School)	2001.0	12.0
+28686	http://www.abingtonpl.org	Abington Public Library	2003.0	34.0
+28687	http://www.washington-ma.com/	Washington	2010.0	48.0
+28689	http://www.amherstma.gov/	Amherst	2004.0	1578.0
+28690	http://www.kingstonmass.org/	Kingston	2002.0	973.0
+28692	http://www.avonpubliclibrary.org	Avon Public Library	2004.0	12.0
+28696	http://www.newbedfordschools.org/elementary/pacheco.htm	Carlos Pacheco (School)	2009.0	0.0
+28697	http://www.winchester.k12.ma.us	Vinson-Owen Elementary (School)	2001.0	14.0
+28698	http://www.mass.gov/anf/	Administration and Finance, Executive Office for	2011.0	3443.0
+28699	http://www.princetonpubliclibrary.org	Princeton Public Library	2009.0	33.0
+28700	http://hfes.attleboroschools.com	Hyman Fine Elementary School (School)	2001.0	24.0
+28701	http://www.ashlandmass.com	Ashland Public Library	1998.0	153.0
+28702	http://www.haverhillpl.org/	Haverhill Public Library	2000.0	284.0
+28703	http://web.wrsd.net/highschool/	Wachusett Regional High (School)	2009.0	62.0
+28705	http://www.edline.net/pages/Eames_Way_School	Eames Way School (School)	2012.0	8.0
+28706	http://www.mass.gov/mcad/	Commission Against Discrimination, Massachusetts	2004.0	67.0
+28709	http://www.shirleylibrary.org	Shirley Public Library	2002.0	137.0
+28710	http://www.worcesterschools.org	Worcester (School District)	2009.0	1409.0
+28711	http://lakeview.worcesterschools.org	Lake View (School)	2009.0	1271.0
+28712	http://www.seekonkpl.org/	Seekonk Public Library	1998.0	160.0
+28713	http://www.concordma.gov	Concord	2007.0	420.0
+28714	http://www.framingham.k12.ma.us/fuller.cfm	Fuller Middle (School)	2009.0	626.0
+28716	http://www.erving.com	Erving Elementary (School)	1996.0	187.0
+28717	http://finn.nsboro.k12.ma.us	Mary E Finn School (School)	2013.0	50.0
+28720	http://foxborough.k12.ma.us	Charles Taylor Elementary (School)	1998.0	573.0
+28722	http://www.dcacademy.org	Dorchester Collegiate Academy Charter (District) (School District)	0.0	411.0
+28723	http://www.hinghamlibrary.org	Hingham Public Library	2004.0	67.0
+28725	http://www.mass.gov/eopss/agencies/dps/	Public Safety, Department of	2011.0	46.0
+28727	http://www.bellinghamk12.org	Primavera Junior/Senior High School (School)	2013.0	78.0
+28729	http://www.duxburyfreelibrary.org	Duxbury Public Library	1999.0	74.0
+28731	http://oxfordfree.homestead.com/publiclibrary.html	Oxford Public Library	0.0	2.0
+28732	http://www.longmeadow.k12.ma.us	Longmeadow (School District)	2002.0	101.0
+28733	http://www.brooklinema.gov/	Brookline	2008.0	2021.0
+28734	http://www.nrsd.org	Phillipston (non-op) (School District)	1999.0	1191.0
+28735	http://www.melrosepubliclibrary.org/	Melrose Public Library	2003.0	19.0
+28736	http://www.westportschools.org	Westport (School District)	2001.0	61.0
+28737	http://www.woburnpubliclibrary.org	Woburn Public Library	2000.0	125.0
+28738	http://www.shutesburyschool.org	Shutesbury Elementary (School)	2006.0	1031.0
+28739	http://www.gcc.mass.edu/	Greenfield Community College	1997.0	1048.0
+28740	http://www.palmerschools.org/MiddleSchool/MiddleSchool.html	Converse Middle (School)	2002.0	13.0
+28741	http://www.townofpaxton.net/	Paxton	2004.0	749.0
+28742	http://www.edline.net/pages/Amvet_Boulevard_School	Amvet Boulevard (School)	2012.0	10.0
+28743	http://algonquin.nsboro.k12.ma.us	Algonquin Regional High (School)	2012.0	70.0
+28744	http://parker.billerica.k12.ma.us	Parker (School)	2009.0	21.0
+28745	http://www.sec.state.ma.us/mhc/mhcidx.htm	Historical Commission, Massachusetts	0.0	36.0
+28747	http://www.mapension.com/	Pension Reserves Investment Management Board (PRIM Board)	1997.0	81.0
+28748	http://www.pathfindertech.org	Pathfinder Regional Vocational Technical (School District)	2004.0	134.0
+28750	http://www.oliverames.org	Oliver Ames High (School)	1998.0	83.0
+28751	http://www.nantucket-ma.gov/	Nantucket	2003.0	1582.0
+28753	http://www.walpole.k12.ma.us/jms/	Eleanor N Johnson Middle (School)	2013.0	495.0
+28754	http://www.ipswichschools.org	Ipswich Middle School (School)	2001.0	1.0
+28755	http://www.mass.gov/berkshireda/	Berkshire District Attorney	2011.0	454.0
+28756	http://www.douglas.k12.ma.us	Douglas Early Childhood Center (School)	0.0	604.0
+28758	http://www.malden.mec.edu	Malden Early Learning Center (School)	1998.0	0.0
+28759	http://www.town.plympton.ma.us/	Plympton	2003.0	3262.0
+28760	http://www.littletonps.org/home/index.php/mshome	Littleton Middle School (School)	2011.0	507.0
+28761	http://vining.billerica.k12.ma.us	Eugene C Vining (School)	2009.0	21.0
+28762	http://mvpc.org/	Merrimack Valley Planning Commission	1998.0	136.0
+28763	http://www.ci.chelsea.ma.us/	Chelsea	1998.0	176.0
+28765	http://www.wellfleetlibrary.org	Wellfleet Public Library	2001.0	160.0
+28766	http://www.eastbridgewaterma.org/	East Bridgewater	2002.0	64.0
+28767	http://www.mass.gov/anf/employee-insurance-and-retirement-benefits/oversight-agencies/gic/	Group Insurance Commission	2011.0	55.0
+28769	http://town.holland.ma.us/	Holland	2007.0	221.0
+28770	http://www.monsonschools.com	Quarry Hill Community School (School)	1998.0	68.0
+28771	http://www.townoforange.org/	Orange	2004.0	169.0
+28772	http://www.bedford.k12.ma.us/home/bedford-high-school.html	Bedford High (School)	2011.0	83.0
+28773	http://www.fitchburg.k12.ma.us	Fitchburg (School District)	2001.0	310.0
+28774	http://www.edline.net/pages/LGNourse_ES	L G Nourse Elementary (School)	2011.0	104.0
+28775	http://www.leicester.k12.ma.us	Leicester (School District)	1998.0	864.0
+28777	http://www.bellinghamma.org/	Bellingham	1998.0	417.0
+28778	http://www.lynnschools.org	Fecteau-Leary Junior/Senior High School (School)	2000.0	643.0
+28779	http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/mod/	Disability, Massachusetts Office on	2011.0	11.0
+28780	http://www.tantasqua.org/brookfield/	Brookfield Elementary (School)	2003.0	5.0
+28781	http://www.harvard.ma.us/	Harvard	1999.0	131.0
+28782	http://www.billericalibrary.org	Billerica Public Library	2000.0	114.0
+28783	http://www.swiftriverschool.org	Swift River (School)	2001.0	533.0
+28784	http://www.medfordpublicschools.org	Christopher Columbus (School)	2009.0	543.0
+28785	http://www.needham.k12.ma.us	Needham (School District)	1998.0	20.0
+28786	http://www.littletonps.org/home/index.php/rss-home	Russell St Elementary (School)	2011.0	427.0
+28787	http://brookline.k12.ma.us	Lawrence (School)	2007.0	977.0
+28788	http://www.montytech.net	Montachusett Regional Vocational Technical (School District)	2000.0	351.0
+28789	http://www.noblenet.org/lynn/	Lynn Public Library	2002.0	33.0
+28790	http://www.grafton-ma.gov/	Grafton	2004.0	343.0
+28791	http://www.bedford.k12.ma.us/home/lt-eleazer-davis-elementary-school.html	Lt Elezer Davis (School)	2011.0	89.0
+28792	http://www.mass.gov/hed/economic/eohed/dhcd/indian-affairs.html	Indian Affairs, Commission on	2011.0	160.0
+28794	http://www.tantasqua.org/brimfield/	Brimfield Elementary (School)	2000.0	4.0
+28795	http://www.belmont.k12.ma.us/bps	Winthrop L Chenery Middle (School)	2013.0	1255.0
+28796	http://www.mass.gov/eohhs/gov/commissions-and-initiatives/gcid/	Intellectual Disability, Governor's Commission on	2011.0	11.0
+28797	http://peaslee.nsboro.k12.ma.us	Marguerite E Peaslee (School)	2012.0	176.0
+28798	http://www.fallriverschools.org/resiliencyprep.cfm	Resiliency Preparatory School (School)	2008.0	539.0
+28799	http://www.townofrutland.org/	Rutland	2004.0	89.0
+28802	http://www.thenhcs.org	Neighborhood House Charter (District) (School District)	2005.0	55.0
+28803	http://www.KeefeTech.org	South Middlesex Regional Vocational Technical (School District)	1999.0	91.0
+28804	http://www.bristolda.com/	Bristol District Attorney	0.0	125.0
+28805	http://www.winpublib.org	Winchester Public Library	2001.0	967.0
+28806	http://www.medford.org	Medford	1996.0	2.0
+28807	http://aes.nmrsd.org	Ashby Elementary (School)	2012.0	36.0
+28808	http://www.wrsd.net/glenwood/	Glenwood Elementary School (School)	2009.0	15.0
+28810	http://www.blackstonepubliclibrary.org/blackstone/	Blackstone Public Library	2007.0	760.0
+28811	http://www.mefa.org/	Educational Financing Authority, Massachusetts	1996.0	209.0
+28813	http://www.sec.state.ma.us/arc/arcidx.htm	Archives, Massachusetts	0.0	29.0
+28815	http://claremont.worcesterschools.org	Claremont Academy (School)	2010.0	5297.0
+28817	http://www.hillviewmontessori.org	Hill View Montessori Charter Public (District) (School District)	2003.0	1.0
+28818	http://www.mass.gov/lwd/unemployment-insur/	Department of Unemployment Assistance	2011.0	202.0
+28819	http://www.tyngsboroughps.org	Tyngsborough High School (School)	2003.0	17.0
+28821	http://www.mass.gov/ago/	Business and Labor Bureau	2008.0	2657.0
+28822	http://www.rmlpaxton.org	Paxton Public Library	2003.0	6.0
+28824	http://www.mass.gov/da/plymouth/	Plymouth District Attorney	2004.0	58.0
+28825	http://www.mass.gov/eopss/law-enforce-and-cj/justice-prev/jjac/	Juvenile Justice Advisory Committee, Governor's	2011.0	7.0
+28827	http://www.mass.gov/lwd/labor-relations/jlmc/	Joint Labor Management Committee	2012.0	15.0
+28828	http://www.milfordtownlibrary.org	Milford Public Library	2005.0	50.0
+28829	http://www.oakham-ma.gov	Oakham	2011.0	126.0
+28830	http://www.sec.state.ma.us/cis/cisidx.htm	Citizen Information Service	0.0	59.0
+28831	http://www.stonehamschools.org	Stoneham (School District)	2010.0	35.0
+28832	http://www.ci.southbridge.ma.us/	Southbridge	1998.0	2230.0
+28833	http://www.mcdfc.com	Massachusetts Community Development Finance Corporation	2001.0	11.0
+28834	http://www.dracutlibrary.org/	Dracut Public Library	2000.0	21.0
+28835	http://www.mass.gov/ethics/	Ethics Commission, State	2004.0	1968.0
+28838	http://www.town.billerica.ma.us/	Billerica	2000.0	640.0
+28839	http://dcrsd.org/ShepherdHill.cfm?subpage=34754	Shepherd Hill Regional High (School)	0.0	999.0
+28840	http://www.chester.net/	Chester	2008.0	369.0
+28841	http://www.watertown.k12.ma.us/hosmer/index.html	Hosmer (School)	1999.0	20.0
+28842	http://www.mco.mass.edu	Massachusetts Colleges Online	2003.0	198.0
+28843	http://www.medford.k12.ma.us	Medford (School District)	2001.0	1.0
+28844	http://melroseschools.com/	Early Childhood Center (School)	2000.0	3144.0
+28848	http://cityview.worcesterschools.org	City View (School)	2010.0	1451.0
+28849	http://www.sandwichmass.org/	Sandwich	2000.0	2508.0
+28850	http://www.mass.gov/essexda/	Essex District Attorney	2004.0	330.0
+28851	http://www.massdot.state.ma.us/highway/TheBigDig.aspx	Central Artery Tunnel Project	2011.0	163.0
+28854	http://www.newbedfordschools.org/elementary/kempton.htm	Horatio A Kempton (School)	2009.0	0.0
+28855	http://day.westfordk12.us/Pages/index	Day Elementary (School)	2007.0	566.0
+28856	http://www.newbedfordschools.org/elementary/taylor.htm	William H Taylor (School)	2009.0	0.0
+28857	http://pe.arps.org	Pelham Elementary (School)	2010.0	572.0
+28859	http://www.massdot.state.ma.us/	Department of Transportation, Massachusetts	2009.0	688.0
+28860	http://www.ses.sunderland.ma.us	Sunderland Elementary (School)	2001.0	11.0
+28861	http://www.ssvotech.org	South Shore Regional Vocational Technical (School District)	2002.0	95.0
+28862	http://wlschools.org/	Williamstown (School District)	2011.0	256.0
+28863	http://morseinstitute.org/	Natick Public Library	2000.0	161.0
+28864	http://www.egremont-ma.gov/	Egremont	2003.0	35.0
+28865	http://www.umassmed.edu/default/	University of Massachusetts Worcester Medical Center	2013.0	2.0
+28867	http://www.leverett.ma.us/	Leverett	2006.0	109.0
+28868	http://nausetschools.org	Nauset Regional Middle (School)	0.0	1303.0
+28869	http://www.newtonfreelibrary.net	Newton Centre Public Library	2005.0	28.0
+28870	http://www.dukescounty.org/Pages/DukesCountyMA_Sheriff/index	Sheriff's Office, Dukes County	2005.0	45.0
+28871	http://www.wilmington.k12.ma.us	Wilmington Middle School (School)	1999.0	425.0
+28872	http://www.rivervalleycharter.org	River Valley Charter (District) (School District)	2000.0	57.0
+28873	http://northandoverpublicschools.com	Annie L Sargent School (School)	2006.0	2086.0
+28874	http://www.holyoke.org/	Holyoke	1996.0	776.0
+28875	http://www.saugus-ma.gov/	Saugus	2006.0	161.0
+28876	http://goodnowlibrary.org/	Sudbury Public Library	2014.0	129.0
+28877	http://richmondconsolidated.org/	Hancock (School District)	2007.0	315.0
+28879	http://www.lincolntown.org/	Lincoln	2000.0	881.0
+28880	http://www.matcheducation.org	MATCH Community Day Charter Public School (District) (School District)	2012.0	119.0
+28881	http://www.rpk12.org	Rockport (School District)	2012.0	15.0
+28882	http://www.leominsterlibrary.org	Leominster Public Library	2002.0	20.0
+28883	http://www.chelmsford.k12.ma.us/site/default.aspx?PageID=1	Center Elementary School (School)	2013.0	20.0
+28884	http://wams.worcesterschools.org	Worcester Arts Magnet School (School)	2010.0	676.0
+28885	http://www.belchertownps.org	Swift River Elementary (School)	2001.0	342.0
+28886	http://www.mass.gov/veterans/	Secretary of Veterans' Services, Office of the	2008.0	402.0
+28887	http://www.somervillepubliclibrary.org	Somerville Public Library	2001.0	283.0
+28888	http://www.nsboro.k12.ma.us	Northboro-Southboro (School District)	2001.0	107.0
+28889	http://www.hyannislibrary.org	Hyannis Public Library	2000.0	120.0
+28890	http://www.manchesterpl.org	Manchester-By-The-Se Public Library	2001.0	290.0
+28891	http://www.lexingtonma.gov/	Lexington	2008.0	375.0
+28892	http://www.bluehills.org	Blue Hills Regional Vocational Technical (School District)	2000.0	190.0
+28894	http://www.qcc.edu/	Quinsigamond Community College	2007.0	1135.0
+28895	http://www.cityofnewburyport.com/	Newburyport	2001.0	4325.0
+28896	http://www.fourriverscharter.org	Four Rivers Charter Public (District) (School District)	2002.0	44.0
+28897	http://www.hampdencharter.org	Hampden Charter School of Science (District) (School District)	2009.0	3154.0
+28898	http://www.sec.state.ma.us/rod/rodidx.htm	Deeds, Registries of	0.0	9.0
+28899	http://www.ci.methuen.ma.us/	Methuen	2001.0	673.0
+28900	http://www.mass.gov/elders/	Secretary of Elder Affairs, Office of the	2011.0	256.0
+28901	http://spshmann.salemk12.org/Pages/index	Horace Mann Laboratory (School)	2009.0	69.0
+28902	http://wems.worcesterschools.org	Worcester East Middle (School)	2010.0	2740.0
+28903	http://thorndyke.worcesterschools.org	Thorndyke Road (School)	2010.0	648.0
+28905	http://www.gpsk12.org/virtualschool/virtualschool_home.html	Massachusetts Virtual Academy at Greenfield (School)	2009.0	6.0
+28907	http://www.westfield.ma.edu/	Westfield State University	2011.0	1095.0
+28908	http://www.townofwinchendon.com/	Winchendon	2005.0	184.0
+28909	http://www.beamanlibrary.org	West Boylston Public Library	2006.0	45.0
+28912	http://westfordk12.us/pages/preschool/index	Millennium Elementary (School)	2007.0	3.0
+28914	http://www.deerfieldma.us/Pages/index	Deerfield	2010.0	235.0
+28915	http://www.mass.gov/anf/property-mgmt-and-construction/oversight-agencies/bsb/	Bureau of State Office Buildings	2011.0	5.0
+28916	http://www.seekonk-ma.gov	Seekonk	2004.0	172.0
+28918	http://www.whately.org/	Whately	2005.0	557.0
+28919	http://www.mass.edu/	Higher Education, Department of	1997.0	215.0
+28921	http://www.walpole.k12.ma.us/whs/	Walpole High (School)	2014.0	498.0
+28922	http://veritasprepcharterschool.org/	Veritas Preparatory Charter School (District) (School District)	2011.0	59.0
+28923	http://www.msbdc.org/	Small Business Development Center, Massachusetts	2003.0	73.0
+28924	http://www.umb.edu/	University of Massachusetts Boston	1997.0	2671.0
+28925	http://www.stoughtonschools.org	Edwin A Jones Early Childhood Center (School)	2003.0	1128.0
+28927	http://www.mass.gov/edu/government/departments-and-boards/department-of-early-education-and-care/	Care, Department of Early Education and	2011.0	92.0
+28928	http://www.massart.edu/	Massachusetts College of Art and Design	1997.0	387.0
+28934	http://www.easthamlibrary.org	Eastham Public Library	2001.0	36.0
+28935	http://ricesquare.worcesterschools.org	Rice Square (School)	2010.0	702.0
+28936	http://www.sunderlandpubliclibrary.org	Sunderland Public Library	2007.0	124.0
+28937	http://nmrhs.nmrsd.org	North Middlesex Regional (School)	2012.0	72.0
+28938	http://www.mass.gov/ocabr/	Consumer Affairs and Business Regulation, Department of	2011.0	4061.0
+28939	http://bcsoma.org/page.php?PageID=523&PageName=Berkshire+County+Sheriff%27s+Office	Sheriff's Office, Berkshire County	0.0	38.0
+28940	http://www.framingham.k12.ma.us/barbieri.cfm	Barbieri Elementary (School)	2009.0	628.0
+28941	http://zeh.nsboro.k12.ma.us	Marion E Zeh (School)	2012.0	48.0
+28942	http://www.hwrsd.org	Hampden-Wilbraham (School District)	2000.0	7.0
+28943	http://www.weston.org/	Weston	1997.0	1476.0
+28944	http://www.capetech.us/	Cape Cod Regional Vocational Technical (School District)	2002.0	384.0
+28945	http://www.edline.net/pages/Roosevelt_Avenue_School	Roosevelt Avenue (School)	0.0	8.0
+28946	http://www.cityofmelrose.org/index.cfm	Melrose	2010.0	7778.0
+28948	http://rowlandson.nrsd.net/	Mary Rowlandson Elementary (School)	2004.0	58.0
+28949	http://www.mrpc.org/	Montachusett Regional Planning Commission	1998.0	1098.0
+28950	http://www.townofhardwick.com/	Hardwick	2004.0	30.0
+28951	http://www.douglasma.org/	Douglas	2000.0	187.0
+28952	http://www.ashburnhamlibrary.org	Ashburnham Public Library	2008.0	28.0
+28953	http://www.hampshiresheriffs.com/	Sheriff's Office, Hampshire County	2004.0	44.0
+28954	http://www.grovelandma.com/	Groveland	2002.0	89.0
+28955	http://www.acrsd.net	Adams-Cheshire (School District)	1999.0	17.0
+28956	http://www.umassonline.net	UMassOnline	2001.0	4361.0
+28957	http://quinsigamond.worcesterschools.org	Quinsigamond (School)	2010.0	791.0
+28958	http://www.townofberkleyma.com/	Berkley	2011.0	74.0
+28961	http://www.gpl.org/	Groton Public Library	1998.0	131.0
+28962	http://lps.lexingtonma.org/bridgees	Bridge (School)	2012.0	1546.0
+28963	http://www.massacademy.org	Ma Academy for Math and Science (School District)	1998.0	43.0
+28964	http://www.chicopeeps.org/Szetela/	Szetela Early Childhood Center (School)	0.0	34.0
+28965	http://www.peabodylibrary.org	Peabody Public Library	1998.0	28.0
+28966	http://www.shadleylib.org/southhadley/	South Hadley Public Library	2012.0	63.0
+28967	http://www.edline.net/pages/Norton_Middle_School	Norton Middle (School)	2011.0	396.0
+28968	http://www.newbedfordschools.org/elementary/carney.htm	Sgt Wm H Carney Academy (School)	2009.0	0.0
+28969	http://www.rocklandschools.org	Rockland Senior High (School)	2010.0	87.0
+28970	http://www.edline.net/pages/WPS	Woburn (School District)	2012.0	17.0
+28971	http://www.marbleheadschools.org	Marblehead Veterans Middle School (School)	2008.0	30.0
+28972	http://www.walpole.k12.ma.us/bms/	Bird Middle (School)	2014.0	571.0
+28973	http://www.framingham.k12.ma.us/dunning.cfm	Charlotte A Dunning (School)	2009.0	648.0
+28974	http://www.town.swampscott.ma.us/	Swampscott	2003.0	237.0
+28975	http://www.pittsfield.com/	Pittsfield	2001.0	4361.0
+28976	http://www.brocktonpublicschools.com	Gilmore School Early Childhood Center (School)	2000.0	1080.0
+28978	http://www.chicopeeps.org/Bowe/	Bowe (School)	0.0	34.0
+28979	http://www.rcmahar.org	Ralph C Mahar (School District)	2001.0	617.0
+28982	http://www.peabody-ma.gov/	Peabody	2003.0	39.0
+28983	http://www.hullpubliclibrary.org	Hull Public Library	2007.0	6.0
+28987	http://www.winthrop.k12.ma.us	Winthrop Middle School (School)	1999.0	164.0
+28988	http://www.suttonschools.net	Sutton Early Learning (School)	2002.0	450.0
+28989	http://www.mass.gov/eopss/agencies/sorb/	Sex Offender Registry Board	2011.0	2.0
+28990	http://www.fallriverschools.org/morton.cfm	Morton Middle (School)	2008.0	533.0
+28991	http://www.doe.mass.edu/seis/	Institutional Schools (School District)	2007.0	4.0
+28992	http://www.mass.gov/treasury/	Receiver General, Treasurer and	2004.0	687.0
+28993	http://www.tantasqua.org/technical/	Tantasqua Regional Vocational (School)	2008.0	1.0
+28994	http://www.plymouth-ma.gov/	Plymouth	2004.0	163.0
+28995	http://www.wspl.org/	West Springfield Public Library	1999.0	41.0
+28998	http://www.clinton.k12.ma.us	Clinton (School District)	0.0	994.0
+28999	http://dcrsd.org/MasonRoad.cfm?subpage=34766	Mason Road School (School)	0.0	900.0
+29000	http://www.mass.gov/ocabr/government/oca-agencies/doi-lp/	Insurance, Division of	2011.0	248.0
+29001	http://www.mass.gov/governor/administration/councilscabinetsandcommissions/housingcouncil/	Council on Housing and Homelessness, Interagency	2013.0	55.0
+29002	http://www.townofbarre.com/	Barre	2006.0	94.0
+29003	http://www.edline.net/pages/Nessacus	Nessacus Regional Middle School (School)	2010.0	80.0
+29004	http://www.mass.gov/eea/grants-and-tech-assistance/enforcement/environmental-police/	Environmental Law Enforcement, Office of	2012.0	47.0
+29005	http://www.bridgew.edu/	Bridgewater State University	1997.0	679.0
+29007	http://www.tri-county.tc	Tri County Regional Vocational Technical (School District)	2001.0	210.0
+29008	http://www.salem.com/	Salem	1998.0	132.0
+29009	http://www.mass.gov/eopss/agencies/mema/	Emergency Management Agency, Massachusetts	2011.0	149.0
+29010	http://www.bridgebostoncharterschool.org	Bridge Boston Charter School (District) (School District)	2010.0	2.0
+29013	http://www.townofmaynard-ma.gov/	Maynard	2007.0	382.0
+29014	http://columbuspark.worcesterschools.org	Columbus Park (School)	2010.0	686.0
+29015	http://www.leominster-ma.gov/	Leominster	2004.0	14.0
+29016	http://www.provincetownschools.com	Provincetown (School District)	2011.0	47.0
+29017	http://www.mass.gov/women/	Commission on the Status of Women, Massachusetts	2004.0	44.0
+29019	http://www.wrsd.net/mountview/	Mountview Middle (School)	2002.0	27.0
+29020	http://www.sterling-ma.gov/Pages/index	Sterling	2008.0	566.0
+29021	http://www.mass.gov/lsp/	Registration of Hazardous Waste Site Cleanup Professionals, Board of	2004.0	29.0
+29022	http://atlantiscs.org/	Atlantis Charter (District) (School District)	2002.0	48.0
+29023	http://www.dudleyma.gov/	Dudley	2004.0	26.0
+29024	http://www.sec.state.ma.us/spr/spridx.htm	Publications and Regulations, State	0.0	31.0
+29026	http://www.auburn.k12.ma.us	Auburn Senior High (School)	2002.0	1591.0
+29027	http://clark.worcesterschools.org	Clark St Community (School)	2010.0	623.0
+29028	http://www.middlesexsheriff.org/	Sheriff's Office, Middlesex	2001.0	22.0
+29030	http://conant.ab.mec.edu/	Luther Conant (School)	2001.0	62.0
+29031	http://www.townofpelham.org/	Pelham	2003.0	93.0
+29033	http://dcrsd.org/Dudley.cfm?subpage=34758	Dudley Middle School (School)	0.0	930.0
+29034	http://www.somersetberkley.org	Somerset Berkley Regional High School (School)	2011.0	20.0
+29035	http://gblibraries.org	Great Barrington Public Library	2008.0	45.0
+29036	http://www.northamptonma.gov/	Northampton	2005.0	1357.0
+29037	http://www.excelacademy.org	Excel Academy Charter School - Boston II (District) (School District)	2003.0	81.0
+29038	http://warwick.pioneervalley.k12.ma.us	Warwick Community School (School)	2006.0	10.0
+29039	http://www.mass.gov/eopss/agencies/mng/	Military Division - Massachusetts National Guard	2011.0	3.0
+29040	http://www.cambridgema.gov/cpl/hoursandlocations/oneillbranch.aspx	Cambridge Public Library	2010.0	23.0
+29041	http://www.fallriverschools.org/talbot.cfm	Talbot Innovation School (School)	2008.0	608.0
+29043	http://www.ccscambridge.org	Community Charter School of Cambridge (District) (School District)	2004.0	249.0
+29044	http://sullivan.worcesterschools.org	Sullivan Middle (School)	2009.0	2110.0
+29045	http://spsbowditch.salemk12.org/Pages/index	Nathaniel Bowditch (School)	2009.0	27.0
+29047	http://bernardston.pioneervalley.k12.ma.us	Bernardston Elementary (School)	2005.0	1.0
+29048	http://www.newbedfordschools.org/roosevel.htm	Roosevelt Middle School (School)	2009.0	0.0
+29051	http://www.framingham.k12.ma.us/fhs.cfm	Framingham High School (School)	2009.0	683.0
+29052	http://www.somerville.k12.ma.us/education/components/scrapbook/default.php?sectionid=85	Capuano Early Childhood Center (School)	2011.0	2.0
+29053	http://www.clapplibrary.org	Belchertown Public Library	2002.0	88.0
+29054	http://miller.westfordk12.us/Pages/index	Rita E. Miller Elementary School (School)	2007.0	198.0
+29055	http://www.cummington-ma.gov/	Cummington	2004.0	168.0
+29056	http://www.plainvillepubliclibrary.org	Plainville Public Library	2002.0	27.0
+29057	http://bigelowlibrary.wordpress.com/	Clinton Public Library	2013.0	327.0
+29058	http://www.napsk12.org	North Adams (School District)	2007.0	369.0
+29060	http://www.dedhamlibrary.org	Dedham Public Library	2001.0	7.0
+29061	http://www.mass.gov/childadvocate/	Office of the Child Advocate	2009.0	51.0
+29062	http://www.mass.gov/lwd/	Labor, Department of	2011.0	1794.0
+29063	http://cf.arps.org	Crocker Farm Elementary (School)	2010.0	569.0
+29064	http://www.bartcharter.org/v2/	Berkshire Arts and Technology Charter Public (District) (School District)	0.0	34.0
+29065	http://www.orangelib.org	Orange Public Library	2003.0	14.0
+29067	http://www.tisburyma.gov/	Tisbury	2009.0	81.0
+29068	http://www.tritownschoolunion.com/district/pages/middleton-schools	Fuller Meadow (School)	2013.0	3.0
+29069	http://www.northfield.ma.us/	Northfield	2006.0	235.0
+29070	http://spssalemhs.salemk12.org/Pages/index	Salem High (School)	2009.0	83.0
+29072	http://www.edline.net/pages/Austin_Intermediate_School	George R Austin Intermediate School (School)	2011.0	11.0
+29073	http://www.wakefield.ma.us/	Wakefield	1998.0	97.0
+29074	http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/hrd/	Employee Relations, Office of	2011.0	26.0
+29075	http://www.mass.gov/dor/child-support/	Child Support Enforcement Unit	2011.0	124.0
+29076	http://ces.acrsd.net/	Cheshire Elementary (School)	2003.0	5.0
+29077	http://www.millis.k12.ma.us	Millis High School (School)	2001.0	1033.0
+29079	http://lenoxlib.org/	Lenox Public Library	2001.0	353.0
+29081	http://www.naschools.net	North Attleborough (School District)	2000.0	25.0
+29082	http://wms.attleboroschools.com	Wamsutta Middle School (School)	2001.0	13.0
+29083	http://www.wtisburyschool.org	West Tisbury Elementary (School)	2009.0	419.0
+29085	http://www.newbedfordschools.org/elementary/pulaski.htm	Casimir Pulaski (School)	2009.0	0.0
+29087	http://css.southbridge.k12.ma.us	Charlton Street (School)	2010.0	1309.0
+29088	http://www.mass.gov/ocpf/	Campaign and Political Finance, Office of	2004.0	15.0
+29090	http://www.mass.gov/anf/property-mgmt-and-construction/oversight-agencies/dcam/	Capital Asset Management, Division of	2011.0	37.0
+29092	http://millicentlibrary.org/	Fairhaven Public Library	2002.0	99.0
+29093	http://www.mass.gov/lwd/workers-compensation/wcac/	Workers Compensation Advisory Council	2011.0	182.0
+29094	http://www.lawrencefreelibrary.org	Lawrence Public Library	2002.0	41.0
+29095	http://www.tantasqua.org/tjhs/	Tantasqua Regional Jr High (School)	2003.0	3.0
+29096	https://www.middlesex.mass.edu/	Middlesex Community College	2003.0	1147.0
+29097	http://www.scituate.k12.ma.us/hatherly	Hatherly Elementary (School)	2003.0	836.0
+29098	http://www.massport.com/	Port Authority (MassPort), Massachusetts	1996.0	1830.0
+29099	http://www.northeastmetrotech.com/	Northeast Metropolitan Regional Vocational Technical (School District)	1998.0	377.0
+29101	http://www.maynard.k12.ma.us/	Maynard (School District)	2003.0	54.0
+29102	http://www.boydenlibrary.org	Foxborough Public Library	2004.0	93.0
+29103	http://www.framingham.edu/	Framingham State University	1996.0	1006.0
+29104	http://canterbury.worcesterschools.org	Canterbury (School)	2010.0	588.0
+29105	http://www.psharvard.org	Hildreth Elementary School (School)	2002.0	41.0
+29106	http://www.reverepubliclibrary.org	Revere Public Library	2006.0	29.0
+29107	http://www.mass.gov/msa/	Sheriff's Association, Massachusetts	2011.0	83.0
+29110	http://www.charlemont-ma.us/	Charlemont	2003.0	225.0
+29111	http://www.gaylordlibrary.org	South Hadley Public Library	2003.0	30.0
+29116	http://www.bellinghamlibrary.org	Bellingham Public Library	2005.0	272.0
+29118	http://ses.attleboroschools.com	A. Irvin Studley Elementary School (School)	2001.0	14.0
+29119	http://www.codmanacademy.org	Codman Academy Charter Public (District) (School District)	0.0	553.0
+29120	http://www.newbraintree.org/	New Braintree	2011.0	15.0
+29122	http://www.rowleylibrary.org	Rowley Public Library	2008.0	28.0
+29123	http://sawyer.nrsd.net/	Florence Sawyer School (School)	2000.0	22.0
+29124	http://www.barnstable.k12.ma.us/Domain/11	West Barnstable Elementary (School)	2012.0	400.0
+29125	http://www.barnstable.k12.ma.us/Domain/10	Barnstable United Elementary School (School)	2012.0	400.0
+29126	http://www.barnstable.k12.ma.us/Domain/13	Hyannis West Elementary (School)	2012.0	402.0
+29127	http://www.barnstable.k12.ma.us/Domain/15	West Villages Elementary School (School)	2012.0	399.0
+29128	http://www.barnstable.k12.ma.us/Domain/14	Centerville Elementary (School)	2012.0	400.0
+29129	http://www.whrsd.org/page.cfm?p=28	Louise A Conley (School)	2008.0	1116.0
+29130	http://www.montereyma.gov	Monterey	2008.0	177.0
+29131	http://www.walpole.k12.ma.us/opr/	Old Post Road (School)	2014.0	522.0
+29132	http://holbrookma.gov/	Holbrook	2010.0	148.0
+29133	http://www.fallriverschools.org/acese.cfm	ACESE (School)	2013.0	613.0
+29134	http://www.berkshirecc.edu/	Berkshire Community College	2002.0	1878.0
+29135	http://www.townhall.westwood.ma.us/	Westwood	1999.0	1892.0
+29136	http://belmont.worcesterschools.org	Belmont Street Community (School)	2010.0	727.0
+29138	http://www.framinghamlibrary.org/	Framingham Public Library	2001.0	194.0
+29139	http://www.uxbridgelibrary.org/uxbridge/	Uxbridge Public Library	2010.0	821.0
+29140	http://www.mass.gov/eea/agencies/massdep/	Environmental Protection, Department of	2013.0	1739.0
+29142	http://milnelibrary.org	Williamstown Public Library	2000.0	78.0
+29143	http://www.nps.org	Northbridge (School District)	1996.0	1676.0
+29145	http://www.webster-schools.org	Park Avenue Elementary (School)	2006.0	311.0
+29146	http://noblenet.org/swampscott/index.html	Swampscott Public Library	2001.0	0.0
+29147	http://www.bristol.mass.edu/	Bristol Community College	1997.0	696.0
+29149	http://www.middleborough.com/	Middleborough	2000.0	67.0
+29151	http://www.easton.ma.us/	Easton	1999.0	385.0
+29152	http://www.mass.gov/eohhs/gov/departments/mcdhh/	Commission for the Deaf and Hard of Hearing, Massachusetts	2011.0	107.0
+29155	http://www.BerkleyPublicSchools.org	Berkley Community School (School)	2009.0	2.0
+29156	http://www.burlington.org/departments/library/index.php	Burlington Public Library	2012.0	54.0
+29157	http://www.ptownlib.com	Provincetown Public Library	2000.0	21.0
+29158	http://www2.pittsfield.net/groups/ees/	Egremont (School)	2010.0	1047.0
+29159	http://www.actonmemoriallibrary.org	Acton Public Library	2002.0	517.0
+29161	http://www.mass.gov/chia/	Center for Health Information and Analysis	2012.0	134.0
+29162	http://www.gardner-ma.gov/	Gardner	2004.0	273.0

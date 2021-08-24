@@ -1,0 +1,975 @@
+NodeId	NodeURL	NodeName	Year	pages
+43535	http://ecps.schoolfusion.us/	EDENTON/CHOWAN School	2009.0	647.0
+43536	http://www.visittyrrellcounty.com/government/	Tyrrell County	2006.0	3.0
+43537	http://www.lakeparknc.gov/	Lake Park	2007.0	31.0
+43538	http://www.madisoncountylibrary.org	Madison County Public Library	2004.0	122.0
+43539	http://library.duplincounty.org/	Faison Branch Library (Emily Hill Library)	2002.0	7.0
+43540	http://ncchildcare.dhhs.state.nc.us/general/home.asp	Child Development, Division of	2003.0	35.0
+43542	http://www.cityofwadesboro.org/	Wadesboro	2002.0	40.0
+43543	http://www.townofwarsawnc.com/	Warsaw	2002.0	918.0
+43545	http://www.broadwaync.com	Broadway	2002.0	29.0
+43546	http://www.charlottesecondary.org	Charlotte Secondary	0.0	162.0
+43547	http://www.waynecc.edu/	Wayne Community College	2002.0	704.0
+43549	http://www.richmondnc.com/	Richmond County	2002.0	111.0
+43550	http://www.faytechcc.edu/	Fayetteville Technical Community College	2002.0	571.0
+43551	http://www.wilsoncc.edu	Wilson Community College	2008.0	191.0
+43552	http://lagrangenc.com/	La Grange	2001.0	131.0
+43553	http://www.townofrobersonville-nc.gov/	Robersonville	2005.0	2.0
+43554	http://www.nrms.k12.nc.us	NASH-ROCKY MOUNT School	1998.0	1171.0
+43555	http://www.waynecountyschools.org/site/default.aspx?PageID=1	WAYNE School	2011.0	12.0
+43556	http://www.townoflouisburg.com/	Louisburg	2009.0	82.0
+43557	http://www.nhaschools.com/schools/researchtriangle/en/pages/default.aspx	Research Triangle Charter School	0.0	22.0
+43558	http://www.sccnc.edu/	Southeastern Community College	2003.0	893.0
+43559	http://www.exploris.org/	Exploris	1998.0	171.0
+43560	http://www.waynegov.com/site/default.aspx?PageID=1	Wayne County	2012.0	14.0
+43561	http://www.haywoodnc.net/	Haywood County	2004.0	743.0
+43562	http://www.kippcharlotte.org/	KIPP: Charlotte	2007.0	653.0
+43563	http://townofscotlandneck.com/	Scotland Neck	2003.0	516.0
+43564	http://www.buncombecounty.org/governing/depts/library/locations_bclaw.aspx	Buncombe County Law Library	2011.0	75.0
+43565	http://www.doa.nc.gov/clearing/	Environmental Review (Clearinghouse)	2008.0	8.0
+43566	http://swake.org/	Southern Wake Academy	2014.0	343.0
+43567	http://www.ncdoi.com/	Insurance, Department of	1998.0	777.0
+43568	http://greenlevelnc.com/	Green Level	2002.0	60.0
+43570	http://www.averycountync.gov/	Avery County	2006.0	76.0
+43571	http://www.townofleland.com/	Leland	2001.0	180.0
+43572	http://www.hbtownhall.com	Holden Beach	1998.0	19.0
+43573	http://www.ncsymphony.org/	Symphony, N.C., Division of	1998.0	407.0
+43574	http://www.rockymountnc.gov/	Rocky Mount	2007.0	21.0
+43575	http://www.ncsu.edu	NC State University	1997.0	446.0
+43576	http://www.theidylschool.org/	The Institute for the Development of Young Leaders School	2013.0	10.0
+43577	http://www.rock.k12.nc.us/site/default.aspx?PageID=1	ROCKINGHAM School	2011.0	16.0
+43578	http://www.yanceycountync.gov/	Yancey County	2007.0	244.0
+43579	http://www.chinagrovenc.gov/	China Grove	2004.0	225.0
+43580	http://www.stokes.k12.nc.us/	STOKES School	1998.0	117.0
+43581	http://chapelhillpubliclibrary.org/	Chapel Hill Public Library	2006.0	8021.0
+43582	http://www.fontanalib.org/	Albert Carlton-Cashiers Community Library	2000.0	657.0
+43583	https://www.jcps.k12.nc.us/	JACKSON School	2002.0	447.0
+43584	http://www.townofchapelhill.org/	Chapel Hill	0.0	2821.0
+43585	http://townofbunn.com/	Bunn	2010.0	8.0
+43586	http://www.wilmingtonnc.gov	Wilmington	2005.0	2318.0
+43587	http://www.lillingtonnc.com/	Lillington	2001.0	205.0
+43588	http://www.bcpls.org	Burke County Public Library	1999.0	52.0
+43589	http://www.north-wilkesboro.com/	North Wilkesboro	1998.0	1.0
+43590	http://www.pamlicocc.edu/	Pamlico Community College	2006.0	89.0
+43591	http://www.onslowcountync.gov/default.aspx	Onslow County	2007.0	1573.0
+43592	http://www.visitplymouthnc.com/	Plymouth	2001.0	13.0
+43593	http://www.townoflakelure.com/	Lake Lure	2005.0	141.0
+43594	http://www.ansonschools.org	ANSON School	2007.0	23.0
+43595	http://segsacademy.org/	60 Dream Avenue, Delco, NC 28436 School	2013.0	40.0
+43596	http://www.buncombe.k12.nc.us/site/default.aspx?PageID=1	BUNCOMBE School	2011.0	17.0
+43597	http://portal.ncdenr.org/web/deao	Environmental Assistance and Outreach	2010.0	1833.0
+43598	http://www.townofbethania.org/	Bethania	2007.0	9.0
+43600	http://www.wcpss.net/	WAKE School	1998.0	2132.0
+43603	http://www.ncdhhs.gov/dss/	Social Services, Division of	2006.0	22.0
+43604	http://www.townofboone.net/	Boone	2002.0	24.0
+43605	http://www.history.ncdcr.gov/	Archives     and History	2008.0	12.0
+43606	http://www.newtonnc.gov/	Newton	2003.0	500.0
+43607	http://www.robesoncountylibrary.com	Robeson County Public Library	2004.0	9.0
+43608	http://www.knightdalenc.gov/	Knightdale	0.0	1601.0
+43609	http://www.ci.valdese.nc.us	Valdese	1998.0	93.0
+43610	http://www.clevelandnc.org/jm/	Cleveland	2009.0	44.0
+43611	http://www.tmsacharter.org	Triad Math and Science Academy	2008.0	121.0
+43612	http://www.ci.longview.nc.us/	Long View	2005.0	31.0
+43613	http://www.martincc.edu/	Martin Community College	2003.0	77.0
+43614	http://hstsedu.org/	Haliwa-Saponi Tribal School	2011.0	10.0
+43615	http://www.bladennc.govoffice3.com/	Bladen County	2012.0	386.0
+43616	http://cityofbrevard.com/	Brevard	2001.0	404.0
+43618	http://www.co.stokes.nc.us/	Stokes County	1998.0	747.0
+43619	http://www.union.lib.nc.us/	Union West Branch Library	2000.0	27.0
+43620	http://www.townofhobgood.com/	Hobgood	2004.0	72.0
+43621	http://www.cityofgraham.com/	Graham	2002.0	444.0
+43622	http://sheppardlibrary.org/home	C. D. Langston R. E. Boyd Library	2012.0	194.0
+43623	http://matthewsnc.gov/	Matthews	2012.0	967.0
+43624	http://www.stpaulsnc.gov	Saint Pauls	2004.0	704.0
+43625	http://www.swain.k12.nc.us	SWAIN School	1998.0	998.0
+43626	http://www.daviecountync.gov/index.aspx?NID=400	Cooleemee Branch Library	2013.0	446.0
+43627	http://www.tcs.k12.nc.us/	THOMASVILLE School	1999.0	415.0
+43628	http://www.pembrokenc.com/	Pembroke	2000.0	376.0
+43629	https://www.ncdps.gov/index2.cfm?a=000003,000005	Alcohol Law Enforcement	2012.0	1399.0
+43630	http://statelibrary.ncdcr.gov/lbph/index.html	Library Blind/ Physically Handicapped	2009.0	46.0
+43631	http://www.warrenton-nc.com/	Warrenton	1999.0	13.0
+43632	http://www.townofburnsville.org/	Burnsville	2002.0	49.0
+43633	http://www.ashevillenc.gov/	Asheville	2003.0	1222.0
+43634	http://www.ncsbe.gov/ncsbe/Information/404?aspxerrorpath=/items.aspx	Campaign Finance Division	2014.0	2.0
+43635	http://www.angelfire.com/journal/trentwoods2000/	Trent Woods	2000.0	16.0
+43636	http://www.bethelnc.org/	Bethel	2002.0	200.0
+43637	http://www.ncauditor.net/pub4/	Auditor,     Office of State	2013.0	57.0
+43638	http://www.vancecharter.org/	Vance Charter School	2003.0	461.0
+43639	http://www.beaufort.k12.nc.us/	BEAUFORT School	2000.0	155.0
+43641	http://www.ncdhhs.gov/	Health and Human Services, Department of	2006.0	1604.0
+43642	http://www.abss.k12.nc.us/site/default.aspx?PageID=1	ALAMANCE-BURLINGTON School	2012.0	14.0
+43643	http://www.townofbelville.com	Belville	2004.0	48.0
+43644	http://www.spring-lake.org/	Spring Lake	2002.0	54.0
+43645	http://www.rowancountync.gov/	County	2004.0	2240.0
+43646	http://naturalsciences.org/	Museum of Natural Sciences	1999.0	1060.0
+43647	http://www.laurelpark.org/	Laurel Park	2001.0	35.0
+43648	http://www.thesugarcreek.org/	Sugar Creek Charter	2003.0	60.0
+43649	http://www.hendersoncountypublicschoolsnc.org/	HENDERSON School	2011.0	1264.0
+43650	http://townofbathnc.embarqspace.com/	Bath	2011.0	11.0
+43651	http://www.rowancountync.gov/GOVERNMENT/Departments/PublicLibrary/tabid/145/Default.aspx	Rowan Public Library	2008.0	3.0
+43652	http://www.ncrea.net/	Rural Electrification Authority	2003.0	13.0
+43653	http://butnernc.org/	Butner	2009.0	7.0
+43655	http://www.clayconc.com/	Clay County	2001.0	48.0
+43656	http://www.high-point.net/	High Point	1998.0	11.0
+43658	http://www.townofmadison.org/	Madison	2004.0	231.0
+43659	http://www.townofsparta.org/	Sparta	2008.0	17.0
+43660	http://www.mineralspringsnc.com/	Mineral Springs	2001.0	29.0
+43661	http://www.sprucepine-nc.gov/	Spruce Pine	2006.0	2.0
+43662	http://www.madisoncountync.org/	Madison County	2003.0	63.0
+43663	http://www.ci.lumberton.nc.us/	Lumberton	2002.0	1357.0
+43664	http://www.hawbridgeschool.org	The Hawbridge School	2007.0	3.0
+43665	http://www.ncmcs.org/site/default.aspx?PageID=1	MOORE School	2013.0	53.0
+43666	http://www.randolphlibrary.org/	John W. Clark Public Library	2002.0	47.0
+43667	http://www.townofblackcreek.org/	Black Creek	2006.0	14.0
+43668	https://www.ncsecu.org/	State Employees Credit Union	1999.0	189.0
+43670	http://www.crosscreekcharterschool.com/	Crosscreek Charter School	2007.0	16.0
+43671	http://www.doa.nc.gov/facility/welcome.htm	Facility Management, Division of	2009.0	9.0
+43672	http://www.ci.drexel.nc.us/	Drexel	2005.0	27.0
+43673	http://www.ncagr.gov/fooddrug/	Food and Drug Protection Division	2008.0	70.0
+43674	http://surry.k12.nc.us/	SURRY School	1998.0	187.0
+43675	http://www.polkton.org	Polkton	2007.0	2.0
+43676	http://www.nagsheadnc.gov/	Nags Head	2012.0	272.0
+43677	http://www.weavervillenc.org/	Weaverville	2007.0	124.0
+43678	http://www.sedalianc.org/	Sedalia	2010.0	12.0
+43679	http://www.ci.maxton.nc.us/	Maxton	2003.0	25.0
+43680	http://www.carteretcountync.gov/	Carteret County	2014.0	911.0
+43681	http://www.seanc.org/	State Employees Association	1998.0	566.0
+43682	http://martin.sharpschool.net	MARTIN School	2010.0	96.0
+43683	http://www.bakersville.com/	Bakersville	1999.0	40.0
+43684	http://hendersoncollegiate.org	Henderson Collegiate	2011.0	50.0
+43685	http://www.uncg.edu	UNC Greensboro	1997.0	588.0
+43686	http://www.ncaquariums.com/	Aquariums	1998.0	531.0
+43687	http://www.caswellbeach.org/	Caswell Beach	1999.0	66.0
+43688	http://www.nclabor.com/osha/osh.htm	Occupational Safety and Health	2002.0	46.0
+43689	http://www.ci.hillsborough.nc.us/	Hillsborough	1998.0	1555.0
+43690	http://www.townofbannerelk.org/	Banner Elk	2000.0	53.0
+43691	http://www.townofmurfreesboro.com/	Murfreesboro	2002.0	354.0
+43692	http://www.townofmidland.us/	Midland	2003.0	176.0
+43693	http://www.ncdhhs.gov/dph/wch/	Women and Childrens Health Section	2010.0	17.0
+43694	http://www.personcounty.net/	Person County	2000.0	1529.0
+43695	http://www.townofsawmills.com/	Sawmills	2010.0	28.0
+43696	http://www.townofbenson.com/	Benson	2001.0	61.0
+43697	http://www.topsailbeach.org/	Topsail Beach	1999.0	590.0
+43698	http://www.kdhnc.com/	Kill Devil Hills	2001.0	458.0
+43699	http://www.secretary.state.nc.us/	Secretary of State, Department of	1998.0	304.0
+43700	http://www.cityofnorthwest.com/	Northwest	2004.0	13.0
+43701	http://www.townofwaynesville.org/	Waynesville	2003.0	306.0
+43702	http://www.halifax.k12.nc.us	HALIFAX School	2004.0	761.0
+43703	http://www.academyofmoorecounty.com/	The Academy of Moore County	2009.0	0.0
+43704	http://swansboro-nc.org/	Swansboro	2004.0	192.0
+43705	http://www.kannapolis.k12.nc.us	KANNAPOLIS School	1998.0	1381.0
+43707	http://www.dobson-nc.com/	Dobson	2011.0	102.0
+43708	http://www.waxhaw.com/	Waxhaw	1998.0	539.0
+43709	http://raefordcity.org/	Raeford	2009.0	67.0
+43710	http://www.piedmontcc.edu/	Piedmont Community College	2005.0	906.0
+43712	http://www.nccommerce.com/workforce	Workforce Solutions, Division of	2000.0	1061.0
+43713	http://www.caswellcountync.gov/	Caswell County	2004.0	454.0
+43714	http://www.mcdowellgov.com/	McDowell County	2004.0	135.0
+43715	http://www.woodfin-nc.gov/	Woodfin	2008.0	17.0
+43716	http://www.ncdhhs.gov/dss/cse/index.htm	Child Support Services	2006.0	21.0
+43717	http://www.myprincetonnc.com/	Princeton	2007.0	203.0
+43718	http://www.ncseaa.edu/	State Education Assistance Authority	1998.0	36.0
+43720	http://www.cabarruscharter.org/	Cabarrus Charter Academy	2013.0	11.0
+43721	http://www.chatham.k12.nc.us	CHATHAM School	1997.0	1033.0
+43722	http://www.pubstaff.commerce.state.nc.us/	Utilities Commission/Public Staff	1998.0	28.0
+43723	http://www.brunswickcc.edu/	Brunswick Community College	2006.0	318.0
+43724	http://www.uncc.edu	UNC Charlotte	1996.0	74.0
+43725	http://www.gastongov.com/	Gaston County	2011.0	133.0
+43727	http://pittsboronc.gov/	Pittsboro	2010.0	569.0
+43728	http://www.mesictownof.com/	Mesic	2007.0	13.0
+43729	http://www.ncveterans.com/	Veterans Affairs, Division of	2007.0	9.0
+43730	http://www.pendercountync.gov/	County	2009.0	390.0
+43731	http://www.cmlibrary.org/	North County Regional Branch Library	2010.0	1677.0
+43732	http://townoflakesanteetlah.org/index.htm	Lake Santeetlah	2010.0	110.0
+43735	http://www.co.orange.nc.us/library/index.asp	Orange County Public Library	2009.0	55.0
+43736	http://www.ci.eden.nc.us	Eden	1999.0	0.0
+43737	http://www.ncssm.edu	North Carolina School of Science and Mathematics	1997.0	601.0
+43738	http://www.cityofclaremont.org/	Claremont	2006.0	385.0
+43740	http://www.ncdoj.gov/sbi.aspx	Investigation, State Bureau of	2011.0	1393.0
+43741	http://www.wcu.edu	Western Carolina University	1997.0	1827.0
+43743	http://www.dunn-nc.org	Dunn	1998.0	272.0
+43744	http://www.marionnc.org/	Marion	2000.0	90.0
+43746	http://www.townofmanteo.com/	Manteo	2000.0	1065.0
+43747	http://www.braswell-library.org	Braswell Memorial Library	2001.0	121.0
+43748	http://www.nccourts.org/citizens/gal/	Guardian ad Litem Program	2003.0	58.0
+43750	http://www.csdnc.org	Community School of Davidson	2009.0	1314.0
+43751	http://www.mcdowellpubliclibrary.org	Mcdowell County Public Library	2008.0	2.0
+43752	http://mtairy.k12.nc.us/	MOUNT AIRY School	2001.0	1816.0
+43753	http://www.mayland.edu/	Mayland Community College	2002.0	181.0
+43754	http://www.isothermal.edu/	Isothermal Community College	2002.0	116.0
+43755	http://www.townofforestcity.com/	Forest City	1999.0	64.0
+43756	http://sharpsburgnc.com/	Sharpsburg	2001.0	127.0
+43757	http://www.jacksonnc.org/	Jackson County	2001.0	76.0
+43758	http://www.cityofkm.com/	Kings Mountain	2001.0	51.0
+43759	http://www.emeraldisle-nc.org	Emerald Isle	1999.0	256.0
+43760	http://www.raleighcharterhs.org	Raleigh Charter High School	1999.0	107.0
+43761	http://www.townofstjamesnc.org/	Saint James	2009.0	138.0
+43762	http://www.dortchesnc.govoffice2.com/	Dortches	2009.0	133.0
+43763	http://www.wilsonschoolsnc.net	WILSON School	2012.0	261.0
+43764	http://www.rcsnc.org	RUTHERFORD School	2009.0	247.0
+43765	http://www.dillsboronc.info/	Dillsboro	2004.0	9.0
+43766	http://www.co.davidson.nc.us/library/	Davidson County Public Library System	1999.0	45.0
+43768	http://www.whitevillecity.com/	Whiteville	2006.0	74.0
+43769	http://www.ci.albemarle.nc.us/	Albemarle	2001.0	92.0
+43770	http://www.buncombecounty.org/governing/depts/library/locations_swannanoa.aspx	Swannanoa Library	2011.0	72.0
+43771	http://leecountync.gov/	Lee County	2006.0	781.0
+43772	http://www.townoforiental.com/	Oriental	2007.0	562.0
+43773	http://www.waynegov.com/domain/76	Wayne County Public Library, Mount Olive	2012.0	124.0
+43774	http://www.boonvillenc.com/	Boonville	2002.0	17.0
+43775	http://www.bladencc.edu/	Bladen Community College	2005.0	324.0
+43776	http://www.davidsonccc.edu/	Davidson County Community College	2004.0	1692.0
+43777	http://www.ecu.edu	East Carolina University	1996.0	5954.0
+43778	http://www.spcc.edu/	South Piedmont Community College	2002.0	1843.0
+43779	http://www.townofpilotmountain.com/	Pilot Mountain	2005.0	15.0
+43780	http://www.neuselibrary.org	Neuse Regional Library	1999.0	271.0
+43781	http://www.gaston.edu/	Gaston College	2002.0	1225.0
+43782	http://www.tmsacademy.org/	Triangle Math and Science Academy	2012.0	1559.0
+43783	http://www.schs.state.nc.us/	State Center for Health Statistics	1999.0	594.0
+43784	http://www.craven.k12.nc.us	CRAVEN School	1999.0	899.0
+43785	http://www.nccourts.org/courts/crs/aocadmin/default.asp	Trial Court Administrator	2001.0	6.0
+43786	http://www.salemburg-nc.com/about.html	Salemburg	2011.0	6.0
+43787	http://www.northampton.k12.nc.us/	NORTHAMPTON School	1996.0	856.0
+43788	http://www.chimneyrockvillage.com/	Chimney Rock	2008.0	368.0
+43790	http://orangecharterschool.org	Orange Charter	2001.0	182.0
+43791	http://www.wilsonsmillsnc.org/	Wilson's Mills	2010.0	229.0
+43792	https://www.ncdps.gov/index2.cfm?a=000003,002144,000016	Victim Compensation Services	2012.0	1396.0
+43793	http://www.main.nc.us/townofrhodhiss/	Rhodhiss	2009.0	0.0
+43794	http://townoflilesville.org/	Lilesville	2008.0	6.0
+43795	http://www.nchistoricsites.org/	Historic Sites	2004.0	71.0
+43796	http://www.richmond.k12.nc.us/	RICHMOND School	2000.0	13377.0
+43797	http://libserver.bladenco.org/	Bridger Memorial Library	2003.0	10.0
+43798	http://www.historicweldonnc.com/	Weldon	2007.0	916.0
+43800	http://www.cityofclintonnc.com/	Clinton	2001.0	100.0
+43801	http://www.pace-academy.com	PACE Academy	2004.0	255.0
+43802	http://www.tyrrell.k12.nc.us/	TYRRELL School	1999.0	172.0
+43803	http://www.nhaschools.com/schools/summerfield/en/pages/default.aspx	Summerfield Charter Academy	0.0	24.0
+43804	http://pccharter.teamcfa.org/	Piedmont Community Charter School	2009.0	1520.0
+43805	http://www.doa.nc.gov/msc/	Mail Service Center (Courier)	2008.0	10.0
+43806	http://www.ncdoj.gov/	Attorney     Generals Office	2006.0	1210.0
+43807	http://www.buncombecounty.org/governing/depts/library/locations_blackmtn.aspx	Black Mountain Branch Library	2011.0	72.0
+43808	http://arapahoecharter.org/	Arapahoe Charter School	2011.0	224.0
+43809	http://www.srls.info/	Biscoe Branch Library (Allen Library)	2005.0	43.0
+43810	http://www.townofwilliamston.com/	Williamston	2001.0	7.0
+43811	http://www.thepointcollegeprep.org	PO Box 16366, High Point, 27261 School	2013.0	42.0
+43813	http://www.northcarolina.edu/	University of North Carolina System	2000.0	660.0
+43814	http://www.ecsu.edu	Elizabeth City State University	1998.0	323.0
+43816	http://onslowcounty.schoolinsites.com/	ONSLOW School	2008.0	2382.0
+43817	http://biltmoreforesttownhall.homestead.com/	Biltmore Forest	2000.0	27.0
+43819	http://www.carolinainternationalschool.org	Carolina International School	2004.0	1374.0
+43820	http://www.buncombecounty.org/	Buncombe County	1998.0	2590.0
+43821	http://www.socratesacademy.us	Socrates Academy	2006.0	1092.0
+43822	http://pinelevel.org/home.html	Pine Level	2008.0	0.0
+43823	http://pinetopsnc.com/	Pinetops	2002.0	32.0
+43824	http://www.co.cumberland.nc.us/	Cumberland County	1998.0	760.0
+43825	http://www.cityofhendersonville.org	Hendersonville	0.0	934.0
+43826	http://www.camden.k12.nc.us	CAMDEN School	2000.0	506.0
+43827	http://www.clayschools.org	CLAY School	2001.0	11.0
+43828	http://www.oibgov.com/	Ocean Isle Beach	2001.0	127.0
+43830	http://townoflucama.org/	Lucama	2003.0	12.0
+43831	http://bhmlib.org/website	Bhm Regional Library	2012.0	119.0
+43832	http://www.jonesnc.net/site/default.aspx?PageID=1	JONES School	2011.0	49.0
+43833	http://www.lakewaccamaw.com/	Lake Waccamaw	2000.0	20.0
+43834	http://www.buncombecounty.org/governing/depts/library/locations_west.aspx	West Asheville Library	2011.0	72.0
+43835	http://www.tworiverscommunityschool.net	Two Rivers Community School	2007.0	2.0
+43836	http://www.haywood.k12.nc.us	HAYWOOD School	1997.0	112.0
+43837	http://www.townofmontreat.org/	Montreat	2003.0	50.0
+43838	http://www.townofkittyhawk.org/	Kitty Hawk	1998.0	502.0
+43839	http://www.cccti.edu/	Caldwell Community College and Technical Institute	2002.0	529.0
+43840	http://www.abtech.edu/	Asheville-Buncombe Technical Community College	2002.0	2281.0
+43841	http://www.townofbr.com	Bermuda Run	2005.0	20.0
+43842	http://www.secretary.state.nc.us/notary/	Notary Public Division	2001.0	16.0
+43843	http://www.townofcarthage.org/	Carthage	2006.0	283.0
+43844	https://jacksonvillenc.gov/	Jacksonville	2013.0	955.0
+43845	http://www.catawbaschools.net/Pages/Home.aspx	CATAWBA School	2013.0	29.0
+43846	http://www.fuquay-varina.org/	Fuquay-Varina	2000.0	327.0
+43847	http://www.ci.asheboro.nc.us/	Asheboro	2001.0	26.0
+43848	http://www.duplincountync.com/	Duplin County	2005.0	20.0
+43849	http://troy.nc.us/	Troy	2000.0	118.0
+43850	http://www.co.bertie.nc.us/	Bertie County	2001.0	44.0
+43852	http://www.micharter.org	Mountain Island Charter	2010.0	1205.0
+43854	http://www.liberty-nc.com/	Liberty	2005.0	229.0
+43855	http://www.ncbon.com/	Nursing, N.C. Board of	0.0	259.0
+43856	http://fdnsc.net/	Francine Delany New School	2001.0	1675.0
+43857	http://library.transylvaniacounty.org	Transylvania County Library	0.0	142.0
+43858	http://www.wakegov.com/libraries/Pages/default.aspx	Wake County Public Libraries	2012.0	2.0
+43859	http://www.cityofroxboro.com/	Roxboro	2006.0	34.0
+43860	http://www.ncdhhs.gov/dvrs/	Vocational Rehabilitation Services	2010.0	36.0
+43861	http://franklinacademy.org/	Franklin Academy	0.0	198.0
+43862	http://www.taborcitync.org/	Tabor City	2006.0	24.0
+43863	http://www.townofwalnutcove.org/	Walnut Cove	2008.0	1134.0
+43864	http://www.alamance-nc.com/	Alamance County	2000.0	723.0
+43865	http://www.millsriver.org/	Mills River	2002.0	8.0
+43866	http://www.thomasville-nc.gov/	Thomasville	2011.0	58.0
+43867	http://www.wcplnc.org	Warren County Memorial Library	2009.0	2.0
+43868	http://www.hertford.k12.nc.us	HERTFORD School	0.0	887.0
+43869	http://portal.ncdenr.org/web/wm/	Waste Management	2010.0	317.0
+43871	http://www.wakegov.com/libraries/default.htm	Olivia Raney Local History Library	2005.0	214.0
+43872	http://www.vancecounty.org	Vance County	1998.0	22.0
+43873	http://townofwebster.org/	Webster	2011.0	34.0
+43874	http://www.highpointpubliclibrary.com	High Point Public Library	2006.0	139.0
+43875	http://www.franklinnc.com/index.html	Franklin	1999.0	131.0
+43877	http://www.yadkinville.org/	Yadkinville	2006.0	139.0
+43878	http://www.townofcalabash.net/	Calabash	2007.0	16.0
+43879	http://www.ncgtp.com/	Global Transpark	1998.0	65.0
+43880	http://www.gcsedu.org	GREENE School	2002.0	35.0
+43881	http://publib.polknc.org	Polk County Public Library	2000.0	0.0
+43882	http://www.arlnc.org	Albemarle Regional Library	2007.0	54.0
+43883	http://www.gcs.k12.nc.us/site/default.aspx?PageID=1	GRANVILLE School	2012.0	24.0
+43884	http://www.warrencountync.com/	Warren County	2005.0	27.0
+43885	http://www.cityofbelmont.org/	Belmont	2002.0	146.0
+43886	http://cherokeecentral.sharpschool.com/home/	CHEROKEE CENTRAL School	2011.0	2.0
+43887	http://www.co.randolph.nc.us/	Randolph County	1998.0	681.0
+43888	http://www.roanokerapidsnc.com/	Roanoke Rapids	1998.0	1599.0
+43889	http://www.cvcc.edu/index.cfm	Catawba Valley Community College	2008.0	783.0
+43891	http://www.doa.state.nc.us/hub/	Historically Underutilized Businesses, Office for	2001.0	12.0
+43892	http://www.townofnavassa.org/	Navassa	2007.0	94.0
+43893	http://www.pahp.com/	Phoenix Academy	1999.0	150.0
+43894	http://ccml.libguides.com/Home	Cleveland County Memorial Library	2013.0	138.0
+43895	http://www.dpsnc.net	DURHAM School	1999.0	115.0
+43896	http://www.lexingtonnc.net/	Lexington	2002.0	1907.0
+43897	http://www.scotlandcounty.org/library.aspx	Scotland County Memorial Library	2011.0	916.0
+43898	http://www.andrewsnc.com/	Andrews	2000.0	16.0
+43900	http://www.dillardacademy.org/	Dillard Academy	2007.0	116.0
+43901	http://www.boilingspringsnc.net/	Boiling Springs	2002.0	660.0
+43902	http://www.carolinabeach.org/	Carolina Beach	0.0	238.0
+43903	http://necprepschool.com/	North East Carolina Prep School School	2012.0	153.0
+43904	http://www.nhaschools.com/schools/queensgrant/en/pages/default.aspx	Queens Grant Community	2013.0	22.0
+43905	http://www.nccourts.org/courts/trial/superior/	Superior Court Judges	2003.0	2.0
+43906	http://www.nclabor.com/	Labor, Department of	2002.0	149.0
+43907	http://www.co.anson.nc.us/	Anson County	1998.0	318.0
+43908	http://www.ncdhhs.gov/dma/	Medical Assistance, Division of	2006.0	291.0
+43909	http://www.fletchernc.org/	Fletcher	2004.0	61.0
+43910	http://llca.teamcfa.org/	Lake Lure Classical Academy	2010.0	834.0
+43912	http://www.ci.reidsville.nc.us/	Reidsville	1998.0	307.0
+43914	http://www.bertie.k12.nc.us	BERTIE School	2007.0	585.0
+43915	http://www.naturallygrownkids.org	The Learning Center	2003.0	61.0
+43916	http://www.iss.k12.nc.us/site/default.aspx?PageID=1	IREDELL-STATESVILLE School	2013.0	17.0
+43917	http://www.ci.davidson.nc.us/	Davidson	1998.0	893.0
+43918	http://www.randolph.k12.nc.us/Pages/Default.aspx	RANDOLPH School	2009.0	478.0
+43920	http://www.rss.k12.nc.us/	ROWAN-SALISBURY School	2000.0	239.0
+43921	http://www.clinton.k12.nc.us/	CLINTON School	1999.0	17.0
+43922	http://www.ncdcr.gov/ncmoh/Home.aspx	Museum of History	2013.0	235.0
+43923	http://www.townofbeechmountain.com/	Beech Mountain	2007.0	117.0
+43924	http://www.ncdoi.com/osfm/	Fire Marshal	2001.0	713.0
+43925	http://www.henderson.lib.nc.us	Henderson County Public Library	1997.0	9.0
+43927	http://www.townofrobbins.com/	Robbins	2009.0	58.0
+43928	http://www.cpscnc.org	Central Park School For Child School	2010.0	76.0
+43929	http://statelibrary.ncdcr.gov/	Library of North Carolina, State	2009.0	132.0
+43931	http://town.exploretryon.com/	Tryon	2014.0	205.0
+43932	http://www.co.davidson.nc.us/	Davidson County	1996.0	492.0
+43933	http://cartergwoodsonschool.org/	Carter G Woodson School School	2012.0	254.0
+43934	http://www.chathamnc.org/	Chatham County	2007.0	3111.0
+43935	http://www.perrylibrary.org	H. Leslie Perry Memorial Library	2003.0	14.0
+43936	http://www.coatsnc.org/	Coats	2008.0	74.0
+43937	http://www.ncoah.com/rules/	Rules Division, Office of Administrative Hearings	2004.0	115.0
+43938	http://www.sandhills.edu/	Sandhills Community College	2002.0	443.0
+43939	http://www.wcsnc.org	WASHINGTON School	0.0	14.0
+43940	http://www.pendercountyschools.net	PENDER School	2005.0	3993.0
+43941	http://dcm2.enr.state.nc.us/	Coastal     Management Division	1998.0	609.0
+43942	http://icenter.nc.gov/	Innovation Center	2013.0	23.0
+43943	http://www.shpnc.org/	State Health Benefits Office	2006.0	187.0
+43944	http://www.scholarsacademy.org	Metrolina Regional Scholars Academy	2002.0	461.0
+43945	http://www.townofhawriver.com/	Haw River	2007.0	61.0
+43946	http://www.rcpl.org/	Reidsville Branch Library	1998.0	15.0
+43947	http://maconnc.org/	Macon County	2001.0	149.0
+43948	http://www.townofblowingrock.com	Blowing Rock	2004.0	727.0
+43949	http://www.townofbiscoe.com/	Biscoe	2004.0	54.0
+43950	http://www.albemarle-nc.com/windsor/	Windsor	1997.0	0.0
+43951	http://atkinsontown.com/	Atkinson	2010.0	0.0
+43952	http://www.whiteville.k12.nc.us/	WHITEVILLE School	2000.0	185.0
+43953	http://www.crossnoreschool.org/	Crossnore Academy	2003.0	2.0
+43955	http://www.ncdhhs.gov/dsdhh/	Deaf and Hard of Hearing Services, Division of	2009.0	29.0
+43958	http://daretolearn.org/	DARE School	2010.0	4541.0
+43959	http://www.co.dare.nc.us/	Dare County	1998.0	142.0
+43960	http://www.townofspindalenc.com/	Spindale	2006.0	55.0
+43961	http://www.richmondcc.edu/	Richmond Community College	2003.0	543.0
+43962	http://www.ncmotorfleet.com/	Motor Fleet Management	2003.0	2.0
+43963	http://www.whitsettnc.com/	Whitsett	2007.0	36.0
+43964	http://www.montgomery.edu/	Montgomery Community College	2003.0	1854.0
+43965	http://www.ncwildlife.org/	Wildlife Resources Commission	2000.0	1896.0
+43966	http://www.nhaschools.com/schools/greensboro/en/pages/default.aspx	Greensboro Academy	2013.0	22.0
+43967	http://www.ncdcr.gov/	Cultural     Resources, Department of	2001.0	327.0
+43968	http://www.co.catawba.nc.us/library/	Conover Express Branch Library	2002.0	15.0
+43969	http://www.saluda.com/	Saluda	1997.0	40.0
+43970	http://www.pleasantgarden.net/	Pleasant Garden	2004.0	31.0
+43971	http://www.montgomerycountync.com/	Montgomery County	2005.0	105.0
+43972	http://www.forsythtech.edu/	Forsyth Technical Community College	2002.0	2945.0
+43973	http://www.historicjacksonnc.com/	Jackson	2011.0	16.0
+43974	http://www.vgcc.edu/	Vance-Granville Community College	2002.0	1001.0
+43975	http://portal.ncdenr.org/web/wq/	Water Quality	2010.0	403.0
+43976	http://www.ci.morrisville.nc.us/	Morrisville	2000.0	815.0
+43977	http://www.hokecounty.org/	Hoke County	2003.0	475.0
+43978	http://www.ncagr.gov/markets/facilities/markets/raleigh/	Farmers Market	2008.0	5.0
+43980	http://www.ltgov.nc.gov/	Lieutenant Governor, Office of	2014.0	301.0
+43982	http://www.edgecombecountync.gov/	Edgecombe County	2004.0	233.0
+43983	http://www.trinity-nc.gov/	Trinity	2006.0	253.0
+43984	http://www.cisnc.org	CIS Academy	1998.0	264.0
+43985	http://www.hertfordcountync.gov/	County	2012.0	333.0
+43986	http://www.halifaxnc.com/	Halifax County	1998.0	4409.0
+43987	http://www.columbusnc.com	Columbus	2002.0	386.0
+43988	http://www.fairbluff.com/	Fair Bluff	2000.0	10.0
+43989	http://www1.cpcc.edu/	Central Piedmont Community College	2002.0	934.0
+43990	http://portal.ncdenr.org/web/lr/	Energy, Mineral and Land Resources	2010.0	177.0
+43991	http://charter.willowoakmontessori.org	Willow Oak Montessori	2013.0	16.0
+43992	http://www.chathamnc.org/index.aspx?page=304	Chatham Community Library	2009.0	3065.0
+43993	http://www.highlandsnc.org/	Highlands	2008.0	41.0
+43994	http://www.wilmingtonprep.com	Wilmington Preparatory Academy	2013.0	5.0
+43995	https://www.scio.nc.gov/	Chief     Information Officer, Office of	2006.0	21.0
+43996	http://newdimensions.teamcfa.org/	New Dimensions	2011.0	586.0
+43997	http://www.gibsonville.net/	Gibsonville	2001.0	193.0
+43998	http://www.townofnashville.com/	Nashville	2001.0	235.0
+43999	http://www.tarboro-nc.com/	Tarboro	2003.0	79.0
+44000	http://www.ncpublicschools.org/statesuperintendent/	State Superintendent	2007.0	98.0
+44001	http://www.ncleg.net/house/house.html	House of Representatives	2002.0	11.0
+44002	http://www.jonesvillenc.gov/	Jonesville	2009.0	25.0
+44003	http://www.nconemap.com/	Center     for Geographic Information and Analysis	2003.0	18.0
+44004	http://www.co.lenoir.nc.us/	Lenoir County	1998.0	61.0
+44005	http://www.columbuscharterschool.net/	Columbus Charter School	2012.0	90.0
+44006	http://www.sbtdc.org/	Small Business Technical Development Center (UNC)	0.0	390.0
+44008	http://www.hildebrannc.com/	Hildebran	2001.0	131.0
+44010	http://www.ashe.k12.nc.us/	ASHE School	2000.0	245.0
+44011	http://www.riverbendnc.org/	River Bend	2001.0	39.0
+44012	http://www.ci.wesley-chapel.nc.us/	Wesley Chapel	2008.0	214.0
+44013	http://www.wssu.edu	Winston-Salem State University	1998.0	1702.0
+44014	http://www.ncfisheries.net/	Marine Fisheries	1997.0	1478.0
+44015	http://www.caldwellcountync.org/	County	2007.0	156.0
+44016	http://www.ncmedboard.org/	Medical Board, N.C.	2001.0	891.0
+44017	http://www.ncdot.gov/doh/	Highways Division	2008.0	45.0
+44018	http://www.bcmschool.com	Bethany Community Middle	2007.0	10.0
+44019	http://www.midway-nc.gov/	Midway	2013.0	25.0
+44020	http://www.lee.k12.nc.us/site/default.aspx?PageID=1	LEE School	2012.0	7.0
+44021	http://artsbasedschool.com/	The Arts Based School School	2013.0	150.0
+44022	http://townofcastalia.com/default.aspx	Castalia	2008.0	149.0
+44023	http://www.dallasnc.net/	Dallas	2002.0	183.0
+44024	http://www.carteret.edu/NewWeb/	Carteret Community College	2011.0	286.0
+44025	http://www.ntbnc.org/Pages/default.aspx	NorthTopsail Beach	2012.0	64.0
+44026	http://www.unionvillenc.com/	Unionville	2004.0	11.0
+44027	http://www.asheboro.k12.nc.us/	ASHEBORO School	1999.0	619.0
+44028	http://www.mcdowellpubliclibrary.org/index.php	Mcdowell County Law Library	2008.0	2.0
+44029	http://www.sanfordnc.net	Sanford	2001.0	119.0
+44030	http://www.cemcs.org	Casa Esperanza Montessori	2003.0	89.0
+44031	http://www.townoframseur.org/	Ramseur	2002.0	3.0
+44032	http://www.cherokee.k12.nc.us/	CHEROKEE School	2000.0	55.0
+44033	http://www.cityofsouthport.com/	Southport	0.0	802.0
+44034	http://www.springhope.net/	Spring Hope	2006.0	15.0
+44036	http://www.cmclibraries.org	Rutherford County Library	2000.0	41.0
+44037	http://www.townofpks.com/	Pine Knoll Shores	2001.0	65.0
+44038	http://www.madisonk12.net/	MADISON School	2011.0	279.0
+44039	http://www.townofdenton.com/	Denton	0.0	34.0
+44040	http://www.uncp.edu	UNC Pembroke	1996.0	4853.0
+44041	http://www.co.greene.nc.us/	Greene County	2000.0	43.0
+44042	http://www.chathamcharter.org/	Chatham Charter	2002.0	83.0
+44044	http://www.marshville.org/	Marshville	2013.0	140.0
+44046	http://www.sterilizationvictims.nc.gov/	Justice for Sterilization Victims Foundation, NC	2011.0	6.0
+44047	http://www.beaufortccc.edu/	Beaufort County Community College	2002.0	29.0
+44048	http://www.pamlico.k12.nc.us	PAMLICO School	2001.0	211.0
+44049	http://www.townofcatawbanc.org/	Catawba	2008.0	70.0
+44052	http://ncarts.org/	Arts Council,     N.C.	1998.0	538.0
+44053	http://www.ncat.edu	NC Agricultural and Technical State University	1997.0	514.0
+44054	http://www.villageofalamance.com/	Alamance	2009.0	18.0
+44055	http://www.lexcs.org/	LEXINGTON School	2000.0	289.0
+44056	http://www.cityofhavelock.com/	Havelock	1998.0	3.0
+44057	http://flatrocknc.govoffice3.com/	Flat Rock	2013.0	156.0
+44058	http://www.am.dodea.edu/lejeune/clds/index.htm	CAMP LEJEUNE DEPENDENTS SCHOOLS School	2011.0	2.0
+44059	http://www.ncparks.gov/	Parks and Recreation	2007.0	11.0
+44060	http://www.co.iredell.nc.us/	Iredell County	2000.0	1078.0
+44061	http://www.ncagr.gov/vet/	Veterinary Division	2008.0	188.0
+44062	http://pettigrewlibraries.org	Pettigrew Regional Library	2004.0	20.0
+44063	http://www.evergreenccs.org/	Evergreen Community Charter	2001.0	430.0
+44064	http://www.nwrl.org	Northwestern Regional Library	2001.0	1892.0
+44066	http://www.cityofgastonia.com/	Gastonia	1999.0	583.0
+44067	http://www.wilsonnc.org/	Wilson	1998.0	651.0
+44068	http://www.hayesville.org/	Hayesville	2006.0	79.0
+44069	http://www.ellerbenc.com/	Ellerbe	2002.0	8.0
+44070	http://ci.henderson.nc.us/	Henderson	1999.0	150.0
+44071	http://www.mgsd.k12.nc.us	MOORESVILLE School	1998.0	337.0
+44072	http://www.carterschool.org/	Carter Community Charter School	2005.0	2.0
+44073	http://wmpcs.org	Washington Montessori	2003.0	49.0
+44074	http://www.coastalcarolina.edu/	Coastal Carolina Community College	2002.0	783.0
+44075	http://www.townofwallburg.com/	Wallburg	2004.0	11.0
+44076	http://www.harnett.org/library/	Anderson Creek Public Library	2001.0	108.0
+44077	http://guilfordprep.org	Guilford Preparatory Academy	2007.0	236.0
+44078	http://longleafschool.com/	207 East Hargett Street, Raleigh, NC 27601 School	2012.0	203.0
+44079	http://www.ncagr.gov/spcap/	Structural Pest Control	2008.0	61.0
+44081	http://www.townofburgaw.com/	Burgaw	2005.0	211.0
+44082	http://www.stallingsnc.org/	Stallings	2003.0	342.0
+44084	http://www.nc.gov/	State Government	2002.0	117.0
+44085	http://www.rutherfordcountync.gov/	Rutherford County	2004.0	117.0
+44086	http://www.voyageracademy.net/	Voyager Academy School	2007.0	90.0
+44087	http://www.townofmarshill.org/	Mars Hill	2004.0	36.0
+44088	http://www.stanfieldnc.com/	Stanfield	2004.0	11.0
+44089	http://www.osbm.state.nc.us/	State Budget and Management, Office of	1997.0	1033.0
+44090	http://www.duplinschools.net/site/default.aspx?PageID=1	DUPLIN School	2012.0	27.0
+44091	http://www.governormorehead.net/	Governor Morehead School	2000.0	31.0
+44093	http://www.ncoah.com/hearings/	Hearings Division	2004.0	10.0
+44094	http://www.alleghanycounty-nc.gov/	Alleghany County	2003.0	209.0
+44095	http://tillerschool.org/	Tiller School	2005.0	400.0
+44096	http://www.harrisburgnc.org/	Harrisburg	2001.0	606.0
+44098	http://www.wintervillenc.com/	Winterville	2000.0	145.0
+44099	http://www.hopecharterschool.org	Hope Elementary	2005.0	480.0
+44100	http://www.ruralhall.govoffice.com/	Rural Hall	2006.0	315.0
+44101	http://www.ayden.com/	Ayden	2000.0	42.0
+44102	http://www.franklintonnc.us/	Franklinton	2008.0	16.0
+44103	http://www.kestrelheights.org/	Kestrel Heights School School	2002.0	23.0
+44104	http://www.ci.morganton.nc.us/	Morganton	1998.0	1284.0
+44105	http://www.ncleg.net/ncgainfo/directories/legdivinfo.html	Legislative Services Office	2003.0	6.0
+44106	http://www.brunsco.net/	Brunswick County	1998.0	143.0
+44107	http://www.yanceync.net	YANCEY School	1999.0	64.0
+44109	http://wilkescounty.net/	Wilkes County	2003.0	275.0
+44110	http://www.surry.edu/	Surry Community College	2002.0	49.0
+44111	http://co.robeson.nc.us/	Robeson County	2001.0	423.0
+44112	http://www.townofedenton.com/	Edenton	2001.0	240.0
+44113	http://www.endeavorcharterschool.com/site/default.aspx?PageID=1	Endeavor charter school	2011.0	5.0
+44114	http://www.buncombecounty.org/governing/depts/library/locations_enkacandler.aspx	Enka-Candler	2011.0	69.0
+44115	http://belhavennc.us/	Belhaven	2004.0	139.0
+44116	http://www.badin.org/	Badin	2001.0	59.0
+44117	http://www.boilingspringlakes.com/	Boiling Spring Lakes	2001.0	223.0
+44118	http://durhamcountylibrary.org/	Stanford L Warren Branch Library	2001.0	624.0
+44119	http://www.sterlingmontessori.org/	Sterling Montessori Academy	2003.0	219.0
+44120	http://www.cabarruscounty.us/government/departments/library/Pages/default.aspx	Granite Falls Branch Library	2011.0	16.0
+44121	http://www.healthystartacademy.com	Healthy Start Academy School	2004.0	28.0
+44122	http://www.cabarruscounty.us/Pages/default.aspx	Cabarrus County	2011.0	880.0
+44123	http://www.buncombecounty.org/governing/depts/library/locations_skyland.aspx	Skyland-South Buncombe Library	2011.0	69.0
+44124	http://www.townofmountpleasantnc.org/	Mount Pleasant	2006.0	78.0
+44125	http://www.conovernc.gov/	Conover	2008.0	543.0
+44126	http://www.roanokechowan.edu/	Roanoke-Chowan Community College	2004.0	378.0
+44127	http://www.oshr.nc.gov/	Human Resources, Office of State	2013.0	78.0
+44128	http://www.co.stanly.nc.us/	Stanly County	1998.0	88.0
+44129	http://www.ci.carrboro.nc.us/	Carrboro	2001.0	859.0
+44130	http://www.townofwendell.com/	Wendell	1999.0	281.0
+44131	http://www.graystoneday.org	Gray Stone Day	2002.0	128.0
+44132	http://www.oakislandnc.com/	Oak Island	1999.0	485.0
+44133	http://www.granitequarrync.gov/	Granite Quarry	2009.0	3.0
+44134	http://www.hydecountync.gov/	Hyde County	2008.0	221.0
+44135	http://www.bladen.k12.nc.us	BLADEN School	1999.0	810.0
+44136	http://www.pitt.k12.nc.us/site/default.aspx?PageID=1	PITT School	2011.0	74.0
+44137	http://www.durhamtech.edu/	Durham Technical Community College	2002.0	415.0
+44138	http://www.moorecountync.gov/	Moore County	2003.0	2158.0
+44139	http://www.wilson-co.com/	Wilson County	1998.0	879.0
+44140	http://www.cityoffayetteville.org/(X(1)S(scjo3brh002jq455kmgy5355))/default.aspx?AspxAutoDetectCookieSupport=1	Fayetteville	0.0	2.0
+44141	http://www.cityofcreedmoor.org/	Creedmoor	0.0	1335.0
+44142	http://www.ncdot.gov/programs/ghsp/	"Governor""s Highway Safety Program"	2008.0	7.0
+44143	http://www.ethicscommission.nc.gov/	Ethics Commission, N.C. State	2007.0	60.0
+44144	http://www.ci.hudson.nc.us/	Hudson	1999.0	14.0
+44145	http://townofdanbury.org/	Danbury	2010.0	132.0
+44146	http://www.jamessprunt.edu	James Sprunt Community College	2008.0	199.0
+44147	http://www.ncuc.net/	Utilities Commission	2001.0	55.0
+44148	http://www.town.stoneville.nc.us/	Stoneville	2000.0	18.0
+44149	http://www.townoffranklinvillenc.org/	Franklinville	2010.0	1.0
+44150	http://www.archdale-nc.gov	Archdale	2004.0	315.0
+44152	http://www.ncoah.com/civil/	Civil     Rights Division	2004.0	6.0
+44153	http://www.kennedycharter.org	Kennedy Charter	2007.0	606.0
+44154	http://www.its.nc.gov/support/default.aspx	Information Technology Services: Customer Service	2011.0	6.0
+44155	http://www.uncsa.edu	UNC School of the Arts	2008.0	87.0
+44156	http://www.rutherfordton.net/	Rutherfordton	2004.0	63.0
+44158	http://www.boltontown.us/	Bolton	2010.0	13.0
+44159	http://www.marvinnc.org/	Marvin	2003.0	134.0
+44160	http://www.cityofcherryville.com/	Cherryville	2001.0	5.0
+44161	http://www.townofcary.org/	Cary	1998.0	6092.0
+44162	http://www.lenoircc.edu/	Lenoir Community College	2002.0	40.0
+44163	http://www.snowhillnc.com	Snow Hill	2001.0	25.0
+44164	http://www.polknc.org/	Polk County	2002.0	258.0
+44166	http://vanceboronc.com/web/	Vanceboro	2009.0	69.0
+44167	http://www.mitchellcc.edu/	Mitchell Community College	0.0	877.0
+44168	https://www.rccc.edu/	Rowan-Cabarrus Community College	2010.0	3310.0
+44169	http://www.ncwater.org/	Water Resources, Office of	2000.0	1928.0
+44171	http://www.franklincountync.us/	Franklin County	2004.0	374.0
+44172	http://www.haywood.edu/	Haywood Community College	2002.0	2998.0
+44173	http://www.cityofec.com/	Elizabeth City	2001.0	288.0
+44174	http://www.edgecombe.edu/	Edgecombe Community College	2002.0	1242.0
+44175	http://www.newbern-nc.org/	New Bern	2002.0	478.0
+44176	http://www.bayboro-nc.com/	Bayboro	2009.0	3.0
+44177	http://www.doa.nc.gov/vets/locations/	Veterans Service Office, District	2010.0	9.0
+44179	http://www.cherokeecounty-nc.gov/	Cherokee County	2003.0	521.0
+44180	http://www.erwin-nc.org/	Erwin	2002.0	60.0
+44181	http://www.grahamcounty.org/	Graham County	2002.0	49.0
+44182	http://townofaberdeen.net/	Aberdeen	2001.0	576.0
+44183	http://www.cabarrus.k12.nc.us/site/default.aspx?PageID=1	CABARRUS School	2013.0	27.0
+44184	http://www.swepsonvilletownof.net/towninfo.html	Swepsonville	2007.0	15.0
+44185	http://www.oakridgenc.com/	Oak Ridge	1998.0	298.0
+44187	http://www.co.nash.nc.us/	Nash County	2000.0	1080.0
+44188	http://www.ci.durham.nc.us/	Durham	1997.0	940.0
+44189	http://www.jamestown-nc.us/	Jamestown	2003.0	41.0
+44191	http://www.ncsbe.gov/	Elections, State Board of	2009.0	116.0
+44192	http://www.indianbeach.org/	Indian Beach	2001.0	21.0
+44193	http://www.personcounty.net/index.aspx?page=176	Person County Public Library	2012.0	1607.0
+44194	http://www.buncombecounty.org/governing/depts/library/locations_oakley.aspx	Oakley-South Asheville Library	2011.0	69.0
+44195	http://www.sunsetbeachnc.gov/	Sunset Beach	2007.0	325.0
+44196	http://www.angier.org/	Angier	2002.0	76.0
+44197	http://www.chccs.k12.nc.us/	CHAPEL HILL-CARRBORO School	1998.0	225.0
+44198	http://www.laurinburg.org/	Laurinburg	2000.0	188.0
+44199	http://daq.state.nc.us/	Air Quality,     Division of	1998.0	242.0
+44200	http://www.huntersville.org/	Huntersville	1998.0	1168.0
+44201	http://www.yadkincountync.gov/	Yadkin County	2007.0	608.0
+44202	http://www.davie.k12.nc.us/district/	DAVIE School	2013.0	254.0
+44203	http://www.townofmiddlesexnc.com/	Middlesex	2006.0	167.0
+44204	http://www.warrenk12nc.org	WARREN School	2010.0	108.0
+44205	http://www.townofzebulon.org	Zebulon	2008.0	652.0
+44206	http://www.wpcc.edu/	Western Piedmont Community College	2002.0	2505.0
+44207	http://www.polkschools.org	POLK School	2010.0	28.0
+44208	http://www.nccourts.org/courts/crs/councils/judicialstandards/default.asp	Judicial Standards Commission	2007.0	10.0
+44210	http://www.eastwakeacademy.org/	East Wake Academy	2001.0	111.0
+44211	http://www.ci.spencer.nc.us/	Spencer	1996.0	251.0
+44212	http://watersedgevillageschool.com/	Waters Edge Village School School	2011.0	34.0
+44214	http://www.carolinashoresnc.govoffice3.com/	Carolina Shores	2010.0	251.0
+44215	http://www.mcacademy.com/	Millennium Charter Academy	2002.0	1963.0
+44217	http://www.amyregionallibrary.org	Avery-Mitchell-Yancey Regional Library	2008.0	22.0
+44219	http://robeson.edu/	Robeson Community College	2007.0	497.0
+44220	http://www.ncdhhs.gov/oeo/	Economic Opportunity, Office of	2006.0	11.0
+44221	http://dconc.gov/index.aspx	Durham County	0.0	1790.0
+44222	http://toknc.com/	Kernersville	2004.0	206.0
+44223	http://alphaacademy.net/	Alpha Academy School	2001.0	1.0
+44224	http://www.townofwagram.com/	Wagram	2011.0	20.0
+44225	http://www.clevelandcc.edu	Cleveland Community College	2012.0	234.0
+44226	http://www.summerfieldgov.com/	Summerfield	2007.0	1186.0
+44227	http://www.nhaschools.com/schools/preeminent/en/pages/default.aspx	PreEminent Charter	0.0	23.0
+44228	http://www.cms.k12.nc.us/Pages/default.aspx	CHARLOTTE-MECKLENBURG School	2009.0	1083.0
+44229	http://www.iredell.lib.nc.us	Iredell County Library	2002.0	27.0
+44231	http://www.southwesterncc.edu/	Southwestern Community College	2002.0	2898.0
+44232	http://www.forsyth.cc/library/	Forsyth County Public Library	2004.0	275.0
+44233	http://www.hamletnc.us/	Hamlet	2007.0	71.0
+44234	http://www.mitchellcounty.org/	Mitchell County	2002.0	29.0
+44235	http://www.energync.net/	Energy Office, State	2001.0	177.0
+44236	http://www.catawbacountync.gov/	Catawba County	2003.0	1292.0
+44240	http://www.uncfsu.edu	Fayetteville State University	1997.0	1139.0
+44241	http://www.co.currituck.nc.us/	Currituck County	2000.0	479.0
+44242	http://www.nccourts.org/	Administrative     Office of the Courts : Judicial Branch of N.C. Government	2001.0	1780.0
+44243	http://www.secretary.state.nc.us/ucc/	Uniform Commercial Code Division	2000.0	8.0
+44244	http://ncforestservice.gov/	Forest Resources	2011.0	69.0
+44245	http://www.buncombecounty.org/governing/depts/library/locations_fairview.aspx	Fairview Branch Library	2011.0	69.0
+44246	http://www.roxborocommunityschool.org	Roxboro Community School	2007.0	1.0
+44247	http://www.nc.ngb.army.mil/Pages/default.aspx	National Guard	2012.0	137.0
+44248	http://www.forsyth.cc/	County	2002.0	546.0
+44249	http://www.oshr.nc.gov/Recruit/tempsolu/	Temporary Solutions	2013.0	8.0
+44250	http://www.maidennc.com/	Maiden	2001.0	37.0
+44251	http://www.mcdowelltech.edu/	McDowell Technical Community College	2004.0	80.0
+44252	http://www.artspacecharter.org	ArtSpace Charter School	2002.0	333.0
+44253	http://www.candornc.com/	Candor	2002.0	8.0
+44254	http://ww2.hickorygov.com/library/	Hickory Public Library	0.0	1.0
+44255	http://www.co.orange.nc.us/	Orange County	1998.0	509.0
+44256	http://www.alamancecc.edu/	Alamance Community College	2006.0	511.0
+44257	http://www.doa.nc.gov/fiscal/	Fiscal Management Division	2008.0	2.0
+44258	http://www.swaincountync.gov/	Swain County	2008.0	146.0
+44259	http://www.tricountycc.edu/	Tri-County Community College	0.0	1068.0
+44261	https://www.ncesc1.com/	Employment Security Division	2013.0	20.0
+44264	http://wsfcs.k12.nc.us/site/default.aspx?PageID=1	WINSTON-SALEM/FORSYTH School	2011.0	257.0
+44265	http://www.lowellnc.com/	Lowell	2002.0	10.0
+44266	http://www.co.forsyth.nc.us/	Forsyth County	1998.0	363.0
+44267	http://www.burke.k12.nc.us/Pages/Home.aspx	BURKE School	2010.0	1329.0
+44268	http://www.pittcountync.gov/	County	2004.0	1019.0
+44269	http://townofpineville.com/	Pineville	2004.0	109.0
+44270	http://townoflittleton-nc.us/	Littleton	2007.0	10.0
+44271	http://www.granville.lib.nc.us/	Richard H. Thornton Library	2000.0	51.0
+44272	http://www.carteretcountyschools.org	CARTERET School	2001.0	1618.0
+44273	http://www.camdencountync.gov/	Camden County	2004.0	687.0
+44275	http://www.halifaxcc.edu/	Halifax Community College	2002.0	550.0
+44276	http://www.greenvillenc.gov	Greenville	2003.0	2208.0
+44277	http://fcnclibrary.wordpress.com/	Franklinton Public Library	0.0	7.0
+44278	http://ncartmuseum.org/	Museum of Art	1999.0	1330.0
+44279	http://www.cumberland.lib.nc.us/	North Regional Branch Library	1996.0	45.0
+44280	http://www.townofweddington.com/	Weddington	2004.0	56.0
+44281	http://www.ncdot.gov/dmv/	Motor Vehicles Division	2008.0	112.0
+44283	http://www.nhcgov.com/library/pages/default.aspx	Carolina Beach Library	2011.0	2.0
+44284	http://www.johnstonnc.com/pljcs/index.cfm	Mary Duncan Public Library	2011.0	74.0
+44285	http://www.arlibrary.org	Appalachian Regional Library	1999.0	2.0
+44288	http://www.ncdhhs.gov/dsb/	Blind,     Division of Services for the	2006.0	53.0
+44289	http://www.edgecombelibrary.org	Edgecombe County Memorial Library	2001.0	16.0
+44290	http://www.farmville-nc.com/	Farmville	2001.0	124.0
+44291	http://www.watauga.k12.nc.us	WATAUGA School	1999.0	194.0
+44292	http://www.sampson.k12.nc.us/education/district/district.php?sectionid=1	SAMPSON School	2010.0	2.0
+44293	http://www.alexander.k12.nc.us	ALEXANDER School	1998.0	9.0
+44295	http://www.stanly.edu/	Stanly Community College	2002.0	1595.0
+44297	http://www.ncagr.gov/SWC/	Soil and Water Conservation	2012.0	52.0
+44299	http://rutherfordcollegenc.us/index.html	Rutherford College	2009.0	32.0
+44301	http://www.townofstantonsburg.com/	Stantonsburg	2010.0	18.0
+44303	http://www.ci.kinston.nc.us/	Kinston	2000.0	156.0
+44305	http://www.norwoodnc.com/	Norwood	2001.0	16.0
+44306	http://www.townofshallotte.org/	Shallotte	2006.0	748.0
+44307	http://www.mcsnc.org	MITCHELL School	2001.0	39.0
+44308	http://www.corvian.org	Corvian Community School	2010.0	23.0
+44309	http://www.indiantrail.org/	Indian Trail	2000.0	495.0
+44310	http://www.hcs.k12.nc.us	HOKE School	2000.0	57.0
+44311	http://cfci.net/	Cape Fear Center for Inquiry	2000.0	175.0
+44312	http://www.ci.statesville.nc.us	Statesville	2000.0	1234.0
+44314	http://ciu.northcarolina.edu/	Center     for International Understanding	2008.0	104.0
+44315	http://www.taylorsvillenc.com/	Taylorsville	2001.0	63.0
+44316	http://www.townofmayodan.com/	Mayodan	2004.0	642.0
+44317	http://www.ncports.com/	State Ports Authority	1996.0	611.0
+44318	http://tlaedu.org/	Torchlight Academy	2010.0	25.0
+44319	http://www.cedarpointnc.org/	Cedar Point	2007.0	29.0
+44320	http://www.ncdhhs.gov/dss/cps/index.htm	Child Protection Services	2006.0	3.0
+44321	http://www.chowancounty-nc.gov/	Chowan County	2006.0	304.0
+44322	http://main.nc.us/townofgamewell/	Gamewell	2007.0	7.0
+44323	http://www.cravencountync.gov/	Craven County	2008.0	311.0
+44325	http://www.doa.nc.gov/parking/	Parking Division, State	2008.0	2.0
+44326	http://townofmurphync.com/	Murphy	2007.0	24.0
+44327	http://www.elizabethtownnc.org/	Elizabethtown	1998.0	252.0
+44328	http://www.its.nc.gov/	Information Technology Services, Office of	2011.0	188.0
+44329	http://haywoodlibrary.libguides.com/main/	Canton Branch Library	2013.0	3.0
+44330	http://www.ncdnpe.org/	Non-Public Education Office	2001.0	46.0
+44331	http://www.nhclibrary.org	New Hanover County Public Library	2006.0	2.0
+44332	http://www.uncw.edu	UNC Wilmington	2001.0	5715.0
+44333	http://www.alamancelibraries.org	Alamance County Public Library	2006.0	4.0
+44334	http://www.hickoryschools.net	EDUCATION DIRECTORY OF NORTH CAROLINA School	2008.0	1946.0
+44335	http://farmvillelibrary.org/home	Farmville Public Library	2012.0	78.0
+44336	http://townofconwaync.com/	Conway	2011.0	601.0
+44338	http://www.daviecountync.gov/	Davie County	2010.0	515.0
+44339	http://www.columbusco.org/	Columbus County	2005.0	402.0
+44340	http://www.townofcapecarteret.org/	Cape Carteret	2013.0	107.0
+44342	http://www.cccc.edu/	Central Carolina Community College	2002.0	609.0
+44343	http://www.lncharter.org/	Lake Norman Charter	2013.0	74.0
+44344	https://www.ncdps.gov/	Public Safety, Department of	2012.0	1274.0
+44345	http://www.co.union.nc.us/	Union County	1998.0	226.0
+44346	http://www.gaston.k12.nc.us/Pages/welcome.aspx	GASTON School	2010.0	0.0
+44347	http://coserver.gates.k12.nc.us/site/default.aspx?PageID=1	GATES School	2012.0	8.0
+44348	http://mocksvillenc.org/	Mocksville	2008.0	138.0
+44349	http://www.cityoflenoir.com/	Lenoir	2004.0	257.0
+44350	http://www.ucps.k12.nc.us/	UNION School	2000.0	141.0
+44351	http://cornerstone.teamcfa.org/	Cornerstone Charter Academy	2013.0	1023.0
+44352	http://www.cantonnc.com	Canton	2000.0	367.0
+44353	http://www.onslowcountync.gov/library/	Sneads Ferry Branch Library	2007.0	3.0
+44354	http://www.doa.state.nc.us/pandc/	Purchase and Contract Division	1998.0	697.0
+44355	http://www.ncdhhs.gov/mhddsas/	Mental Health, Developmental Disabilities and Substance Abuse Services	2006.0	262.0
+44356	http://www.rivermilljags.org	River Mill Academy	2004.0	2.0
+44359	http://summitschool.org/	Summit Charter	1999.0	58.0
+44360	http://cityofmebane.com/	Mebane	2000.0	210.0
+44361	http://www.ncdoj.gov/about-doj/law-enforcement-training-and-standards.aspx	Sheriffs' Training and Standards	2009.0	107.0
+44362	http://www.woodscharter.org	Woods Charter	2003.0	1429.0
+44363	http://www.cityofshelby.com/	Shelby	2000.0	357.0
+44364	http://www.doa.nc.gov/yaio/	Youth Advocacy and Involvement Office	2008.0	4.0
+44367	http://www.magellancharter.org	Magellan Charter	2003.0	41.0
+44368	http://www.townofhotsprings.org/	Hot Springs	2004.0	41.0
+44370	http://www.buncombecounty.org/governing/depts/library/locations_leicester.aspx	Leicester Branch Library	2011.0	69.0
+44371	http://www.ci.goldsboro.nc.us	Goldsboro	2001.0	146.0
+44372	http://www.ci.lincolnton.nc.us/home.html	Lincolnton	2003.0	42.0
+44373	http://www.transylvaniacounty.org/	Transylvania County	2002.0	415.0
+44374	http://www.nccourts.org/courts/appellate/supreme/	Supreme Court	2003.0	26.0
+44375	http://www.townofchocowinity.com/	Chocowinity	2009.0	12.0
+44376	http://www.redsprings.org/	Red Springs	2001.0	443.0
+44377	http://www.fairmontnc.com/	Fairmont	2002.0	70.0
+44378	http://www.oldfort.org/	Old Fort	2001.0	17.0
+44379	http://www.townofhollyspringsnc.net/	Holly Springs	2002.0	9.0
+44381	http://www.ci.king.nc.us	King	1998.0	331.0
+44382	http://www.whisperingpinesnc.net/	Whispering Pines	2002.0	4.0
+44383	http://www.nccob.gov/public/	Banking     Commission	2011.0	25.0
+44384	http://www.joycharter.org	Maureen Joy Charter School School	2003.0	12.0
+44385	http://www.gatescounty.govoffice2.com/	Gates County	2006.0	977.0
+44386	http://www.pcs.k12.nc.us	PERQUIMANS School	2002.0	46.0
+44387	http://www.ecps.us/site/default.aspx?PageID=1	EDGECOMBE School	2013.0	66.0
+44388	http://townofwalkertown.com	Walkertown	2004.0	63.0
+44389	http://www.robeson.k12.nc.us/site/default.aspx?PageID=1	ROBESON School	2011.0	29.0
+44390	http://ccs.k12.nc.us/	CUMBERLAND School	1997.0	0.0
+44392	http://www.townoftroutman.org/	Troutman	2002.0	44.0
+44393	http://www.villageofsimpsonnc.com/	Simpson	2011.0	61.0
+44394	http://www.macon.k12.nc.us/Pages/MCS.aspx	MACON School	2013.0	9.0
+44395	http://www.surfcity.govoffice.com/	Surf City	2002.0	448.0
+44396	http://elkinnc.org/elkin/	Elkin	2007.0	36.0
+44397	http://www.caswell.k12.nc.us/	CASWELL School	2006.0	468.0
+44398	http://www.enfieldnc.org/	Enfield	2004.0	4.0
+44400	http://villageofmisenheimer.com/	Misenheimer	2005.0	85.0
+44401	http://www.wakegov.com/Pages/default.aspx	Wake County	2012.0	1169.0
+44403	http://charmeck.org/Pages/default.aspx	Mecklenburg County	2010.0	2796.0
+44404	http://www.townofduck.com	Duck	2002.0	409.0
+44405	http://www.albemarle-regional.lib.nc.us/	Northampton County Memorial Library	2001.0	42.0
+44406	http://www.selma-nc.com/	Selma	1998.0	315.0
+44407	http://www.ncagr.gov/	Agriculture and     Consumer Services, Department of	2008.0	1618.0
+44408	http://www.starscharter.org/	STARS Charter	2005.0	35.0
+44410	http://www.smithfield-nc.com/	Smithfield	1996.0	56.0
+44411	http://www.sampsonnc.com/	Sampson County	2002.0	112.0
+44412	http://www.walnutcreeknc.com/	Walnut Creek	2001.0	702.0
+44413	http://www.monroenc.org/	Monroe	0.0	15.0
+44414	http://www.nccommerce.com/trade	International Trade Division	2011.0	660.0
+44415	http://www.foxfirenc.com/	Foxfire Village	2007.0	244.0
+44416	http://www.townofclaytonnc.org/	Clayton	2003.0	112.0
+44417	http://www.nhcgov.com/Pages/Home.aspx	New Hanover County	2011.0	787.0
+44418	http://www.ncdenr.gov/web/guest	Environment and Natural Resources, Department of	2010.0	1582.0
+44419	http://www.hyde.k12.nc.us	HYDE School	2001.0	182.0
+44421	http://www.doa.state.nc.us/spo/	Property, Office of State	2007.0	3.0
+44422	http://orange.k12.nc.us/	School	1998.0	245.0
+44423	http://www.townofbeulaville.com/	Beulaville	2002.0	26.0
+44424	http://www.unionacademy.net/	Union Academy	2002.0	1798.0
+44425	http://www.pinelakeprep.org	Pine Lake Preparatory	2007.0	86.0
+44427	http://www.ncoah.com/	Administrative     Hearings, Office of	2004.0	32.0
+44428	http://www.greensboro-nc.gov/index.aspx?page=780	Greensboro Public Library	2011.0	6169.0
+44429	http://www.townofcolumbianc.com/	Columbia	2006.0	278.0
+44430	http://www.locustnc.com/	Locust	2001.0	43.0
+44431	http://www.kenansville.org/	Kenansville	2007.0	11.0
+44432	http://www.perquimanscountync.gov/	Perquimans County	2006.0	340.0
+44433	http://www.dornc.com/	Revenue, Department of	2004.0	292.0
+44434	http://fairviewnc.gov/	Fairview	2007.0	17.0
+44435	http://www.buncombecounty.org/governing/depts/library/locations_weaverville.aspx	Weaverville Library	2011.0	68.0
+44436	http://www.blnc.gov/start-your-business/business-licenses-permits	Licensing, Occupational Licensing Boards	2011.0	15.0
+44437	http://www.co.surry.nc.us/	Surry County	2000.0	204.0
+44438	http://www.atlanticbeach-nc.com/	Atlantic Beach	2000.0	96.0
+44439	http://www.beaufortnc.org/	Beaufort	2003.0	92.0
+44440	http://www.ncpublicschools.org/	Public Schools of North Carolina (Department of Public Instruction)	2000.0	2176.0
+44441	http://arsnc.org	American Renaissance School	2008.0	40.0
+44442	http://www.clemmons.org	Clemmons	1998.0	2.0
+44443	http://www.ccpl.us	Caldwell County Public Library	2004.0	39.0
+44444	http://www.southernpines.net/399/Library-and-Information-Technology-Servi	Southern Pines Public Library	2013.0	2.0
+44445	http://www.doa.state.nc.us/hrc/	Human Relations Commission	2007.0	3.0
+44446	http://www.raleighnc.gov/	Raleigh	2008.0	1637.0
+44447	http://www.villagebhi.org/	Bald Head Island	2000.0	72.0
+44448	http://www.wilkesboronorthcarolina.com/	Wilkesboro	2003.0	284.0
+44450	http://www.martincountyncgov.com/	Martin County	2004.0	132.0
+44451	http://www.catawbacountync.gov/library/	Catawba County Library	2003.0	52.0
+44452	http://www.osc.nc.gov/	Controller,     Office of the State	2008.0	123.0
+44453	http://www.lincolncounty.org/	Lincoln County	1999.0	754.0
+44454	http://unc.edu/	UNC-Chapel Hill	1997.0	324.0
+44455	http://www.buncombecounty.org/governing/depts/library/locations_north.aspx	North Asheville Library	2011.0	68.0
+44456	http://www.granitefallsnc.com/	Granite Falls	2000.0	35.0
+44457	http://www.magnolianc.com/	Magnolia	2001.0	2.0
+44458	http://www.yadkin.k12.nc.us	YADKIN School	0.0	1549.0
+44460	http://carteret.cpclib.org/	Carteret County Public Library	2003.0	80.0
+44462	http://www.ncdot.gov/	Transportation, Department of	2008.0	549.0
+44464	http://www.co.pasquotank.nc.us/	Pasquotank County	1999.0	78.0
+44465	http://www.nchfa.com/	Housing Finance Agency of North Carolina	2000.0	204.0
+44466	http://www.mountairy.org	Mount Airy	1998.0	347.0
+44467	http://www.nc-ddc.org/	Developmental Disabilities, Council on	1998.0	208.0
+44468	http://www.oakboro.com/	Oakboro	1999.0	31.0
+44469	http://www.stanlycountylibrary.org/	Norwood Branch Library	2008.0	27.0
+44472	http://rockwellnc.gov/	Rockwell	2009.0	11.0
+44473	http://ehs.ncpublichealth.com/	Environmental Health	2012.0	54.0
+44474	http://www.mountaindiscovery.org	Mountain Discovery Charter	2004.0	29.0
+44475	http://www.co.burke.nc.us/	Burke County	1999.0	167.0
+44476	http://www.doa.state.nc.us/cia/	Indian Affairs, Commission of	2007.0	3.0
+44477	http://www.nccommunitycolleges.edu/	Community     College System Office	2005.0	1519.0
+44478	http://www.nhcs.net	NEW HANOVER School	1999.0	200.0
+44479	http://www.townoflandis.com/	Landis	2005.0	426.0
+44480	http://www.richlandsnc.gov/	Richlands	2009.0	15.0
+44481	http://www.townofkurebeach.org/	Kure Beach	2006.0	677.0
+44482	http://www.vopnc.org/	Pinehurst	2012.0	365.0
+44484	http://www.blueridge.edu/	Blue Ridge Community College	2002.0	945.0
+44485	http://www.averyschools.net/site/default.aspx?PageID=1	AVERY School	2011.0	17.0
+44486	http://www.appstate.edu	Appalachian State University	1997.0	19.0
+44487	http://townofnewport.com/	Newport	2004.0	38.0
+44488	http://www.nczoo.org/	Zoological Park	1997.0	35.0
+44489	http://www.governor.nc.gov/contact	Constituent Services, Governor's Office	2013.0	492.0
+44490	http://www.mtgileadnc.com/	Mount Gilead	2004.0	10.0
+44491	http://abc.nc.gov/	Alcoholic     Beverage Control Commission	2010.0	606.0
+44492	http://tjca.teamcfa.org/	Thomas Jefferson Class Academy	2008.0	2424.0
+44494	http://www.concordnc.gov/	Concord	2011.0	819.0
+44495	http://www.mcdowell.k12.nc.us	MCDOWELL School	1999.0	271.0
+44496	http://www.washconc.org/	Washington County	2005.0	15.0
+44497	http://www.co.beaufort.nc.us/	Beaufort County	2001.0	1352.0
+44498	http://www.beargrasscharter.org	Bear Grass	2013.0	0.0
+44499	http://www.ncdhhs.gov/aging/	Aging and     Adult Services, Division of	2006.0	179.0
+44500	http://www.stanlycountyschools.org	STANLY School	2009.0	49.0
+44501	http://www.grandfatherhome.org/programs-academy.html	Grandfather Academy	2011.0	2.0
+44502	http://www.southernshores.org/	Southern Shores	2000.0	89.0
+44503	http://www.townofclaytonnc.org/Residents/Library.aspx	Hocutt Ellington Memorial Library	2008.0	55.0
+44504	http://www.townofwj.com/	West Jefferson	2006.0	22.0
+44505	http://www.co.rockingham.nc.us/	Rockingham County	1999.0	4275.0
+44507	http://www.cornelius.org/	Cornelius	2000.0	915.0
+44508	http://www.gtcc.edu/	Guilford Technical Community College	2002.0	2098.0
+44509	http://www.cravencc.edu/	Craven Community College	2002.0	481.0
+44510	http://www.townofblackmountain.org	Black Mountain	2002.0	78.0
+44511	http://www.hendersoncountync.org/	Henderson County	2001.0	530.0
+44512	http://www.randolph.edu/	Randolph Community College	2002.0	2793.0
+44513	http://www.ashecountygov.com/	Ashe County	2002.0	95.0
+44515	http://montgomery.k12.nc.us/site/default.aspx?PageID=1	MONTGOMERY School	2013.0	27.0
+44516	http://www.lincoln.k12.nc.us/	LINCOLN School	1997.0	118.0
+44517	http://www.rockinghamcc.edu/	Rockingham Community College	2002.0	519.0
+44519	https://www.nctreasurer.com/Pages/default.aspx	Treasurer, Department of State	2012.0	368.0
+44520	http://www.silercity.org/	Siler City	2008.0	742.0
+44521	http://www.gcsnc.com	GUILFORD School	2005.0	854.0
+44523	http://www.ncga.state.nc.us/	State Legislature	1997.0	3181.0
+44524	http://vitalrecords.nc.gov/	Vital Records, Office of	2012.0	14.0
+44525	http://www.stokesdale.org/	Stokesdale	2004.0	2.0
+44526	http://www.jonescountync.gov/	Jones County	2013.0	470.0
+44527	http://www.cjin.nc.gov/contact/default.aspx	Criminal Justice Information Network	2013.0	2.0
+44529	http://www.townofearl.org/	Earl	2009.0	26.0
+44530	http://publichealth.nc.gov/	Public Health, Division of	2010.0	141.0
+44531	http://moreheadcity.nc.gov/	Morehead City	2008.0	338.0
+44532	http://www.scotlandcounty.org/	Scotland County	2001.0	979.0
+44533	http://www.albemarle.edu/	College of The Albemarle	2002.0	580.0
+44534	http://www.dodea.edu/Americas/NC-FortBragg/	FORT BRAGG SCHOOLS School	2013.0	652.0
+44535	http://www.johnstoncc.edu/	Johnston Community College	2002.0	538.0
+44536	http://www.orangecountync.gov/	County	2012.0	456.0
+44537	http://www.ci.mooresville.nc.us/	Mooresville	1998.0	579.0
+44538	http://bessemercity.com/	Bessemer City	1999.0	944.0
+44539	http://charterdayschool.net/	Charter Day School	2010.0	193.0
+44540	http://cramerton.org/	Cramerton	2002.0	3171.0
+44542	http://www.townofwrightsvillebeach.com/	Wrightsville Beach	2001.0	75.0
+44545	http://www.southernpines.net/	Southern Pines	2000.0	535.0
+44546	http://mauneylibrary.org	Jacob Mauney Memorial Library	2008.0	48.0
+44547	http://www.johnstonnc.com/	Johnston County	2001.0	1288.0
+44548	http://www.nhaschools.com/schools/forsyth/en/pages/default.aspx	Forsyth Academy School	2013.0	22.0
+44550	http://www.hembybridgenc.govoffice2.com/	Hemby Bridge	2009.0	29.0
+44551	http://grifton.com/	Grifton	1999.0	220.0
+44552	http://www.neregionalschool.org	Hallet Davis	2012.0	28.0
+44553	http://www.buncombecounty.org/governing/depts/library/locations_pack.aspx	Pack Memorial Library	2011.0	68.0
+44554	http://www.whitelakenc.org/	White Lake	2010.0	13.0
+44555	http://www.themountaincommunityschool.com	The Mountain Community School	2009.0	57.0
+44556	http://www.norlina.com/	Norlina	2000.0	26.0
+44557	http://www.yanceyvillenc.gov/	Yanceyville	2004.0	348.0
+44558	http://www.salliebhowardschool.com	Sallie B Howard School	2003.0	20.0
+44560	http://townofhertfordnc.com/	Hertford	2006.0	29.0
+44562	http://www.surpluspropertydivision.com/	Property Division, State Surplus	2003.0	2.0
+44563	http://www.ncstatefair.org/	State Fair Info	1999.0	132.0
+44564	http://www.ic.nc.gov/	Industrial Commission	2009.0	1664.0
+44566	http://www.nccu.edu	North Carolina Central University	1997.0	1341.0
+44567	http://www.governor.nc.gov/	Governor, Office of	2011.0	512.0
+44569	http://www.doa.state.nc.us/clearing/	Clearinghouse,     State Environmental Review	2006.0	8.0
+44572	http://www.townofclyde.com/	Clyde	2006.0	15.0
+44573	http://www.communitycharter.org/	Community Charter School	2000.0	3351.0
+44574	http://www.nashcc.edu/	Nash Community College	2002.0	2031.0
+44575	http://www.person.k12.nc.us	PERSON School	1998.0	1185.0
+44576	http://www.secretary.state.nc.us/sec/	Securities Division	2000.0	42.0
+44577	http://www.wakeforestnc.gov/	Wake Forest	2005.0	1667.0
+44580	http://www.ecpps.k12.nc.us	ELIZABETH CITY/PASQUOTANK School	2002.0	11.0
+44581	http://www.kippgaston.org	Gaston College	2009.0	0.0
+44583	https://www.ncdps.gov/Index2.cfm?a=000003,002210	Post-Release Supervision and Parole Commission	2012.0	1274.0
+44584	http://www.lewisvillenc.net/	Lewisville	2001.0	224.0
+44586	http://www.apexnc.org/	Apex	2000.0	472.0
+44587	http://www.chathamnc.org/Index.aspx?page=126	Chatham County Public Libraries	2007.0	3163.0
+44588	http://www.currituck.k12.nc.us/site/default.aspx?PageID=1	CURRITUCK School	2011.0	12.0
+44589	http://www.buncombecounty.org/governing/depts/library/	South Buncombe Branch Library	2003.0	68.0
+44591	http://www.townofwallace.com/	Wallace	2006.0	197.0
+44592	http://www.ncdhhs.gov/dhsr/	Health Service Regulation, Division of	2007.0	239.0
+44593	http://www.harnett.org/	Harnett County	1998.0	599.0
+44594	http://www.townofmountolivenc.org/	Mount Olive	2008.0	55.0
+44595	http://www.rrgsd.org	ROANOKE RAPIDS School	2001.0	263.0
+44596	http://www.minthill.com	Mint Hill	1998.0	483.0
+44597	http://www.mtholly.us/	Mount Holly	2003.0	1543.0
+44598	http://www.nccs.k12.nc.us	NEWTON-CONOVER School	1999.0	297.0
+44599	http://www.nccommerce.com/	Commerce,     Department of	2000.0	1080.0
+44600	http://www.townofwentworth.com	Wentworth	2007.0	10.0
+44601	http://www.lincolncharter.org/	Lincoln Charter School	2003.0	905.0
+44602	http://www.pittcc.edu/	Pitt Community College	2005.0	271.0
+44604	http://www.ncpublications.com/	Historical Publications	2004.0	18.0
+44605	http://wadenc.com/	Wade	2010.0	30.0
+44606	http://www.pamlicocounty.org/	Pamlico County	2005.0	151.0
+44607	http://www.buncombecounty.org/governing/depts/library/locations_east.aspx	East Asheville Library	2011.0	68.0
+44608	http://www.lenoir.k12.nc.us	LENOIR School	1999.0	1849.0
+44609	http://www.townofmarshall.org/	Marshall	2005.0	39.0
+44610	http://townofstanley.org/	Stanley	2003.0	256.0
+44611	http://www.fcnclibrary.org	Franklin County Library	2008.0	1.0
+44612	http://www.garnernc.gov/	Garner	2006.0	215.0
+44613	http://www.ci.burlington.nc.us/	Burlington	1998.0	884.0
+44614	http://www.columbus.k12.nc.us	COLUMBUS School	2001.0	2.0
+44615	http://www.nc-educationlottery.org/	Lottery	2006.0	279.0
+44617	http://www.co.guilford.nc.us/	Guilford County	1997.0	1106.0
+44618	http://www.crossroadscharter.org	Crossroads Charter High	2004.0	7.0
+44619	http://www.ncleg.net/senate/senate.html	Senate	2002.0	11.0
+44620	http://www.tobaccovillenc.org/	Tobaccoville	2002.0	18.0
+44621	http://www2.cfcc.edu/	Cape Fear Community College	2002.0	1575.0
+44623	http://www.ncleg.net/ldd/	Legislative Bill Drafting Division	2008.0	14.0
+44624	https://www.nctreasurer.com/retirement-and-savings/Managing-My-Retirement/Pages/default.aspx	Retirement Systems Division	2012.0	49.0
+44625	http://www.fouroaks-nc.com/	Four Oaks	2008.0	39.0
+44626	http://www.doa.nc.gov/	Administration,     Department of	2008.0	63.0
+44627	http://www.tcsnc.org	TRANSYLVANIA School	2009.0	1051.0
+44628	http://questcharter.org/	10908 Strickland Road, Raleigh, NC 27615 School	2008.0	9.0
+44629	http://www.minnesottbeachnc.govoffice2.com/	Minnesott Beach	2009.0	210.0
+44632	http://www.doc.state.nc.us/	Alcohol and Chemical Dependency, Division of	1996.0	14.0
+44633	http://www.clevelandcountyschools.org/	CLEVELAND School	2004.0	132.0
+44634	http://www.ncdhhs.gov/orhcc/	Rural Health and Community Care, Office	2008.0	25.0
+44635	http://www.scotland.k12.nc.us	SCOTLAND School	2010.0	192.0
+44636	http://www.townofmaggievalley.com/	Maggie Valley	2004.0	93.0
+44638	http://www.northamptonnc.com/	Northampton County	1999.0	29.0
+44639	http://www.qeschools.org/	Quality Education Academy, School	2008.0	43.0
+44640	http://www.elonnc.com/	Elon	2001.0	314.0
+44641	http://www.sampsoncc.edu/	Sampson Community College	2004.0	453.0
+44642	http://www.wilkescc.edu/	Wilkes Community College	2003.0	284.0
+44643	http://www.ncagr.gov/fooddist/	Food Distribution	2008.0	32.0
+44645	http://www.nc-sco.com/default.aspx	Construction,     Office of State	2010.0	22.0

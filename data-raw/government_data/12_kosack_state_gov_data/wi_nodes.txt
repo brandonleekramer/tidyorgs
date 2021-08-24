@@ -1,0 +1,1372 @@
+NodeId	NodeURL	NodeName	Year	pages
+59123	http://www.nfdl.org/	North Fond du Lac, Village of	1999.0	468.0
+59125	http://www.specialed.us	Calumet Co CDEB	2007.0	116.0
+59126	http://www.trschools.k12.wi.us	Two Rivers Public	2000.0	1023.0
+59127	http://www.riowisconsin.com/index.html	Rio, Village of	2010.0	2.0
+59129	http://www.vernoncounty.org/	Vernon	2001.0	267.0
+59130	http://www.desoto.k12.wi.us	Prairie View El	1999.0	38.0
+59131	http://www.baraboo.k12.wi.us	BELC--Renewal Head Start	1998.0	687.0
+59132	http://www.balsamlakepubliclibrary.org	Balsam Lake Public Library	2003.0	32.0
+59134	http://www.co.la-crosse.wi.us/	La Crosse	1998.0	211.0
+59135	http://villageofhazelgreen.org	Hazelgreen, Village of	2001.0	573.0
+59136	http://crawfordcountywi.org/	Crawford	2006.0	37.0
+59137	http://www.mjsd.k12.wi.us	Butte des Morts El	2001.0	280.0
+59139	http://www.ci.brillion.wi.us/library_home.html	Brillion Public Library	2001.0	0.0
+59140	http://www.slinger.lib.wi.us	Slinger Community Library	2001.0	3.0
+59141	http://www.village.newburg.wi.us/	Newburg, Village of	2001.0	7.0
+59143	http://homelandsecurity.wi.gov/	Homeland Security	2004.0	2.0
+59144	http://www.co.waushara.wi.us/	Waushara	2004.0	1185.0
+59146	http://www.classicalcharter.com	Classical School	1999.0	644.0
+59147	http://www.waupun.k12.wi.us	Rock River Intermediate	1999.0	696.0
+59148	http://www.kmsd.edu	Kettle Moraine Mid	0.0	833.0
+59149	http://www.townofanderson.com/	Anderson, Town of	2010.0	29.0
+59150	http://www.wisbar.org/forPublic/INeedInformation/Pages/Wisconsin-Tax-Appeals-Commission-Files.aspx	Tax Appeals Commission	2013.0	18.0
+59151	http://www.npsd.k12.wi.us	Northland Pines-Land O&#39; Lakes	2002.0	4291.0
+59152	http://www.lcs.k12.wi.us	Lake Country Sch	1998.0	886.0
+59153	http://www.orfordville.org/Index.cfm?Load=Yes	Orfordville, Village of	2004.0	81.0
+59154	http://www.co.ozaukee.wi.us	Ozaukee	1998.0	1322.0
+59155	http://www.clintonvillewi.org/	Clintonville, City of	2001.0	155.0
+59156	http://cityofportwashington.com/	Port Washington, City of	2011.0	85.0
+59157	http://www.kaukaunalibrary.org	Kaukauna Public Library	2002.0	534.0
+59158	http://www.poynette.k12.wi.us	Poynette Mid	1999.0	288.0
+59159	http://secondary.spartan.org	Sparta Hi	2011.0	88.0
+59160	http://townofwestpoint.us/	West Point, Town of	2005.0	21.0
+59161	http://www.salem.k12.wi.us/site/default.aspx?PageID=1	Salem El	2011.0	15.0
+59162	http://www.wausaukee.k12.wi.us	Wausaukee Hi	1999.0	1101.0
+59163	http://www.cityofberlin.net/modules/web/index.php/id/1/BerlinWisconsin	Berlin, City of	2011.0	15.0
+59164	http://www.townoffarmington.org	Farmington, Town of (Jefferson County)	2011.0	59.0
+59165	http://www.townofmukwonago.us	Mukwonago, Town of	2004.0	1480.0
+59167	http://wilmothighschool.com/	Wilmot Hi	2002.0	602.0
+59168	http://www.chilton.k12.wi.us	Chilton Mid	1998.0	2298.0
+59169	http://www.vi.hewitt.wi.us/	Hewitt, Village of	2002.0	393.0
+59170	http://www.townofclayton.net/	Clayton, Town of	2007.0	266.0
+59171	http://www.stfrancislibrary.com	St. Francis Public Library	2002.0	1.0
+59172	http://www.prescottwi.org	Prescott, City of	2001.0	179.0
+59174	http://www.waterloo.lib.wi.us/site/	Karl Junginger Memorial Library	2013.0	18.0
+59175	http://www.waterforduhs.k12.wi.us	Waterford UHS	1998.0	19.0
+59176	http://www.tn.stella.wi.gov	Stella, Town of	2009.0	38.0
+59177	http://www.kacsmilw.org	King&#39;s Acad	2008.0	19.0
+59178	http://www.brule-wi.org/	Brule, Town of	2004.0	24.0
+59179	http://wwusd.org	Whitewater 4K	2003.0	64.0
+59180	http://www.tn.turtle.wi.gov/	Turtle, Town of	2009.0	82.0
+59181	http://www.hilbert.k12.wi.us	Hilbert Mid	2000.0	121.0
+59183	http://www.potosisd.k12.wi.us	Potosi	1997.0	87.0
+59184	http://www.fortschools.org	Fort Atkinson Mid	0.0	651.0
+59186	http://www.cwasd.k12.wi.us/rcei/	Red Cedar Environmental Inst	2011.0	1.0
+59189	http://www.wautomalibrary.org	Wautoma Public Library	2001.0	192.0
+59190	http://www.elroywi.com/	Elroy, City of	1998.0	998.0
+59191	http://www.trego.net/	Trego, Town of	2000.0	21.0
+59192	http://cityofbarron.com/	Barron, City of	2013.0	40.0
+59193	http://vil.ep.wi.us/	Elmwood Park, Village of	2013.0	69.0
+59195	http://bayfield.k12.wi.us	La Pointe El	1999.0	673.0
+59196	http://www.racineco.com/	Racine	1999.0	74.0
+59197	http://www.empire-town.org/	Empire, Town of	2000.0	24.0
+59199	http://www.farmington-waupaca.com	Farmington, Town of (Waupaca County)	2011.0	23.0
+59200	http://www.traverschool.org	Traver El	2011.0	209.0
+59201	http://www.ecasd.k12.wi.us/teachinglearning/coa_student_services.cfm	Main Street Sch	0.0	75.0
+59202	http://www.norrisschool.org	Norris Hi	2010.0	46.0
+59203	http://www.rvschools.org	River Valley El Studio Sch	1999.0	2227.0
+59204	http://mymonona.com/131/Library	Monona Public Library	2014.0	2.0
+59206	http://www.wildroselibrary.org	Patterson Memorial Library	2001.0	139.0
+59207	http://www.seedsofhealth.org	Milw Community Cyber Hi	2001.0	62.0
+59208	http://www.co.sheboygan.wi.us/	Sheboygan	1999.0	1308.0
+59209	http://www.villageoftwinlakes.net/	Twin Lakes, Village of	2002.0	123.0
+59210	http://www.tbscottlibrary.org	T.B. Scott Free Library	2011.0	29.0
+59211	http://www.barron.k12.wi.us	Ridgeland-Dallas El	1999.0	386.0
+59212	http://www.mhasd.k12.wi.us/site/default.aspx?PageID=1	Mount Horeb Intermediate	2012.0	56.0
+59214	http://www.townofmerton.com/	Merton, Town of	2003.0	23.0
+59215	http://www.forwardwi.com/	Forward Wisconsin	1998.0	941.0
+59216	http://dsps.wi.gov/Home	Safety and Professional Services, Department of	2012.0	563.0
+59217	http://www.brillion.k12.wi.us	Brillion Mid	2001.0	81.0
+59218	http://www.blackearthwisconsin.com	Black Earth, Village of	2005.0	328.0
+59219	http://www.villageofhartland.com	Hartland, Village of	2001.0	748.0
+59220	http://www.uwec.edu/	UW-Eau Claire	1997.0	5154.0
+59222	http://www.westfield.k12.wi.us	Westfield Area Mid	1999.0	607.0
+59223	http://www.fdlco.wi.gov	Fond du Lac	2007.0	6246.0
+59225	http://www.lakemills.k12.wi.us	Prospect Street El	1997.0	504.0
+59226	http://www.tn.trempealeau.wi.gov/	Trempealeau, Town of	2009.0	59.0
+59227	http://als.lib.wi.us/	Arrowhead Library System	1997.0	118.0
+59228	http://www.mellendiggers.org	Mellen Public School	2013.0	41.0
+59230	http://www.beaverdam.k12.wi.us	Don Smith Learning Acad	2000.0	905.0
+59231	http://www.alma.k12.wi.us	Alma El	1998.0	1.0
+59232	http://windpointwi.us/	Wind Point, Village of	2003.0	54.0
+59233	http://saukcitylibrary.org/	Sauk City Public Library	2003.0	158.0
+59234	http://www.franciscreek.org/	Francis Creek, Village of	0.0	51.0
+59235	http://www.pecatonica.k12.wi.us	Pecatonica Area	2001.0	12.0
+59236	http://www.burlingtonlibrary.org	Burlington Public Library	2001.0	12.0
+59238	http://www.williamsbayschools.org	Williams Bay Hi	2011.0	568.0
+59239	http://www.marathon.k12.wi.us	Marathon Venture Acad	1998.0	3.0
+59240	http://www.veronapubliclibrary.org/	Verona Public Library	2007.0	681.0
+59241	http://www.prairieduchien-wi.gov/internal/library_home.htm	Joseph W. Emma L. Wachute Memorial Library	2004.0	0.0
+59243	http://www.bayfieldcounty.org/	Bayfield	2001.0	1155.0
+59244	http://www.sdsm.k12.wi.us	South Milwaukee Mid	1998.0	782.0
+59245	http://www.nbexcellence.org	Eisenhower Mid/Hi	2009.0	1786.0
+59246	http://www.depere.k12.wi.us	De Pere	1998.0	168.0
+59247	http://www.columbuspubliclibrary.info	Columbus Public Library	2004.0	1159.0
+59248	http://www.cityofmadison.com/	Madison, City of	2002.0	4264.0
+59249	http://wvls.lib.wi.us/westtaylorcopl/	Western Taylor County Public Library	2004.0	1.0
+59252	http://www.kimberly.k12.wi.us	Woodland Intermediate	1998.0	203.0
+59253	http://www.villageofsherwood.org/	Sherwood, Village of	2006.0	271.0
+59254	http://www.shorewoodlibrary.org	Shorewood Public Library	2014.0	680.0
+59255	http://www.townofgreenville.com/	Greenville, Town of	2000.0	50.0
+59256	http://villageofneosho.org/	Neosho, Village of	2008.0	461.0
+59257	http://www.ricelake.k12.wi.us	Rice Lake Area	2000.0	568.0
+59258	http://www.sheboygan.k12.wi.us	Elem Sch for Arts &amp; Academics	1998.0	36.0
+59260	http://www.linn6.k12.wi.us/site/default.aspx?PageID=1	Reek El	2014.0	7.0
+59261	http://www.packwaukeelibrary.org	Packwaukee Public Library	2001.0	13.0
+59262	http://www.luhs.k12.wi.us	Lakeland UHS	1998.0	3.0
+59263	http://www.marshfield.k12.wi.us/schools/lincoln/	Lincoln El	2007.0	16.0
+59264	http://www.dellslibrary.org	Kilbourn Public Library	2008.0	22.0
+59265	http://www.mapledale.k12.wi.us	Maple Dale-Indian Hill	2000.0	11.0
+59266	http://www.ci.beloit.wi.us/	Beloit, City of	1999.0	402.0
+59267	http://www.boscobel.k12.wi.us	Boscobel Area	1999.0	71.0
+59268	http://ci.newholstein.wi.gov/	New Holstein, City of	2013.0	99.0
+59269	http://www.villageofsilverlakewi.com	Silver Lake, Village of	2013.0	98.0
+59271	http://www.mineralpoint.com/	Mineral Point, City of	1998.0	290.0
+59273	http://www.jefferson.lib.wi.us/jpl/	Jefferson Public Library	2012.0	35.0
+59274	http://www.ci.gillett.wi.us/	Gillett, City of	1998.0	910.0
+59275	http://downtownmontessori.com	Downtown Montessori	2004.0	102.0
+59276	http://www.marionpubliclibrary.info	Marion Public Library	2006.0	340.0
+59277	http://www.neenahlibrary.org	Neenah Public Library	2000.0	855.0
+59278	http://www.indps.k12.wi.us	Independence Hi	1998.0	516.0
+59279	http://www.wrlsweb.org/trempealeau/	Shirley M. Wright Memorial Library	2006.0	558.0
+59280	http://www.cometosisterbay.com/	Sister Bay, Village of	2011.0	329.0
+59282	http://www.sturbay.k12.wi.us	Sturgeon Bay Hi	1999.0	1364.0
+59283	http://www.elmwoodlibrary.org	Elmwood Public Library	2002.0	18.0
+59284	http://wvls.lib.wi.us/laonapl/	Edith Evans Community Library	2004.0	39.0
+59285	http://www.omrolibrary.org	Carter Memorial Library	2001.0	204.0
+59286	http://www.villageofdane.org	Dane, Village of	2011.0	3.0
+59288	http://www.gilman.k12.wi.us	Gilman El	2000.0	180.0
+59289	http://www.elkhorn.k12.wi.us	Elkhorn Area Mid	2000.0	85.0
+59290	http://www.ddschools.org	Delavan-Darien Hi	2001.0	1102.0
+59291	http://www.getsd.org/	Galesville-Ettrick-Trempealeau	2011.0	861.0
+59292	http://www.berlinlibrary.org	Berlin Public Library	2000.0	250.0
+59293	http://townofashford.com/	Ashford, Town of	2008.0	677.0
+59295	http://www.co.juneau.wi.gov/	Juneau	2009.0	167.0
+59296	http://www.co.lincoln.wi.us/	Lincoln	1997.0	834.0
+59297	http://www.visitrudolph.org/	Rudolph, Village of	2013.0	17.0
+59298	http://wichildrenstrustfund.org	Children's Trust Fund	2011.0	67.0
+59299	http://www.chippewafalls-wi.gov/	Chippewa Falls, City of	2010.0	456.0
+59300	http://www.oasd.k12.wi.us	Silver Lake Intermediate	1999.0	1360.0
+59301	http://www.solonk12.net	Solon Springs	2002.0	30.0
+59302	http://www.kaukauna.k12.wi.us/Pages/Default.aspx	Park Community Charter Sch	2010.0	87.0
+59303	http://www.villageofmerton.com/	Merton, Village of	2003.0	3.0
+59304	http://www.waupaca.k12.wi.us	Waupaca Learning Center El	2007.0	877.0
+59305	http://www.necedahschools.org	Necedah Mid/Hi	2011.0	963.0
+59306	http://psc.wi.gov/	Public Service Commission	2002.0	354.0
+59307	http://www.wausauschools.org/johnmarshall/	John Marshall El	0.0	0.0
+59308	http://www.outagamie.org/	Outagamie	2008.0	1301.0
+59309	http://www.ug.k12.wi.us	Union Grove UHS	0.0	946.0
+59311	http://www.sheboygan.uwc.edu/	UW-Sheboygan	1999.0	422.0
+59312	http://www.uwgb.edu/	UW-Green Bay	1997.0	3789.0
+59313	http://www.vil.edgar.wi.us/	Edgar, Village of	2001.0	330.0
+59314	http://www.bwsd.k12.wi.us/SitePages/Home.aspx	Baldwin-Woodville Area	2010.0	40.0
+59315	http://muscoda.com/	Muscoda, Village of	1998.0	31.0
+59316	http://www.wisc.edu/	UW-Madison	1996.0	77.0
+59317	http://www.wrps.org	WRPS Four-year-old KG &amp; PK	2001.0	1437.0
+59318	http://www.ladysmith.k12.wi.us	Health Care Acad	2014.0	3.0
+59320	http://www.waterloowi.us	Waterloo, City of	2010.0	304.0
+59322	http://dcf.wi.gov/	Children and Families, Department of	2008.0	2061.0
+59323	http://www.kusd.edu	Kenosha 4 Yr Old Kindergarten	1996.0	381.0
+59324	http://townofdelavan.com/	Delavan, Town of	2001.0	69.0
+59325	http://www.dhs.wisconsin.gov/	Health Services, Department of	2008.0	1013.0
+59327	http://www.cityofspooner.org/	Spooner, City of	2001.0	2.0
+59329	http://www.saukprairieschools.org	Merrimac Community	2013.0	248.0
+59331	http://www.townofsheboygan.org/	Sheboygan, Town of	2003.0	19.0
+59332	http://www.tn.newglarus.wi.gov	New Glarus, Town of	2009.0	91.0
+59333	http://www.lacrosseschools.org/se3bin/clientschool.cgi?schoolname=school291	Sch of Technology and Arts II	2013.0	4.0
+59334	http://www.co.brown.wi.us/departments/page_afc331720f88/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Denmark Branch Library	0.0	1.0
+59335	http://www.lakegeneva.lib.wi.us	Lake Geneva Public Library	0.0	73.0
+59336	http://www.flwlib.org	Frank L. Weyenberg Library Of Mequon-Thiensville	2000.0	277.0
+59337	http://www.vil.prentice.wi.gov	Prentice, Village of	2003.0	38.0
+59338	http://www.osceolapubliclibrary.org	Osceola Public Library	2004.0	62.0
+59339	https://sites.google.com/site/cityofwhitehallwi/	Whitehall, City of	2013.0	4.0
+59342	http://www.townofakan.com/	Akan, Town of	2009.0	110.0
+59343	http://www.gbaps.org/Pages/default.aspx	John Dewey Acad of Learning	2012.0	742.0
+59344	http://doorcountylibrary.org/baileys-harbor-library	Door County Library - Mcardle Branch	2010.0	138.0
+59347	http://www.westosha.k12.wi.us	Central/Westosha UHS	0.0	57.0
+59348	http://whefa.com/	Wisconsin Health and Educational Facilities Authority	1999.0	91.0
+59349	http://www.manawalibrary.org	Sturm Memorial Library	2007.0	239.0
+59350	http://www.richland.k12.wi.us/rms/rmsindex.htm	Richland Mid	2002.0	73.0
+59352	http://www.townofribmountain.org	Rib Mountain, Town of	2002.0	123.0
+59354	http://www.co.brown.wi.us/departments/page_cae7516a2f48/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Kress Family Branch Library	0.0	1.0
+59355	http://www.wicourts.gov/	Courts	2004.0	851.0
+59356	http://tomorrowrivercommunityschool.org/	Tomorrow River Comm Charter	2012.0	80.0
+59357	http://www.durand.k12.wi.us	Durand Mid/Hi	1998.0	2.0
+59358	http://www.northwood.k12.wi.us/se3bin/clientschool.cgi?schoolname=school571	NorthStar Community Charter	2014.0	1.0
+59359	http://www.spoonerlibrary.org	Spooner Memorial Library	2007.0	6.0
+59361	http://dnr.wi.gov/topic/groundwater/gcc/index.html	Groundwater Coordinating Council	2012.0	21.0
+59362	http://www.villagesussex.org	Sussex, Village of	2013.0	836.0
+59363	http://www.gresham.k12.wi.us	Gresham Hi	2010.0	613.0
+59364	http://www.richland.k12.wi.us	Richland	2000.0	182.0
+59365	http://www.waterloo.k12.wi.us	Waterloo Intermediate Sch	1999.0	60.0
+59366	http://wvls.lib.wi.us/abbotsfordpl/	Abbotsford Public Library	2003.0	33.0
+59367	http://dnr.wi.gov/	Natural Resources, Department of	2003.0	5616.0
+59368	http://viroqua-wisconsin.com	Viroqua, City of	1998.0	566.0
+59369	http://www.johnsoncreeklibrary.org	Johnson Creek Public Library	2007.0	13.0
+59370	http://www.travelwisconsin.com/	Tourism, Department of	1999.0	4561.0
+59372	http://www.hammondpubliclibrary.org	Hammond Community Library	2002.0	153.0
+59373	http://www.masd.k12.wi.us	Eagleville Charter School	2010.0	1669.0
+59374	http://www.wawm.k12.wi.us	West Allis-West Milw Lrng Ctr	1998.0	1463.0
+59375	http://www.browndeerschools.com	Brown Deer Mid/Hi	2007.0	805.0
+59377	http://www.hartfordjt1.k12.wi.us	Central Mid	1998.0	819.0
+59378	http://www.brighton.k12.wi.us/site/default.aspx?PageID=1	Brighton El	2013.0	5.0
+59379	http://www.villageofbrownsvilletoday.com/	Brownsville, Village of	2011.0	78.0
+59380	http://www.ci.rice-lake.wi.us	Rice Lake, City of	2001.0	626.0
+59381	http://www.cityofracine.org	Racine, City of	1999.0	415.0
+59382	http://www.co.adams.wi.gov/	Adams	2007.0	49.0
+59383	http://www.sunprairiepubliclibrary.org	Sun Prairie Public Library	2004.0	148.0
+59384	http://dwd.wisconsin.gov/	Workforce Development, Department of	2004.0	1365.0
+59385	http://www.brownsville.lib.wi.us	Brownsville Public Library	2002.0	17.0
+59387	http://www.ogemalibrary.org	Ogema Public Library	2002.0	22.0
+59388	http://www.bruce.k12.wi.us	Bruce Mid	1998.0	1.0
+59389	http://washington.uwc.edu/	UW-Washington                 County	1998.0	779.0
+59391	http://menomonielibrary.org/	Menomonie Public Library	2002.0	13303.0
+59392	http://www.pepinpubliclibrary.org	Pepin Public Library	2006.0	106.0
+59393	http://www.villageofmazomanie.com	Mazomanie, Village of	2001.0	26.0
+59394	http://www.johnsoncreek-wi.us/	Johnson Creek, Village of	2007.0	446.0
+59395	http://publichealthcouncil.dhs.wi.gov/	Public Health Council	2008.0	27.0
+59396	http://www.marion.k12.wi.us	Marion El	2001.0	198.0
+59397	http://www.portedwardswi.com	Port Edwards, Village of	2001.0	21.0
+59398	http://www.whitnall.com	Whitnall	0.0	652.0
+59399	http://www.cornell.k12.wi.us	Cornell Mid	1998.0	181.0
+59400	http://www.co.forest.wi.gov	Forest	2009.0	183.0
+59401	http://www.co.walworth.wi.us	Walworth Co CDEB	2000.0	358.0
+59402	http://www.halescorners.org	Hales Corners, Village of	2002.0	394.0
+59403	http://www.cedarburg.k12.wi.us	Early Learning Ctr	2000.0	1610.0
+59404	http://ci.marshfield.wi.us/	Marshfield, City of	1998.0	465.0
+59405	http://madisoncollege.edu	Madison Area Technical College	2012.0	4322.0
+59406	http://www.dickeyville.com	Dickeyville, Village of	1999.0	31.0
+59407	http://townofsharonwi.org	Sharon, Town of	2007.0	20.0
+59408	http://www.spasd.k12.wi.us	Cardinal Heights Upper Mid	2000.0	766.0
+59409	http://www.nicolet.k12.wi.us	Nicolet UHS	1998.0	1.0
+59410	http://www.chip-howard-wi.org/	Howard, Town of	2003.0	17.0
+59411	http://www.co.calumet.wi.us/	Calumet	2001.0	795.0
+59412	http://www.hsd22.org	Herman #22	2011.0	11.0
+59413	http://www.prairiefarm.k12.wi.us	Prairie Farm Public	2000.0	688.0
+59414	http://mpsportal.milwaukee.k12.wi.us/portal/server.pt/comm/mps_home/335	HAPA-Hmong Amer Peace Ac K3-12	2010.0	556.0
+59415	http://www.hatchpubliclibrary.org	Hatch Public Library	2003.0	15.0
+59416	http://www.marshfield.k12.wi.us/schools/grant/	Grant El	2007.0	40.0
+59417	http://www.northhudsonvillage.org/	North Hudson, Village of	2002.0	385.0
+59418	http://www.mercer.k12.wi.us	Mercer Environmental Tourism	1998.0	404.0
+59419	http://www.mckinleycharter.org	McKinley Charter Sch	2004.0	48.0
+59420	http://www.montellolibrary.org	Montello Public Library	2001.0	198.0
+59421	http://www.mtpleasantwi.gov/	Mount Pleasant, Village of	2008.0	360.0
+59422	http://www.hammondwi.org	Hammond, Village of	2001.0	12.0
+59423	http://www.augustalibrary.org	Augusta Memorial Public Library	2007.0	14.0
+59424	http://www.wrlsweb.org/cashton/	Cashton Memorial Library	2008.0	21.0
+59426	http://raymond.k12.wi.us/	Raymond #14	2001.0	198.0
+59427	http://www.littlechutewi.org/	Little Chute, Village of	2003.0	714.0
+59428	http://www.cityofbayfield.com	Bayfield, City of	2004.0	58.0
+59429	http://www.igs.k12.wi.us	Iowa-Grant El/Mid	2001.0	1029.0
+59430	http://www.newglarusvillage.com/	New Glarus, Village of	2004.0	68.0
+59431	http://www.hayward.k12.wi.us	Northern Waters Environmental	2000.0	77.0
+59432	http://www.northcape.k12.wi.us/	North Cape El	2004.0	208.0
+59433	http://www.prescottpubliclibrary.org	Prescott Public Library	2004.0	94.0
+59434	http://www.randolph.lib.wi.us/randolph/	Hutchinson Memorial Library	2014.0	33.0
+59435	http://www.co.door.wi.gov	Door	2004.0	175.0
+59436	http://www.greenwood.k12.wi.us	Greenwood Hi	2001.0	585.0
+59437	http://www.uwrf.edu/	UW-River Falls	1997.0	5969.0
+59438	http://www.fennimore.com/	Fennimore, City of	1999.0	288.0
+59439	http://www.sheridantownship.org	Sheridan, Town of	2006.0	283.0
+59440	http://www.wfbschools.com	Whitefish Bay Mid	1998.0	1088.0
+59441	http://www.csdk12.net/	Glidden Class ACT Charter	2011.0	382.0
+59442	http://www.waukeshacounty.gov/	Waukesha	2001.0	1000.0
+59443	http://www.aramlibrary.org/	Aram Public Library	2009.0	40.0
+59444	http://www.townofgibraltar.com	Gibraltar, Town of	2001.0	32.0
+59445	http://www.seneca.k12.wi.us	Seneca El	2001.0	17.0
+59446	http://www.mukwonago.lib.wi.us	Mukwonago Community Library	2009.0	6.0
+59447	http://www.oostburg.org/	Oostburg, Village of	2000.0	21.0
+59448	http://www.westerntc.edu	Western Technical College	2006.0	4026.0
+59449	http://www.saylesville.org	Saylesville El	2008.0	373.0
+59451	http://www.npsd.k12.wi.us/soar/	SOAR	2013.0	21.0
+59452	http://www.cityofcolumbuswi.com/	Columbus, City of	2004.0	414.0
+59453	http://townofwalworth.com/	Walworth, Town of	2004.0	128.0
+59455	http://www.spooner.k12.wi.us	Little Rails Early Learning	1999.0	539.0
+59456	http://www.co.pierce.wi.us/	Pierce	2001.0	60.0
+59458	http://www.townofjacksonwi.com/	Jackson, Town of (Burnett County)	2008.0	13.0
+59459	http://www.uwex.edu/	UW-Extension	1996.0	498.0
+59460	http://www.grandchute.net/	Grand Chute, Town of	2002.0	138.0
+59461	http://www.villageofturtlelake.com/	Turtle Lake, Village of	2006.0	108.0
+59462	http://www.amherstwi.govoffice2.com/index.asp?Type=B_LOC&SEC=%7b19BBD4BE-332A-4FCD-8022-73052C599C2B%7d	Lettie W. Jensen Public Library	0.0	85.0
+59463	http://www.tn.polk.wi.gov/	Polk, Town of	2009.0	57.0
+59464	http://www.randolph.k12.wi.us/district/index.php	Randolph Hi	2009.0	22.0
+59465	http://www.wausauschools.org/franklin/	Franklin El	0.0	0.0
+59466	http://visitsiren.com/	Siren, Village of	2008.0	81.0
+59468	http://www.tn.cottagegrove.wi.gov	Cottage Grove, Town of	2009.0	143.0
+59469	http://www.ci.verona.wi.us/	Verona, City of	1999.0	430.0
+59470	http://townofminocqua.org	Minocqua, Town of	2008.0	118.0
+59471	http://amerywisconsin.org/	Amery, City of	2007.0	424.0
+59472	http://www.greendale.org/	Greendale, Village of	1998.0	194.0
+59473	http://www.co.brown.wi.us/departments/page_f3d20b543c6d/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Weyers-Hilliard Branch Library	0.0	1.0
+59474	http://www.whitingwi.gov	Whiting, Village of	2008.0	33.0
+59475	http://www.tn.pacific.wi.gov/	Pacific, Town of	2006.0	234.0
+59476	http://www.weisscommunitylibrary.com	Sherman And Ruth Weiss Community Library	2008.0	11.0
+59477	http://waukesha.uwc.edu/	UW-Waukesha	1999.0	652.0
+59478	http://www.neillsville-wi.com/	Neillsville, City of	2004.0	17.0
+59479	http://walker.wi.gov	Governor, Office of	2011.0	617.0
+59480	http://www.elkhorn.lib.wi.us/wordpress/	Matheson Memorial Library	2012.0	53.0
+59481	http://www.village.grafton.wi.us/	Grafton, Village of	1998.0	543.0
+59482	http://www.uwp.edu/	UW-Parkside	1997.0	1237.0
+59483	http://www.manitowocpublicschools.com	Manitowoc Co Comprehensive	2009.0	5.0
+59485	http://www.ripon.k12.wi.us	Catalyst Charter Mid	1997.0	440.0
+59486	http://www.droughtschool.net	Drought El	2000.0	49.0
+59487	http://www.greenfieldsaukwi.org/	Greenfield, Town of	2010.0	41.0
+59488	http://www.deforest.k12.wi.us	Holum Education Center	1998.0	1282.0
+59489	http://www.wauzeka.k12.wi.us	Wauzeka-Steuben	2000.0	9.0
+59490	http://www.algomacity.org/	Algoma, City of	2000.0	45.0
+59492	http://www.wrlsweb.org/westby/	Bekkum Memorial Public Library	2007.0	499.0
+59494	http://www.kiel.k12.wi.us	Meeme LEADS Charter	2001.0	275.0
+59495	http://www.towngenesee.org/	Genesee, Town of	2001.0	37.0
+59496	http://www.gotoltc.edu	Lakeshore Technical College	2002.0	551.0
+59497	http://www.greendale.k12.wi.us	Time 4 Learning Charter Sch	1999.0	38.0
+59498	http://spartan.org/schools/high-point	Sparta High Point Sch	2011.0	25.0
+59500	http://www.cudahyfamilylibrary.org	Cudahy Family Library	2005.0	63.0
+59501	http://www.woodvillelibrary.org	Woodville Community Library	2001.0	11.0
+59502	http://co.vilas.wi.us/	Vilas	2001.0	249.0
+59503	http://www.uwsuper.edu/index.htm	UW-Superior	2008.0	5161.0
+59504	http://www.tn.bristol.wi.gov	Bristol, Town of	2009.0	53.0
+59505	http://uwc.edu/	UW Colleges (2-year campuses)	1997.0	2368.0
+59506	http://www.phillipspl.org	Phillips Public Library	2008.0	13.0
+59507	http://www.stcroixfallslibrary.org	St. Croix Falls Public Library	2003.0	65.0
+59508	http://www.woodlands-school.org/home.aspx	Woodlands School East	2012.0	84.0
+59509	http://www.ellsworthlibrary.org	Ellsworth Public Library	2001.0	100.0
+59510	http://www.wdfi.org/	Financial Institutions, Department of	1998.0	559.0
+59512	http://www.yorkville.k12.wi.us	Yorkville El	2004.0	45.0
+59513	http://www.co.saint-croix.wi.us/	Saint Croix	2000.0	1320.0
+59514	http://www.albany.k12.wi.us	Albany Community Mid	2001.0	71.0
+59515	http://www.tn.burlington.wi.gov/	Burlington, Town of	2009.0	58.0
+59516	http://www.sturgeonbaywi.org/	Sturgeon Bay, City of	2002.0	417.0
+59517	http://www.springgreenlibrary.org	Spring Green Community Library	2007.0	210.0
+59518	http://www.fvtc.edu:80/public/	Fox Valley Technical College	2006.0	2979.0
+59519	http://county.milwaukee.gov/MilwaukeeCounty7699.htm	Milwaukee	2014.0	1398.0
+59520	http://www.coleman.k12.wi.us	Coleman Mid	1998.0	3321.0
+59521	http://www.almawisconsin.com/	Alma, City of	2000.0	37.0
+59522	http://www.elmgrovelibrary.org	Elm Grove Public Library	2008.0	56.0
+59523	http://wvls.lib.wi.us/wabenopl/	Wabeno Public Library	2006.0	1.0
+59524	http://www.newlondonwi.org/	New London, City of	1996.0	14.0
+59525	http://www.wrlsweb.org/ettrick/	Ettrick Public Library	2007.0	15.0
+59526	http://www.delafieldlibrary.org	Delafield Public Library	2008.0	39.0
+59527	http://www.townofwestsweden.com	West Sweden, Town of	2010.0	102.0
+59528	http://www.germantownlibrarywi.org	Germantown Community Library	2007.0	44.0
+59529	http://www.cityofphillips.com/	Phillips, City of	2006.0	24.0
+59530	http://www.hamilton.k12.wi.us	Willow Springs Learning Ctr	2009.0	8256.0
+59531	http://www.elmwood.k12.wi.us	Elmwood Mid	2000.0	846.0
+59532	http://www.nicoletcollege.edu	Nicolet Area Technical College	2002.0	858.0
+59533	http://www.bigfoot.k12.wi.us	Big Foot UHS	2000.0	24.0
+59534	http://www.cassville.org/	Cassville, Village of	1998.0	34.0
+59535	http://www4.uwm.edu/	UW-Milwaukee	1997.0	3286.0
+59536	http://www.af.k12.wi.us	Adams-Friendship Area	1997.0	832.0
+59538	http://dpi.wi.gov	Public Instruction, Department of	2005.0	2203.0
+59542	http://www.co.brown.wi.us/departments/page_9adaec57f704/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Pulaski Branch Library	0.0	1.0
+59543	http://www.ci.wausau.wi.us/	Wausau, City of	1996.0	732.0
+59544	http://www.marshfield.k12.wi.us	Marshfield Unified	1997.0	2009.0
+59545	http://www.browndeerwi.org/	Brown Deer, Village of	2006.0	112.0
+59547	http://www.marshfield.k12.wi.us/schools/nasonville/	Nasonville El	2007.0	28.0
+59548	http://www.riverdale.k12.wi.us	Riverdale Mid	2001.0	333.0
+59549	http://livingstonvillage.webs.com/	Livingston, Village of	2012.0	42.0
+59550	http://sayner.wislib.org	Plum Lake Public Library	2006.0	67.0
+59551	http://www.newlisbon.net	New Lisbon, City of	2005.0	7.0
+59552	http://www.westalliswi.gov/	West Allis Public Library	2011.0	560.0
+59553	http://www.suring.k12.wi.us	Suring Public	1999.0	141.0
+59554	http://tn.harmony.wi.gov/index.html	Harmony, Town of	2012.0	119.0
+59555	http://www.ci.ashland.wi.us/	Ashland, City of	2000.0	144.0
+59556	http://www.iolalibrary.org/	Iola Village Library	2009.0	29.0
+59557	http://www.townofgenevawi.com	Geneva, Town of	2006.0	5.0
+59558	http://www.newboldtown.com	Newbold, Town of	2001.0	8.0
+59559	http://www.wrlsweb.org/ontario/	Ontario Public Library	2007.0	227.0
+59560	http://www.midlibrary.org	Middleton Public Library	2013.0	156.0
+59561	http://www.racine.k12.wi.us	All Dist 4 Yr Old Kindergarten	2000.0	515.0
+59562	http://www.ashland.k12.wi.us	Lake Superior Intermediate	0.0	396.0
+59564	http://townofpeshtigo.org/	Peshtigo, Town of	2004.0	312.0
+59565	http://www.cityofkaukauna.com	Kaukauna, City of	2002.0	67.0
+59566	http://www.mcfls.org/halescorners/	Hales Corners Public Library	0.0	28.0
+59567	http://www.ithaca.k12.wi.us	Ithaca Mid	0.0	496.0
+59568	http://winneconne.k12.wi.us	Winneconne Community	2001.0	917.0
+59569	http://www.richland.k12.wi.us/hs/index.htm	Richland Center Hi	2003.0	28.0
+59570	http://www.phelps.k12.wi.us	Phelps El	1998.0	22.0
+59571	http://www.csd.k12.wi.us	Campbellsport Mid	1998.0	900.0
+59572	http://www.wfblibrary.org	Whitefish Bay Public Library	2003.0	280.0
+59574	http://wvls.lib.wi.us/tomahawkpl/	Tomahawk Public Library	2002.0	14.0
+59575	http://wvls.lib.wi.us/loyalpl/	Loyal Public Library	2005.0	1.0
+59576	http://www.mhlt.org	Creative Minds	2002.0	198.0
+59578	http://www.columbus.k12.wi.us	Discovery Charter Sch	2000.0	546.0
+59579	http://www.mcspecialeducation.com	Marathon Co CDEB	2001.0	198.0
+59580	http://www.newrichmondwi.gov/	New Richmond, City of	2012.0	551.0
+59581	http://www.island.k12.wi.us	Washington Island Hi	1998.0	62.0
+59582	http://www.augusta.k12.wi.us/home	Wildlands Charter Sch	2012.0	13.0
+59583	http://www.mondovi.com/	Mondovi, City of	1998.0	16.0
+59585	http://www.co.green.wi.gov/	Green	2008.0	150.0
+59586	http://www.manawa.k12.wi.us	Little Wolf Jr/Sr Hi	1999.0	434.0
+59587	http://www.wausauschools.org/eea/	EnrichExcelAchieveLrngAcad	0.0	0.0
+59589	http://www.vokimberly.org/	Kimberly, Village of	2000.0	61.0
+59590	http://www.wisconsinhistory.org/	Historical Society, State	2001.0	14528.0
+59591	http://www.mosineeschools.org	Mosinee Mid	2003.0	727.0
+59592	http://www.vi.springgreen.wi.gov/	Spring Green, Village of	2009.0	88.0
+59593	http://www.muehlpubliclibrary.org/	Muehl Public Library	2010.0	288.0
+59595	http://www.milwcollegeprep.com	Milwaukee College Preparatory School --	2005.0	1.0
+59596	http://www.athens1.org	Athens Mid	2013.0	196.0
+59597	http://www.bangor.k12.wi.us	Bangor Mid/Hi	2000.0	2348.0
+59598	http://www.montello.k12.wi.us	High Marq Environmental Chrtr	1999.0	430.0
+59599	http://www.bloomer.k12.wi.us	Bloomer Middle School	1998.0	215.0
+59600	http://www.campbellsportlibrary.org	Campbellsport Public Library	2001.0	517.0
+59601	http://www.ci.hudson.wi.us	Hudson, City of	2001.0	1202.0
+59603	http://www.townofwascott.org/	Wascott, Town of	2007.0	32.0
+59604	http://www.cassvillesd.k12.wi.us	Cassville Hi	2001.0	172.0
+59605	http://www.hudsonpubliclibrary.org	Hudson Area Joint Library	2001.0	113.0
+59606	http://www.shullsburgwisconsin.org/	Shullsburg, City of	2005.0	33.0
+59607	http://www.city.fitchburg.wi.us/	Fitchburg, City of	1996.0	1249.0
+59608	http://commerce.wi.gov/	Commerce, Department of	2003.0	1.0
+59609	http://www.tn.fifield.wi.gov	Fifield, Town of	2009.0	78.0
+59610	http://dma.wi.gov/dma/default.asp	Military Affairs, Department of	2009.0	158.0
+59611	http://www.town.cedarburg.wi.us/	Cedarburg, Town of	2001.0	210.0
+59612	http://www.maps.k12.wi.us	Pine River Sch Young Learners	2000.0	64.0
+59613	http://www.townofshelby.com/content/home	Shelby, Town of	2011.0	45.0
+59614	http://www.ci.stoughton.wi.us	Stoughton, City of	2001.0	3086.0
+59615	http://www.wausauschools.org/southmtn/	South Mountain El	0.0	0.0
+59616	http://cityofcumberland.net/	Cumberland, City of	2001.0	5.0
+59617	http://www.sevastopol.k12.wi.us	Sevastopol Pre-Sch	1998.0	178.0
+59619	http://www.cityofwaupun.org/	Waupun, City of	2001.0	88.0
+59620	http://www.hgsd.k12.wi.us	Howards Grove Mid	2001.0	388.0
+59621	http://brooklynwisconsin.org/tb/	Brooklyn, Town of (Green County)	2013.0	1.0
+59623	http://www.mcfarland.k12.wi.us/msd/index.php	Conrad Elvehjem Erly Lrng Ctr	2006.0	867.0
+59624	http://www.tn.lodi.wi.gov	Lodi, Town of	2009.0	78.0
+59625	http://www.cubacity.org/	Cuba City, City of	2009.0	259.0
+59626	http://lwr.state.wi.us/	Lower Wisconsin State Riverway Board	2005.0	192.0
+59627	http://www.southerndoor.k12.wi.us	Southern Door County	1998.0	77.0
+59628	http://www.oakcreeklibrary.org/	Oak Creek Public Library	2011.0	50.0
+59629	http://www.tigertonwis.com/	Tigerton, Village of	2001.0	3.0
+59630	http://www.townofrockland.org	Rockland, Town of	2008.0	44.0
+59631	http://www.townofarena.com	Arena, Town of	2005.0	16.0
+59632	http://www.fennimore.k12.wi.us	Fennimore Community	2002.0	58.0
+59633	http://www.townofsherry.com	Sherry, Town of	2010.0	4.0
+59634	http://www.townofsalem.net	Salem, Town of	2002.0	808.0
+59635	http://townoflavalle.us/	La Valle, Town of	2010.0	172.0
+59636	http://www.wisheights.k12.wi.us	Wisconsin Heights Mid	1999.0	28.0
+59637	http://www.sdmaonline.com/	Menomonie Area 4K	2006.0	1096.0
+59639	http://www.scls.lib.wi.us/deerfield/	Deerfield Public Library	1997.0	20.0
+59640	http://www.wausauschools.org/jefferson/	Thomas Jefferson El	0.0	0.0
+59641	http://online.uwc.edu/	UW                   Colleges Online	2001.0	276.0
+59643	http://www.dce.k12.wi.us	D C Everest Middle	1999.0	220.0
+59644	http://www.millpondlibrary.org	Mill Pond Public Library	2001.0	488.0
+59645	http://www.esschools.k12.wi.us	Eleva-Strum Hi	1998.0	415.0
+59646	http://www.wdpsd.com/phantomknight	Phantom Knight Sch	2010.0	96.0
+59647	http://laketomahawkwi.org/	Lake Tomahawk, Town of	2007.0	1074.0
+59649	http://www.marshfield.k12.wi.us/schools/middle/	Marshfield Mid	2007.0	37.0
+59651	http://www.gillett.k12.wi.us	CRE8 Charter Sch	1998.0	469.0
+59653	http://www.cityoflodi.us/	Lodi, City of	2013.0	463.0
+59654	http://www.stonebank.k12.wi.us	Stone Bank El	1998.0	89.0
+59655	http://www.co.iron.wi.gov/	Iron	2008.0	191.0
+59657	http://rc.swls.org	Brewer Public Library	2003.0	68.0
+59658	http://www.cityofprincetonwi.com	Princeton, City of	2007.0	1551.0
+59660	http://www.deerfield.k12.wi.us	Deerfield Community	1998.0	1181.0
+59663	http://www.clintonwi.us/	Clinton, Village of	2002.0	535.0
+59664	http://www.brightonwi.com/	Brighton, Town of	2007.0	21.0
+59665	http://www.wrlsweb.org/viroqua/	Mcintosh Memorial Library	2007.0	11.0
+59666	http://www.wausauschools.org/maine/	Maine El	0.0	0.0
+59667	http://www.goodman.k12.wi.us	Goodman-Armstrong Creek	2001.0	15.0
+59668	http://www.townofdewey.com/	Dewey, Town of	2008.0	7.0
+59669	http://www.townofseymour.org	Seymour, Town of	2010.0	110.0
+59670	http://www.parkview.k12.wi.us	Parkview Primary	1999.0	221.0
+59671	http://www.ashwaubenon.com/	Ashwaubenon, Village of	1998.0	283.0
+59672	http://www.lakeshores.lib.wi.us/about/member_walworth.htm	Walworth Memorial Library	0.0	27.0
+59673	http://www.pwssd.k12.wi.us/education/district/district.php?sectionid=1	Port Washington-Saukville	2005.0	2.0
+59674	http://wilawlibrary.gov/	Wisconsin State Law Library	2009.0	1096.0
+59675	http://www.uwosh.edu/	UW-Oshkosh	1997.0	8224.0
+59676	http://www.monroepubliclibrary.org	Monroe Public Library	2008.0	40.0
+59677	http://www.reedsburgwi.gov/	Reedsburg, City of	2006.0	1295.0
+59678	http://www.birchwood.k12.wi.us	Birchwood Blue Hills Charter	2000.0	29.0
+59679	http://www.greenfield.k12.wi.us	Maple Grove El	2000.0	215.0
+59680	http://www.town.farmington.wi.us	Farmington, Town of (Washington County)	2004.0	39.0
+59682	http://www.co.brown.wi.us/departments/page_a652b6dc13a3/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Southwest Branch Library	0.0	1.0
+59683	http://townofalgoma.org/	Algoma, Town of	2005.0	27.0
+59685	http://www.ashwaubenon.k12.wi.us	Cormier Sch and Early Lrn Ctr	1998.0	3783.0
+59686	http://www.ironridge.lib.wi.us/wordpress/	Iron Ridge Public Library	2012.0	2.0
+59687	http://www.co.washington.wi.us/	Washington	2000.0	1018.0
+59688	http://www.marshall-wi.com/	Marshall, Village of	2002.0	516.0
+59691	http://www.whitelake.k12.wi.us	White Lake El	1997.0	33.0
+59693	http://www.westsalemwi.com/	West Salem, Village of	1998.0	21.0
+59694	http://www.richmond.k12.wi.us	Richmond El	1999.0	6.0
+59695	http://www.sheboygan.k12.wi.us/warrinermiddle/	George D Warriner Mid	2012.0	26.0
+59696	http://www.tn.waukesha.wi.gov/	Waukesha, Town of	2008.0	367.0
+59698	http://kvr.state.wi.us/	Kickapoo Valley Reserve Board	1999.0	198.0
+59699	http://www.co.portage.wi.us/	Portage	2000.0	132.0
+59700	http://www.somerset.k12.wi.us	Somerset Mid	1999.0	829.0
+59701	http://www.menomonie-wi.gov	Menomonie, City of	2004.0	848.0
+59702	http://www.maps.k12.wi.us/bridgesvirtualacademy	Bridges Virtual Acad	2012.0	0.0
+59703	http://pewaukeeschools.schoolfusion.us/	Pewaukee	2011.0	2961.0
+59705	https://www.madison.k12.wi.us/	Innovative &amp; Alternative Mid	1997.0	310.0
+59706	http://www.lighthouse-academies.org/schools/nplcs	North Point Lighthouse Charter School	2012.0	21.0
+59707	http://ocr.wi.gov/	Railroads, Office of the Commissioner	2004.0	10.0
+59708	http://www.prairieduchien-wi.gov/	Prairie Du Chien, City of	2004.0	43.0
+59710	http://www.uniongrove.lib.wi.us	Graham Public Library	2001.0	20.0
+59711	http://www.ltgov.state.wi.us/	Lieutenant Governor, Office of the	2001.0	49.0
+59712	http://www.tn.rock.wi.gov/	Rock, Town of	2009.0	326.0
+59713	http://www.wcfls.org/	Waukesha County Federated Library System	2007.0	256.0
+59714	http://www.oakfieldlibrary.org	Oakfield Public Library	2001.0	131.0
+59715	http://www.clinton.k12.wi.us	Clinton Community	2000.0	161.0
+59716	http://www.rfcity.org/	River Falls, City of	1998.0	981.0
+59717	http://www.cityoflakegeneva.com	Lake Geneva, City of	2003.0	994.0
+59718	http://www.cityofwashburn.org/library.htm	Washburn Public Library	2003.0	42.0
+59719	http://northlakeschool.org/	North Lake El	2013.0	174.0
+59720	http://www.kimlit.org	Kimberly--Little Chute Public Library	2006.0	898.0
+59723	http://www.dodgeland.k12.wi.us	Dodgeland Mid	2002.0	1153.0
+59724	http://www.hillsborowi.com/	Hillsboro, City of	1999.0	289.0
+59726	http://townofhudsonwi.com	Hudson, Town of	2012.0	3.0
+59727	http://horiconchamber.com/	Horicon, City of	1998.0	186.0
+59728	http://www.denmark.k12.wi.us	Denmark Early Childhood Ctr	1998.0	672.0
+59729	http://www.ci.janesville.wi.us/	Janesville, City of	1998.0	1280.0
+59730	http://nwls.wislib.org/	Northern Waters Library Service	2005.0	482.0
+59731	http://www.wheda.com/root/	Wisconsin Housing and Economic Development Authority (WHEDA)	2009.0	58.0
+59732	http://www.stanleylibrary.org/	D.R. Moon Memorial Library	2008.0	76.0
+59733	http://www.silverlakejt1.k12.wi.us	Silver Lake J1	2004.0	54.0
+59734	http://www.plainwi.govoffice2.com/	Plain, Village of	2007.0	512.0
+59735	http://www.wausauschools.org/ribmtn/	Rib Mountain El	0.0	0.0
+59737	http://www.fallcreekpubliclibrary.org	Fall Creek Public Library	2004.0	31.0
+59738	http://www.pdc.k12.wi.us	Prairie du Chien Area	2000.0	525.0
+59740	http://www.easttroy-wi.com/	East Troy, Village of	2000.0	343.0
+59741	http://www.ashlandelementarycharter.com	Ashland Elem Charter Sch	2013.0	46.0
+59742	http://albanylibrary.org/	Albertson Memorial Library	2001.0	84.0
+59743	http://www.nfls.lib.wi.us/	Nicolet Federated Library System	2000.0	59.0
+59744	http://www.superior.k12.wi.us	Superior Community Preschool	1998.0	227.0
+59745	http://publicrecordsboard.wi.gov/	Public Records Board	2009.0	40.0
+59746	http://www.leadership-academy.us	Sheboygan Leadership Acad	2012.0	79.0
+59747	http://www.dasdk12.net	Drummond Area	2003.0	210.0
+59748	http://www.plumcity.k12.wi.us	Plum City Hi	2000.0	480.0
+59749	http://www.lacrosselibrary.org	La Crosse Public Library	2001.0	295.0
+59750	http://www.riolibrary.org/	Rio Community Library	2013.0	72.0
+59751	http://richland.uwc.edu/	UW-Richland	1998.0	567.0
+59752	http://www.northprairie.net/	North Prairie, Village of	2000.0	31.0
+59753	http://www.richland.k12.wi.us/res/jefferson/jefindex.html	Jefferson El	2003.0	7.0
+59754	http://www.ci.greenfield.wi.us/	Greenfield, City of	2000.0	883.0
+59755	http://www.townofwestport.org/	Westport, Town of	2000.0	26.0
+59756	http://www.wrlsweb.org/norwalk/	Norwalk Public Library	2007.0	937.0
+59757	http://www.sawyercountygov.org/	Sawyer	0.0	6532.0
+59758	http://www.marshfield.k12.wi.us/schools/washington/	Washington El	2007.0	24.0
+59759	http://elementary.spartan.org	Sparta Charter Prekindergarten	2012.0	215.0
+59760	http://www.achm.k12.wi.us	Alma Center	0.0	427.0
+59761	http://www.hancocklibrary.org	Hancock Public Library	2001.0	6.0
+59762	http://www.wausauschools.org/riverview/	Riverview El	0.0	0.0
+59763	http://www.oneidanation.org/library/	Oneida Community Library	2009.0	5.0
+59764	http://www.vienna-wis.com/	Vienna, Town of	2001.0	2.0
+59765	http://www.mishicot.k12.wi.us	Mishicot Mid	2000.0	482.0
+59766	http://www.cityofonalaska.com	Onalaska, City of	2004.0	1174.0
+59767	http://www.vil.wrightstown.wi.us	Wrightstown, Village of	2003.0	281.0
+59768	http://www.deerfieldwi.com	Deerfield, Village of	1999.0	463.0
+59769	http://www.endeavorlibrary.org	Endeavor Public Library	2001.0	49.0
+59770	http://www.highland.k12.wi.us	Highland Community Mid	2001.0	505.0
+59771	http://www.wegafremont.k12.wi.us	Waupaca County Charter	1999.0	498.0
+59772	http://www.cyberschool-milwaukee.org	Central City Cyberschool	2001.0	15.0
+59774	http://www.argylewi.org/	Argyle, Village of	2003.0	11.0
+59775	http://www.washburn.k12.wi.us	Washburn Mid	1999.0	102.0
+59776	http://www.centurialibrary.org	Centuria Public Library	2002.0	9.0
+59777	http://www.gtc.edu	Gateway Technical College	2002.0	1521.0
+59778	https://sites.google.com/a/westby-norse.org/official-district-website/	Coon Valley El	2012.0	375.0
+59779	http://www.wausau.k12.wi.us/johnmuir/	John Muir Mid	2001.0	0.0
+59780	http://www.holmen.k12.wi.us/site/default.aspx?PageID=1	Holmen Public Preschool	0.0	4.0
+59783	http://www.revenue.wi.gov	Revenue, Department of	2006.0	728.0
+59784	http://springvalleylibrary.org	Spring Valley Public Library	2010.0	81.0
+59786	http://manitowoc.uwc.edu/	UW-Manitowoc	1998.0	503.0
+59787	http://www.hillsboro.k12.wi.us	Hillsboro El	1999.0	456.0
+59788	http://www.oakfield.k12.wi.us	Oakfield Jr/Sr Hi	2003.0	366.0
+59789	http://www.co.lafayette.wi.gov	Lafayette	2009.0	221.0
+59790	http://www.co.langlade.wi.us/	Langlade	2003.0	112.0
+59791	http://townofripon.com	Ripon, Town of	2011.0	5.0
+59792	http://deerparkwi.org/library/	Deer Park Public Library	2002.0	26.0
+59793	http://www.co.jackson.wi.us/	Jackson	1998.0	1590.0
+59794	http://ci.delavan.wi.us	Delavan, City of	2005.0	116.0
+59795	http://www.kohlerpublicschools.org	Kohler El	2010.0	337.0
+59796	http://www.douglascountywi.org/	Douglas	2001.0	944.0
+59797	http://www.doa.state.wi.us/divisions/Hearings-and-Appeals	Hearings and Appeals, Division of	2014.0	427.0
+59798	http://www.cityofbaraboo.com/	Baraboo, City of	2001.0	3566.0
+59799	http://www.kickapoo.k12.wi.us/site/default.aspx?PageID=1	Kickapoo Area	2013.0	10.0
+59800	http://www.oshkoshpubliclibrary.org	Oshkosh Public Library	2000.0	842.0
+59801	http://www.burlington-wi.gov	Burlington, City of	2004.0	570.0
+59803	http://www.addisonwi.org/	Addison, Town of	2010.0	18.0
+59805	http://www.oconto.k12.wi.us	Oconto Literacy Charter Sch	1998.0	466.0
+59806	http://www.townofrusk.com/	Rusk, Town of	2013.0	14.0
+59807	http://www.townoconomowoc.com	Oconomowoc, Town of	2007.0	1.0
+59809	http://www.co.polk.wi.us/	Polk	1998.0	2461.0
+59810	http://www.bellevillelibrary-wi.org/	Belleville Public Library	2011.0	35.0
+59811	http://www.depere.k12.wi.us/msweb/index.html	De Pere Mid	2000.0	15.0
+59812	http://www.franklinwi.gov/display/router.aspx	Franklin, City of	2006.0	561.0
+59815	http://www.hedbergpubliclibrary.org	Hedberg Public Library	2002.0	173.0
+59818	http://www.villageofmukwonago.com	Mukwonago, Village of	2004.0	45.0
+59819	http://www.co.price.wi.us/	Price	2001.0	47.0
+59820	http://www.laona.k12.wi.us	Robinson El	1998.0	1.0
+59821	http://presqueisle.wislib.org	Presque Isle Community Library	2007.0	64.0
+59822	http://www.grantsburgwi.com	Grantsburg, Village of	2000.0	41.0
+59823	http://webster.wislib.org	Burnett Community Library	2008.0	119.0
+59824	http://www.nwtc.edu/Pages/home.aspx	Northeast Wisconsin Technical College	2010.0	875.0
+59825	http://www.seedsofhealth.org/tenor/	Tenor High School	2011.0	144.0
+59826	http://minocqualibrary.org/	Minocqua Public Library	2001.0	19.0
+59827	http://www.elcho.k12.wi.us	Elcho El	2001.0	901.0
+59828	http://www.arpinpl.org/	Lester Public Library Of Arpin	2011.0	26.0
+59829	http://www.wfbvillage.org	Whitefish Bay, Village of	2003.0	1166.0
+59832	http://www.lafarge.k12.wi.us	La Farge Mid	0.0	47.0
+59833	http://www.scls.lib.wi.us/cbr/	Cambridge Community Library	2001.0	3.0
+59834	http://www.cornellpl.org	Cornell Public Library	2006.0	59.0
+59836	http://www.co.dodge.wi.us/	Dodge	2001.0	3716.0
+59837	http://www.mtsd.k12.wi.us	Mequon-Thiensville	1997.0	1019.0
+59839	http://www.sos.state.wi.us/	Secretary of State, Office of the	2000.0	20.0
+59840	http://www.ci.eau-claire.wi.us/	Eau Claire, City of	1999.0	2296.0
+59841	http://www.depere.k12.wi.us/altmayer/	Susie C Altmayer El	0.0	14.0
+59842	http://www.whitehallsd.k12.wi.us	Pigeon Falls El	1998.0	1.0
+59843	http://www.barroncountywi.gov/	Barron	2009.0	262.0
+59844	http://www.stephensonwisc.com/	Stephenson, Town of	2002.0	1146.0
+59845	http://www.youngleadersacademy.org	YMCA Young Leaders Academy	2011.0	40.0
+59846	http://www.tomah.k12.wi.us	Timber PUPS Learning Ctr	1999.0	74.0
+59847	http://www.glendale-wi.org	Glendale, City of	1999.0	143.0
+59848	http://www.lancastersd.k12.wi.us	Lancaster Community	2000.0	350.0
+59849	http://www.aubschools.com	Auburndale El	2002.0	618.0
+59850	http://www.denmark-wi.org	Denmark, Village of	2001.0	38.0
+59852	http://www.oxfordlibrary.org	Oxford Public Library	2001.0	159.0
+59854	http://www.dsd.k12.wi.us	Dodgeville Mid	2000.0	546.0
+59855	http://oser.state.wi.us/	Office of State Employment Relations	2003.0	243.0
+59857	http://www.townofberry.org/	Berry, Town of	2004.0	128.0
+59858	http://pcm.state.wi.us/	Personnel Commission	2011.0	10.0
+59860	http://www.wtcsystem.edu/	Wisconsin Technical College System	2005.0	105.0
+59861	http://www.wisspd.org/	Public Defender, Office of State	2001.0	428.0
+59863	http://rochesterwi.us/	Rochester, Village of	2002.0	35.0
+59864	http://www.ghs.k12.wi.us	Gilmanton Mid	1999.0	10.0
+59865	http://www.benton.k12.wi.us	Benton Hi	2003.0	212.0
+59866	http://www.mcfi.net/MCFI.htm	Sch for Early Dvlpt &amp; Achieve	2010.0	156.0
+59867	http://www.sunprairie.k12.wi.us	Sun Prairie Four Kids	2009.0	2313.0
+59868	http://www.vi.waterford.wi.gov	Waterford, Village of	2009.0	110.0
+59869	https://www.swtc.edu/	Southwest Wisconsin Technical College	2002.0	513.0
+59870	http://www.allianceschool.org	Alliance Sch of Milw	2005.0	1.0
+59872	http://www.mcfls.org/northshorelibrary/	North Shore Library	0.0	27.0
+59873	http://www.greenwoodpubliclibrary.org/	Greenwood Public Library	2013.0	36.0
+59874	http://wvls.lib.wi.us/witheepl/	Withee Public Library	2004.0	1.0
+59875	http://www.mel-min.k12.wi.us	Melrose-Mindoro Hi	1999.0	745.0
+59876	http://wbsdpathways.org	Pathways	2013.0	846.0
+59877	http://www.seedsofhealth.org/windlake/	Seeds of Health Elementary Program	2010.0	167.0
+59878	http://www.valders.k12.wi.us	Valders Area	1998.0	99.0
+59879	http://www.medford.k12.wi.us	Rural Virtual Academy	2000.0	26.0
+59880	http://www.shiocton.k12.wi.us	Shiocton Hi	1999.0	873.0
+59881	http://www.ci.brookfield.wi.us/index.aspx?NID=38	Brookfield Public Library	2009.0	2519.0
+59882	http://heab.state.wi.us/	Higher Educational Aids Board	1999.0	412.0
+59883	http://www.grafton.k12.wi.us	John Long Mid	1998.0	1412.0
+59884	http://www.ci.milton.wi.us/	Milton, City of	1998.0	641.0
+59886	http://www.huhs.org	Hartford UHS	1998.0	422.0
+59887	http://www.nhsd.k12.wi.us	New Holstein Mid	1999.0	558.0
+59888	http://boulderjunction.wislib.org	Boulder Junction Public Library	2010.0	377.0
+59889	http://www.ci.altoona.wi.us	Altoona, City of	2001.0	60.0
+59890	http://www.wausauschools.org	WausauAreaMontessoriCharter	2012.0	1444.0
+59891	http://www.townofspringdale.org/	Springdale, Town of	0.0	12.0
+59892	http://www.elmgrovewi.org/	Elm Grove, Village of	2000.0	436.0
+59893	http://www.now.k12.wi.us	Norwalk-Ontario-Wilton El	2003.0	22.0
+59894	http://ceoleadershipacademy.org/	Milwaukee Collegiate Academy	2011.0	3.0
+59895	http://www.townofhiles.org/	Hiles, Town of	2001.0	38.0
+59896	http://www.waterford.k12.wi.us	Waterford Graded J1	1996.0	362.0
+59897	http://www.fontana.k12.wi.us	Fontana El	2000.0	105.0
+59898	http://www.wausauschools.org/hawthorn/	Hawthorn Hills El	0.0	0.0
+59899	http://townofplover.com	Plover, Town of	2010.0	127.0
+59900	http://www.townofbradley.org	Bradley, Town of	2004.0	36.0
+59901	http://www.waterford.lib.wi.us	Waterford Public Library	2001.0	36.0
+59902	http://www.iflsweb.org/	Indianhead Federated Library System	2011.0	354.0
+59903	http://www.maple.k12.wi.us	Northwestern Mid	1998.0	58.0
+59905	http://www.easttroy.k12.wi.us	East Troy Community	1997.0	1075.0
+59906	http://www.tricounty.k12.wi.us	Tri-County Area	1999.0	195.0
+59907	http://www.pardeevillelibrary.com/	Angie Williams Cox Public Library	2004.0	449.0
+59909	http://www.villageofcolfaxwi.org/	Colfax, Village of	2011.0	17.0
+59910	http://www.newrichmond.k12.wi.us/site/default.aspx?PageID=1	New Richmond Paperjack El	2012.0	10.0
+59911	http://www.cedargrovebelgium.k12.wi.us	Cedar Grove-Belgium Area	2000.0	22.0
+59912	http://www.elmbrookschools.org	Wisconsin Hills Mid	2007.0	1291.0
+59913	http://www.depere.k12.wi.us/dickinson/	Dickinson El	2004.0	15.0
+59914	http://www.townofmtpleasantwi.com/	Mount Pleasant, Town of	2009.0	73.0
+59915	http://www.townofsomerset-wi.org	Somerset, Town of	2008.0	89.0
+59916	http://www.dcls.info/	Dane County Library Service	2004.0	131.0
+59917	http://www.marinette.uwc.edu/	UW-Marinette	2000.0	497.0
+59918	http://www.co.monroe.wi.us/	Monroe	2000.0	195.0
+59919	http://www.co.rock.wi.us/	Rock	1999.0	814.0
+59920	http://www.mounthorebwi.info/	Mount Horeb, Village of	2002.0	20.0
+59921	http://townwilson.com	Wilson, Town of	2000.0	22.0
+59922	http://townofbennettwi.org	Bennett, Town of	2011.0	10.0
+59923	http://www.winter.k12.wi.us	Winter Mid	1998.0	144.0
+59925	http://www.bclic.org/cumberland	Cumberland Public Library	2002.0	2.0
+59926	http://www.blackriverfallslibrary.org/	Black River Falls Public Library	2005.0	509.0
+59927	http://www.scls.lib.wi.us/csp/	Rosemary Garfoot Public Library	2002.0	31.0
+59928	http://www.blackcreeklibrary.org	Black Creek Village Library	2006.0	126.0
+59929	http://www.21stprepschool.org	21st Century Preparatory School	2002.0	166.0
+59930	http://www.freedomschools.k12.wi.us	Freedom Area	1998.0	697.0
+59931	http://www.co.grant.wi.gov	Grant	2007.0	1467.0
+59932	http://www.menomonee-falls.org/	Menomonee Falls, Village of	2001.0	726.0
+59933	http://www.cityofripon.com	Ripon, City of	2001.0	1837.0
+59934	http://www.shorewoodschools.org	New Horizons for Learning	1999.0	1450.0
+59935	http://strumpd.portalstream.net	Strum, Village of	2011.0	1.0
+59936	http://www.jefferson.k12.wi.us	Jefferson Mid	1998.0	54.0
+59937	http://dva.state.wi.us/	Veterans Affairs, Department of	1998.0	257.0
+59938	http://www.scls.lib.wi.us/acl/	Adams County Public Library	2002.0	13.0
+59939	http://townofburke.com/	Burke, Town of	2001.0	19.0
+59940	http://www.slinger.k12.wi.us	Allenton El	2000.0	365.0
+59941	http://www.spartan.org	Sparta Area	1998.0	3252.0
+59942	http://www.boycevillelibrary.org	Boyceville Public Library	2002.0	76.0
+59943	http://www.crivitz.k12.wi.us	Crivitz Mid	0.0	227.0
+59944	http://www.fonddulac.k12.wi.us	Fond du Lac STEM Institute	1998.0	2717.0
+59945	http://doorcountylibrary.org/sister-bay-liberty-grove-library	Door County Library - Sister Bay-Liberty Grove Branch	2010.0	131.0
+59946	http://townofnavarino.com/	Navarino, Town of	0.0	67.0
+59947	http://www.sharon.lib.wi.us	Brigham Memorial Library	0.0	7.0
+59948	http://www.oregonsd.org	Rome Corners Intermediate	0.0	1237.0
+59949	http://www.prairiedusac.net	Prairie du Sac, Village of	2001.0	538.0
+59951	http://www.wrlsweb.org	Holmen Area Library	2004.0	578.0
+59952	http://www.tigerton.k12.wi.us	Tigerton Hi	1999.0	203.0
+59953	http://www.wittbirn.k12.wi.us	Wittenberg-Birnamwood Hi	1999.0	414.0
+59954	http://scls.typepad.com/ves/	Lester Public Library Of Vesper	2012.0	45.0
+59955	http://www.basd.k12.wi.us	Dr Edward G Dyer Sch	2001.0	1337.0
+59959	http://www.pembine.k12.wi.us	Beecher-Dunbar-Pembine	1998.0	40.0
+59960	http://www.co.wood.wi.us/	Wood	1998.0	169.0
+59963	http://www.hobart-wi.org/	Hobart, Village of	1997.0	285.0
+59965	http://www.elgs.k12.wi.us	Elkhart Lake-Glenbeulah	2003.0	4.0
+59967	http://www.amerysd.k12.wi.us	Amery Intermediate	2001.0	501.0
+59968	http://www.williamsbay.lib.wi.us	Barrett Memorial Library	2001.0	10.0
+59969	http://www.stocktonwi.com/	Stockton, Town of	2013.0	36.0
+59970	http://www.rio.k12.wi.us	Rio Mid/Hi Sch	1999.0	25.0
+59972	http://www.markesan.k12.wi.us	Markesan Intermediate	1998.0	210.0
+59973	http://www.escuelaverde.org	Escuela Verde	2011.0	12.0
+59975	http://www.dhs.wisconsin.gov/ehealth/index.htm	eHealth Initiative	2009.0	15.0
+59976	http://www.northfonddulaclibrary.org	Spillman Public Library	2001.0	154.0
+59977	http://www.vi.deforest.wi.us/	DeForest, Village of	2001.0	427.0
+59978	http://www.townoffoxlake.org/tofl/	Fox Lake, Town of	2008.0	120.0
+59979	http://www.wildroseschools.org	Pleasant View El	2013.0	3.0
+59980	http://www.judaschool.com	Juda El	0.0	552.0
+59981	http://www.barnes-wi.com/	Barnes, Town of	1999.0	583.0
+59982	http://www.lakemills.lib.wi.us	L.D. Fargo Public Library	2001.0	27.0
+59983	http://stevenspoint.com	Stevens Point, City of	2003.0	899.0
+59984	http://www.villageoflowell.com/library.php	Lowell Public Library	0.0	0.0
+59985	http://www.co.marathon.wi.us/	Marathon	1996.0	800.0
+59986	http://gab.wi.gov	Ethics and Accountability Division	2008.0	2647.0
+59987	http://www.villageofallouez.com	Allouez, Village of	2004.0	504.0
+59990	http://www.hurley.k12.wi.us	Hurley El	1999.0	6.0
+59991	http://www.townofyork.org/	York, Town of	2004.0	279.0
+59993	http://www.newlondon.k12.wi.us	New London Mid	1998.0	1315.0
+59994	http://wauwatosavirtualacademy.com	Wauwatosa Virtual Acad	2013.0	13.0
+59997	http://www.mcfls.org/	Milwaukee County Federated Library System	0.0	125.0
+59998	http://www.ruskcounty.org/	Rusk	2000.0	235.0
+59999	http://www.rrsd.k12.wi.us	River Ridge Upper El	2001.0	176.0
+60000	http://www.townoffulton.com	Fulton, Town of	2004.0	175.0
+60001	http://www.cityoflacrosse.org/	La Crosse, City of	2001.0	815.0
+60002	http://www.riponlibrary.org	Ripon Public Library	2000.0	1127.0
+60003	http://koller.wislib.org	Frank B. Koller Memorial Library	2003.0	215.0
+60005	http://www.osceola.k12.wi.us	Osceola Charter Preschool	1997.0	36.0
+60006	http://www.dot.wisconsin.gov/	Transportation, Department of	2002.0	1221.0
+60007	http://www.libertygrove.org	Liberty Grove, Town of	2001.0	3.0
+60008	http://www.depere.k12.wi.us/foxview/index.html	Foxview Intermediate Sch	2004.0	30.0
+60009	http://www.barronpubliclibrary.org/	Barron Public Library	2008.0	48.0
+60010	http://www.pewaukeelibrary.org	Pewaukee Public Library	2006.0	48.0
+60011	http://www.ldf.k12.wi.us/se3bin/clientschool.cgi?schoolname=school575	Lac du Flambeau El	2013.0	1.0
+60012	http://doorcountylibrary.org/ephraim-library	Door County Library - Ephraim Branch	2010.0	131.0
+60013	http://www.townofkewaskum.com	Kewaskum, Town of	2008.0	17.0
+60014	http://www.williamsbay.org	Williams Bay, Village of	2002.0	36.0
+60015	https://sites.google.com/a/nfdlschools.org/nfdltest/	Friendship Learning El	2013.0	257.0
+60016	http://uwmc.uwc.edu/	UW-Marathon                 County	2000.0	740.0
+60017	http://www.pleasantprairieonline.com	Pleasant Prairie, Village of	2004.0	255.0
+60018	http://www.marshfield.k12.wi.us/schools/high/	Marshfield Hi	2007.0	199.0
+60019	http://www.scls.info/	South Central Library System	2006.0	167.0
+60021	http://www.fortlibrary.org	Dwight Foster Public Library	2006.0	481.0
+60022	http://www.poysippilibrary.org	Poy Sippi Public Library	2001.0	9.0
+60023	http://www.platteville.org/attractions/plattevillecitylibrary/tabid/1850/default.aspx	Platteville Public Library	2008.0	232.0
+60024	http://longtermcare.wi.gov/	Aging and Long Term Care, Board on	2009.0	454.0
+60025	http://www.co.ozaukee.wi.us/townfredonia/index.htm	Fredonia, Town of	2001.0	0.0
+60026	http://www.townofangelica.com	Angelica, Town of	2008.0	19.0
+60027	http://www.marion.govoffice2.com	Marion, City of	2006.0	159.0
+60028	http://www.tn.lacduflambeau.wi.gov	Lac du Flambeau, Town of	2009.0	55.0
+60029	http://www.siren.k12.wi.us	Siren El	1999.0	12.0
+60031	http://www.witechcolleges.org/	Wisconsin's Technical Colleges	2001.0	1042.0
+60032	http://www.cf.k12.wi.us	Cambria Friesland Mid/Hi	2004.0	37.0
+60033	http://www.townofbigbend.com/	Big Bend, Town of	2011.0	3.0
+60034	http://oci.wi.gov	Insurance Commissioner, Office of	2002.0	554.0
+60035	http://www.corecommhosting.com/web-hosting.php	Wauwatosa Public Library	2012.0	19.0
+60036	http://www.ellsworth.k12.wi.us/Pages/default.aspx	Lindgren Early Learning Ctr	2012.0	123.0
+60037	http://www.pittsville.k12.wi.us	Pittsville Hi	1997.0	768.0
+60038	http://www.co.columbia.wi.us/	Columbia	2000.0	130.0
+60039	http://www.fjturner.k12.wi.us	Beloit Turner	0.0	556.0
+60041	http://www.niagara.k12.wi.us	Niagara El	1998.0	24.0
+60042	http://www.misd.k12.wi.us	Menominee Indian Mid	1999.0	42.0
+60043	http://www.stoughtonpubliclibrary.org	Stoughton Public Library	2006.0	35.0
+60045	http://townofthreelakes.com	Three Lakes, Town of	2012.0	508.0
+60046	http://www.rosholt.k12.wi.us	Rosholt Mid	1998.0	366.0
+60047	http://townrochesterwi.us/	Rochester, Town of	2003.0	188.0
+60048	http://www.wabeno.k12.wi.us	Wabeno Area	2001.0	153.0
+60049	http://www.lodi.k12.wi.us	Ouisconsing Sch of Collaboratn	2001.0	616.0
+60050	http://www.marinette.wi.us/	Marinette, City of	1998.0	220.0
+60051	http://www.townofliberty.com	Liberty, Town of	2001.0	27.0
+60052	http://www.somersetlibrary.org	Somerset Public Library	2002.0	102.0
+60053	http://www.mcfarland.wi.us/	McFarland, Village of	2001.0	1606.0
+60054	http://www.villageofhartland.com/index.aspx?NID=141	Hartland Public Library	2014.0	591.0
+60055	http://www.franklin.k12.wi.us	Southwood Glen El	2000.0	3322.0
+60056	http://www.shelllake.org/	Shell Lake Public Library	2013.0	141.0
+60058	http://rock.uwc.edu/	UW-Rock                       County	1996.0	625.0
+60059	http://www.townofstjoseph.com	St. Joseph, Town of	2002.0	169.0
+60060	http://www.eachieve.com	eAchieve Academy - Wisconsin	2012.0	59.0
+60061	http://www.marshfield.uwc.edu/	UW-Marshfield/Wood                 County	2000.0	721.0
+60062	http://www.wauwatosa.k12.wi.us	Plank Road Complex	2000.0	388.0
+60063	http://www.townofdale.org	Dale, Town of	2007.0	5.0
+60064	http://www.nextdoormil.org/NextDoor.htm	Next Door Charter	2011.0	71.0
+60065	http://www.demmerlibrary.org	Edward U. Demmer Memorial Library	2007.0	234.0
+60066	http://www.town.springfield.wi.us/	Springfield, Town of	2002.0	39.0
+60067	http://www.springvalley.k12.wi.us	Spring Valley Mid	2000.0	2472.0
+60068	http://www.arcadia.k12.wi.us	Arcadia Hi	2001.0	26.0
+60069	http://www.cadottlibrary.org	Cadott Community Library	2008.0	28.0
+60070	http://www.ci.bloomer.wi.us/	Bloomer, City of	1998.0	134.0
+60071	http://ironriver.wislib.org	Evelyn Goldberg Briggs Memorial Library	2004.0	1375.0
+60072	http://www.elkmound.k12.wi.us	Elk Mound Area	0.0	53.0
+60073	http://www.villageofsharon.com	Sharon, Village of	2003.0	5.0
+60074	http://www.crandon.k12.wi.us	Crandon Mid	1998.0	35.0
+60075	http://www.janesville.k12.wi.us/default.aspx	Janesville Acad for Intl St	2009.0	1821.0
+60076	http://www3.uwplatt.edu/	UW-Platteville	1997.0	4070.0
+60078	http://www.wausauschools.org/west/	West Hi	0.0	0.0
+60079	http://werc.wi.gov/	Employment Relations Commission	2004.0	178.0
+60080	http://olson.wislib.org	Walter E. Olson Memorial Library	2006.0	64.0
+60081	http://www.arrowheadschools.org	Arrowhead UHS	2008.0	1380.0
+60082	http://www.tn.winneconne.wi.gov	Winneconne, Town of	2009.0	38.0
+60083	http://www.co.brown.wi.us/departments/page_af3c62190de9/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Wrightstown Branch Library	0.0	1.0
+60084	http://www.plymouth.k12.wi.us	Plymouth Joint	1998.0	19.0
+60087	http://www.tomahawk.k12.wi.us	Tomahawk Mid	1998.0	413.0
+60089	http://www.co.oconto.wi.us	Oconto	1998.0	2423.0
+60090	http://mercer.wislib.org	Mercer Public Library	2008.0	106.0
+60091	http://www.town-menasha.com/	Menasha, Town of	1998.0	1096.0
+60093	http://www.sdmfschools.org	Menomonee Falls	2012.0	366.0
+60094	http://www.adellwi.govoffice2.com/	Adell, Village of	2008.0	44.0
+60095	http://www.townofprairielake.com	Prairie Lake, Town of	2010.0	13.0
+60097	http://vpl.coawi.org	Vaughn Public Library	2001.0	144.0
+60099	http://www.tremplocounty.com/default/	Trempealeau	2010.0	5.0
+60100	http://www.co.winnebago.wi.us	Winnebago	1998.0	3408.0
+60101	http://www.hartlake.org	Hartland Sch of Community Lrng	1998.0	9.0
+60103	http://townofsunprairie.info/	Sun Prairie, Town of	2002.0	600.0
+60104	http://www.mcfls.org/franklin/	Franklin Public Library	0.0	674.0
+60105	http://www.fallriver.k12.wi.us	Fall River Hi	2000.0	95.0
+60106	http://www.clearlakelibrary.org	Clear Lake Public Library	2002.0	31.0
+60107	http://www.co.chippewa.wi.us/	Chippewa	2000.0	1424.0
+60108	http://www.hartfordlibrary.org	Hartford Public Library	2007.0	8.0
+60110	http://www.town.verona.wi.us/	Verona, Town of	2001.0	10.0
+60111	http://www.cityofelkhorn.org/	Elkhorn, City of	2006.0	120.0
+60112	http://www.ci.neenah.wi.us/	Neenah, City of	1998.0	302.0
+60113	http://www.west-bendlibrary.org/wordpress/	West Bend Community Memorial Library	2011.0	98.0
+60114	http://www.wauwatosa.net	Wauwatosa, City of	2008.0	997.0
+60115	http://www.boscobelwisconsin.com/	Boscobel, City of	1998.0	101.0
+60117	http://www.chilton.govoffice.com/	Chilton, City of	2006.0	326.0
+60118	http://www.abbotsford.k12.wi.us	Abbotsford Middle/Sr Hi	1997.0	1.0
+60119	http://www.greenlakelibrary.org	Caestecker Public Library	2001.0	222.0
+60120	http://baraboo.uwc.edu/	UW-Baraboo/Sauk                 County	2000.0	420.0
+60121	http://www.monroeschools.com	Monroe Indep Virtual Chrtr Hi	1999.0	0.0
+60122	http://www.waunakeepubliclibrary.org	Waunakee Public Library	2004.0	124.0
+60123	http://www.cityofbrodheadwi.us	Brodhead, City of	2003.0	261.0
+60124	http://www.villageoffontana.com/	Fontana, Village of	2001.0	79.0
+60126	http://ercwis.wi.gov	Wisconsin Electronic Recording Council	2008.0	25.0
+60128	http://bcpl.state.wi.us/	Commissioners of Public Lands Board	2008.0	3.0
+60129	http://www.plainfieldlibrary.org	Plainfield Public Library	2001.0	95.0
+60130	http://www.verona.k12.wi.us	Verona Area International Sch	1998.0	2245.0
+60132	http://www.glendale.k12.wi.us/Home.aspx	Glendale-River Hills	2007.0	215.0
+60133	http://www.stockbridge.k12.wi.us	Stockbridge Mid	1998.0	96.0
+60134	http://www.mauston.com	Mauston, City of	1998.0	836.0
+60135	http://www.turtlelakepubliclibrary.org	Turtle Lake Public Library	2004.0	17.0
+60136	http://www.plumcitylibrary.org	Plum City Public Library	2002.0	67.0
+60138	http://www.co.washburn.wi.us/	Washburn	2001.0	133.0
+60139	http://town.blackearth.wi.us/	Black Earth, Town of	2011.0	231.0
+60140	http://www.portage.k12.wi.us	Portage Partnering Preschool	1998.0	366.0
+60141	http://www.mstc.edu	Mid-State Technical College	2002.0	918.0
+60143	http://www.clearlake.k12.wi.us	Gaylord A Nelson Educ Center	2000.0	52.0
+60144	http://www.ecb.org/	Educational Communications Board	1998.0	12.0
+60145	http://www.rockspringslibrary.com	Rock Springs Public Library	2008.0	3.0
+60146	http://www.bristol.k12.wi.us/site/default.aspx?PageID=1	Bristol El	2013.0	11.0
+60147	http://www.waukesha.k12.wi.us	Waukesha Early Learning Center	1998.0	222.0
+60148	http://www.lakeholcombe.k12.wi.us	Lake Holcombe	2000.0	75.0
+60149	http://www.reeseville.lib.wi.us	Reeseville Public Library	2002.0	41.0
+60150	http://millston.org	Millston, Town of	2009.0	45.0
+60151	http://dodgevillelibrary.com/	Dodgeville Public Library	2007.0	35.0
+60152	http://www.platteville.k12.wi.us	Platteville Mid	1998.0	527.0
+60153	http://www.aasd.k12.wi.us/appletonbilingual/	Appleton Bilingual Sch	2011.0	18.0
+60154	http://www.shullsburg.k12.wi.us	Shullsburg El	2000.0	131.0
+60155	http://cable.wislib.org	Forest Lodge Library	2004.0	64.0
+60156	http://fdl.uwc.edu/	UW-Fond                 du Lac	1998.0	536.0
+60157	http://eab.state.wi.us/	Educational Approval Board	1999.0	31.0
+60158	http://www.thorp.k12.wi.us	Thorp Hi	1999.0	250.0
+60160	http://townofmorrison.org/	Morrison, Town of	2006.0	155.0
+60161	http://www.hustisford.lib.wi.us	Hustisford Community Library	2002.0	52.0
+60162	http://www.wc.k12.wi.us	Wonewoc-Center Jr Hi	2001.0	563.0
+60163	http://www.wistatefair.com	Wisconsin State Fair Park	1999.0	152.0
+60165	http://www.newlisbon.k12.wi.us	New Lisbon Jr/Hi	1998.0	525.0
+60166	http://www.newglaruspubliclibrary.org	New Glarus Public Library	2005.0	124.0
+60167	http://www.townofashippun.org/	Ashippun, Town of	2010.0	3.0
+60168	http://madisland.wislib.org	Madeline Island Public Library	2007.0	26.0
+60170	http://www.wirapids.org/	Wisconsin Rapids, City of	2004.0	447.0
+60172	http://www.peshtigo.k12.wi.us	Peshtigo Mid/Hi	2000.0	169.0
+60173	http://www.townoffreedom.org/	Freedom, Town of	2001.0	36.0
+60174	http://www.kenosha.org/	Kenosha, City of	1999.0	84.0
+60175	http://www.wsalem.k12.wi.us	West Salem Mid	2001.0	252.0
+60177	http://www.mcpasd.k12.wi.us	Middleton-Cross Plains Area	1998.0	2486.0
+60178	http://www.reedsville.k12.wi.us	Reedsville Mid	1999.0	12.0
+60179	http://www.mayvilleschools.com	Mayville Mid	2002.0	9.0
+60181	http://www.townofamherst.org/home	Amherst, Town of	2012.0	25.0
+60182	http://www.threelakessd.k12.wi.us	Three Lakes Jr Hi	0.0	347.0
+60184	http://www.pleasantsprings.org	Pleasant Springs, Town of	2004.0	20.0
+60185	http://www.tn.springgreen.wi.gov/	Spring Green, Town of	2009.0	75.0
+60186	http://www.glsd.k12.wi.us	Green Lake Hi	2000.0	528.0
+60187	http://www.colfaxpubliclibrary.org	Colfax Public Library	2008.0	81.0
+60188	http://www.valuworld.com/usa/wi/supermall/County/Columbia/randolph/randolphwis/index.htm	Randolph, Village of	2003.0	16.0
+60189	http://www.energyindependence.wi.gov/	Wisconsin State Energy Office	2009.0	4.0
+60190	http://www.paris.k12.wi.us	Paris El	2000.0	50.0
+60191	http://www.campbellsport.govoffice.com/	Campbellsport, Village of	2006.0	6616.0
+60192	http://smwi.org/	South Milwaukee, City of	2011.0	121.0
+60193	http://www.co.kenosha.wi.us/	Kenosha	1998.0	1720.0
+60194	http://www.nosd.edu	Northern Ozaukee	2002.0	50.0
+60195	http://www.prentice.k12.wi.us	Prentice Mid	1998.0	114.0
+60196	http://www.ledgeviewwisconsin.com/	Ledgeview, Town of	2003.0	252.0
+60197	http://www.clintonville.k12.wi.us	Dellwood Early Learning Ctr	2000.0	15.0
+60198	http://www.brooklynwi.gov	Brooklyn, Village of	2009.0	8.0
+60199	http://www.ci.brillion.wi.us/	Brillion, City of	2000.0	92.0
+60200	http://www.cadott.k12.wi.us	Cadott Community	1998.0	224.0
+60201	http://www.doj.state.wi.us/office-justice-assistance	Justice Assistance, Office of	2014.0	1337.0
+60202	http://www.kmperform.com/KMPerform.cfm	Sch for Arts and Performance	0.0	662.0
+60203	http://phelps.wislib.org	Eleanor Ellis Public Library	2003.0	28.0
+60204	http://www.scls.lib.wi.us/nof/index.html	North Freedom Public Library	2001.0	55.0
+60206	http://www.westfieldlibrary.org	Ethel Everhard Memorial Library	2001.0	228.0
+60208	http://www.durand-wi.com/	Durand, City of	2012.0	235.0
+60210	http://barron.uwc.edu/	UW-Barron                 County	1998.0	501.0
+60211	http://www.fremontpl.org/	Neuschafer Community Library	2011.0	119.0
+60212	http://www.lafargelibrary.org	Lawton Memorial Library	2006.0	1463.0
+60213	http://www.shullsburgwisconsin.org/shullsburgmccoylibrary.html	Mccoy Public Library	2006.0	31.0
+60215	http://www.redgranitelibrary.org	Redgranite Public Library	2001.0	197.0
+60216	http://www.wausauschools.org/stettin/	Stettin El	0.0	0.0
+60217	http://www.cudahy.k12.wi.us	Kosciuszko El	2000.0	128.0
+60218	http://www.reedsburglibrary.org	Reedsburg Public Library	2004.0	30.0
+60219	http://www.citymedfordwi.com/	Medford, City of	2002.0	246.0
+60220	http://www.fdlpl.org	Fond Du Lac Public Library	2002.0	1360.0
+60222	http://www.princeton.k12.wi.us/education/school/school.php?sectionid=3	Princeton Sch	2013.0	0.0
+60223	http://www.co.brown.wi.us/	Brown	1998.0	2393.0
+60224	http://www.hustisford.com/	Hustisford, Village of	1999.0	263.0
+60225	http://www.cityofwaupaca.org	Waupaca, City of	2001.0	1628.0
+60226	http://www.swallowschool.org	Swallow El	2002.0	279.0
+60229	http://www.villageofpewaukeewi.us	Pewaukee, Village of	2012.0	35.0
+60230	http://cfsd.chipfalls.k12.wi.us	Chippewa Falls Area Unified	1999.0	1890.0
+60231	http://www.lomira.k12.wi.us	Lomira Mid	1998.0	599.0
+60232	http://www.scls.lib.wi.us/maz/	Mazomanie Free Library	2003.0	14.0
+60233	http://www.ngsd.k12.wi.us	New Glarus Mid	2001.0	1356.0
+60234	http://www.villageofwildrose.com	Wild Rose, Village of	2009.0	95.0
+60235	http://www.de-pere.org/	De Pere, City of	2001.0	311.0
+60237	http://www.tn.kickapoo.wi.gov	Kickapoo, Town of	2003.0	171.0
+60238	http://www.pulaskischools.org	Pulaski Community	2013.0	1887.0
+60239	http://baldwinlibrary.org	Baldwin Public Library	2000.0	95.0
+60240	http://www.wrightstown.k12.wi.us	Wrightstown Community	1999.0	444.0
+60241	http://www.lancasterwisconsin.com/	Lancaster, City of	1998.0	423.0
+60242	http://www.randomlake.k12.wi.us	Random Lake Mid	1999.0	31.0
+60243	http://www.il-wisconsin.net/council-about	Independent Living Council, State	2010.0	86.0
+60244	http://www.wdpsd.com	West De Pere	2002.0	96.0
+60245	http://www.suamico.org/	Suamico, Village of	1998.0	484.0
+60246	http://www.wrlsweb.org/wilton/	Wilton Public Library	2007.0	339.0
+60247	http://www.perry-wi.gov/	Perry, Town of	2005.0	35.0
+60248	http://www.co.jefferson.wi.us/	Jefferson	2000.0	1.0
+60250	http://www.cityofmenasha-wi.gov/content/community/index.php	Menasha, City of	2004.0	100.0
+60251	http://city.milwaukee.gov/home	Milwaukee, City of	2009.0	1674.0
+60252	http://www.amherst.k12.wi.us	Tomorrow River	1999.0	668.0
+60254	http://www.townofdelafield.org/	Delafield, Town of	2001.0	40.0
+60255	http://www.winneconnelibrary.org	Winneconne Public Library	2001.0	647.0
+60256	http://www.ephraim-wisconsin.com	Ephraim, Village of	2001.0	3.0
+60257	http://www.esls.lib.wi.us/	Eastern Shores Library System	2000.0	596.0
+60258	http://www.rsd.k12.wi.us	Ironton-La Valle El	1997.0	873.0
+60259	http://www.altoonapubliclibrary.org	Altoona Public Library	2000.0	116.0
+60260	http://www.townofvernon.org/	Vernon, Town of	2001.0	866.0
+60262	http://wisconsingeologicalsurvey.org/index.html	Wisconsin Geological and Natural History Survey	2010.0	794.0
+60263	http://www.sdb.k12.wi.us/site/default.aspx?PageID=1	Roy Chapman Andrews Acad	0.0	10.0
+60264	http://www.townofspiderlake.org/	Spiderlake, Town of	2002.0	2.0
+60265	http://www.pesd.k12.wi.us	John Edwards Mid	2003.0	20.0
+60266	http://www.belmont.k12.wi.us	Belmont Community	1999.0	25.0
+60267	http://unity.k12.wi.us/	Unity Mid	1998.0	387.0
+60268	http://www.rbsd.k12.wi.us	Rosendale Intermediate	1999.0	1170.0
+60269	http://albanywi.org	Albany, Village of	2010.0	583.0
+60270	http://www.uwfox.uwc.edu/	UW-Fox                 Valley	2001.0	1913.0
+60271	http://www.townofexeter.com/	Exeter, Town of	2010.0	112.0
+60272	http://doorcountylibrary.org/washington-island-library	Door County Library - Washington Island Branch	2010.0	131.0
+60273	http://www.omro.k12.wi.us	Patch El	2000.0	681.0
+60275	http://www.stratford.k12.wi.us	Stratford Mid	1998.0	7.0
+60277	http://www.citywd.org/	Wisconsin Dells, City of	2012.0	570.0
+60278	http://www.robertspubliclibrary.org	Hazel Mackin Community Library	2003.0	18.0
+60281	http://www.prescott.k12.wi.us	Prescott Mid	1999.0	95.0
+60282	http://www.cwasd.k12.wi.us	Link2Learn Virtual Charter Sch	2013.0	467.0
+60283	http://www.colfax.k12.wi.us	Colfax El	2001.0	71.0
+60284	http://www.depere.k12.wi.us/heritage/	Heritage El	2004.0	17.0
+60287	http://www.gibraltar.k12.wi.us	Gibraltar Area	1997.0	1.0
+60288	http://www.mondovi.k12.wi.us	Mondovi Mid	2001.0	366.0
+60289	http://www.wausauschools.org/horacemann/	Horace Mann Mid	0.0	0.0
+60290	http://www.pardeeville.k12.wi.us	Pardeeville Area	1999.0	525.0
+60292	http://riverfallstown.com/	River Falls, Town of	2000.0	5.0
+60293	http://www.ricelake.k12.wi.us/nlra/	Northern Lakes Regional (NLRA)	2012.0	3.0
+60295	http://www.uwsp.edu/Pages/default.aspx	UW-Stevens Point	2011.0	1269.0
+60296	http://www.wrlsweb.org/mondovi/	Mondovi Public Library	2005.0	66.0
+60297	http://www.oshkosh.k12.wi.us	Oakwood Envir Educ Charter Sch	1998.0	22.0
+60298	http://www.manitowoc.org/	Manitowoc, City of	1996.0	1180.0
+60299	http://www.co.brown.wi.us/departments/?department=58da4860ce85&subdepartment=65c2d0110181	Brown County Library	2009.0	500.0
+60300	http://www.townofharrison.org	Harrison, Town of	2005.0	101.0
+60302	http://www.boyceville.k12.wi.us	Boyceville Community	1999.0	346.0
+60303	http://www.doorcounty.com/baileys-harbor/	Baileys Harbor, Village of	2014.0	124.0
+60304	http://www.fredericlibrary.org	Frederic Public Library	2001.0	25.0
+60305	http://www.calhounmemoriallibrary.org	Calhoun Memorial Library	2006.0	13.0
+60306	http://www.wrlsweb.org/necedah/	Necedah Siegler Memorial Library	2012.0	28.0
+60308	http://www.berlin.k12.wi.us	Clay Lamberton El	2000.0	363.0
+60309	http://womenscouncil.wi.gov/	Wisconsin Women's Council	2004.0	82.0
+60310	http://www.richland.k12.wi.us/res/lincoln/lincolnindex.html	Lincoln El	2010.0	7.0
+60311	http://www.co.taylor.wi.us/	Taylor	2000.0	235.0
+60315	http://www.seymour.k12.wi.us	Seymour Community	1998.0	789.0
+60317	http://www.portagewi.gov/	Portage, City of	2013.0	519.0
+60318	http://www.tn.merrimac.wi.gov	Merrimac, Town of	2003.0	26.0
+60319	http://ileadcharter.org	iLEAD Charter Sch	2011.0	14.0
+60320	http://www.dunncountywi.govoffice2.com/	Dunn	2006.0	899.0
+60321	http://www.vi.wales.wi.gov/	Wales, Village of	2009.0	93.0
+60323	http://www.townoflakemills.org	Lake Mills, Town of	2007.0	2.0
+60324	http://www.wctc.edu	Waukesha County Technical College	2002.0	3820.0
+60326	http://www.co.richland.wi.us/	Richland	2002.0	550.0
+60327	http://www.sdmf.k12.wi.us	Benjamin Franklin El&amp;Early Lrn	2000.0	351.0
+60328	http://www.townoflisbonwi.com/	Lisbon, Town of	2008.0	32.0
+60329	http://www.uwsa.edu/	University of Wisconsin System	1996.0	1014.0
+60330	http://wvls.lib.wi.us/westboropl/	Westboro Public Library	2006.0	1.0
+60331	http://www.ci.cedarburg.wi.us/	Cedarburg, City of	2001.0	280.0
+60332	http://www.urbanday.org/www/	Urban Day School	2014.0	24.0
+60333	https://www.countyofdane.com/	Dane	2003.0	3428.0
+60334	http://www.depere.k12.wi.us/hs/index.html	De Pere Hi	2000.0	43.0
+60335	http://www.villageofhoward.com/	Howard, Village of	2005.0	418.0
+60336	http://www.oakcreekwi.org/	Oak Creek, City of	2001.0	497.0
+60337	http://www.cityofmuskego.org/	Muskego, City of	2013.0	801.0
+60338	http://www.cityofbeaverdam.com/	Beaver Dam, City of	2003.0	476.0
+60339	http://www.johnsoncreek.k12.wi.us	Johnson Creek Mid &amp; Hi	1999.0	494.0
+60341	http://www.townofminong.us/	Minong, Town of	2002.0	18.0
+60342	http://www.wrlsweb.org/taylor/	Taylor Memorial Library	2007.0	41.0
+60343	http://www.phillips.k12.wi.us	Phillips Mid	1999.0	660.0
+60344	http://www.cityofbrodheadwi.us/departments/public_library/index.php	Brodhead Memorial Public Library	2013.0	39.0
+60345	http://www.cityofsunprairie.com	Sun Prairie, City of	2003.0	901.0
+60346	http://www.claytonschooldistrict.new.rschooltoday.com/	Clayton Mid	2012.0	12.0
+60347	http://www.wrlsweb.org/coonvalley/	Knutson Memorial Library	2005.0	20.0
+60350	http://spartan.org/schools/sails	SAILS Sparta Alt Indep Lrn Sch	2012.0	30.0
+60351	http://www.co.green-lake.wi.us/	Green Lake	2000.0	465.0
+60352	http://www.gilmanwi.com/	Gilman, Village of	2008.0	38.0
+60353	http://www.mhpl.org	Mount Horeb Public Library	2004.0	16.0
+60354	http://www.west-bend.k12.wi.us	Rolf&#39;s Early Childhood Ctr	1997.0	2816.0
+60357	http://www.apl.org	Appleton Public Library	1996.0	1779.0
+60358	http://www.townofconover.com/	Conover, Town of	2007.0	139.0
+60359	http://www.barneveld.k12.wi.us	Barneveld El	2001.0	367.0
+60360	http://www.doj.state.wi.us/	Justice, Department of	1998.0	1335.0
+60362	http://www.ci.ocontofalls.wi.us/	Oconto Falls, City of	2000.0	25.0
+60363	http://www.ofsd.k12.wi.us	Osseo-Fairchild Hi	2000.0	418.0
+60364	http://www.colomalibrary.org	Coloma Public Library	2000.0	153.0
+60365	http://www.romepubliclibrary.org	Lester Public Library Of Rome	2004.0	53.0
+60366	http://www.k12.com/wiva	WIVA	2008.0	485.0
+60368	http://www.oconlake.com	Oconomowoc Lake, Village of	2001.0	37.0
+60369	http://www.cashton.k12.wi.us	Cashton Hi	2001.0	17.0
+60370	http://www.villageofnichols.com	Nichols, Village of	2010.0	36.0
+60371	http://www.merton.k12.wi.us	Merton Intermediate	2000.0	335.0
+60372	http://www.jeffersonwis.com	Jefferson, City of	2003.0	113.0
+60373	http://www.antigo-city.org/	Antigo, City of	2004.0	148.0
+60374	http://www.valuworld.com/usa/wi/supermall/County/Columbia/scott/townscott/index.htm	Scott, Town of	2003.0	13.0
+60376	http://www.iola.k12.wi.us	Iola-Scandinavia El	1998.0	422.0
+60377	http://www.uww.edu/	UW-Whitewater	1997.0	2713.0
+60380	http://meadowview.spartan.org	Sparta Meadowview Intermed	2006.0	122.0
+60381	http://www.neoshoschool.com	Neosho El	2002.0	405.0
+60382	http://www.northlakelandschool.com/	North Lakeland El	2013.0	99.0
+60383	http://www.tn.waterford.wi.gov	Waterford, Town of	2010.0	259.0
+60384	http://www.kildaretownship.com	Kildare, Town of	2006.0	2.0
+60386	http://ferryville.com	Ferryville, Village of	2003.0	0.0
+60388	http://www.madisonpubliclibrary.org	Madison Public Library	2003.0	2806.0
+60389	http://www.blackhawk.edu	Blackhawk Technical College	2002.0	503.0
+60390	http://www.flambeau.k12.wi.us	Flambeau Charter School	1998.0	213.0
+60391	http://www.ecasd.k12.wi.us	Eau Claire Area	0.0	758.0
+60392	http://www.tn.hartford.wi.gov/	Hartford, Town of	2009.0	185.0
+60393	http://www.cameron.k12.wi.us	Cameron Mid	1998.0	319.0
+60394	http://www.beloitlibrary.info/	Beloit Public Library	2007.0	207.0
+60395	http://www.cityofwashburn.org	Washburn, City of	2003.0	43.0
+60397	http://www.muskegonorway.org	Country Meadows El	2011.0	13.0
+60398	http://www.townofbuchanan.org/	Buchanan, Town of	2003.0	49.0
+60399	http://www.bayfieldlibrary.org	Bayfield Carnegie Public Library	2004.0	16.0
+60401	http://www.blackhawk.k12.wi.us	Black Hawk Mid	1999.0	30.0
+60402	http://www.wegalibrary.org	Weyauwega Public Library	2003.0	209.0
+60403	http://www.seedsofhealth.org/veritas/	Veritas High	2011.0	158.0
+60404	http://www.athenswis.com/	Athens, Village of	2006.0	396.0
+60406	http://www.robertswisconsin.com/	Roberts, Village of	2001.0	6.0
+60407	http://www.ci.evansville.wi.gov/	Evansville, City of	2004.0	37.0
+60408	http://www.reeseville.com/	Reeseville, Village of	2001.0	17.0
+60409	http://inwisconsin.com/	Wisconsin Economic Development Corporation	1999.0	1009.0
+60412	http://www.wrlsweb.org/independence/	Independence Public Library	2007.0	26.0
+60413	http://www.uwstout.edu/	UW-Stout	1996.0	4483.0
+60414	http://www.freemantownship.com/	Freeman, Town of	2011.0	13.0
+60415	http://www.townofnorway.org/	Norway, Town of	2010.0	91.0
+60416	http://www.statetreasury.wisconsin.gov	Treasurer, Office of the State	2008.0	229.0
+60417	http://www.newrichmondlibrary.org/	Carleton A. Friday Memorial Library	2011.0	145.0
+60418	http://www.dresserpubliclibrary.org	Dresser Public Library	2004.0	16.0
+60419	http://www.kewauneeco.org/	Kewaunee	1998.0	2.0
+60420	http://www.matc.edu	Milwaukee Area Technical College	2000.0	1128.0
+60421	http://www.onalaska.k12.wi.us	Onalaska Kindergarten Center	1997.0	148.0
+60422	http://www.town.oregon.wi.us/	Oregon, Town of	2001.0	3.0
+60423	http://www.iowacounty.org/	Iowa	1999.0	61.0
+60424	http://www.cityofpewaukee.us	Pewaukee, City of	2002.0	518.0
+60425	http://www.ci.waukesha.wi.us/web/guest/waukesha	Waukesha, City of	2009.0	366.0
+60427	http://home.centurytel.net/tnround/	Round Lake, Town of	2007.0	26.0
+60428	http://www.palmyra.k12.wi.us	Palmyra-Eagle Area	1999.0	162.0
+60429	http://www.princetonpublib.org	Princeton Public Library	2001.0	250.0
+60430	http://www.marinettecounty.com/	Marinette	2000.0	4731.0
+60431	http://www.rochester.lib.wi.us	Rochester Public Library	2002.0	19.0
+60432	http://www.ci.cambridge.wi.us/	Cambridge, City of	2004.0	108.0
+60433	http://www.maustonschools.org	Grayside Elementary	2010.0	350.0
+60435	http://www.mymonona.com/	Monona, City of	2006.0	964.0
+60436	http://www.cfc.k12.wi.us	Cochrane-Fountain City El	1998.0	1.0
+60437	http://www.kansasville.org	Kansasville El	2002.0	21.0
+60439	http://www.scls.lib.wi.us/por/	Portage Public Library	2000.0	23.0
+60440	http://www.buffalocounty.com/	Buffalo	2000.0	147.0
+60441	http://cubacity.k12.wi.us/Pages/category.aspx	Cuba City	2009.0	2.0
+60442	http://www.whitewaterlibrary.org/whitewater/	Irvin L. Young Memorial Library	2012.0	111.0
+60443	http://www.townofplymouthwi.com	Plymouth, Town of	2010.0	119.0
+60444	http://etf.wi.gov/	Employee Trust Funds, Department of	2001.0	209.0
+60445	http://www.wautomasd.org	Redgranite El	2012.0	125.0
+60446	http://www.appleton.org/	Appleton, City of	1997.0	1761.0
+60447	http://www.lodipubliclibrary.org	Lodi Womans Club Public Library	2005.0	81.0
+60449	http://landolakes.wislib.org/	Land O Lakes Public Library	2010.0	54.0
+60450	http://www.wausauegl.org	Wausau EGL Acad	0.0	30.0
+60451	http://www.arcadiawi.org	Arcadia	2001.0	2.0
+60452	http://www.shawanoschools.com	LEADS Primary Charter School	2011.0	401.0
+60454	http://www.brf.org	Forrest Street Early Lrng Ctr	1999.0	3238.0
+60456	http://www.argyle.k12.wi.us	Argyle El	2000.0	77.0
+60457	http://www.brandonlibrary.net	Brandon Public Library	2001.0	12.0
+60458	http://doorcountylibrary.org/sturgeon-bay-library	Door County Library - Sturgeon Bay Branch	2010.0	131.0
+60460	http://www.fallcreek.k12.wi.us	Fall Creek Mid	1998.0	652.0
+60461	http://www.village.cottage-grove.wi.us	Cottage Grove, Village of	1999.0	2.0
+60462	http://town.dunn.wi.us/	Dunn, Town of	2001.0	21.0
+60463	http://www.stfrancisschools.org	Deer Creek Intermediate	2003.0	688.0
+60464	http://www.racinelibrary.info	Racine Public Library	2008.0	121.0
+60466	http://www.abschools.k12.wi.us/education/school/school.php?sectionid=8984	Almond-Bancroft	2003.0	3.0
+60467	http://www.townofschley.com	Schley, Town of	2013.0	16.0
+60468	http://www.ocfsd.org	Oak Creek-Franklin Joint	2013.0	641.0
+60469	http://www.mosinee.wi.us/	Mosinee, City of	1998.0	62.0
+60470	http://www.brodhead.k12.wi.us	Ronald R Albrecht El	1999.0	786.0
+60471	http://ci.richland-center.wi.us/	Richland Center, City of	2003.0	377.0
+60472	http://www.webster.k12.wi.us	Webster Mid	2000.0	412.0
+60473	http://legis.wisconsin.gov/pages/default.aspx	State Legislature	2012.0	1357.0
+60474	http://www.cityofwautoma.com/	Wautoma, City of	2006.0	16.0
+60475	http://www.vil.waunakee.wi.us/	Waunakee, Village of	2002.0	990.0
+60477	http://doorcountylibrary.org/forestville-library	Door County Library - Forestville Branch	2010.0	131.0
+60479	http://www.ecpubliclibrary.info	L.E. Phillips Memorial Public Library	2007.0	2.0
+60480	http://townofwausau.com	Wausau, Town of	2013.0	3.0
+60481	http://www.erinschool.org	Erin El	0.0	251.0
+60482	http://glenmorewisconsin.org	Glenmore, Town of	2011.0	45.0
+60483	http://www.rfsd.k12.wi.us	River Falls Public Montessori	1997.0	288.0
+60484	http://www.turtlelake.k12.wi.us	Turtle Lake Hi	2000.0	4.0
+60485	http://www.luckpubliclibrary.org/	Luck Public Library	2010.0	24.0
+60486	http://www.milton.k12.wi.us	Northside Intermediate	1997.0	672.0
+60487	http://www.hssd.k12.wi.us	Lineville Intermediate Sch	1998.0	1863.0
+60488	http://www.townofauburn.net/	Auburn, Town of	2008.0	497.0
+60489	http://www.marlib.org	Marshall Community Library	2008.0	927.0
+60490	http://www.edgar.k12.wi.us	Edgar Mid	1996.0	262.0
+60491	http://www.rhinelander.k12.wi.us	NorthwoodsCommunitySecSch	1998.0	736.0
+60492	http://www.darlington.k12.wi.us	Darlington Community	2000.0	166.0
+60493	http://www.greenbay.k12.wi.us/Pages/default.aspx	McAuliffe El	2012.0	677.0
+60494	http://www.villageofshorewood.org	Shorewood, Village of	2002.0	504.0
+60495	http://www.watertownpubliclibrary.org/	Watertown Public Library	2010.0	57.0
+60496	http://www.pdslibrary.org	Prairie Du Sac Public Library	2006.0	259.0
+60497	http://www.glenwoodcitylibrary.org	Glenwood City Public Library	2001.0	47.0
+60498	http://www.littlechute.k12.wi.us	Little Chute Intermediate	1998.0	636.0
+60499	http://www.vil.fox-point.wi.us	Fox Point, Village of	2001.0	703.0
+60500	http://www.townofgrandrapids.org	Grand Rapids, Town of	2011.0	345.0
+60501	http://www.florencecountywi.com/	Florence	2013.0	894.0
+60502	http://www.shelllake.k12.wi.us	Shell Lake Primary (K-2)	1998.0	913.0
+60503	http://doa.wi.gov/Home	Administration, Department of	2014.0	628.0
+60504	http://www.marshall.k12.wi.us	Marshall Early Learning Ctr	1998.0	145.0
+60505	http://www.oostburg.k12.wi.us	Oostburg Mid	2000.0	71.0
+60506	https://wi-stfrancis.civicplus.com/	St. Francis, City of	2013.0	626.0
+60507	http://www.newlondonlibrary.org/	New London Public Library	2010.0	326.0
+60511	http://www.antigo.k12.wi.us	Spring Valley El	2007.0	740.0
+60512	http://townoflinn.com/	Linn, Town of	2005.0	90.0
+60513	http://btsd.k12.wi.us	SoSET Charter School	2001.0	25.0
+60514	http://www.co.manitowoc.wi.us/	Manitowoc	2001.0	411.0
+60515	http://www.village.bayside.wi.us	Bayside, Village of	2002.0	665.0
+60516	http://www.horicon.k12.wi.us	Horicon Jr Hi	1999.0	968.0
+60517	http://www.ci.middleton.wi.us/	Middleton, City of	1999.0	626.0
+60518	http://www.swsd.k12.wi.us	Southwestern Wisconsin Hi	2002.0	2.0
+60519	http://www.mononagrove.org	Monona Grove Liberal Arts	2001.0	1940.0
+60520	http://www.tn.sampson.wi.gov/	Sampson, Town of	2004.0	19.0
+60521	http://www.nhaschools.com/schools/milwaukeescholars/en/pages/default.aspx	Milwaukee Scholars Charter School	2014.0	22.0
+60522	http://www.neshkorolibrary.org	Neshkoro Public Library	2001.0	3.0
+60523	http://www.luxemburg-casco.new.rschooltoday.com/	Luxemburg-Casco Intermed	2012.0	1.0
+60524	http://www.granton.k12.wi.us	Granton Area	2000.0	413.0
+60525	http://www.gaysmills.org/	Gays Mills, Village of	2004.0	60.0
+60527	http://www.sws-wis.com/medfordpubliclibrary/	Frances L. Simek Memorial Library Medford	1998.0	9.0
+60528	http://www.clevelandwi.gov/index.php	Cleveland, Village of	2007.0	13.0
+60529	http://www.bonduel.k12.wi.us	Bonduel Mid	1999.0	514.0
+60530	http://www.wisconsin.gov/state/	State Government	2012.0	55.0
+60531	http://www.neenah.k12.wi.us	Taft Early Learning Center	1998.0	1858.0
+60532	http://www.wausauschools.org/gdjones/	G D Jones El	0.0	0.0
+60533	http://www.swib.state.wi.us/	Investment Board, State of Wisconsin	2000.0	60.0
+60534	http://kmglobalcharter.com/KMGlobal.cfm	KM Global Sch	0.0	660.0
+60535	http://www.scandinavialibrary.org/	Scandinavia Public Library	2009.0	852.0
+60537	http://www.townofhayward.com/	Hayward, Town of	2011.0	161.0
+60538	http://www.scls.lib.wi.us/ber/index.html	Black Earth Public Library	2000.0	24.0
+60539	http://dwd.wisconsin.gov/lirc/	Labor and Industry Review Commission	2004.0	429.0
+60540	http://www.spartalibrary.org	Sparta Free Library	2001.0	1705.0
+60541	http://www.valuworld.com/usa/wi/supermall/County/Columbia/cambria/cambriawisconsin/index.htm	Cambria, Village of	2002.0	9.0
+60542	http://www.gk12.net/se3bin/clientschool.cgi?schoolname=school207	Grantsburg Mid	2013.0	1.0
+60543	http://www.southmilwaukee.org/library/	South Milwaukee Public Library	2003.0	13.0
+60544	http://www.frederic.k12.wi.us	Frederic 6-12 Sch	2000.0	57.0
+60545	http://www.greenfieldlibrary.org	Greenfield Public Library	1998.0	153.0
+60546	http://www.ci.green-bay.wi.us/	Green Bay, City of	1996.0	733.0
+60547	http://www.cityofaugusta.org/	Augusta, City of	2005.0	116.0
+60548	http://www.clintonvillelibrary.org	Clintonville Public Library	2006.0	367.0
+60549	http://www.kewaskumschools.org	Farmington El	2002.0	140.0
+60550	http://www.edgerton.k12.wi.us	Edgerton Community El	0.0	845.0
+60551	http://www.hasd.org	Hortonville Area K4 Sch	2000.0	841.0
+60552	http://doc.wi.gov/Home	Corrections, Department of	2013.0	431.0
+60553	http://towncenterville.weebly.com/	Centerville, Town of	2013.0	15.0
+60554	http://town-dayton.com/	Dayton, Town of	2011.0	122.0
+60555	http://www.cross-plains.wi.us/	Cross Plains, Village of	1999.0	659.0
+60556	http://www.trevor-wilmot.net	Trevor-Wilmot Consolidated	2006.0	816.0
+60557	http://www.co.brown.wi.us/departments/page_3006ffe31123/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - Ashwaubenon Branch	0.0	1.0
+60558	http://www.richfield.k12.wi.us	Richfield El	1999.0	1034.0
+60559	http://www.morainepark.edu	Moraine Park Technical College	2001.0	442.0
+60560	http://www.hudson.k12.wi.us	Hudson Prairie El	1998.0	75.0
+60561	http://doorcountylibrary.org/egg-harbor-library	Door County Library - Egg Harbor Branch	2010.0	131.0
+60562	http://www.wausauschools.org/hewitt-texas/	Hewitt-Texas El	0.0	0.0
+60563	http://www.cwacademy.org	Capitol West Academy	2005.0	39.0
+60564	http://www.townofsevastopol.com/	Sevastopol, Town of	2002.0	5.0
+60565	http://www.tn.holland.wi.gov/	Holland, Town of	2009.0	54.0
+60566	http://wvls.lib.wi.us/owenpl/	Owen Public Library	2006.0	1.0
+60567	http://www.ntc.edu	Northcentral Technical College	2002.0	834.0
+60568	http://www.kcls.lib.wi.us/	Kenosha County Library System	2002.0	10.0
+60570	http://www.ploverwi.gov	Plover, Village of	2008.0	202.0
+60571	http://www.cudahy-wi.gov/	Cudahy, City of	2009.0	186.0
+60572	http://www.wheatland.k12.wi.us/site/default.aspx?PageID=1	Wheatland Center El	0.0	10.0
+60573	http://www.co.pepin.wi.us	Pepin	2001.0	43.0
+60574	http://www.spencer.k12.wi.us/Pages/default.aspx	Spencer Jr Hi/Hi	2013.0	12.0
+60575	http://bclic.org/cameron/index.html	Cameron Public Library	2001.0	1.0
+60576	http://www.foxwestacademy.org	Fox West Acad	2011.0	1.0
+60577	http://www.ci.mequon.wi.us	Mequon, City of	2006.0	447.0
+60578	http://www.ci.sheboygan.wi.us/	Sheboygan, City of	1999.0	472.0
+60579	http://www.lena.k12.wi.us	LEARN Charter	2001.0	188.0
+60580	http://www.kraemerlibrary.org/	Kraemer Library Community Center	2011.0	114.0
+60581	http://www.mayvillecity.com/	Mayville, City of	1998.0	62.0
+60582	http://www.stanleyboyd.k12.wi.us	Stanley-Boyd Area	2000.0	1224.0
+60583	http://www.co.la-crosse.wi.us/townofonalaska/	Onalaska, Town of	2004.0	15.0
+60584	http://www.ndlccharter.org	New Directions Learning Comm	2011.0	19.0
+60585	http://www.owlsweb.info/	Outagamie Waupaca Library System	2005.0	0.0
+60586	http://www.lacrossecountylibrary.org	La Crosse County Library	2009.0	55.0
+60587	http://www.washcald.com	Washington-Caldwell	0.0	47.0
+60588	http://www.sharon.k12.wi.us	Sharon Community	2000.0	5.0
+60589	http://wvls.lib.wi.us/colbypl/	Colby Public Library	2005.0	427.0
+60591	http://www.walworth.k12.wi.us	Walworth El	2001.0	31.0
+60594	http://www.witc.edu	Wisconsin Indianhead Technical College	2002.0	1055.0
+60595	http://www.bellevillewi.org/	Belleville, Village of	2005.0	519.0
+60596	http://www.woodsschool.com	Geneva J4	2006.0	211.0
+60597	http://www.kewaunee.k12.wi.us	Lakeshore Alternative School	1999.0	650.0
+60598	http://www.nashotah-wi.gov/	Nashotah, Village of	2006.0	193.0
+60599	http://www.wausauschools.org/grant/	Grant El	0.0	0.0
+60601	http://www.village.saukville.wi.us/	Saukville, Village of	2001.0	7.0
+60602	http://www.co.ashland.wi.us/	Ashland	0.0	406.0
+60604	http://www.luxemburgusa.com/	Luxemburg, Village of	2000.0	9.0
+60606	http://www.marshfield.k12.wi.us/schools/madison/	Madison El	2007.0	23.0
+60607	http://www.redgranitewisconsin.com/	Redgranite, Village of	2001.0	28.0
+60608	http://www.villageoflonerock.com	Lone Rock, Village of	2012.0	98.0
+60609	http://www.foxbay.k12.wi.us	Stormonth El	2000.0	288.0
+60610	http://www.lccpa.littlechute.k12.wi.us	Little Chute Career Pathways	2011.0	96.0
+60611	http://www.baraboopubliclibrary.org	Baraboo Public Library	2007.0	308.0
+60612	http://www.watertown.k12.wi.us	Watertown Unified	1996.0	444.0
+60613	http://www.sdwd.k12.wi.us	Wisconsin Dells Hi	2000.0	14.0
+60614	http://www.townofeaglewi.us/	Eagle, Town of	2003.0	615.0
+60615	http://www.stoughton.k12.wi.us	River Bluff Mid	0.0	1490.0
+60616	http://www.markesanlibrary.org	Markesan Public Library	2001.0	100.0
+60617	http://www.germantown.k12.wi.us	County Line El	2000.0	1.0
+60618	http://www.oconomowoc-wi.gov/	Oconomowoc, City of	2011.0	554.0
+60620	http://www.wrlsweb.org/newlisbon/	New Lisbon Memorial Library	2007.0	25.0
+60622	http://www.websterwisconsin.com	Webster, Village of	2001.0	116.0
+60623	http://www.avw.k12.wi.us	Arbor Vitae-Woodruff El	2001.0	96.0
+60624	http://www.owen-withee.k12.wi.us/se3bin/clientschool.cgi?schoolname=school619	Owen-Withee Hi	2013.0	1.0
+60625	http://spartawisconsin.org/	Sparta, City of	2000.0	43.0
+60626	http://www.cvtc.edu/Pages/default.aspx	Chippewa Valley Technical College	2011.0	1173.0
+60627	http://www.tn.sandlake.wi.gov	Sand Lake, Town of	2009.0	49.0
+60628	http://villageofhaugen.com/	Haugen, Village of	2011.0	24.0
+60629	http://villageofsuperior.org/	Superior, Village of	2007.0	7.0
+60630	http://www.burnettcounty.com	Burnett	2002.0	1025.0
+60631	http://www.royall.k12.wi.us	Royall Intermediate	2000.0	77.0
+60632	http://www.villageoffontana.com/library.html	Fontana Public Library	2006.0	79.0
+60633	http://www.edlinesites.net/pages/Wauwatosa_School_District/	Wauwatosa Montessori Sch	2014.0	373.0
+60634	http://www.waupacalibrary.org	Waupaca Area Public Library	2002.0	1496.0
+60635	http://www.waukesha.lib.wi.us	Waukesha Public Library	1999.0	65.0
+60638	http://www.caledoniawi.com/	Caledonia, Village of	2002.0	415.0
+60639	http://ci.peshtigo.wi.us/	Peshtigo, City of	2009.0	186.0
+60640	http://www.wausauschools.org/east/	East Hi	2012.0	0.0
+60642	http://www.oregonpubliclibrary.org	Oregon Public Library	2008.0	326.0
+60646	http://datcp.wi.gov/(X(1)S(aunjrpdo341xdgvojzuiy2zu))/Consumer/Office_of_Privacy_Protection/index.aspx?AspxAutoDetectCookieSupport=1	Privacy Protection, Office of	0.0	2.0
+60647	http://www.sturtevant-wi.gov/index.php/Main_Page	Sturtevant, Village of	2007.0	4336.0
+60648	http://www.pepin.k12.wi.us/	Pepin Area	2001.0	54.0
+60649	http://www.barronmontessori.org	Barron Area Montessori Sch	2011.0	0.0
+60650	http://www.pineriverlibrary.org	Leon-Saxeville Township Library	2001.0	150.0
+60651	http://www.co.shawano.wi.us/	Shawano	2000.0	4664.0
+60652	http://www.mpl.org	Milwaukee Public Library	1998.0	1492.0
+60653	http://www.townofbrookfield.com/	Brookfield, Town of	1999.0	60.0
+60655	http://www.cumberland.k12.wi.us	Island City Virtual Acad	1999.0	141.0
+60656	http://www.cambridge.k12.wi.us	Cambridge Hi	1998.0	513.0
+60657	http://townofbrooklyn.com	Brooklyn, Town of (Green Lake County)	2008.0	44.0
+60658	http://www.townofchase.org/	Chase, Town of	2003.0	29.0
+60659	http://www.lavallelibrary.com/	La Valle Public Library	2013.0	7.0
+60660	http://www.townofjacksonwi.org/	Jackson, Town of (Washington County)	2010.0	471.0
+60661	http://www.elk-mound.org/	Elk Mound, Village of	2004.0	26.0
+60662	http://www.winnefox.org/	Winnefox Library System	1999.0	43.0
+60663	http://www.wctc.net/~belmont/	Belmont, Town of	2002.0	1.0
+60664	http://www.co.waupaca.wi.us	Waupaca	2002.0	532.0
+60665	http://www.ricelakelibrary.org/	Rice Lake Public Library	2003.0	98.0
+60666	http://datcp.wi.gov/(X(1)S(ynnz5wedff15kz1iqgz4qgbd))/index.aspx?AspxAutoDetectCookieSupport=1	Agriculture, Trade and Consumer Protection, Department of	0.0	5.0
+60667	http://wvls.lib.wi.us/riblakepl/	Rib Lake Public Library	2002.0	4.0
+60668	http://www.parkfallslibrary.org	Park Falls Public Library	2002.0	21.0
+60670	http://www.ocontofalls.k12.wi.us	Falls Alt Learning Site	1998.0	764.0
+60671	http://www.lucksd.k12.wi.us	Luck El	2000.0	532.0
+60672	http://www.milwaukeeacademyofscience.org	Milwaukee Academy of Science	2007.0	251.0
+60673	http://arts.state.wi.us/	Arts Board	1998.0	81.0
+60674	http://www.menashalibrary.org	Elisha D. Smith Public Library	2001.0	1740.0
+60675	http://doorcountylibrary.org/fish-creek-library	Door County Library - Fish Creek Branch	2010.0	131.0
+60676	http://www.omro-wi.com	Omro, City of	2002.0	64.0
+60677	http://www.waunakee.k12.wi.us	Waunakee Community 4K Sch	1997.0	2122.0
+60678	http://www.blmgrove.com/	Blooming Grove, Town of	2003.0	7.0
+60680	http://legis.wisconsin.gov/Pages/default.aspx	Wisconsin State Legislature	2012.0	1357.0
+60681	http://town.middleton.wi.us/	Middleton, Town of	2002.0	587.0
+60682	http://www.scls.lib.wi.us/pit/index.html	Pittsville Community Library	2002.0	4.0
+60683	http://www.ci.rhinelander.wi.gov/	Rhinelander, City of	2009.0	133.0
+60684	http://www.tn.union.wi.gov	Union, Town of	2009.0	34.0
+60685	http://www.randall.k12.wi.us/site/default.aspx?PageID=1	Randall Consolidated School	2013.0	10.0
+60687	http://www.newauburn.k12.wi.us	New Auburn Jr-Sr Hi	1998.0	25.0
+60688	http://www.sshore.k12.wi.us	South Shore Jr/Sr Hi	1997.0	1.0
+60689	http://www.hortonvillelibrary.org/	Hortonville Public Library	2009.0	138.0
+60690	http://www.scc.k12.wi.us	Saint Croix Central Mid	1998.0	1146.0
+60691	http://www.cityofadams-wi.gov	Adams, City of	2007.0	1.0
+60692	http://www.wausauschools.org/lincoln/	Lincoln El	0.0	0.0
+60693	http://www.deforest.lib.wi.us	Deforest Area Public Library	2000.0	368.0
+60694	http://www.windsorwi.gov/	Windsor, Town of	2009.0	1325.0
+60696	http://www.colby.k12.wi.us	Little Stars Pre-School	1999.0	708.0
+60697	http://www.co.eau-claire.wi.us/	Eau Claire	1999.0	4588.0
+60698	http://www.florence.k12.wi.us	Florence Middle	1999.0	99.0
+60699	http://www.village.thiensville.wi.us/	Thiensville, Village of	2001.0	841.0
+60700	http://www.gcsd.k12.wi.us	Transitional Skills Center	2001.0	853.0
+60701	http://www.bloomerpubliclibrary.org	G.E. Bleskacek Family Memorial Library	2008.0	101.0
+60702	http://www.newberlin.org/	New Berlin, City of	1997.0	681.0
+60703	http://www.co.oneida.wi.gov	Oneida	2009.0	326.0
+60704	http://emergencymanagement.wi.gov/	Emergency Management, Wisconsin	2003.0	124.0
+60705	http://www.shorewood-hills.org/	Shorewood Hills, Village of	1999.0	690.0
+60706	http://www.vi.westbaraboo.wi.gov/	West Baraboo, Village of	2010.0	339.0
+60707	http://www.monticello.k12.wi.us	Monticello Mid	1999.0	357.0
+60709	http://mwtown.org	Manitowish Waters, Town of	2003.0	38.0
+60710	http://www.village.belgium.wi.us/	Belgium, Village of	2001.0	20.0
+60711	http://www.riblake.k12.wi.us	Rib Lake Mid	2000.0	238.0
+60712	http://www.poynettelibrary.com	Poynette Area Public Library	2009.0	480.0
+60713	http://www.doa.state.wi.us/404b.htm	Land Information Program	2007.0	617.0
+60714	http://www.altoona.k12.wi.us	Grades 4-5 Intermediate	2000.0	700.0
+60715	http://www.hustisford.k12.wi.us	John Hustis El	2000.0	47.0
+60716	http://www.ci.brookfield.wi.us/	Brookfield, City of	2001.0	2504.0
+60717	http://www.weston.k12.wi.us	Weston Mid	2000.0	331.0
+60718	http://www.uges.k12.wi.us	Union Grove El	0.0	311.0
+60721	http://www.friesslakeschool.org	Friess Lake Sch	2000.0	301.0
+60722	http://www.ladysmithpl.org	Rusk County Community Library	2005.0	35.0
+60723	http://www.twinlakes.k12.wi.us/site/default.aspx?PageID=1	Twin Lakes #4	2013.0	8.0
+60724	http://www.townofcloverland.org	Cloverland, Town of	2002.0	83.0
+60725	http://www.chippewafallslibrary.org	Chippewa Falls Public Library	2002.0	104.0
+60726	http://www.uwlax.edu/	UW-La Crosse	1997.0	3.0
+60728	http://www.easttroy.lib.wi.us/easttroy/	East Troy Lions Public Library	2011.0	72.0
+60730	http://lakegenevaschools.com	Lake Geneva-Genoa City UHS	2001.0	203.0
+60731	http://www.co.brown.wi.us/departments/page_88e2b4f4fb49/?department=58da4860ce85&subdepartment=dcffa8a1f842	Brown County Library - East Branch Library	0.0	1.0
+60732	http://www.westonwisconsin.org/	Weston, Village of	2000.0	602.0
+60733	http://www.bentonwi.us	Benton, Village of	2007.0	36.0
+60734	http://townofwescott.com	Wescott, Town of	2011.0	31.0
+60735	http://www.alghs.k12.wi.us	Algoma Hi	1999.0	94.0
+60736	http://www.ecasd.k12.wi.us/teachinglearning/coa_tl_earlylearning.cfm	Prairie Ridge Early Learning	0.0	117.0
+60737	http://townofmitchell.com	Mitchell, Town of	2008.0	24.0

@@ -1,0 +1,1162 @@
+NodeId	NodeURL	NodeName	Year	pages
+33695	http://boards.mo.gov/userpages/Board.aspx?211	Alternative Fuels Commission, Missouri	2012.0	240.0
+33696	http://www.butlerr5.org/	Butler R-V  (007-129)	2011.0	126.0
+33697	http://www.jc123.k12.mo.us/	Jefferson C-123  (074-195)	2001.0	0.0
+33698	http://www.dps.mo.gov/post/	Peace Officer Standards and Training Commission	2004.0	15.0
+33699	http://texascountylibrary.lib.mo.us/content/summersville-branch	Texas County Library - Summersville Branch	2013.0	118.0
+33700	http://www.linn.k12.mo.us	Osage Co. R-II  (076-082)	1997.0	3771.0
+33701	http://www.stclair.k12.mo.us/	St. Clair R-XIII  (036-136)	2001.0	2095.0
+33702	http://www.northsidecommunityschool.org/	North Side Community School  (115-913)	2009.0	78.0
+33703	http://www.cityofesmo.com/	Excelsior Springs	2009.0	38.0
+33704	http://westco.k12.mo.us	West St. Francois Co. R-IV  (094-087)	2003.0	67.0
+33705	http://svncharter.org	Scuola Vita Nuova  (048-915)	0.0	318.0
+33706	http://www.cityoffestus.org/Default.aspx?alias=www.cityoffestus.org/library	Festus Public Library	2008.0	480.0
+33707	http://www.holtssummit.org/home/	Holts Summit	2014.0	0.0
+33708	http://www.worthcounty.us/allendale.html	Allendale	2011.0	24.0
+33709	http://www.cityofpiedmont.com/	Piedmont	1999.0	2.0
+33711	http://www.education.org/	Kingsville R-I  (051-150)	1998.0	399.0
+33712	http://www.dnr.mo.gov/geology/geosrv/ogc/index.html	Oil and Gas Council	2006.0	4.0
+33713	http://www.willowspringslibrary.com/	Willow Springs Public Library	0.0	10.0
+33714	http://www.kclibrary.org/	I. H. Ruiz Biblioteca De Las Americas	1999.0	5243.0
+33715	http://raycountylibrary.homestead.com/	Ray County Library	2003.0	20.0
+33716	http://www.bunceton.k12.mo.us/	Cooper Co. R-IV  (027-056)	1996.0	34.0
+33717	http://www.tarkiomo.com/	Tarkio	2001.0	18.0
+33718	http://www.festus.k12.mo.us	Festus R-VI  (050-006)	0.0	627.0
+33719	http://dss.mo.gov/cbec/	Early Childhood, Coordinating Board for	0.0	24.0
+33720	http://difp.mo.gov/	Insurance, Financial Institutions and Professional Registration, Department of	2006.0	341.0
+33721	http://pr.mo.gov/massage.asp	Therapeutic Massage, Board of	2004.0	545.0
+33722	http://www.overlandmo.org/	Overland	2001.0	179.0
+33723	http://caledoniamo.org/	Caledonia	2008.0	8.0
+33724	http://www.cityofweatherbylake-mo.gov/	Weatherby Lake	2006.0	127.0
+33725	http://www.cityofcottleville.com/	Cottleville	2001.0	99.0
+33726	http://www.parkhill.k12.mo.us/Pages/default.aspx	Park Hill  (083-005)	2009.0	0.0
+33727	http://www.pr.mo.gov/counselors.asp	Professional Counselors, Committee for	2004.0	6.0
+33728	http://www.southpemiscot.com/	South Pemiscot Co. R-V  (078-005)	2007.0	55.0
+33729	http://www.brentwood.lib.mo.us/	Brentwood Public Library	2002.0	1179.0
+33730	http://tinaavalon.k12.mo.us/	Tina-Avalon R-II  (017-122)	2000.0	157.0
+33731	http://www.webstercounty.lib.mo.us/	Webster County Library	2001.0	203.0
+33732	http://bears.k12.mo.us/	Greenville R-II  (111-086)	2000.0	3.0
+33733	http://www.sunset-hills.com/	Sunset Hills	1998.0	638.0
+33734	http://www.moberly.k12.mo.us	Moberly  (088-081)	2000.0	23.0
+33735	http://scschools.k12.mo.us	Scott City R-I  (100-059)	2002.0	3515.0
+33737	http://mostclair.lib.mo.us/	Saint Clair County Library	2001.0	5.0
+33739	http://pr.mo.gov/chiropractors.asp	Chiropractic Examiners, Missouri State Board of	2004.0	600.0
+33741	http://www.maplewood.lib.mo.us/	Maplewood Public Library	2001.0	30.0
+33742	http://www.cityofnormandy.com/	Normandy	2001.0	287.0
+33744	http://www.arrowrock.org/	Arrow Rock	1998.0	11.0
+33745	http://cityofpeculiar.org/	Peculiar	2012.0	454.0
+33747	http://www.savannahr3.com/site/default.aspx?PageID=1	Savannah R-III  (002-097)	2012.0	8.0
+33748	http://www.bartoncounty.com/	Barton County	1998.0	97.0
+33749	http://www.dellalamb.org	Della Lamb Elem.  (048-912)	2001.0	33.0
+33750	http://www.wrightcountylibrary.org/	Wright County Library	2008.0	29.0
+33751	http://www.auxvassemo.com/default.aspx	Auxvasse	2011.0	38.0
+33752	http://www.co.platte.mo.us/elections/	Platte County Election Board	2002.0	8.0
+33753	http://hs1.monett.k12.mo.us/	Monett R-I  (005-128)	2000.0	0.0
+33754	http://www.showmemissouri.com/Towns/Houston_MO.htm/	Houston	2002.0	37.0
+33755	http://www.mssu.edu	Sikeston Higher Education Center	2003.0	1960.0
+33756	http://scotland.k12.mo.us/	Scotland Co. R-I  (099-082)	1999.0	15315.0
+33758	http://www.sipanthers.k12.mo.us	South Iron Co. R-I  (047-060)	0.0	24.0
+33759	http://www.phr6.com	Pleasant Hope R-VI  (084-006)	2008.0	0.0
+33760	http://www.maitlandmo.com/	Maitland	2003.0	7.0
+33761	http://www.cps18.org	Caruthersville 18  (078-012)	2009.0	948.0
+33762	http://www.clintonmo.com/	Clinton	1998.0	163.0
+33763	http://www.courts.mo.gov/page.jsp?id=230	Retirement, Removal and Discipline of Judges, Commission on	2012.0	4044.0
+33764	http://moundcitypubliclibrary.lib.mo.us/	Mound City Public Library	2008.0	0.0
+33765	http://marktwain.k12.mo.us	Mark Twain R-VIII  (106-008)	2008.0	10.0
+33766	http://www.courts.mo.gov/page.jsp?id=158	Appellate Judicial Commission	2010.0	3256.0
+33767	http://www.sos.mo.gov/archives/about/geographic.asp	Geographic Names, Missouri Board of	2003.0	7.0
+33768	http://www.mg.k12.mo.us	Mountain Grove R-III  (114-114)	2012.0	9.0
+33770	http://brooksidedayschool.com/	Brookside Charter School  (048-916)	2004.0	5.0
+33771	http://www.glendalemo.org/	Glendale	1998.0	315.0
+33772	http://www.licking.k12.mo.us	Licking R-VIII  (107-154)	1998.0	84.0
+33773	http://www.pr.mo.gov/perfusionist.asp	Clinical Perfusionists, Advisory Commission for	2004.0	7.0
+33774	http://www.springfieldpublicschoolsmo.org/	Springfield R-XII  (039-141)	2006.0	475.0
+33775	http://www.texascountymissouri.org/	Texas County	2008.0	797.0
+33776	http://ci.sedalia.mo.us/	Sedalia	1996.0	832.0
+33777	http://dhe.mo.gov/error/404.php	Minority and Underrepresented Environmental Literacy Program	2010.0	20.0
+33778	http://www.kirkwoodmo.org/	Kirkwood	1998.0	946.0
+33779	http://northwest.k12.mo.us	Pettis Co. R-V  (080-116)	2007.0	88.0
+33782	http://www.aurora-cityhall.org/	Aurora	2001.0	14.0
+33784	https://www.mohela.com/default.aspx	Missouri Higher Education Loan Authority	2010.0	41.0
+33785	http://visitsweetsprings.com/	Sweet Springs	2010.0	20.0
+33786	http://www.house.mo.gov/	Missouri House of Representatives	2003.0	17398.0
+33787	http://www.treasurer.mo.gov/	State Treasurer	2004.0	184.0
+33788	http://www.iberiamo.yhti.net/	Iberia	2002.0	10.0
+33789	http://www.kcata.org/	Kansas City Area Transportation Authority	2000.0	406.0
+33791	http://www.bgschools.k12.mo.us	Bowling Green R-I  (082-100)	2000.0	59.0
+33792	http://www.salem.k12.mo.us	Salem R-80  (033-090)	2000.0	39.0
+33793	http://www.pulaskicounty.lib.mo.us/	Pulaski County Library	2004.0	26.0
+33794	http://www.mhec.org/	Midwestern Higher Education Commission	1998.0	389.0
+33795	http://www.interstatecompact.org/	State Council for Interstate Adult Offender Supervision	2005.0	2408.0
+33796	http://www.hardin-central.org	Hardin-Central C-2  (089-088)	2010.0	69.0
+33798	http://cassvillemo.blogspot.com/	Cassville	2010.0	7.0
+33799	http://www.molottery.com	State Lottery Commission	1999.0	5592.0
+33800	http://www.grantcity.net/	Grant City	2009.0	4.0
+33801	http://www.crystal.k12.mo.us	Crystal City 47  (050-013)	2002.0	163.0
+33802	http://www.perryville.k12.mo.us/site/default.aspx?PageID=1	Perry Co. 32  (079-077)	2011.0	6.0
+33803	http://www.moniteau.net/	Moniteau County	2005.0	310.0
+33804	http://www.knobnoster.k12.mo.us	Knob Noster R-VIII  (051-155)	2001.0	176.0
+33806	http://dese.mo.gov/vr/vocrehab.htm?opendocument	State Rehabilitation Council	2012.0	73.0
+33807	http://www.cloptonhawks.com	Pike Co. R-III  (082-101)	2004.0	384.0
+33808	http://www.plato.k12.mo.us	Plato R-V  (107-156)	1998.0	56.0
+33809	http://www.stlouisco.com/yourgovernment/elections	St. Louis County Board of Election Commissioners	2011.0	421.0
+33811	http://oeo.mo.gov/	Supplier & Workforce Diversity, Office of	2011.0	77.0
+33812	http://www.nkcschools.org	North Kansas City 74  (024-093)	2010.0	811.0
+33813	http://www.logrog.net	Logan-Rogersville R-VIII  (039-139)	2005.0	128.0
+33814	http://maconcountymo.com/	Macon County	0.0	39.0
+33815	http://www.halfwayschools.org	Halfway R-III  (084-003)	2012.0	7.0
+33816	http://www.cityofminer.com/	Miner	2001.0	19.0
+33817	http://www.ci.kearney.mo.us/	Kearney	2001.0	29.0
+33818	http://www2.youseemore.com/blrl/	Barry-Lawrence Regional Library	2011.0	66.0
+33819	http://stannmo.org/	St. Ann	2001.0	300.0
+33820	http://www.bevierc-4.com/education/district/district.php?sectionid=1	Bevier C-4  (061-151)	2009.0	2.0
+33822	http://www.ded.mo.gov/film/	Film Commission	2011.0	29.0
+33823	http://www.crane.k12.mo.us	Crane R-III  (104-043)	1998.0	19.0
+33824	https://www.ago.mo.gov/	Attorney General	2003.0	4.0
+33825	http://nevadamo.org/	Nevada	1999.0	121.0
+33826	http://www.joplinmo.org/	Joplin	2001.0	1507.0
+33827	http://www.humansville.k12.mo.us	Humansville R-IV  (084-004)	2002.0	476.0
+33828	http://shelbycountymo.com/	Shelby County	2010.0	155.0
+33829	http://www.clarktonschools.org	Clarkton C-4  (035-097)	2009.0	95.0
+33830	http://www.casscounty.com/	Cass County	1998.0	40.0
+33832	http://www.sedalialibrary.com/	Sedalia Public Library	2007.0	32.0
+33833	http://www.wrightcity.org/	Wright City	1999.0	53.0
+33834	http://harrisburg.k12.mo.us/	Harrisburg R-VIII  (010-092)	2001.0	5.0
+33835	http://texascountylibrary.lib.mo.us/content/houston-branch	Texas County Library	2013.0	101.0
+33836	http://www.plattecity.org/	Platte City	2002.0	393.0
+33838	http://www.lebanonmissouri.org/	Lebanon	2002.0	454.0
+33839	http://camdentonschools.schoolwires.net/site/default.aspx?PageID=1	Camdenton R-III  (015-002)	2012.0	14.0
+33840	http://www.ozarkmissouri.com/	Ozark	1999.0	409.0
+33841	http://www.jacksonmo.org/	Jackson	2004.0	121.0
+33842	http://lonestarschool.org	Ripley Co. R-IV  (091-093)	2011.0	45.0
+33843	http://www.mehlvilleschooldistrict.com	Mehlville R-IX  (096-094)	2002.0	363.0
+33844	http://www.ucmo.edu/future.cfm	University of Central Missouri	2010.0	2512.0
+33845	http://doc.mo.gov	Corrections, Department of	2003.0	182.0
+33847	http://boards.mo.gov/userpages/Board.aspx?316	Missouri Sheriff Methamphetamine Relief Taskforce	2012.0	228.0
+33848	http://christiancountymo.gov/	Christian County	2004.0	57.0
+33849	http://harrisonvilleschools.org/education/components/scrapbook/default.php?sectionid=1	Harrisonville R-IX  (019-149)	2009.0	0.0
+33850	http://www.nixa.com/	Nixa	0.0	668.0
+33851	http://dss.mo.gov/mhd/	Drug Utilization Review Board	2007.0	154.0
+33852	http://www.chamois.k12.mo.us	Osage Co. R-I  (076-081)	1998.0	20.0
+33853	http://www.kirksvillecity.com/	Kirksville	1998.0	921.0
+33854	http://www.mo.gov/	State Government	2003.0	336.0
+33855	http://www.trojans.k12.mo.us	Carrollton R-VII  (017-125)	2006.0	33.0
+33856	https://worksmart.ded.mo.gov/departments/home.cfm?MenuID=5117	Missouri Workforce Investment Board	0.0	3.0
+33857	http://www.truman.edu/about/our-people/board-of-governors/	Truman State University Board of Governors	2014.0	22.0
+33858	http://www.ci.crestwood.mo.us/	Crestwood	1998.0	703.0
+33859	http://www.cityofmaplewood.com/	Maplewood	2001.0	401.0
+33860	http://www.livingstoncountymo.com/	Livingston County	2006.0	159.0
+33861	http://www.lakewinnebago.org/	Lake Winnebago	2002.0	74.0
+33862	http://dese.mo.gov/holocaustcommission/	Holocaust Education and Awareness Commission	0.0	0.0
+33864	http://www.carljunction.org/	Carl Junction	2002.0	48.0
+33865	http://www.bernie.k12.mo.us	Bernie R-XIII  (103-135)	1996.0	143.0
+33866	http://dese.mo.gov	Elementary and Secondary Education, Department of	2003.0	1346.0
+33867	http://www.missourieconomy.org	Missouri Economic Research and Information Center (MERIC)	2005.0	72.0
+33868	http://kcmo.gov/police/	Kansas City Board of Police Commissioners	2014.0	482.0
+33869	http://henrycountyr1.k12.mo.us	Henry Co. R-I  (042-111)	2005.0	28.0
+33870	http://www.visitpulaskicounty.org/	Pulaski County	2003.0	701.0
+33871	http://www.taneyville.k12.mo.us	Taneyville R-II  (106-002)	2004.0	4263.0
+33872	http://www.marshall-mo.com/	Marshall	2001.0	47.0
+33873	http://dunklin-co.lib.mo.us/	Campbell Branch Library	1997.0	17.0
+33874	http://www.pr.mo.gov/veterinarian.asp	Veterinary Medical Board, Missouri	2004.0	6.0
+33875	http://www.lifesciences.mo.gov/	Life Sciences Research Board	2004.0	1.0
+33876	http://www.nodawaycountymo.com/	Nodaway County	2006.0	58.0
+33877	http://www.dss.mo.gov/	Social Services, Department of	2003.0	373.0
+33878	http://www.ci.washington.mo.us/	Washington Public Library	2001.0	585.0
+33879	https://sites.google.com/a/shawnee.k12.mo.us/www/	Shawnee R-III  (042-113)	2013.0	318.0
+33880	http://www.dnr.mo.gov/shpo/uhbcc.htm	Unmarked Human Burial Consultation Committee	2003.0	196.0
+33881	http://www.warrencor3.org/	Warren Co. R-III  (109-003)	2001.0	723.0
+33883	http://www.mopgc.com/	Propane Gas Commission, Missouri	2010.0	17.0
+33884	http://www.promiseacademykc.org	Genesis School Inc.  (048-905)	2010.0	6749.0
+33885	http://www.hssu.edu/sp_sitemap.cfm?CFID=3582430&CFTOKEN=42621798	Harris-Stowe State University Board of Regents	0.0	473.0
+33886	http://www.hssu.edu/	Harris-Stowe State University	2005.0	92.0
+33887	http://northandrew.org	North Andrew Co. R-VI  (002-089)	2012.0	21.0
+33888	http://www.louisiana-mo.com/v1/	Louisiana	2011.0	143.0
+33889	http://www.slps.org/site/default.aspx?PageID=1	St. Louis City  (115-115)	2012.0	20.0
+33890	http://www.lonedell.org	Lonedell R-XIV  (036-133)	2011.0	444.0
+33891	https://www.missouriwestern.edu/	Missouri Western State University Board of Governors	2005.0	1972.0
+33892	http://www.misscomo.net/	Mississippi County	2002.0	28.0
+33893	http://www.oakridger6schools.com	Oak Ridge R-VI  (016-094)	2013.0	69.0
+33894	http://douglascountylibrary.lib.mo.us/	Douglas County Public Library	2008.0	348.0
+33895	http://cityofslater.com/	Slater	1998.0	69.0
+33896	http://www.bethel.macaa.net/nosite.php?err=site_is_closed	Bethel	2013.0	2.0
+33897	http://www.pr.mo.gov/respiratorycare.asp	Respiratory Care, Missouri Board for	2004.0	6.0
+33898	http://southholtr1.com/	South Holt Co. R-I  (044-084)	2004.0	0.0
+33899	http://www.smithvillemo.org/	Smithville	1999.0	201.0
+33900	http://www.caruthersvillecity.com/	Caruthersville	1998.0	237.0
+33901	http://www.grandviewr2.com/	Grandview R-II  (050-002)	2006.0	10576.0
+33903	http://www.otc.edu	Ozarks Technical Community College	2002.0	1520.0
+33904	http://www.gocolumbiamo.com/	Columbia	2001.0	2665.0
+33905	http://www.cameron.k12.mo.us	Cameron R-I  (025-001)	2001.0	175.0
+33906	http://www.centralr3.org	Central R-III  (094-086)	2005.0	79.0
+33907	http://mcdonaldcountygov.com/	McDonald County	2009.0	47.0
+33909	http://www.nwr1.k12.mo.us/education/components/scrapbook/default.php?sectionid=1	Northwest R-I  (050-001)	2011.0	1.0
+33910	http://perrymissouri.com/site_2012/	Perry	2012.0	68.0
+33911	http://www.nemoahec.org/	Missouri Area Health Education Centers Council	2005.0	75.0
+33912	http://www.wrightcountymo.com/	Wright County	2004.0	8.0
+33913	http://www.mymcpl.org/locations/edgerton	Mid-Continent Public Library - Edgerton	2010.0	37.0
+33914	http://www.jcschools.us/site/default.aspx?PageID=1	Jefferson City  (026-006)	2013.0	9.0
+33915	http://www.dnr.mo.gov/boards.htm	Low-Level Radioactive Waste Compact Advisory Committee	2004.0	1593.0
+33916	http://www.umsl.edu	Missouri University of Science & Technology	1996.0	550.0
+33917	http://hallsvillemissouri.wordpress.com/	Hallsville	2011.0	36.0
+33918	http://www.wheatonbulldogs.org/	Wheaton R-III  (005-120)	2009.0	188.0
+33919	http://www.sarcoxie.k12.mo.us	Sarcoxie R-II  (049-140)	1998.0	58.0
+33920	http://www.leeton.k12.mo.us	Leeton R-X  (051-156)	2004.0	36.0
+33921	http://www.woodsonterrace.net/	Woodson Terrace	1998.0	194.0
+33922	http://www.webstergroves.org/	Webster Groves	2001.0	489.0
+33923	http://www.mosac.mo.gov/page.jsp?id=45392	Missouri Sentencing Advisory Commission	2011.0	68.0
+33925	http://governor.mo.gov	Governor's Office	2003.0	557.0
+33926	http://fairfaxk12mo.us/	Fairfax R-III  (003-033)	2004.0	41.0
+33927	http://www.camdenmo.org/	Camden County	2002.0	78.0
+33928	http://www.bourbonmo.com/	Bourbon	2001.0	32.0
+33929	http://www.neoshomo.org/	Neosho	2000.0	417.0
+33931	http://www.isdschools.org	Independence 30  (048-077)	2012.0	180.0
+33932	http://scotland.lib.mo.us/	Scotland County Memorial Library	2008.0	192.0
+33933	http://www.ste-genevieve.com/	Ste. Genevieve	2000.0	14.0
+33934	http://marionville.us/	Marionville R-IX  (055-106)	2002.0	20.0
+33935	http://health.mo.gov/index.php	Health & Senior Services, Department of	2011.0	1444.0
+33936	http://www.rockwood.k12.mo.us/Pages/default.aspx	Rockwood R-VI  (096-091)	2010.0	691.0
+33937	http://boards.mo.gov/userpages/Board.aspx?35	Administrative Law Judge Review Committee	2012.0	228.0
+33939	http://www.higginsville.org/	Higginsville	2000.0	424.0
+33940	http://www.gladstone.mo.us/	Gladstone	2001.0	147.0
+33941	http://www.mississippiriverinfo.com/	Mississippi River Parkway Commission	2001.0	28.0
+33942	http://www.treasurer.mo.gov/content/about-the-office/1trustinformation	Missouri Investment Trust Board of Trustees	2014.0	65.0
+33943	http://www.sikestonr6.org/education/district/district.php?sectionid=1	Sikeston R-6  (100-063)	2008.0	2.0
+33944	http://www.boonvillemo.org/	Boonville	2005.0	73.0
+33945	http://www.albanymo.net/	Albany	2000.0	222.0
+33946	http://www.nevadapubliclibrary.com/	Nevada Public Library	2003.0	8.0
+33947	http://www.valley.k12.mo.us/	Valley R-VI  (110-031)	2002.0	0.0
+33948	http://www.greendale-mo.us/	Greendale	2011.0	77.0
+33949	http://www.shelbina-mo.com/	Shelbina	2004.0	13.0
+33950	http://www.welcometowarsaw.com/	Warsaw	2001.0	248.0
+33951	http://www.pettisr12.k12.mo.us/	Pettis Co. R-XII  (080-122)	2001.0	16.0
+33952	http://www.cityofherculaneum.org/	Herculaneum	2007.0	41.0
+33953	http://www.kchopeacademy.org	Hope Academy  (048-920)	2010.0	1.0
+33954	http://www.valleyparklibrary.org/	Valley Park Community Library	2002.0	82.0
+33955	http://cityoftroymissouri.com/	Troy	2000.0	45.0
+33956	http://www.hillsboro.k12.mo.us	Hillsboro R-III  (050-003)	2002.0	87.0
+33957	http://millercountymissouri.org/	Miller County	2005.0	45.0
+33958	http://www.centraliamo.org/	Centralia	2007.0	157.0
+33959	http://tipton.k12.mo.us/	Tipton R-VI  (068-073)	1998.0	130.0
+33960	http://dss.mo.gov/fsd/rsb/childrensvision/	Children's Vision Commission	2010.0	2.0
+33961	http://www.marionvillemo.com/	Marionville	2001.0	9.0
+33964	http://www.ucitymo.org/	University City	2003.0	579.0
+33965	http://www.evertontigers.org/	Everton R-III  (029-003)	2007.0	205.0
+33966	http://www.dnr.mo.gov/env/wpp/cwc/index.html	Clean Water Commission	2006.0	9.0
+33967	http://www.stclairmo.com/stclairmo/cityhall.htm	St. Clair	2008.0	32.0
+33968	http://www.neoshopublicschools.net	Neosho R-V  (073-108)	2010.0	104.0
+33969	http://www.cuba.k12.mo.us	Crawford Co. R-II  (028-102)	2005.0	31.0
+33970	http://dmh.mo.gov/about/diroffice/commission/	Mental Health Commission	0.0	15.0
+33971	http://www.jeffcomo.org/	Jefferson County	2000.0	324.0
+33972	http://www.cityoflathropmo.com/	Lathrop	2014.0	40.0
+33973	http://www.seneca.k12.mo.us	Seneca R-VII  (073-106)	2005.0	58.0
+33974	http://www.hopkinsmo.com/	Hopkins	2003.0	7180.0
+33975	http://www.willardschools.net	Willard R-II  (039-133)	2012.0	19.0
+33976	http://hickorycountyschools.net/	Hickory Co. R-I  (043-001)	2003.0	52.0
+33977	http://oa.mo.gov/	Administration, Office of	2003.0	1802.0
+33980	http://boards.mo.gov/userpages/Board.aspx?73	Missouri Medal of Valor Review Board	2012.0	228.0
+33981	http://www.ozarkregionallibrary.lib.mo.us/	Ozark Regional Library	2008.0	1.0
+33982	http://www.rollacity.org/	Rolla	2003.0	36.0
+33983	http://www.friendsofmsa.org/sscc/sscc.htm	Second State Capitol Commission	2003.0	2.0
+33984	http://www.purdyk12.com/Pages/default.aspx	Purdy R-II  (005-124)	2012.0	50.0
+33985	http://dev.hopecenterkc.org/	Hope Leadership Academy  (048-925)	2013.0	50.0
+33987	http://www.cityofcapegirardeau.org/	Cape Girardeau	2002.0	441.0
+33988	http://www.ecarter.k12.mo.us	East Carter Co. R-II  (018-047)	1999.0	85.0
+33989	http://www.crowder.edu	Crowder College Watley Center - Cassville	2002.0	989.0
+33990	http://www.claytonschools.net/site/default.aspx?PageID=1	Clayton  (096-102)	2012.0	105.0
+33991	http://www.cityofcharlack.com/	Charlack	2004.0	105.0
+33992	http://www.mymcpl.org/locations/north-independence	Mid-Continent Public Library - North Independence	2010.0	37.0
+33993	http://www.dnr.mo.gov/404-modnr.htm	Environmental Improvement and Energy Resources Authority	2005.0	794.0
+33994	http://www.mdfb.org/	Development Finance Board	1998.0	2.0
+33995	https://www.stlouis-mo.gov/government/	St. Louis City	2010.0	0.0
+33996	http://disability.mo.gov/	Governor's Council on Disability	2012.0	42.0
+33997	http://www.bocolib.com/	Bollinger County Library	2008.0	2.0
+33998	http://lathrop.schooldesk.net/	Lathrop R-II  (025-002)	2011.0	102.0
+33999	http://www.jamestown.k12.mo.us	Jamestown C-1  (068-074)	2012.0	69.0
+34000	http://www.lcmo.us/	Lincoln County	2003.0	1.0
+34001	http://www.allenvillageschool.com/site/default.aspx?PageID=1	Allen Village  (048-909)	2013.0	11.0
+34002	http://www.dunklin.k12.mo.us	Dunklin R-V  (050-005)	0.0	286.0
+34003	http://airportdrivemo.com/	Airport Drive	2000.0	16.0
+34004	http://www.franklinmo.org/	Franklin County	2002.0	30.0
+34005	http://www.cityofrichmondmo.org/	Richmond	2002.0	40.0
+34006	http://www.hurley.k12.mo.us	Hurley R-I  (104-041)	2008.0	1.0
+34007	http://acl.tlcdelivers.com	Atchison County Library	2008.0	1610.0
+34009	http://www.jeffcitymo.org/	Jefferson City	2001.0	69.0
+34010	http://www.farmington.k12.mo.us	Farmington R-VII  (094-078)	1997.0	2.0
+34011	http://www.sos.mo.gov/	Secretary of State	2003.0	1275.0
+34012	http://www.cainsville.com/	Cainsville	2003.0	101.0
+34013	http://www.mvc.dps.mo.gov/	Missouri Veterans Commission	2003.0	249.0
+34014	http://www.portageville.k12.mo.us	Portageville  (072-068)	1997.0	299.0
+34015	http://www.pr.mo.gov/realestate.asp	Real Estate Commission, Missouri	2004.0	6.0
+34016	http://www.mmpec.ded.mo.gov/	Missouri Military Preparedness and Enhancement Commission	2006.0	0.0
+34017	http://www.viburnum.net/	Viburnum	2001.0	14.0
+34019	http://www.co.st-louis.mo.us/	St. Louis County	1998.0	0.0
+34020	http://www.columbia.k12.mo.us	Columbia 93  (010-093)	1998.0	12.0
+34022	http://www.mymcpl.org/locations/claycomo	Mid-Continent Public Library - Claycomo	2010.0	37.0
+34023	http://www.kearney.k12.mo.us	Kearney R-I  (024-086)	1998.0	251.0
+34024	http://www.bunkerr3.k12.mo.us	Bunker R-III  (090-077)	2001.0	10.0
+34025	http://perrycountymo.us/	Perry County	2008.0	520.0
+34026	http://gideon.k12.mo.us	Gideon 37  (072-073)	1996.0	57.0
+34028	http://www.jr7.k12.mo.us/	Jefferson Co. R-VII  (050-007)	2002.0	385.0
+34029	http://www.dfs.dps.mo.gov/dfsboil.htm	Boiler and Pressure Vessel Rules, Board of	2005.0	128.0
+34030	http://kimberling-city.net/	Kimberling City	2004.0	44.0
+34031	http://www.dss.mo.gov/fsd/rsb/	State Rehabilitation Advisory Council for the Blind	2005.0	28.0
+34032	http://trailslibrary.org/	Trails Regional Library	2010.0	228.0
+34033	http://www.raypec.k12.mo.us	Raymore-Peculiar R-II  (019-142)	1998.0	4641.0
+34034	http://www.umkc.edu	Missouri Southern State University	1996.0	1908.0
+34035	http://gallatin.k12.mo.us/	Gallatin R-V  (031-121)	2001.0	10.0
+34036	http://www.cityofmonett.com/	Monett	2003.0	51.0
+34037	http://www.bentoncomo.com/	Benton County	2008.0	12.0
+34038	http://polo.k12.mo.us/	Polo R-VII  (013-059)	2000.0	18.0
+34039	http://www.pr.mo.gov/socialworkers.asp	Social Workers, State Committee for	2004.0	6.0
+34040	http://www.westviewelementary.org	Westview C-6  (073-105)	2009.0	15.0
+34041	http://www.marshallschools.com	Marshall  (097-129)	2000.0	1271.0
+34043	http://www.chadwick.k12.mo.us/	Chadwick R-I  (022-088)	2003.0	648.0
+34044	http://northwood.k12.mo.us	North Wood R-IV  (033-094)	2002.0	0.0
+34045	http://www.dfs.dps.mo.gov/dfsbrdscom.htm	Blasting Safety Board, State	2006.0	137.0
+34046	http://www.bolivarmo.com/	Bolivar	1998.0	47.0
+34047	http://www.cityofbn.com/	Bellefontaine Neighbors	2002.0	127.0
+34048	http://www.richwoodswildcats.org/	Richwoods R-VII  (110-030)	2012.0	32.0
+34049	http://www.craigr3school.com/SitePages/	Craig R-III  (044-078)	2013.0	16.0
+34050	http://www.tiptonmo.com/	Tipton	1998.0	31.0
+34051	http://www.jcsca.org/	Jackson County Sports Complex Authority	2006.0	19.0
+34052	http://scottcentral.k12.mo.us/	Scott Co. Central  (100-062)	2001.0	51.0
+34053	http://www.afftonchamber.com/	Affton	2000.0	72.0
+34054	http://osage.k12.mo.us/	School Of The Osage  (066-105)	1998.0	123.0
+34055	http://grandview.org/	Grandview	1996.0	1006.0
+34056	http://www.northmercer.k12.mo.us	North Mercer Co. R-III  (065-096)	2001.0	487.0
+34057	http://www.mymcpl.org/locations/kearney	Mid-Continent Public Library - Kearney	2010.0	37.0
+34058	http://www.ci.liberty.mo.us/	Liberty	1996.0	1155.0
+34060	http://www.salisbury.k12.mo.us	Salisbury R-IV  (021-151)	1998.0	1419.0
+34061	http://www.stcharlescitymo.gov/	St. Charles	2008.0	603.0
+34062	http://www.byrnesmill.org/	Byrnes Mill	2009.0	17.0
+34063	http://www.nppanthers.org	North Platte Co. R-I  (083-001)	2007.0	625.0
+34064	http://www.pr.mo.gov/dietitians.asp	Dietitians, State Committee of	2004.0	6.0
+34065	http://www.hollister.k12.mo.us	Hollister R-V  (106-005)	2002.0	19.0
+34066	http://www.mrhsd.org/	Maplewood-Richmond Heights  (096-107)	2003.0	1846.0
+34067	http://www.knoxcountymo.org/	Knox County	2009.0	9.0
+34068	http://www.dnr.mo.gov/env/wrc/damsft/dam_res_council.htm	Dam and Reservoir Safety Council	2006.0	13.0
+34069	http://www.huntsdalemo.com/	Huntsdale	2004.0	1.0
+34070	http://www.campbellmo.com/	Campbell	2000.0	0.0
+34071	http://www.bcr4.k12.mo.us/	Buchanan Co. R-IV  (011-079)	2000.0	21.0
+34072	https://www.stlouis-mo.gov/	St. Louis	2010.0	0.0
+34073	http://www.mec.mo.gov	Ethics Commission	2008.0	58.0
+34074	http://boards.mo.gov/userpages/Board.aspx?307	Health Facilities Review Committee	2012.0	228.0
+34075	http://sd.hancock.k12.mo.us/	Hancock Place  (096-103)	2010.0	136.0
+34076	http://www.strainjapan.com/	Strain-Japan R-XVI  (036-135)	2001.0	49.0
+34077	http://www.pr.mo.gov/podiatrists.asp	Podiatric Medicine, State Board of	2004.0	6.0
+34078	http://www.warrensburgr6.org/education/district/district.php?sectionid=1	Warrensburg R-VI  (051-159)	2008.0	1.0
+34079	https://www.courts.mo.gov/page.jsp?id=233	State Courts Administrator, Office of	2010.0	4400.0
+34080	http://www.sville.k12.mo.us/	Summersville R-II  (107-153)	2014.0	251.0
+34081	http://boards.mo.gov/userpages/Board.aspx?33	Compensation for Elected Officials, Missouri Citizens' Commission on	2012.0	228.0
+34082	http://www.meadvillemoeagles.org	Meadville R-IV  (058-108)	2011.0	13.0
+34083	http://www.ces.k12.mo.us	Centerville R-I  (090-075)	2013.0	261.0
+34085	http://www.bluespringsschools.net	Blue Springs R-IV  (048-068)	2006.0	793.0
+34086	http://www.savannahmo.net/	Savannah	2002.0	650.0
+34087	http://www.hickorylibrary.org/	Hickory County Library	2007.0	101.0
+34088	http://www.drexelmo.com/	Drexel	2002.0	329.0
+34089	http://fayette.missouri.org/	Fayette	1998.0	8.0
+34090	http://dmh.mo.gov	Mental Health, Missouri Department of	2003.0	591.0
+34091	http://www.stockton.k12.mo.us	Stockton R-I  (020-001)	2006.0	9.0
+34092	http://www.confluenceacademy.com	Confluence Academies  (115-906)	2004.0	1967.0
+34093	http://www.lincolnu.edu	Lincoln University Board of Curators	1998.0	992.0
+34094	http://www.lindberghschools.ws	Lindbergh Schools  (096-093)	2002.0	106.0
+34096	http://www.eldomo.org/	El Dorado Springs	2002.0	25.0
+34097	http://www.carthage.k12.mo.us	Carthage R-IX  (049-142)	2000.0	1276.0
+34098	http://www.wondersofwildlife.org/	American National Fish and Wildlife Museum District, Board of Directors for the	1999.0	24.0
+34100	http://www.ripleycountymissouri.org/	Ripley County	2001.0	358.0
+34101	http://www.pr.mo.gov/interior.asp	Interior Design Council	2004.0	7.0
+34102	http://www.cityofhollister.com/	Hollister	2000.0	75.0
+34103	http://www.pr.mo.gov/hearing.asp	Hearing Instrument Specialists, Board of Examiners for	2004.0	6.0
+34104	http://www.cityofgreenpark.com/	Green Park	2007.0	3.0
+34105	http://www.springfieldmo.gov/home/home.jsp	Springfield	2009.0	2561.0
+34106	http://www.wentzville.k12.mo.us/	Wentzville R-IV  (092-089)	2002.0	1753.0
+34107	http://www.marcelineschools.org	Marceline R-V  (058-109)	2011.0	40.0
+34108	http://orearvilletigers.k12.mo.us/	Orearville R-IV  (097-118)	2008.0	10.0
+34109	http://www.desoto.k12.mo.us	Desoto 73  (050-014)	1998.0	6.0
+34110	http://nodholt.k12.mo.us	Nodaway-Holt R-VII  (074-187)	2012.0	57.0
+34111	http://www.mtvernon.k12.mo.us	Mt. Vernon R-V  (055-108)	2001.0	1190.0
+34112	http://www.dss.mo.gov/pr_youth.htm	Division of Youth Services, Department of Social Services	2006.0	284.0
+34113	http://haleschooldistrict.com	Hale R-I  (017-121)	2011.0	76.0
+34114	http://www.shr2.k12.mo.us	South Harrison Co. R-II  (041-002)	2002.0	932.0
+34115	http://www.kirbyville.k12.mo.us	Kirbyville R-VI  (106-006)	2003.0	840.0
+34116	http://www.maconlibrary.org/	Macon Public Library	2002.0	104.0
+34118	http://www.stegen.k12.mo.us/	Ste. Genevieve Co. R-II  (095-059)	2002.0	243.0
+34121	http://www.auditor.mo.gov/	State Auditor	2003.0	48.0
+34122	http://www.dps.mo.gov	Amber Alert System Oversight Committee	2003.0	1127.0
+34123	http://www.stlrsa.org/index.html	Regional Convention and Sports Complex Authority	2010.0	8.0
+34124	http://www.linnr1.k12.mo.us/	Linn Co. R-I  (058-106)	2001.0	552.0
+34125	http://www.greencity.k12.mo.us/index.html	Green City R-I  (105-123)	2002.0	805.0
+34127	http://www.knobnostergov.com/	Knob Noster	2004.0	2.0
+34128	http://www.clarencemo.com/	Clarence	2002.0	67.0
+34130	http://www.hugedomains.com/domain_profile.cfm?d=birchtreemo&e=com	Birch Tree	0.0	3426.0
+34131	http://www.avillapanthers.org/	Avilla R-XIII  (049-135)	2008.0	295.0
+34132	http://crossroadsacademykc.org/	Crossroads Acad Of Kansas City  (048-926)	2012.0	52.0
+34133	http://www.fhsdschools.org	Francis Howell R-III  (092-088)	2006.0	2329.0
+34134	http://www.villageofsycamorehills.com/	Sycamore Hills	2008.0	6.0
+34135	http://grundycountylibrary.org/	Grundy County-Jewett Norris Library	2004.0	13.0
+34136	http://www.montrosemissouri.com/	Montrose	2010.0	14.0
+34137	http://www.chesterfield.mo.us/	Chesterfield	0.0	1098.0
+34139	http://www.brentwood.k12.mo.us	Brentwood  (096-101)	2000.0	1455.0
+34140	http://dese.mo.gov/se/mssd/	Mo Schls For The Sev Disabled  (201-201)	2012.0	208.0
+34141	http://www.psdr3.org/	Pattonville R-III  (096-090)	2001.0	410.0
+34143	http://hamiltonpublic.lib.mo.us/	Hamilton Public Library	2008.0	0.0
+34145	http://www.dixonr1.com	Dixon R-I  (085-048)	2012.0	1275.0
+34146	http://dese.mo.gov/stateboard/	Education, State Board of	2004.0	1078.0
+34147	http://www.livingstoncountylibrary.org/	Livingston County Library	2003.0	12.0
+34148	http://www.winfield.k12.mo.us	Winfield R-IV  (057-004)	2003.0	743.0
+34149	http://www.randolphcounty-mo.com/	Randolph County	2011.0	140.0
+34150	http://www.publicdefender.mo.gov/	Public Defender Commission	2004.0	43.0
+34151	http://www.capelibrary.org/	Municipal Library District Of The City Of Cape Girardeau	2005.0	78.0
+34152	http://bentonmissouri.com/	Benton	2011.0	422.0
+34154	http://www.essd40.com	Excelsior Springs 40  (024-089)	2010.0	732.0
+34155	http://eldon.k12.mo.us/	Eldon R-I  (066-102)	2001.0	854.0
+34156	http://www.macc.edu	Macon Area Career & Technical Education Center	2002.0	780.0
+34157	http://www.mc-wildcats.org	Montgomery Co. R-II  (070-093)	2002.0	858.0
+34159	http://www.dfs.dps.mo.gov/dfsarqualinsp.htm	Amusement Ride Safety Board	2006.0	137.0
+34160	http://www.lakewaukomis.org/	Lake Waukomis	2001.0	15.0
+34161	http://www.blueeye.k12.mo.us	Blue Eye R-V  (104-045)	1998.0	15.0
+34162	http://www.wrightcity.k12.mo.us/SitePages/Home.aspx	Wright City R-II  (109-002)	2013.0	6.0
+34163	http://www.clever.k12.mo.us	Clever R-V  (022-092)	2001.0	255.0
+34164	http://carnegie.lib.mo.us/	Shelbina Carnegie Public Library	2000.0	247.0
+34165	http://www.jococourthouse.com/	Johnson County	0.0	0.0
+34167	http://www.cityofbernie.com/library.htm	Bernie Public Library	2001.0	52.0
+34168	http://www2.grm.net/about-us/bethany-office/	Bethany	2014.0	2.0
+34169	http://www.deepwatermo.com/	Deepwater	2009.0	1.0
+34170	http://www.sfccmo.edu/pages/1.asp	Warrensburg Area Vocational School	2004.0	1130.0
+34171	http://www.brentwoodmo.org/	Brentwood	2000.0	381.0
+34172	http://www.successr6.org	Success R-VI  (107-151)	2013.0	62.0
+34173	http://www.co.platte.mo.us/	Platte County	1998.0	102.0
+34174	http://www.andrewcounty.org/	Andrew County	2006.0	37.0
+34175	http://www.webbcitymo.org/	Webb City	2008.0	78.0
+34176	http://www.kennett.k12.mo.us	Kennett 39  (035-102)	1998.0	22.0
+34178	http://www.bridgetonmo.com/	Bridgeton	0.0	647.0
+34179	http://www.umsystem.edu/curators/	University of Missouri Board of Curators	2011.0	26.0
+34181	http://www.mchcp.org	Consolidated Health Care Plan, Missouri  (MCHCP)	1998.0	201.0
+34182	http://www.cityofbranson.org/	Branson	2000.0	685.0
+34183	http://heartland.lib.mo.us/	Heartland Regional Library System	2001.0	7.0
+34184	http://nhtigers.k12.mo.us/	Newtown-Harris R-III  (105-125)	2002.0	783.0
+34185	http://www.pettiscomo.com/	Pettis County	2003.0	25.0
+34186	http://www.cityofstpaulmissouri.com/	St. Paul	2010.0	2.0
+34188	http://vil.twin-oaks.mo.us/	Twin Oaks	2002.0	61.0
+34189	http://parma-mo.com/	Parma	2001.0	28.0
+34190	http://olivettemo.com/	Olivette	1998.0	567.0
+34191	http://ltgov.mo.gov/	Lt. Governor	2003.0	236.0
+34192	http://www.labor.mo.gov	Labor and Industrial Relations, Department of	2009.0	461.0
+34194	http://www.dps.mo.gov/dir/programs/ohs/911Advisory.asp	Advisory Committee for 911 Service Oversight	2011.0	31.0
+34195	http://www.nemolibrary.lib.mo.us/	Northeast Missouri Library Service	2009.0	0.0
+34197	http://www.ccld.us/	Climax Springs Branch Library	2005.0	92.0
+34198	http://www.mymcpl.org/locations/antioch	Mid-Continent Public Library - Antioch	2010.0	37.0
+34199	http://www.semo.edu/board/	Southeast Missouri State University Board of Regents	2006.0	24.0
+34200	http://www.at.mo.gov	Assistive Technology Advisory Council,  Missouri	2004.0	32.0
+34201	http://www.sheldon.k12.mo.us	Sheldon R-VIII  (108-144)	2002.0	299.0
+34202	http://www.town-and-country.org/	Town & Country	2000.0	87.0
+34203	http://poplarbluff.org/	Poplar Bluff Public Library	1999.0	53.0
+34205	http://www.mymcpl.org/locations/blue-springs-north	Mid-Continent Public Library - Blue Springs North	2010.0	37.0
+34206	http://www.stcharlesconventioncenter.com/default.asp	St. Charles County Convention & Sports Facilities Authority	2007.0	73.0
+34207	http://www.caboolmo.org/	Cabool	2007.0	54.0
+34208	http://www.mymcpl.org/genealogy	Midwest Genealogy Center	2010.0	1570.0
+34209	http://www.nhr3.net	North Harrison R-III  (041-003)	2009.0	825.0
+34210	http://chilhowee.k12.mo.us	Chilhowee R-IV  (051-153)	2001.0	20.0
+34212	http://dese.mo.gov/se/sicc/index.html	State Interagency Coordinating Council	0.0	15.0
+34214	http://www.centralia.k12.mo.us	Centralia R-VI  (010-091)	2000.0	307.0
+34215	http://www.newhavenschools.org	New Haven  (036-138)	2012.0	93.0
+34217	http://www.liberal.k12.mo.us/	Liberal R-II  (006-101)	2005.0	13.0
+34219	http://www.cityofplattewoods.org/	Platte Woods	0.0	41.0
+34220	http://ashland.k12.mo.us/site/default.aspx?PageID=1	Southern Boone Co. R-I  (010-087)	2013.0	11.0
+34221	http://www.marshfieldbluejays.org	Marshfield R-I  (112-102)	2009.0	494.0
+34223	http://www.arcadiavalley.biz/	Arcadia	2003.0	18.0
+34224	http://northdaviess.webs.com/	North Daviess R-III  (031-118)	2013.0	1.0
+34225	http://clinton.k12.mo.us/site/default.aspx?PageID=1	Clinton  (042-124)	2011.0	27.0
+34227	http://www.pcschools.net	Pierce City R-VI  (055-105)	2012.0	186.0
+34228	http://www.mymcpl.org/locations/platte-city	Mid-Continent Public Library - Platte City	2010.0	37.0
+34229	http://www.cartervillemo.com/	Carterville	2001.0	31.0
+34230	http://ded.mo.gov/home.aspx	Economic Development, Department of	2006.0	450.0
+34233	http://www.poplarbluff-mo.gov/	Poplar Bluff	2007.0	127.0
+34234	http://www.centraliapubliclibrary.com/	Centralia Public Library	2007.0	29.0
+34235	http://www.hocopub.lib.mo.us/	Howard County Public Library	2003.0	21.0
+34236	http://www.boonslickregionallibrary.com/	Sedalia-Petis County Branch	2013.0	304.0
+34237	http://www.zalma.k12.mo.us	Zalma R-V  (009-079)	2010.0	81.0
+34238	http://www.nb.k12.mo.us	New Bloomfield R-III  (014-127)	2011.0	96.0
+34239	http://www.florissantmo.com/	Florissant	1998.0	531.0
+34240	http://www.exeter.k12.mo.us/	Exeter R-VI  (005-122)	2004.0	77.0
+34241	http://www.rhml.lib.mo.us/	Richmond Heights Memorial Library	2002.0	10.0
+34243	http://www.sturgeon-mo.org/	Sturgeon	1999.0	64.0
+34245	http://putnamcl.lib.mo.us/	Putnam County Public Library	2011.0	209.0
+34246	http://www.grainvalley.k12.mo.us	Grain Valley R-V  (048-069)	2002.0	10224.0
+34247	http://mda.mo.gov	Agriculture, Department of	2003.0	631.0
+34248	http://www.hickorycountymo.com/	Hickory County	2003.0	77.0
+34249	http://www.marcelinelibrary.org/	Marceline Carnegie Library	2011.0	20.0
+34250	http://www.rgsd.k12.mo.us	Riverview Gardens  (096-111)	2011.0	251.0
+34251	http://www.saintrobert.com/	St. Robert	1998.0	39.0
+34252	http://farmington-mo.gov/	Farmington	2008.0	103.0
+34253	http://www.jacksonr2schools.com	Jackson R-II  (016-090)	2007.0	301.0
+34255	http://www.brunswick.k12.mo.us	Brunswick R-II  (021-149)	2010.0	14.0
+34256	http://www.slcl.org/	Saint Louis County Library	2001.0	1455.0
+34257	http://www.cityofpleasanthope.com/	Pleasant Hope	2009.0	13.0
+34258	http://www.sullivan.lib.mo.us/	Sullivan Public Library	2004.0	35.0
+34259	http://www.richland.k12.mo.us/	Richland R-I  (103-127)	2001.0	80.0
+34260	http://www.pleasantviewr6.org	Pleasant View R-VI  (040-103)	2011.0	30.0
+34261	http://www.kennettmo.org/	Kennett	2008.0	32.0
+34262	http://www.straffordschools.net	Strafford R-VI  (039-137)	2007.0	574.0
+34263	http://www.mineralarea.edu	Perryville Area Career/Tech. Center	2002.0	195.0
+34264	http://www.hanmo.com/	Hannibal	1996.0	5.0
+34265	http://www.brookfield.lib.mo.us/	Brookfield Public Library	2003.0	13.0
+34266	http://www.gilman.k12.mo.us	Gilman City R-IV  (041-004)	2010.0	23.0
+34267	http://www.hardemanschool.com	Hardeman R-X  (097-122)	2012.0	73.0
+34268	http://www.labor.mo.gov/SBM/	Mediation, State Board of	2010.0	439.0
+34269	http://www.ironc4.k12.mo.us/	Iron Co. C-4  (047-065)	1999.0	76.0
+34270	http://archie.k12.mo.us	Archie R-V  (019-139)	2002.0	558.0
+34271	http://paris.k12.mo.us	Paris R-II  (069-109)	1999.0	4.0
+34272	http://www.wpsd.net	West Platte Co. R-II  (083-002)	2013.0	1727.0
+34273	http://www.casscolibrary.org/	Cass County Public Library	2002.0	394.0
+34274	http://www.lafayettecountymo.com/	Lafayette County	1999.0	59.0
+34275	http://content.oa.mo.gov/information-technology-itsd/	Information Technology Services Division	2013.0	6.0
+34276	http://www.valleyparkmo.org/	Valley Park	2006.0	128.0
+34277	http://www.ofsd.k12.mo.us/default.aspx	Orchard Farm R-V  (092-091)	2011.0	1019.0
+34278	http://www.dss.mo.gov/mhd/oversight/index.htm	MO HealthNet Oversight Committee	2008.0	8.0
+34279	http://alton.k12.mo.us/	Alton R-IV  (075-087)	2003.0	38.0
+34280	http://www.morx.mo.gov	RxPlan Advisory Commission, Missouri	2006.0	6.0
+34281	http://www.fairview.k12.mo.us	Fairview R-XI  (046-140)	2003.0	18.0
+34282	http://www.waynesville.k12.mo.us/site/default.aspx?PageID=1	Waynesville R-VI  (085-046)	2014.0	18.0
+34283	http://www.chillicotheschools.org/	Chillicothe R-II  (059-117)	2003.0	84.0
+34285	http://www.swr5.k12.mo.us/	Southwest R-V  (005-121)	2004.0	12.0
+34286	http://www.slpl.org/index.asp	Marketplace Minibranch	2005.0	336.0
+34287	http://www.bclib.info/	Barton County Library	2013.0	604.0
+34288	http://smithton.k12.mo.us/	Smithton R-VI  (080-119)	2001.0	5.0
+34289	http://www.vp.k12.mo.us/site/default.aspx?PageID=1	Valley Park  (096-113)	2013.0	29.0
+34290	http://oa.mo.gov/bc/	Personnel Advisory Board	2010.0	0.0
+34291	http://www.little-dixie.lib.mo.us/	Atterbury Memorial Branch Library	1999.0	949.0
+34292	http://www.cityofnorthwoods.com/	Northwoods	2004.0	18.0
+34293	http://boards.mo.gov/userpages/Board.aspx?41	Entrepreneurial Development Council	2012.0	228.0
+34294	http://www.pr.mo.gov/pi.asp	Private Investigator Examiners, Board of	2007.0	6.0
+34295	http://ccr3.k12.mo.us	Clinton Co. R-III  (025-003)	2000.0	52.0
+34296	http://gainesville.mo.schoolwebpages.com/education/components/scrapbook/default.php?sectionid=1	Gainesville R-V  (077-102)	2008.0	24.0
+34297	http://laplata.k12.mo.us	La Plata R-II  (061-154)	2000.0	45.0
+34298	http://www.tr10.us	Twin Rivers R-X  (012-110)	2009.0	1133.0
+34299	http://www.moddcouncil.org/	Missouri Planning Council for Developmental Disabilities	2012.0	50.0
+34301	http://www.campbell.k12.mo.us	Campbell R-II  (035-093)	1998.0	86.0
+34302	http://www.cityofshrewsbury.com/	Shrewsbury	1998.0	69.0
+34303	http://mdc.mo.gov/	Conservation, Department of	2003.0	11156.0
+34304	http://www.pr.mo.gov/anesthassist.asp	Anesthesiologist Assistants, Advisory Commission for	2005.0	7.0
+34305	http://www.cityofberkeley.us/	Berkeley	2004.0	314.0
+34306	http://orrick.k12.mo.us/	Orrick R-XI  (089-087)	1997.0	1.0
+34307	http://www.kippstl.org	Kipp St. Louis  (115-914)	2010.0	70.0
+34308	http://greenridge.k12.mo.us	Green Ridge R-VIII  (080-121)	2001.0	110.0
+34309	http://www.well-nap.k12.mo.us/	Wellington-Napoleon R-IX  (054-043)	1998.0	2.0
+34310	http://bearcats.dadeville.k12.mo.us	Dadeville R-II  (029-002)	2013.0	39.0
+34311	http://www.desloge.com/publiclibrary.htm	Desloge Public Library	2008.0	17.0
+34312	http://www.midwestspecialneedstrust.org	Family Trust Board of Trustees	2006.0	13.0
+34313	http://newmadridco.k12.mo.us/applications/web_cms/index.php?pageid=146&menuid=43	New Madrid Co. R-I  (072-074)	0.0	87.0
+34314	http://www.saintmarymo.com/	St. Mary	2003.0	1.0
+34315	http://www.eureka.mo.us/	Eureka	1998.0	235.0
+34316	http://www.putnamcountyr1.net	Putnam Co. R-I  (086-100)	2008.0	1398.0
+34317	http://www.mymcpl.org/locations/lone-jack	Mid-Continent Public Library - Lone Jack	2010.0	37.0
+34318	http://wgtigers.com/	Walnut Grove R-V  (039-136)	2011.0	29.0
+34319	http://www.midwayk12.net	Midway R-I  (019-151)	2010.0	149.0
+34320	http://www.mst.edu/	Missouri University of Science and Technology	2007.0	16.0
+34321	http://content.oa.mo.gov/personnel/	Personnel, Division of	2013.0	953.0
+34322	http://www.kirkwoodschools.org	Kirkwood R-VII  (096-092)	2007.0	71.0
+34323	http://www.hannibal.k12.mo.us/	Hannibal 60  (064-075)	1999.0	81.0
+34324	http://www.malden.k12.mo.us/	Malden R-I  (035-092)	0.0	147.0
+34325	http://www.mymcpl.org/locations/weston	Mid-Continent Public Library - Weston	2010.0	37.0
+34326	http://lawsoncardinals.org	Lawson R-XIV  (089-080)	2008.0	1211.0
+34327	http://www.lathambraves.com	Moniteau Co. R-V  (068-072)	2010.0	1.0
+34328	http://www.joplinschools.org/site/default.aspx?PageID=1	Joplin Schools  (049-148)	2013.0	99.0
+34329	http://www.oaklandmo.org/	Oakland	2001.0	32.0
+34331	http://www.blackwater-mo.com/	Blackwater	2002.0	25.0
+34332	http://www.mceonline.net/	Marion C. Early R-V  (084-005)	2010.0	336.0
+34333	http://www.pacificmissouri.com/	Pacific	2001.0	35.0
+34334	http://www.hannibal.lib.mo.us/	Hannibal Free Public Library	2003.0	148.0
+34335	http://brashear.k12.mo.us/	Adair Co. R-II  (001-092)	1996.0	382.0
+34336	http://www.washington.k12.mo.us	Washington  (036-139)	2001.0	11955.0
+34339	http://www.citygardenschool.org	City Garden Montessori  (115-911)	2008.0	80.0
+34340	http://www.branson.k12.mo.us/	Branson R-IV  (106-004)	1998.0	10.0
+34341	http://www.cabool.k12.mo.us	Cabool R-IV  (107-155)	2000.0	179.0
+34342	http://www.cityoflamar.org/	Lamar	2001.0	169.0
+34343	http://www.northpem.k12.mo.us	North Pemiscot Co. R-I  (078-001)	2000.0	15.0
+34344	http://www.pr.mo.gov/geologists.asp	Geologist Registration, Board of	2004.0	6.0
+34346	http://www.wgpl.org/	City Of Webster Groves Municipal Library	1998.0	29.0
+34347	http://www.mymcpl.org/	Mid-Continent Public Library - Buckner	2010.0	1551.0
+34349	http://www.pathwayacademy.net/	Pathway Academy  (048-921)	2011.0	36.0
+34350	http://content.oa.mo.gov/budget-planning/	Budget and Planning, Division of	2013.0	76.0
+34351	http://www.mvr3.k12.mo.us/	Meramec Valley R-III  (036-126)	2002.0	1163.0
+34352	http://dulanylibrary.org/	Dulany Memorial Library	2012.0	7.0
+34353	http://www.vallesmines.com/	Valles Mines	2001.0	59.0
+34356	http://www.r3.k12.mo.us/	Pemiscot Co. R-III  (078-003)	1998.0	238.0
+34357	http://ci.harrisonville.mo.us/	Harrisonville	2001.0	583.0
+34358	http://www.drexel.k12.mo.us/	Drexel R-IV  (019-150)	2001.0	14.0
+34359	http://www.mo-opc.org	Public Counsel, Office of the	1999.0	0.0
+34360	http://www.knox.k12.mo.us	Knox Co. R-I  (052-096)	2002.0	18.0
+34361	http://www.sikeston.lib.mo.us/	Sikeston Public Library	1998.0	19.0
+34362	http://pr.mo.gov/acupuncturist.asp	Acupuncturist Advisory Committee, Missouri	2004.0	542.0
+34363	http://www.avr2.org	Arcadia Valley R-II  (047-062)	2010.0	33.0
+34364	http://oa.mo.gov/fmdc/	Facilities Management, Design and Construction, Division of	2005.0	1861.0
+34366	http://www.city-data.com/housing/houses-Merriam-Woods-Missouri.html	Merriam Woods	2004.0	2.0
+34367	http://pcssd.k12.mo.us	Pemiscot Co. Special School District  (078-013)	2003.0	18.0
+34368	http://www.mymcpl.org/locations/oak-grove	Mid-Continent Public Library - Oak Grove	2010.0	37.0
+34369	http://www.stlclacademy.org	Carondelet Leadership Academy  (115-915)	2010.0	99.0
+34370	http://www.vf.k12.mo.us	Van-Far R-I  (004-109)	1998.0	8259.0
+34371	http://www.showmecanton.com/	Canton	2005.0	106.0
+34372	http://livelakeozarks.com/	Lake Ozark	2003.0	2.0
+34373	http://www.galenamo.info/	Galena	2011.0	810.0
+34374	http://miami-eagles.k12.mo.us/	Miami R-I  (007-121)	2003.0	14.0
+34375	http://www.courts.mo.gov/	Missouri Judiciary	2004.0	3170.0
+34376	http://www.cjr1.org/	Carl Junction R-I  (049-132)	2009.0	7.0
+34377	http://www.pr.mo.gov/cosbar.asp	Cosmetology and Barber Examiners, Board of	2006.0	7.0
+34378	http://trentonr9.k12.mo.us	Trenton R-IX  (040-107)	2001.0	24.0
+34379	http://greenwoodmo.com/	Greenwood	2001.0	3.0
+34380	http://www.scenicregional.org/	Scenic Regional Library	2004.0	223.0
+34381	http://www.sbrfb.ded.mo.gov	Missouri Small Business Regulatory Fairness Board	0.0	10.0
+34382	http://www.dnr.mo.gov/env/wpp/sdwc/index.html	Safe Drinking Water Commission	2006.0	4.0
+34384	http://www.sikeston.org/	Sikeston	2001.0	123.0
+34385	http://www.webstercountymo.gov/	Webster County	2009.0	40.0
+34386	http://www.cityofwillard.org/	Willard	2002.0	57.0
+34388	http://www.imcc.isa.us/index.html	Interstate Mining Compact Commission	2000.0	78.0
+34389	http://www.lincolnmissouri.com/	Lincoln	2006.0	19.0
+34390	http://www.dallasr1.k12.mo.us	Dallas Co. R-I  (030-093)	1999.0	290.0
+34391	http://www.marshallpublib.org/	Marshall Public Library	2007.0	13.0
+34392	http://www.mrrl.org/	Missouri River Regional Library	2000.0	1379.0
+34394	http://www.henrycolib.org/	Henry County Library	2011.0	10.0
+34395	http://www.webster.k12.mo.us/	Webster Groves  (096-114)	1997.0	23.0
+34396	http://www.charlestonmo.net/	Charleston	2001.0	3.0
+34397	http://www.ecs.org	Educational Commission of the States	1996.0	9765.0
+34398	http://www.billings.k12.mo.us	Billings R-IV  (022-091)	2001.0	256.0
+34399	http://www.ebs.k12.mo.us	East Buchanan Co. C-1  (011-076)	2002.0	38.0
+34400	http://www.mymcpl.org/locations/red-bridge	Mid-Continent Public Library - Red Bridge	2010.0	37.0
+34401	http://www.hbtcc.ded.mo.gov	Hispanic Business, Trade and Culture Commission	2007.0	15.0
+34402	http://shelbinacarnegie.lib.mo.us/	Carnegie Public Library	2008.0	28.0
+34403	http://altavistacharterschool.org/	Alta Vista Charter School  (048-902)	2012.0	1.0
+34404	http://www.republicmo.com/	Republic	1998.0	1074.0
+34405	http://stc.mo.gov/	State Tax Commission	2005.0	91.0
+34406	http://www.odessa.k12.mo.us/	Odessa R-VII  (054-041)	2001.0	877.0
+34407	http://www.newhavenmo.org/	New Haven	2007.0	13.0
+34408	http://www.gsastl.org	Gateway Science Acad/St. Louis  (115-916)	2010.0	2.0
+34409	http://thayer.k12.mo.us/	Thayer R-II  (075-085)	1998.0	59.0
+34410	http://www.mymcpl.org/about-us/administrative-headquarters	Mid-Continent Public Library - Administration	2010.0	52.0
+34412	http://www.moberlymo.org/	Moberly	2003.0	111.0
+34413	http://www.maryville.org/	Maryville	2001.0	1241.0
+34414	http://www.mshp.dps.missouri.gov/MSHPWeb/Root/index.html	Highway Patrol, Missouri State	2004.0	18.0
+34415	http://ashgrove.k12.mo.us/	Ash Grove R-IV  (039-135)	2002.0	64.0
+34416	http://www.wood.army.mil/newweb/	Fort Leonard Wood	2012.0	65.0
+34417	http://www.southcityprep.org	South City Preparatory Academy  (115-920)	2011.0	42.0
+34418	http://www.molagers.org	Missouri Local Government Employees Retirement System Board of Trustees	2000.0	63.0
+34419	http://www.gasconadec4.k12.mo.us/	Gasconade C-4  (053-112)	2003.0	438.0
+34420	http://www.mcreek.k12.mo.us/	Macks Creek R-V  (015-004)	0.0	504.0
+34421	http://www.gentrycountylibrary.org/	Gentry County Library	2002.0	27.0
+34423	http://wellsvillelibrary.lib.mo.us/	Wellsville Public Library	2008.0	52.0
+34424	http://www.lamar.k12.mo.us/	Lamar R-I  (006-104)	2001.0	7.0
+34425	http://www.vernoncountymo.org/	Vernon County	2001.0	43.0
+34426	http://www.ucmo.edu/about/bog/	University of Central Missouri Board of Governors	2007.0	5.0
+34427	http://www.mymcpl.org/locations/boardwalk	Mid-Continent Public Library - Boardwalk	2010.0	37.0
+34428	http://www.mountaingrove.net/	Mountain Grove	2002.0	13.0
+34429	http://cityofmarblehill.com/	Marble Hill	2012.0	86.0
+34430	http://www.semo.edu	Perryville County Higher Ed. Center	1997.0	2715.0
+34431	http://wp.missouristate.edu/	Missouri State University-West Plains	2005.0	2358.0
+34433	http://www.fremonthillscity.com/	Fremont Hills	2009.0	17.0
+34434	http://lewis.k12.mo.us/	Lewis Co. C-1  (056-017)	2000.0	1181.0
+34435	http://www.stlcc.edu/fp/	St. Louis Community College-Forest Park	2002.0	17.0
+34436	http://www.couch.k12.mo.us	Couch R-I  (075-084)	2003.0	4658.0
+34437	http://www.stlcc.edu/fv/	St. Louis Community College-Florissant Valley	2002.0	23.0
+34438	http://www.gordonparks.org	Gordon Parks Elem.  (048-913)	2002.0	61.0
+34439	http://colecamp.schoolwires.net/site/default.aspx?PageID=1	Cole Camp R-I  (008-111)	2012.0	32.0
+34440	http://dor.mo.gov/	Revenue, Missouri Department of	2003.0	925.0
+34442	http://www.eastlynne40school.org	East Lynne 40  (019-147)	2010.0	575.0
+34443	http://parkvillemo.gov/	Parkville	2012.0	145.0
+34444	http://www.dfs.dps.mo.gov	Elevator Safety Board	2004.0	135.0
+34445	http://boards.mo.gov/userpages/Board.aspx?57	Missouri Horse Racing Commission	2012.0	228.0
+34447	http://www.beltonschools.org/site/default.aspx?PageID=1	Belton 124  (019-152)	2013.0	6.0
+34448	http://www.nkc.org/	North Kansas City	1998.0	665.0
+34450	http://www.lakeland.k12.mo.us	Lakeland R-III  (093-123)	2007.0	1683.0
+34451	http://www.csprings.k12.mo.us/	Climax Springs R-IV  (015-003)	2002.0	221.0
+34452	http://www.warrensburg-mo.com/	Warrensburg	2000.0	145.0
+34453	http://labor.mo.gov/DES/unemployment_council.asp	Unemployment Council, Missouri State	2010.0	436.0
+34456	http://www.worthcounty.us/	Worth County	2009.0	28.0
+34457	http://www.kingston.k12.mo.us/applications/web_cms/index.php?siteid=2	Kingston K-14  (110-014)	0.0	103.0
+34458	http://www.iberia.k12.mo.us/education/district/district.php?sectionid=1	Iberia R-V  (066-107)	2011.0	2.0
+34459	http://www.jasper.k12.mo.us/	Jasper Co. R-V  (049-137)	2001.0	49.0
+34460	http://blackwater.k12.mo.us	Blackwater R-II  (027-055)	2001.0	11.0
+34461	http://www.adrian.k12.mo.us	Adrian R-III  (007-123)	1998.0	17.0
+34462	http://newburgmo.org/	Newburg	2009.0	1.0
+34463	http://www.colecampmo.com/	Cole Camp	2002.0	27.0
+34464	http://www.holdenmo.org/	Holden	2002.0	25.0
+34465	http://www.laquey.k12.mo.us	Laquey R-V  (085-045)	2004.0	48.0
+34466	http://www.pr.mo.gov/accountancy.asp	Accountancy, Missouri State Board of	2004.0	7.0
+34467	http://www.lamonte.k12.mo.us	La Monte R-IV  (080-118)	2001.0	24.0
+34468	http://www.nfranklin.k12.mo.us/	New Franklin R-I  (045-076)	2002.0	23.0
+34469	http://norborneschools.com	Norborne R-VIII  (017-126)	2012.0	50.0
+34470	http://www.bgmopl.org/	Bowling Green Public Library	2008.0	16.0
+34472	https://sites.google.com/a/liberty.mvbt.k12.mo.us/district/	Mountain View-Birch Tree R-III  (046-130)	2013.0	25.0
+34473	http://www.maryville.k12.mo.us/	Maryville R-II  (074-201)	2001.0	45.0
+34474	http://www.monroe.k12.mo.us/	Monroe City R-I  (069-106)	2000.0	250.0
+34475	http://www.houston.k12.mo.us	Houston R-I  (107-152)	1998.0	2847.0
+34476	http://urxi-mo.schoolloop.com/	Union R-XI  (036-131)	2013.0	11207.0
+34477	http://www.mymcpl.org/locations/excelsior-springs	Mid-Continent Public Library - Excelsior Springs	2010.0	37.0
+34478	http://www.plainviewschool.org	Plainview R-VIII  (034-122)	2011.0	10.0
+34479	http://www.desloge.com/	Desloge	1998.0	17.0
+34480	http://kippendeavor.org/	Kipp: Endeavor Academy  (048-918)	2007.0	76.0
+34481	http://www.newmelle.org/	New Melle	2005.0	14.0
+34482	http://www.augusta-missouri.com/	Augusta	1999.0	15.0
+34483	http://www.ballwin.mo.us/	Ballwin	1996.0	2047.0
+34484	https://sites.google.com/a/eldo.k12.mo.us/www/	El Dorado Springs R-II  (020-002)	0.0	7.0
+34485	http://www.mcl.lib.mo.us/	Mercer County Library	2002.0	6.0
+34488	http://www.mostateparks.com/	Missouri State Park Board	1999.0	596.0
+34490	http://www.mohumanities.org	Missouri Humanities Council	1999.0	426.0
+34491	http://www.rville.k12.mo.us/	Raymondville R-VII  (107-158)	1998.0	291.0
+34492	http://www.pr.mo.gov/psychologists.asp	Psychologists, State Committee of	2004.0	6.0
+34493	http://midbuchanan.k12.mo.us/	Mid-Buchanan Co. R-V  (011-078)	2001.0	0.0
+34494	http://www.visittablerocklake.org/index.php	Table Rock (Branson)	2009.0	921.0
+34495	http://www.pr.mo.gov/optometrists.asp	Optometry, State Board of	2004.0	6.0
+34496	http://www.linncreekmo.com/	Linn Creek	2008.0	4.0
+34497	http://www.shellknob.com/	Shell Knob	1997.0	36.0
+34498	http://www.humer8.k12.mo.us	Hume R-VIII  (007-125)	2011.0	93.0
+34499	http://boards.mo.gov/userpages/Board.aspx?118	Special Health, Psychological and Social Needs of Minority Older Individuals Commission	2012.0	228.0
+34501	http://sjpl.lib.mo.us/	St. Joseph Public Library	0.0	204.0
+34503	http://www.pasadenahills.com/	Pasadena Hills	2001.0	17.0
+34504	http://www.colecounty.org/	Cole County	2001.0	27.0
+34505	http://www.co.taney.mo.us/	Taney County	2001.0	207.0
+34506	http://www.fox.k12.mo.us	Fox C-6  (050-012)	1998.0	3131.0
+34507	http://www.troy.k12.mo.us/site/default.aspx?PageID=1	Troy R-III  (057-003)	2012.0	6.0
+34508	http://www.neosholibrary.org/	Neosho Newton County Library	2001.0	55.0
+34509	http://www.sfcgov.org/	St. Francois	2004.0	38.0
+34510	http://www.lacledecountyr1.com	Laclede Co. R-I  (053-111)	2010.0	28.0
+34511	http://seymourschool.net/	Seymour R-II  (112-103)	2008.0	62.0
+34512	http://www.cr6.net/	Community R-VI  (004-106)	2001.0	1512.0
+34513	http://www.richhillmo.com/	Rich Hill	2001.0	185.0
+34514	http://www.mocity.k12.mo.us	Missouri City 56  (024-091)	2003.0	304.0
+34515	http://redwingsk12.org	Eminence R-I  (101-107)	2009.0	1083.0
+34516	http://www.mymcpl.org/locations/blue-ridge	Mid-Continent Public Library - Blue Ridge	2010.0	37.0
+34517	http://www.poplarbluffschools.net	Poplar Bluff R-I  (012-109)	2010.0	3551.0
+34518	http://www.greenfield.k12.mo.us	Greenfield R-IV  (029-004)	2002.0	0.0
+34519	http://www.universityacademy.org	University Academy  (048-901)	2007.0	315.0
+34520	http://www.potosir3.org	Potosi R-III  (110-029)	2010.0	72.0
+34521	http://www.new-madrid.mo.us/	New Madrid County	1998.0	518.0
+34522	http://www.fayette.k12.mo.us/education/district/district.php?sectionid=1	Fayette R-III  (045-077)	2010.0	2.0
+34523	http://www.lonejackc6.net/	Lone Jack C-6  (048-075)	2003.0	1120.0
+34524	http://www.cityofodessamo.com/	Odessa	2001.0	284.0
+34525	http://www.mocerf.org/	County Employees Retirement Fund Board of Directors	2001.0	67.0
+34526	http://www.youranswerplace.org/	Saint Charles City-County Library District	2007.0	942.0
+34527	http://www.mymcpl.org/locations/raytown	Mid-Continent Public Library - Raytown	2010.0	37.0
+34528	http://www.marthasvillemo.net/	Marthasville	2010.0	6.0
+34529	http://tcrc.mo.gov/	Tax Credit Review Commission	2010.0	36.0
+34530	https://www.mosers.org/en.aspx	Missouri State Employees' Retirement System Board of Trustees	0.0	1462.0
+34531	http://thelibrary.org/	Springfield-Greene County Library District	2007.0	644.0
+34532	https://www.lakelotawana.org/	Lake Lotawana	2008.0	29.0
+34534	http://www.dnr.mo.gov/env/apcp/smbus.htm#committee	Small Business Compliance Advisory Committee	2014.0	60.0
+34535	http://www.stpetersmo.net/	St. Peters	2002.0	1230.0
+34536	http://www.montgomerycitymo.org/	Montgomery City	2009.0	96.0
+34537	http://www.miprc.org	Midwest Interstate Passenger Rail Commission (MIPRC)	2004.0	74.0
+34539	http://www.cityoffrontenac.org/	Frontenac	2004.0	84.0
+34540	http://www.ofallon.mo.us/	O'Fallon	1996.0	620.0
+34542	http://www.dnr.mo.gov/env/apcp/macc.htm	Air Conservation Commission	2006.0	60.0
+34543	http://www.stlelections.com	St. Louis City Board of Election Commissioners	2004.0	80.0
+34544	http://www.dbrl.org/	Southern Boone County Public Library	2001.0	2334.0
+34545	http://www.rockhillmo.net/	Rock Hill	2002.0	82.0
+34546	http://www.fz.k12.mo.us	Ft. Zumwalt R-II  (092-087)	2003.0	183.0
+34547	http://www.msd.k12.mo.us	Mo School For The Deaf  (014-400)	1996.0	51.0
+34548	http://www.jamesonmo.org/	Jameson	0.0	55.0
+34549	http://www.millerschools.org	Miller R-II  (055-104)	2007.0	741.0
+34550	http://afftonschools.net/	Affton 101  (096-098)	2014.0	297.0
+34552	http://psc.mo.gov/	Public Service Commission	2003.0	369.0
+34553	http://www.eastcentral.edu	Four Rivers Career Center	2002.0	1221.0
+34555	http://boards.mo.gov/UserPages/Board.aspx?182	Credit Union Commission	2012.0	228.0
+34556	http://www.lincoln.k12.mo.us/	Lincoln R-II  (008-106)	2003.0	6.0
+34557	http://www.fulton58.org/	Fulton 58  (014-129)	2012.0	2005.0
+34558	http://www.dnr.mo.gov/shpo/moachp.htm	Historic Preservation, Missouri Advisory Council on	2004.0	196.0
+34559	http://www.lacledecountymissouri.org/	Laclede County	2001.0	3.0
+34560	http://www.trimblemo.org/	Trimble	2003.0	11.0
+34561	http://www.ci.union.mo.us/	Union	2001.0	381.0
+34562	http://www.camdentoncity.com/	Camdenton	2000.0	75.0
+34563	http://www.joplinpubliclibrary.org/	Joplin Public Library	2001.0	83.0
+34564	http://fairgrove.org/	Fair Grove	2008.0	11.0
+34565	http://www.santafechiefs.k12.mo.us/	Santa Fe R-X  (054-042)	2003.0	620.0
+34567	http://www.maryvillepubliclibrary.lib.mo.us/	Maryville Public Library	2006.0	22.0
+34568	http://www.dnr.missouri.gov/env/hwp/commission/commis.htm	Hazardous Waste Management Commission	2006.0	3.0
+34569	http://www.renick.k12.mo.us	Renick R-V  (088-073)	2000.0	4.0
+34570	http://www.dnr.mo.gov/env/lrp/commission/lrc.htm	Land Reclamation Commission	2006.0	3.0
+34571	http://www.greenecountymo.org/	Greene County	2000.0	318.0
+34572	http://www.lebanon.k12.mo.us/	Lebanon R-III  (053-113)	2001.0	96.0
+34573	http://www.brookfield.k12.mo.us/	Brookfield R-III  (058-112)	1996.0	449.0
+34574	http://www.montroser14.com/	Montrose R-XIV  (042-121)	2012.0	288.0
+34575	http://www.afiakc.org	Academy For Integrated Arts  (048-927)	2011.0	31.0
+34576	http://www.academielafayette.org	Academie Lafayette  (048-914)	2008.0	123.0
+34577	http://www.preclarus.org	Preclarus Mastery Academy  (115-919)	2009.0	85.0
+34578	http://concordia.k12.mo.us/	Concordia R-II  (054-037)	2000.0	1.0
+34579	http://www.pr.mo.gov/appraisers.asp	Real Estate Appraisers' Commission, Missouri	2004.0	6.0
+34580	http://www.advance.k12.mo.us	Advance R-IV  (103-129)	2001.0	337.0
+34582	http://www.treasurer.mo.gov/content/low-interest-loans	Linked Deposits Review Committee	2012.0	99.0
+34583	http://www.southnodaway.k12.mo.us	South Nodaway Co. R-IV  (074-202)	2008.0	700.0
+34584	http://www.mymcpl.org/locations/dearborn	Mid-Continent Public Library - Dearborn	2010.0	37.0
+34585	http://henrycomo.com/	Henry County	2007.0	40.0
+34586	http://content.oa.mo.gov/purchasing-materials-management/	Purchasing and Materials Management, Division of	2013.0	22.0
+34587	http://www.cityofstjohn.org/	St. John	1998.0	41.0
+34588	http://stjschools.org	St. James R-I  (081-094)	2006.0	166.0
+34589	http://www.nellholcomb.k12.mo.us/	Nell Holcomb R-IV  (016-097)	2001.0	589.0
+34590	http://www.deltac7.k12.mo.us	Delta C-7  (078-009)	2003.0	18.0
+34591	http://boards.mo.gov/userpages/Board.aspx?70	Missouri Juvenile Justice Advisory Group	2012.0	228.0
+34592	http://www.jeffersoncountylibrary.org/	Jefferson County Library District	2003.0	1064.0
+34593	http://www.kauffmanschool.org	Ewing Marion Kauffman School  (048-924)	2013.0	87.0
+34594	http://www.galena.k12.mo.us	Galena R-II  (104-042)	2001.0	203.0
+34595	http://www.blairoaks.k12.mo.us	Blair Oaks R-II  (026-002)	2000.0	9012.0
+34597	http://southwestr1.org	Southwest Livingston Co. R-I  (059-113)	2002.0	28.0
+34598	http://www.jebc5.k12.mo.us/	Laclede Co. C-5  (053-114)	1998.0	167.0
+34599	http://www.duenwegmo.com/	Duenweg	2001.0	27.0
+34600	http://www.dardenneprairie.org/	Dardenne Prairie	2003.0	2.0
+34601	http://www.VisitMO.com	Tourism, Missouri Division of	2001.0	75.0
+34602	http://www.ellington.k12.mo.us	Southern Reynolds Co. R-II  (090-076)	2004.0	17.0
+34603	http://www.batescounty.net/	Bates County	2001.0	30.0
+34604	http://www.clarkcounty.k12.mo.us/	Clark Co. R-I  (023-101)	2009.0	247.0
+34605	http://www.grandcenterartsacademy.org	Grand Center Arts Academy  (115-918)	2010.0	1516.0
+34607	http://www.stlcharterschool.org	St. Louis Charter School  (115-903)	2009.0	31.0
+34608	http://www.osceola.k12.mo.us	Osceola  (093-124)	1998.0	70.0
+34609	http://www.mohefa.org/	Health and Educational Facilities Authority of the State of Missouri	1999.0	15.0
+34610	http://www.macon.k12.mo.us/	Macon Co. R-I  (061-156)	2000.0	792.0
+34611	http://www.dhe.mo.gov/	Higher Education, Department of	2003.0	402.0
+34612	http://atlanta.k12.mo.us/	Atlanta C-3  (061-150)	1998.0	8.0
+34613	http://crs.k12.mo.us:80/login	Johnson Co. R-VII  (051-154)	0.0	1.0
+34614	http://www.pr.mo.gov/physicianassistants.asp	Physician Assistants, Advisory Commission for	2004.0	8.0
+34615	http://www.willowspringsmo.com/	Willow Springs	2002.0	16.0
+34616	http://www.cityofladue-mo.gov/	Ladue	2004.0	136.0
+34617	http://www.woodland.k12.mo.us	Woodland R-IV  (009-080)	2002.0	151.0
+34618	https://sites.google.com/a/sherwoodk12.net/sherwood/home	Sherwood Cass R-VIII  (019-144)	2010.0	167.0
+34619	http://www.sema.dps.mo.gov/EQSSComm.htm	Seismic Safety Commission	2005.0	230.0
+34620	http://www.risco.k12.mo.us/	Risco R-II  (072-066)	1998.0	209.0
+34621	http://www.caldwellcountymissouri.com/	Caldwell County	2004.0	41.0
+34623	http://www.mymcpl.org/locations/north-oak	Mid-Continent Public Library - North Oak	2010.0	37.0
+34624	http://steelville.com/	Steelville	2001.0	33.0
+34625	http://cooter.k12.mo.us	Cooter R-IV  (078-004)	1998.0	13.0
+34626	http://www.conservation.mo.gov/	Conservation Commission	2003.0	9949.0
+34627	http://forsythmissouri.org/	Forsyth	2004.0	149.0
+34628	http://www.gilmancitymo.com/	Gilman City	2008.0	2.0
+34629	http://www.bps14.org	Bloomfield R-XIV  (103-131)	2011.0	20.0
+34630	http://www.movolunteers.org	Community Service Commission, Missouri  (MCSC)	1999.0	24.0
+34631	http://www.desperesmo.org/	Des Peres	1998.0	1094.0
+34632	http://www.warrenton-mo.org/	Warrenton	1998.0	30.0
+34633	http://www.ferguson.lib.mo.us/	Ferguson Municipal Public Library District	2002.0	9.0
+34635	http://nc.k12.mo.us	North Callaway Co. R-I  (014-126)	2007.0	12.0
+34636	http://milan.k12.mo.us	Milan C-2  (105-124)	2005.0	444.0
+34637	http://senate.mo.gov/	Senate	0.0	1552.0
+34638	http://www.weaubleau.k12.mo.us	Weaubleau R-III  (043-003)	2001.0	43.0
+34639	http://www.stegenevievemissouri.com/	Ste. Genevieve	2000.0	36.0
+34640	http://www.ucpl.lib.mo.us/	University City Public Library	1997.0	105.0
+34641	http://liftforlife.org	Lift For Life Academy  (115-902)	1999.0	16.0
+34643	http://lebanon-laclede.lib.mo.us/	Lebanon-Laclede County Library	2003.0	34.0
+34644	http://www.stalbans.com/	St. Albans	1996.0	1.0
+34645	http://www.cubamo.com/	Cuba	1999.0	28.0
+34646	http://www.norwood.k12.mo.us/	Norwood R-I  (114-112)	2001.0	48.0
+34647	http://www.lomalinda-mo.us/	Loma Linda	2008.0	62.0
+34648	http://www.eastprairie.org	East Prairie R-II  (067-055)	2002.0	23.0
+34649	http://rallsr2.k12.mo.us/	Ralls Co. R-II  (087-083)	2006.0	1.0
+34650	http://www.crystalcitymo.org/	Crystal City	2007.0	4.0
+34651	http://www.raytownschools.org/Pages/Home.aspx	Raytown C-2  (048-073)	2009.0	289.0
+34652	http://www.sparta.k12.mo.us	Sparta R-III  (022-090)	1999.0	173.0
+34653	http://www.palmyra.k12.mo.us/	Palmyra R-I  (064-074)	2007.0	479.0
+34654	http://www.leopold.k12.mo.us/	Leopold R-III  (009-078)	2013.0	211.0
+34655	http://www.hamilton.k12.mo.us	Hamilton R-II  (013-055)	2006.0	15.0
+34656	http://mansfieldschool.net	Mansfield R-IV  (114-115)	2000.0	82.0
+34657	http://www.jeffco.edu	Off-site (Arnold)	1998.0	985.0
+34658	http://www.marylandheights.com/	Maryland Heights	1996.0	909.0
+34659	http://www.buffalococ.com/	Buffalo	2000.0	150.0
+34660	http://bucklin.k12.mo.us	Bucklin R-II  (058-107)	2000.0	11.0
+34661	http://www.linnstate.edu	Capital Region Medical Center	1998.0	281.0
+34662	http://www.plattsburgmo.com/City/	Plattsburg	2010.0	37.0
+34663	http://www.claycoelections.com	Clay County Board of Election Commissioners	2003.0	70.0
+34664	http://cityofflinthill.com/	Flint Hill	2007.0	26.0
+34665	http://www.rockhill.lib.mo.us/	Rock Hill Public Library	2001.0	116.0
+34666	http://www.waynesvillemo.org/	Waynesville	2002.0	31.0
+34667	http://www.moperm.com/	Public Entity Risk Management, Missouri	2001.0	45.0
+34668	http://dallascountylibrary.missouri.org/	Dallas County Library	2008.0	578.0
+34669	http://www.hillsboromo.org/	Hillsboro	1998.0	17.0
+34670	http://www.fatimacomets.org	Osage Co. R-III  (076-083)	2011.0	119.0
+34672	http://ashlandmo.us/	Ashland	2008.0	24.0
+34673	http://www.cedarcountylibrary.org/	John D. Smith Public Branch Library	2001.0	18.0
+34674	http://www.ritenour.k12.mo.us/	Ritenour  (096-110)	2000.0	22.0
+34675	http://www.fentonmo.org/	Fenton	2001.0	254.0
+34676	http://www.rpmo.com/	Rock Port	1998.0	45.0
+34677	http://www.kpl.lib.mo.us/	Kirkwood Public Library	1998.0	192.0
+34678	http://www.ssdmo.org/	Specl. School District St. Louis Co.  (096-119)	2001.0	176.0
+34679	http://msb.dese.mo.gov/	Mo School For The Blind  (115-414)	2010.0	70.0
+34680	http://www.womenscouncil.org/	Missouri Women's Council	2000.0	40.0
+34681	http://www.kcfsi.org	Frontier School Of Innovation  (048-922)	2009.0	10.0
+34682	http://www.cityofblackjack.com/	Black Jack	1999.0	217.0
+34685	http://carthage.lib.mo.us/	Carthage Public Library	2000.0	7.0
+34686	http://www.diamondwildcats.org	Diamond R-IV  (073-102)	2003.0	149.0
+34687	http://www.mohomecare.org/	Missouri Quality Home Care Council	2002.0	45.0
+34688	http://www.scottcountymo.com/	Scott County	2003.0	59.0
+34689	http://www.carrolltonlibrary.com/	Carrollton Public Library	2003.0	21.0
+34690	http://bonneterre.net/	Bonne Terre	1998.0	72.0
+34691	https://www.psrs-peers.org/	Public School Retirement System of Missouri, Board of Trustees	2006.0	338.0
+34692	http://www.glasgowmo.com/	Glasgow	2004.0	46.0
+34694	http://www.cityofbransonwest.com/	Branson West	2001.0	70.0
+34695	http://www.pleasanthillschools.com	Pleasant Hill R-III  (019-148)	2002.0	32.0
+34696	http://tigertown.k12.mo.us	Princeton R-V  (065-098)	2001.0	1.0
+34697	http://www.courts.mo.gov/page.jsp?id=27	Supreme Court	2011.0	4331.0
+34698	http://www.ner4schools.org/education/school/school.php?sectionid=3	Northeast Randolph Co. R-IV  (088-072)	2011.0	0.0
+34699	http://www.rhcl.org/	Rolling Hills Consolidated	2009.0	46.0
+34700	https://www.kceb.org/	Kansas City Board of Election Commissioners	1999.0	84.0
+34701	http://westonmo.com/	Weston	1999.0	367.0
+34702	http://adrianmochamber.com/	Adrian	2004.0	18.0
+34703	http://ctf4kids.org/	Children's Trust Fund Board	1999.0	315.0
+34704	http://www.oca.mo.gov/	Child Advocate, Office of	2005.0	9.0
+34705	http://www.hickmanmills.org/site/default.aspx?PageID=1	Hickman Mills C-1  (048-072)	2011.0	9.0
+34706	http://www.defiancemissouri.com/	Defiance	2007.0	33.0
+34707	http://washington.mogenweb.org/wclib.html	Washington County Library	2009.0	2.0
+34708	http://www.pr.mo.gov/physicaltherapists.asp	Physical Therapists, Advisory Commission for	2004.0	7.0
+34709	http://cassville.k12.mo.us	Cassville R-IV  (005-123)	2003.0	413.0
+34710	http://content.oa.mo.gov/accounting/	Accounting, Division of	2013.0	49.0
+34711	http://www.csd4.k12.mo.us	Grandview C-4  (048-074)	1999.0	638.0
+34712	http://sr2.k12.mo.us	Stanberry R-II  (038-045)	2002.0	7.0
+34714	http://www.richmond.k12.mo.us/	Richmond R-XVI  (089-089)	1999.0	151.0
+34715	http://sturgeon.k12.mo.us	Sturgeon R-V  (010-090)	2000.0	44.0
+34716	http://www.jenningsk12.org	Jennings  (096-104)	2011.0	606.0
+34717	http://wpr7.schoolwires.net/site/default.aspx?PageID=1	West Plains R-VII  (046-134)	2011.0	7.0
+34718	http://www.trcc.edu	Stoddard County Career Learning Center	2002.0	38.0
+34719	http://hamiltonmo.net/	Hamilton	2010.0	0.0
+34720	http://www.eastprairiemo.net/	East Prairie	1999.0	29.0
+34722	http://deltarv.k12.mo.us	Delta R-V  (016-092)	2014.0	0.0
+34723	http://www.smithvilleschooldistrict.net	Smithville R-II  (024-087)	2010.0	5.0
+34724	http://www.bolivarschools.org	Bolivar R-I  (084-001)	2008.0	258.0
+34725	http://www.mo-ich.org/	Governor's Committee to End Homelessness	2011.0	36.0
+34726	http://www.lakesaintlouis.com/	Lake St. Louis	1997.0	1428.0
+34727	http://www.dnr.mo.gov/index.html	Natural Resources, Missouri Department of	2003.0	979.0
+34728	http://www.mexicomissouri.net/	Mexico	2002.0	232.0
+34729	http://www.mhdc.com/	Missouri Housing Development Commission	1998.0	51.0
+34731	http://www.showmepalmyra.com/	Palmyra	2007.0	21.0
+34732	http://www.phelpscounty.org/	Phelps County	2002.0	31.0
+34733	http://richardsschool.k12.mo.us/	Richards R-V  (046-132)	1999.0	19.0
+34734	http://www.cityofbellavilla-mo.org/	Bella Villa	2009.0	9.0
+34736	http://www.ucityschools.org	University City  (096-112)	2002.0	1157.0
+34737	http://www.nixapublicschools.net	Nixa R-II  (022-089)	2009.0	58.0
+34738	http://www.ozarkcounty.net/	Ozark County	2001.0	2.0
+34739	http://www.pr.mo.gov/healingarts.asp	Registration for the Healing Arts, State Board of	2004.0	6.0
+34740	http://www.vanburen.k12.mo.us	Van Buren R-I  (018-050)	2000.0	45.0
+34741	http://www.pleasanthill.com/	Pleasant Hill	1997.0	286.0
+34742	http://holcombschools.com/	Holcomb R-III  (035-094)	2009.0	231.0
+34745	http://www.missouristate.edu/	Lebanon Technolgy & Career Center	2005.0	1355.0
+34746	http://www.lsr7.org/	Lee's Summit R-VII  (048-071)	2012.0	324.0
+34747	http://www.mostatefair.com/	State Fair Commission	1998.0	130.0
+34748	http://www.stlcc.edu	St. Louis Community College	2002.0	2926.0
+34749	http://content.oa.mo.gov/general-services/	General Services, Division of	2013.0	56.0
+34751	http://www.dss.mo.gov/cd/can.htm	Child Abuse and Neglect Review Board A	2004.0	6.0
+34752	http://www.wentzvillemo.org/	Wentzville	1998.0	1225.0
+34753	http://www.hermannmo.com/	Hermann	1998.0	14.0
+34754	https://www.boonville.k12.mo.us/Pages/default.aspx	Boonville R-I  (027-061)	2008.0	314.0
+34755	http://www.leesville.k12.mo.us/	Leesville R-IX  (042-118)	2011.0	9.0
+34756	http://fpsk12.org	Fredericktown R-I  (062-072)	2010.0	133.0
+34758	http://www.eagleville.com/	Eagleville	1999.0	40.0
+34759	http://www.wnrockets.com/	West Nodaway Co. R-I  (074-190)	2005.0	11954.0
+34760	http://www.schuyler.k12.mo.us	Schuyler Co. R-I  (098-080)	2002.0	233.0
+34761	http://www.dss.mo.gov/mhd/index.htm	Professional Services Payment Committee	2007.0	155.0
+34762	http://www.kellerpl.org/	Keller Public Library Of Dexter	2007.0	19.0
+34763	http://oran.k12.mo.us	Oran R-III  (100-065)	1999.0	37.0
+34764	http://www.pr.mo.gov/nursing.asp	Missouri State Board of Nursing	2004.0	6.0
+34765	http://www.creve-coeur.org/	Creve Coeur	2001.0	553.0
+34766	http://www.fordland.k12.mo.us	Fordland R-III  (112-101)	2002.0	12.0
+34767	http://www.californiak12.org/home.aspx	Moniteau Co. R-I  (068-070)	0.0	83.0
+34768	http://www.osbornwildcats.org/	Osborn R-O  (032-054)	2011.0	321.0
+34769	http://mvpl.lib.mo.us/	Mountain View Public Library	2003.0	1.0
+34770	http://straffordmo.net/	Strafford	2013.0	54.0
+34771	http://www.pr.mo.gov/apelsla.asp	Architects, Professional Engineers, Professional Land Surveyors, and Landscape Architects, Missouri Board for	2004.0	8.0
+34772	http://www.mymcpl.org/locations/grain-valley	Mid-Continent Public Library - Grain Valley	2010.0	37.0
+34774	http://audraincounty.org/	Audrain County	2005.0	54.0
+34775	http://www.mcckc.edu/	Metropolitan Community College - Business/Tech.	2005.0	1328.0
+34776	http://www.ncsd.k12.mo.us	North St. Francois Co. R-I  (094-083)	1999.0	141.0
+34777	http://adaircountymissouri.com/	Adair County	2004.0	73.0
+34778	http://www.clarksvillemo.us/	Clarksville	2006.0	69.0
+34779	http://www.newmadridcountylibrary.com/	New Madrid County Library	2013.0	13.0
+34780	http://www.prairiehome.k12.mo.us	Prairie Home R-V  (027-057)	1999.0	1.0
+34781	http://glenwoodmustangs.com/	Glenwood R-VIII  (046-135)	2013.0	21.0
+34782	http://www.lexington.k12.mo.us/	Lexington R-V  (054-045)	2000.0	0.0
+34783	http://www.madison.k12.mo.us	Madison C-3  (069-108)	2006.0	41.0
+34784	http://www.rmrp.com/	LaPlata	1997.0	55.0
+34785	http://www.manchestermo.gov/	Manchester	2007.0	461.0
+34786	http://www.holdenschools.org/education/school/school.php?sectionid=3	Holden R-III  (051-152)	2010.0	0.0
+34787	http://pcr3.k12.mo.us	Phelps Co. R-III  (081-097)	2000.0	474.0
+34788	http://www.avaschools.k12.mo.us	Ava R-I  (034-124)	2001.0	89.0
+34789	http://www.baylessk12.org	Bayless  (096-099)	2007.0	28.0
+34790	http://www.avenuecityschool.org	Avenue City R-IX  (002-090)	2007.0	659.0
+34791	http://winston.k12.mo.us/	Winston R-VI  (031-117)	2012.0	3.0
+34792	http://fultonmo.org/	Fulton	2011.0	296.0
+34793	http://www.rs-wolves.com	Reeds Spring R-IV  (104-044)	2013.0	555.0
+34794	http://www.ci.st-joseph.mo.us/	St. Joseph	1996.0	998.0
+34795	https://www.missouriartscouncil.org/	Arts, Missouri State Council on the	1998.0	42.0
+34796	http://windsor.k12.mo.us/	Windsor C-1  (050-010)	1998.0	3557.0
+34797	http://www.crockerschools.org	Crocker R-II  (085-049)	2012.0	77.0
+34798	http://www.rollapubliclibrary.org	Rolla Public Library	2002.0	36.0
+34799	http://desotopubliclibrary.lib.mo.us/	De Soto Public Library	2008.0	637.0
+34800	http://stjamesmo.org/	St. James	2002.0	213.0
+34801	http://www.usr2.com	Union Star R-II  (032-056)	2009.0	9.0
+34802	http://www.fergusoncity.com/	Ferguson	1999.0	0.0
+34803	http://marion.k12.mo.us	Marion Co. R-II  (064-072)	2002.0	34.0
+34804	http://rolla.k12.mo.us	Rolla 31  (081-096)	1998.0	18958.0
+34805	http://www.perryvillemissouri.com/	Perryville	2000.0	31.0
+34807	http://www.stcharles.k12.mo.us	St. Charles R-VI  (092-090)	1998.0	130.0
+34808	http://puxicopubliclibrary.lib.mo.us/	Puxico Public Library	2008.0	0.0
+34809	http://www.nianguaschools.net	Niangua R-V  (112-099)	2009.0	3.0
+34810	http://www.mymcpl.org/locations/smithville	Mid-Continent Public Library - Smithville	2010.0	37.0
+34811	http://christiancounty.lib.mo.us/	Christian County Library	2002.0	98.0
+34812	http://koshkonong.k12.mo.us	Oregon-Howell R-III  (075-086)	2001.0	13.0
+34813	http://www.cityoflawsonmo.org/	Lawson	2008.0	16.0
+34814	http://www.springbluffpirates.com/	Spring Bluff R-XV  (036-134)	2011.0	183.0
+34815	http://www.republicschools.org	Republic R-III  (039-134)	2009.0	13.0
+34816	http://moga.mo.gov/	State Legislature	2003.0	5.0
+34817	http://sks.k12.mo.us	Shell Knob 78  (005-127)	2001.0	921.0
+34818	http://www.fairplay.k12.mo.us/	Fair Play R-II  (084-002)	2002.0	731.0
+34820	http://www.weldonspring.org/	Weldon Spring	2000.0	231.0
+34822	http://sllis.org/	St. Louis Lang Immersion School  (115-912)	2008.0	290.0
+34823	http://www.visitlexingtonmo.com/	Lexington	2005.0	0.0
+34824	http://www.cityofhardin.com/	Hardin	2005.0	89.0
+34825	http://www.parkhillsmo.net/	Park Hills	2008.0	360.0
+34826	http://doniphanr1.k12.mo.us	Doniphan R-I  (091-092)	0.0	1882.0
+34827	http://www.sema.dps.mo.gov/mercc.htm	Emergency Response Commission	2004.0	399.0
+34828	http://www.normandysd.org	Normandy  (096-109)	2010.0	692.0
+34830	http://www.showmeboone.com/	Boone County	2001.0	1404.0
+34832	http://www.silex.k12.mo.us	Silex R-I  (057-001)	2014.0	67.0
+34833	http://www.nwmissouri.edu	Northwest Missouri State University	1997.0	709.0
+34834	http://www.missouri-finance.org/	Residential Mortgage Board	2001.0	112.0
+34835	http://tolbertacademy.org	Lee A. Tolbert Com. Academy  (048-910)	2003.0	28.0
+34837	http://www.richlandbears.us	Richland R-IV  (085-044)	2011.0	18.0
+34839	http://www.lockwoodschools.org	Lockwood R-I  (029-001)	2006.0	686.0
+34841	http://www.parkwayschools.net	Parkway C-2  (096-095)	2010.0	150.0
+34842	http://www.hazelwood.k12.mo.us/Pages/Default.aspx	Hazelwood  (096-088)	2008.0	894.0
+34843	http://owensville.k12.mo.us	Gasconade Co. R-II  (037-037)	2001.0	0.0
+34844	http://www.cityofbernie.com/	Bernie	2001.0	59.0
+34845	http://osagecountygov.com/	Osage County	2009.0	78.0
+34846	http://www.delasallecenter.org/	Delasalle Charter School  (048-923)	2000.0	99.0
+34847	http://www.ballardr2.net	Ballard R-II  (007-122)	2011.0	379.0
+34848	http://www.stewartsville.k12.mo.us	Stewartsville C-2  (032-058)	2010.0	33.0
+34849	http://www.neelyville.k12.mo.us/	Neelyville R-IV  (012-108)	1999.0	16.0
+34850	http://sweetsprings.k12.mo.us/	Sweet Springs R-VII  (097-131)	2000.0	756.0
+34851	http://www.fortosage.net	Fort Osage R-I  (048-066)	2004.0	867.0
+34852	http://www.mndcty.k12.mo.us	Mound City R-II  (044-083)	2011.0	18.0
+34853	http://www.claycogov.com/	Clay County	0.0	411.0
+34854	http://calhoun.k12.mo.us	Calhoun R-VIII  (042-117)	2004.0	222.0
+34856	http://ripleyr3.k12.mo.us	Ripley Co. R-III  (091-095)	0.0	2507.0
+34858	http://steelville.k12.mo.us	Steelville R-III  (028-103)	1998.0	8839.0
+34859	http://nnr6.k12.mo.us/	North Nodaway Co. R-VI  (074-197)	2001.0	2.0
+34860	http://mariesr1.k12.mo.us	Maries Co. R-I  (063-066)	2004.0	42.0
+34861	http://www.maldenmo.com/	Malden	1998.0	57.0
+34862	http://explorestlouis.com/	St. Louis Convention and Visitors Commission	1999.0	4000.0
+34863	http://www.labor.mo.gov/LIRC/	Labor and Industrial Relations Commission	2010.0	410.0
+34864	http://callawaycounty.org/	Callaway County	2005.0	23.0
+34865	http://www.howellcounty.net/	Howell County	0.0	16.0
+34866	http://www.huskers.k12.mo.us	Lafayette Co. C-1  (054-039)	2000.0	596.0
+34867	http://www.seymourmissouri.org/	Seymor	2005.0	2.0
+34868	http://www.MissouriTechnology.com	Technology Corporation, Missouri	2004.0	43.0
+34869	http://dmh.mo.gov/dd/	Autism Spectrum Disorders, Missouri Commission on	2011.0	17.0
+34870	http://www.missouristate.edu/bog/	Missouri State University Board of Governors	2005.0	219.0
+34871	http://www.puxico.k12.mo.us/education/district/district.php?sectionid=1	Puxico R-VIII  (103-130)	2007.0	4.0
+34873	http://mcdonaldco.k12.mo.us/mchs/index.asp	McDonald Co. R-I  (060-077)	2010.0	155.0
+34874	http://www.raymore.com/	Raymore	1999.0	489.0
+34876	http://www.pstif.org	Petroleum Storage Tank Insurance Fund Board of Trustees	2000.0	69.0
+34877	http://monroecitymo.org/	Monroe City	2004.0	396.0
+34878	http://health.mo.gov/living/organdonor/committee.php	Organ Donation Advisory Committee	2012.0	61.0
+34879	http://dhe.mo.gov/cbhe/	Higher Education, Coordinating Board for	2010.0	10.0
+34880	http://charleston.k12.mo.us/	Charleston R-I  (067-061)	1998.0	81.0
+34881	http://goodmanmo.net/	Goodman	2009.0	74.0
+34882	http://mcr1.stovermo.com/index.php?lang=en	Morgan Co. R-I  (071-091)	2012.0	27.0
+34883	http://wc.k12.mo.us/	Worth Co. R-III  (113-001)	1998.0	429.0
+34884	http://www.claytonmo.gov/	Clayton	2011.0	827.0
+34886	http://www.ottervillervi.k12.mo.us/	Otterville R-VI  (027-058)	2009.0	2.0
+34887	http://www.mymcpl.org/locations/liberty	Mid-Continent Public Library - Liberty	2010.0	37.0
+34889	http://www.vandaliamo.net/	Vandalia	2003.0	0.0
+34890	http://www.kelly.k12.mo.us	Scott Co. R-IV  (100-061)	2001.0	12.0
+34891	http://www.capecounty.us/	Cape Girardeau County	2008.0	6.0
+34892	http://www.plattecountyschooldistrict.com/education/components/scrapbook/default.php?sectionid=1	Platte Co. R-III  (083-003)	2010.0	0.0
+34893	http://ellsinore.com/	Ellsinore	2004.0	18.0
+34894	http://warsawr9.schoolinsites.com/	Warsaw R-IX  (008-107)	2010.0	233.0
+34895	http://keytesville.k12.mo.us	Keytesville R-III  (021-150)	2012.0	2.0
+34896	http://www.sccmo.org/Home/	St. Charles County	2007.0	1268.0
+34897	http://www.riversideregionallibrary.org/	Riverside Regional Library	2003.0	92.0
+34898	http://jcebmo.org/	Jackson County Board of Election Commissioners	2010.0	230.0
+34899	http://www.visitmo.com/dept.cfm	Tourism Commission	2006.0	74.0
+34900	http://www.nshelby.k12.mo.us	North Shelby  (102-081)	2003.0	385.0
+34901	http://cityofkimmswick.com/	Kimmswick	2000.0	40.0
+34902	http://www.cardinals.k12.mo.us/	Shelby Co. R-IV  (102-085)	2000.0	2.0
+34903	http://www.dnr.mo.gov/env/swcp/meetings.htm	State Soil and Water Districts Commission	2006.0	33.0
+34904	http://www.lesterville.k12.mo.us	Lesterville R-IV  (090-078)	2001.0	748.0
+34905	http://www.pr.mo.gov/dental.asp	Dental Hygienists, Advisory Commission for	2004.0	6.0
+34906	http://www.hssu.edu/sp_sitemap.cfm?CFID=3582464&CFTOKEN=96464931	Harris-Stowe State University Board of Regents	0.0	466.0
+34907	http://www.mymcpl.org/locations/colbern-road	Mid-Continent Public Library - Colbern Road	2010.0	37.0
+34909	http://www.sarcoxielibrary.org/	Sarcoxie Public Library	2005.0	10.0
+34910	http://texascountylibrary.lib.mo.us/content/cabool-branch	Texas County Library - Cabool Branch	2013.0	118.0
+34911	http://www.atchisoncounty.org/	Atchison County	2006.0	52.0
+34912	http://www.sos.mo.gov/archives/mhrab/mhrab.asp	State Historical Records Advisory Board	2003.0	15.0
+34913	http://www.librarymail.org/	Mcdonald County Library	2003.0	377.0
+34914	http://www.warrencountymo.org/	Warren County	2009.0	41.0
+34915	http://www.cameron-mo.com/	Cameron	2001.0	492.0
+34916	http://www.kcmo.org/CKCMO/index.htm	Kansas City	2010.0	0.0
+34917	http://www.albany.k12.mo.us	Albany R-III  (038-046)	1999.0	203.0
+34918	http://www.modot.org/about/	State Highways and Transportation Commission	2003.0	18.0
+34919	http://newflorencemo.com/	New Florence	2001.0	14.0
+34921	http://www.labor.mo.gov/mohumanrights/	Human Rights, Missouri Commission on	2010.0	450.0
+34922	http://newfranklin.missouri.org/	New Franklin	2000.0	0.0
+34923	http://www.pr.mo.gov/embalmers.asp	Embalmers and Funeral Directors, State Board of	2004.0	7.0
+34924	http://pr.mo.gov/marital.asp	Marital and Family Therapists, State Committee of	2004.0	545.0
+34926	http://westran.k12.mo.us/www/	Westran R-I  (088-080)	2009.0	121.0
+34927	http://billingsmo.com/	Billings	2007.0	79.0
+34928	http://www.hazelwoodmo.org/	Hazelwood	2002.0	143.0
+34929	http://missouri.edu/	Southeast Missouri State University	1997.0	24017.0
+34930	http://www.bronaughschools.net	Bronaugh R-VII  (108-143)	2008.0	396.0
+34931	http://www.warsonwoods.com/	Warson Woods	2001.0	60.0
+34932	http://www.dps.mo.gov/dir/programs/ohs/hsac.asp	Homeland Security Advisory Council	2011.0	31.0
+34933	http://www.jacksongov.org/	Jackson County	2001.0	1113.0
+34934	http://seo.fathomslaw.com/?p=96	Palmyra Bicentennial Public Library	2013.0	37.0
+34935	http://www.belton.org/	Belton	1996.0	657.0
+34936	http://www.chillicothecity.org/	Chillicothe	2000.0	130.0
+34937	http://www.ellisville.mo.us/	Ellisville	1998.0	470.0
+34938	http://www.4noel.com/	Noel	1996.0	35.0
+34939	http://www.westplains.net/	West Plains	1999.0	102.0
+34940	http://www.slpl.org/	Saint Louis Public Library	2001.0	380.0
+34941	http://www.crystallakepark.org/	Crystal Lake Park	2005.0	56.0
+34942	http://www.whiteman.af.mil/	Whiteman Air Force Base	1997.0	1387.0
+34943	http://www.jaspercounty.org/	Jasper County	1998.0	27.0
+34944	http://willowspringsschool.com/	Willow Springs R-IV  (046-131)	2001.0	504.0
+34945	http://www.cityofforistell.org/	Foristell	2008.0	21.0
+34946	http://www.ozark.k12.mo.us/site/default.aspx?PageID=1	Ozark R-VI  (022-093)	2014.0	11.0
+34947	http://www.pr.mo.gov/octherapy.asp	Occupational Therapy, Missouri Board of	2004.0	6.0
+34948	http://www.hoganprep.net/	Hogan Preparatory Academy  (048-904)	2012.0	29.0
+34949	http://www.desotomo.com/	De Soto	2002.0	195.0
+34951	http://newburg.k12.mo.us/	Newburg R-II  (081-095)	2005.0	822.0
+34952	http://blcacademy.org/	Better Learning Comm Academy  (115-922)	2011.0	13.0
+34953	http://www.grundycountymo.com/	Grundy County	2009.0	31.0
+34954	http://www.gfr2.k12.mo.us	Green Forest R-II  (033-092)	2008.0	65.0
+34955	http://www.clarksonvalley.org/	Clarkson Valley	2001.0	362.0
+34956	http://www.pr.mo.gov/pharmacists.asp	Pharmacy, State Board of	2004.0	8.0
+34957	http://www.capetigers.com	Cape Girardeau 63  (016-096)	2008.0	706.0
+34958	http://www.sc.k12.mo.us	South Callaway Co. R-II  (014-130)	2000.0	41.0
+34959	http://www.kcpublicschools.org/site/default.aspx?PageID=1	Kansas City 33  (048-078)	2012.0	19.0
+34960	http://mhgmovlic.org/	Missouri State Employees' Voluntary Life Insurance Commission	2006.0	13.0
+34961	http://www.pr.mo.gov/interpreters.asp	Missouri State Committee of Interpreters	2004.0	6.0
+34963	http://www.discoverynet.com/~ajsnead/mycomm/city/city.html	Buckner	2000.0	2.0
+34964	http://www.hermann.k12.mo.us/	Gasconade Co. R-I  (037-039)	2002.0	52.0
+34965	http://www.mtvernon-cityhall.org/	Mount Vernon	2003.0	77.0
+34966	http://www.eagles.k12.mo.us	Sullivan  (036-137)	2000.0	1357.0
+34967	http://www.dora.org	Dora R-III  (077-103)	2000.0	17.0
+34969	http://www.mcr2.k12.mo.us	Morgan Co. R-II  (071-092)	1999.0	190.0
+34970	http://www.modot.org/	Transportation, Department of	2002.0	1541.0
+34971	http://www.ncmissouri.edu/default.aspx	Grand River Technical School	2010.0	612.0
+34972	http://www.bellcity.k12.mo.us	Bell City R-II  (103-128)	2007.0	75.0
+34973	http://www.nevcknights.org	Northeast Vernon Co. R-I  (108-147)	2007.0	746.0
+34974	http://www.health.mo.gov/information/boards/index.php	Senior Services, State Board of	2011.0	85.0
+34975	http://missouriwine.org/	Missouri Wine and Grape Board	2001.0	776.0
+34976	http://nen.k12.mo.us	Northeast Nodaway Co. R-V  (074-194)	2001.0	2.0
+34977	http://www.mosilc.org	Statewide Independent Living Council	2000.0	62.0
+34978	http://www.mgc.dps.mo.gov	Gaming Commission	2003.0	80.0
+34979	http://www.morgan-county.org/	Morgan County	2010.0	72.0
+34980	http://mcdhh.mo.gov/	Deaf and hard of Hearing, Missouri Commission for the	2005.0	29.0
+34981	http://www.tuscumbialions.k12.mo.us	Miller Co. R-III  (066-103)	2012.0	18.0
+34982	http://www.cityoflaurie.com/	Laurie	2008.0	385.0
+34983	http://www.salemmo.com/	Salem	2001.0	0.0
+34984	http://avamissouri.org/	Ava	2002.0	46.0
+34985	http://www.rocheport.com/	Rocheport	2001.0	81.0
+34986	http://www.mexicoschools.net	Mexico 59  (004-110)	2000.0	23.0
+34987	http://www.claycomo.org/	Claycomo	2008.0	30.0
+34988	http://www.jamesport.net/	Jamesport	2002.0	67.0
+34991	http://texascountylibrary.lib.mo.us/content/licking-branch	Lilbourn Memorial Library	2013.0	118.0
+34992	http://nyr4bulldogs.com	New York R-IV  (013-057)	2009.0	22.0
+34993	http://www.constructioncareerscenter.org	Construction Careers Center  (115-901)	2003.0	51.0
+34994	http://www.richmondheights.org/	Richmond Heights	2000.0	499.0
+34995	http://www.cityofwildwood.com/	Wildwood	2001.0	834.0
+34996	http://worthcountylibrary.lib.mo.us/	Worth County Library	2010.0	226.0
+34997	http://www.coler-v.k12.mo.us	Cole Co. R-V  (026-005)	2001.0	1065.0

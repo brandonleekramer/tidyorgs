@@ -1,0 +1,383 @@
+NodeId	NodeURL	NodeName	Year	pages
+2368	http://cochise.lib.az.us/portal.html	Myrtle Kraft Library	2006.0	63.0
+2369	http://www.cavecreek.org/	Cave Creek	2000.0	370.0
+2371	http://www.co.yuma.az.us/	Yuma County	1998.0	3895.0
+2372	http://www.azda.gov/mastercontent/default.aspx	Agriculture, Dept. of	2013.0	1042.0
+2374	http://www.naacharter.org/	Northern Arizona Academy (Taylor)	2004.0	256.0
+2375	http://www.hr.state.az.us/	Administration-Human Resources, Dept. of	1998.0	34.0
+2377	http://www.ccusd93.org/education/district/district.php?sectionid=1	Cave Creek Unified School District (Cave Creek)	2007.0	1.0
+2378	http://cochise.lib.az.us	Cochise County Library District	1998.0	63.0
+2379	http://stanfield.schoolfusion.us/	Stanfield Elementary School District #24 (Stanfield)	2009.0	1.0
+2380	http://www.library.pima.gov/locations/abbett/	Wheeler Taft Abbett, Sr. Branch Library	2007.0	5.0
+2381	http://altarvalleyschools.org/	Altar Valley Elementary District (Tucson)	2008.0	237.0
+2382	http://www.ccusd.net/	Colorado City Unified School District #14 (Colorado City)	2001.0	2581.0
+2383	http://www.bensonsd.k12.az.us/	Benson Unified School District (Benson)	2002.0	461.0
+2384	http://www.winslowsd.k12.az.us/education/district/district.php?sectionid=1	Winslow Unified School District #1 (Winslow)	2010.0	0.0
+2385	http://chevelonbutte.org/	Chevelon Butte School District #5	2009.0	7.0
+2386	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_lp.aspx	Maricopa County Library - Litchfield Park	2006.0	144.0
+2387	http://www.cityofbisbee.com	Bisbee	2001.0	52.0
+2388	http://www.flowingwellsschools.org/	Flowing Wells School District (Tucson)	2008.0	61.0
+2389	http://www.ci.casa-grande.az.us/	Casa Grande	1998.0	452.0
+2390	http://www.marana.com	Marana	1997.0	346.0
+2391	http://www.somerton.k12.az.us/	Somerton School District (Somerton)	1997.0	2.0
+2392	http://www.ganado.k12.az.us/	Ganado Unified Schools (Ganado)	0.0	45.0
+2393	http://www.psd49.net/	Palominas School District #49 (Hereford)	2012.0	163.0
+2394	http://www.library.pima.gov/locations/quinciedouglas/	Quincie Douglas Branch Library	2008.0	3.0
+2395	http://www.azcourts.gov	Administrative Office of the Courts	2010.0	3456.0
+2396	http://www.dusd.k12.az.us/	Douglas Unified Schools (Douglas)	2003.0	313.0
+2397	http://www.cityofnogales.net/	Nogales	2000.0	29.0
+2398	http://capitolrideshare.com/	Administration-Capitol Ride Share, Dept. of	2000.0	35.0
+2399	http://www.peoriaaz.gov/newhomepage.aspx	Peoria	2012.0	3148.0
+2400	http://www.gift-tech.org/	Gila Institute for Technology (Thatcher)	2003.0	9.0
+2401	http://www.littletonaz.org/	Littleton Elementary School District (Avondale)	2001.0	84.0
+2402	http://gilbertschools.net/site/default.aspx?PageID=1	Gilbert Unified School District (Gilbert)	2011.0	111.0
+2403	http://www.library.pima.gov/locations/marana/	Geasa-Marana Branch Library	2007.0	3.0
+2404	http://www.rayusd.org/	Ray Unified School District No. 3 (Kearny)	0.0	576.0
+2405	http://www.fh.az.gov	Fountain Hills	2001.0	1873.0
+2406	http://www.at.az.gov	Athletic Training, Board of	2009.0	292.0
+2407	http://www.mohavecounty.us/	Mohave County	2004.0	12.0
+2408	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_sc.aspx	Maricopa County Library - Sun City	2009.0	144.0
+2409	http://www.phxelem.k12.az.us/	Phoenix Elementary School District No. 1 (Phoenix)	2000.0	65.0
+2410	http://cochise.az.gov/cochise_court_administration.aspx?id=230&ekmensel=c57efa7b_26_0_230_2	Cochise County Superior Court	2008.0	3.0
+2411	http://www.mohave.edu/	Mohave Community College (Kingman)	2002.0	676.0
+2412	http://fountainhillsschools.org/	Fountain Hills Unified School District #98	2008.0	337.0
+2414	http://www.osd2.org/	Oracle School District #2 (Oracle)	2007.0	30.0
+2415	http://www.library.pima.gov/locations/sahuarita/	Sahuarita Branch Library	2009.0	2.0
+2417	http://www.aguafria.org/education/district/district.php?sectionid=1	Agua Fria Union High School District (Avondale)	2003.0	0.0
+2418	http://azracing.gov	Boxing Commission	2004.0	418.0
+2419	http://sahuaritaaz.gov/	Sahuarita	2013.0	1176.0
+2420	http://www.cityofbenson.com/	Benson	1999.0	620.0
+2421	http://azcourts.gov/coa1/Home.aspx	Appeals Court - Division I	2011.0	198.0
+2422	http://www.cityofprescott.net	Prescott	2000.0	513.0
+2423	http://www.cityofpage.org/	Page	2001.0	309.0
+2425	http://www.maranausd.org/	Marana Unified School District (Tucson)	2000.0	115.0
+2426	http://www.eloyaz.org/	Eloy	2008.0	35.0
+2427	http://www.gilabendaz.org/	Gila Bend	2003.0	19.0
+2429	http://www.maricopa.gov/	Maricopa County	1996.0	6494.0
+2431	http://www.redrockschools.com/	Red Rock Elementary District (Red Rock)	2009.0	71.0
+2433	http://www.stjohnsaz.com	Saint Johns	1998.0	1.0
+2434	http://www.maricopa-az.gov/web/	Maricopa	2011.0	1479.0
+2435	http://www.tanqueverdeschools.org/	Tanque Verde Unified	2008.0	61.0
+2436	http://www.ftmcdowelltriballibrary.org	Ft. Mcdowell Yavapai Nation Tribal Library	2009.0	76.0
+2437	http://www.osbornnet.org/	Osborn School District (Phoenix)	2000.0	9990.0
+2438	http://www.phoenixcollege.edu/	Phoenix College (Phoenix)	2002.0	4662.0
+2439	http://www.scottsdalecc.edu	Scottsdale Community College (Scottsdale)	2006.0	625.0
+2440	http://www.azacupunctureboard.us/	Acupuncture, Board of Examiners	2010.0	260.0
+2442	http://flagstaffpubliclibrary.org/about/gcpl.html	Grand Canyon Community Library	2013.0	0.0
+2443	http://www.mayerschools.org/	Mayer Unified School District (Mayer)	2007.0	129.0
+2445	http://www.mvesd16.org/	Mohave Valley Elementary School District #16	2001.0	220.0
+2446	http://www.holbrook.k12.az.us/	Holbrook Unified School District #3	1996.0	440.0
+2447	http://www.ci.holbrook.az.us	Holbrook	1998.0	914.0
+2448	http://www.azb.uscourts.gov/	Arizona Bankruptcy Court	1998.0	527.0
+2449	http://www.library.pima.gov/locations/golflinks/	Miller-Golf Links Branch Library	2007.0	3.0
+2451	http://www.superiorcourt.maricopa.gov/	Maricopa County Superior Court	1999.0	1223.0
+2452	http://www.pineesd.org/	Pine Strawberry School District #12 (Pine)	2009.0	32.0
+2453	http://www.library.pima.gov/locations/main/	Joel D. Valdez Main Library	2007.0	26.0
+2454	http://azbbhe.us/	Behavioral Health Examiners, Board of	2009.0	618.0
+2455	http://besd.k12.az.us/	Buckeye Elementary School District #33 (Buckeye)	2004.0	477.0
+2458	http://portals.gesd40.org/Pages/gesd40.aspx	Glendale Elementary School District #40	2012.0	25.0
+2459	http://www.fredonia.org/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Fredonia-Moccasin Unified School District	0.0	1.0
+2460	http://www.appeals2.az.gov/	Appeals Court - Division II	2008.0	217.0
+2461	http://www.cochise.edu/	Cochise College	2002.0	3492.0
+2462	http://navajonationlibrary.org/	Office Of Navajo Nation Library	2013.0	20.0
+2463	http://www.asu.edu/	Arizona State University (Tempe)	1997.0	343.0
+2464	http://www.statemuseum.arizona.edu	Arizona State Museum	2000.0	1219.0
+2465	http://www.co.navajo.az.us/	Navajo County	1998.0	1053.0
+2466	http://www.surpriseaz.gov/	Surprise	2010.0	2711.0
+2467	http://www.husd.org/site/default.aspx?PageID=4225	Higley Unified School District	2011.0	104.0
+2468	http://www.holbrooklibrary.org/	Holbrook Public Library	2004.0	10.0
+2469	http://www.musd20.org/	Maricopa Unified School District (Maricopa)	2001.0	267.0
+2470	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_fh.aspx	Maricopa County Library - Fountain Hills	2006.0	149.0
+2472	http://www.msdaz.org/	Murphy Elementary School District #21 (Murphy)	2001.0	243.0
+2473	http://www.svusd68.org/	Sierra Vista Public Schools District (Sierra Vista)	0.0	12889.0
+2474	http://cochise.lib.az.us/cwillcox.html	Elsie S. Hogan Community Library	2007.0	62.0
+2475	http://www.dewey-humboldt.net/	Dewey-Humboldt	2005.0	79.0
+2476	http://www.coolidgeaz.com	Coolidge	2000.0	278.0
+2477	http://www.brusd.k12.az.us/	Blue Ridge Unified School District #32 (Pinetop/Lakeside)	2001.0	953.0
+2478	http://www.nau.edu/	Northern Arizona University (Multiple Locations)	1996.0	164.0
+2479	http://www.library.pima.gov/locations/elpueblo/	El Pueblo Branch Library	2007.0	3.0
+2480	http://www.afjusd.org/	Ash Fork Joint Unified School District #31	2007.0	56.0
+2482	http://www.avondale.k12.az.us/	Avondale Elementary School District	2002.0	864.0
+2484	http://town.wellton.az.us/	Wellton	2001.0	47.0
+2486	http://www.patagoniaaz.com/	Patagonia	1998.0	215.0
+2487	http://www.navajocountylibraries.org/navajo/	Navajo County Library District	2008.0	187.0
+2489	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_wt.aspx	Maricopa County Library - White Tank	2008.0	151.0
+2491	http://www.havasu.k12.az.us/	Lake Havasu School District #1 (Lake Havasu City)	1998.0	446.0
+2492	http://www.mesalibrary.org	Mesa Public Library	2001.0	167.0
+2493	http://www.library.pima.gov/locations/catalina/	Dewhirst-Catalina Branch Library	2007.0	3.0
+2494	http://www.nusd.k12.az.us/	Nogales Unified School District	1998.0	48.0
+2495	http://www.vail.k12.az.us/	Vail School District (Vail)	1998.0	346.0
+2496	http://www.pesd92.org/	Pendergast District (Phoenix)	2006.0	146.0
+2497	https://www.azag.gov/	Attorney General, Office of - Community Service Program / Satellite Office	2004.0	1243.0
+2498	http://www.townofkearny.com/	Kearny	2001.0	13.0
+2499	http://mohavecountylibrary.info/mohave/goldenshores.asp	Golden Shores Station Library	2009.0	101.0
+2500	http://www.library.pima.gov/locations/wilmot/	Murphy-Wilmot Branch Library	2007.0	3.0
+2501	http://www.gesd32.org/	Gadsden Elementary School District #32	2002.0	675.0
+2502	http://continentalesd.org/	Continental Elementary School District (Green Valley)	2009.0	60.0
+2503	http://www.tempe.gov/index.aspx?page=397	Tempe Public Library	2012.0	0.0
+2504	http://www.eatwellbewell.org/	Nutrition Network	2002.0	348.0
+2505	http://www.aata.state.az.us/	Automobile Theft Authority	1998.0	106.0
+2506	http://www.seligmanschools.org	Seligman Unified School District	2007.0	58.0
+2507	http://www.gatewaycc.edu/	Gateway Community College	2003.0	1113.0
+2509	http://www.azarts.gov/	Arts, Commission on the	2005.0	329.0
+2510	http://www.wesdschools.org/site/default.aspx?PageID=1	Washington Elementary School District #6	2013.0	6.0
+2511	http://www.scvuhs.org/	Santa Cruz valley Union High school District (Eloy)	2001.0	69.0
+2512	http://www.azaccountancy.gov/	Accountancy Board	2006.0	95.0
+2513	http://www.scottsdaleaz.gov/	Scottsdale	2002.0	2414.0
+2515	http://catalog.pinalcountyaz.gov/polaris/default.aspx?ctx=7.1033.0.0.5	Casa Grande Public Library	0.0	1119.0
+2516	http://www.azdoa.gov/	Administration, Dept. of	2005.0	300.0
+2517	http://www.heberovergaardschools.org/	Heber-Overgaard USD #6 (Heber)	2008.0	37.0
+2518	http://www.npc.edu/	Northland Pioneer College	2002.0	2492.0
+2519	http://www.kayenta.k12.az.us/	Kayenta Unifed School District (Kayenta)	1997.0	134.0
+2520	http://www.azauditor.gov/	Auditor General, Office of	2006.0	952.0
+2521	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_go.aspx	Maricopa County Library - Goodyear	2007.0	150.0
+2522	http://www.guhsdaz.org/	Glendale Union High School District (Glendale)	2002.0	271.0
+2523	http://www.craneschools.org/	Crane Elementary School District (Yuma)	2003.0	10638.0
+2524	http://www.litchfield-park.org	Litchfield Park	1999.0	677.0
+2525	http://www.salomek8.org/	Salome Consolidated Elementary School District #30 (Salome)	2011.0	40.0
+2526	http://www.tollesonaz.org	Tolleson Public Library	2001.0	414.0
+2528	http://az.gov/	State Government	2000.0	308.0
+2529	http://www.cityofkingman.gov/	Kingman	2001.0	415.0
+2530	http://www.humboldtunified.com/	Humboldt Unified School District (Prescott Valley)	0.0	1449.0
+2531	http://www.mesaaz.gov/Home/	Mesa	2009.0	5.0
+2532	http://www.fesd.org/	Fowler Elementary School District #45 (Phoenix)	2001.0	65.0
+2533	http://www.superior.k12.az.us/education/district/district.php?sectionid=1	Superior Unified School District (Superior)	2011.0	53.0
+2534	http://www.wrschool.net/	Window Rock Unified School District #8 (Fort Defiance)	2002.0	108.0
+2535	http://www.library.pima.gov/locations/river/	Dusenberry-River Branch Library	2007.0	3.0
+2536	http://www.pinalcountyaz.gov/Pages/Home.aspx	Pinal County	2008.0	1191.0
+2537	http://www.dinecollege.edu/	Dine College	2002.0	168.0
+2538	http://www.library.pima.gov/locations/arivaca/	Caviglia-Arivaca Branch Library	2007.0	4.0
+2539	http://Solomon.k12.az.us/exec/eHome.asp?set_site_to=OFFICE&division=Office:+Home&group_is=	Solomon Elementary School District #5 (Solomon)	0.0	348.0
+2540	http://www.mesacc.edu/	Mesa Community College (Mesa)	2007.0	4224.0
+2541	http://www.desertfoothillslibrary.org	Desert Foothills Library	2001.0	45.0
+2543	http://www.pvaz.net/	Prescott Valley	0.0	601.0
+2544	http://coloradoriverschools.org/	Colorado River Union High School District #2 (Bullhead City)	2008.0	174.0
+2546	http://www.cityofsafford.us/index.aspx?NID=336	Safford City - Graham County Library	2013.0	437.0
+2547	http://www.library.pima.gov/locations/santarosa/	Santarosa Branch Library	2007.0	3.0
+2548	http://www.ci.goodyear.az.us	Goodyear	1998.0	2442.0
+2549	http://www.avondalelibrary.org/	Sam Garcia Western Avenue Library	2012.0	290.0
+2550	http://www.ThatcherUD.k12.az.us/exec/eHome.asp?set_site_to=ADMIN&division=ADMIN:+Home&group_is=	Thatcher Unified School District #4 (Thatcher)	0.0	381.0
+2551	http://www.library.pima.gov/locations/elrio/	El Rio Branch Library	2007.0	3.0
+2552	http://www.laveeneld.org/	Laveen Elementary School District	2005.0	455.0
+2553	http://www.parkerusd.k12.az.us/	Parker Unified School District #27 (Parker)	1998.0	0.0
+2554	http://www.apltwo.ct.state.az.us/	Court of Appeals - Division Two	1996.0	214.0
+2555	http://tollesonschools.com/	Tolleson Elementary School District #17 (Tolleson)	2008.0	85.0
+2556	http://www.pima.edu/	Pima Community College (Tucson)	1997.0	1077.0
+2557	http://www.powerauthority.org/	Arizona Power Authority	2001.0	132.0
+2558	http://josephcityschools.org/	Joseph City School District (Joseph City)	2009.0	232.0
+2559	http://www.busd.k12.az.us/site/index.shtml	Bisbee Unified School District	2007.0	24.0
+2560	http://www.graham.az.gov/	Graham County	2001.0	293.0
+2561	http://www.azbar.org/	Bar Association	1998.0	881.0
+2562	http://www.library.pima.gov	Pima County Public Library	2007.0	1756.0
+2563	http://www.isaacschools.org/	Isaac School District #5 (Phoenix)	2004.0	42.0
+2564	http://www.ajusd.org/	Apache Junction Unified School District	0.0	1338.0
+2565	http://www.flagstaff.az.gov/	Flagstaff	2000.0	1745.0
+2566	http://www.buckeyeaz.gov/index.aspx?nid=150	Buckeye Public Library	2010.0	566.0
+2567	http://clerkofcourt.maricopa.gov/	Clerks of the Superior Court	2001.0	127.0
+2568	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_nv.aspx	Maricopa County Library - North Valley Regional	2006.0	151.0
+2569	http://www.sierravistaaz.gov	Sierra Vista Public Library	2010.0	2255.0
+2570	http://www.douglasaz.org/	Douglas	2009.0	101.0
+2571	http://www.cityofwillcox.org/	Willcox	2006.0	6.0
+2572	http://www.library.pima.gov/locations/woods/	Woods Memorial Branch Library	2007.0	3.0
+2573	http://coconino.az.gov/	Coconino County	2005.0	1429.0
+2575	http://www.critlibrary.com	Colorado River Indian Tribes Library-Archives	1998.0	1.0
+2576	http://www.library.pima.gov/locations/himmel/	Himmel Park Branch Library	2007.0	3.0
+2577	http://www.chinleusd.k12.az.us/	Chinle Unified School District (Chinle)	1998.0	318.0
+2578	http://www.tombstoneschools.org/	Tombstone Unified School District #1	2008.0	86.0
+2579	http://www.sacatonschools.org/	Sacaton Elementary District #18 (Sacaton)	0.0	284.0
+2580	http://www.srpmic-ed.org/	Salt River Pima-Maricopa Community Schools (Scottsdale)	2001.0	136.0
+2581	http://www.library.pima.gov/locations/flowingwells/	Flowing Wells Branch Library	2007.0	3.0
+2582	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_gu.aspx	Maricopa County Library - Guadalupe	2006.0	148.0
+2583	http://www.ajcity.net/	Apache Junction	2000.0	893.0
+2584	http://www.cvaz.org/	Camp Verde	2001.0	3.0
+2585	https://www.azag.gov/civil-rights	Attorney General, Office of - Civil Rights	2013.0	1163.0
+2586	http://azppse.state.az.us/	Arizona State Board for Private Postsecondary Education	2001.0	593.0
+2587	http://www.queencreek.org	Queen Creek	1998.0	2559.0
+2588	http://www.unionesd.org/	Union Elementary School District #62	2004.0	52.0
+2589	http://www.carefree.org/	Carefree	2000.0	560.0
+2590	http://www.mohawkvalleyschool.org/	Mohawk Valley School District No. 17 (Roll)	2011.0	32.0
+2591	http://ci.snowflake.az.us/departments/library/	Snowflake-Taylor Public Library	2013.0	29.0
+2593	http://www.cgc.maricopa.edu/Pages/Default.aspx	Chandler-Gilbert Community College	2009.0	460.0
+2594	http://www.sedonaaz.gov/Sedonacms/index.aspx	Sedona (also Coconino)	2010.0	0.0
+2595	http://kearnylibrary.wordpress.com/	Kearny Public Library	2011.0	159.0
+2596	http://www.arlingtonelem.org/	Arlington Elementary School District (Arlington)	2008.0	483.0
+2597	http://www.santacruz.k12.az.us/	Santa Cruz Valley Unified School District #35 (Rio Rico)	2002.0	74.0
+2598	http://www.yc.edu/	Yavapai College (Prescott)	2004.0	2465.0
+2599	http://www.tucsonaz.gov/	Tucson	2003.0	377.0
+2600	http://www.lhcaz.gov/	Lake Havasu City	2006.0	63.0
+2602	http://www.azleg.gov/	State Legislature	2006.0	33288.0
+2603	http://www.fusd1.org/site/default.aspx?PageID=1	Flagstaff Unified School District (Flagstaff)	2012.0	24.0
+2604	http://www.saffordusd.k12.az.us/exec/eHome.asp?set_site_to=RAC&division=RAC:+Home&group_is=	Safford Unified School District	0.0	1249.0
+2605	http://www.dfbls.az.gov/	Building and Fire Safety, Dept. of	2006.0	72.0
+2608	http://BUSD40.org/	Indian Oasis Baboquivari Unified School District #40	2012.0	1.0
+2609	http://www.wsd.k12.az.us/	Wilson School District #7 (Phoenix)	0.0	7.0
+2610	http://www.ci.wickenburg.az.us	Wickenburg	2000.0	492.0
+2611	http://www.liberty.k12.az.us/education/district/district.php?sectionid=1	Liberty Elementary School District (Buckeye)	2007.0	0.0
+2612	http://www.fortthomas.org/	Fort Thomas Unified School District (Fort Thomas)	2004.0	1.0
+2614	http://www.guadalupeaz.org/	Guadalupe	2002.0	930.0
+2615	http://www.azwestern.edu/	Arizona Western College (Yuma)	2002.0	1521.0
+2616	http://www.azmc.org/	Arizona Mexico Commission	2000.0	299.0
+2617	http://www.pusdatsa.org/	Pinon Unified School District #4 (Pinon)	2002.0	81.0
+2619	http://tonaneesdizi.navajochapters.org//	Tuba City Williams	2013.0	7.0
+2620	http://www.ci.quartzsite.az.us	Quartzsite	2000.0	426.0
+2621	http://ourteacherspage.com/morristown/	Morristown Elementary School District #75 (Morristown)	2007.0	0.0
+2622	http://www.phoenixpubliclibrary.org	Phoenix Public Library	2004.0	701.0
+2623	http://www.doubleadobeschool.org/	Double Adobe Elementary School District #45 (McNeal)	2011.0	10.0
+2624	http://www.smusd90.org/	Saddle Mountain Unified District (Tonopah)	2009.0	85.0
+2625	http://pinalcountyaz.gov/departments/library/pages/default.aspx	Pinal County Library District	2011.0	18.0
+2626	http://www.yuma.org/	Yuma School District #1	1998.0	175.0
+2627	http://www.show-low.k12.az.us/	Show Low Unified School District	2001.0	3.0
+2628	http://www.azbarberboard.us/	Barbers, Arizona Board of	2009.0	18.0
+2629	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_se.aspx	Maricopa County Library - Southeast Regional	2006.0	177.0
+2630	http://www.naco.k12.az.us/	Naco Elementary School District No. 23 (Naco)	2001.0	29.0
+2631	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_ag.aspx	Maricopa County Library - Aguila	2006.0	177.0
+2632	http://resdonline.org/	Riverside School District #2 (Phoenix)	2008.0	159.0
+2633	http://www.co.la-paz.az.us/	La Paz County	1999.0	2.0
+2634	http://www.showlowaz.gov/departments/library/	Show Low Public Library	2008.0	34.0
+2635	http://www.library.pima.gov/locations/valencia/	Valencia Branch Library	2007.0	3.0
+2637	http://buhsd.org/	Buckeye Union High School District #201 (Buckeye)	2002.0	18.0
+2638	http://www.bullheadcity.com/	Bullhead City	1996.0	696.0
+2639	http://www.lusd9.com/	Littlefield Unified School District #9 (Beaver Dam)	2007.0	99.0
+2640	http://www.glendaleaz.com/library/	Glendale Public Library	2001.0	114.0
+2641	http://www.cguhsd.org/	Casa Grande High School District (Casa Grande)	2006.0	72.0
+2644	http://www.mohavecourts.com/	Mohave County Superior Court	1999.0	78.0
+2645	http://home.susd5.org/	Snowflake Unified Schools (Snowflake)	2013.0	257.0
+2646	http://www.wickenburgschools.org/	Wickenburg School District (Wickenburg)	2008.0	108.0
+2647	http://www.topockazschool.com/	Topock Elementary School District 12 (Topock)	2008.0	5.0
+2648	http://www.amphi.com/	Amphitheater School District (Tucson)	1996.0	731.0
+2649	http://phoenix.gov/	Phoenix	2001.0	339.0
+2650	http://www.yavapailibrary.org/yavapai/	Yavapai County Library District	2010.0	754.0
+2651	http://pageusd.org/	Page Unified School District #8 (Page)	2008.0	234.0
+2652	http://www.library.pima.gov/locations/ajo/	Salazar-Ajo Branch Library	2007.0	4.0
+2653	http://www.sedonalibrary.org/	Sedona Public Library	2001.0	201.0
+2656	http://www.lesd.k12.az.us/	Litchfield Elementary School District(Phoenix)	0.0	1637.0
+2657	http://www.library.pima.gov/locations/southwest/	Southwest Branch Library	2007.0	3.0
+2658	http://www.kusd.org/	Kingman Unified School District (Kingman)	2002.0	426.0
+2659	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_em.aspx	Maricopa County Library - El Mirage	2006.0	177.0
+2660	http://ashcreekschool.wordpress.com/	Ash Creek Elementary School (Pearce)	2011.0	190.0
+2661	http://ci.wickenburg.az.us/index.aspx?NID=76	Wickenburg Public Library	2009.0	529.0
+2662	http://www.arizona.edu/	University of Arizona (Tucson)	1996.0	67.0
+2663	http://paloverdeschools.org/	Palo Verde Elementary School District #49 (Palo Verde)	2008.0	90.0
+2664	http://youngtownaz.org	Youngtown Public Library	2001.0	286.0
+2667	http://www.buckeyeaz.gov	Buckeye	2005.0	483.0
+2668	http://www.library.pima.gov/locations/southtucson/	Sam Lena South Tucson Branch Library	2007.0	3.0
+2669	http://www.cityofelmirage.org	El Mirage	2000.0	472.0
+2670	http://flagstaffpubliclibrary.org/	Flagstaff City-Coconino County Public Library	2001.0	1123.0
+2671	http://www.jocombs.org/	J.O. Combs School District	2003.0	246.0
+2672	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_ro.aspx	Maricopa County Library - Robson	2006.0	177.0
+2673	http://www.hr.az.gov/hris/	Administration-Human Resources Information Solution (HRIS) , Dept. of	2010.0	15.0
+2674	http://www.eac.edu/	Eastern Arizona College	0.0	1895.0
+2675	http://www.library.pima.gov/locations/greenvalley/	Joyner-Green Valley Branch Library	2007.0	4.0
+2676	https://sites.google.com/site/msbwhite/home	Copper Queen Library	2010.0	20.0
+2678	http://www.coolidgeschools.org/	Coolidge Unified District (Coolidge)	2008.0	613.0
+2679	http://www.psusd8.org/	Peach Springs Unified School District #8 (Peach Springs)	0.0	384.0
+2680	http://www.coconino.edu/	Coconino Community College	2002.0	1006.0
+2681	http://www.ci.show-low.az.us/newsite/homerun/	Show Low	2010.0	20.0
+2682	http://www.azregents.edu/	Arizona Board of Regents - Universities	2005.0	68.0
+2683	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_qc.aspx	Maricopa County Library - Queen Creek	2006.0	177.0
+2685	http://www.riosalado.edu/Pages/default.aspx	Rio Salado Community College (Phoenix)	2009.0	801.0
+2686	http://cottonwoodaz.gov/	Cottonwood	2009.0	97.0
+2687	http://www.florenceaz.gov/	Florence	2010.0	5489.0
+2689	http://cochise.lib.az.us/ctombstone.html	Tombstone Public Library	2005.0	62.0
+2691	http://www.rsd.k12.az.us/	Roosevelt Elementary School District #66 (Phoenix)	2000.0	1054.0
+2692	http://www.tempe.gov	Tempe	1996.0	6754.0
+2693	http://www.pusd.k12.az.us/	Payson Unified School District #10 (Payson)	2001.0	22.0
+2694	http://www.library.pima.gov/locations/mission/	Mission Branch Library	2007.0	3.0
+2695	http://www.balsz.org/site/default.aspx?PageID=1	Balsz School District (Phoenix)	2014.0	9.0
+2696	http://www.ci.yuma.az.us	Yuma	1998.0	392.0
+2697	http://www.pvc.maricopa.edu/	Paradise Valley Community College (Phoenix)	1997.0	639.0
+2698	http://www.grandcanyonschool.org/	Grand Canyon Unified School District #4	2001.0	474.0
+2699	http://www.cgelem.k12.az.us/	Casa Grande Elementary School District (Casa Grande)	0.0	1009.0
+2700	http://www.library.pima.gov/locations/columbus/	Eckstrom-Columbus Branch Library	2007.0	4.0
+2701	http://www.mpsaz.org/	Mesa Public Schools (Mesa)	2007.0	24090.0
+2702	http://www.bcs.k12.az.us/	Beaver Creek School District (Rimrock)	2007.0	15.0
+2703	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_gb.aspx	Maricopa County Library - Gila Bend	2006.0	177.0
+2704	http://www.ctwpl.info/cottonwood/	Cottonwood Public Library	2009.0	224.0
+2705	http://www.tayloraz.org/	Taylor Winslow	2006.0	60.0
+2706	http://www.yavapai.us/	Yavapai County	2004.0	656.0
+2707	http://www.vuhs.net/	Valley Union High School (Elfrida)	2007.0	4107.0
+2708	http://www.co.greenlee.az.us/	Greenlee County	2001.0	134.0
+2709	http://www.bullheadschools.com/	Bullhead City Elementary School District #15	2001.0	654.0
+2710	http://www.susd30.us/	Sahuarita Unified School District #30	2010.0	178.0
+2711	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_fa.aspx	Maricopa County Library - Fairway	2010.0	177.0
+2712	http://www.sedona.k12.az.us/	Sedona-Oak Creek Unified School District (Sedona)	1998.0	26.0
+2713	http://www.emc.maricopa.edu/	Estrella Mountain Community College (Avondale)	1996.0	1148.0
+2714	http://www.azhighered.gov/	Arizona Commission for Private Postsecondary Education	2008.0	37.0
+2715	http://www.azoah.com/	Administrative Hearings	1998.0	162.0
+2716	http://www.mcnary.k12.az.us/	McNary Elementary School District (McNary)	2009.0	3.0
+2718	http://www.ajpl.org	Apache Junction Public Library	2002.0	40.0
+2719	http://ww2.chandler.k12.az.us/site/default.aspx?PageID=1	Chandler Unified School District (Chandler)	2011.0	9.0
+2720	http://www.tempeschools.org/	Tempe Elementary School District #3 - K-8 (Tempe)	2001.0	867.0
+2721	http://webcms.pima.gov/	Pima County	2013.0	7943.0
+2722	http://www.pimaschools.org/	Pima Unified School District #6	2008.0	77.0
+2723	https://www.peoriaud.k12.az.us/Pages/Default.aspx	Peoria Unified School District #11 (Peoria)	2011.0	311.0
+2724	http://www.ci.paradise-valley.az.us	Paradise Valley	1998.0	418.0
+2726	http://pinetoplakesideaz.gov/	Larson Memorial Public Library	2013.0	46.0
+2727	http://azdhs.gov/biomedical/	Biomedical Research Commission	2011.0	17.0
+2728	http://ci.snowflake.az.us/	Snowflake	2000.0	353.0
+2729	http://www.nadaburgsd.org/site/default.aspx?PageID=1	Nadaburg Unified School District #81 (Wittmann)	2012.0	9.0
+2730	https://boa.az.gov/	Appraisal, Board of	2014.0	1134.0
+2731	http://www.fthuachuca.k12.az.us/site/default.aspx?PageID=1	Ft Huachuca Accommodation District	2013.0	5.0
+2732	http://www.eagaraz.gov/	Eagar	2010.0	149.0
+2734	http://mohavecountylibrary.info/mohave/	Mohave County Library District	2009.0	143.0
+2735	http://berean-academy.com/	Cochise Community Development Corporation dba Berean (Sierra Vista)	2002.0	28.0
+2736	http://ajoschools.org/	Ajo Unified School District (Ajo)	2001.0	269.0
+2737	http://southmountaincc.edu/	South Mountain Community College (Phoenix)	2002.0	1241.0
+2738	http://www.phxhs.k12.az.us/site/default.aspx?PageID=1	Phoenix Union High School District (Phoenix)	2012.0	27.0
+2740	http://www.chinovalleyschools.com/	Chino Valley Unified School District (Chino Valley)	2012.0	107.0
+2741	http://www.library.pima.gov/locations/bearcanyon/	Kirk-Bear Canyon Branch Library	2007.0	4.0
+2742	http://www.glendaleaz.com/	Glendale	2000.0	903.0
+2743	http://susd.schoolfusion.us/	Scottsdale Unified School District #48 (Scottsdale)	2009.0	4755.0
+2744	http://www.wusd.k12.az.us/	Whiteriver Unified School District	1998.0	93.0
+2745	http://www.co.santa-cruz.az.us/	Santa Cruz County	2002.0	725.0
+2746	http://mcldaz.org	Maricopa County Library District Office	2006.0	1635.0
+2748	http://www.tusd.k12.az.us/	Tucson Unified School District (Tucson)	1997.0	761.0
+2751	http://www.pvschools.net/	Paradise Valley Unified School District #69 (Phoenix)	2002.0	25.0
+2753	http://www.pagepubliclibrary.org/	Page Public Library	2011.0	5.0
+2755	http://www.tubacaz.com	Tubac	1998.0	392.0
+2757	http://www.bonita.k12.az.us/	Bonita Elementary School District #16 (Bonita)	2008.0	301.0
+2758	http://www.fusdaz.org/	Florence Unified School District (Florence)	2009.0	101.0
+2759	http://www.sequoiaschools.org/	Sequoia Schools (Statewide)	2006.0	901.0
+2760	http://www.pineforestschool.com/	Pine Forest Charter School	2002.0	239.0
+2762	http://www.parkerpubliclibraryaz.org	La Paz County Services	2008.0	8.0
+2763	http://pinetoplakesideaz.gov/library.htm	Larson Memorial Public Library	0.0	0.0
+2765	http://qsd4.org/	Quartzsite School District (Ehrenberg)	2007.0	169.0
+2766	http://www.alpinearizona.com/	Alpine	0.0	140.0
+2767	http://www.qcusd.org/	Queen Creek Unified School District	2003.0	366.0
+2768	http://cochise.az.gov/	Cochise County	2008.0	984.0
+2769	http://www.sancarlosbraves.org/	San Carlos Unified School District (San Carlos)	2009.0	58.0
+2770	http://www.creightonschools.org/	Creighton School District (Phoenix)	2005.0	1060.0
+2772	https://www.68.maricopa.edu/	Maricopa County Community Colleges (Tempe)	2013.0	2370.0
+2773	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_ho.aspx	Maricopa County Library - Hollyhock	2006.0	177.0
+2774	http://library.scottsdaleaz.gov	Scottsdale Public Library	2003.0	2.0
+2775	https://www.dysart.org/MainSite/	Dysart Unified School District #89 (El Mirage)	2014.0	3.0
+2776	http://chandlerlibrary.org	Chandler Public Library	2002.0	217.0
+2778	http://www2.gccaz.edu/	Glendale Community College (Glendale)	2005.0	3934.0
+2779	http://www.alhambraesd.org/	Alhambra Elementary School District (Phoenix)	2008.0	476.0
+2781	http://www.kyrene.org/site/default.aspx?PageID=1	Kyrene School District #28 (Tempe)	2013.0	7.0
+2783	http://www.elks.net/	Round Valley Unified District #10 (Eagar/Springerville)	1999.0	67.0
+2784	http://www.co.apache.az.us/	Apache County	1998.0	148.0
+2785	http://www.centralaz.edu/	Central Arizona College (Coolidge)	2002.0	2591.0
+2786	http://www.elfridaschools.org/	Elfrida Elementary School District	2009.0	34.0
+2787	http://www.prescottlibrary.info	Prescott Public Library	2004.0	156.0
+2789	http://www.susd12.org/	Sunnyside Unified School District (Tucson)	2002.0	2956.0
+2790	http://www.superior-arizona.com	Superior	2000.0	84.0
+2791	http://www.congressdistrict.org/	Congress Elementary School District (Congress)	2006.0	757.0
+2792	http://www.ci.avondale.az.us/	Avondale	1998.0	1657.0
+2793	http://www.pimalibrary.org	Pima Public Library	2001.0	0.0
+2794	http://www.patagoniapubliclibrary.org	Patagonia Public Library	2003.0	78.0
+2795	http://www.library.pima.gov/locations/marthacooper/	Martha Cooper Branch Library	2007.0	3.0
+2796	http://www.co.apache.az.us/Departments/Superior/Superior.htm	Apache County Superior Court	2008.0	2.0
+2797	http://www.tontobasinlibrary.com/	Tonto Basin Public Library	2010.0	11.0
+2798	http://www.madisonaz.org/	Madison School District #38 (Phoenix)	2012.0	2276.0
+2799	http://catalog.gila.lib.az.us	Gila County Library District	2011.0	73.0
+2800	https://www.tuhsd.k12.az.us/index.php	Tempe Union High School District (Tempe)	2011.0	1428.0
+2802	http://www.sc.pima.gov/	Pima County Superior Court	2003.0	7.0
+2803	http://www.mcldaz.org/library/userdef/branches/ud_mcld_branch_gi.aspx	Maricopa County Library - Perry	2006.0	177.0
+2804	http://www.jeromechamber.com	Jerome	1998.0	107.0
+2805	http://www.clarkdale.az.us	Clarkdale	0.0	71.0
+2806	http://www.chandleraz.gov	Chandler	2003.0	1325.0
+2807	http://www.arizonaguide.com/	Arizona Guide	1996.0	5669.0
+2808	http://www.globeschools.org/	Globe Unified School District #1 (Globe)	2007.0	838.0
+2809	http://www.library.pima.gov/locations/nanini/	Nanini Branch Library	2007.0	3.0
+2810	http://www.tuhsd.org/	Tolleson Union High School District (Tolleson)	2001.0	324.0

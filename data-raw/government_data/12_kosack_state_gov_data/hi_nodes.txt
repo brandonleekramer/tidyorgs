@@ -1,0 +1,235 @@
+NodeId	NodeURL	NodeName	Year	pages
+16922	http://konawaenael.k12.hi.us/	Konawaena El School	2012.0	25.0
+16924	http://www.kaumualii.k12.hi.us/king.html	Kaumualii El School	2000.0	173.0
+16925	http://naalehuel.k12.hi.us	Naalehu El School	1997.0	16.0
+16926	http://macsa.k12.hi.us/index.html	MCSA-Moanalua Campus School	2009.0	23.0
+16928	http://kealakeheint.k12.hi.us/	Kealakehe Int School	2005.0	0.0
+16930	http://kapalamael.k12.hi.us	Kapalama El School	2011.0	10.0
+16931	http://www.hawaiipublicschools.org/Pages/home.aspx	Education (DOE), Department of	2013.0	501.0
+16933	http://www.milmauka.k12.hi.us	Mililani Mauka El School	2011.0	43.0
+16934	http://www.kawaihonapcs.org/	Ka Waihona o ka Na'auao NCPCS School	2004.0	549.0
+16935	http://kailuahs.k12.hi.us	Kailua High School	1997.0	56.0
+16936	http://ag.hawaii.gov	Attorney General (AG), Department of	2013.0	425.0
+16938	http://www.nuuanu.k12.hi.us/	Nuuanu El School	1998.0	43.0
+16940	https://sites.google.com/a/washingtonms.k12.hi.us/washington-middle-school-2/	Washington Middle School	0.0	64.0
+16941	http://waikoloa.k12.hi.us	Waikoloa El & Middle School	1996.0	0.0
+16942	http://www.moanaluamiddle.org/	Moanalua Middle School	2009.0	681.0
+16943	http://www.desilva.k12.hi.us	de Silva El School	2013.0	39.0
+16944	http://www.keoneulaes.org/	Keoneula El School	2011.0	661.0
+16945	http://www.nanaikapono.k12.hi.us	Nanaikapono El School	2007.0	488.0
+16946	http://www.king.k12.hi.us	King Int School	2011.0	42.0
+16947	http://manoa.hawaii.edu/	University of Hawaii at Manoa	2003.0	2702.0
+16948	http://paloloelementary.k12.hi.us	Palolo El School	2012.0	43.0
+16949	http://health.hawaii.gov	Health (DOH), Department of	2013.0	962.0
+16951	http://www.kaleiopuuel.com/	Kaleiopuu El School	2014.0	372.0
+16952	http://www.keaukaha.k12.hi.us	Keaukaha El School	2009.0	51.0
+16953	http://www.leeward.hawaii.edu/	Leeward Community College	2002.0	739.0
+16954	http://www.milwaena.k12.hi.us	Mililani Waena El School	2011.0	692.0
+16955	http://www.hawaiicounty.gov	Attached Agencies	2011.0	215.0
+16956	http://www.waikele.k12.hi.us	Waikele El School	2000.0	28.0
+16957	http://www.mckinley.k12.hi.us	McKinley High School	1997.0	43.0
+16959	http://www.kaumeke.org/	Ka 'Umeke Ka'eo PCS School	2008.0	9.0
+16960	http://www.hawaii.hawaii.edu/	Hawaii Community College	2003.0	48.0
+16962	http://aikahi.net	Aikahi El School	2006.0	48.0
+16963	http://mokapu.k12.hi.us	Mokapu El School	2009.0	659.0
+16964	http://www.co.maui.hi.us/	County of Maui	2000.0	2432.0
+16965	http://pomaikai.k12.hi.us	Pomaikai El School	2010.0	20.0
+16966	http://www.waimeaelementary.k12.hi.us/index.html/	Waimea El School	2013.0	18.0
+16968	http://kalanianaole.k12.hi.us	Kalanianaole El & Int School	2011.0	3.0
+16969	http://www.aieahs.org/	Aiea High School	2008.0	1177.0
+16970	http://mes.k12.hi.us	Maunawili El School	2011.0	2.0
+16971	http://www.waialae.edu	Waialae El PCS School	2001.0	237.0
+16972	http://wes.k12.hi.us/	Wahiawa El School	2004.0	2.0
+16974	http://whea.net/planetwhea/	West Hawaii Explorations PCS School	2012.0	73.0
+16975	http://kokoheadschool.org	Koko Head El School	2011.0	45.0
+16976	http://www.edline.net/pages/mililani_high_school	Mililani High School	2010.0	62.0
+16977	http://kingkam.k12.hi.us	Kamehameha III El School	2011.0	481.0
+16978	http://liholiho.k12.hi.us	Liholiho El School	2000.0	1.0
+16979	http://www.eleeleschool.com/	Eleele El School	2002.0	550.0
+16980	http://www.waipahucs.k12.hi.us	Waipahu Community School (WCSA) School	2000.0	6.0
+16981	http://kapaahighschool.net	Kapaa High School	2011.0	542.0
+16984	http://farringtonhighschool.org	Farrington High School	2004.0	0.0
+16986	http://wesroyals.com/	Waiakea El School	2011.0	86.0
+16987	http://www.leilehua.k12.hi.us/	Leilehua High School	1997.0	4.0
+16988	http://www.kawananakoa.k12.hi.us	Kawananakoa Middle School	2001.0	29.0
+16991	http://www.ckms.k12.hi.us	Kamakahelei Middle School	2003.0	0.0
+16992	http://www.wheeler.k12.hi.us	Wheeler El School	1998.0	12.0
+16993	http://dhrd.hawaii.gov	Human Resources Development (DHRD), Department of	2013.0	192.0
+16994	http://www.kalaheoschool.com	Kalaheo El School	2010.0	25.0
+16998	http://www.eastwestcenter.org	Attached Agencies	2000.0	1952.0
+16999	http://kau.k12.hi.us	Kau High & Pahala El School	2012.0	8.0
+17001	http://www.kapaa.k12.hi.us	Kapaa El School	2000.0	24.0
+17002	http://kalihiwaena.com	Kalihi Waena El School	2011.0	1707.0
+17003	http://hawaii.sdp.sirsi.net/client/default/	Hawaii State Public Library System	0.0	1020.0
+17004	http://kanuikapono.org/	Kanuikapono PCS School	2003.0	141.0
+17006	http://pearlrid.k12.hi.us	Pearl Ridge El School	2011.0	59.0
+17007	http://tax.hawaii.gov	Taxation, Department of	2013.0	116.0
+17008	http://www.kanoelani.k12.hi.us	Kanoelani El School	2000.0	1.0
+17009	http://www.kohalams.org/	Kohala Middle School	0.0	406.0
+17010	http://www.ipcs.info/	Innovations PCS School	2001.0	1150.0
+17011	http://ewael.k12.hi.us	Ewa El School	2006.0	1.0
+17015	http://www.kalihiuka.k12.hi.us/	Kalihi Uka El School	2001.0	11.0
+17016	http://dod.hawaii.gov	Defense (DOD), Department of	1996.0	390.0
+17018	http://www.kalakauamiddle.org/	Kalakaua Middle School	2011.0	661.0
+17019	http://www.lanikaielementary.com/	Lanikai El PCS School	2003.0	1077.0
+17020	http://www.kaimiloa.k12.hi.us	Kaimiloa El School	2001.0	2.0
+17021	http://www.kapoleielementary.org/	Kapolei El School	2013.0	137.0
+17022	http://oimt.hawaii.gov	Information Management & Technology (OIMT), Office of	2013.0	290.0
+17023	http://www.pearlharborelementary.org/	Pearl Harbor El School	0.0	1035.0
+17024	http://www.kaimukimiddle.org/	Kaimuki Middle School	2011.0	897.0
+17025	http://www.edline.net/pages/Kahuku_High_And_Intermediate	Kahuku High & Int School	2012.0	235.0
+17026	http://www.solomon.k12.hi.us	Solomon El School	2006.0	24.0
+17027	http://www.wheelm.k12.hi.us	Wheeler Middle School	2000.0	3.0
+17028	http://www.hauulaelementary.org/	Hauula El School	0.0	430.0
+17029	http://hahaione.k12.hi.us	Hahaione El School	2006.0	24.0
+17030	http://www.kauai.gov/	County of Kaua'i	2005.0	2113.0
+17031	http://jrredraiders.k12.hi.us	Kahuku El School	2011.0	124.0
+17033	http://www.kaimukihs.org/	Kaimuki High School	2011.0	640.0
+17034	http://windward.hawaii.edu/	Windward Community College	2003.0	32.0
+17035	http://www.courts.state.hi.us	Attached Agencies	2002.0	1126.0
+17038	http://www.mauihigh.org	Maui High School	2009.0	1258.0
+17039	http://www.waialuael.k12.hi.us	Waialua El School	2000.0	5.0
+17040	http://www.kuhio.k12.hi.us	Kuhio El School	2013.0	3.0
+17041	http://wailuku.k12.hi.us/index.html	Wailuku El School	2012.0	12.0
+17043	http://www.waiau.k12.hi.us/waiau/welcome.html	Waiau El School	2010.0	1.0
+17044	http://wilsonschoolhawaii.org	Wilson El School	2009.0	2.0
+17045	http://www.kawaikini.com	Kawaikini NCPCS School	2004.0	703.0
+17047	http://governor.hawaii.gov	Governor, Office of the	2012.0	589.0
+17048	http://www.highlands.k12.hi.us/info/	Highlands Int School	0.0	0.0
+17050	http://www.momilani.k12.hi.us	Momilani El School	2013.0	2.0
+17052	http://www.connectionscharterschool.org/	Connections NCPCS School	2002.0	110.0
+17054	http://www.hanalei.k12.hi.us	Hanalei El School	1998.0	0.0
+17055	http://www.edline.net/pages/mauka_lani_elementary_school	Mauka Lani El School	2012.0	26.0
+17057	http://aieaint.k12.hi.us	Aiea Int School	2013.0	9.0
+17059	http://www.honolulu.gov/	City & County of Honolulu	0.0	864.0
+17060	http://www.kekaha.k12.hi.us	Kekaha El School	2000.0	3.0
+17062	http://www.waiakeaw.k12.hi.us	Waiakeawaena El School	2003.0	54.0
+17064	http://www.kanakapcs.org/	Kula Aupuni Niihau A Kahelelani Aloha School	2011.0	9.0
+17065	http://www.kamakau.com	Ke Kula O Kamakau Lab PCS School	2007.0	308.0
+17066	http://www.hickam.k12.hi.us	Hickam El School	1998.0	51.0
+17070	http://www.makalapael.k12.hi.us/	Makalapa El School	2011.0	10.0
+17071	http://www.konawaenahs.org	Konawaena High School	2003.0	22.0
+17076	http://hidot.hawaii.gov	Transportation (DOT), Department of	2013.0	433.0
+17077	http://teacherweb.com/HI/KahaluuElementary/schoolhomepage/SDHP1.stm	Kahaluu El School	2009.0	35.0
+17078	http://www.alvahscott.org	Scott El School	0.0	494.0
+17080	http://www.htsb.org/	Teacher Standards Board (HTSB), Hawaii	2001.0	80.0
+17081	https://sites.google.com/site/centralmiddleschoolhonolulu/	Central Middle School	2011.0	53.0
+17082	http://www.kuaokala.org/	Kua O Ka La PCS School	2009.0	35.0
+17083	http://www.k12.com/hta	Hawaii Tech Acad PCS School	2008.0	4.0
+17085	http://www.kualapuu.k12.hi.us/	Kualapuu El NCPCCS School	2002.0	16.0
+17086	http://lehua.k12.hi.us	Lehua El School	2013.0	2.0
+17087	http://www.saltlake.k12.hi.us/	Salt Lake El School	0.0	136.0
+17089	http://www.edline.net/pages/hilo_intermediate_school	Hilo Int School	2012.0	9.0
+17090	http://mcsa.k12.hi.us	McKinley Community School (MCSA) School	2003.0	9.0
+17091	http://labor.hawaii.gov	Labor & Industrial Relations (DLIR), Department of	2013.0	539.0
+17094	http://castlehs.k12.hi.us	Castle High School	2003.0	109.0
+17095	http://hdoa.hawaii.gov	Agriculture (HDOA), Department of	2013.0	277.0
+17097	https://sites.google.com/a/ahrenses.k12.hi.us/augustahrens/	August Ahrens El School	0.0	15.0
+17099	http://www.hsdb.k12.hi.us/	Hawaii School for the Deaf and Blind School	2009.0	34.0
+17100	http://www.puukukui.k12.hi.us	Puu Kukui El School	2013.0	18.0
+17101	http://www.halaukumana.org/	Halau Ku Mana NCPCS School	2004.0	383.0
+17102	http://barbers.k12.hi.us	Barbers Point El School	2011.0	41.0
+17103	http://www.qkes.us/	Kaahumanu El School	2009.0	1.0
+17106	http://dbedt.hawaii.gov/	Business Economic Development & Tourism (DBEDT), Department of	1997.0	444.0
+17107	http://www.edline.net/pages/wahiawa_middle_school	Wahiawa Middle School	2013.0	17.0
+17108	http://www.hilohs.k12.hi.us	Hilo High School	2002.0	0.0
+17109	http://www.pches.org	Pearl City Highlands El School	0.0	258.0
+17111	http://www.kapoleihigh.org/	Kapolei High School	2014.0	1270.0
+17112	http://www.kapunahala.k12.hi.us	Kapunahala El School	2011.0	35.0
+17114	http://www.winsa.k12.hi.us	WCSA-Windward Campus School	2003.0	21.0
+17116	http://sbes.k12.hi.us	Sunset Beach El School	2011.0	3.0
+17118	http://pearlkai.k12.hi.us	Pearl Harbor Kai El School	2011.0	26.0
+17119	http://www.makawao.k12.hi.us	Makawao El School	2011.0	26.0
+17120	http://waimeacanyonmiddleschool.us	Waimea Canyon Middle School	2013.0	3.0
+17122	http://www.khswaveriders.org/	Kealakehe High School	2009.0	1216.0
+17123	http://www.keaau.k12.hi.us	Keaau El School	0.0	91.0
+17124	http://kailuain.k12.hi.us	Kailua Int School	2006.0	4.0
+17125	http://kaleoowaianae.weebly.com/	Waianae High School	2014.0	179.0
+17126	http://www.kppcs.org	Kona Pacific PCS School	2007.0	33.0
+17127	http://www.edline.net/pages/waialua_high	Waialua High & Int School	2012.0	0.0
+17128	http://ags.hawaii.gov	Accounting & General Services (DAGS), Department of	2012.0	663.0
+17129	http://waipahue.k12.hi.us	Waipahu El School	2012.0	79.0
+17130	http://www.waimeamiddleschool.org/	Waimea Middle PCCS School	2009.0	323.0
+17132	http://www.pearlcityelementary.org/	Pearl City El School	0.0	0.0
+17133	http://www.kohalael.k12.hi.us/home.nsf	Kohala El School	2001.0	22.0
+17134	http://dps.hawaii.gov	Public Safety (DPS), Department of	2012.0	149.0
+17135	http://waianaeint.k12.hi.us	Waianae Int School	2006.0	467.0
+17136	http://www.volcanoschool.org/hawaii/	Volcano Sch Art/Sci PCS School	2010.0	1.0
+17138	http://iroquois.k12.hi.us	Iroquois Point El School	2011.0	491.0
+17140	http://www.kiheielementary.org	Kihei El School	0.0	406.0
+17143	http://www.holualoa.k12.hi.us/	Holualoa El School	2002.0	33.0
+17145	http://www.mauiwaena.com	Maui Waena Int School	2010.0	0.0
+17146	http://www.ethompson.org/	Myron Thompson Acad NCPCS School	2001.0	36.0
+17147	http://www.manana.k12.hi.us	Manana El School	2011.0	75.0
+17148	http://www.kalaheohigh.org/	Kalaheo High School	2009.0	791.0
+17149	http://www.oha.org	Hawaiian Affairs (OHA), Office of	1998.0	380.0
+17150	http://jeffersonsurfers.k12.hi.us	Jefferson El School	2011.0	188.0
+17151	http://kauai.hawaii.edu/	Kauai Community College	2003.0	128.0
+17152	http://waiakeaint.k12.hi.us	Waiakea Int School	2010.0	1.0
+17153	http://koloa.k12.hi.us/	Koloa El School	2011.0	23.0
+17154	http://www.hpbaldwin.k12.hi.us/	Baldwin High School	2011.0	55.0
+17155	http://cca.hawaii.gov	Commerce & Consumer Affairs (DCCA), Department of	2013.0	2107.0
+17156	http://www.macsa.k12.hi.us/kauaics/kcs.html	MCSA-Kauai Campus School	2013.0	5.0
+17157	http://wilcox.k12.hi.us	Wilcox El School	2001.0	0.0
+17158	http://www.kainaluonline.net/	Kainalu El School	2007.0	16.0
+17159	http://www.ainahaina.k12.hi.us	Aina Haina El School	2010.0	11.0
+17161	http://haaspcs.org/	Hawaii Academy of Arts & Science PCS School	2009.0	51.0
+17162	http://www.linapuniel.k12.hi.us	Linapuni El School	0.0	1.0
+17166	http://kaelepul.k12.hi.us	Kaelepulu El School	2011.0	15.0
+17167	http://kanu.kalo.org/	Kanu o ka Aina NCPCS School	2007.0	271.0
+17169	http://www.nhis.k12.hi.us	Nanakuli High & Int School	2004.0	0.0
+17171	http://www.ewabeachelementary.org/	Ewa Beach El School	2013.0	383.0
+17172	http://kohalahs.k12.hi.us/	Kohala High School	2002.0	17.0
+17177	http://kauluwela.k12.hi.us/home.nsf	Kauluwela El School	2001.0	0.0
+17178	http://voyagerschool.com/	Voyager PCS School	2001.0	238.0
+17179	http://www.kaala.k12.hi.us	Kaala El School	2001.0	1.0
+17180	http://hilo.hawaii.edu/	University of Hawaii at Hilo	2003.0	4485.0
+17181	https://sites.google.com/a/ahuimanu.k12.hi.us/ahuimanu-school/home	Ahuimanu El School	0.0	71.0
+17182	http://ltgov.hawaii.gov	Lieutenant Governor, Office of the	2012.0	258.0
+17184	http://www.aliamanumiddle.com/	Aliamanu Middle School	2013.0	542.0
+17185	http://www.honokaael.k12.hi.us	Honokaa El School	2009.0	86.0
+17186	http://maui.hawaii.edu/	University of Hawaii Maui College	2004.0	842.0
+17188	http://www.kahalaelementary.org/	Kahala El School	2011.0	711.0
+17189	http://www.weblingpueo.org/	Webling El School	0.0	571.0
+17193	http://www.capitol.hawaii.gov/	Legislature, Hawaii State	0.0	129491.0
+17194	http://lunalilo.k12.hi.us	Lunalilo El School	2000.0	10.0
+17195	http://www.niuvalleymiddle.org/	Niu Valley Middle School	2009.0	483.0
+17199	http://humanservices.hawaii.gov	Human Services (DHS), Department of	2013.0	232.0
+17200	http://www.waipahuintermediate.org	Waipahu Int School	2011.0	0.0
+17201	http://lanakilaelem.k12.hi.us/	Lanakila El School	2010.0	34.0
+17202	http://www.laupahoehoecharterschool.com/	Laupahoehoe Community PCS School	2011.0	409.0
+17203	http://iao.k12.hi.us	Iao Int School	2011.0	19.0
+17204	http://www.halekula.k12.hi.us	Hale Kula El School	2002.0	0.0
+17206	http://dhhl.hawaii.gov	Hawaiian Home Lands (DHHL), Department of	2008.0	4527.0
+17207	http://kaaawa.k12.hi.us	Kaaawa El School	2012.0	38.0
+17208	http://www.campbellhigh.org/	Campbell High School	2009.0	2041.0
+17211	http://www.haleiwa.k12.hi.us/site3/	Haleiwa El School	2013.0	14.0
+17213	https://sites.google.com/site/bpespueo/home	Pope El School	2012.0	43.0
+17214	http://www.holomua.k12.hi.us	Holomua El School	2000.0	76.0
+17215	http://budget.hawaii.gov	Budget & Finance (B&F), Department of	2013.0	130.0
+17216	http://www.mililaniuka.org	Mililani Uka El School	2008.0	591.0
+17218	https://portal.ehawaii.gov/	State Government	2011.0	323.0
+17219	http://mokulele.k12.hi.us	Mokulele El School	2012.0	24.0
+17222	http://honowai.org/	Honowai El School	2012.0	24.0
+17226	http://puohala.k12.hi.us	Puohala El School	2012.0	24.0
+17227	http://www.noelani.k12.hi.us	Noelani El School	1999.0	2.0
+17230	http://www2.honolulu.hawaii.edu/	Honolulu Community College	2003.0	685.0
+17231	http://www.uhwo.hawaii.edu/	University of Hawaii West Oahu	1996.0	406.0
+17232	http://fern.k12.hi.us	Fern El School	2001.0	25.0
+17233	http://www.edline.net/pages/Waipahu_High_School	Waipahu High School	2012.0	25.0
+17234	http://www.pohakea.k12.hi.us/pohakea_elementary_school/home.html	Pohakea El School	2011.0	3.0
+17235	http://www.helemano.k12.hi.us	Helemano El School	2005.0	14.0
+17238	http://www.kiheicharter.org	Kihei PC High School School	2007.0	34.0
+17239	http://kalihi.k12.hi.us	Kalihi El School	2000.0	141.0
+17240	http://waiakeahigh.k12.hi.us	Waiakea High School	2000.0	710.0
+17242	http://waimalu.k12.hi.us	Waimalu El School	2013.0	23.0
+17246	http://www.edline.net/pages/Kalani_High_School	Kalani High School	2010.0	14.0
+17247	http://waihee.k12.hi.us	Waihee El School	2012.0	3.0
+17248	http://www.aliiolani.k12.hi.us/	Aliiolani El School	2006.0	6.0
+17249	http://nawahi.org/	Ke Kula Nawahiokalaniopuu Iki Lab PCS School	2009.0	79.0
+17250	http://www2.kapoleims.k12.hi.us	Kapolei Middle School	2000.0	103.0
+17251	http://kailuaonline.net/	Kailua El School	2007.0	0.0
+17252	http://home.anuenue.org/	Anuenue School	2014.0	22.0
+17253	http://www.milike.k12.hi.us	Mililani Ike El School	2010.0	10.0
+17254	http://www.redhillelementary.org	Red Hill El School	0.0	352.0
+17255	http://honaunau.k12.hi.us	Honaunau El School	2011.0	1.0

@@ -1,0 +1,676 @@
+NodeId	NodeURL	NodeName	Year	pages
+36552	http://www.nh.gov/oep/data-center/	State Data Center	2013.0	18.0
+36553	http://www.orcsd.org/	Oyster River Cooperative School District	2000.0	552.0
+36555	http://admin.state.nh.us/purchasing/publicworks/pwindex.asp	Bureau of Public Works	2006.0	12.0
+36556	http://www.nh.gov/gsc/	Gaming Study Commission	2009.0	9.0
+36558	http://www.nh.gov/banking/	Banking Commission	2004.0	21.0
+36559	http://www.canaanlibrary.org	Canaan Town Library	2006.0	48.0
+36560	http://www.nh.gov/podiatry/	Podiatry, Board of Registration in	2004.0	12.0
+36561	http://chesterfieldlibrary.org/	Chesterfield Public Library	2003.0	130.0
+36562	http://www.wentworth-nh.org/	Wentworth	2002.0	28.0
+36563	https://sites.google.com/a/jacksongrammar.org/home/	Jackson Grammar School	2010.0	50.0
+36564	http://www.gilfordlibrary.org/gpl/	Gilford Public Library	2006.0	225.0
+36565	http://www.inter-lakes.k12.nh.us/	Inter-Lakes Cooperative School District	1997.0	278.0
+36566	http://www.rollinsford.nh.us/	Rollinsford	2000.0	33.0
+36567	http://www.lebnh.net/	Lebanon	2010.0	570.0
+36568	http://www.chesterlibrary.com	Chester Public Library	2009.0	2.0
+36569	http://www.hooksettlibrary.org	Hooksett Public Library	2008.0	564.0
+36571	http://sms.sau16.org/	Stratham Memorial School	2006.0	93.0
+36572	http://www.hopkintontownlibrary.org	Hopkinton Town Library	2001.0	24.0
+36573	http://orfordnh.us/	Orford	2003.0	37.0
+36576	http://www.derry-nh.org/pages/derrynh_publichealth/index	Greater Derry Regional Public Health Network	2012.0	31.0
+36577	http://www.canaannh.org/	Canaan	2011.0	47.0
+36578	http://newdurhamlibrary.org/joomla/	New Durham Public Library	2009.0	24.0
+36581	http://highschool.shaker.k12.nh.us/	Belmont High School	2003.0	9.0
+36582	http://www.sau41.org/	Hollis - Brookline Cooperative School District	2009.0	1033.0
+36583	http://www.northhampton-nh.gov	North Hampton	2004.0	198.0
+36584	http://www.nh.gov/safety/divisions/fstems/ems/	Emergency Medical Services Bureau	2006.0	38.0
+36585	http://www.nhrs.org/	Retirement System	2003.0	292.0
+36586	http://townofdublin.org/	Dublin	2002.0	316.0
+36587	http://www.centerharbornh.org/	Center Harbor	2003.0	34.0
+36588	http://www.townofsurry.org/	Surry	2008.0	22.0
+36589	http://www.unh.edu/	University of New Hampshire	1997.0	4080.0
+36590	http://admin.state.nh.us/purchasing/	Bureau of Purchase and Property	2002.0	56.0
+36592	http://nottingham.k12.nh.us/	Nottingham School	1998.0	129.0
+36593	http://www.hampton.lib.nh.us	Lane Memorial Library	1998.0	2747.0
+36594	http://www.alton.nh.gov/library.asp	Gilman Library	2005.0	174.0
+36595	http://www.bghs.org/	Bishop Guertin High School	1998.0	229.0
+36596	http://www.kimballlibrary.com/kimball/	Kimball Library	2010.0	470.0
+36597	http://www.nhlottery.com/	Lottery Commission	2004.0	298.0
+36598	http://www.sau88.net/	Lebanon School District	2007.0	183.0
+36599	http://www.sau50.org/	New Castle School District	2008.0	233.0
+36600	http://www.belmontpubliclibrary.org/belmont/	Belmont Public Library	2012.0	832.0
+36601	http://www.milton.k12.nh.us	Nute Library	2000.0	10.0
+36602	http://www.nh.gov/readynh/	Ready NH	2010.0	11.0
+36603	http://rms.hanovernorwichschools.org/	Frances Richmond Middle School	2013.0	40.0
+36604	http://www.nh.gov/dot/org/operations/turnpikes/ezpass/	E-ZPass Program	2010.0	3.0
+36605	http://www.nh.gov/nhmhb/	Manufactured Housing Board	2004.0	11.0
+36606	http://admin.state.nh.us/budget/	Budget Office	2002.0	12.0
+36607	http://www.nottingham-nh.gov/	Nottingham	2006.0	76.0
+36608	http://goodwinch.org/	Strafford County Regional Public Health Network	2011.0	155.0
+36609	http://homepages.sover.net/~townoff/index.html	Acworth	2010.0	8.0
+36610	http://www.dhhs.nh.gov/oos/blc/naturopath/index.htm	Naturopathic Examiners Board	2011.0	3.0
+36611	http://www.haverhill-nh.com/	Haverhill	2008.0	544.0
+36612	http://www.sau9.org/	Conway School District	2002.0	194.0
+36613	http://www.lincoln.lib.nh.us	Lincoln Public Library	2001.0	22.0
+36616	http://www.meredithlibrary.org	Meredith Public Library	2008.0	45.0
+36617	http://www.nh.gov/safety/commissioner/index.html	Safety Department	2005.0	8.0
+36618	http://www.plymouth.edu/	Plymouth State University	1997.0	2396.0
+36619	http://www.town.rye.nh.us/	Rye	2003.0	187.0
+36620	http://www.nh.gov/safety/commissioner/tramway/index.html	Tramway and/ Amusement Ride Safety	2012.0	5.0
+36621	http://www.cityoflaconianh.org/	Laconia	1999.0	961.0
+36622	http://www.alexandrianh.com/	Alexandria	2000.0	40.0
+36623	http://doj.nh.gov/ethics-committee/	Executive Branch Ethics Committee	2011.0	8.0
+36624	http://www.townofbristolnh.org/	Bristol	2006.0	100.0
+36625	http://rollinsfordlibrary.org	Rollinsford Public Library	2009.0	16.0
+36626	http://www.sau83.org/	Fremont	2007.0	256.0
+36627	http://www.tuckerfreelibrary.org	Tucker Free Library	2006.0	101.0
+36629	http://www.lymenh.gov/	Lyme	2004.0	84.0
+36631	http://www.nh.gov/boxing/	Boxing and Wrestling Commission	2005.0	10.0
+36632	http://www.nh.gov/hsafety/	Highway Safety Agency	2004.0	9.0
+36633	http://www.weare.nh.gov/	Weare	2004.0	1822.0
+36634	http://wes.sau48.org/	Wentworth Elementary School	2010.0	8.0
+36635	http://www.trinity-hs.org/	Trinity High School	1999.0	52.0
+36636	http://www.nhcdfa.org/	Community Development Finance Authority	1998.0	241.0
+36637	http://www.hooksett.org/	Hooksett	2000.0	730.0
+36638	http://www.cityofportsmouth.com/school/index.htm	Portsmouth School Department	2001.0	26.0
+36639	http://www.nh.gov/dot/programs/bikeped/	Bicycle/Pedestrian Information Center	2010.0	10.0
+36640	http://www.greenvillenh.org/	Greenville	2005.0	6.0
+36641	http://www.sau53.org/pembroke.htm	Pembroke School District	2007.0	3.0
+36642	http://www.nh.gov/safety/	Safety Department	2004.0	142.0
+36643	http://www.nh.gov/consumer/	NH Consumer Education Partnership	2011.0	10.0
+36644	http://www.springfieldnh.net/	Springfield	2007.0	1044.0
+36646	http://www.colebrook.k12.nh.us/	Colebrook School District	1998.0	2.0
+36647	http://www.co.cheshire.nh.us/	Cheshire County	1999.0	5.0
+36648	http://www.visitnh.gov	Travel and Tourism Development	1996.0	336.0
+36649	http://www.salem.lib.nh.us	Kelley Library	1998.0	36.0
+36650	http://sau53.org/allenstown.htm	Allenstown School District	2007.0	239.0
+36651	http://www.sau47.org/	Jaffrey-Rindge Cooperative School District	2011.0	146.0
+36652	http://www.loudonnh.org/	Loudon	2002.0	12.0
+36653	http://www.nl-nh.com/	New London	2002.0	683.0
+36654	http://elkinspubliclibrary.org	Elkins Library	2011.0	1.0
+36655	http://www.co.grafton.nh.us	Grafton County	2010.0	93.0
+36656	http://www.sau.mascenic.org/	Mascenic Regional School District	2009.0	1827.0
+36657	http://amherstnh.gov/	Amherst	2004.0	172.0
+36658	http://www.dunbartonnh.org/	Dunbarton	2002.0	365.0
+36659	http://hillpubliclibrary.com/	Hill Public Library	2010.0	101.0
+36660	http://whipplefreelibrary.org/	Whipple Free Library	2003.0	139.0
+36661	http://www.richmond.nh.gov/	Richmond	2008.0	367.0
+36662	http://www.leenh.org/Pages/LeeNH_Library/index	Lee Public Library	2009.0	49.0
+36663	http://www.starhop.com/	McAuliffe-Shepard Discovery Center	1999.0	72.0
+36664	http://www.nh.gov/safety/divisions/nhsp/fob/marine-patrol/boating-education/index.html	Boating Education Program	2012.0	6.0
+36665	http://www.manchester.lib.nh.us	Manchester City Library	1998.0	85.0
+36666	http://smythpl.org/	Smyth Public Library	2001.0	24.0
+36667	http://www.chichesternh.org/	Chichester	2002.0	192.0
+36668	http://www.cmf.org/	Crotched Mountain Foundation	1996.0	435.0
+36669	http://www.eatonnh.org/	Eaton	2005.0	119.0
+36670	http://sharonnh.org/	Sharon	2002.0	37.0
+36671	http://monroenh.org/	Monroe	2013.0	9.0
+36672	http://ryepubliclibrary.org/	Rye Public Library	2007.0	447.0
+36673	http://www.nh.gov/insurance/	Insurance Department	2003.0	32.0
+36674	http://www.dover.k12.nh.us/education/district/district.php?sectionid=1	Dover School District	2008.0	3.0
+36675	http://www.nh.gov/humane/	Humane Treatment of Animals, Governor's Task Force on the	2006.0	12.0
+36677	http://www.franklin.k12.nh.us/jennieblakeelementary.cfm	Jennie D. Blake Elementary School	2005.0	1559.0
+36679	http://www.nh.gov/liquor/	Liquor Commission	2003.0	37.0
+36680	http://www.bow.k12.nh.us/bhs/	Bow High School	1998.0	37.0
+36681	http://www.pelhamsd.org/site/default.aspx?PageID=1	Pelham School District	2013.0	16.0
+36682	http://www.nhsvc.com/	NH Veterans Cemetery	2008.0	434.0
+36683	http://www.sau56.org/	Rollinsford School District	2002.0	116.0
+36684	http://www.ci.dover.nh.us/	Dover	1997.0	440.0
+36685	http://www.warner.nh.us/	Warner	1997.0	84.0
+36686	http://www.manchesternh.gov/departments/publicschools/administration/tabid/1705/default.aspx/central	Manchester School District - Central High School	0.0	1.0
+36687	http://www.londonderrynh.org/	Londonderry	2005.0	279.0
+36688	http://des.nh.gov/organization/divisions/water/wmb/coastal/	Coastal Program	2009.0	30.0
+36689	http://www.northwood.k12.nh.us/	Northwood School	2000.0	244.0
+36690	http://www.webster-nh.gov/pages/index	Webster	2009.0	154.0
+36691	http://www.nh.gov/oep/energy/programs/weatherization/	Weatherization Assistance Program	2013.0	6.0
+36693	http://www.townofbennington.com/	Bennington	2002.0	54.0
+36694	http://www.new-boston.nh.us/	New Boston	1998.0	686.0
+36695	http://www.nh.gov/optometry/	Optometry, Board of Registration in	2004.0	13.0
+36696	http://www.allenstown.org/	Allenstown	2001.0	2104.0
+36697	http://www.ccsnh.edu/	Community College System of NH	2007.0	552.0
+36698	http://www.pembroke-nh.com/	Pembroke	1997.0	257.0
+36699	http://www.holderness-nh.gov/	Holderness	2003.0	139.0
+36700	http://www.peasedev.org/	Pease Development Authority	1997.0	34.0
+36701	http://www.tuftonborolibrary.org/tboro/	Tuftonboro Free Library	2007.0	115.0
+36702	http://townofdanville.org/library/	Colby Memorial Library	2007.0	2.0
+36703	http://www.belmontnh.org/	Belmont	2001.0	137.0
+36704	http://www.dublinschool.org/	Dublin School	1997.0	894.0
+36705	http://www.sau24.org/	John Stark Regional School District	2004.0	1487.0
+36706	http://www.jacksonvillage.net/	Jackson	2003.0	137.0
+36707	http://www.keenepubliclibrary.org	Keene Public Library	2008.0	1033.0
+36708	http://www.nhti.edu/	NHTI	2002.0	1678.0
+36709	http://www.lisbon.k12.nh.us/	Lisbon Regional School District	2001.0	23.0
+36710	http://www.nh.gov/safety/divisions/emergservices/nh911/	911	2006.0	26.0
+36712	http://www.nh.gov/funeral/	Funeral Directors and Embalmers Board of Registration	2003.0	11.0
+36713	http://www.keenenh.com/default.asp	Harrisville Public Library	2009.0	75.0
+36714	http://www.fremont.nh.gov/	Fremont	2003.0	186.0
+36715	http://www.candianh.org/	Candia	2007.0	50.0
+36717	http://web.sau17.org/	Sanborn Regional School District	2010.0	317.0
+36718	http://co.strafford.nh.us/	Strafford County	2001.0	104.0
+36719	http://www.hooksett.k12.nh.us/	Hooksett School District	2001.0	1.0
+36720	http://www.bownet.org/	Bow School District	2000.0	76.0
+36721	http://www.pmhschool.com/	Prospect Mountain High School	2003.0	122.0
+36722	http://www.pmaschool.org/joomla1/	Presentation of Mary Academy	2012.0	0.0
+36723	http://teacherweb.com/nh/newbostoncentralschool/schoolhomepage/sdhp1.aspx	New Boston Central School	2009.0	43.0
+36724	http://www.nh.gov/alliedhealth/	Licensed Allied Health Professionals Office	2005.0	45.0
+36725	http://www.nhhfa.org	Housing Finance Authority	1998.0	309.0
+36726	http://www.nashuanh.gov/	Nashua	2008.0	659.0
+36727	http://www.sau4.org/	Newfound Area School District	2010.0	156.0
+36729	http://tcs.sau48.org/	Thornton Central School	2010.0	12.0
+36730	http://www.sau61.org	Farmington	2010.0	59.0
+36731	http://www.hollis.nh.us/	Hollis	1996.0	11.0
+36732	http://www.nh.gov/nursing/	Nursing Board	2003.0	20.0
+36734	http://www.hartslocation.com/	Harts Location	2007.0	1.0
+36736	http://www.newton-nh.gov/	Newton	2006.0	114.0
+36737	http://rodgerslibrary.org/	Rodgers Memorial Library	2009.0	96.0
+36738	http://nottinghamlibrary.org/	Blaisdell Memorial Library	2001.0	129.0
+36739	http://www.usnh.edu/bot/	USNH Board of Trustees	2008.0	8.0
+36740	http://www.courts.state.nh.us/	Judicial Branch	2002.0	133.0
+36741	http://www.sos.nh.gov/auctioneers/	Auctioneers Board	2005.0	37987.0
+36742	http://www.sutton-nh.gov/	Sutton	2004.0	53.0
+36743	http://www.lymeschool.org/	Lyme School District	2006.0	65.0
+36744	http://www.exeterpl.org	Exeter Public Library	2002.0	8.0
+36745	http://www.puc.nh.gov/	Public Utilities Commission	2004.0	107.0
+36746	http://www.town-of-groton.com/	Groton	2004.0	9.0
+36747	http://www.moultonborough.org/	Moultonborough	2002.0	136.0
+36749	http://www.nh.gov/oep/energy/programs/fuel-assistance/	Floodplain Management Program	2013.0	6.0
+36750	http://www.lymenhlibrary.org	Converse Free Library	2003.0	41083.0
+36751	http://www.gencourt.state.nh.us/	State Legislature	0.0	525.0
+36752	http://www.edline.net/pages/cornish_elementary_school	Cornish School District	2013.0	11.0
+36753	http://www.ci.wilton.nh.us/	Wilton	2003.0	1398.0
+36754	http://www.townofdanburynh.com	Danbury	2008.0	10.0
+36755	http://www.claremontnh.com/residents/departments/library/default.aspx	Fiske Free Library	2013.0	4.0
+36756	http://www.nashua.edu/	Nashua School District	2000.0	894.0
+36757	http://fremont.nh.gov/Pages/FremontNH_Library/Index	Fremont Public Library	2012.0	51.0
+36758	http://www.ci.keene.nh.us/	Keene	1996.0	772.0
+36759	http://www.berlinnh.gov/pages/berlinnh_library/index	Berlin Public Library	2007.0	13.0
+36760	http://www.nh.gov/film/	Film and Television Office	2006.0	35.0
+36761	http://www.derry.nh.us/	Derry	1998.0	195.0
+36762	http://www.albanynh.org/	Albany	2008.0	411.0
+36763	http://www.northconwaylibrary.com	North Conway Public Library Association	2003.0	22.0
+36764	http://sos.nh.gov/corp_div.aspx	Corporations	2012.0	37805.0
+36765	http://www.farmington.nh.us/	Farmington	2001.0	244.0
+36766	http://www.berlinnh.gov/	Berlin	2007.0	115.0
+36767	http://www.nh.gov/safety/divisions/administration/roadtoll/	Road Toll Bureau	2006.0	11.0
+36768	http://www.chamberlinlibrary.org/wordpress/	Chamberlin Free Public Library	2013.0	512.0
+36770	http://www.nh.gov/council/	Executive Council	2003.0	26.0
+36771	http://www.usnh.edu/	University System of New Hampshire	2007.0	97.0
+36772	http://sos.nh.gov/arch_rec_mgmt.aspx	Archives and Records Management	2012.0	16763.0
+36773	http://www.gorhamnh.org	Gorham	2001.0	150.0
+36774	http://www.greenland-nh.com/	Greenland	2004.0	41.0
+36775	http://www.strafford.k12.nh.us/	Strafford School	2000.0	890.0
+36776	http://www.pittsburg-nh.com/	Pittsburg	2008.0	249.0
+36777	http://hamptonnh.gov/	Hampton	2004.0	281.0
+36778	http://www.pittsburg.k12.nh.us	Pittsburg School District	2006.0	16.0
+36779	http://greatbay.edu/	Great Bay CC	2008.0	998.0
+36780	http://www.washingtonelementary.com/	Washington Elementary School	0.0	1.0
+36782	http://www.racing.nh.gov/	Racing and Charitable Gaming Commission	2004.0	20.0
+36783	http://www.sau43.org/	Newport School District	2011.0	141.0
+36785	http://www.town.rindge.nh.us/	Rindge	2000.0	677.0
+36786	http://www.nh.gov/mhpb/	Mental Health Practice Board	2003.0	69.0
+36787	http://www.nh.gov/lilacs/	Governor's Lilac and Wildflower Commission	2009.0	14.0
+36788	http://www.town.kensington.nh.us/	Kensington	2000.0	15.0
+36789	http://admin.state.nh.us/hr/index.html	Human Resources	2008.0	402.0
+36790	http://townoflittleton.org/	Littleton	2001.0	698.0
+36791	http://www.hudsonnh.gov/	Hudson	2011.0	749.0
+36792	http://www.wilmotlibrary.org	Wilmot Public Library	0.0	6.0
+36794	http://www.unh.edu/unhm/index.html	University of New Hampshire Manchester	1997.0	1167.0
+36795	http://www.mansd.org/	Manchester School District	1999.0	60.0
+36796	http://www.webster-nh.gov	Webster Free Public Library	2009.0	61.0
+36797	http://www.francestown-nh.gov	Francestown	2009.0	176.0
+36798	http://www.nh.gov/transparentnh/	TransparentNH - State Budget Information	2010.0	14.0
+36800	http://www.nh.gov/safety/divisions/nhsp/fob/marine-patrol/index.html	Marine Patrol Unit	2012.0	11.0
+36801	http://www.stratfordnhlibraries.com	Laura Johnson Memorial Library	2008.0	13.0
+36803	http://www.hampsteadnh.us/	Hampstead	2003.0	142.0
+36804	http://www.sau53.org/deerfield.htm	Deerfield School District	2007.0	3.0
+36805	http://www.revenue.nh.gov/	Taxes	2003.0	39.0
+36806	http://www.sau60.org/site/default.aspx?PageID=1	Fall Mountain Regional School District	2013.0	8.0
+36807	http://ces.sau48.org/	Campton Elementary School	2010.0	18.0
+36808	http://www.meredithnh.org/	Meredith	2003.0	503.0
+36809	http://www.weekslibrary.org	Weeks Public Library	2000.0	29.0
+36810	http://www.townofpeterborough.com/	Peterborough	2000.0	1238.0
+36812	http://des.nh.gov/onestop/	One Stop Data Retrieval, Environmental Services Department	2004.0	6.0
+36814	http://www.leblibrary.com/	Lebanon Public Library	2005.0	121.0
+36815	http://www.canterbury-nh.org/	Canterbury	2008.0	53.0
+36816	http://www.dover.lib.nh.us	Dover Public Library	1998.0	31.0
+36817	http://www.wakefield.k12.nh.us/	Wakefield School District	2001.0	3.0
+36818	http://www.dhhs.nh.gov/	Health and Human Services Department	2004.0	82.0
+36819	http://www.nh.gov/nhdhr/	Historical Resources	2003.0	80.0
+36820	http://www.sandwichnh.org/	Sandwich	2011.0	526.0
+36821	http://www.warner.lib.nh.us/	Pillsbury Free Library	2001.0	196.0
+36822	http://www.nh.gov/groa/	Gaming Regulatory Oversight Authority	2010.0	9.0
+36823	http://www.townofmilan.org/	Milan	2011.0	14.0
+36824	http://jeffersonnh.org/	Jefferson	2010.0	11.0
+36825	http://www.hebronnh.org/	Hebron	2005.0	84.0
+36826	http://www.governor.nh.gov/	Governor Maggie Hassan	2005.0	30.0
+36827	http://www.nh.gov/dental/	Dental Examiners Board	2004.0	15.0
+36828	http://www.greenfield-nh.gov/	Greenfield	2004.0	114.0
+36829	http://www.sau53.org/net5/	Epsom School District	2004.0	5.0
+36831	http://www.lin-wood.k12.nh.us/	Lin-wood Public School (high)	1996.0	16.0
+36832	http://www.tuftonboro.org/	Tuftonboro	2001.0	140.0
+36833	http://www.tiltonschool.org/	Tilton School	1998.0	61.0
+36834	http://www.alton.nh.gov/Main.asp	Alton	2005.0	172.0
+36835	http://www.columbianh.org/	Columbia	2008.0	325.0
+36836	http://www.wilmotnh.org/	Wilmot	2005.0	39.0
+36837	http://www.goshenlibrary.org	Olive G. Pettis Library	2009.0	0.0
+36838	http://www.rivervalley.edu/	River Valley CC	2008.0	573.0
+36839	http://admin.state.nh.us/occ/	Cost Containment Office	2002.0	6.0
+36840	http://www.somersworth.com/	Somersworth	1998.0	157.0
+36843	http://www.nh.gov/family-mediator/	Family Mediators Certification Board	2010.0	14.0
+36844	http://www.dhhs.nh.gov/dcbcs/nhh/index.htm	Hospital, NH State	2012.0	55.0
+36845	http://www.nh.gov/gcpah/	Physical Health and Activity, Governors Council on	2007.0	15.0
+36848	http://www.manchesternh.gov/departments/publicschools/administration/tabid/1705/default.aspx	Manchester School District	2013.0	1.0
+36849	http://www.conwaynh.org/	Conway	2000.0	8.0
+36851	http://www.nchcnh.org/	North Country Regional Public Health Network	2007.0	53.0
+36852	http://www.nashualibrary.org	Nashua Public Library	2005.0	184.0
+36853	http://www.campbellhs.org/	Campbell High School	2001.0	934.0
+36854	http://www.wmlibrary.blogspot.com/	Webster Memorial Library	2008.0	0.0
+36855	http://www.montvernonnh.us/	Mont Vernon	2012.0	1337.0
+36857	http://kabrett.weebly.com/	Tamworth	2011.0	30.0
+36858	http://www.lempsternh.org/	Lempster	2004.0	38.0
+36859	http://admin.state.nh.us/	Administrative Services Department	2002.0	103.0
+36860	http://piermontlibrary.blogspot.com	Piermont Public Library	2011.0	123.0
+36861	http://www.leenh.org/	Lee	2001.0	519.0
+36862	http://des.nh.gov/organization/commissioner/gsu/index.htm	Geology (NH Geological Survey)	2008.0	19.0
+36863	http://www.lafayetteregional.org/	Lafayette Regional School District	2005.0	85.0
+36864	http://www.sau14.org/	Epping School District	2008.0	146.0
+36865	http://www.nh.gov/safety/boardsandcommissions/mvib/	Motor Vehicle Industry Board	2006.0	11.0
+36866	http://www.nh.gov/doit/	Department of Information Technology	2008.0	23.0
+36867	http://litchfieldnh.gov/	Litchfield	2013.0	60.0
+36868	http://admin.state.nh.us/riskmanagement/index.asp	Risk Management	2007.0	5.0
+36869	http://hhs.hanovernorwichschools.org/	Hanover High School	2012.0	38.0
+36871	http://www.nhmbb.org/	Municipal Bond Bank	2003.0	19.0
+36872	http://www.bethlehemnh.org/	Bethlehem	2012.0	24.0
+36873	http://www.town.sunapee.nh.us/	Sunapee	2002.0	117.0
+36874	http://www.nh.gov/disability/	Governors Commission on Disability	2003.0	8.0
+36875	http://allenstownlibrary.org/	Allenstown Public Library	2012.0	320.0
+36876	http://hliba.blogspot.com	Haverhill Library Association	2011.0	10199.0
+36878	http://www.troylibrary.us	Gay-Kimball Library	2007.0	266.0
+36879	http://www.nh.gov/pelrb/	Public Employee Labor Relations Board	2003.0	3.0
+36880	http://www.rivendellschool.org/	Rivendell Interstate School District	2000.0	1323.0
+36881	http://www.mrsd.org/	Monadnock Regional School District	0.0	2080.0
+36882	http://www.nheconomy.com/	Economic Development	2001.0	191.0
+36883	http://www.merrimackcounty.net/	Merrimack County	2007.0	67.0
+36884	http://coebrown.org/	Coe Brown Academy	2011.0	279.0
+36886	http://doj.nh.gov/criminal/cold-case/	Cold Case Unit	2011.0	137.0
+36887	http://www.manchesternh.gov/	Manchester	2003.0	2988.0
+36888	http://www.kensingtonpubliclibrary.org	Kensington Social Public Library	2008.0	85.0
+36889	http://des.nh.gov/organization/commissioner/p2au/pps/ppp/	Pollution Prevention	2010.0	11.0
+36891	http://www.rochesterschools.com/shs/index.html	Spaulding High School	2000.0	14.0
+36892	http://www.nh.gov/safety/divisions/administration/	Administration Division	2006.0	17.0
+36893	http://www.townofnewipswich.org/	New Ipswich	2007.0	1.0
+36896	http://www.townoffreedom.net/	Freedom	2005.0	2.0
+36897	http://des.nh.gov/	Environmental Services Department	2004.0	3.0
+36898	http://www.exeter.edu/	Phillips Exeter Academy	1997.0	2966.0
+36899	http://www.goodwinlibrary.com	Goodwin Library	2002.0	2.0
+36900	http://www.thorntonpubliclibrary.org/	Thornton Public Library	2010.0	7.0
+36901	http://www.charlestown-nh.gov	Silsby Free Public Library	2005.0	92.0
+36902	http://schools.londonderry.org/lhs/	Londonderry High School	2004.0	78.0
+36904	http://www.nh.gov/epht/	Environmental  Public Health Tracking Program	2009.0	3.0
+36905	http://www.cityofportsmouth.com/school/phs/index.htm	Portsmouth High School	2001.0	22.0
+36906	http://www.newfieldsnh.gov	Newfields Public Library	2004.0	59.0
+36907	http://www.rochesternh.net	Rochester	2000.0	5651.0
+36908	http://www.tracylibrary.org/	Tracy Memorial Library	0.0	25.0
+36910	http://www.nh.gov/nharts/	State Council on the Arts Council	2003.0	8.0
+36911	http://www.nh.gov/psychology/	Psychologists	2014.0	2.0
+36912	http://www.crossroadsacademy.org/	Crossroads Academy	1998.0	107.0
+36914	http://www.nesmithlibrary.org	Nesmith Library	2002.0	595.0
+36916	http://www.chesleylib.com	Chesley Memorial Library	2007.0	21.0
+36917	http://des.nh.gov/organization/commissioner/	Commissioner's Office	2010.0	63.0
+36919	http://www.miltonnh-us.com/	Milton	1999.0	2.0
+36920	http://www.newport.lib.nh.us	Richards Free Library	2000.0	2.0
+36921	http://wolfeboronh.us	Wolfeboro	2005.0	375.0
+36924	http://www.winnisquam.k12.nh.us/	Winnisquam Regional School District	1998.0	123.0
+36925	http://www.nh.gov/safety/divisions/hearings/	Hearings Bureau	2006.0	30.0
+36926	http://www.mascenic.com/	Mascenic Regional High School	1999.0	106.0
+36927	http://www.winnisquam.k12.nh.us/wrhs/	Winnisquam Regional High School	2000.0	1.0
+36928	http://www.marlboroughnh.org/	Marlborough	2003.0	51.0
+36929	http://www.gordon-nash.org	Gordon-Nash Library	2003.0	16.0
+36930	http://www.nh.gov/veterans/	Veterans Home	2003.0	3.0
+36931	http://www.newhampton.org/	New Hampton School	1998.0	101.0
+36932	http://www.sau74.org/	Barrington School District	2013.0	46.0
+36933	http://www.connectwithyourkids.org/	Connect With Your Kids	2007.0	65.0
+36934	http://sos.nh.gov/	Secretary of State	2004.0	32338.0
+36935	http://www.nh.gov/labor/workers-comp/	Workers Compensation	2012.0	36.0
+36936	http://www.portofnh.org/	Ports and Harbors	2003.0	14.0
+36937	http://www.avs.k12.nh.us/	Auburn Village School	2009.0	1.0
+36938	http://www.jacksonvillage.net/public_documents/jacksonnh_library/index	Jackson Public Library	2003.0	55.0
+36939	http://www.gafneylibrary.org	The Gafney Library, Inc	2011.0	1.0
+36940	http://www.nh.gov/	State Government	2002.0	1691.0
+36941	http://bvs.sau23.org/	Bath Village School	2010.0	36.0
+36943	http://www.cityofportsmouth.com/school/	Portsmouth School Department	2001.0	74.0
+36944	http://miltonfreepubliclibrary.org	Milton Free Public Library	2004.0	15.0
+36945	http://www.laconialibrary.org/	Goss Reading Room	2000.0	4.0
+36946	http://www.weekslib.org	William D. Weeks Memorial Library	2011.0	11.0
+36947	http://www.antrimnh.org/	Antrim	2004.0	338.0
+36949	http://splib.pbworks.com/w/page/8125374/FrontPage	Sanbornton Public Library	2011.0	3.0
+36950	http://www.freedompubliclibrary.org/freedom/	Freedom Public Library	2006.0	53.0
+36951	http://www.hopkintonschools.org/middlehighschool/	Hopkinton High School	2009.0	104.0
+36952	http://nes.sau16.org/	Newfields Elementary School	2007.0	799.0
+36953	http://www.sau73.org/	Gilford School District	2011.0	94.0
+36954	http://florencerideout.net/	Florence Rodeout Elementary School	2007.0	12.0
+36955	http://www.milford.nh.gov/	Milford	2003.0	1352.0
+36956	http://www.andover.nh.us/	Andover	2002.0	136.0
+36957	http://www.education.nh.gov/highered/	Postsecondary Education Commission, see Department of Education, Higher Education Commission	2011.0	36.0
+36960	http://www.nheconomy.com/exportnh/	International Trade Resource Center	2013.0	39.0
+36961	http://derrypl.org/	Derry Public Library	2009.0	244.0
+36962	http://admin.state.nh.us/bpm/	Bureau of Planning and Management	2002.0	5.0
+36963	http://www.granthamnh.net/	Grantham	2002.0	1041.0
+36965	http://madburylibrary.org	Madbury Public Library	2003.0	16.0
+36967	http://www.agriculture.nh.gov/	Agriculture, Markets, and Food Department	2003.0	94.0
+36968	http://res.sau48.org/	Russell Elementary School	2010.0	15.0
+36969	http://www.sau90.org	Hampton School District	2011.0	3310.0
+36970	http://www.bethlehemwhitemtns.com	Bethlehem Public Library	1999.0	16.0
+36972	http://ww2.westhighschool.org/	Manchester School District - West High School	0.0	686.0
+36973	http://www.sau81.org/	Hudson School District	2004.0	2502.0
+36974	http://www.epsomnh.org/	Epsom	2006.0	6.0
+36975	http://www.doj.nh.gov/charitable-trusts/	Charitable Trusts Unit	2012.0	14.0
+36976	http://harrisvillenh.org/	Harrisville	2008.0	129.0
+36977	http://www.nhplib.org	North Hampton Public Library	2001.0	2.0
+36978	http://www.rpl.lib.nh.us	Rochester Public Library	2000.0	48.0
+36979	http://www.ccntr.org/	Winnipesaukee Regional Public Health Network #2	2001.0	42.0
+36980	http://www.hopkintonschools.org/	Hopkinton School District	2004.0	2293.0
+36981	http://www.nhbfa.com/	Business Finance Authority	2001.0	25.0
+36982	http://www.nh.gov/jtboard/reab.htm	Real Estate Appraiser Board	2012.0	140.0
+36983	http://conval.edu/district	Contoocook Valley School District	2011.0	3611.0
+36984	http://www.marlownh.gov/pages/index	Marlow	2013.0	259.0
+36986	http://www.nhsec.nh.gov/	Energy Facilities - Site Evaluation Committee	2009.0	52.0
+36988	http://www.seabrooknh.org/	Seabrook	2001.0	231.0
+36990	http://www.edline.net/pages/mascoma_valley_rsd	Mascoma Valley Regional School District	2010.0	2.0
+36991	http://des.nh.gov/organization/divisions/waste/	Waste Management	2010.0	372.0
+36992	http://www.greatbay.org	Great Bay National Estuarine Research Reserve	1999.0	29.0
+36993	http://www.sau53.org/chichester.htm	Chichester School District	2007.0	3.0
+36994	http://www.nh.gov/safety/divisions/emergservices/	Emergency Communications Division	2005.0	36.0
+36995	http://www.gilfordnh.org/	Gilford	2001.0	1080.0
+36996	http://www.nh.gov/nhsupport/	New Hampshire Supports Our Troops	2005.0	9.0
+36998	http://www.new-hampton.nh.us/newhampton/	New Hampton	2007.0	61.0
+36999	http://www.nhtmc.com/	511	2013.0	45.0
+37001	http://www.hallmemoriallibrary.org	Hall Memorial Library	2005.0	90.0
+37002	http://wp.timberlane.net/	Timberlane Regional School District	0.0	258.0
+37003	http://www.franklin.k12.nh.us/franklinhigh.cfm	Franklin High School	2005.0	1752.0
+37005	http://www.claremontnh.com/	Claremont	1996.0	171.0
+37006	http://www.langdonlibrary.org/	Langdon Library	2008.0	270.0
+37008	http://www.nh.gov/nhchis/	Comprehensive Health Care Information System	2007.0	12.0
+37009	https://sites.google.com/a/sau41.org/brooklineschools/	Brookline School District	2013.0	124.0
+37010	http://www.ci.bedford.nh.us/	Bedford	1998.0	389.0
+37012	http://www.eastkingstonlibrary.org	East Kingston Public Library	2014.0	1.0
+37013	http://www.townofdanville.org/	Danville	2003.0	28.0
+37014	http://www.nh.gov/water-sustainability/	Water Sustainability Commission	2011.0	8.0
+37015	http://www.nh.gov/jtboard/electricians.htm	Electrician's Board	2013.0	140.0
+37016	http://www.nh.gov/safety/divisions/nhsp/index.html	State Police	2006.0	211.0
+37017	http://www.dhhs.nh.gov/oos/blc/dietitian/index.htm	Dietitian Board	2011.0	3.0
+37019	http://www.durhampubliclibrary.org/durham/	Durham Public Library	2011.0	794.0
+37020	http://www.nh.gov/jtboard/home.htm	Joint Board of Licensure and Certification	2003.0	169.0
+37022	http://fc.moultonborough.k12.nh.us/	Moultonborough Academy	2002.0	53.0
+37023	http://www.goffstown.com/	Goffstown	1998.0	4421.0
+37024	http://www.edline.net/pages/mvrhs	Mascoma Valley Regional High School	2010.0	2.0
+37026	http://www.windhamnewhampshire.com	Windham	2002.0	191.0
+37027	http://www.nh.gov/veterinary/	Veterinary Medicine Board	2004.0	10.0
+37028	http://www.granit.sr.unh.edu/	GRANIT	1998.0	768.0
+37029	http://www.pstc.nh.gov/	Police Standards and Training Council	2004.0	11.0
+37030	http://co.rockingham.nh.us/	Rockingham County	2000.0	30.0
+37031	http://www.sau16.org/	Exeter Regional Cooperative School District	2002.0	1190.0
+37032	http://www.stratfordnh.org/	Stratford	2010.0	20.0
+37033	http://www.lancasternh.org/	Lancaster	2005.0	74.0
+37034	http://www.capitalareaprepares.com/	Capital Area Regional Public Health Network	2011.0	19.0
+37035	http://www.sanborntonnh.org/	Sanbornton	2003.0	280.0
+37036	http://www.alsteadnh.org/	Alstead	2007.0	23.0
+37037	http://www.nhhistory.org/library.html	New Hampshire Historical Society Tuck Library	1998.0	338.0
+37039	http://www.amherstlibrary.org/	Amherst Town Library	2013.0	203.0
+37040	http://www.sealib.org	Seabrook Library	2000.0	25.0
+37041	http://www.nhes.nh.gov/elmi/	Economic and Labor Market Information	2012.0	179.0
+37042	http://pittsfield-nh.com/sau/	Pittsfield School District	2009.0	132.0
+37043	http://goffstown.k12.nh.us/sau19/	Goffstown School District	2009.0	121.0
+37044	http://www.newmarketnh.gov/	Newmarket	2003.0	1932.0
+37045	http://sos.nh.gov/sec_reg.aspx	Securities Regulation Bureau	2012.0	38022.0
+37046	http://www.littletonschools.org/about.cfm	Littleton School District	0.0	0.0
+37047	http://www.manchesternh.gov/Departments/Health	Greater Manchester Regional Public Health Network	2013.0	395.0
+37048	http://www.kennett.k12.nh.us	Conway School District	2000.0	1.0
+37049	http://sos.nh.gov/elections.aspx	Elections	2012.0	37995.0
+37050	http://www.coebrownacademy.com/	Coe Brown - Northwood Academy	2000.0	7.0
+37051	http://www.walpolenh.us/	Walpole	2005.0	35.0
+37052	http://www.midstatehealth.org/	Central NH Regional Public Health Network	2006.0	60.0
+37053	http://www.plaistow.com/	Plaistow	1999.0	321.0
+37054	http://www.saintpatrickschool.net/	Saint Patrick School	2003.0	32.0
+37055	http://rayschool.org/	Bernice Ray Elementary School	2006.0	208.0
+37056	https://sites.google.com/a/sau20.org/sau20/	Gorham Cooperative School District	2012.0	105.0
+37057	http://www.nh.gov/chiropractic/	Chiropractic Examiners Board	2010.0	11.0
+37058	http://ashlandtownlibrary.org	Ashland Town Library	2008.0	9.0
+37060	http://www.dunbarton.k12.nh.us/	Dunbarton Elementary School	2003.0	68.0
+37061	http://www.goshennh.org/	Goshen	2007.0	34.0
+37062	http://raymond-nh.com	Dudley-Tucker Library	1998.0	2.0
+37063	http://brentwoodlibrary.org	Mary E. Bartlett Library	2002.0	24.0
+37064	http://www.sos.nh.gov/vitalrecords/eligibility.html	Obtaining Certified Copies of Vital Records	2004.0	5.0
+37065	http://admin.state.nh.us/fdm/	Financial Data Management	2002.0	4.0
+37066	http://www.chesternh.org	Chester	2003.0	38.0
+37067	http://www.townofthornton.org/	Thornton	2010.0	15.0
+37068	http://www.nh.gov/nha/	Nursing Home Administrators Board, Examiners of	2008.0	20.0
+37069	http://www.nh.gov/safety/divisions/dmv/	DMV - Division of Motor Vehicles	2006.0	158.0
+37070	http://www.town.swanzey.nh.us/	Swanzey	2001.0	399.0
+37072	http://www.moultonborough.k12.nh.us/	Moultonborough School District	1998.0	11.0
+37073	http://www.onconcord.com/index.aspx?NID=588	Concord Public Library	2014.0	1515.0
+37075	http://www.sullivancountynh.gov/	Greater Sullivan County Regional Public Health Network	2004.0	410.0
+37076	http://www.nh.gov/gal/	Guardian ad Litem	2004.0	15.0
+37077	http://www.colebrook-nh.com/	Colebrook	1997.0	75.0
+37078	http://www.nhstateparks.org/	Parks and Recreation	2002.0	310.0
+37080	http://www.barringtonlibrary.com/barrington/	Barrington Public Library	2012.0	877.0
+37081	http://www.education.nh.gov/	Education Department	2010.0	800.0
+37082	http://www.randolph.nh.gov/	Randolph	2005.0	3.0
+37084	http://www.hdsd.org/	Hillsboro-Deering Cooperative School District	2008.0	37.0
+37086	http://www.lincolnnh.org/	Lincoln	2003.0	1177.0
+37087	http://www.sau33.com/	Raymond School District	0.0	510.0
+37088	http://cutlerlibrary.blogspot.com	Aaron Cutler Memorial Library	2008.0	426.0
+37089	http://www.litchfieldsd.org/	Litchfield School District	2003.0	1481.0
+37090	http://www.wves.sau48.org/	Waterville Valley Elementary School	2010.0	43.0
+37091	http://www.ci.sullivan.nh.us/	Sullivan	2005.0	571.0
+37092	http://www.nashuacc.edu/	Nashua CC	2008.0	401.0
+37093	http://exeternh.gov/	Exeter	2013.0	2089.0
+37094	http://www.sunapeeschools.org	Sunapee School District	2012.0	257.0
+37095	http://www.shelburnenh.com/	Shelburne	1999.0	53.0
+37096	http://www.nh.gov/cosmet/	Barbering, Cosmetology, and Esthetics Board	2003.0	12.0
+37098	http://www.brentwoodnh.gov/	Brentwood	2008.0	416.0
+37099	http://www.hcs.sau48.org/	Holderness Central School	2012.0	81.0
+37100	http://www.sau25.net/	Bedford School District	0.0	920.0
+37101	http://des.nh.gov/organization/divisions/air/	Air Quality	2010.0	346.0
+37102	http://www.barnstead.org/	Barnstead	2004.0	40.0
+37103	http://www.bedford.lib.nh.us	Bedford Public Library	1998.0	1115.0
+37107	http://www.sps.edu/home	Saint Pauls School	2014.0	72.0
+37108	http://www.nh.gov/safety/dare/	D.A.R.E.	2006.0	18.0
+37109	http://www.nh.gov/nhrec/	Real Estate Commission	2003.0	46.0
+37110	http://www.dhhs.nh.gov/oos/blc/bodyart/index.htm	Tattoo Artist and Body Piercing	2011.0	3.0
+37111	http://www.nh.gov/pharmacy/	Pharmacy Board	2003.0	44.0
+37112	http://www.communityschoolnh.org/	Community School	2001.0	13.0
+37113	http://www.sau2.k12.nh.us/	Inter-Lakes Regional School Regional District	1999.0	38.0
+37114	http://www.merrimacknh.gov/	Merrimack	2007.0	465.0
+37115	http://www.rochesterschools.com/	Rochester School Department	1998.0	5007.0
+37116	http://www.newdurhamnh.us/	New Durham	2005.0	170.0
+37117	http://www.plaistowlibrary.com/plaistow/	Plaistow Public Library	2012.0	56.0
+37118	http://www.stalux.org/podium/default.aspx?t=138415	St. Thomas Aquinas High School	2011.0	13.0
+37119	http://www.nh.gov/safety/divisions/dmv/registration/	Tags Registration Bureau (DMV)	2006.0	22.0
+37120	http://www.concordnhschools.net/modules/cms/pages.phtml?pageid=82768&sessionid=120069bab0aba18318c441facdc0092d	Concord School District	2011.0	9.0
+37121	http://www.tiltonnh.org/	Tilton	2003.0	55.0
+37122	http://www.govwentworth.k12.nh.us/schoolfolders/schoolframe.html	Kingswood Regional High School	2002.0	2.0
+37124	http://www.wmcc.edu/	White Mountains CC	2008.0	720.0
+37125	http://www.fitzwilliam-nh.gov/	Fitzwilliam	2004.0	123.0
+37126	http://www.dhhs.nh.gov/oos/blc/opthalmic/index.htm	Opthalmic Dispenser Board	2011.0	3.0
+37128	http://www.chocorualibrary.org/wp/	Chocorua Public Library	2012.0	90.0
+37129	http://www.bow-nh.com/	Bow	1998.0	608.0
+37130	http://www.deering.nh.us/	Deering	1998.0	165.0
+37131	http://www.merrimack.k12.nh.us/	Merrimack School District	0.0	6691.0
+37132	http://newburynh.org/public_documents/index	Newbury	2008.0	428.0
+37133	http://www.northfieldnh.org/	Northfield	2003.0	531.0
+37134	http://www.nh.gov/safety/divisions/firesafety/	Fire Safety Division	2006.0	133.0
+37135	http://www.townofsalem.org/	Salem	2003.0	1731.0
+37136	http://www.nh.gov/safety/divisions/nhsp/fob/marine-patrol/moorings/index.html	Moorings Program	2012.0	3.0
+37137	http://www.merrimack.lib.nh.us	Merrimack Public Library	1998.0	79.0
+37138	http://www.sau29.org/knedist	Keene School District	2012.0	1530.0
+37142	http://www.stoddardnh.org/	Stoddard	2001.0	896.0
+37143	http://www.rumneynh.org/	Rumney	2008.0	44.0
+37145	http://www.nh.gov/btla/	Tax and Land Appeals Board	2003.0	19.0
+37146	http://www.nh.gov/nhdoc/	Corrections Department	2004.0	122.0
+37148	http://www.lymannh.org/	Lyman	2006.0	443.0
+37149	http://admin.state.nh.us/accounting/	Accounting Services	2002.0	11.0
+37151	http://www.nh.gov/judicialcouncil/	Judicial Council	2009.0	15.0
+37152	http://www.volunteernh.org/html/home.htm	Americorps, New Hampshire	2004.0	77.0
+37153	http://dalandlibrary.wordpress.com	Daland Memorial Library	2011.0	218.0
+37155	http://www.dhhs.nh.gov/oos/blc/bodyworker/bodyworker.htm	Bodyworker Board	2013.0	4.0
+37156	http://www.hamptonfallslibrary.org	Hampton Falls Free Library	2003.0	837.0
+37157	http://www.franconianh.org/	Franconia	2007.0	91.0
+37159	http://www.landaffnh.org/	Landaff	2008.0	11.0
+37160	http://scs.sau16.org/	Swasey Central School	2007.0	622.0
+37162	http://www.sau3.org/	Berlin School District	0.0	357.0
+37163	http://www.sau29.k12.nh.us/portal/school_list	Chesterfield School District	0.0	22.0
+37166	http://www.fitzlib.org	Fitzwilliam Town Library	2008.0	652.0
+37167	http://www.nh.gov/acupuncture/	Acupuncture Licensing	2007.0	16.0
+37168	http://www.woodstocknh.org/	Woodstock	2005.0	24.0
+37169	http://effingham.lib.nh.us	Effingham Free Public Library	0.0	48.0
+37170	http://hancocktownlibrary.blogspot.com/	Hancock Town Library	2011.0	62.0
+37171	http://www.dhhs.nh.gov/oos/blc/massage/index.htm	Masssage Therapy Board	2011.0	3.0
+37173	http://www.nh.gov/safety/divisions/nhsp/	State Police Division	2006.0	212.0
+37175	http://wp.timberlane.net/hs/	Timberlane Regional High School	0.0	216.0
+37176	http://www.grantham.k12.nh.us/	Grantham Village School	2000.0	229.0
+37177	http://extension.unh.edu/	UNH Cooperative Extension	2004.0	3496.0
+37178	http://www.nh.gov/safety/divisions/hsem/	Homeland                           Security and Emergency Management	2009.0	72.0
+37180	http://www.howelibrary.org	Howe Library	2001.0	202.0
+37181	http://www.nh.gov/nhculture/cnaa/	Commission on Native American Affairs, Cultural Resources Department	2011.0	41.0
+37182	http://www.nh.gov/adjgeneral/	Adjutant General	2004.0	11.0
+37183	http://www.mv.k12.nh.us/	Merrimack Valley School District	1998.0	2.0
+37184	http://c3ph.org/	Carroll County Regional Public Health Network	2010.0	18.0
+37185	http://www.nh.gov/oep/	Office of Energy and Planning	2004.0	146.0
+37186	http://www.chesteracademy.org/	Chester Academy	2001.0	76.0
+37188	http://www.doj.nh.gov/	Attorney Generals Office	2004.0	1096.0
+37189	http://www.gilmantonnh.org/	Gilmanton	2004.0	46.0
+37190	http://www.madison.lib.nh.us	Madison Library	2008.0	566.0
+37191	http://www.nhes.nh.gov/	Employment Security Department	2012.0	285.0
+37192	http://www.proctoracademy.org/	Proctor Academy	2000.0	1046.0
+37193	http://www.nh.gov/safety/divisions/homeland/	Grants, Homeland Security	2006.0	78.0
+37194	http://www.lrcc.edu/	Lakes Region CC	2008.0	1040.0
+37195	http://www.keene.k12.nh.us/	Keene High School	1997.0	12208.0
+37198	http://www.ossipee.org/	Ossipee	2001.0	40.0
+37199	http://www.keene.edu/	Keene State College	1997.0	3305.0
+37201	http://www.strathamnh.gov/	Stratham	2010.0	332.0
+37202	http://www.concordnh.gov/	Concord	2006.0	1640.0
+37203	http://www.plainfieldnhlibrary.org/	Philip Read Memorial Library	2011.0	16.0
+37205	http://www.nh.gov/jtboard/boa.htm	Accountancy Board	2011.0	147.0
+37206	http://www.sandownlibrary.us/sandown/	Sandown Public Library	2009.0	53.0
+37207	http://doj.nh.gov/consumer/	Consumer Protection Bureau	2004.0	120.0
+37209	http://www.wolfeborolibrary.org	Wolfeboro Public Library	0.0	542.0
+37210	http://www.dhhs.nh.gov/oos/blc/electrologist/index.htm	Electrology Practice Board	2011.0	3.0
+37211	http://www.mccnh.edu/	Manchester CC	2012.0	1707.0
+37212	http://www.hillsboroughcountynh.org/	Hillsborough County	2001.0	32.0
+37215	http://admin.state.nh.us/comm/	Commissioners Office	2003.0	4.0
+37216	http://www.nh.gov/kidsandfire/	Kids and Fire	2011.0	14.0
+37217	http://www.shakerroad.com/	Shaker Road School	2011.0	2.0
+37218	http://www.nh.gov/treasury/	Treasury Department	2004.0	25.0
+37219	http://www.bradfordnh.com/	Bradford	2000.0	18.0
+37220	http://www.newmarket.k12.nh.us/	Newmarket School District	2001.0	8273.0
+37221	http://sos.nh.gov/ucc.aspx	Uniform Commercial Code Division	2012.0	38115.0
+37222	http://www.nh.gov/oep/planning/programs/fmp/	Floodplain Management Program	2013.0	23.0
+37223	http://www.sutton-nh.gov/public_documents/suttonnh_library/index	Sutton Free Library	2004.0	3.0
+37225	http://www.tamworthnh.org/	Tamworth	2007.0	23.0
+37226	http://admin.state.nh.us/bgs/	Bureau of Graphic Services	2002.0	8.0
+37227	http://www.nh.gov/safety/information-analysis-center/	NH Information Analysis Center	2011.0	10.0
+37229	http://schools.nashua.edu/amherst/pages/welcome.aspx	Amherst Elementary Schools	2008.0	27.0
+37230	http://www.sau23.org/	Haverhill Cooperative School District	2009.0	68.0
+37231	http://www.whitefieldnh.org/	Whitefield	2004.0	345.0
+37232	http://www.wadleighlibrary.org	William Y. Wadleigh Memorial Library	2008.0	258.0
+37233	http://www.pinkertonacademy.net/	Pinkerton Academy	2004.0	9.0
+37235	http://www.auburnnh.us/	Auburn	2006.0	198.0
+37236	http://www.nh.gov/dot/programs/rideshare/	Rideshare Program	2011.0	10.0
+37237	http://www.nh.gov/nhculture/	Cultural Resources Department	2003.0	31.0
+37238	http://www.nh.gov/nhveterans/	Veterans Services, Office of	2004.0	14.0
+37239	http://www.sau36.org/	White Mountains Regional School District	2000.0	428.0
+37240	http://www.prhs.sau48.org/	Pemi-Baker School Regional District	2008.0	9.0
+37241	http://www.cornishnh.net/	Cornish	2006.0	63.0
+37242	http://www.hampstead.lib.nh.us/hampstead/	Hampstead Public Library	2014.0	58.0
+37243	http://mason.sau89.org/	Mason	2013.0	42.0
+37244	http://www.pelhamweb.com/	Pelham	1998.0	34.0
+37245	http://wms.weare.k12.nh.us/	Weare School District	1998.0	6.0
+37246	http://www.kingstonnh.org/	Kingston	2007.0	1823.0
+37247	http://www.nh.gov/doit/cybersecurity/	Cybersecurity	2012.0	6.0
+37249	http://www.town.hillsborough.nh.us/	Hillsborough	2002.0	1220.0
+37250	http://www.cityofportsmouth.com/	Portsmouth	1998.0	63.0
+37251	http://www.nh.gov/labor/	Labor Department	2012.0	29.0
+37253	http://croydonnh.us/	Croydon	2010.0	1.0
+37254	http://www.nh.gov/medicine/	Medicine, Board of	2003.0	22.0
+37255	http://www.nhcounties.org/	New Hampshire Association of Counties	2001.0	12.0
+37257	http://sau64.org/	Milton School District	2011.0	69.0
+37258	http://www.sandown.us/	Sandown	2003.0	345.0
+37259	http://des.nh.gov/organization/divisions/water/	Water Resources & Quality	2009.0	85.0
+37260	http://www.lisbonnh.org/	Lisbon	2003.0	92.0
+37261	http://www.nh.gov/safety/boardsandcommissions/bldgcode/	State                           Building Code Review Board	2006.0	15.0
+37262	http://bethlehem.k12.nh.us/	Bethlehem Elementary School	2000.0	97.0
+37263	http://www.wildlife.state.nh.us/	Fish and Game Department	1996.0	86.0
+37264	http://www.pittsfield-nh.com/	Pittsfield	2000.0	224.0
+37265	http://www.lin-wood.org/site/default.aspx?PageID=1	Lincoln-Woodstock Cooperative School District	2012.0	16.0
+37266	http://www.enfield.nh.us/	Enfield	1997.0	182.0
+37267	http://www.twinmountain.com/town.php	Carroll	2002.0	47.0
+37268	http://des.nh.gov/organization/commissioner/gsu/	NH Geological Survey	2011.0	20.0
+37269	http://www.nh.gov/jtboard/	Joint Board of Licensure and Certification	2004.0	170.0
+37271	http://www.nhchesterfield.com/	Chesterfield	2001.0	143.0
+37272	http://www.abbottlibrary.org	Abbott Library	0.0	111.0
+37276	http://eks.sau16.org/	East Kingston Elementary School	2007.0	681.0
+37277	http://sos.nh.gov/vital_records.aspx	Vital Records Administration Division	2012.0	38296.0
+37278	http://www.watervillevalley.org/	Waterville Valley	2000.0	733.0
+37279	http://www.hopkinton-nh.gov/	Hopkinton	2006.0	184.0
+37280	http://www.shaker.k12.nh.us/	Shaker Regional School District	1996.0	58.0
+37282	http://wlcwarriors.net/	Wilton-Lyndeborough Cooperative School District	2007.0	235.0
+37283	http://www.alvirnehs.org/	Alvirne High School	1999.0	3303.0
+37284	http://www.brookline.nh.us/	Brookline	1998.0	1829.0
+37285	http://www.nhworks.org/	Workforce Opportunity Council	2000.0	63.0
+37287	http://moultonboroughlibrary.org/mpl/	Moultonborough Public Library	2007.0	938.0
+37288	http://www.sau53.org/net9/	Pembroke Academy	2001.0	19.0
+37289	http://www.sau21.org/sau/	Winnacunnet Cooperative School District	2007.0	1884.0
+37290	http://www.townofnelson.com/	Olivia Rodham Memorial Library	2004.0	594.0
+37292	http://www.bishopbrady.edu/	Bishop Brady High School	1999.0	950.0
+37293	http://www.hnhsd.org/	Hinsdale School District	2004.0	150.0
+37294	http://www.townofepping.com/	Epping	2008.0	16.0
+37295	http://www.templenh.info/	Temple	2002.0	1045.0
+37296	http://www.sau57.org/Pages/home.aspx	Salem School District	2009.0	75.0
+37297	http://cheshire-med.com/	Greater Monadnock Regional Public Health Network	1996.0	10081.0
+37299	http://www.windhamsd.org/	Windham School District	2000.0	60.0
+37300	http://www.peasepubliclibrary.org/pease/	Pease Public Library	2006.0	110.0
+37302	http://www.northwoodnh.org/	Northwood	2009.0	389.0
+37303	http://www.pelhamweb.com/library/	Pelham Public Library	2004.0	3.0
+37304	http://www.dred.state.nh.us/	Resources and Economic Development Department	1997.0	7.0
+37305	http://www.sau41.k12.nh.us/	Hollis - Brookline Cooperative School District	2000.0	4.0
+37307	http://www.nhdfl.org/	Forests and Lands	2001.0	157.0
+37308	http://hinsdale.govoffice.com/	Hinsdale	2013.0	135.0
+37310	http://admin.state.nh.us/gens/	Bureau of General Services	2002.0	3.0
+37311	http://www.nh.gov/dot/	Transportation Department	2004.0	52.0
+37313	http://www.dodgelibrary.com/	G. E.P. Dodge Library	2002.0	1.0
+37314	http://www.newportnh.net/	Newport	2001.0	104.0
+37316	http://www.town-atkinsonnh.com/	Atkinson	2001.0	43.0
+37318	http://www.barnstead.k12.nh.us/	Barnstead Elementary School	2000.0	13.0
+37319	http://www.strafford.nh.gov/	Strafford	2008.0	71.0
+37320	http://www.plainfieldnh.org/	Plainfield	2005.0	57.0
+37321	http://www.cooscountynh.us/	Coos County	2009.0	506.0
+37322	http://www.mvhi.org/	Upper Valley Regional Public Health Network	2004.0	122.0
+37324	http://www.aemseagles.org/	Andover School District	2013.0	62.0
+37325	http://milfordk12.org/	Milford School District	2012.0	750.0
+37327	http://www.salisburynh.org/	Salisbury	2007.0	15.0
+37330	http://www.madison-nh.org/	Madison	2004.0	55.0
+37332	http://www.bartlettnh.org/	Bartlett	2008.0	5.0
+37334	http://www.hancocknh.org/	Hancock	2001.0	933.0
+37335	http://www.brewsteracademy.org/RelId/33637/ISvars/default/Home.htm	Brewster Academy	0.0	1.0
+37336	http://www.nh.gov/hrc/	Human Rights Commission	2003.0	22.0
+37337	http://www.boscawenpl.org/cgi-sys/defaultwebpage.cgi	Boscawen Public Library	0.0	1.0
+37341	http://www.bowbakerfreelibrary.org/baker/	Baker Free Library	2009.0	1055.0
+37342	http://newburynhlibrary.net/	Newbury Public Library	2010.0	26.0
+37343	http://www.londonderry.org/	Londonderry School District	1998.0	495.0
+37344	http://holdernesslibrary.org	Holderness Library	2008.0	778.0
+37345	http://www.nh.gov/safety/divisions/firesafety/building/	Building Construction & Safety	2008.0	8.0
+37346	http://www.winchester-nh.gov/	Winchester	2007.0	79.0
+37347	http://DunbarLibrary.org/	Dunbar Free Library	2008.0	16.0
+37348	http://www.newington.nh.us/	Newington	2001.0	66.0
+37349	http://www.metrocast.net/nicholslibrary/	James E. Nichols Memorial Library	2004.0	16.0
+37350	http://www.lrpph.org/	Winnipesaukee Regional Public Health Network	2007.0	107.0
+37351	http://www.belknapcounty.org/	Belknap County	2001.0	89.0
+37352	http://www.wiltonlibrarynh.org/wilton/	Wilton Public Gregg Free Library	2012.0	168.0
+37355	http://www.carrollcountynh.net/	Carroll County	2008.0	69.0
+37356	http://www.granitestatecleancities.nh.gov/	Granite State Clean Cities Coalition	2009.0	14.0
+37357	http://www.franklin.k12.nh.us/	Franklin School District	2001.0	1574.0
+37358	http://www.nh.gov/nhsl/	State Library	2003.0	95.0
+37359	http://www.granite.edu/	Granite State College	2005.0	302.0
+37360	http://www.nh.gov/safety/divisions/fstems/	Fire Standards & Training and Emergency Medical Services Division	2006.0	45.0

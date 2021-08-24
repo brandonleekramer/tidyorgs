@@ -1,0 +1,562 @@
+NodeId	NodeURL	NodeName	Year	pages
+2811	http://www.veterans.arkansas.gov/	Veteran Affairs, Arkansas Department of	2007.0	34.0
+2812	http://plantboard.arkansas.gov/Pages/default.aspx	Plant Board, Arkansas State	2010.0	87.0
+2813	http://www.fly.arkansas.gov	Aeronautics, Arkansas Department of	2009.0	7.0
+2814	http://hughes.grsc.k12.ar.us	HUGHES SCHOOL DISTRICT	2001.0	0.0
+2815	http://newportarcity.org/jackson-county/	Jackson	0.0	17.0
+2816	http://www.arkansas.gov/drs/	Rural Development Commission, Arkansas	2002.0	33.0
+2817	http://www.parisschools.org	PARIS SCHOOL DISTRICT	2010.0	264.0
+2818	http://www.arkansasredistricting.org/Pages/default.aspx	Apportionment, Arkansas Board of	2011.0	62.0
+2819	http://buffaloislandcentral.com	BUFFALO ISLAND CENTRAL SCHOOL DISTRICT	2006.0	91.0
+2821	http://www.searcyschools.org	SEARCY SCHOOL DISTRICT	2006.0	622.0
+2822	http://bombers.k12.ar.us	MOUNTAIN HOME SCHOOL DISTRICT	2000.0	1286.0
+2823	http://www.crimelab.arkansas.gov/Pages/default.aspx	Crime Laboratory, Arkansas State	2010.0	51.0
+2824	http://www.whitecountylibraries.org	White County Regional  Library  Sys. HQ  (administrative office)	2012.0	175.0
+2827	http://ualr.edu/www/	University of Arkansas at Little Rock	2003.0	45.0
+2828	http://www.degray.com/	Degray Lake State Park	1998.0	181.0
+2829	http://www.trgators.org	TWO RIVERS SCHOOL DISTRICT	2010.0	25.0
+2830	http://www.asbrs.org	Sanitarians, Arkansas State Board of Registered Professional	2004.0	12.0
+2831	http://www.arkansasmassagetherapy.com/	Massage Therapy, Arkansas State Board of	2004.0	14.0
+2832	http://www.faylib.org	Fayetteville Public Library	2003.0	1371.0
+2834	http://www.centerpoint.dsc.k12.ar.us	CENTERPOINT SCHOOL DISTRICT	2000.0	74.0
+2835	http://www.ouachita.dsc.k12.ar.us	OUACHITA SCHOOL DISTRICT	2001.0	43.0
+2837	http://www.decatursd.com	DECATUR SCHOOL DISTRICT	2013.0	78.0
+2839	http://www.arwingcap.org	Civil Air Patrol - Arkansas Wing	2002.0	419.0
+2842	http://www.siloamsprings.com/	Siloam Springs	1998.0	49.0
+2843	http://www.bentonvillear.com/	Bentonville	2000.0	553.0
+2844	http://indians.wsc.k12.ar.us	COUNTY LINE SCHOOL DISTRICT	2000.0	220.0
+2845	http://wildcats.afsc.k12.ar.us	HECTOR SCHOOL DISTRICT	1998.0	193.0
+2846	http://www.arkansasproduction.com/	Film Commission, Arkansas	2012.0	26.0
+2848	http://dws.arkansas.gov/AWIB/index.htm	Workforce Investment Board, Arkansas	2010.0	21.0
+2850	http://paroleboard.arkansas.gov/Pages/default.aspx	Parole Board, Arkansas	2010.0	244.0
+2851	https://sites.google.com/a/springhill.k12.ar.us/web/home	SPRING HILL SCHOOL DISTRICT	2013.0	119.0
+2852	http://www.booneville.k12.ar.us	BOONEVILLE SCHOOL DISTRICT	2001.0	2012.0
+2853	http://www.uaccm.edu/	University of Arkansas Community College at Morrilton Library	2003.0	271.0
+2854	http://artrs.gov	Teacher Retirement System, Arkansas	2008.0	5.0
+2856	http://www.petitjeanstatepark.com	Petit Jean Mountain State Park	2002.0	131.0
+2857	http://www.ark-ives.com/	History Commission, Arkansas	2001.0	312.0
+2858	http://www.forrestcitylibrary.org/	Forrest City Public Library HQ	2003.0	8.0
+2860	http://riverside.k12.ar.us	RIVERSIDE SCHOOL DISTRICT	2008.0	18.0
+2861	http://www.midsouthcc.edu/studentaffairs/sandra-c-goldsby-library-services/	Mid-South Community College / Sandra C. Goldsby Library	2013.0	1.0
+2862	http://www.uamont.edu/library/	University of Arkansas at Monticello / Taylor Library & Technology Center	2005.0	84.0
+2863	http://law.uark.edu/library/	University of Arkansas / Young Law Library - Leflar Law Center	2010.0	8.0
+2864	http://arkansaswheat.org/	Wheat Promotion Board, Arkansas	2002.0	23.0
+2866	http://mountainviewschooldistrict.k12.ar.us	MOUNTAIN VIEW SCHOOL DISTRICT	2013.0	59.0
+2867	http://www.state.ar.us/psc/	Public Service Commission	1998.0	2.0
+2868	http://www.arschoolforthedeaf.org/education/components/layout/default.php?sectionid=4&url_redirect=1	School for the Deaf, Arkansas	2011.0	1.0
+2869	http://www.westsideeagles.org/	WEST SIDE SCHOOL DISTRICT (CLEBURNE)	2007.0	53.0
+2871	http://libinfo.uark.edu	University of Arkansas Libraries	2000.0	6770.0
+2872	http://www.jonesboroschools.net/	JONESBORO SCHOOL DISTRICT	2013.0	2009.0
+2873	http://dws.arkansas.gov/	Workforce Services, Arkansas Department of	2006.0	2.0
+2874	http://riverview.k12.ar.us	RIVERVIEW SCHOOL DISTRICT	2004.0	0.0
+2875	http://www.gptbirds.org/	GUY-PERKINS SCHOOL DISTRICT	2014.0	485.0
+2876	http://mps.crsc.k12.ar.us	MANILA SCHOOL DISTRICT	2003.0	13.0
+2878	http://www.billies.org	MONTICELLO SCHOOL DISTRICT	2000.0	111.0
+2879	http://www.mountidaschools.com/	MOUNT IDA SCHOOL DISTRICT	2013.0	1059.0
+2881	https://courts.arkansas.gov/courts/supreme-court	Supreme Court, Arkansas	2013.0	77.0
+2882	http://cardinals.dsc.k12.ar.us	HARMONY GROVE SCHOOL DISTRICT (SALINE)	1996.0	602.0
+2883	http://www.fortsmithschools.org	FORT SMITH SCHOOL DISTRICT	2006.0	1772.0
+2885	http://www.asla.info/	Arkansas Student Loan Authority	2005.0	34.0
+2886	http://www.ahib.org	Home Inspector Registration Board, Arkansas	2004.0	261.0
+2887	http://bergman.oursc.k12.ar.us	BERGMAN SCHOOL DISTRICT	2000.0	1421.0
+2888	http://www.arfireprevention.org/	Arkansas Fire Prevention Commission	2003.0	11.0
+2889	http://www.gf.k12.ar.us	GREEN FOREST SCHOOL DISTRICT	2003.0	1528.0
+2890	http://www.edline.net/pages/Gentry_Public_Schools	GENTRY SCHOOL DISTRICT	2013.0	6.0
+2891	http://www.aratb.org/	Athletic Training, Arkansas State Board of	2003.0	14.0
+2892	http://www.cityoflavaca.com/	Lavaca	2002.0	15.0
+2893	http://ina.arkansas.gov/Pages/default.aspx	Information Network of Arkansas	2009.0	65.0
+2894	http://www.adhe.edu/Pages/home.aspx	Higher Education, Arkansas Department of	2008.0	110.0
+2895	http://www.fairhousing.arkansas.gov	Arkansas Fair Housing Commission	2008.0	818.0
+2896	http://www.aogc.state.ar.us/	Oil and Gas Commission, Arkansas	2002.0	12.0
+2897	https://ecollege.edu/academics/library	Ecclesia College Library	2009.0	3.0
+2898	http://www.greenbrierschools.org/	GREENBRIER SCHOOL DISTRICT	2011.0	51.0
+2900	http://www.springdaleark.org/	Springdale	2000.0	73.0
+2901	http://www.arkansas.gov/asbce/	Chiropractic Examiners, Arkansas State Board of	2002.0	3.0
+2902	http://www.melbournelibrary.webs.com/	Melbourne Branch (Izard County Library)	2013.0	0.0
+2903	http://hps.schoolfusion.us	HOPE SCHOOL DISTRICT	2011.0	1.0
+2904	http://www.laman.net/	William F. Laman Public Library HQ	2001.0	131.0
+2905	http://ruralhealth.uams.edu/ahecsw/library	UAMS Area Health Education Center/SW Library	2011.0	39.0
+2906	http://www.pulaskitech.edu/library/	Pulaski Tech / Ottenheimer Library	2003.0	29.0
+2907	http://www.asta.arkansas.gov/Pages/default.aspx	Science and Technology Authority	2011.0	447.0
+2908	http://www.bvpl.org/	Bella Vista Public Library HQ	2002.0	342.0
+2909	http://humanservices.arkansas.gov/dbhs/pages/arstatehospital.aspx	State Hospital, Arkansas	2011.0	19.0
+2910	http://www.csdar.org/	CLARKSVILLE SCHOOL DISTRICT	2010.0	292.0
+2911	http://www.arkansas.gov/	State Government	2000.0	1232.0
+2912	http://www.cityofconway.org/	Conway	2001.0	142.0
+2913	http://www.npcc.edu/	National Park Community College	2003.0	683.0
+2914	http://www.uaccb.edu/	University of Arkansas Community College at Batesville	2002.0	460.0
+2919	http://pineblufflibrary.org//	Redfield Public Library (Leenita Gober Cotheran Memorial...)	2013.0	315.0
+2920	http://ancrc.org/	Natural and Cultural Resources Council, Arkansas	2009.0	5.0
+2921	http://www.jacksoncolibrary.net/	Jackson County Library HQ/W.A. Billingsley	2004.0	71.0
+2922	http://southsideschools.org/	SOUTHSIDE SCHOOL DISTRICT (INDEPENDENCE)	2011.0	686.0
+2923	http://www.arkansashouse.org/	House of Representatives, Arkansas	2007.0	1405.0
+2924	http://www.mclibrary.net	Horseshoe Lake Branch Library	2011.0	0.0
+2925	http://www.baxlib.org	Donald R. Reynolds Public Library / Baxter County Library	2009.0	1.0
+2926	https://courts.arkansas.gov/administration/adr	Alternative Dispute Resolution Commission, Arkansas	2013.0	426.0
+2927	http://mayflowerar.org/	Mayflower	2001.0	139.0
+2928	http://www.tasd7.net	TEXARKANA SCHOOL DISTRICT	0.0	343.0
+2931	http://www.fcl.org/	Faulkner-Van Buren Regional Library HQ	2001.0	33.0
+2932	http://www.arkansasethics.com/	Ethics Commission, Arkansas	2000.0	229.0
+2933	http://www.southlogan.com/	Booneville	2013.0	71.0
+2934	http://www.accessfayetteville.org/	Fayetteville	2001.0	2.0
+2935	http://asbalaid.arkansas.gov/Pages/default.aspx	Architects, Landscape Architects and Interior Designers, Arkansas Board of	2011.0	20.0
+2936	http://www.artowing.org	Towing and Recovery Board, Arkansas	2001.0	14.0
+2937	http://www.pccua.edu/	Phillips Community College of the University of Arkansas	2002.0	200.0
+2940	http://highlandrebels.k12.ar.us	HIGHLAND SCHOOL DISTRICT	2002.0	367.0
+2941	http://ww2.bentonschools.org/	BENTON SCHOOL DISTRICT	2008.0	1081.0
+2943	http://www.anrc.arkansas.gov/	Natural Resources Commission, Arkansas	2005.0	2.0
+2945	http://www.securities.arkansas.gov/	Securities Department	2005.0	290.0
+2946	http://shsd.k12.ar.us	SLOAN-HENDRIX SCHOOL DIST.	2001.0	34.0
+2947	http://www.mountmagazinestatepark.com/	Mount Magazine State Park	2005.0	202.0
+2948	http://www.aaec.arkansas.gov/Pages/default.aspx	Alternative Energy Commission, Arkansas	2010.0	8.0
+2949	http://www.wmstadium.com/	War Memorial Stadium Commission	2009.0	99.0
+2950	http://valley.k12.ar.us	VALLEY SPRINGS SCHOOL DISTRICT	2001.0	1207.0
+2951	http://www.edline.net/pages/palestine-wheatley_school_dist	PALESTINE-WHEATLEY SCHOOL DISTRICT	2011.0	22.0
+2952	http://www.grbeavers.org	GLEN ROSE SCHOOL DISTRICT	0.0	88.0
+2953	http://www.seark.edu/	Southeast Arkansas College	2002.0	152.0
+2954	http://auditor.ar.gov/Pages/default.aspx	State Auditor	2011.0	92.0
+2956	http://maynard.nesc.k12.ar.us	MAYNARD SCHOOL DISTRICT	2000.0	7711.0
+2957	http://www.dis.arkansas.gov/Pages/default.aspx	Information Systems, Arkansas Department of	2009.0	106.0
+2958	http://junctioncity.k12.ar.us	JUNCTION CITY SCHOOL DISTRICT	2006.0	153.0
+2959	http://aclb.arkansas.gov/Pages/default.aspx	Contractors Licensing Board, Arkansas	2011.0	50.0
+2960	http://nevadacountylibrary.wordpress.com/	Nevada County Library	2013.0	46.0
+2961	http://eacc.edu/students/library/index_library.htm	East Arkansas Community College Library	2010.0	14.0
+2962	http://www.co.pulaski.ar.us/	Pulaski	1999.0	103.0
+2963	http://www.foremanschools.org	FOREMAN SCHOOL DISTRICT	2013.0	71.0
+2967	http://www.westsideschools.org/home	WESTSIDE CONSOLIDATED SCHOOL DISTRICT (CRAIGHEAD)	2012.0	51.0
+2968	http://www.mylibrarynow.org/randolph/	Randolph County Library	2012.0	27.0
+2969	http://www.adem.arkansas.gov	Emergency Management, Arkansas Department of	2007.0	167.0
+2970	http://apbblb.comcastbiz.net/index.htm	Bail Bondsman Licensing Board, Arkansas Professional	2011.0	10.0
+2971	http://www.cityofjacksonville.net	Jacksonville	2003.0	457.0
+2972	http://www.sautech.edu/	Southern Arkansas University - Tech	1998.0	22.0
+2973	http://www.carlislear.org	Carlisle	2003.0	21.0
+2974	http://www.keeparkansasbeautiful.com/	Keep Arkansas Beautiful Commission	2001.0	120.0
+2975	http://www.smccolts.com	SOUTH MISSISSIPPI COUNTY SCHOOL DISTRICT	2010.0	0.0
+2976	http://www.historicwashingtonstatepark.com	Historic Washington State Park	2007.0	223.0
+2977	http://forestry.arkansas.gov/Pages/default.aspx	Forestry Commission, Arkansas	2011.0	511.0
+2978	http://www.cityofeurekasprings.us/	Eureka Springs	2013.0	1822.0
+2980	http://www.asumh.edu/	Arkansas State University - Mountain Home	1998.0	89.0
+2981	http://pirates.k12.ar.us	CALICO ROCK SCHOOL DISTRICT	2000.0	272.0
+2982	http://uca.edu/library	University of Central Arkansas / Torreyson Library	2001.0	2449.0
+2985	http://www.armedicalboard.org	Medical Board, Arkansas State	2000.0	218.0
+2986	http://www.asp.state.ar.us/	State Police, Arkansas	2000.0	13.0
+2987	http://www.arkrice.org/	Rice Research and Promotion Board, Arkansas	2004.0	13.0
+2990	http://www.asub.edu/library	Arkansas State University - Beebe / Abington Library	2011.0	982.0
+2991	http://www.accardv.uams.edu/	Child Abuse, Rape, Domestic Violence Commission, Arkansas	2002.0	19.0
+2992	http://www.ssbb.k12.ar.us/	SOUTH SIDE SCHOOL DISTRICT (VANBUREN)	2001.0	389.0
+2993	http://www.aroptometry.org/	Optometry, Arkansas State Board of	2002.0	8.0
+2994	http://www.edline.net/pages/mountain_pine_sd	MOUNTAIN PINE SCHOOL DISTRICT	2011.0	14.0
+2995	http://www.pulaskitech.edu/	Pulaski Technical College	2002.0	2479.0
+2996	http://www.crawford-county.org/	Crawford	2001.0	151.0
+2997	http://www.state.ar.us/adfa/	Development Finance Authority	1998.0	178.0
+2999	http://www.mylibrarynow.org/rector/	Rector Public Library	2012.0	29.0
+3000	http://www.dermott.k12.ar.us/	DERMOTT SCHOOL DISTRICT	2004.0	483.0
+3001	http://www.calicorocklibrary.webs.com	Izard County Library	2010.0	0.0
+3002	http://www.mylibrarynow.org/greencounty/	Greene County Library	2013.0	31.0
+3003	http://ww35.arkansashighered.com/	Department of Higher Education	2011.0	2321.0
+3004	http://www.dentalboard.arkansas.gov/Pages/default.aspx	Dental Examiners, Arkansas State Board of	2012.0	27.0
+3005	http://www.cossatot.us	COSSATOT RIVER SCHOOL DISTRICT	2011.0	196.0
+3007	http://www.labor.ar.gov/Pages/default.aspx	Department of Labor	2012.0	106.0
+3008	http://www.asac.arkansas.gov/	Athletic Commission, Arkansas State	2007.0	10.0
+3009	http://www.gis.arkansas.gov	Geographic Information Office, Arkansas	2006.0	4.0
+3010	http://www.libraryinjonesboro.org	Craighead Co./ Jonesboro Public Library	2001.0	245.0
+3011	http://humanservices.arkansas.gov/Pages/default.aspx	Human Services, Arkansas Department of	2011.0	615.0
+3012	http://www.hendrix.edu/baileylibrary/	Hendrix College / Bailey Library	1998.0	112.0
+3015	http://www.dis.arkansas.gov/Pages/NewRouting.aspx	Office of the Executive Chief Information Officer	2009.0	109.0
+3016	http://hampton.k12.ar.us	HAMPTON SCHOOL DISTRICT	2005.0	41.0
+3017	http://www.edline.net/pages/alma_district	ALMA SCHOOL DISTRICT	2008.0	240.0
+3019	http://www2.youseemore.com/barton/	Huttig Branch Library- Barton Library Affiliate	2002.0	40.0
+3020	http://www.popelibrary.org/index.php/branches/atkins/	Atkins Centennial Library	2010.0	2.0
+3021	http://www.dfa.arkansas.gov/Pages/default.aspx	Finance and Administration, Arkansas Department of	2009.0	1081.0
+3022	http://www.montgomerycountyarlibrary.org	Montgomery County Library	2011.0	74.0
+3023	http://www.labor.ar.gov/divisions/pages/electricainspectionlicensing.aspx	Electrical Examiners of the State of Arkansas, Board of	2012.0	31.0
+3024	http://czdc.arkansas.gov/Pages/default.aspx	Capitol Zoning District Commission, Arkansas	2011.0	176.0
+3025	http://www.ag.arkansas.gov	Attorney General, Arkansas	2007.0	41.0
+3026	http://www.work-ed.state.ar.us/	Department of Workforce Education	1998.0	612.0
+3027	http://apache.afsc.k12.ar.us	POTTSVILLE SCHOOL DISTRICT	1996.0	1.0
+3028	http://www.edline.net/pages/dequeen_sd	DEQUEEN SCHOOL DISTRICT	2010.0	2.0
+3029	http://www.arcounties.org/	Association of Arkansas Counties	1998.0	435.0
+3030	http://insurance.arkansas.gov/	Insurance Department	2005.0	118.0
+3033	http://bulldogs.k12.ar.us	JACKSON COUNTY SCHOOL DISTRICT	2003.0	67.0
+3037	http://web.saumag.edu/	Southern Arkansas University	2009.0	2398.0
+3038	http://saul.sirsi.net/uhtbin/cgisirsi/?ps=CkmdrPo1xA/SAU_TECH/241650015/60/81/X	Southern Arkansas University - Tech Library	0.0	33.0
+3039	http://www.northlr.org/	North Little Rock	2000.0	665.0
+3040	http://www.cccua.edu	Cossatot Community College of the University of Arkansas	2002.0	426.0
+3042	http://www.agfc.com/Pages/default.aspx	Game and Fish Commission, Arkansas	2010.0	1429.0
+3044	http://tigers.wsc.k12.ar.us	CHARLESTON SCHOOL DISTRICT	2005.0	155.0
+3045	http://www.cabotar.gov/	Cabot	2004.0	1621.0
+3046	http://sbpce.arkansas.gov/Pages/default.aspx	Private Career Education, Arkansas State Board of	2012.0	51.0
+3047	http://www.hartfordhustlers.net/	HARTFORD SCHOOL DISTRICT	2010.0	58.0
+3048	http://www.rogersarkansas.com/	Rogers	2000.0	586.0
+3051	http://www.css.arkansas.gov	Corrections School System, Arkansas	2007.0	7.0
+3052	http://www.aralb.com/	Auctioneers Licensing Board, Arkansas	2003.0	20.0
+3053	http://www.cals.org	Hillary Rodham Clinton Children's Library and Learning Center	1997.0	368.0
+3054	http://www.arkansas.gov/soilclassifiers/	Soil Classifiers, AR State Board of Registration for Pro.	2004.0	15.0
+3056	http://www.spinalcord.ar.gov	Spinal Cord Commission, Arkansas	2004.0	4.0
+3057	http://www.cherokeevillage.org/	Cherokee Village	2000.0	128.0
+3060	http://www.arkansas.gov/childcare/services/aecc/	Early Childhood Commission, Arkansas	2009.0	33.0
+3061	http://hwh.grsc.k12.ar.us	HELENA / WEST HELENA SCHOOL DISTRICT	2002.0	3.0
+3063	http://www.sos.arkansas.gov/Pages/default.aspx	Secretary of State	2011.0	651.0
+3065	http://www.arkansas.gov/swlb/	Social Work Licensing Board, Arkansas	2002.0	25.0
+3066	https://courts.arkansas.gov/administration/iolta	Interest on Lawyers Trust Account Foundation Board, Arkansas	0.0	424.0
+3067	http://mve.k12.ar.us/	MT. VERNON / ENOLA SCHOOL DISTRICT	2001.0	130.0
+3068	http://www.bentoncountyar.gov/BCHome.aspx	Benton	2013.0	5.0
+3069	http://www.bryantschools.org	BRYANT SCHOOL DISTRICT	2003.0	506.0
+3070	http://www.asun.edu/library/	Arkansas State University - Newport / Harryette M. and Kaneaster Hodges, SR Library	2005.0	12.0
+3072	http://www.arkansas.gov/adfa/	Development Finance Authority, Arkansas	2002.0	34.0
+3073	http://www.dcc.arkansas.gov/Pages/default.aspx	Department of Community Correction	2012.0	116.0
+3074	http://www.arkansas.gov/bank/	Bank Department, Arkansas State	2003.0	69.0
+3075	http://www.arkansasheritage.com/	Heritage, Department of Arkansas	2000.0	145.0
+3076	http://www.cals.lib.ar.us	Adolphine F. Terry Branch Library	1998.0	376.0
+3077	http://web.lyon.edu/groups/mslibrary/index.htm	Lyon College / Mabee-Simpson Library	2011.0	44.0
+3078	http://www.arkansasentertainershalloffame.com/	Entertainers Hall of Fame Board, Arkansas	2009.0	6.0
+3079	http://panthers.k12.ar.us	NORFORK SCHOOL DISTRICT	2000.0	2.0
+3080	http://lavacapublicschools.k12.ar.us	LAVACA SCHOOL DISTRICT	2003.0	2.0
+3081	http://crystalbridges.org	Crystal Bridges Museum of American Art Library	2005.0	1030.0
+3082	http://www.bentonvillelibrary.org/	Bentonville Public Library HQ	2012.0	145.0
+3084	http://www.northark.edu/services/library.aspx	North Arkansas College Library	2010.0	10.0
+3085	http://ace.arkansas.gov/Pages/default.aspx	Career Education, Arkansas Department of	2011.0	613.0
+3086	http://mccrory.k12.ar.us	MCCRORY SCHOOL DISTRICT	2004.0	89.0
+3087	http://www.arkansased.org/	Education, Arkansas Department of	2006.0	2432.0
+3088	http://www.gclibrary.com	Garland County Library HQ	2010.0	24.0
+3089	http://www.greenwoodar.org/	Greenwood	2011.0	593.0
+3090	http://lonokeschools.org/site/default.aspx?PageID=1	LONOKE SCHOOL DISTRICT	2012.0	31.0
+3092	http://www.arvrls.com/johnson.htm	Johnson County Public Library	2001.0	16.0
+3093	http://ace.arkansas.gov/arRehabServices/Pages/default.aspx	Rehabilitation Services, Arkansas	2011.0	3.0
+3097	http://www.asbca.org	Collection Agencies, Arkansas State Board of	2002.0	5.0
+3098	http://www.norphlet.k12.ar.us	NORPHLET SCHOOL DISTRICT	2006.0	0.0
+3099	http://www.mymelbournearkansas.com/	Melbourne	2009.0	12.0
+3100	http://www.anc.edu/	Arkansas Northeastern College	2003.0	17.0
+3101	http://www.rmcc.edu/index.php/component/content/article?id=35	Rich Mountain Community College / St. John Library	0.0	82.0
+3102	http://alpenaschools.k12.ar.us	ALPENA SCHOOL DISTRICT	2005.0	1238.0
+3104	http://www.rector.k12.ar.us/index.php	RECTOR SCHOOL DISTRICT	2013.0	313.0
+3105	http://ualr.edu/library/	University of Arkansas at Little Rock / Ottenheimer Library	2009.0	101.0
+3106	http://www.midsouthcc.edu/	Mid-South Community College	2002.0	1.0
+3107	http://www.lincolncsd.com	LINCOLN CONSOLIDATED SCHOOL DISTRICT	2012.0	254.0
+3108	http://www.arbarber.com	Barber Examiners, Arkansas State Board of	2003.0	5.0
+3110	http://www.artreasury.gov	Treasurer, Office of the	2009.0	28.0
+3111	http://www.rogerspubliclibrary.org	Rogers Public Library HQ	2012.0	827.0
+3112	http://www.westsiderebels.net/	WESTSIDE SCHOOL DISTRICT (JOHNSON)	2013.0	24.0
+3114	http://www.awcc.state.ar.us/	Workers Compensation Commission, Arkansas	1997.0	52.0
+3115	http://www.abdo.arkansas.gov	Opticians, Arkansas Board of Dispensing	2008.0	12.0
+3117	http://www.hempcolib.org	Hempstead County Library HQ	2013.0	20.0
+3118	http://www.arkansaspreservation.com/	Arkansas Historic Preservation Program	2000.0	1110.0
+3119	http://www.garlandcounty.org/	Garland	2000.0	115.0
+3120	http://violaschool.k12.ar.us	VIOLA SCHOOL DISTRICT	2003.0	3.0
+3121	http://www.searcycountylibrary.com/	Searcy County Library (Jim G Ferguson)	2010.0	0.0
+3122	http://www.england.k12.ar.us/	ENGLAND SCHOOL DISTRICT	2005.0	226.0
+3124	http://dpsd.k12.ar.us/	DUMAS SCHOOL DISTRICT	2009.0	8457.0
+3125	http://apsd.k12.ar.us	ARKADELPHIA SCHOOL DISTRICT	2001.0	146.0
+3126	http://lcsd1.grsc.k12.ar.us	LEE COUNTY SCHOOL DISTRICT	2001.0	187.0
+3127	http://www.harding.edu/library/	Harding University / Brackett Library	2001.0	522.0
+3128	http://www.arvrls.com	Logan County Library	2001.0	16.0
+3129	http://harrison.k12.ar.us	HARRISON SCHOOL DISTRICT	2001.0	1430.0
+3130	http://libraryweb.uacch.edu/	University of Arkansas Community College at Hope Library	2010.0	71.0
+3131	http://www.naturalheritage.com/	Natural Heritage Commission, Arkansas	2000.0	362.0
+3132	http://fouke.schoolfusion.us	FOUKE SCHOOL DISTRICT	2011.0	8725.0
+3133	http://mms.dmsc.k12.ar.us/mps/	MENA SCHOOL DISTRICT	2008.0	175.0
+3134	http://www.augustasd.org	AUGUSTA SCHOOL DISTRICT	2011.0	63.0
+3135	http://www.drewcentral.org	DREW CENTRAL SCHOOL DISTRICT	1999.0	19.0
+3136	http://www.popelibrary.org	Hector Branch Library	2005.0	95.0
+3137	http://www.cityofcrossett.net	Crossett	2002.0	15.0
+3138	http://claimscommission.ar.gov/	Claims Commission, Arkansas State	2004.0	10.0
+3139	http://strong.k12.ar.us	STRONG-HUTTIG SCHOOL DISTRICT	2010.0	28.0
+3140	http://www.poyenschool.com	POYEN SCHOOL DISTRICT	2007.0	34.0
+3141	http://www.arspb.org/	Soybean Promotion Board, Arkansas	1999.0	126.0
+3142	http://www.stonecolib.com	Bessie Boehm Moore/Stone County Library	2010.0	6.0
+3143	http://www.edline.net/pages/mulberry_sd	MULBERRY SCHOOL DISTRICT	2010.0	2.0
+3144	http://www.indcolib.com	Independence County Library	2009.0	11.0
+3145	http://www.state.ar.us/esd/	Employment Security Department	1998.0	2.0
+3146	http://www.corn-sorghum.org	Corn and Grain Sorghum Board, Arkansas	2002.0	53.0
+3147	http://www.elkinsdistrict.org/	ELKINS SCHOOL DISTRICT	2011.0	596.0
+3148	http://www.southark.edu/	South Arkansas Community College	2002.0	1173.0
+3149	http://www.co.washington.ar.us/index.aspx?page=619	Prairie Grove Public Library	2012.0	940.0
+3150	http://www.arkansas.gov/fdemb/	Embalmers and Funeral Directors, Arkansas State Board of	2002.0	14.0
+3151	http://alpc.arkansas.gov/Pages/default.aspx	Livestock and Poultry Commission, Arkansas	2011.0	81.0
+3153	http://cotter.ar.schoolwebpages.com/education/district/district.php?sectionid=1	COTTER SCHOOL DISTRICT	2006.0	2.0
+3154	http://www.craigheadcounty.org/	Craighead	2000.0	49.0
+3155	http://www.earle.crsc.k12.ar.us	EARLE SCHOOL DISTRICT	2007.0	35.0
+3156	http://www.labor.ar.gov/aboutus/pages/boardmembers.aspx	Elevator Safety Board, Arkansas	2012.0	7.0
+3157	http://district.dardanelle.k12.ar.us	DARDANELLE SCHOOL DISTRICT	2009.0	1.0
+3158	http://www.hsdlions.org	HAMBURG SCHOOL DISTRICT	2012.0	0.0
+3159	http://www.jbu.edu/library	John Brown University Library	1997.0	5174.0
+3160	http://www.ashdownschools.org	ASHDOWN SCHOOL DISTRICT	2002.0	2050.0
+3161	http://www.jeffersoncountyark.com/	Jefferson	2001.0	0.0
+3163	http://www.accessarkansas.org/	State of Arkansas	2001.0	8.0
+3164	http://www.midland.k12.ar.us	MIDLAND SCHOOL DISTRICT	2009.0	705.0
+3165	http://www.clarkcountyarkansas.com/index.html	Clark	2004.0	2.0
+3167	http://bcl.state.ar.us/	Boone County Public Library HQ	2000.0	0.0
+3168	http://www.nwacc.edu/web/library/index.php	Northwest Arkansas Community College / Pauline Whitaker Library	2011.0	124.0
+3169	http://www.arkansashighways.com/	Highway and Transportation Department, Arkansas	2001.0	66.0
+3170	http://www.1800arkansas.com/	Department of Economic Development	2000.0	42.0
+3172	http://waldron.k12.ar.us/wsd_redirect.htm	WALDRON SCHOOL DISTRICT	2012.0	0.0
+3173	http://www.asub.edu/	Arkansas State University - Beebe	2001.0	1007.0
+3174	http://magazinerattlers.k12.ar.us	MAGAZINE SCHOOL DISTRICT	2006.0	1206.0
+3175	http://txar-publib.org/	Texarkana Public Library HQ	0.0	438.0
+3176	http://www.asbart.org/	Acupuncture and Related Techniques, Arkansas State Board of	2003.0	9.0
+3178	http://pocahontaspsd.com/index.php	POCAHONTAS SCHOOL DISTRICT	0.0	603.0
+3179	http://www.healthy.arkansas.gov/Pages/default.aspx	Health, Arkansas Department of	2010.0	968.0
+3181	http://mssd2.k12.ar.us/	MINERAL SPRINGS SCHOOL DISTRICT	2009.0	540.0
+3182	http://prs.k12.ar.us	PEA RIDGE SCHOOL DISTRICT	2005.0	38.0
+3183	http://www.uamont.edu/	University of Arkansas at Monticello	1998.0	898.0
+3184	http://dragonpride.mountainburg.org	MOUNTAINBURG SCHOOL DISTRICT	2011.0	52.0
+3186	http://www.pcssd.org	PULASKI COUNTY SPECIAL SCHOOL DISTRICT	2002.0	548.0
+3188	http://library.atu.edu	Arkansas Tech University  / Ross Pendergraft Library	1999.0	222.0
+3190	http://www.arkleg.state.ar.us/assembly/2013/2014F/Pages/Home.aspx	Arkansas General Assembly	2014.0	1480.0
+3191	https://courts.arkansas.gov/courts/supreme-court/library	Arkansas Supreme Court Library	2013.0	26.0
+3195	http://mayflowerschools.info	MAYFLOWER SCHOOL DISTRICT	2007.0	49.0
+3196	http://www.arkansas.gov/asbpa/	Accountancy, Arkansas State Board of Public	2003.0	34.0
+3197	http://bearkatz.k12.ar.us	MELBOURNE SCHOOL DISTRICT	2002.0	389.0
+3198	http://www.arkansas.gov/senate/	Senate, Arkansas	2003.0	61.0
+3199	http://www.conwayschools.org	CONWAY SCHOOL DISTRICT	2005.0	54.0
+3200	http://www.beardenschools.org/	BEARDEN SCHOOL DISTRICT	2011.0	545.0
+3201	http://gravetteschools.net/cms/One.aspx	GRAVETTE SCHOOL DISTRICT	2014.0	256.0
+3202	http://www.arkansas.gov/acd/	Assessment Coordination Department, Arkansas	2003.0	48.0
+3205	http://www.arvrls.com/charleston.htm	Charleston Public Library	2001.0	16.0
+3206	http://www.edline.net/pages/omaha_sd	OMAHA SCHOOL DISTRICT	2011.0	2.0
+3207	http://www.lrsd.org/drupal/	LITTLE ROCK SCHOOL DISTRICT	2012.0	799.0
+3208	http://www.yellvillesummitschools.com/	YELLVILLE-SUMMIT SCHOOL DIST.	2010.0	8.0
+3209	http://www.library.astate.edu	Arkansas State University / Dean B. Ellis Library	1999.0	61.0
+3210	http://www.pels.arkansas.gov/Pages/default.aspx	Engineers and Pro. Surveyors, AR Board of Licensure for Pro.	2010.0	22.0
+3211	http://uafs.edu/	University of Arkansas at Fort Smith	2011.0	3701.0
+3212	http://cms.k12.ar.us	CUTTER-MORNING STAR SCHOOL DISTRICT	2010.0	12415.0
+3214	http://wolves.dsc.k12.ar.us	LAKE HAMILTON SCHOOL DISTRICT	1999.0	189.0
+3216	http://www.arguard.org/	Military Department, Arkansas National Guard	1999.0	4.0
+3219	http://www.co.washington.ar.us/	Washington	1998.0	937.0
+3220	http://www.pinebluffschools.k12.ar.us	PINE BLUFF SCHOOL DISTRICT	2008.0	0.0
+3221	http://www.atsc.arkansas.gov/Pages/default.aspx	Tobacco Settlement Commission, Arkansas	2010.0	24.0
+3222	http://cfsd.k12.ar.us/	CAMDEN FAIRVIEW SCHOOL DISTRICT	0.0	0.0
+3223	https://courts.arkansas.gov/boccre/	Certified Court Reporter Examiners, Arkansas Board of	0.0	488.0
+3224	http://www.whitehallsd.org	WHITE HALL SCHOOL DISTRICT	0.0	674.0
+3226	http://www.uacch.edu/	University of Arkansas Community College at Hope	2002.0	670.0
+3227	http://stc.arkansas.gov/Pages/default.aspx	Technology Council, State	2010.0	37.0
+3228	http://www.arkansasschoolfortheblind.org/	School for the Blind, Arkansas	2001.0	65.0
+3230	http://www.arkansasgovernorsmansion.com	Governors Mansion	2004.0	117.0
+3231	http://www.mosaictemplarscenter.com/	Mosaic Templars Cultural Center	2004.0	106.0
+3234	http://www.arkansas.gov/jddc/	Judicial Discipline and Disability Commission, Arkansas	2004.0	19.0
+3235	http://www.solidbusinesssolutions.com/	Arkansas State Building Services	2005.0	1807.0
+3236	http://www.lcscougars.org/	LAFAYETTE COUNTY SCHOOL DISTRICT	2013.0	173.0
+3238	http://baldknobschools.org	BALD KNOB SCHOOL DISTRICT	2013.0	80.0
+3241	http://arkedu.state.ar.us/	Department of Education	1998.0	2407.0
+3243	http://www.blackrivertech.org/black-river-technical-college-library	Black River Technical College Library	2012.0	567.0
+3244	http://www.greenwoodk12.com	GREENWOOD SCHOOL DISTRICT	2010.0	0.0
+3245	http://www.dps-littlejohns.net	DANVILLE SCHOOL DISTRICT	2002.0	427.0
+3246	http://www.northark.edu	North Arkansas College	2002.0	343.0
+3247	http://www.russellvillearkansas.org/	Russellville	2000.0	1756.0
+3248	http://www.carrollmadisonlibraries.org	Madison County Public Library- Huntsville	2009.0	40.0
+3250	http://emersontaylor.k12.ar.us/	EMERSON-TAYLOR SCHOOL DISTRICT	2009.0	9.0
+3251	http://www.russellvilleschools.net	RUSSELLVILLE SCHOOL DISTRICT	2011.0	184.0
+3252	http://wolverines.k12.ar.us	WESTERN YELL COUNTY SCHOOL DISTRICT	2003.0	43.0
+3253	http://concord.k12.ar.us	CONCORD SCHOOL DISTRICT	2003.0	25.0
+3254	http://www.daas.ar.gov/organizations_gaca.html	Governors Advisory Council on Aging	2009.0	33.0
+3255	http://www.atc.ar.gov/Pages/default.aspx	Tobacco Control Board, Arkansas	2012.0	196.0
+3256	http://www.adeq.state.ar.us	Environmental Quality, Arkansas Department of	0.0	788.0
+3257	http://www.doverschools.net	DOVER SCHOOL DISTRICT	2011.0	41.0
+3258	http://www.coto.edu/	College of the Ouachitas	2012.0	1013.0
+3259	http://www.osd1.org	OSCEOLA SCHOOL DISTRICT	2013.0	283.0
+3262	http://abec.arkansas.gov/Pages/default.aspx	Counseling, Arkansas Board of Examiners in	2011.0	68.0
+3263	http://www.arsbn.arkansas.gov/Pages/default.aspx	Nursing, Arkansas State Board of	2010.0	63.0
+3264	http://www.hssd.k12.ar.us	HEBER SPRINGS SCHOOL DISTRICT	2007.0	72.0
+3265	http://www.arvrls.com/yell.htm	Yell County Library	2001.0	16.0
+3266	http://www.cedarvilleschools.org	CEDARVILLE SCHOOL DISTRICT	2013.0	41.0
+3268	http://www.salinecountylibrary.org/	Bob Herzfeld Memorial Library /Saline County Library HQ	2012.0	344.0
+3269	http://www.uams.edu/	University of Arkansas for Medical Sciences	1996.0	13.0
+3270	http://www.apers.org	Public Employees Retirement System, Arkansas	2001.0	57.0
+3272	http://fordyceschools.org	FORDYCE SCHOOL DISTRICT	2007.0	626.0
+3274	http://www.stuttgartpubliclibrary.org	Stuttgart Public Library	2008.0	12.0
+3275	http://www.arkansasctf.org/	Child Abuse and Neglect Prevention Board, Arkansas	2008.0	62.0
+3276	http://library.uams.edu/	University of Arkansas for Medical Sciences Library	1996.0	27.0
+3277	https://courts.arkansas.gov/administration/professional-programs	Law Examiners, Arkansas State Board of	2013.0	421.0
+3279	http://www.ozarkfolkcenter.com/	Ozark Folk Center State Park	1998.0	210.0
+3280	http://www.edline.net/pages/gosnell_school_district_6	GOSNELL SCHOOL DISTRICT	2011.0	2.0
+3281	http://www.hazen.k12.ar.us	HAZEN SCHOOL DISTRICT	2013.0	21.0
+3282	http://www.aetn.org	Educational Television Network, Arkansas	1997.0	1945.0
+3283	http://magnetcovesd.schoolinsites.com/	MAGNET COVE SCHOOL DIST.	2012.0	827.0
+3284	http://library.hsu.edu	Henderson State University / Huie Library	1999.0	233.0
+3285	http://www.pearidgecommunitylibrary.org	Pea Ridge Community Library HQ	2011.0	9.0
+3287	http://www.popelibrary.org/index.php/branches/russellville-headquarters-library/	Pope County Library HQ	2009.0	2.0
+3288	http://www.baxtercounty.org/	Baxter	2002.0	92.0
+3289	http://www.anc.edu/library/index.htm	Arkansas Northeastern College Library	2008.0	1.0
+3290	https://courts.arkansas.gov/courts/court-of-appeals	Court of Appeals, Arkansas	2013.0	100.0
+3291	http://library.uafs.edu/	University of Arkansas at Fort Smith / Boreham Library	2013.0	164.0
+3292	http://www.fortsmithlibrary.org	Fort Smith Public Library HQ	2006.0	107.0
+3293	http://www.arkansas.gov/awwcc/	Water Well Construction, Arkansas Commission on	2004.0	5.0
+3294	http://www.state.ar.us/drs/	Department of Rural Services	2000.0	33.0
+3295	http://www.edline.net/pages/west_fork_public_schools	WEST FORK SCHOOL DISTRICT	2010.0	2.0
+3296	http://www.wbcoll.edu/current_students/academics/felix_goodson_library.aspx	Williams Baptist College / Felix Goodson Library	2010.0	61.0
+3298	http://www.cityofarkadelphia.com/	Arkadelphia	2001.0	87.0
+3299	http://www.arminorityhealth.com	Minority Health Commission, Arkansas	2003.0	31.0
+3300	http://www.library.arkansas.gov/Pages/default.aspx	Library, Arkansas State	2010.0	753.0
+3301	http://beebebadgers.org	BEEBE SCHOOL DISTRICT	2011.0	8.0
+3302	http://www.arkansas.com/	Parks and Tourism, Arkansas Department of	1998.0	7900.0
+3303	http://www.arec.arkansas.gov/Pages/default.aspx	Real Estate Commission, Arkansas	2010.0	70.0
+3304	http://deermtjudea.k12.ar.us	DEER/MT. JUDEA SCHOOL DISTRICT	2008.0	383.0
+3306	http://www.clest.org/Pages/default.aspx	Law Enforcement Standards and Training, Arkansas Commission on	2012.0	21.0
+3308	http://paragould.k12.ar.us	PARAGOULD SCHOOL DISTRICT	2003.0	4991.0
+3309	http://hoxieschools.com	HOXIE SCHOOL DISTRICT	2011.0	649.0
+3310	http://www.asun.edu/	Arkansas State University - Newport	2003.0	766.0
+3311	http://www.arkansasstateparks.com	State Parks, Arkansas	2000.0	1075.0
+3312	http://www.dfa.arkansas.gov/offices/racingcommission/pages/default.aspx	Racing Commission, Arkansas	2009.0	6.0
+3313	http://www.asumh.edu/library/	Arkansas State University - Mt. Home / Norma Wood Library	2002.0	21.0
+3315	http://www.vbsd.us	VAN BUREN SCHOOL DISTRICT	2004.0	908.0
+3316	http://www.ozarka.edu/	Ozarka College	1999.0	1599.0
+3318	http://www.arkleg.state.ar.us/bureau/pages/default.aspx	Legislative Research, Arkansas Bureau of	2008.0	15.0
+3319	http://arkcs.arkansas.gov	ARKANSAS CORRECTIONAL SCHOOL	2007.0	34.0
+3320	http://www.clark-library.com	Clark County Library	2011.0	10.0
+3321	http://www.sheridanschools.org	SHERIDAN SCHOOL DISTRICT	0.0	630.0
+3322	http://ualr.edu/law/library/	University of Arkansas at Little Rock / Pulaski County Law Library	2011.0	32.0
+3323	http://www.arhspa.org	Health Services Permit Agency, Arkansas	2002.0	0.0
+3324	http://www.cabotschools.org	CABOT SCHOOL DISTRICT	2012.0	2682.0
+3328	http://www.siloamschools.com	SILOAM SPRINGS SCHOOL DISTRICT	2011.0	41.0
+3329	http://nevadaschooldistrict.net	NEVADA SCHOOL DISTRICT	2005.0	82.0
+3331	http://www.geology.ar.gov/	Geological Survey, Arkansas	2008.0	2.0
+3332	http://mustang.grsc.k12.ar.us	FORREST CITY SCHOOL DISTRICT	1998.0	9.0
+3334	http://www.brinkleyschools.com	BRINKLEY SCHOOL DISTRICT	2003.0	0.0
+3335	http://acic.org/Pages/default.aspx	Crime Information Center, Arkansas	2012.0	30.0
+3336	http://www.edline.net/pages/bay	BAY SCHOOL DISTRICT	2008.0	65.0
+3338	http://www.asp.state.ar.us/asp/asp_commission.html	State Police Commission, Arkansas	2006.0	2.0
+3340	http://www2.youseemore.com/conwaycl/	Conway County Library HQ	2008.0	633.0
+3341	http://epc.k12.ar.us	EAST POINSETT COUNTY SCHOOL DISTRICT	2001.0	44.0
+3342	http://www.arkansas.gov/ddssa/	Social Security Administration, Disability Determination for	2003.0	13.0
+3344	http://www.uark.edu	University of Arkansas, Fayetteville	1997.0	78.0
+3347	http://www.arkansas.gov/directory/	Arkansas State Government Resource Search	0.0	2.0
+3348	http://ruralhealth.uams.edu/uamssouth	UAMS Area Health Education Center South Arkansas / Carroll Library	2013.0	287.0
+3350	http://www.arkansaslpgasboard.com/	Liquefied Petroleum Gas Board, Arkansas	2003.0	1.0
+3351	http://stephens.k12.ar.us	STEPHENS SCHOOL DISTRICT	2009.0	92.0
+3352	http://eagle.nwsc.k12.ar.us	HUNTSVILLE SCHOOL DISTRICT	1998.0	116.0
+3353	http://www.newportschools.org	NEWPORT SCHOOL DISTRICT	2013.0	0.0
+3354	http://blevinshornets.weebly.com	BLEVINS SCHOOL DISTRICT	2011.0	59.0
+3355	http://humanservices.arkansas.gov/dcsns/pages/default.aspx	Service Commission, Arkansas	2011.0	16.0
+3356	http://www.arkansas.gov/psc/	Public Service Commission, Arkansas	2002.0	3.0
+3357	http://menapolkcountylibrary.org	Polk County Library HQ	2011.0	78.0
+3358	http://www.mammothspringschools.com	MAMMOTH SPRING SCHOOL DISTRICT	2011.0	0.0
+3359	http://www.ozarkhillbillies.org	OZARK SCHOOL DISTRICT	2001.0	195.0
+3362	http://www.springdaleschools.org	SPRINGDALE SCHOOL DISTRICT	2001.0	425.0
+3363	http://www.mylibrarynow.org/piggott/	Piggott Public Library	2012.0	31.0
+3364	http://www.arptb.org/	Physical Therapy, Arkansas State Board of	2002.0	15.0
+3366	http://www.newtoncountylibrary.com/	Newton County Library HQ	2003.0	27.0
+3367	http://www.myarkansaslottery.com/	Lottery Commission, Arkansas	2009.0	173.0
+3368	http://www.go-devils.net/	GURDON SCHOOL DISTRICT	2013.0	16.0
+3369	http://www.ag.state.ar.us/	Attorney General	1998.0	41.0
+3370	http://ohit.arkansas.gov/Pages/default.aspx	Health Information Technology, Arkansas Office of	2011.0	75.0
+3371	http://www.blackrivertech.edu/	Black River Technical College	2002.0	941.0
+3372	http://www.state.ar.us/bank/banking1.html	State Bank Department	1998.0	1.0
+3373	http://www.edline.net/pages/dierks_school_district	DIERKS SCHOOL DISTRICT	2013.0	2.0
+3374	http://uca.edu/	University of Central Arkansas	1996.0	4069.0
+3375	http://aad.arkansas.gov/Pages/default.aspx	Agriculture Department, Arkansas	2010.0	63.0
+3377	http://hssd.net	HOT SPRINGS SCHOOL DISTRICT	2001.0	1842.0
+3378	http://www.sebastiancountyar.gov/	Sebastian	2013.0	662.0
+3379	http://www.starcityschools.com	STAR CITY SCHOOL DISTRICT	2002.0	352.0
+3380	http://www.astate.edu/	Arkansas State University	1997.0	1926.0
+3381	http://www.arkansas.gov/land/land.html	Land Commissioner	2002.0	21.0
+3382	http://www.msd3.org	MARION SCHOOL DISTRICT	2006.0	293.0
+3383	http://dewittschooldistrict.net	DEWITT SCHOOL DISTRICT	2005.0	33.0
+3384	http://www.stuttgartschools.org	STUTTGART SCHOOL DISTRICT	2008.0	0.0
+3385	http://www.arvetboard.com/	Veterinary Medical Examining Board, Arkansas	2007.0	12.0
+3386	http://www.lamanlibrary.org/	Argenta Branch Library	2010.0	495.0
+3387	http://www.rison.k12.ar.us/	CLEVELAND COUNTY SCHOOL DISTRICT	2001.0	0.0
+3388	http://www.jasper.k12.ar.us/index.php	JASPER SCHOOL DISTRICT	2009.0	277.0
+3390	http://waterways.arkansas.gov/Pages/default.aspx	Waterways Commission, Arkansas	2013.0	33.0
+3393	http://www.sharpcounty.org	Sharp	0.0	0.0
+3394	http://www.adeq.state.ar.us/commission/	Pollution Control and Ecology Commission, Arkansas	0.0	23.0
+3396	http://www.dfa.arkansas.gov/offices/abc/pages/default.aspx	Alcoholic Beverage Control Board - Administration	2009.0	19.0
+3398	http://www.arkansas.gov/apdc/	Public Defender Commission, Arkansas	2004.0	17.0
+3399	http://www.crsd.k12.ar.us	CEDAR RIDGE SCHOOL DISTRICT	2007.0	374.0
+3400	http://www.cosl.org/	State Lands, Arkansas Commissioner of	2004.0	21.0
+3403	http://web.saumag.edu/library/	Southern Arkansas University / Magale Library	2009.0	61.0
+3404	http://www.maumelle.org/	Maumelle	1999.0	1661.0
+3405	http://cityofnorfork.org	Norfork	2010.0	16.0
+3407	http://www.salinecounty.org/	Saline	2000.0	375.0
+3408	http://podiatricmedicine.arkansas.gov/Pages/default.aspx	Podiatric Medicine, Arkansas Board of	2011.0	22.0
+3409	http://www.sbeadac.org/	Alcoholism and Drug Abuse Counselors, Arkansas Board of Examiners	2009.0	8.0
+3410	http://www.edline.net/pages/fountain_lake_sd	FOUNTAIN LAKE SCHOOL DISTRICT	2010.0	2.0
+3411	http://www.arkansas.gov/abof/	Foresters, Arkansas State Board of Registration for	2008.0	14.0
+3412	http://desarc.wmsc.k12.ar.us	DES ARC SCHOOL DISTRICT	2005.0	72.0
+3413	http://www.seviercounty-ar.com/	Sevier	2001.0	456.0
+3414	http://www.arkansasbeef.org	Beef Council, Arkansas	2003.0	34.0
+3415	http://www3.nashvillearkansas.com/	Nashville	2001.0	1.0
+3417	http://nlrsd.org/	NORTH LITTLE ROCK SCHOOL DISTRICT	2007.0	1152.0
+3418	http://www.craterofdiamondsstatepark.com/	Crater of Diamonds State Park	2003.0	130.0
+3419	http://www.ci.sherwood.ar.us/	Sherwood	1999.0	0.0
+3421	http://wynne.k12.ar.us	WYNNE SCHOOL DISTRICT	2001.0	2.0
+3422	http://www.queenwilhelmina.com/	Queen Wilhemina State Park	2003.0	116.0
+3423	http://www.atu.edu/	Arkansas Tech University	1996.0	1695.0
+3424	http://www.ddcouncil.org	Development Disabilities Council, Arkansas Governors	2001.0	33.0
+3425	http://www.lopfi-prb.com	Local Police and Fire Retirement System, Arkansas	1999.0	38.0
+3426	http://pangburnschools.org	PANGBURN SCHOOL DISTRICT	2009.0	142.0
+3428	http://mansfieldtigers.org/	MANSFIELD SCHOOL DISTRICT	2012.0	1078.0
+3431	http://www.quitman.k12.ar.us/	QUITMAN SCHOOL DISTRICT	2006.0	94.0
+3434	http://www.arfireprotection.org	Fire Protection Licensing Board, Arkansas	2001.0	12.0
+3435	http://www.nwacc.edu/nwacc/	Northwest Arkansas Community College	2013.0	6.0
+3436	https://courts.arkansas.gov/administration	Administrative Office of the Courts	2013.0	4381.0
+3437	http://rbsd.k12.ar.us/	ROSE BUD SCHOOL DISTRICT	2007.0	296.0
+3438	http://bauxiteminers.org/	BAUXITE SCHOOL DISTRICT	2013.0	273.0
+3439	http://bison.wmsc.k12.ar.us	CARLISLE SCHOOL DISTRICT	2000.0	33.0
+3441	http://www.library.arkansas.gov/pages/facilitydetails.aspx?show=278	University of the Ozarks  / Robson Library	2010.0	752.0
+3447	http://eurekaspringsschools.k12.ar.us	EUREKA SPRINGS SCHOOL DISTRICT	2005.0	1075.0
+3448	http://www.horatioschools.org	HORATIO SCHOOL DISTRICT	2011.0	431.0
+3449	http://www.arvrls.com/logan.htm	Boyd T. & Mollie Gattis Logan Co. Library	2001.0	16.0
+3450	http://owls.k12.ar.us	MCGEHEE SCHOOL DISTRICT	2001.0	0.0
+3451	http://www.crosscountyschools.com/	CROSS COUNTY SCHOOL DISTRICT	0.0	407.0
+3452	http://salem.k12.ar.us	SALEM SCHOOL DISTRICT	2000.0	907.0
+3453	http://www.gctsd.k12.ar.us	GREENE COUNTY TECH SCHOOL DISTRICT	2002.0	1301.0
+3455	http://www.deltaculturalcenter.com/	Delta Cultural Center	2000.0	360.0
+3456	http://www.crossettschools.org	CROSSETT SCHOOL DISTRICT	2008.0	0.0
+3457	http://www.edline.net/pages/wonderview_sd	WONDERVIEW SCHOOL DISTRICT	2012.0	2.0
+3458	http://www.magnoliaschools.net	MAGNOLIA SCHOOL DISTRICT	2007.0	253.0
+3459	http://www.flippinschools.com	FLIPPIN SCHOOL DISTRICT	2012.0	226.0
+3461	http://www.abespa.com/	Speech-Language Pathology & Audiology, AR Bd. of Examiners in	2005.0	15.0
+3462	https://courts.arkansas.gov/	Judiciary, Arkansas	2008.0	4500.0
+3463	http://www.shirley.k12.ar.us/	SHIRLEY SCHOOL DISTRICT	2005.0	58.0
+3464	http://ltgovernor.arkansas.gov	Lieutenant Governor, Office of	2007.0	7.0
+3465	http://www.atu.edu/ozarklibrary/index.shtml	Arkansas Tech University - Ozark Campus Library	0.0	1.0
+3468	http://www.dollarway.k12.ar.us/education/district/district.php?sectionid=1	DOLLARWAY SCHOOL DISTRICT	2012.0	2.0
+3469	http://www.edline.net/pages/warren_sd	WARREN SCHOOL DISTRICT	2011.0	12.0
+3471	http://www.mcagov.com/	Mississippi	2001.0	151.0
+3472	http://www.jonesboro.org/	Jonesboro	1997.0	516.0
+3473	http://pharmacyboard.arkansas.gov/Pages/default.aspx	Pharmacy, Arkansas State Board of	2012.0	84.0
+3474	http://www.metroplan.org/	Metroplan	1998.0	191.0
+3476	http://www.ozarka.edu/library.cfm	Ozarka College / Paul Weaver Library	2002.0	1227.0
+3477	http://www.historicarkansas.org/	Historic Arkansas Museum	2004.0	417.0
+3478	http://governor.arkansas.gov/Pages/default.aspx	Governor	2011.0	23.0
+3479	http://aba.arkansas.gov/Pages/default.aspx	Building Authority, Arkansas	2011.0	67.0
+3480	http://bears.k12.ar.us	WOODLAWN SCHOOL DISTRICT	2005.0	145.0
+3483	http://farmcards.org	FARMINGTON SCHOOL DISTRICT	2007.0	16.0
+3484	http://www.corningschools.k12.ar.us	CORNING SCHOOL DISTRICT	2001.0	156.0
+3485	http://www.arkingdream.org/	Martin Luther King, Jr. Commission	2008.0	8.0
+3486	http://www.pccua.edu/library/	Phillips Community College of the University of Arkansas  / Lewis Library	2009.0	144.0
+3487	http://www.smackover.net/	SMACKOVER SCHOOL DISTRICT	2011.0	1.0
+3490	http://westmemphislibrary.org/	West Memphis Public Library HQ	2013.0	9.0
+3491	http://almapubliclibrary.org/	Alma Public Library	2002.0	2.0
+3492	http://www.arkansas.gov/asc/	Sentencing Commission, Arkansas	2003.0	10.0
+3494	http://bobcat.k12.ar.us	BERRYVILLE SCHOOL DISTRICT	2005.0	654.0
+3495	http://www.arpgboard.org/	Geologists, Arkansas Board of Registration for Professional	2007.0	11.0
+3496	http://www.hsu.edu/	Henderson State University	1996.0	1085.0
+3497	http://www.bismarcklions.net	BISMARCK SCHOOL DISTRICT	2007.0	6.0
+3498	http://www.arkansas.gov/sbec/	Election Commissioners, Arkansas State Board of	2002.0	27.0
+3503	http://rogersschools.net	ROGERS SCHOOL DISTRICT	2010.0	10302.0
+3504	http://nashvillesd.com/	NASHVILLE SCHOOL DISTRICT	2013.0	421.0
+3505	http://www.ardieteticslicbrd.net/	Dietetics Licensing Board, Arkansas	2002.0	12.0
+3506	http://www.sos.arkansas.gov/electionresults/index.php	Arkansas Election Results	2012.0	189.0
+3507	http://www.kirbytrojans.net	KIRBY SCHOOL DISTRICT	2013.0	29.0
+3508	http://www.cityofpinebluff.com/	Pine Bluff	2001.0	119.0
+3509	http://adc.arkansas.gov/Pages/default.aspx	Correction, Arkansas Department of	2011.0	107.0
+3510	http://www.edline.net/pages/white_county_central_sd	WHITE COUNTY CENTRAL SCHOOL DISTRICT	2010.0	2.0
+3511	http://www.arkansasarts.org/	Arkansas Arts Council	2000.0	6798.0
+3512	http://dragons1.k12.ar.us	GENOA CENTRAL SCHOOL DISTRICT	2002.0	514.0
+3514	http://www.hsc.lib.ar.us	Roy & Christine Sturgis Library of Cleveland County	2003.0	309.0
+3515	http://armorel.k12.ar.us	ARMOREL SCHOOL DISTRICT	2011.0	854.0
+3516	http://www.oldstatehouse.com/	Old State House Museum	2000.0	1026.0
+3520	http://170.211.217.197/wordpress/	MARVELL SCHOOL DISTRICT	2011.0	19.0
+3521	http://mtree.crsc.k12.ar.us	MARKED TREE SCHOOL DISTRICT	2003.0	3.0
+3522	http://www.viloniaschools.org	VILONIA SCHOOL DISTRICT	2000.0	504.0
+3524	http://arkansasrecycles.org	Recyclables, Arkansas Marketing Board for	2011.0	9.0
+3525	http://www.springdalelibrary.org/	Springdale Public Library	2001.0	2.0
+3526	http://www.trumannwildcat.com/	TRUMANN SCHOOL DISTRICT	2012.0	121.0
+3527	http://www.baxtercountylibrary.org	Gassville Branch Library	2001.0	1.0
+3528	http://www.arvrls.com/franklin.htm	Franklin County Library	2001.0	16.0
+3530	http://www.cemeteryboard.arkansas.gov/	Cemetery Board, Arkansas	2006.0	9.0
+3533	http://socs.nemo.k12.ar.us	NEMO VISTA SCHOOL DISTRICT	2011.0	554.0
+3534	http://amvc.arkansas.gov/	Motor Vehicle Commission, Arkansas	2009.0	40.0
+3536	http://www.eacc.edu/	East Arkansas Community College	2003.0	313.0
+3537	http://brookland.crsc.k12.ar.us	BROOKLAND SCHOOL DISTRICT	0.0	86.0

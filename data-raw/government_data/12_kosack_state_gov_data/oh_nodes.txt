@@ -1,0 +1,1154 @@
+NodeId	NodeURL	NodeName	Year	pages
+45215	http://www.serveohio.org/	Commission on Service and Volunteerism	0.0	59.0
+45217	http://watchdog.ohio.gov/	Inspector General	0.0	29.0
+45218	http://elc.ohio.gov/	Elections Commission	2004.0	28.0
+45219	http://www.ci.moraine.oh.us/	Moraine (City)	2000.0	858.0
+45220	http://www.ohioturnpike.org/	Turnpike Commission	1998.0	128.0
+45221	http://www.cityofwarrensville.com/home	Warrensville Heights (City)	2013.0	129.0
+45222	http://www.com.ohio.gov/	Commerce	2005.0	60.0
+45223	http://www.granvillelibrary.org	Granville Public Library	2001.0	425.0
+45224	http://statenews.org/	Statehouse News Bureau	1998.0	14699.0
+45225	http://www.libertycenterlibrary.org	Liberty Center Public Library	2004.0	48.0
+45226	http://www.43420.org/	Fremont (City)	2011.0	58.0
+45227	http://www.avonlake.org/	Avon Lake (City)	2000.0	387.0
+45228	http://ci.xenia.oh.us/	Xenia (City)	1998.0	543.0
+45229	http://www.jacksonmilton.k12.oh.us/school_home.aspx?schoolid=1	Jackson Milton High School	2007.0	3584.0
+45230	http://www.co.miami.oh.us/	Miami County	2000.0	594.0
+45231	http://homelandsecurity.ohio.gov/	Homeland Security	2004.0	4.0
+45232	http://cardingtonlibrary.org	Cardington-Lincoln Public Library	2011.0	176.0
+45234	http://www.southbulldogs.com/	South Urban Academy	2006.0	248.0
+45236	http://www.villageofbutler.com/	Butler (Village)	2004.0	10.0
+45238	http://www.cityofavon.com/	Avon (City)	2000.0	413.0
+45239	http://www.ohioschoolforthedeaf.org/	School for the Deaf	2000.0	528.0
+45240	http://www.hanoverohio.net/	Hanover (Village)	2007.0	28.0
+45242	http://www.collegeadvantage.com/	Tuition Trust Authority	2000.0	95.0
+45243	http://www.belmontcountyohio.org/	Belmont County	2001.0	14.0
+45244	http://www.orgsites.com/oh/fowlertwp/index.html	Fowler Township (Trumbull County)	2013.0	10.0
+45245	http://www.rrcity.com/	Rocky River (City)	1998.0	170.0
+45246	http://www.vanwert.org/	Van Wert (Village)	1998.0	66.0
+45247	http://www.miamitrace.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/school_home.aspx	Miami Trace High School	0.0	3.0
+45248	http://www.trumbull.kent.edu	Kent State University-Trumbull	1996.0	3965.0
+45250	http://www.warsawohio.us/	Warsaw (Village)	2003.0	16.0
+45251	http://www.mt-gilead.lib.oh.us	Mt Gilead Public Library	2001.0	152.0
+45252	http://www.ci.pickerington.oh.us/	Pickerington (City)	1998.0	172.0
+45253	http://www.canalfultonlibrary.org	Canal Fulton Public Library	2003.0	1268.0
+45254	http://www.upper-sandusky.lib.oh.us	Upper Sandusky Community Library	2002.0	15.0
+45255	http://www.massillonohio.com/	Massillon (City)	1998.0	42.0
+45256	http://www.co.ottawa.oh.us/	Ottawa County	2001.0	19.0
+45257	http://www.circlevillecityschools.org/	Circleville High School	2002.0	1951.0
+45258	http://www.athenshigh.org/	Athens High School	2002.0	45.0
+45260	http://www.uc.edu	University of Cincinnati	1998.0	1456.0
+45261	http://ochla.ohio.gov/	Hispanic/Latino Affairs Commission	2004.0	456.0
+45262	http://www.washingtontwp.org/	Washington Township (Montgomery County)	1998.0	6571.0
+45263	http://www.berea.k12.oh.us/site/default.aspx?domainid=169	Berea High School	2011.0	34.0
+45264	http://www.richlandcountyoh.us/	Richland County	2003.0	6.0
+45268	http://www.clydeohio.org/	Clyde (City)	1998.0	19.0
+45269	http://www.highlandschools.org/high-school	Highland High School	2009.0	1663.0
+45270	http://www.bradfordpubliclibrary.org/	Bradford Public Library	2007.0	80.0
+45271	http://www.newlexington.org/	New Lexington (City)	2001.0	23.0
+45272	http://www.orangevillage.com/	Orange (Village)	1998.0	116.0
+45276	http://columbus.gov/	Columbus (City)	2001.0	1995.0
+45278	http://www.trurotwp.org/	Truro Township (Franklin County)	2001.0	100.0
+45279	http://www.huntingvalley.net/	Hunting Valley (Village)	2001.0	73.0
+45280	http://www.cityofwillowick.com/	Willowick (City)	2005.0	100.0
+45281	http://www.edon-ohio.com/	Edon (Village)	2006.0	11.0
+45283	http://www.southlebanonohio.org/	South Lebanon (City)	2001.0	27.0
+45286	http://www.villageofholgate.com/	Holgate (Village)	2008.0	10.0
+45288	http://www.newlondonohio.com/	New London (Village)	1998.0	31.0
+45289	http://www.villageoffayette.com/	Fayette (Village)	2001.0	2.0
+45290	http://www.marion.lib.oh.us	Marion Public Library	2003.0	400.0
+45292	http://www.clayton.oh.us/	Clayton (City)	1998.0	479.0
+45293	http://www.fcf.ohio.gov/	Family and Children First	2009.0	143.0
+45294	http://www.careyohio.org/	Carey (Village)	2006.0	259.0
+45295	http://www.ic.ohio.gov/news/newsinfo.html	Industrial Commission	2014.0	10.0
+45297	http://www.cambridge.k12.oh.us/chs/	Cambridge High School	2005.0	10.0
+45299	http://www.mechanicsburgoh.com/	Mechanicsburg (Village)	2008.0	1290.0
+45302	http://dukes.stark.k12.oh.us/mhs/default.html	Marlington High School	1997.0	395.0
+45303	http://www.ripleyohio.net/	Ripley (Village)	2003.0	2.0
+45304	http://fatherhood.ohio.gov/	Commission on Fatherhood	0.0	106.0
+45305	http://www.bereaohio.com/	Berea (City)	1999.0	34.0
+45306	http://www.regionals.miamioh.edu/	Miami University-Hamilton	2012.0	87.0
+45307	http://www.wellington.k12.oh.us/whs/whsmain.htm	Wellington High School	2007.0	6.0
+45309	http://www.caldwell.lib.oh.us	Caldwell Public Library	2000.0	4.0
+45311	http://www.egcc.edu/	Eastern Gateway Community College	2010.0	324.0
+45312	http://www.ashlandcityschools.org/hs	Ashland High School	2011.0	265.0
+45314	http://www.bucyrus.k12.oh.us/buchs/	Bucyrus High School	2003.0	45.0
+45315	http://www.ema.ohio.gov/	Emergency Management Agency	2004.0	118.0
+45316	http://www.geauga.kent.edu	Kent State University-Geauga	1997.0	15.0
+45317	http://www.villageofowensville.org/	Owensville (Village)	2011.0	10.0
+45318	http://www.tippcitylibrary.org	Tipp City Public Library	2008.0	21.0
+45319	http://www.cityofsoutheuclid.com/splash/	South Euclid (City)	0.0	2.0
+45320	http://www.lorainccc.edu	Lorain County Community College	1997.0	1881.0
+45321	http://www.akron.k12.oh.us/schools/415/	Central Hower High School	0.0	6.0
+45322	http://www.rhodesstate.edu	Rhodes State College	2002.0	1901.0
+45323	http://www.munsontwp.com/	Munson Township (Geauga County)	1998.0	30.0
+45324	http://www.twp.jerusalem.oh.us/	Jerusalem Township(Lucas County)	2001.0	20.0
+45325	http://www.bellecenterlibrary.com	Belle Center Free Public Library	2006.0	9.0
+45326	http://www.bbhcsd.org/hs/	Brecksville Broadview Heights High School	2004.0	52.0
+45327	http://www.stmarys.lib.oh.us	St. Marys Community Public Library	2002.0	579.0
+45328	http://www.jefferson.k12.oh.us/highschool.cfm?subpage=20143	Jefferson Area Jr-sr High School	2006.0	0.0
+45330	http://development.ohio.gov/bs/bs_renewenergy.htm	Energy Office, Development Services Agency	2012.0	81.0
+45331	http://www.mvcc.net/oakwood/	Oakwood (City)	1999.0	125.0
+45332	http://www.owda.org/owda0001.asp?PgID=homepage	Water Development Authority	2008.0	46.0
+45333	http://www.plaincitylib.org	Plain City Public Library	2003.0	23.0
+45334	http://www.ci.lakewood.oh.us/temp.aspx	Lakewood (City)	2009.0	777.0
+45335	http://www.ohiostatefair.com/	Ohio State Fair	1999.0	970.0
+45336	http://www.ci.union.oh.us/	Union (City)	2001.0	221.0
+45337	http://www.co.williams.oh.us/	Williams County	1999.0	30.0
+45338	http://adaoh.org/	Ada (Village)	2013.0	35.0
+45341	http://www.centerville.k12.oh.us/	Centerville High School	1998.0	4509.0
+45342	http://www.sheffieldlake.net/	Sheffield Lake (City)	2004.0	382.0
+45344	http://www.jeffersontwp.k12.oh.us/	Jefferson High School	2001.0	21.0
+45345	http://www.ohioana.org	Ohioana Library Association	2006.0	81.0
+45348	http://www.orrville.lib.oh.us	Orrville Public Library	1998.0	441.0
+45349	http://www.conneautschools.org/	Conneaut High School	2002.0	0.0
+45351	http://www.plain-city.com/	Plain City (Village)	2003.0	712.0
+45352	http://www.blueash.com/	Blue Ash (City)	1998.0	324.0
+45353	http://www.sinclair.edu	Sinclair Community College	1997.0	1938.0
+45356	http://www.kirtland.lib.oh.us	Kirtland Public Library	2000.0	540.0
+45357	http://www.puco.ohio.gov/puco/	Public Utilities Commission	2011.0	1181.0
+45359	http://www.villageofsilverlake.com/index.php	Silver Lake (Village)	2003.0	9.0
+45360	http://www.coshoctonlibrary.org	Coshocton Public Library	2005.0	13.0
+45361	http://www.belmontcollege.edu/	Belmont College	2012.0	410.0
+45363	http://www.villageoflowellville.com/	Lowellville (Village)	2003.0	85.0
+45364	http://www.huroncolib.org	Willard Memorial Library	2010.0	188.0
+45365	http://monroetwplucas.org/	Monroe Township (Richland County)	2011.0	64.0
+45366	http://www.opd.ohio.gov/	Public Defender	2004.0	15.0
+45368	http://blanchester.lib.oh.us	Blanchester Public Library	2000.0	113.0
+45370	http://www.fspl.org	Franklin Public Library	2001.0	301.0
+45371	http://www.mercercountyohio.org/	Mercer County	1999.0	40.0
+45372	http://www.piquaoh.org/	Piqua (City)	2001.0	403.0
+45373	http://www.henderson.lib.oh.us	Henderson Memorial Public Library Association	1998.0	222.0
+45374	http://www.welibrary.info	Willoughby-Eastlake Public Library	2008.0	136.0
+45375	http://www.westlafayettevillage.com/	West Lafayette (Village)	2002.0	32.0
+45376	http://www.orrville.k12.oh.us/hs/	Orrville High School	2004.0	70.0
+45377	http://www.bainbridgetwp.com/	Bainbridge Township (Geauga County)	2000.0	0.0
+45379	http://chirobd.ohio.gov/	Chiropractic Board	2004.0	51.0
+45380	http://www.wagnallslibrary.org	Wagnalls Memorial Library	2003.0	2.0
+45381	http://www.co.allen.oh.us/	Allen County	1999.0	119.0
+45383	http://www.parmaheightsoh.gov/	Parma Heights (City)	2004.0	52.0
+45384	http://www.carlisleoh.org/	Carlisle (City)	1998.0	382.0
+45385	http://www.villageofutica.com/	Utica (Village)	2002.0	361.0
+45387	http://www.osu.edu	Ohio State University	1997.0	1837.0
+45390	http://www.washingtongov.org/	Washington County	2001.0	987.0
+45391	http://www.tiffinsen.lib.oh.us	Tiffin-Seneca Public Library	1998.0	33.0
+45392	http://www.dcs.k12.oh.us/site/default.aspx?domainid=61	Rutherford B Hayes High School	0.0	63.0
+45393	http://www.london.lib.oh.us	London Public Library	1999.0	333.0
+45394	http://www.daytonmetrolibrary.org	Dayton Metro Library	2003.0	428.0
+45397	http://brownmemorial.lib.oh.us	Brown Memorial Library	2008.0	113.0
+45398	http://www.northweststate.edu	Northwest State Community College	2004.0	206.0
+45399	http://hn.k12.oh.us/	Hardin Northern High School	2002.0	521.0
+45400	http://www.ontarioohio.org/	Ontario (City) Ontario	2002.0	46.0
+45401	http://www.opsb.ohio.gov/opsb/	Power Siting Board	2010.0	262.0
+45403	http://www.jeffersonohio.us/	Jefferson (Village)	2006.0	48.0
+45404	http://www.statehouseshop.com	Statehouse Museum Shop	2000.0	5263.0
+45405	http://www.cityofyoungstownoh.org/	Youngstown (City)	2005.0	66.0
+45406	http://www.arc.ohio.gov	Architects Examining Board	2003.0	24.0
+45407	http://evergreencommunitylibrary.org/	Evergreen Community Library	2003.0	411.0
+45409	http://www.clarkcountyohio.gov/	Clark County	2004.0	675.0
+45410	http://www.cscc.edu	Columbus State Community College	1997.0	1761.0
+45411	http://www.muskingumcounty.org/	Muskingum County	2003.0	25.0
+45412	http://conneautohio.gov/	Conneaut (City)	2009.0	144.0
+45413	http://www.villageofpioneer.org/	Pioneer (Village)	2013.0	20.0
+45414	http://otptat.ohio.gov	Occupational Therapy, Physical Therapy, and Athletic Trainers	2003.0	75.0
+45415	http://cahs.info/	Columbus Alternative High School	2005.0	43.0
+45416	http://luckeyohio.org/	Luckey (Village)	2003.0	41.0
+45417	http://www.villageofforest.com/	Forest (Village)	2007.0	254.0
+45418	http://www.greentwp.org/	Green Township (Hamilton County)	1998.0	166.0
+45420	http://www.cityofgallipolis.com/	Gallipolis (City)	2013.0	151.0
+45421	http://www.northroyalton.org/	North Royalton (City)	2001.0	105.0
+45422	http://villageofseville.org/	Seville (Village)	2010.0	16.0
+45423	http://www.norwalkoh.com/	Norwalk (City)	1999.0	14.0
+45424	http://www.ci.findlay.oh.us/	Findlay (City)	1999.0	469.0
+45425	http://crooksville.com/	Crooksville (Village)	0.0	88.0
+45427	http://www.riograndevillage.net/	Rio Grande (Village)	2010.0	16.0
+45428	http://www.pemberville.org/	Pemberville (Village)	2002.0	41.0
+45429	http://www.pisgs.ohio.gov/pissc.stm	Private Investigation and Security Services Commission	2011.0	4.0
+45430	http://tontoganyohio.org/	Tontogany (Village)	2009.0	11.0
+45431	http://www.chuh.org/	Cleveland Heights High School	2003.0	173.0
+45432	https://co.summitoh.net/	Summit County	2013.0	657.0
+45433	http://www.elmwoodplace.org/	Elmwood Place (Village)	2002.0	1.0
+45434	http://www.brightdsl.net/~chipptwp/	Chippewa Township (Wayne County)	2004.0	363.0
+45436	http://www.whitehall-oh.us/	Whitehall (City)	2009.0	547.0
+45437	http://www.huronlibrary.org	Huron Public Library	2006.0	112.0
+45438	http://www.villageofgreensprings.com/	Green Springs (Village)	2003.0	33.0
+45439	http://www.investigativeunit.ohio.gov	Investigative Unit	2004.0	12.0
+45440	http://www.villageofsouthpoint.com/	South Point (Village)	2004.0	52.0
+45441	http://www.fairborn.k12.oh.us/Error.aspx?refid=1120176	Fairborn High School	0.0	1039.0
+45442	http://ohio.gov/	State Government	1996.0	4373.0
+45443	http://www.pleasanthillohio.com/	Pleasant Hill (Village)	2004.0	19.0
+45444	http://miamioh.edu/	Miami University	2012.0	1254.0
+45446	http://montpelierpubliclibrary.oplin.org	Montpelier Public Library	2004.0	68.0
+45447	http://www.ohiohouse.gov	House of Representatives	2013.0	112.0
+45448	http://www.perrytwp.org/	Perry Township (Franklin County)	2006.0	2703.0
+45449	http://www.co.montgomery.oh.us/	Montgomery County	1996.0	1453.0
+45450	http://www.pickerington.k12.oh.us/school_home.aspx?schoolid=1	Pickerington High School Central	2007.0	1538.0
+45451	http://www.brunswick.oh.us/	Brunswick (City)	1996.0	67.0
+45452	http://www.botkinsohio.com/	Botkins (Village)	1999.0	66.0
+45453	http://www.jlec-olig.state.oh.us/	Legislative Inspector General	1998.0	252.0
+45455	http://www.napoleonohio.com/	Napoleon (City)	1999.0	66.0
+45457	http://www.ohioexpocenter.com/	Exposition Commission	1996.0	274.0
+45459	http://www.westcarrollton.org/	West Carrollton (City)	2000.0	538.0
+45461	http://www.serb.state.oh.us/	State Employment Relations Board	1998.0	31.0
+45462	http://www.lawrencetownship.org/	Lawrence Township (Tuscarawas County)	2003.0	110.0
+45464	http://www.brewsterohio.com/	Brewster (Village)	1999.0	656.0
+45465	http://www.governor.ohio.gov/prioritiesandinitiatives/faithbasedandcommunityinitiatives.aspx	Governor's Office of Faith-Based and Community Initiatives	2012.0	9.0
+45466	http://www.chardon.cc/	Chardon (City)	2000.0	254.0
+45467	http://casinocontrol.ohio.gov	Casino Control Commission	2011.0	149.0
+45468	http://www.cityofdelphos.com/	Delphos (City)	2002.0	158.0
+45469	http://www.birchard.lib.oh.us	Birchard Public Library Of Sandusky County	1998.0	163.0
+45471	http://ocdp.ohio.gov	Chemical Dependency Professionals Board	2004.0	20.0
+45473	http://www.cardington.org/	Cardington (Village)	2005.0	2.0
+45474	http://www.fortrecoverylibrary.org	Fort Recovery Public Library	2003.0	165.0
+45475	http://www.browncountypubliclibrary.org	Brown County Public Library	2007.0	486.0
+45476	http://www.eastuniontownship.org/	East Union Township (Wayne County)	2003.0	14.0
+45479	http://www.mifflintownship.com/	Mifflin Township (Richland County)	2009.0	70.0
+45480	http://www.madrivertownship.org/	Mad River Township (Clark County)	2002.0	16.0
+45481	http://www.medinaoh.org/	Medina (City)	1997.0	304.0
+45482	http://www.keystonelocalschools.org/keystone-high/index.htm	Keystone High School	2012.0	33.0
+45483	http://wadsworthlibrary.com/	Ella M. Everhard Public Library	2004.0	102.0
+45484	http://www.bedfordheights.gov/	Bedford Heights (City)	2002.0	150.0
+45485	http://www.wyoming.oh.us/	Wyoming (City)	1996.0	133.0
+45486	http://www.tippcityohio.gov/	Tipp (City)	2006.0	211.0
+45487	http://pleasantvilleoh.com/	Pleasantville (Village)	2001.0	1.0
+45488	http://dublinohiousa.gov/	Dublin (City)	2012.0	1216.0
+45490	http://www.versaillesohio.cc/	Versailles (Village)	2001.0	39.0
+45491	http://www.ashtabula.kent.edu	Kent State University-Ashtabula	1997.0	10.0
+45492	http://www.ong.ohio.gov/	Adjutant General	2005.0	117.0
+45493	http://www.govart.org	Youth Art Exhibition	2002.0	12.0
+45495	http://www.libraryvisit.org	Youngstown And Mahoning County, Pl Of	2000.0	661.0
+45496	http://www.maumee.org/	Maumee (City)	1998.0	320.0
+45497	http://www.pembervillelibrary.org	Pemberville Public Library	2000.0	141.0
+45498	http://www.ashland.lib.oh.us	Ashland Public Library	1998.0	362.0
+45499	http://www.butlertwp.net/	Butler Township (Darke County)	2013.0	50.0
+45500	http://www.cityofwauseon.com/	Wauseon (City)	2008.0	185.0
+45502	http://www.wellington.lib.oh.us	Herrick Memorial Public Library	1999.0	28.0
+45503	http://www.marysville.k12.oh.us/default.aspx	Marysville High School	2013.0	201.0
+45506	http://www.ohio.edu/zanesville/	Ohio University-Zanesville	2012.0	115.0
+45507	http://www.wadsworthtownship.org/	Wadsworth Township (Medina County)	2004.0	9.0
+45509	http://co.lucas.oh.us/	Lucas County	2001.0	969.0
+45511	http://www.cleves.org/?navbar=66	Cleves (Village)	2002.0	38.0
+45513	http://www.mtoraboh.us/	Mount Orab, (Village)	2003.0	2.0
+45514	http://northcantonohio.gov/	North Canton (City)	2013.0	368.0
+45516	http://www.westunity.org/	West Unity (Village)	2007.0	15.0
+45517	http://www.starklibrary.org	Stark County District Library	2002.0	305.0
+45518	http://www.swanton.lib.oh.us	Swanton Public Library	2001.0	217.0
+45520	http://www.amberleyvillage.org/	Amberley (Village)	2001.0	110.0
+45521	http://www.uniontwp-miamicounty-oh.us/	Union Township (Miami County)	2004.0	155.0
+45522	http://www.edon.k12.oh.us/Error.aspx?refid=1120242	Edon High School	0.0	939.0
+45524	http://liverpooltwp.org/site/	Liverpool Township (Medina County)	2013.0	117.0
+45525	http://www.marblecliff.org/	Marble Cliff (Village)	2002.0	17.0
+45526	http://www.somersetohio.us/	Somerset (Village)	2002.0	1.0
+45527	http://www.oakharbor.oh.us/	Oak Harbor (Village)	1998.0	65.0
+45528	http://www.villageofclifton.com/	Clifton (Village)	2009.0	22.0
+45529	http://www.monroetwp.org/	Monroe Township (Clermont County)	2001.0	4.0
+45530	http://www.phlibraries.oplin.org	Patrick Henry School District Public Library	2004.0	50.0
+45531	http://www.hamilton-city.org/	Hamilton (City)	1997.0	933.0
+45532	http://www.allentownship.us/	Allen Township (Ottawa County)	2002.0	72.0
+45533	http://www.violet.oh.us/	Violet Township (Fairfield County)	1998.0	544.0
+45534	http://www.montpelieroh.net/	Montpelier (City)	2005.0	11.0
+45536	http://www.beavercreektownship.org/	Beavercreek Township (Greene County)	2001.0	129.0
+45537	http://www.milanohio.com/	Milan (Village)	1998.0	48.0
+45538	http://www.portagecounty.lib.oh.us	Portage County District Library	1998.0	699.0
+45539	http://www.shelbymm.lib.oh.us	Marvin Memorial Library	1999.0	274.0
+45540	http://www.fairviewpark.org/	Fairview Park (City)	2001.0	90.0
+45541	http://www.lewisburg.net/	Lewisburg (Village)	2001.0	51.0
+45543	http://www.bhs.k12.oh.us/	Beallsville High School	2003.0	19.0
+45544	http://www.shawnee.edu	Shawnee State University	1996.0	937.0
+45545	http://www.milfordohio.org/	Milford (City)	2001.0	76.0
+45546	http://www.willardohio.com/	Willard (City)	1998.0	33.0
+45547	http://waterville.org/	Waterville (Village)	1997.0	141.0
+45548	http://www.mayfieldvillage.com/	Mayfield (Village)	1998.0	498.0
+45550	http://www.euclidlibrary.org	Euclid Public Library	2002.0	308.0
+45551	http://mih.ohio.gov/	Minority Health Commission	2004.0	67.0
+45552	http://www.workforce.ohio.gov	Governor's Office of Workforce Transformation	2004.0	35.0
+45553	http://www.sh.noacsc.org/	St Henry High School	2001.0	100.0
+45554	http://www.burton.lib.oh.us	Burton Public Library	1998.0	334.0
+45555	http://www.fairfieldcountyohio-libertytownship.org/	Liberty Township (Fairfield County)	2007.0	20.0
+45556	http://peeblesohio.us/	Peebles (Village)	2009.0	1.0
+45557	http://www.miftwp.org/	Mifflin Township (Franklin County)	2001.0	70.0
+45558	http://www.ci.elyria.oh.us/	Elyria (City)	1999.0	2.0
+45559	http://www.pickeringtonlibrary.org	Pickerington Public Library	2003.0	189.0
+45560	http://www.alexandriaoh.org/	Alexandria (Village)	2007.0	7.0
+45562	https://ohioauditor.gov/	Auditor	2012.0	4624.0
+45563	http://www.barbertonlibrary.org	Barberton Public Library	2008.0	98.0
+45564	http://pharmacy.ohio.gov/	Pharmacy Board	2003.0	238.0
+45565	http://www.fayette-co-oh.com/	Fayette County	2000.0	38.0
+45566	http://www.adamsco.lib.oh.us	Adams County Public Library	2002.0	7586.0
+45568	http://www.wellsville.lib.oh.us	Wellsville Carnegie Public Library	1999.0	4046.0
+45569	http://www.olentangy.k12.oh.us/ohs/	Olentangy High School	2012.0	106.0
+45570	http://www.newhaventownship.com/	New Haven Township (Huron County)	2003.0	8.0
+45571	http://www.georgetownohio.us/	Georgetown (Village)	2007.0	19.0
+45572	http://twp.russell.oh.us/	Russell Township (Geauga County)	1999.0	45.0
+45573	http://www.newbremen.com/	New Bremen (Village)	1998.0	380.0
+45574	http://mupubliclibrary.org	Milton Union Public Library	2008.0	492.0
+45575	http://www.westonohio.org/	Weston (Village)	2008.0	29.0
+45576	http://www.ci.ravenna.oh.us/	Ravenna (City)	2002.0	1177.0
+45577	http://ci.fairborn.oh.us/	Fairborn (City)	1998.0	802.0
+45578	http://www.kenston.k12.oh.us/khs/khs.htm	Kenston High School	0.0	3251.0
+45579	http://www.marysvilleohio.org/	Marysville (City)	2001.0	520.0
+45581	http://www.hollandohio.com/	Holland (Village)	0.0	498.0
+45582	http://www.fairportharbor.org/	Fairport Harbor (Village)	2003.0	36.0
+45583	http://www.co.wood.oh.us/	Wood County	2001.0	37.0
+45584	http://www.cityofdefiance.com/	Defiance (City)	2000.0	219.0
+45585	http://www.cityofmiddletown.org/	Middletown (City)	2006.0	215.0
+45586	http://www.ciic.state.oh.us/home	Correctional Institution Inspection	0.0	216.0
+45587	http://www.chillicothe.ohiou.edu	Ohio University-Chillicothe	2007.0	1111.0
+45589	http://edgerton-ohio.com/	Edgerton (Village)	2008.0	31.0
+45590	http://www.butlercountyohio.org/countyPortal.cfm?0248031	Butler County	0.0	369.0
+45591	http://www.hugedomains.com/domain_profile.cfm?d=degraffohio&e=com	De Graff (Village)	0.0	4027.0
+45592	http://ci.london.oh.us/	London (City)	2001.0	354.0
+45593	http://wcdpl.lib.oh.us	Wood County District Public Library	2001.0	1.0
+45595	http://www.union-township.oh.us/	Union Township (Clermont County)	1999.0	2408.0
+45596	https://www.bwc.ohio.gov/	Workers' Compensation	2014.0	300.0
+45597	http://www.ci.canfield.oh.us/	Canfield (City)	2001.0	48.0
+45601	http://www.ohiodnr.gov/	Natural Resources	2007.0	486.0
+45603	http://www.cityofhubbard.com/	Hubbard (City)	2000.0	31.0
+45604	http://www.villageoflodi.com/	Lodi (Village)	2006.0	2.0
+45605	http://www.mariettaoh.net/	Marietta (City)	2003.0	197.0
+45608	http://www.ohiojudges.org	Judicial Conference	2003.0	47.0
+45609	http://www.co.medina.oh.us/	Medina County	1997.0	8.0
+45610	http://www.ofcs.net/school_home.aspx?schoolid=1	Olmsted Falls High School	2009.0	3809.0
+45611	http://www.ci.montgomery.oh.us/	Montgomery (City)	1999.0	2.0
+45612	http://www.bathwildcats.org/buildings/bath-high-school/	Bath High School	2014.0	52.0
+45613	http://whs.wolfcreek.k12.oh.us/	Waterford High School	2001.0	1.0
+45616	http://www.newtonfalls.org	Newton Falls Public Library	1998.0	698.0
+45617	http://www.lickingtwpohio.us/index.htm	Licking Township (Licking County)	2003.0	37.0
+45618	http://www.orwellvillage.org/	Orwell (Village)	1999.0	23.0
+45619	http://www.doylestown.com/	Doylestown (Village)	1996.0	289.0
+45620	http://www.odh.ohio.gov/	Health	2004.0	1159.0
+45622	http://www.newknoxville.com/	New Knoxville (Village)	2000.0	17.0
+45623	http://www.mlcook.lib.oh.us/	Mary L. Cook Public Library	2000.0	760.0
+45624	http://www.claymontlibrary.org	Claymont School District Public Library	2005.0	54.0
+45626	http://www.villageofnewtown.com/	Newtown (Village)	2003.0	108.0
+45628	http://optometry.ohio.gov/	Optometry Board	2004.0	28.0
+45629	http://www.cityofcortland.org/	Cortland (City)	2000.0	4638.0
+45632	http://www.eastcleveland.info/inamix/content/home	East Cleveland (City)	2010.0	226.0
+45633	http://www.grandrapidsohio.com/	Grand Rapids (Village)	1999.0	58.0
+45635	http://www.elyriaschools.org/elyria/	Elyria High School	2006.0	857.0
+45636	http://www.fairfield-union.k12.oh.us/fairfieldhigh/	Fairfield Union High School	2001.0	94.0
+45637	http://www.governor.ohio.gov/	Governor	2004.0	22.0
+45638	http://www.villageofpaulding.com/	Paulding (Village)	2003.0	14.0
+45639	http://www.higginsportohio.com/	Higginsport (Village)	2001.0	7.0
+45640	http://www.villageofelmore.com/	Elmore (Village)	2004.0	304.0
+45641	http://www.ameliavillage.com/	Amelia (Village)	2001.0	46.0
+45642	http://www.eaton.k12.oh.us/	Eaton High School	2003.0	706.0
+45643	http://www.cityoflorain.org/	Lorain (City)	2003.0	1204.0
+45644	http://www.mayfieldheights.org/	Mayfield Heights (City)	1999.0	1196.0
+45645	http://www.ci.bellefontaine.oh.us/	Bellefontaine (City)	2001.0	115.0
+45646	http://www.csuohio.edu/	Cleveland State University	1997.0	2481.0
+45648	http://www.brown.twp.franklin.oh.us/	Brown Township (Franklin County)	2001.0	124.0
+45649	http://www.vandaliabutlerschools.org/butler/	Butler High School	2007.0	1.0
+45650	http://lynchburgohio.org	Lynchburg (Village)	2013.0	147.0
+45651	http://www.bethel-oh.gov/	Bethel (Village)	2008.0	31.0
+45652	http://www.garrettsville.org/	Garrettsville (Village)	2001.0	33.0
+45653	http://www.ccpl.lib.oh.us	Clark County Public Library	1998.0	825.0
+45654	http://www.acc.ohio.gov/	Accountancy Board	2003.0	38.0
+45655	http://www.gnaden.lib.oh.us	Gnadenhuttenp.L.-Indian Valley School Dist.	1998.0	145.0
+45657	http://auburntownship.com/index.cfm	Auburn Township (Geauga County)	2011.0	83.0
+45658	http://www.midpointelibrary.org/	Middletown Public Library	2012.0	108.0
+45660	http://www.villageofwellington.com/	Wellington (Village)	2002.0	443.0
+45661	http://granvilletownship.org/	Granville Township (Licking County)	2000.0	66.0
+45662	http://www.loganohio.net/	Logan (City)	2000.0	26.0
+45663	http://www.plaintownship.com/	Plain Township (Stark County)	2004.0	122.0
+45664	http://www.sharonville.org/	Sharonville (City)	2004.0	715.0
+45665	http://westmansfield.net/	West Mansfield (Village)	2009.0	23.0
+45666	http://www.norwood-ohio.com/	Norwood (City)	1998.0	13.0
+45667	http://www.eatontownship.org/	Eaton Township (Lorain County)	2009.0	18.0
+45668	http://www.columbiana.k12.oh.us/highschool/	Columbiana High School	2003.0	1.0
+45669	http://www.addystonohio.org/	Addyston (Village)	2007.0	19.0
+45670	http://www.ci.vandalia.oh.us/	Vandalia (City)	1998.0	121.0
+45671	http://www.danvilleohio.org/	Danville (Village)	2011.0	458.0
+45672	http://www.archbold.k12.oh.us/ahspages/ahs.html	Archbold High School	2000.0	8.0
+45673	http://www.lickingcountylibrary.info	Licking County Library	2008.0	199.0
+45674	http://www.lebanonlibrary.org	Lebanon Public Library	2007.0	7.0
+45675	http://www.champaign.lib.oh.us	Champaign County Library	1999.0	548.0
+45676	http://www.canalwinchester.org/	Canal Winchester (Village)	1998.0	292.0
+45677	http://www.utoledo.edu/	University of Toledo	1997.0	3460.0
+45679	http://www.hinckleytwp.org/	Hinckley Township (Medina County)	2000.0	228.0
+45680	http://www.enonohio.com/	Enon (Village)	2000.0	43.0
+45681	http://www.mentorhigh.com/	Mentor High School	2001.0	509.0
+45683	http://www.berea.k12.oh.us/site/default.aspx?domainid=106	Midpark High School	2011.0	30.0
+45684	http://uhs-wh.cps-k12.org/	Western Hills University High School	2003.0	11.0
+45686	http://www.middlefieldohio.com/	Middlefield (Village)	2001.0	499.0
+45688	http://orangetwp.org/	Orange Township (Delaware County)	2002.0	540.0
+45689	http://lakeerie.ohio.gov/	Lake Erie Commission	2008.0	80.0
+45694	http://www.ocjs.ohio.gov/	Criminal Justice Services	2003.0	3.0
+45695	http://www.new-carlisle.lib.oh.us	New Carlisle Public Library	2000.0	29.0
+45697	http://www.villageofgrafton.org/	Grafton (Village)	2002.0	63.0
+45699	http://www.selover.lib.oh.us	Selover Public Library	2001.0	30.0
+45702	http://www.carnegie.lib.oh.us	Carnegie Public Library	1998.0	370.0
+45703	http://www.oregonohio.org/	Oregon (City)	2009.0	1285.0
+45704	http://www.mayfieldschools.org/index.aspx?menu_id=75&parent_id=75	Mayfield High School	0.0	6.0
+45705	http://www.villageofsugarcreek.com/	Sugarcreek (Village)	2009.0	58.0
+45706	http://www.delhi.oh.us/	Delhi Township (Hamilton County)	1996.0	75.0
+45707	http://www.independenceohio.org/	Independence (City)	2001.0	1187.0
+45708	http://ovmlb.ohio.gov/	Veterinary Medical Licensing Board	2004.0	42.0
+45709	http://www.cuyahogacounty.us/	Cuyahoga County	2003.0	75.0
+45710	http://www.northbendohio.org/villageofnorthbend.html	North Bend (Village)	2003.0	88.0
+45712	http://www.doverlibrary.org	Dover Public Library	2005.0	150.0
+45714	http://www.ottawahills.org/	Ottawa Hills (Village)	1999.0	25.0
+45715	http://hamilton-township.org/	Hamilton Township (Warren County)	2001.0	74.0
+45716	http://www.carrollcountyohio.us/	Carroll County	2008.0	78.0
+45718	http://cityofwellston.org/	Wellston (City)	2007.0	71.0
+45719	http://www.monroecounty.lib.oh.us	Monroe County District Library	2001.0	72.0
+45720	http://cantonohio.gov/	Canton (City)	2008.0	817.0
+45721	http://www.danburytownship.com/	Danbury Township (Ottawa County)	2002.0	47.0
+45723	http://www.warren.org/	Warren (City)	2001.0	255.0
+45724	http://www.louisvillelibrary.org	Louisville Public Library	2005.0	57.0
+45725	http://www.margaretta.k12.oh.us/	Margaretta High School	1998.0	325.0
+45726	http://www.village.middleport.oh.us/	Middleport (Village)	2002.0	42.0
+45728	http://development.ohio.gov/cleanohio/	Clean Ohio Fund	2013.0	33.0
+45729	http://www.meigs.lib.oh.us	Meigs County District Public Library	1998.0	235.0
+45730	http://ofcc.ohio.gov/	Facilities Construction Commission	2012.0	53.0
+45733	http://www.fostoria.k12.oh.us/schools/fhs/fhs.htm	Fostoria High School	2007.0	0.0
+45734	http://www.amherstohio.org/	Amherst (City)	2006.0	74.0
+45735	http://www.cityofniles.com/pages/1/index.htm	Niles (City)	2003.0	39.0
+45736	http://www.cincinnati-oh.gov/cityofcincinnati/	Cincinnati (City)	2012.0	123.0
+45738	http://www.limalibrary.com	Lima Public Library	1999.0	746.0
+45739	http://napoleon.polarislibrary.com	Napoleon Public Library	2006.0	1.0
+45741	http://www.broadview-heights.org/	Broadview Heights (City)	2002.0	717.0
+45742	http://das.ohio.gov/	Administrative Services	2001.0	354.0
+45743	http://www.franklin-township.com/	Franklin Township (Franklin)	2001.0	200.0
+45745	http://www.north-olmsted.com/	North Olmsted (City)	2004.0	141.0
+45746	http://worch.lib.oh.us/	Worch Memorial Public Library	2000.0	4.0
+45747	http://www.stclairsville.com/	St. Clairsville (City)	1998.0	41.0
+45748	http://mcoprx.co.marion.oh.us/	Marion County	2008.0	59.0
+45751	http://www.mountgilead.net/	Mount Gilead (Village)	2000.0	37.0
+45752	http://www.rio.edu	Rio Grande Community College	1999.0	1539.0
+45753	http://www.symmestownship.org/	Symmes Township (Hamilton County)	2000.0	163.0
+45754	http://www.peebles.scoca-k12.org/	Peebles High School	1999.0	83.0
+45755	http://ashvilleohio.gov/	Ashville (Village)	2011.0	1896.0
+45756	https://www.oar.net	OARnet	1996.0	365.0
+45759	http://www.peps.ohio.gov	Engineers and Surveyors Board	2008.0	151.0
+45763	http://www.bedfordoh.gov/	Bedford (City)	2001.0	407.0
+45764	http://www.hillsboroohio.net/	Hillsboro (City)	2002.0	27.0
+45765	http://www.grandriverohio.net/	Grand River (Village)	2010.0	13.0
+45766	http://www.auglaizecounty.org/	Auglaize County	2002.0	458.0
+45767	http://www.madison-library.info	Madison Public Library	2007.0	18.0
+45768	http://medicaid.ohio.gov/	Medicaid, Department of	2013.0	635.0
+45769	http://www.worthington.org/	Worthington (City)	1997.0	775.0
+45770	http://www.masonpl.lib.oh.us	Mason Public Library	1998.0	135.0
+45771	http://www.lagrangeohio.net/indexv.shtml	LaGrange (Village)	2003.0	239.0
+45772	http://www.hbmlibrary.org	Hurt-Battelle Memorial Librarywest Jefferson	2005.0	24.0
+45773	http://www.grandviewheights.org/	Grandview Heights (City)	1998.0	335.0
+45774	http://www.woosteroh.com/index.php	Wooster (City)	2007.0	67.0
+45776	http://www.ci.indian-hill.oh.us/	Indian Hill (Village)	2000.0	53.0
+45777	http://www.northcollegehill.org/?navbar=66	North College Hill (City)	2003.0	652.0
+45778	http://www.mariemont.org/	Mariemont (Village)	2001.0	284.0
+45779	http://www.williamsburgtownship.org/	Williamsburg Township (Clermont County)	2005.0	28.0
+45780	http://www.columbiatwp.org/	Columbia Township (Hamilton County)	2008.0	3.0
+45781	http://www.salem-township.lib.oh.us	Salem Township Public Library	2002.0	5.0
+45782	http://beachcityohio.org/	Beach City (City)	2010.0	8.0
+45783	http://slpaud.ohio.gov/	Speech-Language Pathology and Audiology	2004.0	34.0
+45785	http://www.hocking.edu	Hocking College	1998.0	542.0
+45786	http://www.ncstatecollege.edu/cms/index.php	North Central State College	2008.0	1004.0
+45789	http://www.sycamoretownship.com/	Sycamore Township (Hamilton County)	2001.0	94.0
+45790	http://www.butlertownship.com/	Butler Township (Montgomery County)	1998.0	52.0
+45791	http://www.clermont.lib.oh.us	Clermont County Public Library	2000.0	47.0
+45794	http://www.millersportohio.com/	Millersport (Village)	2001.0	7.0
+45795	http://www.newvienna.net/	New Vienna (Village)	2004.0	52.0
+45796	http://www.ThompsonOhio.org/TWP/index.html	Thompson Township (Geauga County)	2006.0	1.0
+45798	http://www.fortrecoveryschools.org/	Fort Recovery High School	2009.0	133.0
+45799	http://www.com.ohio.gov/fiin/	Financial Institutions	2007.0	9.0
+45800	http://www.mfpl.org	Martins Ferry Public Library	1998.0	52.0
+45801	http://www.wilmington.lib.oh.us	Wilmington Public Library Of Clinton County	1998.0	1179.0
+45802	http://www.cityofsalemohio.org/	Salem (City)	2004.0	588.0
+45803	http://www.crawford-co.org/	Crawford County	2002.0	6.0
+45804	https://www.owens.edu/	Owens Community College	2002.0	832.0
+45805	http://www.cos.ohio.gov	Cosmetology Board	2003.0	67.0
+45806	http://norweld.org/	Northwest Regional Library System	2009.0	335.0
+45807	http://www.east-clinton.k12.oh.us/hs/highschool.htm	East Clinton High School	2004.0	15.0
+45808	http://www.crosbytwp.org/	Crosby Township (Hamilton County)	2002.0	17.0
+45810	http://www.vermilionschools.org/vnews/display.v/sec/high	Vermilion High School	2012.0	0.0
+45811	http://www.pleasanttwp.org/	Pleasant Township (Marion County)	2001.0	53.0
+45812	http://www.lsc.state.oh.us/	Legislative Service Commission	1998.0	43.0
+45813	http://www.ecpl.lib.oh.us	East Cleveland Public Library	1998.0	21.0
+45814	http://www.villageofconvoy.com/	Convoy (Village)	2002.0	28.0
+45815	http://www.pickeringtonpanthers.com/	Pickerington High School North	2003.0	1.0
+45816	http://www.cityofdayton.org/pages/default.aspx	Dayton (City)	2008.0	512.0
+45817	http://www.edgerton.k12.oh.us/higschool/hsdefault.htm	Edgerton High School	2004.0	2.0
+45818	http://villageofsouthcharleston.net/	South Charleston (Village)	2007.0	37.0
+45819	http://broadcast.ohio.gov/	Broadcast Educational Media Commission	2014.0	38.0
+45820	http://www.opp.ohio.gov/	Orthotics, Prosthetics and Pedorthics Board	2004.0	47.0
+45821	http://www.northfairfieldvillage.com/	North Fairfield (Village)	2007.0	17.0
+45822	http://www.zanestate.edu	Zane State College	2004.0	148.0
+45824	http://www.hicksvilleschools.org/hhs/	Hicksville High School	2001.0	1.0
+45825	http://www.newalbanyohio.org/	New Albany (City)	2011.0	173.0
+45826	http://www.clarkstate.edu	Clark State Community College	2002.0	460.0
+45827	http://www.brooklynhts.org/	Brooklyn Heights (Village)	2003.0	275.0
+45828	http://www.omhc.ohio.gov	Manufactured Homes Commission	2005.0	8.0
+45829	http://www.homer.lib.oh.us	Homer Public Library	2000.0	57.0
+45831	http://www.acdl.info	Ashtabula County District Library	2003.0	399.0
+45832	http://franklintownshipohio.org/	Franklin Township (Portage County)	2002.0	114.0
+45834	http://www.dys.ohio.gov/dnn/	Youth Services	2009.0	82.0
+45835	http://www.sabinalibrary.com	Sabina Public Library	2001.0	7.0
+45836	http://www.culture.ohio.gov/	Cultural Facilities Commission, Ohio	2004.0	53.0
+45837	http://www.swonlibraries.org/	Southwest Ohio And Neighboring Libraries	2006.0	311.0
+45838	http://bataviatownship.org/	Batavia Township (Clermont County)	2006.0	248.0
+45839	http://www.co.union.oh.us/GD/Templates/Pages/UC/UCPageDefault.aspx?page=1	Union County	0.0	5.0
+45840	http://www.nctlib.org/	Newcomerstown Public Library	2013.0	228.0
+45841	http://ci.perrysburg.oh.us/	Perrysburg (City)	2001.0	501.0
+45842	http://www.pataskalalibrary.org	Pataskala Public Library	2004.0	386.0
+45843	http://www.jeffersontownship.org/	Jefferson Township (Franklin County)	2001.0	444.0
+45845	http://www.cincinnatilibrary.org	Cincinnati And Hamilton County, Pl Of	2001.0	877.0
+45847	http://www.centralstate.edu/index.php	Central State University	2008.0	560.0
+45848	http://www.bgsu.edu	Bowling Green State University	1997.0	5160.0
+45849	http://www.lakemoreohio.org/	Lakemore (Village)	2003.0	18.0
+45850	http://www.dot.state.oh.us/pages/home.aspx	Transportation	2008.0	5950.0
+45851	http://www.tax.ohio.gov/	Taxation	2003.0	2532.0
+45852	http://www.bryan.k12.oh.us/Error.aspx?refid=1120423	Bryan High School	0.0	1147.0
+45853	http://hs.versailles.k12.oh.us/	Versailles High School	2007.0	36.0
+45854	http://www.golfmanor.org/	Golf Manor (Village)	2001.0	32.0
+45856	http://www.harrison.lib.oh.us	Puskarich Public Library	2002.0	979.0
+45857	http://geaugalibrary.net/newsite/	Geauga County Public Library	2010.0	134.0
+45858	http://www.cityofbryan.com/	Bryan (City)	2000.0	18.0
+45860	http://www.tiffinohio.gov/	Tiffin (City)	2008.0	20.0
+45861	http://www.riverleaohio.com/	Riverlea (Village)	2004.0	31.0
+45862	http://villageofohiocity.com/	Ohio City (Village)	2008.0	30.0
+45863	http://johnstownohio.org/	Johnstown (Village)	2001.0	218.0
+45864	http://www.mycommodores.org/	Perry High School	2012.0	545.0
+45865	http://www.dietetics.ohio.gov/	Dietetics Board	2004.0	27.0
+45866	http://www.loansaurus.co.uk/	Kingsville Township (Ashtabula County)	2013.0	13.0
+45867	http://www.com.ohio.gov/dico/bbs/default.aspx	Building Standards Board	2013.0	9.0
+45868	http://www.cuyahogaheights.com/	Cuyahoga Heights (Village)	2001.0	98.0
+45869	http://www.delawarelibrary.org	Delaware County District Library	2003.0	647.0
+45870	http://www.stark.kent.edu	Kent State University-Stark	1998.0	4.0
+45871	http://www.granville.oh.us/	Granville (City)	1996.0	1331.0
+45872	http://www.ci.washington-court-house.oh.us/	Washington Court House (City)	2002.0	97.0
+45873	http://www.yourppl.org	Portsmouth Public Library	2006.0	580.0
+45876	http://www.andersontownship.org/	Anderson Township (Hamilton County)	2001.0	412.0
+45877	http://www.statepatrol.ohio.gov/	State Highway Patrol	2004.0	6.0
+45878	http://www.southvienna.org/	South Vienna (Village)	2004.0	11.0
+45879	http://www.heathohio.gov/index.asp	Heath (City)	2008.0	34.0
+45880	http://mha.ohio.gov/	Mental Health and Addiction Services	2013.0	1272.0
+45881	http://www.kent.edu	Kent State University	1997.0	5506.0
+45882	http://www.kentohio.org/	Kent (City)	1999.0	72.0
+45883	http://www.shawneetownship.com/	Shawnee Township (Allen County)	2001.0	254.0
+45884	http://ci.chillicothe.oh.us/	Chillicothe (City)	2004.0	44.0
+45885	http://www.ci.springboro.oh.us/	Springboro (City)	1996.0	174.0
+45886	http://www.tri-c.edu/Pages/default.aspx	Cuyahoga Community College	2008.0	2.0
+45887	http://www.fostoria.lib.oh.us	Kaubisch Memorial Public Library	2001.0	114.0
+45888	http://ood.ohio.gov/ood-home/about-us/governor's-council-on-people-with-disabilities	Governor's Council on People with Disabilities	2013.0	34.0
+45889	http://ottawaohio.us/	Ottawa (Village)	2009.0	38.0
+45890	http://www.ysu.edu	Youngstown State University	1996.0	2662.0
+45891	http://www.troypubliclibrary.org	Troy-Miami County Public Library	2005.0	638.0
+45892	http://www.lcounty.com/	Licking County	2000.0	288.0
+45893	http://www.mckinley.lib.oh.us	Mckinley Memorial Library	1998.0	271.0
+45894	http://www.wintersville.net/	Wintersville (Village)	2001.0	31.0
+45895	http://www.ashlandcounty.org/	Ashland County	2001.0	60.0
+45897	http://www.co.greene.oh.us/	Greene County	1998.0	1522.0
+45899	http://www.newbostonvillage.com/	New Boston (Village)	2009.0	47.0
+45900	http://www.east-palestine.lib.oh.us	East Palestine Memorial Public Library	1999.0	265.0
+45901	http://community.lib.oh.us	Community Library	1998.0	25.0
+45902	http://kentfreelibrary.org/	Kent Free Library	1999.0	125.0
+45903	http://www.drc.ohio.gov/	Rehabilitation and Correction	1996.0	70.0
+45904	http://www.crestlineoh.com/	Crestline (City)	2002.0	32.0
+45905	http://www.ci.celina.oh.us/	Celina (City)	1998.0	63.0
+45906	http://www.obetz.oh.us/	Obetz (Village)	2000.0	122.0
+45907	http://www.perrysburgtownship.us/	Perrysburg (Wood County)	2003.0	158.0
+45910	http://www.minerva.lib.oh.us	Minerva Public Library	1998.0	548.0
+45912	http://www.cuyahogafallslibrary.org	Cuyahoga Falls Library	2004.0	1665.0
+45913	http://www.cco.state.oh.us/	Court of Claims	2001.0	30.0
+45914	http://www.wapakoneta.com/	Wapakoneta (City)	1998.0	27.0
+45916	https://www.ohiohighered.org/	University System of Ohio	2011.0	1092.0
+45917	http://www.ci.galion.oh.us/	Galion (City)	2001.0	22.0
+45918	http://www.greenville-publiclibrary.org	Greenville Public Library	2007.0	19.0
+45919	http://franklin-township.org/	Franklin Township (Wayne County)	2002.0	0.0
+45920	http://www.monroetownship-miamicounty-ohio.com/	Monroe Township (Miami County)	2006.0	34.0
+45921	http://www.ualibrary.org	Upper Arlington Public Library	2001.0	2687.0
+45922	http://www.com.ohio.gov/secu/	Securities	2007.0	8.0
+45923	http://www.fairport.lib.oh.us	Fairport Harbor Public Library	2003.0	14.0
+45924	http://www.sandusky.lib.oh.us	Sandusky Library	1998.0	60.0
+45925	http://www.lkwdpl.org	Lakewood Public Library	1996.0	1.0
+45926	http://www.psychology.ohio.gov/	Psychology Board	2003.0	2.0
+45927	http://www.mercer.lib.oh.us	Mercer County District Public Library	2001.0	523.0
+45928	http://www.bta.ohio.gov/	Tax Appeals Board	2004.0	7.0
+45929	http://www.kentoncity.com/	Kenton (City)	2001.0	34.0
+45930	http://www.cotc.edu/Pages/index.aspx	Central Ohio Technical College	2009.0	203.0
+45931	http://www.betheltownship.org/	Bethel Township (Miami County)	2003.0	16.0
+45932	http://www.concordtwp.org/	Concord Township (Delaware County)	2007.0	70.0
+45933	http://www.catawbaislandtownship.com/	Catawba Island Township (Ottawa County)	2003.0	300.0
+45934	http://www.walexpreb.org/	West Alexandria (Village)	2002.0	22.0
+45935	http://www.co.darke.oh.us/	Darke County	2002.0	692.0
+45936	http://whitehouseoh.gov/	Whitehouse (Village)	2011.0	345.0
+45937	http://jfs.ohio.gov/apprenticeship/index.stm	Apprenticeship Council	2003.0	7.0
+45938	http://www.blan.org/joomla	Blanchester High School	2011.0	0.0
+45939	http://www.archbold.com/	Archbold (Village)	1999.0	95.0
+45940	http://www.orrville.com/	Orrville (City)	1998.0	34.0
+45941	http://www.valleyview.net/	Valley View (City)	1998.0	470.0
+45942	http://www.ohioairquality.org/	Air Quality Development Authority	2000.0	68.0
+45943	http://www.lovelandoh.com/	Loveland (City)	1998.0	504.0
+45945	http://www.franklinohio.org/	Franklin (City)	2002.0	838.0
+45946	http://www.independence.k12.oh.us/	Independence High School	1998.0	48.0
+45947	http://www.englewood.oh.us/	Englewood (City)	1998.0	94.0
+45948	http://www.deerfieldtwp.com/	Deerfield Township (Warren County)	1998.0	16.0
+45949	http://obm.ohio.gov/sectionpages/controllingboard/default.aspx	Controlling Board	2008.0	21.0
+45950	http://www.miamitwp.org/	Miami Township (Clermont County)	1996.0	200.0
+45951	http://sanitarian.ohio.gov/	Sanitarian Registration Board	2004.0	18.0
+45954	http://www.ucclermont.edu/	University of Cincinnati-Clermont College	2002.0	466.0
+45956	http://www.wayneohio.org/	Wayne County	2004.0	58.0
+45957	http://www.harrisonoh.org/	Harrison (City)	1999.0	263.0
+45958	http://www.groveport.org/	Groveport (Village)	2000.0	1719.0
+45960	http://www.mtsterlingpubliclibrary.org	Mt Sterling Public Library	2003.0	63.0
+45963	http://www.tos.ohio.gov/	Treasurer	2006.0	687.0
+45964	http://www.minsteroh.com/	Minster (Village)	1998.0	948.0
+45967	http://villageofberlinheights.com/	Berlin Heights (Village)	2010.0	10.0
+45969	http://www.new-straitsville.lib.oh.us	New Straitsville Public Library	2000.0	9.0
+45971	http://auglaize.oplin.org	Auglaize County Public District Library	2004.0	538.0
+45972	http://www.solonohio.org/	Solon (City)	2000.0	840.0
+45973	http://www.tusclibrary.org	Tuscarawas County Public Library	2005.0	579.0
+45975	http://www.salem.lib.oh.us	Salem Public Library	2007.0	326.0
+45976	http://www.com.ohio.gov/liqr/	Liquor Control Division	2007.0	16.0
+45977	http://www.newlebanonoh.com/	New Lebanon (Village)	2000.0	34.0
+45978	http://www.cityofbrookpark.com/	Brook Park (City)	2001.0	63.0
+45979	http://villageofwoodville.com/	Woodville (Village)	2003.0	53.0
+45980	http://blendontwp.org/	Blendon Township (Franklin County County)	2007.0	113.0
+45981	http://www.edinburgtownship.com/	Edinburg Township (Portage County)	2008.0	31.0
+45982	http://www.eastliverpool.com/	East Liverpool (City)	1996.0	33.0
+45983	http://www.nolanet.org/	Northeast Ohio Regional Library System	1998.0	0.0
+45984	http://www.brooklynohio.gov/	Brooklyn (City)	2003.0	125.0
+45985	http://www.southbloomfield.org/	South Bloomfield (Village)	2009.0	36.0
+45986	http://www.sugarcreektownship.com/	Sugarcreek Township (Greene County)	2000.0	383.0
+45987	http://www.marionohio.us/	Marion (City)	2007.0	1060.0
+45988	http://www.cityofbellbrook.org/	Bellbrook (City)	2001.0	55.0
+45989	http://das.ohio.gov/divisions/informationtechnology/tabid/79/default.aspx	Information Technology	2011.0	1.0
+45991	http://unioncityvillage.homestead.com/	Union City (Village)	2001.0	12.0
+45994	http://wayne.uakron.edu/	University of Akron-Wayne College	1996.0	346.0
+45995	http://www.bossard.lib.oh.us	Dr. Samuel L. Bossard Memorial Library	2001.0	204.0
+45996	http://www.erie-county-ohio.net/	Erie County	2001.0	3.0
+45997	http://www.pcdl.org	Perry County District Library	2000.0	266.0
+45998	http://www.pcdl.lib.oh.us	Preble County District Library	1996.0	85.0
+45999	http://www.berne-union.k12.oh.us/	Berne Union High School	2000.0	40.0
+46000	http://www.windhamvillage.com/	Windham (Village)	2006.0	86.0
+46002	http://www.gcdpl.lib.oh.us	Guernsey County District Public Library	2001.0	780.0
+46003	http://www.cityofgirard.com/	Girard (City)	2000.0	38.0
+46005	http://www.cincinnatistate.edu	Cincinnati State Technical and Community College	2002.0	1337.0
+46006	http://www.glendaleohio.org/?navbar=66	Glendale (Village)	2004.0	478.0
+46007	http://www.navarreohio.net/	Navarre (Village)	2001.0	236.0
+46008	http://www.thurstonohio.com/	Thurston (Village)	2001.0	17.0
+46009	http://www.racing.ohio.gov/	Racing Commission	2004.0	15.0
+46010	http://www.mountvernonohio.org/	Mount Vernon (City)	2001.0	117.0
+46013	http://www.dot.state.oh.us/divisions/rail/Pages/default.aspx	Rail Development Commission	2008.0	14.0
+46014	http://www.bgohio.org/	Bowling Green (City)	2000.0	919.0
+46015	http://www.co.wyandot.oh.us/index.php	Wyandot	2012.0	15.0
+46016	http://www.mentorpl.org	Mentor Public Library	2000.0	227.0
+46017	http://www.delawareohio.net/	Delaware (City)	2002.0	153.0
+46018	http://www.grandvalley.lib.oh.us	Grand Valley Public Library	1998.0	564.0
+46019	http://www.richfield-twp.org/	Richfield Township  (Stark County)	2002.0	14.0
+46022	http://www.co.portage.oh.us/	Portage County	1998.0	156.0
+46024	http://www.com.ohio.gov/fire/	State Fire Marshal	2007.0	15.0
+46025	http://www.uppersanduskyoh.com/	Upper Sandusky (City)	1999.0	26.0
+46027	http://www.ballville.org/	Ballville Township (Sandusky County)	2003.0	163.0
+46028	http://www.villageofamanda.com/	Amanda (Village)	2008.0	7.0
+46029	http://www.mcdonald.k12.oh.us/	Mcdonald High School	1998.0	16.0
+46030	http://www.bazettatwp.org/	Bazetta Township (Ashtabula County)	2007.0	105.0
+46031	http://www.southington.k12.oh.us/	Chalker High School	1999.0	202.0
+46033	http://www.newrichmond.org/	New Richmond (Village)	2002.0	104.0
+46035	http://www.readingohio.org/	Reading (City)	1999.0	93.0
+46036	http://www.co.trumbull.oh.us/	Trumbull County	1999.0	18.0
+46037	http://www.moscowohio.org/	Moscow (Village)	2007.0	1.0
+46039	http://ursb.ohio.gov/index.stm	Utility Radiological Safety Board	2010.0	15.0
+46040	http://shawneehillsoh.com/	Shawnee Hills (Village)	1999.0	4.0
+46042	http://www.westchesteroh.org/	West Chester Township (Butler County)	1998.0	138.0
+46043	http://www.fremontschools.net/ross.asp	Fremont Ross High School	2008.0	143.0
+46044	http://www.eastlakeohio.com/index.php	Eastlake (City)	2002.0	196.0
+46045	http://www.highland.k12.oh.us	Hiland High School	2001.0	821.0
+46047	http://www.villageofgreenwich.com/	Greenwich (Village)	2002.0	21.0
+46048	http://www.conneaut.lib.oh.us	Conneaut Public Library	1998.0	172.0
+46049	http://www.worthingtonlibraries.org	Worthington Public Library	2001.0	3409.0
+46051	http://www.co.hancock.oh.us/	Hancock County	2001.0	266.0
+46052	http://www.fairfieldtwp.org/	Fairfield Township (Butler Township)	1998.0	87.0
+46053	http://www.hamilton-co.org/hc/default.asp	Hamilton County	2005.0	1740.0
+46054	http://www.venedocia.org/	Venedocia (Village)	2005.0	224.0
+46055	http://www.newlondonpubliclibrary.org	New London Public Library	2011.0	39.0
+46058	http://www.cityofcoshocton.com/	Coshocton (City)	2009.0	135.0
+46059	http://www.fortrecovery.org/	Fort Recovery (Village)	2002.0	37.0
+46060	http://www.haskinsvillage.org/pages/welcome.php	Haskins (Village)	2006.0	0.0
+46061	http://www.idarupp.org	Ida Rupp Public Library	2006.0	455.0
+46062	http://opac.mechanicsburg.lib.oh.us/front.html	Mechanicsburg Public Library	2001.0	0.0
+46063	http://www.campbellohio.gov/	Campbell (City)	2010.0	21.0
+46064	http://shroder.cps-k12.org/	Shroder Paideia High School	2002.0	12.0
+46065	http://www.gahanna.gov/	Gahanna (City)	2002.0	212.0
+46066	http://www.hamiltontownship.org/	Hamilton Township (Franklin County)	2002.0	9.0
+46067	http://www.co.ashtabula.oh.us/	AshtabulaCounty	2000.0	801.0
+46068	http://cityofsteubenville.us/	Steubenville (City)	2003.0	81.0
+46069	http://co.clinton.oh.us/	Clinton County	2001.0	198.0
+46070	http://www.lexingtonohio.us/	Lexington (Village)	2007.0	164.0
+46071	http://www.city.cleveland.oh.us/	Cleveland (City)	2001.0	537.0
+46072	http://www.warrengharding.com/	Warren G Harding High School	2000.0	110.0
+46074	http://www.bellevue.lib.oh.us	Bellevue Public Library	1998.0	20.0
+46075	http://www.jacksonohio.us/	Jackson (City)	2004.0	26.0
+46076	http://www.hebronvillage.com/	Hebron (Village)	1999.0	514.0
+46077	http://www.com.ohio.gov/unfd/	Unclaimed Funds	2007.0	10.0
+46078	http://www.edisonohio.edu/	Edison Community College	2002.0	893.0
+46079	http://www.defiance-county.com/	Defiance County	2001.0	66.0
+46080	http://www.malta.20m.com/	Malta (Village)	2002.0	25.0
+46081	http://www.lima.ohio-state.edu	Ohio State University at Lima	1997.0	13.0
+46082	http://www.co.knox.oh.us/	Knox County	2007.0	139.0
+46083	http://www.plaintownship.org/	Plain Township (Franklin County)	2007.0	134.0
+46084	http://www.williamsburgohio.org/	Williamsburg (Village)	2002.0	16.0
+46085	http://hs.wcs.k12.oh.us/	Wellston High School	0.0	805.0
+46087	http://www.briceohio.com/	Brice (Village)	2007.0	8.0
+46089	http://www.ohiosenate.gov/senate/index	Senate	2013.0	67.0
+46090	http://www.waynesfieldohio.com/	Waynesfield (Village)	2010.0	10.0
+46091	http://www.villageofswantonohio.us/	Swanton (Village)	2007.0	22.0
+46092	http://www.salem.kent.edu	Kent State University-Salem	1997.0	3.0
+46093	http://www.uaoh.net/	Upper Arlington (City)	2003.0	881.0
+46094	http://www.bellaire.lib.oh.us	Bellaire Public Library	2002.0	455.0
+46095	http://www.pauldingcountylibrary.org	Paulding County Carnegie Library	2001.0	2.0
+46097	http://www.cityofbellevue.com/	Bellevue (City)	1999.0	71.0
+46098	http://www.millersburgohio.com/	Millersburg (City)	1999.0	43.0
+46099	http://www.rockfordohio.org/	Rockford (Village)	2006.0	220.0
+46100	http://www.amanda.k12.oh.us/amandahigh/index.html	Amanda Clearcreek High School	2002.0	8.0
+46101	http://www.hudson.edu/?school=hhs	Hudson High School	2006.0	54.0
+46102	http://www.leetonialibrary.org	Leetonia Community Public Library	2008.0	18.0
+46103	http://www.lordstown.com/	Lordstown (Village)	1998.0	7.0
+46104	http://www.mytwinsburg.com/	Twinsburg (City)	2005.0	477.0
+46105	http://daltonohio.org/	Dalton (Village)	2002.0	16.0
+46108	http://www.villageofarlington.com/	Arlington (Village)	2001.0	25.0
+46109	http://das.ohio.gov/divisions/generalservices/surplus/tabid/227/default.aspx	State and Federal Surplus	2009.0	1.0
+46110	http://clark.cps-k12.org/	Clark Montessori High School	2001.0	46.0
+46111	http://www.ohioattorneygeneral.gov/	Attorney General	2009.0	2579.0
+46112	http://amherst.lib.oh.us/	Amherst Public Library	2001.0	101.0
+46113	http://shakeronline.com/	Shaker Heights (City)	1999.0	428.0
+46114	http://www.jacksoncenter.com/	Jackson Center (Village)	2001.0	671.0
+46119	http://www.algerlibrary.org	Alger Public Library	2008.0	15.0
+46123	http://www.wtwp.com/	Washington Township (Franklin County)	2004.0	165.0
+46124	http://www.cityofsylvania.com/	Sylvania (City)	1999.0	291.0
+46125	http://www.epa.ohio.gov/	Environmental Protection Agency	1997.0	1240.0
+46126	http://www.ucblueash.edu	University of Cincinnati-Blue Ash College	2011.0	671.0
+46128	http://www.co.ross.oh.us/	Ross County	2001.0	10.0
+46129	http://www.co.fairfield.oh.us/	Fairfield County	1999.0	130.0
+46130	http://www.ci.trenton.oh.us/	Trenton (City)	2000.0	39.0
+46132	http://www.delphos.lib.oh.us	Delphos Public Library	2001.0	34.0
+46134	http://pbr.ohio.gov/	Personnel Board of Review	2004.0	61.0
+46135	http://www.cls.k12.oh.us/chs/	Cloverleaf High School	2001.0	10.0
+46136	http://cfo.cityofcf.com/web/	Cuyahoga Falls (City)	2011.0	1200.0
+46137	http://www.fultoncountyoh.com/	Fulton County	2001.0	1208.0
+46138	http://www.bradfordoh.com/	Bradford (Village)	2001.0	210.0
+46139	http://www.peninsulalibrary.org	Peninsula Library Historical Society	2003.0	20.0
+46140	http://www.mohawkcl.org	Mohawk Community Library	2005.0	3.0
+46141	http://www.lockland.com/	Lockland (Village)	1999.0	129.0
+46142	http://ohiolmi.com/	Labor Market Information	2008.0	69.0
+46143	http://www.ansoniaohio.us/	Ansonia (Village)	2006.0	0.0
+46145	http://www.southrussell.com/	South Russell (Village)	2001.0	86.0
+46146	http://www.noacsc.org/allen/sv/hsweb/index.htm	Spencerville High School	2008.0	49.0
+46147	http://fairfaxohio.org/	Fairfax (Village)	2001.0	2.0
+46148	http://villageofannaoh.com/	Anna (Village)	2007.0	32.0
+46149	http://cg.noacsc.org/	Columbus Grove High School	2001.0	399.0
+46150	http://www.toledolibrary.org/default.aspx	Toledo-Lucas County Public Library	2010.0	770.0
+46151	http://www.wscc.edu	Washington State Community College	1997.0	1703.0
+46152	http://www.loudonvillelibrary.org	Loudonville Public Library	2005.0	31.0
+46153	http://www.carlisle-local.k12.oh.us/carlisle_high_school.htm	Carlisle High School	2002.0	153.0
+46154	http://www.newphilaoh.com/	New Philadelphia (City)	2001.0	3.0
+46155	http://www.hambdentownship.com/	Hambden Township (Geauga County)	2001.0	19.0
+46156	http://www.walbridgeohio.org/index.asp?id=1	Walbridge (Village)	2002.0	29.0
+46157	http://www.mainevilleoh.com/	Maineville (Village)	2002.0	12.0
+46158	http://www.bratenahl.org/	Bratenahl (Village)	2002.0	384.0
+46160	http://www.newark.osu.edu/Pages/Index.aspx	Ohio State University at Newark	2013.0	0.0
+46161	http://www.perrypubliclibrary.org	Perry Public Library	1999.0	762.0
+46162	http://www.petroboard.com/	Petroleum Underground Storage Tank Release Compensation Board	2001.0	63.0
+46163	http://www.ci.reynoldsburg.oh.us/	Reynoldsburg (City)	1999.0	147.0
+46164	http://www.cityofhuron.org/huron/	Huron (City)	2010.0	142.0
+46165	http://www.minervapark.org/	Minerva Park (Village)	2004.0	45.0
+46166	http://www.reed.lib.oh.us/	Reed Memorial Library	1998.0	387.0
+46169	http://portsmouthoh.org/	Portsmouth (City)	2009.0	660.0
+46171	http://www.cswmft.ohio.gov/	Counselor, Social Worker and Marriage and Family Therapist Board	2004.0	2.0
+46172	http://heightslibrary.org/	Cleveland Heights-University Heights Pl	2000.0	2102.0
+46173	http://stparispubliclibrary.org	St. Paris Public Library	2008.0	7.0
+46174	http://www.hudsonlibrary.org	Hudson Library And Historical Society	2001.0	76.0
+46175	http://www.pwc.state.oh.us/	Public Works Commission	2001.0	158.0
+46178	http://www.twinsburglibrary.org	Twinsburg Public Library	2006.0	158.0
+46180	http://www.centervilleohio.gov/	Centerville (City)	0.0	488.0
+46181	http://www.aurora-schools.org/school_profile.aspx?schoolid=1	Aurora High School	2007.0	1158.0
+46183	http://www.hs.brookville.k12.oh.us/	Brookville High School	2001.0	1.0
+46186	http://www.insurance.ohio.gov/Pages/default.aspx	Insurance	2009.0	436.0
+46187	http://www.bristol.k12.oh.us/	Bristol High School	2000.0	116.0
+46188	http://www.chathamtownshipohio.org/	Chatham Township (Medina County)	2005.0	24.0
+46190	http://www.sconet.state.oh.us/jcs/disputeresolution/	Dispute Resolution	2009.0	35.0
+46191	http://villageofarcanum.com/	Arcanum (Village)	2002.0	9.0
+46192	http://galenaohio.org/	Galena (Village)	2004.0	9.0
+46193	http://www.newconcord-oh.gov/site/default.aspx?PageID=1	New Concord (Village)	2012.0	6.0
+46194	http://co.shelby.oh.us/	Shelby County	1999.0	92.0
+46196	http://www.tasteohiowines.com/	Grape Industries Committee	2006.0	245.0
+46197	http://www.bv.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/school_home.aspx	South Webster Jr-sr High School	0.0	4.0
+46199	http://www.westervillelibrary.org	Westerville Public Library	2003.0	602.0
+46200	http://www.hiramvillage.org/	Hiram (Village)	2003.0	274.0
+46201	http://www.sheffield.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/sites/brookside/Content.aspx	Brookside High School	0.0	2.0
+46202	http://www.franklincountyohio.gov/fc/index.cfm	Franklin County	2004.0	154.0
+46203	http://columbusgrove.org/	Columbus Grove (Village)	2002.0	1.0
+46204	http://www.mahoningcountyoh.gov/	Mahoning County	2006.0	489.0
+46205	http://www.genoaohio.org/	Genoa (Village)	2000.0	140.0
+46206	http://www.lakecountyohio.org/	Lake County	2000.0	159.0
+46207	http://www.findlaylibrary.org	Findlay Hancock Cnty Dist Public Library	2003.0	1063.0
+46208	http://www.ci.athens.oh.us/	Athens (City)	1998.0	649.0
+46209	http://ci.newtonfalls.oh.us/	Newton Falls (City)	2003.0	343.0
+46210	http://www.mrcpl.org	Mansfield-Richland County Public Library	2001.0	348.0
+46211	http://www.ohio.edu/eastern/	Ohio University-Eastern	2011.0	268.0
+46212	http://www.northkingsvilleohio.org/index.htm	North Kingsville (Village)	2011.0	14.0
+46213	http://www.shadyside.k12.oh.us/	Shadyside High School	1998.0	76.0
+46214	http://www.gatesmillsvillage.com/	Gates Mills (Village)	2003.0	261.0
+46215	http://www.cityofalliance.com/	Alliance (City)	2001.0	529.0
+46216	http://www.mountvictory-oh.org/	Mount Victory (Village)	2010.0	92.0
+46219	http://www.defiancelibrary.org	Defiance Public Library	2008.0	139.0
+46220	http://www.monroevillepubliclibrary.com	Monroeville Public Library	2004.0	0.0
+46221	http://www.fairfield-city.org/	Fairfield (City)	2000.0	506.0
+46222	http://www.com.ohio.gov/real/	Real Estate	2007.0	17.0
+46223	http://www.smfpl.org	Stow-Munroe Falls Public Library	1999.0	2215.0
+46224	http://hdv.hilliardschools.org/	Hilliard Davidson High School	2012.0	152.0
+46225	http://columbuswest.net/	West High School	2006.0	1.0
+46226	http://www.swpl.org	Southwest Public Libraries	2001.0	623.0
+46227	http://www.tusc.kent.edu	Kent State University-Tuscarawas	1997.0	4.0
+46228	http://www.ci.carroll.oh.us/	Carroll (Village)	2002.0	12.0
+46229	http://ati.osu.edu/	Ohio State University Agricultural Technical Institute	2004.0	510.0
+46230	http://www.greenfieldtwp.org/	Greenfield Township (Fairfield County)	2002.0	40.0
+46231	http://www.newmadisonpubliclibrary.org	New Madison Public Library	2008.0	9.0
+46232	http://development.ohio.gov/	Development Services Agency	2008.0	160.0
+46235	http://www.legislature.state.oh.us/	State Lesgislature	1998.0	1861.0
+46236	http://www.myacpl.org	Nelsonville Public Library	2007.0	910.0
+46237	http://www.publicsafety.ohio.gov/	Public Safety	2004.0	74.0
+46238	http://www.ci.pataskala.oh.us/	Pataskala (City)	2001.0	189.0
+46239	http://aging.ohio.gov	Aging	2004.0	33.0
+46240	http://www.bexley.org/	Bexley (City)	1998.0	400.0
+46241	http://chestertwp.net/	Chester Township (Geauga County)	2004.0	6.0
+46242	http://www.madisontownship.net/	Madison Township (Lake County)	2008.0	18.0
+46243	http://www.nridgeville.org/	North Ridgeville (City)	2008.0	154.0
+46244	http://www.ohiochannel.org/	Ohio Channel	2004.0	80.0
+46245	http://www.ci.circleville.oh.us/	Circleville (City)	2002.0	306.0
+46246	http://www.wauseonlibrary.org	Wauseon Public Library	2007.0	39.0
+46247	http://www.imaginemason.org/	Mason (City)	2002.0	346.0
+46249	http://www.cityofstreetsboro.com/	Streetsboro (City)	2001.0	135.0
+46250	http://www.wtcpl.org	Warren-Trumbull County Public Library	2007.0	188.0
+46251	http://education.ohio.gov/	Education	2013.0	1416.0
+46252	http://www.massillonlibrary.org	Massillon Public Library	2005.0	463.0
+46253	http://www.libertytwp.org/	Liberty Township (Delaware County)	1999.0	109.0
+46254	http://www.westerville.org/	Westerville (City)	2001.0	2019.0
+46255	http://www.barnesvillehutton.lib.oh.us	Barnesville Hutton Memorial Public Library	2003.0	58.0
+46256	http://www.co.tuscarawas.oh.us/	Tuscarawas County	2001.0	5.0
+46257	http://www.akronlibrary.org	Akron-Summit County Public Library	2004.0	67.0
+46258	http://www.sciotocountyohio.com/	Scioto County	1999.0	109.0
+46259	http://www.crestonvillage.org/default.aspx	Creston (Village)	2010.0	15.0
+46260	http://www.rootstowntwp.com/	Rootstown Township (Portage County)	2000.0	33.0
+46261	http://www.hccommissioners.com/	Huron County	2000.0	19.0
+46263	http://www.cityofcanalfulton-oh.gov/	Canal Fulton (City)	2008.0	90.0
+46264	http://www.portclinton.com/	Port Clinton (City)	1998.0	22.0
+46265	http://www.monroevilleohio.com/	Monroeville (Village)	1998.0	69.0
+46266	http://www.villageofdeshler.com/	Deshler (Village)	2008.0	13.0
+46267	http://www.ashland-ohio.com/	Ashland (City)	2000.0	158.0
+46269	http://www.collisionboard.ohio.gov/	Motor Vehicle Repair Board	2005.0	25.0
+46270	http://www.pleasanttownship.org/	Pleasant Township (Fairfield County)	2007.0	39.0
+46271	http://www.leetonia.org/	Leetonia (Village)	2002.0	67.0
+46272	http://www.westlakelibrary.org	Porter Public Library	1998.0	2305.0
+46273	http://www.sevenhillsohio.org/	Seven Hills (City)	2001.0	121.0
+46274	http://www.mcdl.info	Medina County District Library	2002.0	80.0
+46279	http://www.forestpark.org/	Forest Park (City)	1999.0	553.0
+46280	http://www.garfieldhts.org/	Garfield Heights (City)	1998.0	27.0
+46282	http://grandlake.net/marioncommunity/township/	Marion Township (Mercer County)	2001.0	1.0
+46283	http://www.waltonhillsohio.gov/	Walton Hills (Village)	2010.0	19.0
+46285	http://baltimoreohio.org/	Baltimore (Village)	1999.0	104.0
+46286	http://www.cuyahogalibrary.org	Cuyahoga County Public Library	2001.0	1335.0
+46287	http://www.cambridgeoh.org/	Cambridge (City)	1998.0	49.0
+46289	http://www.cityofgreenville.org/	Greenville (City)	2001.0	62.0
+46290	http://ems.ohio.gov/ems_medical_transportation.stm	Emergency Medical, Fire and Transportation Services Board	2013.0	18.0
+46291	http://www.co.geauga.oh.us/	Geauga County	2001.0	0.0
+46292	http://www.allentwp.org/	Allen Township (Union County)	2002.0	9.0
+46293	http://bmv.ohio.gov	Bureau of Motor Vehicles (BMV)	2004.0	499.0
+46294	http://russiaoh.com/	Russia (Village)	2008.0	45.0
+46295	http://www.doverohio.com/	Dover (City)	1998.0	61.0
+46297	http://www.cityofwestlake.org/	Westlake (City)	2000.0	69.0
+46298	http://www.morristownohio.org/	Morristown (Village)	2006.0	28.0
+46300	http://crc.ohio.gov	Civil Rights Commission	2004.0	108.0
+46302	http://www.auroraoh.com/	Aurora (City)	1999.0	968.0
+46303	http://greenelibrary.info/	Greene County Public Library	2003.0	814.0
+46304	http://www.csrab.state.oh.us/	Capitol Square Review and Advisory	2006.0	142.0
+46305	https://ohefc.ohiohighered.org/	Higher Educational Facility Commission	2013.0	68.0
+46306	http://www.cityofstmarys.net/	St. Marys (City)	2001.0	400.0
+46307	http://www.bigwalnut.k12.oh.us/school_home.aspx?schoolid=1	Big Walnut High School	2006.0	2055.0
+46310	http://www.uakron.edu	University of Akron	1997.0	1425.0
+46311	http://www.wright.edu	Wright State University-Lake Campus	1997.0	3033.0
+46312	http://www.sylvaniatownship.com/	Sylvania Township (Lucas County)	1998.0	137.0
+46313	http://www.co.champaign.oh.us/	Champaign County	2001.0	9.0
+46316	http://www.rodmanlibrary.com	Rodman Public Library	2001.0	1194.0
+46318	http://www.neomed.edu	Northeast Ohio Medical University (NEOMED)	2011.0	2806.0
+46319	http://www.web.ucrc.state.oh.us/index.stm	Unemployment Compensation Review	2012.0	147.0
+46320	http://ci.beavercreek.oh.us/	Beavercreek (City)	2000.0	590.0
+46321	http://www.ketteringoh.org/	Kettering (City)	1998.0	543.0
+46322	http://www.galionlibrary.org	Galion Public Library Association	2001.0	120.0
+46323	http://www.parkmanohio.com/	Parkman (Community)	2007.0	64.0
+46324	http://www.co.madison.oh.us/	Madison County	2000.0	1.0
+46325	http://www.olentangy.k12.oh.us/olhs/	Olentangy Liberty High School	2012.0	97.0
+46326	http://www.supremecourt.ohio.gov/	Supreme Court	2009.0	1573.0
+46328	http://www.troytwp.org/	Troy Township (Ashland County)	2006.0	15.0
+46329	http://www.fieldlocalschools.org/Error.aspx?refid=1120568	Field High School	0.0	1907.0
+46330	http://www.bexlib.org	Bexley Public Library	2000.0	775.0
+46331	http://www.vintoncounty.com/	Vinton County	1998.0	1.0
+46333	http://www.villageofcarrollton.com/	Carrollton (Village)	2002.0	15.0
+46334	http://www.girard.lib.oh.us	Girard Free Library	1998.0	1760.0
+46335	http://www.org.ohio.gov/	Ohio for Responsible Gambling	2012.0	5.0
+46336	http://genevaohio.com/	Geneva (City)	2001.0	48.0
+46338	http://www.ohiolottery.com/	Lottery	1998.0	483.0
+46340	http://www.fcdlibrary.org	Fairfield County District Library	0.0	166.0
+46341	http://www.louisvilleohio.com/	Louisville (City)	1998.0	1720.0
+46342	http://www.lanepl.org	Lane Public Library	2000.0	0.0
+46343	http://www.aw.noacsc.org/	Antwerp Local High School	2006.0	537.0
+46344	http://spencervilleoh.com/	Spencerville (Village)	2001.0	0.0
+46345	http://www.kettering.k12.oh.us/schools/hskf/hskf.html	Kettering Fairmont High School	2002.0	1542.0
+46346	http://www.ci.wilmington.oh.us/	Wilmington (City)	2001.0	79.0
+46349	http://www.cityofbucyrusoh.us/	Bucyrus (City)	2007.0	24.0
+46352	http://www.leroytownship.net/	LeRoy Township (Lake County)	2010.0	20.0
+46353	http://www.limashawnee.com/	Shawnee High School	2005.0	593.0
+46354	http://www.kinsmanlibrary.org	Kinsman Free Public Library	1998.0	688.0
+46355	http://www.campbell.k12.oh.us/alumni/class2006/frontpage.html	Memorial High School	2006.0	0.0
+46356	http://www.east-muskingum.k12.oh.us/site/default.aspx?domainid=54	John Glenn High School	2012.0	6.0
+46357	http://alexandrialibrary.org/	Alexandria Public Library	2013.0	16.0
+46359	https://myohio.oaks.ohio.gov/psp/PAPRD/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST	Ohio Administrative Knowledge System (OAKS)	2012.0	16.0
+46360	http://www.hhoh.org/	Huber Heights (City)	2008.0	605.0
+46361	http://shelbyco.lib.oh.us	Shelby County Libraries - Amos Memorial	2007.0	38.0
+46362	http://www.coshoctoncounty.net/	Coshocton County	2002.0	218.0
+46363	http://mapleheights.cuyahogacounty.us/	Maple Heights (City)	2007.0	95.0
+46364	http://www.shakerlibrary.org	Shaker Heights Public Library	2003.0	408.0
+46367	http://www.agri.ohio.gov	Agriculture	1998.0	484.0
+46368	http://www.villageofantwerp.com/	Antwerp (Village)	2011.0	371.0
+46369	http://www.madeiracity.com/	Madeira (City)	2002.0	880.0
+46370	http://jfs.ohio.gov/	Job and Family Services	2003.0	513.0
+46371	http://hamiltoncityschools.com/hamiltonhigh/	Hamilton High School	2011.0	423.0
+46372	http://www.ghpl.org	Grandview Heights Public Library	2000.0	875.0
+46373	http://www.cityofpowell.us/	Powell (City)	2006.0	100.0
+46374	http://www.ci.miamisburg.oh.us/	Miamisburg (City)	1999.0	523.0
+46375	http://www.mywcpl.org/	Williams Co Public Library	2011.0	479.0
+46376	http://www.morrowcounty.info/	Morrow County	2002.0	763.0
+46377	http://www.mansfield.ohio-state.edu	Ohio State University at Mansfield	1996.0	0.0
+46378	http://www.norwalk.lib.oh.us	Norwalk Public Library	2002.0	90.0
+46379	http://www.arcanumpubliclibrary.org	Arcanum Public Library	2002.0	28.0
+46380	http://www.mthealthy.org/	Mount Healthy (City)	2000.0	30.0
+46381	http://www.elyrialibrary.org	Elyria Public Library	2007.0	63.0
+46383	http://www.pepperpike.org/	Pepper Pike (City)	2002.0	163.0
+46384	http://www.beautifulwoodlawn.us/	Woodlawn (Village)	2003.0	237.0
+46385	http://www.libertycentervillage.com/	Liberty Center (Village)	2004.0	22.0
+46387	http://www.universityheights.com/	University Heights (City)	1998.0	58.0
+46388	http://www.beachwoodohio.com/	Beachwood (City)	1999.0	838.0
+46389	http://www.agri.ohio.gov/divs/ordp/ordp.aspx	Rural Development Partnership	2008.0	3.0
+46391	http://morelandhills.com/	Moreland Hills (Village)	1999.0	537.0
+46392	http://www.occ.ohio.gov/	Consumers' Counsel	2013.0	150.0
+46393	http://www.wclibrary.info	Washington-Centerville Public Library	2007.0	157.0
+46394	http://www.andover.lib.oh.us	Andover Public Library	1999.0	45.0
+46395	http://www.clearcreektownship.com/	Clearcreek Township (Warren County)	2000.0	21.0
+46396	http://www.richmondheightsohio.org/	Richmond Heights (City)	2003.0	35.0
+46397	http://www.terra.edu/index.html	Terra State Community College	2011.0	754.0
+46398	http://www.leipsic.com/	Leipsic (Village)	2000.0	26.0
+46400	http://www.columbianacounty.org/	Columbiana County	2004.0	14.0
+46401	http://www.villageofgambier.org/	Gambier (Village)	2002.0	225.0
+46402	http://www.co.hocking.oh.us/	Hocking County	2001.0	215.0
+46403	http://www.villageofstryker.com/	Stryker (Village)	2004.0	29.0
+46404	http://www.ci.mansfield.oh.us/	Mansfield (City)	1999.0	878.0
+46405	http://www.cityofcolumbiana.org/	Columbiana (City)	2002.0	52.0
+46407	http://www.com.ohio.gov/dico/ocilb/default.aspx	Construction Industry Licensing Board (OCILB)	2013.0	5.0
+46409	http://www.kingsville.lib.oh.us	Kingsville Public Library	1998.0	2.0
+46410	http://www.villageofbentleyville.org/	Bentleyville (Village)	2009.0	977.0
+46411	http://www.ci.springfield.oh.us/	Springfield (City)	1998.0	52.0
+46412	http://www.eastpalestine-oh.gov/	East Palestine (City)	2008.0	23.0
+46413	http://www.leesburgohio.org/	Leesburg (Village)	2002.0	19.0
+46414	http://www.oakwoodvillageoh.com/	Oakwood (City)	2007.0	181.0
+46415	http://www.west-jefferson.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/schoolhome.aspx	West Jefferson High School	0.0	6.0
+46416	http://www.crcpl.org	Chillicothe And Ross County Public Library	2003.0	97.0
+46417	http://www.lisbonvillage.com/	Lisbon (Village)	2002.0	24.0
+46420	http://www.hugedomains.com/domain_profile.cfm?d=deltaohio&e=com	Delta Public Library	0.0	1754.0
+46421	http://mantuavillage.com/	Mantua (Village)	2002.0	247.0
+46422	http://www.ohiovalley.k12.oh.us/wuhs/	West Union High School	1999.0	19.0
+46423	http://www.grovecityohio.gov/	Grove City (City)	2004.0	139.0
+46425	http://www.hocking.lib.oh.us	Logan-Hocking County District Library	2001.0	233.0
+46426	http://www.mechanicsburg.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/school_home.aspx	Mechanicsburg High School	0.0	2.0
+46429	http://www.clermontcountyohio.gov/	Clermont County	2003.0	1844.0
+46430	http://www.wickliffe.lib.oh.us	Wickliffe Public Library	1999.0	20.0
+46431	http://www.miamitownship.net/	Miami Township (Greene County)	2002.0	29.0
+46432	http://www.trotwood.org/	Trotwood (City)	1996.0	266.0
+46433	http://www.morgan.lib.oh.us	Kate Love Simpson-Morgan County Library	2001.0	328.0
+46434	http://www.austintowntwp.com/	Austintown Township (Mahoning County)	2007.0	59.0
+46435	http://www.rossfordohio.com/	Rossford (City)	1998.0	334.0
+46436	http://www.bellefontaine.k12.oh.us/	Bellefontaine High School	2000.0	573.0
+46437	http://www.springfieldtwp.org/	Springfield Township (Hamilton County)	2004.0	408.0
+46438	http://www.co.stark.oh.us/	Stark County	2000.0	504.0
+46439	http://centerburg.lib.oh.us	Centerburg Public Library	2001.0	198.0
+46440	http://www.brecksville.oh.us/	Brecksville (City)	1998.0	90.0
+46442	http://www.cityofeuclid.com/	Euclid (City)	2005.0	231.0
+46443	http://www.beyond-books.org	Hubbard Public Library	2001.0	3526.0
+46448	http://www.jcarr.state.oh.us/home	Joint Committee on Agency Rule Review	2013.0	34.0
+46450	http://hdb.hilliardschools.org/	Hilliard Darby High School	2010.0	138.0
+46451	http://www.southern.ohiou.edu/	Ohio University-Southern	2000.0	286.0
+46454	http://sm.k12.oh.us/hs/	Memorial High School	0.0	555.0
+46455	http://www.lorain.lib.oh.us	Lorain Public Library	1999.0	2496.0
+46456	http://boardmantwp.com/	Boardman Township (Mahoning County)	2001.0	173.0
+46458	http://www.columbia.k12.oh.us/index.php?site=highschool&contenttype=article&articlenum=15	Columbia High School	2008.0	461.0
+46459	http://www.tigertown.com/ihs/	Ironton High School	1998.0	8.0
+46460	http://www.ohio.edu/lancaster/	Ohio University-Lancaster	2003.0	329.0
+46461	http://clydelibrary.org	Clyde Public Library	2001.0	228.0
+46462	http://www.bluffton.noacsc.org/dnn/highschool/tabid/136/default.aspx	Bluffton High School	2009.0	8.0
+46463	http://www.co.delaware.oh.us/	Delaware County	1997.0	270.0
+46464	http://dvs.ohio.gov	Veterans Services	2008.0	59.0
+46465	http://osumarion.osu.edu/	Ohio State University at Marion	2010.0	463.0
+46466	http://www.akron.k12.oh.us/schools/445/	Firestone High School	0.0	1.0
+46467	http://www.grangertwp.org/	Granger Township (Medina County)	2000.0	8.0
+46468	http://scr.ohio.gov	Career Colleges and Schools Board	2004.0	192.0
+46469	http://www.kipton.org/	Kipton (Village)	2004.0	12.0
+46470	http://www.browncountyohio.gov/	Brown County	2008.0	164.0
+46471	http://erac.ohio.gov/	Environmental Review Appeals Commission	2011.0	12.0
+46472	http://www.cplwcho.org	Carnegie Public Library	2001.0	374.0
+46473	http://www.sos.state.oh.us	Secretary of State	2003.0	2254.0
+46476	http://villageofeastsparta.com/	East Sparta (Village)	2007.0	7.0
+46477	http://www.morleylibrary.org	Morley Library	1998.0	161.0
+46478	http://www.proctorvilleohio.com/	Proctorville (Village)	2010.0	9.0
+46479	http://www.firelands.bgsu.edu	Bowling Green State University-Firelands	1998.0	241.0
+46480	http://www.bremenvillage.com/	Bremen Official (Village)	2002.0	3.0
+46481	http://www.ci.lancaster.oh.us/	Lancaster (City)	1999.0	1487.0
+46482	http://woodmerevillage.com/	Woodmere Village (Village)	2002.0	129.0
+46483	http://www.pg.noacsc.org/	Pandora-gilboa High School	2000.0	16.0
+46485	http://www.jeffersontwp.org/	Jefferson Township (Montgomery County)	1998.0	19.0
+46487	http://www.brumbacklib.com	Brumback Library	1997.0	33.0
+46488	http://www.monroeohio.org/	Monroe (City)	1999.0	707.0
+46489	http://www.knox.net	Mt Vernon Knox County, Public Library Of	1997.0	22.0
+46492	http://www.muskingumlibrary.org	Muskingum County Library System	1999.0	406.0
+46493	http://www.citymol.org/	Mentor-on-the-Lake (City)	2004.0	87.0
+46495	http://www.ivschools.org/highschool.aspx/	Indian Valley High School	0.0	106.0
+46496	http://www.sharontwp.us/	Sharon Township (Franklin County)	2008.0	1813.0
+46497	http://www.waylibrary.info	Way Public Library	2004.0	116.0
+46498	http://ood.ohio.gov/	Opportunities for Ohioans with Disabilities	2013.0	127.0
+46499	https://oh-tech.org/	Ohio Technology Consortium	2011.0	160.0
+46500	http://www.bostontownship.org/	Boston Township (Stark County)	2011.0	42.0
+46501	http://www.clintontwp-columbus.org/	Clinton Township (Franklin County)	2004.0	41.0
+46502	http://www.marbleheadvillageohio.com/	Marblehead (Village)	2005.0	12.0
+46503	http://www.newburyohio.com/	Newbury Township (Geauga County)	2001.0	488.0
+46506	http://www.ritter.lib.oh.us	Ritter Public Library	1998.0	1.0
+46507	http://www.cityofoberlin.com/	Oberlin (City)	2001.0	1666.0
+46508	http://www.funeral.ohio.gov/	Embalmers and Funeral Directors Board	2004.0	3.0
+46510	http://www.ddc.ohio.gov/	Developmental Disabilities Council	2003.0	14.0
+46511	http://www.columbiana.lib.oh.us	Columbiana Public Library	2001.0	3.0
+46513	http://www.harbortopky.lib.oh.us	Harbor-Topky Memorial Library	1998.0	79.0
+46515	http://www.springdale.org/	Springdale (City)	1998.0	1405.0
+46516	http://www.lyndhurst-oh.com/	Lyndhurst (City)	2001.0	1147.0
+46517	http://www.healthtransformation.ohio.gov	Governor's Office of Health Transformation	2011.0	30.0
+46518	http://www.holmeslibrary.org	Holmes County District Public Library	2008.0	75592.0
+46519	http://www.madisontwp.us/	Madison Township (Richland  County)	2006.0	55.0
+46522	http://highschool.kentoncityschools.org/	Kenton High School	2009.0	142.0
+46523	http://sebringohio.net.dnnmax.com/	Sebring (Village)	2012.0	44.0
+46524	http://obm.ohio.gov/	Budget and Management	1998.0	246.0
+46525	http://www.marysvillelib.org/home	Marysville Public Library	2011.0	1199.0
+46527	http://www.bowerstonlibrary.org	Bowerston Public Library	2005.0	3.0
+46529	http://www.highlandhts.com/	Highland Heights (City)	2004.0	438.0
+46530	http://www.graftonpl.lib.oh.us	Grafton-Midview Public Library	2001.0	493.0
+46531	http://www.newarkohio.net/	Newark (City)	2001.0	292.0
+46532	http://www.ohio.edu	Ohio University	1999.0	12294.0
+46533	http://www.pike.lib.oh.us	Garnet A. Wilson Pl Of Pike Co	1998.0	15.0
+46534	http://www.henrycountyohio.com/	Henry County	2001.0	7.0
+46536	http://www.germantown.lib.oh.us	Germantown Public Library	2000.0	201.0
+46537	http://carrolllibrary.org/	Carroll County District Library	0.0	49.0
+46538	http://www.weathersfieldtwp.com/	Weathersfield Township (Trumbull County)	2002.0	168.0
+46541	http://www.strongsville.org/content/	Strongsville (City)	2005.0	214.0
+46542	http://www.mathews.k12.oh.us/mhs/index/index.htm	Mathews High School	2006.0	6.0
+46543	http://www.ci.sandusky.oh.us/	Sandusky (City)	1999.0	157.0
+46544	http://barber.ohio.gov/	Barber Board	2004.0	22.0
+46545	http://www.vintoncountypublic.lib.oh.us	Herbert Wescoat Memorial Library	1998.0	259.0
+46546	http://www.sandusky-county.com/	Sandusky County	2011.0	115.0
+46547	http://www.villageofcoldwater.com/	Coldwater (Village)	2002.0	2.0
+46548	http://oghs.noacsc.org/	Ottawa Glandorf High School	2000.0	1209.0
+46549	http://dvs.ohio.gov/VETERANS_HOMES	Veterans Homes	2014.0	8.0
+46550	http://www.wrightlibrary.org	Wright Memorial Public Library	2003.0	1026.0
+46551	http://www.lakesideohio.com/	Lakeside Official (Gated Community)	1996.0	612.0
+46552	http://www.wcplib.lib.oh.us	Washington County Public Library	1999.0	0.0
+46554	http://www.waynesville-ohio.org/	Waynesville (Village)	1998.0	2.0
+46556	http://www.mtc.edu	Marion Technical College	2002.0	54.0
+46558	http://www.browntwp-carrollco.org/	Brown Township (Carroll County)	2009.0	14.0
+46559	http://www.nlewisburg.com/	North Lewisburg (Village)	2010.0	8.0
+46561	http://www.rossfordlibrary.org	Rossford Public Library	2007.0	59.0
+46562	http://www.shelbyohio.org/	Shelby (City)	2002.0	47.0
+46563	http://www.fostoriaohio.gov/	Fostoria (City)	2014.0	158.0
+46564	http://www.middleburgheights.com/	Middleburg Heights (City)	2002.0	441.0
+46565	http://www.cheviot.org/	Cheviot (City)	1998.0	124.0
+46567	http://indianhillschools.org/hs/	Indian Hill High School	2012.0	245.0
+46568	http://www.howlandtownship.org/	Howland Township (Trumbull County)	2009.0	192.0
+46569	http://www.waynetrace.org/	Wayne Trace High School	2012.0	85.0
+46573	http://www.ncantonlibrary.org	North Canton Public Library	2005.0	1.0
+46574	http://www.deerpark-oh.gov/	Deer Park (City)	2008.0	53.0
+46576	http://www.urbanaohio.com/	Urbana (City)	2001.0	331.0
+46577	http://www.co.warren.oh.us/	Warren County	0.0	250.0
+46578	http://www.rittman.com/	Rittman (City)	1998.0	38.0
+46579	http://www.co.holmes.oh.us/	Holmes County	2006.0	285.0
+46580	http://www.hicksvilleusa.com/	Hicksville (Village)	1999.0	22.0
+46582	http://www.ohiohome.org	Housing Finance Agency	2005.0	120.0
+46583	http://www.lebanonohio.gov/	Lebanon (City)	2007.0	807.0
+46584	http://www.cityhall.lima.oh.us/	Lima (City)	1997.0	765.0
+46585	http://www.med.ohio.gov	Medical Board	2003.0	115.0
+46587	http://www.starkstate.edu	Stark State College	2002.0	1214.0
+46588	http://sunburyvillage.com/	Sunbury (Village)	2010.0	3935.0
+46590	http://www.lawrencetwp-oh.org/	Lawrence Township (Stark County)	2009.0	102.0
+46591	http://www.columbuslibrary.org/	Columbus Metropolitan Library	2001.0	1191.0
+46593	http://www.alpl.org	Avon Lake Public Library	2001.0	2.0
+46594	http://www.oac.state.oh.us/	Arts Council	1999.0	211.0
+46595	http://www.nursing.ohio.gov/	Nursing Board	0.0	29.0
+46596	http://www.wakemanohio.com/	Wakeman (Village)	2011.0	2.0
+46597	http://www.pickawaylib.org	Pickaway Cnty District Public Library	2003.0	502.0
+46599	http://www.prairietownship.org/	Prairie Township (Franklin County)	2002.0	266.0
+46601	http://www.com.ohio.gov/dico/	Industrial Compliance and Labor	2007.0	17.0
+46602	http://lcc.ohio.gov	Liquor Control Commission	2004.0	6.0
+46603	http://www.ohioairquality.org/clean_air/carc.asp	Clean Air Resource Center	2007.0	22.0
+46605	http://www.xeniatownship.org/home.aspx	Xenia Township Xenia Township (Greene County)	2013.0	29.0
+46606	http://www.villageofmalvern.net/	Malvern (Village)	2004.0	19.0
+46607	http://www.ci.northwood.oh.us/	Northwood (City)	2001.0	443.0
+46609	http://www.dental.ohio.gov/	Dental Board	2004.0	45.0
+46611	http://dodd.ohio.gov/Pages/default.aspx	Developmental Disabilities Department	2011.0	94.0
+46613	http://www.hopewell-loudon.k12.oh.us/	Hopewell-loudon Local High School	1998.0	791.0
+46614	http://www.ethics.ohio.gov/index.shtml	Ethics Commission	2013.0	41.0
+46615	http://www.bataviaschools.org/	Batavia High School	2000.0	236.0
+46616	http://www.eliv.kent.edu	Kent State University-East Liverpool	2004.0	3.0
+46617	http://randolphtownshipohio.gov/	Randolph Township (Portage County)	2006.0	14.0
+46619	http://www.westliberty.com/	West Liberty (Village)	1998.0	1.0
+46620	http://www.pleasanttownship.com/	Pleasant Township (Franklin County)	2011.0	17.0
+46621	http://www.milan-berlin.lib.oh.us	Milan-Berlin Township Public Library-Berlin-Milan Local Sd	2000.0	1.0
+46623	http://www.colerain.org/	Colerain Township (Hamilton County)	2000.0	141.0
+46624	http://www.vil.morrow.oh.us/	Morrow (Village)	2012.0	128.0
+46625	http://www.co.logan.oh.us/	Logan County	1999.0	31.0
+46627	http://nbpubliclibrary.org	North Baltimore Public Library	2009.0	96.0
+46628	http://www.cpl.org	Cleveland Public Library	1997.0	3751.0
+46629	http://www.bathtownshipgreenecountyohio.us/	Bath Township (Greene County)	2005.0	9.0
+46630	http://chagrin-falls.org/	Chagrin Falls (Village)	2000.0	361.0
+46631	http://www.yso.com/	Yellow Springs (Village)	2000.0	358.0
+46632	http://www.northrandall.com/	North Randall (Village)	2004.0	11.0
+46633	http://www.bellvilleohio.net/	Bellville (Village)	2001.0	149.0
+46635	http://cityofstruthers.com/	Struthers (City)	2002.0	23.0
+46637	http://optical.ohio.gov/	Optical Dispensers Board	2004.0	27.0
+46639	http://www.wadsworthcity.com/	Wadsworth (City)	1998.0	1173.0
+46640	http://www.sscc.edu	Southern State Community College	2002.0	144.0
+46643	http://www.steubenville.lib.oh.us	Steubenville Jefferson County, Pl Of	1999.0	609.0
+46644	http://www.gcls.k12.oh.us/protected/GeneralError.aspx?aspxerrorpath=/schoolhome.aspx	South Gallia High School	0.0	6.0
+46645	http://www.villageofottoville.org/	Ottoville (Village)	2001.0	39.0
+46646	http://www.cityofparma-oh.gov/	Parma (City)	2004.0	22.0
+46647	http://www.rrpl.org	Rocky River Public Library	1998.0	62.0
+46650	http://www.library.ohio.gov	State Library of Ohio	2007.0	623.0
+46651	http://hilliardohio.gov/	Hilliard (City)	2010.0	279.0
+46652	http://www.newfranklin.org/	New Franklin (Village)	2004.0	640.0
+46654	http://www.montvilletwp.org/	Montville Township (Medina County)	2001.0	176.0
+46655	http://riverside.oh.us/	Riverside (City)	1998.0	83.0
+46658	http://www.coz.org/	Zanesville (City)	0.0	38.0
+46660	http://www.clevelandheights.com/	Cleveland Heights (City)	0.0	2709.0
+46661	http://www.lakelandcc.edu	Lakeland Community College	2002.0	578.0
+46663	http://www.sidneyoh.com/	Sidney (City)	1998.0	58.0
+46664	http://www.cityofstbernard.org/	St. Bernard (City)	2005.0	502.0
+46665	http://www.jacksontwp.com/	Jackson Township (Stark County)	1998.0	189.0
+46666	http://www.ellet.org/	Ellet High School	2006.0	94.0
+46668	http://www.alexanderschools.org/high_school	Alexander High School	2006.0	198.0
+46669	http://www.ripleylibrary.com	Union Township Public Library	2003.0	2.0
+46671	http://www.ohiohistory.org/	Historical Society	1998.0	625.0
+46672	http://www.oregoncityschools.org/	Clay High School	2009.0	1676.0
+46673	http://www.evendaleohio.org/	Evendale (Village)	2000.0	226.0
+46674	http://aco.ohio.gov	Athletic Commission	2004.0	79.0
+46675	http://www.respiratorycare.ohio.gov/	Home Medical Equipment	2004.0	76.0
+46676	http://www.highlandco.org	Highland County District Library	2000.0	40.0
+46677	http://www.cityofbayvillage.com/	Bay Village (City)	2002.0	425.0
+46678	http://piercetownship.org/	Pierce Township (Clermont County)	2000.0	180.0
+46679	http://www.mariemontschools.org/mariemont-high-school/index.cfm	Mariemont High School	2012.0	1235.0
+46680	http://www.chillicothe.k12.oh.us/schools/chs/	Chillicothe High School	2008.0	12.0
+46682	http://www.hartvilleoh.com/	Hartville (Village)	2001.0	41.0
+46683	http://www.vhs.cpsboe.k12.oh.us/	Virtual High School	2001.0	8.0
+46684	http://ohmr.ohio.gov/	Military Reserve	2004.0	14.0
+46685	http://www.norwichtownship.org/	Norwich Township (Franklin County)	2001.0	262.0
+46686	http://www.chippewalake.net/	Chippewa Lake (Village)	2002.0	12.0

@@ -1,0 +1,716 @@
+NodeId	NodeURL	NodeName	Year	pages
+25159	http://coastal.la.gov/	Coastal Protection and Restoration Financing Corporation Governing Board	2010.0	104.0
+25160	http://www.sttammany.lib.la.us/causeway.html	Causeway Branch	2002.0	41.0
+25162	http://www.townofberwick.org/	Berwick	2000.0	522.0
+25163	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=355	Rice Research Board	2012.0	12.0
+25165	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=357	River Region Cancer Screening and Early Detection District Board of Commissioners	2012.0	12.0
+25166	http://www.jacksonparishpolicejury.org/Default.aspx	Jackson Parish	2013.0	2.0
+25167	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=210	Child Poverty Prevention Council	2012.0	12.0
+25168	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=212	Citizens Property Insurance Corporation Board of Directors	2012.0	12.0
+25169	http://www.southeastern.edu/	Southeastern LU	1998.0	1446.0
+25170	http://lsbvm.org/	Veterinary Medicine, Louisiana Board of	2001.0	49.0
+25171	http://fontainebleauhigh.stpsb.org/	Fontainebleau High School	2001.0	51.0
+25172	http://bese.louisiana.gov/	Elementary and Secondary Education, Board of	2013.0	9.0
+25173	http://fisher.jpschools.org/	Fisher Middle-high School	2014.0	48.0
+25174	http://sfm.dps.louisiana.gov/	Fire Marshal, State	2009.0	165.0
+25175	http://www.doc.louisiana.gov/	Corrections, Department of  (DOC)	2004.0	25.0
+25176	http://www.law.lsu.edu/	LSU Paul M. Hebert Law	1999.0	221.0
+25177	http://www.wlf.louisiana.gov/	Wildlife & Fisheries, Department of (WLF)	2006.0	2143.0
+25178	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=898	Innovation Council	2013.0	2.0
+25180	http://www.doa.louisiana.gov/opb/index.htm	Budget, Office of Planning and (OPB)	2004.0	69.0
+25181	http://lbespa.org/	Speech-Language Pathology and Audiology, Louisiana Board of Examiners for	2001.0	6.0
+25182	http://lfo.louisiana.gov/	Legislative Fiscal Office, Louisiana	2006.0	10.0
+25184	http://www.lincolnparish.org	Lincoln Parish	2001.0	3.0
+25185	http://www.gppj.org	Grant Parish	2012.0	20.0
+25186	http://www.conppj.org	Concordia Parish	2011.0	8.0
+25187	http://www.civilservice.louisiana.gov/	Civil Service, Department of (DSCS)	2004.0	8.0
+25188	http://www.lapels.com/	Engineering and Land Surveying Board, Louisiana Professional	1998.0	48.0
+25189	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=374	Aging, Executive Board on	0.0	2.0
+25190	http://www.stmary.k12.la.us/phs/	Patterson High School	0.0	13.0
+25191	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=336	Prescription Monitoring Program Advisory Council	2012.0	12.0
+25192	http://www.louisianalottery.com/	Louisiana Lottery Corporation	1999.0	816.0
+25194	http://lsbpie.com/	Private Investigator Examiners, Louisiana State Board of	2000.0	2401.0
+25196	http://www.doa.louisiana.gov/osup/index.htm	Uniform Payroll, Office of State (OSUP)	2008.0	150.0
+25197	http://www.sttammany.lib.la.us/abitasprings.html	Abita Springs Branch	2002.0	72.0
+25198	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=584	HIV, AIDS, and Hepatitis C, Commission on	0.0	2.0
+25199	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=585	Historical Records Advisory Board	0.0	2.0
+25201	http://www.ascensionparish.net	Ascension Parish	2000.0	1930.0
+25202	http://www.lasc.org	Supreme Court	1998.0	35.0
+25204	http://house.louisiana.gov/	House of Representatives, Louisiana State	2002.0	274.0
+25207	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=640	Terrebonne Levee and Conservation District Board of Commissioners	0.0	2.0
+25208	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=576	Oil and Gas Museum Governing Board	0.0	2.0
+25209	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=574	Occupational Forecasting Conference	0.0	2.0
+25210	http://www.louisianabelieves.com/	Education, Department of (DOE)	2012.0	22.0
+25214	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=672	Medicaid Pharmaceutical and Therapeutics Committee	0.0	2.0
+25215	http://www.avoyelles.lib.la.us	Avoyelles Parish	2000.0	18.0
+25216	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=676	Tobacco Settlement Financing Corporation Board	0.0	2.0
+25217	http://www.ibervilleparish.com	Iberville Parish	2001.0	149.0
+25218	http://www.gov.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&cpid=46	Indian Affairs, Governor's Office of	0.0	28.0
+25219	http://www.laworks.net/publicrelations/wic_main.asp	Workforce Investment Council	2009.0	17.0
+25220	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=836	Bayou Desiard Lake Restoration Commission	0.0	2.0
+25221	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=473	Uniform State Laws, Commission on	0.0	2.0
+25223	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=359	School Employees' Retirement System Board of Trustees, Louisiana	2012.0	12.0
+25224	http://www.lasersonline.org/site.php	Employee's Retirement System, Louisiana State (LASERS)	2010.0	2.0
+25225	http://www.ldi.state.la.us/legal_services/latifpa/	Automobile Theft and Insurance Fraud Prevention Authority Board of Directors	2010.0	11.0
+25226	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=900	Latino Commission	0.0	2.0
+25227	http://www.caddo.org/	Caddo	1999.0	792.0
+25228	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=139	Bossier Levee District Board of Commissioners	2012.0	12.0
+25229	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=138	Atchafalaya Basin Levee District Board of Commissioners	2012.0	12.0
+25230	http://www.ebrpha.org/	Housing Authority, East Baton Rouge Parish	2006.0	98.0
+25231	http://crt.louisiana.gov/hp/	Historic Preservation, Louisiana Division of	2007.0	53.0
+25232	http://www.lafayettela.gov/Pages/Index.aspx	Lafayette Parish	2013.0	566.0
+25234	http://smld.org/	St. Mary Levee District Board of Commissioners	2011.0	74.0
+25235	http://www.fairparkhigh.com/	Fair Park High School	2000.0	25.0
+25236	http://www.eatel.net/index.asp	Donaldsonville High School	2013.0	6.0
+25239	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=522	Seed Commission	2012.0	4.0
+25240	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=523	Sentencing Commission	2012.0	12.0
+25241	http://www.louisianaeconomicdevelopment.com/	LED: Louisiana Economic Development Department	2009.0	643.0
+25242	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=524	Serve Commission	2012.0	12.0
+25243	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=538	Tourism Development Commission	2012.0	12.0
+25244	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=402	Advisory Council on Early Identification of Hearing Impairment in Infants	0.0	2.0
+25245	http://biodistrictneworleans.org/	BioDistrict New Orleans Board of Commissioners	2011.0	108.0
+25246	http://www.sos.la.gov/Pages/default.aspx	Secretary of State	2013.0	287.0
+25247	http://www.osfa.louisiana.gov/	Student Financial Assistance, Office of (LOSFA)	2007.0	97.0
+25251	http://horseracing.louisiana.gov/	Racing Commission	2006.0	13.0
+25252	http://www.oppj.org/	Ouachita	2002.0	189.0
+25253	http://www.lsbwdd.org/	Wholesale Drug Distributors, Louisiana Board of	2000.0	18.0
+25254	http://www.southwoodcowboys.org/home/	Southwood High School	2009.0	2.0
+25255	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=145	Natchitoches Levee and Drainage District Board of Commissioners	2012.0	3.0
+25256	http://www.lsusystem.edu/index.php/board-of-supervisors/board-members/	Louisiana State University and Agricultural and Mechanical College Board of Supervisors	2011.0	18.0
+25257	http://www.laddc.org/	Developmental Disabilities Council	1999.0	511.0
+25258	http://www.lsbn.state.la.us/	Nursing, Louisiana State Board of	1999.0	119.0
+25260	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=457	Feed, Fertilizer, and Agricultural Liming Commission	2012.0	12.0
+25261	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=454	Employment Security Board of Review	2012.0	12.0
+25262	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=147	North Lafourche Conservation, Levee, and Drainage District Board of Commissioners	2012.0	12.0
+25263	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=452	Emergency Response Network Board	2012.0	12.0
+25264	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=450	Emergency Medical Services Certification Commission	2012.0	12.0
+25265	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=451	Emergency Medical Services for Children Advisory Council	2012.0	12.0
+25268	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=328	Old State Capitol Advisory Board	2012.0	12.0
+25269	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=329	Oyster Seed Ground Vessel Permit Appeals Board	2012.0	12.0
+25270	https://lsers.net/lsers/	School Employees' Retirement System, Louisiana	2011.0	42.0
+25271	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=459	Fireman's Supplemental Pay Board	2012.0	12.0
+25272	http://eastfelicianaparish.org	East Feliciana Parish	2013.0	16.0
+25273	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=286	Interstate 10-12 Corridor Commission	2012.0	12.0
+25274	http://www.mindenhigh.com/	Minden High School	2003.0	23.0
+25275	http://www.latax.state.la.us/	Tax Commission, Louisiana	2003.0	5.0
+25276	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=143	Lafitte Area Independent Levee District Board of Commissioners	2012.0	12.0
+25277	http://www.scl.edu	South Central Louisiana Technical College	0.0	160.0
+25278	http://www.cole.state.la.us/	Louisiana Commission on Law Enforcement	1999.0	118.0
+25279	http://www.lpdb.la.gov/index/index.php	Public Defender Board	2010.0	2.0
+25280	http://geauxguard.com/	National Guard, Louisiana	2011.0	590.0
+25281	http://www.gov.state.la.us/index.cfm?md=subsite&tmp=home&subsiteid=11	Women's Policy and Research Commission	0.0	54.0
+25282	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=151	Judicial Compensation Commission	0.0	2.0
+25286	http://redriverparish.polarislibrary.com/Search/default.aspx?ctx=3.1033.0.0.1	Red River Parish	2008.0	636.0
+25287	http://www.jpsb.us/jhhs.htm	Jonesboro-hodge High School	2006.0	0.0
+25289	http://www.bentonhighschool.com/	Benton High School	2000.0	12291.0
+25290	http://www.ci.thibodaux.la.us/	Thibodaux	2000.0	444.0
+25291	http://lsm.crt.louisiana.gov/	Museum, Louisiana State	2007.0	220.0
+25292	http://www.avoyellespsb.com/	Marksville High School	2000.0	276.0
+25293	http://www.shreve-lib.org	Shreve Memorial	1999.0	1085.0
+25294	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=382	Assistant District Attorneys, Governor's Advisory & Review Commission on	0.0	2.0
+25295	http://broadband.louisiana.gov/lbi_council.asp	Broadband Advisory Council	2011.0	48.0
+25296	https://sites.google.com/site/bhslumberjacks1/	Bogalusa High School	2013.0	38.0
+25297	http://www.stjamesla.com/	St James	1996.0	53.0
+25298	http://www.regents.state.la.us/	Board of Regents	1998.0	2.0
+25300	http://amitebasin.org/	Amite River Basin Drainage and  Water Conservation District Board of Commissioners	2000.0	29.0
+25302	http://www.livingston.lib.la.us	Livingston Parish	2001.0	1.0
+25303	http://www.lsbme.la.gov/	Medical Examiners, Louisiana State Board of	2007.0	125.0
+25305	http://www.rppj.com/	Rapides Parish	1998.0	32.0
+25306	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=338	Police Retirement System Board of Trustees, Louisiana State	0.0	2.0
+25308	http://www.doa.louisiana.gov/fpc/fpc.htm	Facility Planning and Control	2003.0	49.0
+25309	http://www.portallen.org/	Port Allen	2001.0	15.0
+25310	http://www.washington-la.org/	Washington	2002.0	119.0
+25311	http://www.ag.state.la.us/	Attorney General	2000.0	9.0
+25312	http://new.dhh.louisiana.gov/index.cfm/subhome/21	Vital Records (Birth, Death, Marriage Records)	2011.0	2.0
+25313	http://www.la-adra.org/	Addictive Disorders Regulatory Authority Board of Directors	2006.0	361.0
+25314	http://www.bossierparishla.gov/index.aspx	Bossier Parish	2008.0	49.0
+25315	http://nish.iberia.k12.la.us/	New Iberia Senior High School	2006.0	82.0
+25316	http://pointecoupee.livonia.groupfusion.net/	Livonia High School	2007.0	20.0
+25318	http://www.doa.louisiana.gov/cdbg/cdbg.htm	Community Development (OCD)	2004.0	127.0
+25319	http://www.lslbc.louisiana.gov/	Contractors, State Licensing Board for	2004.0	48.0
+25320	http://albanyhs.lpsb.org/	Albany High School	2002.0	48.0
+25321	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=39	Pilot Commissioners for the Port of New Orleans, Board of River Port	0.0	2.0
+25322	http://lacpra.org/	Coastal Protection and Restoration Authority Board	0.0	18.0
+25323	http://dnr.louisiana.gov/	Natural Resources, Department of (DNR)	0.0	532.0
+25325	http://www.treasury.state.la.us/default.aspx	Treasury, Department of the (State Treasurer)	2009.0	254.0
+25326	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=140	Caddo Levee District Board of Commissioners	2012.0	3.0
+25327	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=142	Grand Isle Independent Levee District Board of Commissioners	2012.0	12.0
+25328	http://www.lsbd.org/	Dentistry, Louisiana State Board of	1998.0	17.0
+25329	http://www.eunice-la.com/	Eunice	2000.0	622.0
+25330	http://www.gov.louisiana.gov	Governor, Office of the	2004.0	25.0
+25331	http://louisiana.gov/	State Government	2002.0	4.0
+25332	http://www.franklinparishlibrary.org	Franklin Parish Library	2009.0	6.0
+25333	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=23	Nursing Supply and Demand Council	2010.0	12.0
+25334	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=21	Motor Vehicle Commission, Louisiana	2010.0	12.0
+25335	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=449	Educational Television Authority, Louisiana	2012.0	12.0
+25336	http://www.state.lib.la.us/about-the-state-library/board-of-commissioners	Library of Louisiana Board of Commissioners, State	2010.0	100.0
+25337	http://www.avoyelleshigh.org/	Avoyelles High School	1998.0	10.0
+25338	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=29	Polygraph Board	2010.0	12.0
+25340	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=870	Civil Rights Museum Advisory Board	0.0	2.0
+25341	http://www.lcle.louisiana.gov/programs/dare_board.asp	Drug Abuse Resistance Education (DARE) Advisory Board	2008.0	2.0
+25342	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=502	Residential Building Contractors Subcommittee	0.0	2.0
+25343	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=566	Health Benefits Commission, Mandated	2012.0	3.0
+25345	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=409	Agricultural Finance Authority	2012.0	12.0
+25346	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=272	Judiciary Commission of Louisiana	2013.0	2.0
+25347	http://www.sabine.lib.la.us	Sabine Parish	2000.0	430.0
+25348	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=405	Proprietary Schools, Advisory Commission on	2012.0	2.0
+25349	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=406	Equal Opportunity, Advisory Committee on	2012.0	4.0
+25351	http://www.louisianafolklife.org/lfp/louisiana_folklife_commision.html	Folklife Commission	2003.0	4.0
+25352	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=522	Independent Living Council, Statewide	0.0	2.0
+25353	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=524	Governor's Task Force on DWI-Vehicular Homicide	0.0	2.0
+25354	http://www.dps.louisiana.gov	Public Safety, Department of (DPS)	0.0	10.0
+25355	http://www.portbarrehigh.slp.k12.la.us/	Port Barre High School	2005.0	16.0
+25356	http://www.caneriverwaterway.com/commission.aspx	Cane River Waterway District Board of Commissioners	2008.0	8.0
+25358	http://www.louisianabelieves.com/resources/404	Elementary & Secondary Education, Louisiana Board of (BESE)	2013.0	684.0
+25359	http://wwwsp.dotd.la.gov/Pages/default.aspx	Department of Transportation and Development	2014.0	252.0
+25360	http://laptboard.org/	Physical Therapy Examiners, Louisiana State Board of	1999.0	51.0
+25361	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=368	Solid Waste Management System Operators Board of Certification and Training	2012.0	12.0
+25364	http://www.stmary.k12.la.us/bhs/	Berwick High School	0.0	39.0
+25365	http://www.lasc.org/law_library/library_information.asp	Law Library of Louisiana	2006.0	7.0
+25366	http://www.doa.louisiana.gov/prsac/	Public Retirement Systems' Actuarial Committee	2012.0	11.0
+25368	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=364	Shreveport Water Works Museum Governing Board	2012.0	12.0
+25369	http://www.iberville.lib.la.us	Iberville Parish	2000.0	0.0
+25370	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=366	Small Business Compliance Advisory Panel	2012.0	12.0
+25371	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=247	Ernest N. Morial New Orleans Exhibition Hall Authority Board of Commissioners	2012.0	12.0
+25372	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=144	Lafourche Basin Levee District Board of Commissioners	2012.0	12.0
+25373	http://www.nsula.edu/	Northwestern LU	1997.0	27.0
+25374	http://www.lafourchegov.org	Lafourche Parish	2008.0	2636.0
+25375	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=240	Eddie G. Robinson Museum Commission	2012.0	12.0
+25377	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=249	Fire Prevention Board of Review	2012.0	12.0
+25378	http://www.sjbparish.com	St. John the Baptist Parish	2001.0	2385.0
+25379	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=105	Red River Levee and Drainage District Board of Commissioners	0.0	2.0
+25381	http://www.lacourtreporterboard.com/	Shorthand Reporters, Board of Examiners Certified	2000.0	17.0
+25383	http://www.dra.gov/about-us/board-members/default.aspx	Delta Regional Authority Board	2011.0	32.0
+25384	http://www.grant.lib.la.us	Grant Parish	2000.0	8.0
+25386	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=712	Health Works Commission	0.0	2.0
+25387	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=401	Workers' Compensation Advisory Council	2012.0	12.0
+25389	http://www.franklintonhigh.com/	Franklinton High School	2000.0	9179.0
+25390	http://doa.louisiana.gov/oit/tag.htm	Technology Advisory Group	2010.0	33.0
+25391	http://llwc.louisiana.gov/	Legislative Women's Caucus, Louisiana	0.0	13.0
+25392	http://rustonhigh.lincolnschools.org/	Ruston High School	2001.0	46.0
+25394	http://laemall.com/	Louisiana E-Mall - State Government E-Commerce Portal	2002.0	6.0
+25396	http://www.dhh.louisiana.gov/	Health and Hospitals, Department of (DHH)	2005.0	1531.0
+25397	http://www.corrections.state.la.us/	Department of Corrections	2000.0	31.0
+25398	http://omv.dps.state.la.us/	Motor Vehicles - ExpressLane (OMV)	2001.0	8.0
+25399	http://lsbefd.state.la.us/	Embalmers and Funeral Directors, Louisiana State Board of	2000.0	44.0
+25401	http://www.cpsb.org/samhouston	Sam Houston High School	2003.0	5758.0
+25402	http://www.mcneese.edu/	McNeese State University	1998.0	2264.0
+25403	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=507	Insurance & Financial Services, Board of Directors for La Consortium on	0.0	2.0
+25404	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=185	Atchafalaya Trace Heritage Area Development Zone Review Board	2012.0	12.0
+25405	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=186	Automobile Insurance Plan Governing Committee	2012.0	12.0
+25407	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=691	River Port Pilots for the Intracoastal Canal, Calcasieu & Sabine Rivers, Bars and Passes	0.0	2.0
+25408	http://dnr.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&pid=155#comm	Oilfield Restoration Commission	0.0	425.0
+25409	http://www.evangelineparishpolicejury.com	Evangeline Parish	2012.0	16.0
+25410	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=187	Bayou D'Arbonne Lake Watershed District Board of Commissioners	2012.0	12.0
+25413	http://www.stmartin.k12.la.us/smsh/	St. Martinville Senior High School	2005.0	0.0
+25416	http://addisla.org/	Addis	1998.0	172.0
+25418	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=185	Red River Waterway Commission Board of Commissioners	0.0	2.0
+25419	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=580	Shrimp Task Force	2012.0	12.0
+25420	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=582	Articulation and Transfer Council, Statewide	2012.0	12.0
+25422	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=51	Medical Examiners, Louisiana State Board of - Clinical Laboratory Personnel Committee	2012.0	12.0
+25423	http://choudranthigh.lincolnschools.org/	Choudrant High School	2003.0	28.0
+25424	http://www.groupbenefits.org/	Group Benefits for State Employees, Office of (OGB)	1999.0	5.0
+25425	http://vidaliahighschool.org/	Vidalia High School	2004.0	1.0
+25426	http://lafayettepubliclibrary.org/	Lafayette Public Library	2009.0	183.0
+25427	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=77	Correctional Facilities Corporation Board of Directors	0.0	2.0
+25428	http://lmvc.state.la.us/	Louisiana Motor Vehicle Commission	2001.0	20.0
+25429	http://www.sttammany.lib.la.us/folsom.html	Folsom Branch	2002.0	103.0
+25430	http://www.cityofjennings.com/	Jennings	2001.0	24.0
+25431	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=392	Traumatic Head and Spinal Cord Injury Trust Fund Advisory Board	0.0	2.0
+25433	http://www.doc.la.gov/pages/correctional-facilities/louisiana-state-penitentiary/	Penitentiary, Louisiana State	2010.0	2.0
+25434	http://www.acadia.lib.la.us	Acadia Parish	2000.0	26.0
+25435	http://www.sbpg.net	St. Bernard Parish	2005.0	525.0
+25439	http://labta.louisiana.gov/	Tax Appeals, Board of	2010.0	14.0
+25440	http://www.jeffersondavis.org/whs/	Welsh High School	2004.0	0.0
+25441	http://www.mylpl.org	Lincoln Parish Library	2003.0	97.0
+25442	http://lsbid.org/	Interior Designers, State Board of Examiners of	2003.0	55.0
+25443	http://www.louisiana.edu/	University of Louisiana	1999.0	418.0
+25444	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=363	Group Benefits Policy and Planning Board	0.0	2.0
+25445	http://www.ldi.la.gov/property_casualty/ins_commission/	Property and Casualty Insurance Commission	0.0	3.0
+25446	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=367	Sex Offenses, Interagency Council on Prevention of	0.0	2.0
+25447	http://www.livingstonparishla.gov	Livingston	2007.0	129.0
+25448	http://new.dhh.louisiana.gov/index.cfm/page/804	Obesity Prevention and Management, Council on	2012.0	301.0
+25449	http://www.lma.org/	Louisiana Municipal Association	1997.0	150.0
+25450	http://www.oplib.org	Ouachita Parish Public Library	2003.0	70.0
+25452	http://www.northshorecollege.edu	Northshore Technical Community College	0.0	182.0
+25454	http://www.sttammany.lib.la.us/slidell.html	Slidell Branch	2002.0	72.0
+25455	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=240	New Orleans City Park Improvement Association Board of Commissioners	0.0	2.0
+25456	http://pearlriverhigh.stpsb.org/	Pearl River High School	2001.0	12.0
+25457	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=245	Perinatal Care and Prevention of Infant Mortality, Commission on	0.0	2.0
+25459	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=337	Process Technology Advisory Board	2012.0	12.0
+25460	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=440	Peace Officer Standards And Training, Council on	2012.0	12.0
+25461	http://www.ulm.edu/	University of Louisiana at Monroe	1999.0	1687.0
+25462	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=445	Drug Control and Violent Crime Policy Board	2012.0	12.0
+25463	http://www.lpssonline.com/site45.php	Acadiana High School	2006.0	2717.0
+25464	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=447	Economic Development Corporation Board of Directors	2012.0	12.0
+25465	http://www.stmary.k12.la.us/fhs/	Franklin Senior High School	0.0	19.0
+25466	http://www.ethics.state.la.us/	Ethics, Louisiana Board of	1999.0	19.0
+25468	http://www.louisianaseafood.com/	Seafood Promotion and Marketing Board	1997.0	65.0
+25469	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=831	Funding Review Panel	0.0	2.0
+25470	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=250	Medical Examiners, Louisiana State Board of - Physician Assistants Advisory Committee	0.0	2.0
+25471	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=565	Intergovernmental Relations, Louisiana Advisory Commission on	0.0	2.0
+25472	http://www.laworks.net/	Workforce Commission, Louisiana	2000.0	479.0
+25473	http://www.lla.state.la.us/	Legislative Auditor, Louisiana	1998.0	81.0
+25474	http://www.house.louisiana.gov/ieb/	Interim Emergency Board	2014.0	10.0
+25475	http://www.bossiercity.org/	Bossier City	1998.0	180.0
+25476	http://www.sulphur.org/	Sulphur	1998.0	646.0
+25477	http://www.pcpolicejury.org	Pointe Coupee Parish	2001.0	254.0
+25478	http://www.plaqueminesparish.com	Plaquemines Parish	1998.0	150.0
+25479	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=642	Ouachita Port Commission, Greater	0.0	2.0
+25480	http://assumptionla.com/	Napoleonville	2008.0	348.0
+25481	http://www.sttammany.lib.la.us/mandeville.html	Mandeville Branch	2002.0	99.0
+25482	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=208	Catfish Promotion and Research Board	2012.0	12.0
+25483	http://www.wlf.louisiana.gov/louisiana-wildlife-and-fisheries-co	Wildlife and Fisheries Commission	2010.0	1458.0
+25485	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=206	Capital Area Transit System Board of Commissioners	2012.0	12.0
+25487	http://www.cppj.net/	Calcasieu	0.0	1070.0
+25488	http://sites01.lsu.edu/wp/louis/	LOUIS: Louisiana Library Network	2012.0	711.0
+25489	http://lsue.edu/site.php	LSU Eunice	2009.0	839.0
+25490	http://www.legis.louisiana.gov	Legislature	2009.0	3646.0
+25492	http://doa.louisiana.gov/oit/tab.htm	Information Technology Advisory Board	2010.0	32.0
+25493	http://lafilm.org/	Film and Video Commission	1998.0	2.0
+25494	http://www.crt.state.la.us/parks/	Office of State Parks	2006.0	126.0
+25495	http://churchpoint-la.com	Church Point	2007.0	25.0
+25498	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=303	Mansfield Female College Museum Governing Board	2012.0	12.0
+25499	http://portlc.com/about/board-of-commissioners/	Lake Charles Harbor and Terminal District Board of Commissioners	0.0	11.0
+25501	http://liveoakhs.lpsb.org/defaulthome.htm	Live Oak High School	2002.0	217.0
+25502	http://catahoulapls.booksys.net	Catahoula Parish Library	0.0	5.0
+25503	http://www.websterparishla.org/index.html	Webster Parish	2009.0	68.0
+25506	http://lhs.lasallepsb.com/	Lasalle High School	2003.0	10048.0
+25507	http://ojj.la.gov/	Youth Services, Office of (OYD)	2009.0	337.0
+25508	http://www.ldi.louisiana.gov/	Insurance	2007.0	115.0
+25509	http://www.iberia.lib.la.us	Iberia Parish Library	2000.0	21.0
+25510	http://legis.la.gov/	Legislature, Louisiana State	2012.0	3646.0
+25511	http://www.lctcs.edu/board	Community and Technical Colleges Board of Supervisors	2013.0	379.0
+25513	http://www.vrml.k12.la.us/ahs/	Abbeville High School	1998.0	38.0
+25514	http://www.cmhs.com/	Caddo Parish Magnet High School	1997.0	1.0
+25515	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=159	Water Well Drillers, Advisory Committee for the Regulation and Control of	2012.0	12.0
+25516	http://belaire.ebrschools.org/	Belaire High School	2004.0	187.0
+25517	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=155	Tensas Basin Levee District Board of Commissioners	2012.0	12.0
+25518	http://www.vppjla.com	Vernon Parish	2010.0	0.0
+25519	http://www.evangeline.lib.la.us	Evangeline Parish	2002.0	185.0
+25521	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=18	Manufactured Housing Commission, Louisiana	2010.0	12.0
+25522	http://www.stfrancisville.net/	St Francisville	2000.0	1109.0
+25523	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=16	Hearing Aid Dealers, Louisiana Board for	2010.0	12.0
+25524	http://www.vpla.com/gov.htm	Ville Platte	2002.0	22.0
+25525	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=14	Electrolysis Examiners, State Board of	2010.0	12.0
+25526	http://www.stlandryparishgovernment.org	St. Landry Parish	2006.0	181.0
+25528	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=149	South Tangipahoa Parish Port Commission	0.0	2.0
+25529	http://avoyellesparish.schoolinsites.com/	Bunkie High School	2010.0	842.0
+25530	http://riverdalehigh.jpschools.org/	Riverdale High School	2014.0	252.0
+25532	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=144	Baton Rouge Port Commission, Greater	0.0	2.0
+25535	http://www.cityofalexandriala.com/	Alexandria	2002.0	753.0
+25536	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=539	Tuition Trust Authority, Louisiana	2012.0	12.0
+25537	http://breauxbridgelive.com	Breaux Bridge	2000.0	299.0
+25539	http://www.portsb.com/about-the-port/board-of-commissioners.cfm	Caddo-Bossier Parishes Port Commission	2009.0	0.0
+25540	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=534	Systemic Initiatives Program Council	2012.0	12.0
+25541	http://concordialibrary.org/	Concordia Parish	2014.0	229.0
+25542	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=234	Crescent City Connection Oversight Authority	2012.0	12.0
+25543	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=532	Student Financial Assistance Commission	2012.0	12.0
+25544	http://www.lsp.org	State Police	1999.0	197.0
+25545	http://eastjefferson.jpschools.org/	East Jefferson High School	2014.0	251.0
+25547	http://dnr.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&pid=43&pnid=0&nid=48	State Mineral and Energy Board	0.0	876.0
+25548	http://house.louisiana.gov/h_staff/h_staff_clerksoffice.asp	Clerk of the House	2007.0	6.0
+25549	http://www.rayne.org/	Rayne	1998.0	36.0
+25550	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=385	Tioga Heritage Park and Museum Governing Board	2012.0	12.0
+25551	http://www.ecarroll.lib.la.us	East Carroll Parish	2001.0	27.0
+25552	http://www.dhh.state.la.us/	Department of Health and Hospitals	1998.0	1458.0
+25553	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=730	Interstate Adult Offender Supervision, State Council for	0.0	2.0
+25554	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=733	Transportation Authority Board of Directors	0.0	2.0
+25555	http://cityofvinton.com/	Vinton	2002.0	672.0
+25556	http://www.sthelenaparish.la.gov	St. Helena Parish	2012.0	86.0
+25557	http://www.claiborneone.org	Claiborne Parish	2000.0	31.0
+25558	http://www.st-charles.la.us/	St Charles	1998.0	0.0
+25559	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=779	E. A. Conway Medical Center Advisory Council	0.0	2.0
+25560	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=378	Sweet Potato Advertising and Development Commission	2012.0	12.0
+25561	http://www.treasury.louisiana.gov/default.aspx	Treasury	2009.0	233.0
+25562	http://slidellhigh.stpsb.org/	Slidell High School	2000.0	61.0
+25563	http://www.lsbes.org/	Sanitarians, Louisiana State Board of Examiners for	2003.0	3.0
+25564	http://www.jefferson-davis.lib.la.us/	Jefferson Davis Parish	2000.0	27.0
+25565	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=373	Spring Street Historical Museum Governing Board	2012.0	12.0
+25566	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=372	Soybean and Grain Research and Promotion Board	2012.0	12.0
+25567	http://www.townoflivingston.com/	Livingston	2001.0	66.0
+25568	http://senate.legis.louisiana.gov	Senate	0.0	67.0
+25569	http://www.bpcc.edu	Bossier Parish Community College	2005.0	194.0
+25570	http://walkerhs.lpsb.org/	Walker High School	2002.0	772.0
+25571	http://www.stmartinparish-la.org	St. Martin Parish	2002.0	71.0
+25572	http://www.suagcenter.com/	SU Ag Center	2003.0	795.0
+25573	http://www.ldi.state.la.us/health/lhcc/	Health Care Commission	0.0	15.0
+25574	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=39	Medical Examiners, Louisiana State Board of - Respiratory Care Advisory Committee	2010.0	12.0
+25575	http://www.wfparish.org/	West Feliciana Parish	2008.0	4.0
+25578	http://www.cole.state.la.us/programs/cvr.asp	Crime Victims Reparations Board	2008.0	3.0
+25579	http://laspc.dps.louisiana.gov/	Police Commission, State	2004.0	311.0
+25581	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=353	Poverty Point Reservoir District Board of Commissioners	0.0	2.0
+25582	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=352	Municipal Police Employees' Retirement System Board of Trustees	0.0	2.0
+25583	http://www.townoflockport.com	Lockport	2001.0	55.0
+25584	http://www.lesfcu.com/asp/home.asp	LES Federal Credit Union	2002.0	32.0
+25586	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=604	Reverend Avery C. Alexander Memorial Commission	0.0	2.0
+25588	http://www.gov.state.la.us/index.cfm?md=subsite&tmp=home&subSiteID=3	Disability Affairs, Governor's Office of	0.0	83.0
+25589	http://www.ofi.state.la.us/	Office of Financial Institutions	2000.0	153.0
+25591	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=801	Lake Catherine Sewage and Water District	0.0	2.0
+25592	http://www.stjohn.lib.la.us	St. John The Baptist Parish Library	1998.0	1.0
+25594	http://www.vermilion.lib.la.us	Vermilion Parish Library	2001.0	80.0
+25598	http://www.fletcher.edu	Fletcher Technical Community College	0.0	328.0
+25599	http://www.lsu.edu/	Louisiana State University	1997.0	1222.0
+25600	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=55	Public Facilities Authority, Louisiana	0.0	2.0
+25602	http://www.sttammany.lib.la.us/covington.html	Covington Branch And Electronic Resource Center	2002.0	95.0
+25603	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=516	Morgan City, Berwick Port Pilot Commissioners and Examiners	0.0	2.0
+25604	http://higgins.jpschools.org/	L W Higgins High School	2014.0	89.0
+25605	http://regents.la.gov/	Regents for Higher Education in Louisiana, Board of	2009.0	2.0
+25608	http://www.allen.k12.la.us/schools/obehs/index.htm	Oberlin High School	2004.0	26.0
+25610	http://scotlandvillehigh.ebrschools.org/	Scotlandville Magnet High School	2004.0	3.0
+25611	http://weoassociation.com/	Optometry Examiners, Louisiana State Board of	2013.0	8.0
+25612	http://www.winnsboro.org/govt.htm	Winnsboro	1999.0	1.0
+25614	http://www.mybrcc.edu	Baton Rouge Community College	2006.0	775.0
+25615	http://lsbhi.state.la.us/	Home Inspectors, Louisiana State Board of	2006.0	16.0
+25616	http://www.uno.edu/	University of New Orleans	1998.0	2174.0
+25617	http://oeplla.booksys.net/opac/oeplla/index.html#menuHome/	Opelousas-Eunice Public	0.0	4.0
+25618	http://mhas.louisiana.gov/	Mental Health Advocacy Service (MHAS)	2008.0	7.0
+25619	http://www.lsua.edu/	LSU Alexandria	1997.0	617.0
+25620	http://www.sus.edu/administration	Southern University Board of Supervisors	2012.0	1110.0
+25621	http://www.wbrcouncil.org	West Baton Rouge Parish	2000.0	1036.0
+25625	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=110	Krotz Springs Port Commission, Greater	2012.0	12.0
+25626	http://www.shreveportla.gov/	Shreveport	2008.0	2400.0
+25627	http://www.richland.k12.la.us/schools/dhs/	Delhi High School	2004.0	12.0
+25628	http://slfpae.com/	Southeast Louisiana Flood Protection Authority - East Board of Commissioners	2007.0	20.0
+25629	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=509	Prison Enterprises Board	2012.0	12.0
+25630	http://lpcboard.org/	Counselors Board of Examiners, Louisiana Licensed Professional	2000.0	4.0
+25631	http://www.lsuhospitals.org/	LSU Health Care Services Division	2006.0	82.0
+25632	http://tara.ebrschools.org/	Tara High School	2004.0	39.0
+25633	http://www.jeffparish.net	Jefferson Parish	0.0	3626.0
+25634	http://www.crt.louisiana.gov/	Culture, Recreation, & Tourism	2006.0	696.0
+25635	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=189	Bayou Lafourche Fresh Water District Board of Commissioners	2012.0	12.0
+25636	http://www.brgov.com	East Baton Rouge Parish	2003.0	836.0
+25639	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=100	Nineteenth Louisiana Levee District Board of Commissioners	0.0	2.0
+25640	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=101	North Bossier Levee and Drainage District Board of Commissioners	0.0	2.0
+25641	http://www.dcc.edu	Delgado Community College	1996.0	685.0
+25642	http://www.terrebonne.lib.la.us	Terrebonne Parish	2000.0	2.0
+25643	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=183	Atchafalaya Basin Research and Promotion Board	2012.0	12.0
+25644	http://www.ose.louisiana.gov/	Municipal Fire and Police Civil Service	2004.0	175.0
+25646	http://www.latech.edu/	Tech University, Louisiana	1997.0	951.0
+25647	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=478	Criminal Justice Information System Policy Board, Integrated	2012.0	12.0
+25648	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=111	Medical Advisory Council	0.0	2.0
+25649	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=573	Historic Cemetery Trust Fund Advisory Board	2012.0	12.0
+25650	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=574	Battle of New Orleans Bicentennial Commission	2012.0	12.0
+25651	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=470	Health Education Authority of Louisiana (HEAL)	2012.0	12.0
+25652	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=817	Pilot Review and Oversight, Board of Louisiana River	0.0	2.0
+25653	http://www.ihs.acadia.k12.la.us/	Iota High School	2004.0	1163.0
+25654	http://www.richland.k12.la.us/schools/mhs/	Mangham High School	2003.0	12.0
+25655	http://www.pbrc.edu/	LSU Pennington Biomedical Research Center	1996.0	811.0
+25656	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=170	Stadium and Exposition District Board of Commissioners	0.0	2.0
+25657	http://stmary.lib.la.us/	St. Mary Parish Library	2000.0	130.0
+25659	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=237	Delta Music Museum Governing Board	2012.0	12.0
+25660	http://civiced.louisiana.gov/	Civic Education, Commission On	0.0	1.0
+25661	http://www.state.lib.la.us/	Library of Louisiana, State	1998.0	940.0
+25662	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=230	Social Status of Black Men and Boys, Louisiana Council on	2012.0	12.0
+25663	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=231	Crab Task Force	2012.0	12.0
+25665	http://www.myapl.org/	Ascension Parish	2006.0	2.0
+25666	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=191	Bio-Fuel Panel	2012.0	12.0
+25667	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=434	Weights and Measures, Commission of	2012.0	12.0
+25668	http://lpg.dps.louisiana.gov/	Liquefied Petroleum Gas Commission	2009.0	15.0
+25669	http://www.vermilionparishpolicejury.com	Vermilion Parish	2007.0	33.0
+25670	http://www.stpgov.org/	St Tammany	2001.0	922.0
+25671	http://doa.louisiana.gov/lgisc/index.htm	Geographic Information Systems Council	2004.0	34.0
+25672	http://www.lalb.org/	Auctioneers Licensing Board, Louisiana	2004.0	30.0
+25673	http://www.leveedistrict.org/	Pontchartrain Levee District Board of Commissioners	2011.0	12.0
+25674	http://www.nwltc.edu	Northwest Louisiana Technical College	2011.0	174.0
+25676	http://www.rpcc.edu	River Parishes Community College	2005.0	187.0
+25677	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=354	Rice Promotion Board	2012.0	12.0
+25679	http://www.madparlib.info	Madison Parish Library	2010.0	0.0
+25680	http://www.owrb.ok.gov/rrccommission/rrccommission.html	Red River Compact Commission	2007.0	1.0
+25681	http://lsrtbe.org/	Radiologic Technology Board of Examiners	2006.0	10.0
+25683	http://brmhs.ebrschools.org/	Baton Rouge High School	2004.0	0.0
+25684	http://lhs.iberia.k12.la.us/	Loreauville High School	2006.0	9.0
+25685	http://www.gov.state.la.us/	Governor	1998.0	52.0
+25686	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=920	Grandparents Raising Grandchildren, Council on the Status of	0.0	2.0
+25687	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=921	Iberia Parish Levee, Hurricane, and Conservation District Board of Commissioners	0.0	2.0
+25688	http://senate.legis.state.la.us/	Louisiana Senate	0.0	77.0
+25689	http://doylehs.lpsb.org/website/home/home.htm	Doyle High School	2006.0	3.0
+25693	http://www.mylpl.info/?option=com_content&view=article&id=68&itemid=77	Denham Springs-Walker Branch	0.0	274.0
+25694	http://www.lcb.state.la.us/	Cemetery Board, Louisiana	2001.0	13.0
+25695	http://bchs.ppsb.org/	Belle Chasse High School	2004.0	776.0
+25697	http://www.civilservice.louisiana.gov/cscommission/commission.aspx	Civil Service Commission	2012.0	5.0
+25701	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=356	River Parishes Transit Authority Board of Commissioners	2012.0	12.0
+25702	http://www.beauchenehigh.slp.k12.la.us/	Beau Chene High School	2004.0	84.0
+25703	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=498	New Orleans Center for Creative Arts Board of Directors	2012.0	12.0
+25704	http://www.doa.louisiana.gov/oit/	Information Technology, Office of	2006.0	2.0
+25705	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=223	Election Supervisors, State Board of	0.0	2.0
+25706	http://www.assumption.lib.la.us	Assumption Parish	0.0	131.0
+25707	http://www.rrabb.net/	Red River, Atchafalaya and Bayou Boeuf Levee District Board of Commissioners	2010.0	33.0
+25708	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=495	Mississippi River Road Commission	2012.0	12.0
+25709	http://library.beau.org	Beauregard Parish	2003.0	773.0
+25710	http://www.sttammany.lib.la.us/leeroad.html	Lee Road Branch	2002.0	93.0
+25711	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=567	Interstate 49 South Feasibility and Funding Task Force	0.0	2.0
+25713	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=850	Emergency Response Commission	0.0	2.0
+25714	http://www.cityofbastrop.com	Bastrop	2003.0	41.0
+25715	http://www.thecauseway.us/causeway/commission.php	New Orleans Expressway Commission, Greater	2013.0	26.0
+25716	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=855	Chennault Aviation and Military Museum of Louisiana Governing Board	0.0	2.0
+25717	http://www.rev.state.la.us/	Department of Revenue and Taxation	1996.0	1218.0
+25719	http://www.ulsystem.net/index.cfm?md=pagebuilder&tmp=home&nid=51&pnid=0&pid=30&fmid=0&catid=0&elid=0	University of Louisiana System Board of Supervisors	0.0	403.0
+25720	http://www.stbernard.lib.la.us	St. Bernard Parish Library	2011.0	238.0
+25721	http://oig.louisiana.gov/	Inspector General, Office of (OIG)	0.0	60.0
+25722	http://www.doa.louisiana.gov/otm/otm.htm	Telecommunications Management, Office Of (OTM)	2004.0	186.0
+25723	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=542	Workers' Compensation Second Injury Board	2012.0	12.0
+25725	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=544	Deputy Sheriff's Supplemental Pay Board	2012.0	12.0
+25726	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=546	Uniform Electronic Local Return and Remittance Advisory Committee (UELRRAC)	2012.0	12.0
+25727	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=427	Children's Cabinet	2012.0	12.0
+25728	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=426	Child Death Review Panel	2012.0	12.0
+25729	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=425	Capital Area Human Services District Governing Board	2012.0	12.0
+25730	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=293	Kenner Naval Museum Commission	2012.0	12.0
+25731	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=423	Byways Commission	2012.0	12.0
+25732	http://lhc.la.gov/	Housing Corporation, Louisiana (LHC)	2012.0	90.0
+25733	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=392	Washington Parish Reservoir District Board of Commissioners	2012.0	12.0
+25735	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=429	Children's Trust Fund Board	2012.0	12.0
+25736	http://www.iberiaparishgovernment.com	Iberia Parish	2002.0	172.0
+25738	http://www.slfpaw.org/	Southeast Louisiana Flood Protection Authority - West Board of Commissioners	2010.0	65.0
+25740	http://www.nola.gov/home/	New Orleans	2010.0	2.0
+25742	http://doa.louisiana.gov/ieb/	Interim Emergency Board	2013.0	10.0
+25743	http://helencox.jpschools.org/	Helen Cox Junior High School	2014.0	154.0
+25744	http://www.ci.monroe.la.us/	Monroe	1998.0	316.0
+25746	http://www.lsuagcenter.com/	LSU Agricultural Center	2002.0	10952.0
+25747	http://www.lrec.state.la.us/home/	Real Estate Commission, Louisiana	2012.0	3.0
+25748	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=320	National Register Review Committee	2012.0	12.0
+25749	http://www.crawfish.org/	Crawfish Promotion and Research Board	2001.0	143.0
+25751	http://www.gohsep.la.gov/	Emergency Preparedness, Office of Homeland Security and (GOHSEP)	2009.0	232.0
+25753	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=300	Lottery Corporation Board of Directors, Louisiana	2012.0	12.0
+25754	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=301	Museum Board of Directors, Louisiana State	2012.0	12.0
+25755	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=306	Marriage and Family Therapy Advisory Committee	2012.0	12.0
+25757	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=305	Marriage and Family Commission	2012.0	12.0
+25758	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=396	White Lake Property Advisory Board	2012.0	12.0
+25759	http://www.tangipahoa.org	Tangipahoa Parish	2003.0	200.0
+25760	http://lagic.lsu.edu/	Geographic Information Center, Louisiana (LAGIC)	1999.0	63.0
+25761	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=391	Utilities Restoration Corporation Board of Directors	2012.0	12.0
+25762	http://www.legis.state.la.us/	Louisiana State Legislature	1998.0	3546.0
+25764	http://house.legis.state.la.us/	Louisiana House of Representatives	1999.0	18.0
+25765	http://www.parishofcameron.net	Cameron Parish	2009.0	718.0
+25767	http://www.lsbc.louisiana.gov/	Cosmetology, Louisiana State Board of	2005.0	14.0
+25769	http://www.natchitochesparishport.com/	Natchitoches Parish Port Commission	2010.0	71.0
+25770	http://www.doa.louisiana.gov/doa/index.htm	Administration, Division of (DOA)	2006.0	117.0
+25771	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=138	River Port Pilot Commissioners and Examiners, Board of (Calcasieu)	0.0	2.0
+25772	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=137	Pilots for the Port of New Orleans, Board of Examiners of Bar	0.0	2.0
+25773	http://www.cameron.k12.la.us/schools.asp?scode=sch	South Cameron High School	2008.0	48.0
+25774	http://www.lsbep.org/	Psychologists, Louisiana State Board of Examiners of	2001.0	30.0
+25775	http://www.stmartin.k12.la.us/chs/	Cecilia High School	2005.0	0.0
+25776	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=652	River Parishes Convention, Tourist, & Visitors Commission	0.0	2.0
+25778	http://www.laeggs.com/	Egg Commission	2007.0	28.0
+25779	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=390	Uniform Construction Code Council	2012.0	12.0
+25780	http://www.richland.k12.la.us/schools/rhs/	Rayville High School	2003.0	12.0
+25781	http://plaqueminesppl.booksys.net/opac/plaqueminesppl/	Plaquemines Parish Library	0.0	22.0
+25784	http://lpsc.louisiana.gov/	Public Service Commission, Louisiana (PSC)	2004.0	79.0
+25786	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=585	Juvenile Justice and Delinquency Prevention, Governor's Advisory Board of	2012.0	12.0
+25788	http://lakeside.webster.k12.la.us/	Lakeside Junior-senior High School	2004.0	11.0
+25789	http://www.gov.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&navid=10&cpid=4&cfmid=0&catid=0	Offices of the Governor	0.0	56.0
+25790	http://www.bossierlibrary.org	Bossier Parish	2000.0	453.0
+25791	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=374	Employees' Retirement System Board of Trustees, Louisiana State	2012.0	12.0
+25794	http://www.cityofnewiberia.com/site.php	New Iberia	2009.0	226.0
+25795	http://www.vhs.wpsb.org/	Varnado High School	2001.0	10631.0
+25796	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=8	Municipal Employees' Retirement System Board of Trustees	0.0	2.0
+25797	http://ehret.jpschools.org/	John Ehret High School	2014.0	118.0
+25798	http://www.chs.acadia.k12.la.us/	Crowley High School	2003.0	1661.0
+25799	http://frenchsettlement-la.gov/	French Settlement	2004.0	12.0
+25800	http://www.winn.lib.la.us/WelcomePages/SplashPage3.aspx?cid=WINN&targetLibPK=9206&lid=WINN	Winn Parish	0.0	3.0
+25802	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=2	Adjutant General of Louisiana	0.0	2.0
+25803	http://www.doa.louisiana.gov/osr/osr.htm	Register, Office of State (OSR)	2004.0	1035.0
+25805	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=347	Museum Governing Board of the Louisiana State Exhibit Museum, Regional	2012.0	12.0
+25806	http://www.washington.lib.la.us	Washington Parish	2003.0	87.0
+25807	http://www.cityofmc.com/	Morgan City	2001.0	1373.0
+25808	http://www.adminlaw.state.la.us/	Administrative Law, Division of	2000.0	20.0
+25809	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=162	Polysomnography, Advisory Committee on	2012.0	12.0
+25810	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=160	Hospice Care, Advisory Committee on	2012.0	12.0
+25811	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=166	Allen Parish Reservoir District Board of Commissioners	2012.0	12.0
+25812	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=167	Ambulance Service District Commission	2012.0	12.0
+25813	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=881	International Deep Water Gulf Transfer Terminal Authority Board of Commissioners	0.0	2.0
+25814	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=411	Apprenticeship Council	2012.0	12.0
+25815	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=348	Election Supervisors, Parish Boards of	0.0	2.0
+25816	http://www.cameron.lib.la.us	Cameron Parish Library	2001.0	25.0
+25819	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=217	Red River Parish Port Commission	0.0	2.0
+25821	http://www.gov.state.la.us/index.cfm?md=subsite&tmp=home&subsiteid=10	ChildNet, Interagency Coordinating Council for	0.0	89.0
+25825	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=228	Cancer and Lung Trust Fund Board	0.0	2.0
+25826	http://lee.ebrschools.org/	Robert E. Lee High School	2004.0	38.0
+25827	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=745	Juvenile Justice Reform Act Implementation Commission	0.0	2.0
+25828	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=192	Birth Defects Surveillance System Advisory Board	2012.0	12.0
+25830	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=190	Beef Industry Council	2012.0	12.0
+25831	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=818	Aquatic Invasive Species Council	0.0	2.0
+25834	http://www.sttammany.lib.la.us/cfdb/business/businessmain.cfm	St. Tammany Parish Library Business Resource Center	2008.0	6.0
+25835	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=64	Gulf States Marine Fisheries Commission	0.0	2.0
+25837	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=461	Fluoridation Advisory Board	2012.0	12.0
+25838	http://www.dcfs.louisiana.gov/	Children and Family Services, Department of (DCFS)	0.0	1602.0
+25839	http://www.lsuhscshreveport.edu/LSUHealthShreveport/LSUHealthShreveport.aspx	LSU Health Sciences Center Shreveport	2011.0	96.0
+25840	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=466	Physical Fitness and Sports, Governor's Council on	2012.0	12.0
+25841	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=465	Coastal Protection, Restoration and Conservation, Governor's Advisory Commission on	2012.0	12.0
+25842	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=63	Capital Area Groundwater Conservation District, Board of Commissioners for the	0.0	2.0
+25843	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=290	Jean Lafitte Marine Fisheries Museum Governing Board	2012.0	12.0
+25844	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=291	John K. Kelly Grand Bayou Reservoir District Board of Commissioners	2012.0	12.0
+25846	http://www.nunez.edu	Nunez Community College	2002.0	962.0
+25847	http://glenoakshigh.ebrschools.org/	Glen Oaks High School	2004.0	2.0
+25848	http://www.plaquemine.org/	Plaquemine	2002.0	646.0
+25849	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=296	Life Safety and Property Protection Advisory Board	2012.0	12.0
+25850	http://www.losco.state.la.us/	Oil Spill Coordinator's Office	2001.0	18.0
+25851	http://www.mhs.acadia.k12.la.us/	Midland High School	2003.0	344.0
+25852	http://www.livingstonparishcouncil.com	Livingston Parish	2007.0	472.0
+25853	http://www.lsli.org/	Law Institute Council, Louisiana State	2001.0	16.0
+25854	http://www.deq.louisiana.gov/portal/	Environmental Quality, Department of (DEQ)	2005.0	778.0
+25856	http://covingtonhigh.stpsb.org/	Covington High School	2001.0	112.0
+25857	http://www.doa.louisiana.gov/slo/default.htm	State Land Office (SLO)	2005.0	28.0
+25858	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=465	Insurance Guaranty Association, Louisiana	0.0	2.0
+25861	http://www.labswe.org/	Social Work Examiners, Louisiana State Board of	2000.0	12.0
+25862	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=269	College and Career Readiness Commission	2012.0	12.0
+25863	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=268	Health Data Panel	2012.0	12.0
+25865	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=265	Ground Water Management Advisory Task Force	2012.0	12.0
+25866	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=266	Ground Water Resources Commission	2012.0	12.0
+25867	http://www.louisianacda.com/	Community Development Authority	2007.0	30.0
+25868	http://new.dhh.louisiana.gov/index.cfm/page/318	Deaf, Commission for the	2011.0	185.0
+25869	http://www.grandisleport.com/	Grand Isle Port Commission	2001.0	4.0
+25871	http://mckinleyhigh.ebrschools.org/	Mckinley Senior High School	2004.0	258.0
+25872	http://www.ocg.louisiana.gov/	Charitable Gaming, Office of	2004.0	341.0
+25873	http://www.dss.state.la.us/404error.cfm	Child Welfare Office (formerly the Office of Community Services)	0.0	796.0
+25875	http://www.geauxdairy.com/index.html	Dairy Industry Promotion Board	2010.0	25.0
+25876	http://www.cphs.acadia.k12.la.us/	Church Point High School	2001.0	1719.0
+25878	http://www.lasalle.lib.la.us	Lasalle Parish Library	2000.0	12.0
+25879	http://www.washingtonparishalerts.org/	Washington Parish	2013.0	78.0
+25880	http://www.stcharles.lib.la.us	St. Charles Parish Library	2000.0	50.0
+25881	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=462	Forestry Commission	2012.0	12.0
+25882	http://ardd.org/	Acadiana Regional Development District	2001.0	2.0
+25883	http://springhs.lpsb.org/	Springfield High School	2002.0	754.0
+25884	http://dnr.louisiana.gov/index.cfm?md=pagebuilder&tmp=home&pid=72	Oyster Lease Damage Evaluation Board	0.0	585.0
+25885	http://www.appj.org/	Acadia Parish	2008.0	86.0
+25886	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=486	School for Math, Science, and the Arts Board of Directors, Louisiana	2012.0	12.0
+25887	http://www.lapfc.com	Pilotage Fee Commission	2010.0	7.0
+25888	http://www.lpssonline.com/site48.php	Lafayette High School	2006.0	2649.0
+25889	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=851	Vermilion Parish Library Board of Control	0.0	2.0
+25890	http://www.spbla.com/	Plumbing Board of Louisiana, State	2008.0	19.0
+25892	http://www.rpl.org	Rapides Parish Library	1997.0	421.0
+25894	http://crowley-la.com/	Crowley	2000.0	29.0
+25895	http://www.npgov.org	Natchitoches Parish	2013.0	5.0
+25896	http://www.lsbpne.com/	Practical Nurse Examiners, Louisiana State Board of	2000.0	44.0
+25898	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=483	Law Enforcement Executive Management Institute Governing Board	2012.0	12.0
+25899	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=482	Jefferson Parish Human Services Authority Board of Commissioners	2012.0	12.0
+25900	http://suno.edu/	SU New Orleans	1998.0	353.0
+25901	http://www.ladelta.edu	Louisiana Delta Community College	2009.0	161.0
+25902	http://goea.louisiana.gov	Elderly Affairs, Governor's Office of (GOEA)	2007.0	264.0
+25903	http://pineville.net/	Pineville	1998.0	1832.0
+25904	http://ldi.state.la.us/	Department of Insurance	1999.0	232.0
+25905	http://www.stjames.k12.la.us/?schoolid=10	St. James High School	2004.0	665.0
+25906	http://www.sttammany.lib.la.us/bush.html	Bush Branch	2002.0	72.0
+25907	http://www.slld.org/	South Lafourche Levee District Board of Commissioners	2011.0	53.0
+25911	http://www.susla.edu/Pages/SUSLAhome.aspx	SU Shreveport	2012.0	770.0
+25912	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=167	Southern Growth Policies Board	0.0	2.0
+25913	http://www.newroads.net/	New Roads	2001.0	79.0
+25917	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=488	Tourism Promotion District Board of Directors	2012.0	12.0
+25918	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=766	West Ouachita Reservoir Commission	0.0	2.0
+25919	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=767	Perfusion, Advisory Committee on	0.0	2.0
+25920	http://www.lpgov.org/	Police Jury Association of Louisiana	1998.0	1658.0
+25921	http://lbedn.org/	Dietetics and Nutrition, Louisiana State Board of Examiners in	2001.0	12.0
+25922	http://www.lpsc.org/	Louisiana Public Service Commission	1998.0	77.0
+25923	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=72	Library Examiners, State Board of	2012.0	12.0
+25924	http://www.bonnabelbruins.org/	Alfred Bonnabel High School	2007.0	26.0
+25925	http://www.wlf.louisiana.gov/environmental-education-commission	Environmental Education Commission	2010.0	1849.0
+25926	http://www.cityoflakecharles.com/	Lake Charles	2000.0	845.0
+25928	http://captainshreve.com/	Captain Shreve High School	1998.0	51.0
+25929	http://www.orleanscivilclerk.com/	Notarial Archives for New Orleans	2014.0	139.0
+25930	http://www.pointe-coupee.lib.la.us	Pointe Coupee Parish Library	2001.0	42.0
+25931	http://lgcb.dps.louisiana.gov/	Gaming Control Board	2009.0	266.0
+25932	http://www.hammond.org/	Hammond	1997.0	455.0
+25933	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=124	Port of New Orleans, Board of Commissioners of the	2012.0	12.0
+25934	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=125	Port of South Louisiana Commission	2012.0	12.0
+25936	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=120	Morgan City Harbor and Terminal District Board of Commissioners	2012.0	12.0
+25937	http://srala-toledo.com/	Sabine River Authority Board of Commissioners	2009.0	52.0
+25938	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=516	Rehabilitation Council	2012.0	12.0
+25939	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=5	Boxing and Wrestling Commission, State	2010.0	12.0
+25940	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=4	Barber Examiners, Board of	2010.0	12.0
+25941	http://www.doa.louisiana.gov/pcf/	Patient's Compensation Fund Oversight Board	2011.0	29.0
+25942	http://www.vrml.k12.la.us/khs/	Kaplan High School	2000.0	39.0
+25943	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=519	Risk Review Panel	2012.0	12.0
+25944	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=518	ENCORE Louisiana Commission	2012.0	12.0
+25945	http://www.norpc.org/	Regional Planning Commission (Jefferson, Orleans, Plaquemines, St. Bernard and St. Tammany Parishes)	1999.0	68.0
+25947	http://king.jpschools.org/	Grace King High School	2013.0	183.0
+25948	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=715	Animal Welfare Commission	0.0	2.0
+25949	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=94	Fifth Louisiana Levee District Board of Commissioners	0.0	2.0
+25950	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=308	Drug Policy Board	0.0	2.0
+25951	http://www.doa.louisiana.gov/osp/osp.htm	Purchasing and Travel, Office of State (OSP)	2003.0	99.0
+25952	http://www.jefferson.lib.la.us	Jefferson Parish Library	1999.0	11.0
+25953	http://www.opelousashigh.slp.k12.la.us/	Opelousas Senior High School	2004.0	2.0
+25954	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=315	Morehouse Parish Lake Commission	2012.0	12.0
+25955	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=314	Mississippi River Parkway Commission of Louisiana	2012.0	12.0
+25956	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=316	Motor Fuels Underground Storage Tank Trust Fund Advisory Board	2012.0	12.0
+25957	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=311	Military Family Assistance Board	2012.0	12.0
+25958	http://salmenhigh.stpsb.org/	Salmen High School	2000.0	62.0
+25959	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=313	Military Museum Governing Board	2012.0	12.0
+25960	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=312	Military Hall of Fame and Museum Governing Board	2012.0	12.0
+25961	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=254	Garyville Timbermill Museum Governing Board	2012.0	12.0
+25966	http://hws.dps.louisiana.gov/	Highway Safety Commission	0.0	10.0
+25967	http://www.doa.louisiana.gov/osb/index.htm	State Buildings, Office of	2010.0	51.0
+25968	http://www.pharmacy.la.gov/	Pharmacy, Louisiana Board of	2010.0	124.0
+25969	http://www.solacc.edu	South Louisiana Community College	2013.0	298.0
+25970	http://www.nobraexaminers.louisiana.gov/	New Orleans-Baton Rouge Steamship Pilots Examiners for the Mississippi, Board of	2007.0	1.0
+25971	http://www.vrml.k12.la.us/nvhs/	North Vermilion High School	1999.0	4.0
+25972	http://www.sttammany.lib.la.us/pearlriver.html	Pearl River Branch	2002.0	72.0
+25974	http://westjefferson.jpschools.org/	West Jefferson High School	2014.0	239.0
+25975	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=787	Attorney Fee Review Board	0.0	2.0
+25976	http://revenue.louisiana.gov/	Revenue, Department of	2003.0	2198.0
+25977	http://www.lsuhsc.edu/	LSU Health Sciences Center New Orleans	2000.0	721.0
+25981	http://www.atc.rev.state.la.us	Alcohol and Tobacco Control, Office of (ATC)	2002.0	100.0
+25982	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=220	Addictive Disorders, Commission on	2012.0	12.0
+25983	http://www.stmary.k12.la.us/mchs/	Morgan City High School	0.0	42.0
+25984	http://www.btwhs.com/	Booker T. Washington High School	2001.0	1.0
+25985	http://house.louisiana.gov/legispublist/	Poynter Legislative Research Library	2004.0	0.0
+25986	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=867	Ouachita Expressway Authority	0.0	2.0
+25987	http://www.slidell.la.us/	Slidell	1999.0	299.0
+25988	http://www.lctcs.edu/	Community & Technical College System, Louisiana (LCTCS)	2006.0	380.0
+25989	http://www.lpssonline.com/site47.php	Comeaux High School	2006.0	2602.0
+25992	http://www.nicholls.edu/	Nicholls State University	2000.0	2628.0
+25993	http://www.sttammany.lib.la.us/lacombe.html	Lacombe Branch	2002.0	95.0
+25995	http://www.doc.la.gov/quicklinks/board-of-pardons-and-parole/	Pardons and Parole, Board of	2013.0	2.0
+25996	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=228	Cotton Museum Governing Board	2012.0	12.0
+25997	https://www.labmt.org/site.php	Massage Therapy, Louisiana Board of	2011.0	98.0
+25998	http://www.southstlandrylibrary.com	South St. Landry Community Library	2006.0	319.0
+25999	http://www.codofil.org/	French in Louisiana (CODOFIL), Council for the Development of	1999.0	14.0
+26000	http://www.crt.state.la.us/	Department of Culture, Recreation and Tourism	1997.0	749.0
+26001	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=423	Florida Parishes Juvenile Justice Commission	0.0	2.0
+26002	http://www.treasury.louisiana.gov/home%20pages/bondcommission.aspx?@filter=bc2014	Bond Commission	2014.0	24.0
+26004	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=428	Children's Cabinet Advisory Board	2012.0	12.0
+26005	http://www.lincolnschools.org/dhs/	Dubach High School	2007.0	0.0
+26006	http://www.lsus.edu/	LSU Shreveport	1997.0	646.0
+26008	http://www.tpsd.org/ems/	Ellender Memorial High School	2001.0	37.0
+26009	http://www.labenfa.com/	Nursing Facility Administrators, Louisiana Board of Examiners for	2002.0	2.0
+26010	http://www.vetaffairs.la.gov/aboutldva/commission.aspx	Veterans Affairs Commission	2013.0	3.0
+26011	http://www.louisianataxfree.com/	Tax Free Shopping Commission	2000.0	888.0
+26012	http://www.mylpl.info/?option=com_content&view=article&id=67&itemid=76	Albany Branch	0.0	274.0
+26013	http://denhamhs.lpsb.org/	Denham Springs High School	2002.0	4.0
+26014	http://www.stcharlesparish-la.gov	St. Charles Parish	2009.0	1223.0
+26015	http://angolamuseum.org/	Penitentiary Museum, Louisiana State	2000.0	139.0
+26016	http://www.subr.edu/	SU Baton Rouge	0.0	1164.0
+26017	http://ofi.louisiana.gov	Financial Institutions, Office of	2004.0	153.0
+26018	http://cpaboard.state.la.us/	Certified Public Accountants of Louisiana, State Board of	2002.0	48.0
+26019	http://www.lachiropracticboard.com/	Chiropractic Examiners, Louisiana Board of	2001.0	25.0
+26020	http://lrcboard.org/	Vocational Rehabilitation Counselors Board of Examiners, Louisiana Licensed Professional	2001.0	16.0
+26022	http://www.lcle.la.gov/	Law Enforcement and Administration of Criminal Justice, Commission on	2007.0	16.0
+26023	http://broadmoorhigh.ebrschools.org/	Broadmoor High School	2004.0	2.0
+26024	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=174	Archaeological Survey and Antiquities Commission	2012.0	12.0
+26025	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=177	Arts Council	2012.0	12.0
+26026	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=176	Artificial Reef Development Council	2012.0	12.0
+26027	http://jhs.lasallepsb.com/	Jena High School	2001.0	15473.0
+26028	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=173	Aquatic Invasive Species Task Force	2012.0	12.0
+26031	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=178	Ascension-St. James Airport and Transportation Authority Board of Commissioners	2012.0	12.0
+26032	http://www.vetaffairs.la.gov/	Veterans Affairs, Department of	2009.0	46.0
+26033	http://www.efpsb.k12.la.us/clintonhigh.cfm	Clinton High School	0.0	0.0
+26034	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=32	Private Security Examiners, Louisiana State Board of	2010.0	12.0
+26038	http://www.trsl.org/main/	Teachers' Retirement System of Louisiana (TRSL)	2010.0	105.0
+26039	http://www.tpcg.org	Terrebonne Parish	2000.0	845.0
+26040	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=489	Marine Consortium for Research and Education (LUMCON) Executive Board, Louisiana Universities	2012.0	12.0
+26041	http://www.gram.edu/	Grambling State University	1998.0	510.0
+26042	http://www.sttammany.lib.la.us/blackriver.html	Black River Branch	2007.0	70.0
+26043	http://www.rhs.acadia.k12.la.us/	Rayne High School	2003.0	2007.0
+26045	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=334	Postsecondary Education Information Technology Council	2012.0	12.0
+26046	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=129	Parks and Recreation Commission	0.0	2.0
+26047	http://www.townofferriday.com/	Ferriday	2002.0	0.0
+26050	http://www.legis.la.gov/legis/boardmembers.aspx?boardid=120	Naval War Memorial Commission Board of Commissioners	0.0	2.0
+26051	http://alligatorfur.com/	Alligator Advisory Council	2001.0	38.0
+26052	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=331	Pet Overpopulation Advisory Council	2012.0	12.0
+26054	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=550	Child Care and Early Education, Advisory Council on	2012.0	12.0
+26055	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=557	Blind Vendors Trust Fund Advisory Board	2012.0	12.0
+26056	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=412	Atchafalaya Trace Commission	2012.0	12.0
+26057	http://www.lastbdarchs.com/	Architectural Examiners, State Board of	1998.0	29.0
+26060	http://www.ldaf.state.la.us/	Department of Agriculture and Forestry	1998.0	136.0
+26061	http://wwwprd.doa.louisiana.gov/boardsandcommissions/viewboard.cfm?board=414	Commerce and Industry, Board of	2012.0	12.0
+26062	http://www.legis.la.gov/legis/home.aspx	State Legislature	2013.0	3545.0
+26063	http://www.sowela.edu	SOWELA Technical Community College	2005.0	541.0

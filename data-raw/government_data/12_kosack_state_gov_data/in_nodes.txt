@@ -1,0 +1,1386 @@
+NodeId	NodeURL	NodeName	Year	pages
+20046	http://www.cville.k12.in.us/Cville/Buildings/HoseElementaryK1/tabid/78/Default.aspx	Laura Hose Elementary School	2007.0	1.0
+20047	http://57.ips.k12.in.us/	George W Julian School 57	2003.0	0.0
+20048	http://kcpl.lib.in.us/kclib/	Knox County Public Library	2006.0	510.0
+20049	http://www.nlcs.k12.in.us/oljrhi/	Oolitic Middle School	0.0	2.0
+20050	http://www.mccsc.edu/Domain/9	Binford Elementary School	2013.0	837.0
+20053	http://moran.phmschools.org/	Moran Elementary School	2009.0	13.0
+20054	http://www.in.gov/wrhcc/	Wabash River Heritage Corridor Commission	2001.0	7.0
+20055	http://www.waynedale.fwcs.k12.in.us	Waynedale Elementary School	2012.0	8.0
+20056	http://www.fortville.lib.in.us	Fortville-Vernon Township Public Library	2001.0	256.0
+20057	http://www.nvc.k12.in.us/	North Vermillion High School	1999.0	772.0
+20058	http://www.in.gov/judiciary/cofc/	Clerk of Courts	2001.0	17.0
+20059	http://www.lanesville.k12.in.us/elempages/el.htm	Lanesville Elementary School	2000.0	16.0
+20060	http://les.lcsc.k12.in.us/	Landis Elementary School	2001.0	10.0
+20061	http://www.mcsin-k12.org/nhs/index.cfm	Northridge High School	2004.0	15.0
+20062	http://www.epl.lib.in.us	Eckhart Public Library	1998.0	1310.0
+20065	http://www.gws.k12.in.us/ww/	Westwood Elementary Sch	2012.0	925.0
+20066	http://mhs.marion.k12.in.us/	Marion High School	2013.0	465.0
+20068	http://bittersweet.phmschools.org/	Bittersweet Elementary School	2009.0	15.0
+20069	http://www.greenwoodlibrary.us	Greenwood Public Library	2009.0	214.0
+20070	http://msdadmin.scican.net/postonroad/	Poston Road Elementary School	2000.0	0.0
+20071	http://www.vcsc.k12.in.us/vigo/home.aspx	Francis Vigo Elementary Sch	2013.0	72.0
+20072	http://www.bcsc.k12.in.us/site/default.aspx?domainid=904	Parkside Elementary School	0.0	20.0
+20073	http://www.hse.k12.in.us/nbe/	New Britton Elementary School	2004.0	272.0
+20074	http://ms.eastnoble.net	East Noble Middle School	2013.0	280.0
+20075	http://www.shenandoah.k12.in.us/education/school/school.php?sectionid=6&sc_id=1197550475	Shenandoah High School	2007.0	5.0
+20076	http://ahs.msdsteuben.k12.in.us/	Angola High School	2011.0	575.0
+20077	http://www1.wcs.k12.in.us/whs-new/	Washington High School	2012.0	44.0
+20079	http://www.southmont.k12.in.us/	Walnut Elementary School	1999.0	733.0
+20080	http://www.young.fwcs.k12.in.us	Whitney M Young Early Childhood	2012.0	11.0
+20081	http://www.delcomschools.org/ees/	Eaton Elementary School	2001.0	14.0
+20082	http://www.accs.net/fcpl/	Frankfort-Clinton County Contractual Public Library	1997.0	1.0
+20083	http://www.hebronschools.k12.in.us	Hebron Elementary School	2005.0	383.0
+20087	http://www.nwhite.k12.in.us	North White Jr/Sr High School	0.0	441.0
+20088	http://nms.nwsc.k12.in.us/	Northwestern Middle School	2011.0	117.0
+20089	http://www.westlafayette.in.gov/	West Lafayette	2008.0	3086.0
+20090	http://www.hse.k12.in.us/hjh/	Hamilton Southeastern Jr High Sch	2004.0	338.0
+20091	http://www.rfcsc.k12.in.us/site/default.aspx?domainid=51	River Forest Jr-Sr High School	0.0	37.0
+20092	http://www.duneland.k12.in.us/site/default.aspx?PageID=1	Chesterton Middle School	2012.0	9.0
+20094	http://107.ips.k12.in.us/	Lew Wallace School 107	2003.0	0.0
+20095	http://www.blackhawk.fwcs.k12.in.us	Blackhawk Middle School	2012.0	11.0
+20096	http://www.warsawcity.net/	Warsaw	1999.0	4.0
+20098	http://ss.eastnoble.net	South Side Elementary School	2008.0	163.0
+20099	http://www.milford.lib.in.us	Milford Public Library	2000.0	0.0
+20100	http://www.deafhoosiers.com/	School for the Deaf, Indiana	2002.0	34.0
+20101	http://mjhs.madison.k12.in.us	Madison Consolidated Jr High Sch	0.0	263.0
+20103	http://northwest.hccsc.k12.in.us/	Northwest Elementary School	2012.0	1669.0
+20104	http://pvp.nlcs.k12.in.us/	Parkview Primary School	0.0	48.0
+20106	http://www.lpcsc.k12.in.us/crichfield/	F Willard Crichfield Elem Sch	2006.0	11.0
+20107	http://hawthorne.warren.k12.in.us/	Hawthorne Elementary School	2002.0	75.0
+20108	http://www.argos.lib.in.us	Argos Public Library	2002.0	25.0
+20109	http://deputy.madison.k12.in.us	Deputy Elementary School	0.0	194.0
+20110	http://eis.rbbcsc.k12.in.us/	Edgewood Intermediate School	2002.0	61.0
+20111	http://www.wakarusa.lib.in.us	Wakarusa-Olive Harrison Township Public Library	2002.0	365.0
+20117	http://www.hammond.k12.in.us/gaviths/	Donald E Gavit Mdl/High Sch	2005.0	242.0
+20118	http://www.myeacc.org/	Elkhart Area Career Center	2011.0	8.0
+20120	http://www.scs.k12.in.us/elem/	Sheridan Elementary School	2008.0	38.0
+20121	http://www.lsc.k12.in.us/schools/murdock/index.htm	Murdock Elementary School	2007.0	30.0
+20122	http://www2.youseemore.com/garrett/	Garrett Public Library	2013.0	60.0
+20123	https://www.edline.net/pages/marshall_intermediate_center	Marshall Intermediate Center	0.0	14.0
+20124	http://schmucker.phmschools.org/	Schmucker Middle School	2009.0	46.0
+20126	http://www.in.gov/legislative/senate_democrats/	General Assembly, Indiana (SENATE DEMS)	2001.0	212.0
+20128	http://www.trico.k12.in.us/	Tri-County Middle-Senior High	2000.0	252.0
+20129	http://www.geoacademies.org/	21st Century Charter Sch of Gary	2008.0	718.0
+20130	https://www.edline.net/pages/darden_primary_center	Darden Primary Center	0.0	9.0
+20131	http://www.indianapolismet.org	Indianapolis Metropolitan High Sch	2004.0	60.0
+20132	http://www.nm.k12.in.us/schools/nmhs/index.htm	North Montgomery High School	2000.0	4.0
+20133	http://www.mccsc.edu/Domain/11	Clear Creek Elementary School	2013.0	837.0
+20134	http://www.western.k12.in.us/wis/	Western Intermediate School	2000.0	11.0
+20136	http://www.scpl.us	Switzerland County Public Library	2008.0	78.0
+20137	http://www.in.gov/visitindiana/	Visit Indiana	2006.0	2619.0
+20138	http://www.edline.net/pages/clay_community_schools	Forest Park Elementary School	2012.0	26.0
+20139	http://www.bps.k12.in.us	Bremen Elem/Middle School	2001.0	76.0
+20140	http://www.in.gov/che/	Higher Education, Commission for	2007.0	267.0
+20141	http://www.in.gov/dwd/	Workforce Development, Department of	2001.0	205.0
+20142	http://www.grantcounty.net/	Grant	2000.0	161.0
+20143	http://sdhs.decaturco.k12.in.us	South Decatur Jr-Sr High Sch	2011.0	74.0
+20145	http://mcculloch.marion.k12.in.us/	John L McCulloch Junior High Sch	2013.0	298.0
+20146	http://www.rssc.k12.in.us/index.php?option=com_content&view=article&id=28&itemid=22	Randolph Southern Elem Sch	0.0	481.0
+20147	http://www.garypubliclibrary.org/	Gary Public Library	2002.0	268.0
+20149	http://www.lpcsc.k12.in.us/hailmann/	Hailmann Elementary School	2006.0	6.0
+20150	http://washington.warsaw.k12.in.us	Washington Elementary School	2008.0	777.0
+20151	http://www.vcsc.k12.in.us/th/home.aspx	Tecumseh-Harrison Elem Sch	2013.0	84.0
+20152	http://www.price.fwcs.k12.in.us	Francis M Price Elem Sch	2012.0	11.0
+20153	http://www.damarcharteracademy.org	Damar Charter Academy	2012.0	44.0
+20154	http://www.brcp.net	Blue River Career Ctr	2002.0	25.0
+20155	http://lms.lcsc.k12.in.us/	Lincoln Middle School	2000.0	13.0
+20156	http://www.hammond.k12.in.us/hardinges/	Warren G Harding Elem Sch	2005.0	798.0
+20158	http://www.wvcl.org	Franklin County Public Library District	2000.0	4.0
+20159	http://www.rfcsc.k12.in.us/site/default.aspx?domainid=143	River Forest Elementary Sch	0.0	37.0
+20161	http://central9.k12.in.us/	Central Nine Career Center	1998.0	103.0
+20162	http://www.pikeco.lib.in.us	Pike County Public Library	2002.0	875.0
+20163	http://www.vcsc.k12.in.us/lincoln/home.aspx	Lincoln High School	2013.0	729.0
+20164	http://www.delcomschools.org/res/	Royerton Elementary School	2000.0	22.0
+20165	http://fayettein.cms.schooldesk.net//	Connersville Middle School	2011.0	448.0
+20167	http://kes.tsc.k12.in.us/	Klondike Elementary School	0.0	476.0
+20168	http://www.mcsin-k12.org/his/index.cfm	Heritage Intermediate School	2008.0	13.0
+20169	http://ccc.lcsc.k12.in.us/	Century Career Center	2002.0	10.0
+20170	http://des.nlcs.k12.in.us/	Dollens Elementary School	0.0	112.0
+20171	http://lancaster.hccsc.k12.in.us/	Lancaster Elementary School	2011.0	1692.0
+20172	http://www.imcpl.org	Indianapolis-Marion County Public Library	1999.0	3689.0
+20173	http://51.ips.k12.in.us/	James Russell Lowell School 51	2006.0	0.0
+20174	http://www.warrick.k12.in.us	John H Castle Elementary Sch	1999.0	238.0
+20175	http://www.mcas.k12.in.us/pine	Pine Elementary School	2001.0	1606.0
+20176	http://www.cps.k12.in.us/solon	Solon Robinson Elementary Sch	1999.0	2389.0
+20177	http://www.in.gov/arts/	Arts Commission, Indiana	2002.0	164.0
+20179	http://franklin.scec.k12.in.us/	Benjamin Franklin Elem School	2013.0	1.0
+20180	http://www.in.gov/dcs/	Child Services, Department of	2006.0	490.0
+20181	http://www.covington.k12.in.us/cms/default.asp	Covington Middle School	2009.0	3.0
+20182	http://www.in.gov/tos/bond/	Bond Bank, Indiana	2009.0	34.0
+20183	http://el.clintonprairie.com	Clinton Prairie Elem School	2008.0	265.0
+20184	http://tucker.marion.k12.in.us/	Tucker Area Voc Tech Cntr	2013.0	396.0
+20185	http://apaches.k12.in.us	W C Mills Elementary School	1997.0	249.0
+20186	http://lagrangecounty.org/	Lagrange	1998.0	665.0
+20187	http://merrillville.schoolwires.net/Domain/615	Merrillville Intermediate School	2012.0	360.0
+20189	http://www.cityoflawrence.org/	Lawrence	2001.0	50.0
+20191	http://www.centerville.k12.in.us/schools/jr_high/default.htm	Centerville-Abington Jr High Sch	1999.0	6.0
+20192	http://www.in.gov/icpr/	Public Records, Indiana Commission on	2002.0	163.0
+20193	http://www.bedford.in.us/	Bedford	2002.0	103.0
+20194	http://wes.rc.k12.in.us	Willard Elem School	2012.0	473.0
+20196	https://www.edline.net/pages/muessel_primary_center	Muessel Primary Center	0.0	9.0
+20197	http://www.northposey.k12.in.us	North Elementary School	1998.0	17.0
+20200	http://wccs.k12.in.us/isms/	Indian Springs Middle Sch	2002.0	120.0
+20201	http://www.nhaschools.com/schools/ajbrown/en/pages/default.aspx	Andrew J Brown Academy	0.0	24.0
+20203	http://www.loogootee.k12.in.us/	Loogootee Intermediate School	1998.0	121.0
+20204	http://www.schs.switzerland.k12.in.us/hs.php	Switzerland Co Senior High Sch	0.0	105.0
+20205	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2980	Riley Elementary School	2011.0	1638.0
+20206	http://www.butlerpubliclibrary.net	Butler Public Library	2008.0	9.0
+20208	http://www.hamiltoncounty.in.gov	Hamilton	2009.0	1448.0
+20210	http://penn.phmschools.org/	Penn High School	2009.0	263.0
+20211	http://www.nspencer.k12.in.us/nhes/	Nancy Hanks Elementary Sch	2004.0	1.0
+20212	http://www.ohio.lib.in.us	Ohio Township Public Library System	1997.0	344.0
+20213	http://mywcpl.com/	Wolcott Community Public Library	2010.0	23.0
+20214	http://frk.lcsc.k12.in.us/	Franklin Elementary School	2001.0	9.0
+20215	http://www.in.gov/fssa/	Family & Social Services Administration	2001.0	672.0
+20216	http://616.ips.k12.in.us/	Key Learning Community Jr High Sch	2004.0	0.0
+20217	http://www.wayne.k12.in.us/cwe/	Chapelwood Elementary School	2000.0	22.0
+20218	http://www.wayne.k12.in.us/roe/	Robey Elementary School	2000.0	16.0
+20221	http://crestview.hccsc.k12.in.us/	Crestview Middle School	2011.0	2297.0
+20223	http://www.msdwarco.k12.in.us/index.php/schools/seegerjrsrhighschool	Seeger Memorial Jr-Sr HS	2011.0	8.0
+20225	http://sites.evscschools.com/AdminDefault.aspx?PortalId=0058e1c5-2ed9-4e72-aa8a-310fc885101d	Delaware Elementary School	0.0	2.0
+20227	http://www.uhprep.org	University Heights Preparatory Acd	0.0	45.0
+20228	http://www.bcsc.k12.in.us/site/default.aspx?domainid=681	Clifty Creek Elementary Sch	2011.0	20.0
+20230	http://www.newhavenin.org/	New Haven	2001.0	1468.0
+20233	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1380	L F Smith Elementary	0.0	16.0
+20234	http://hhs.tsc.k12.in.us/	William Henry Harrison High Sch	0.0	1281.0
+20235	http://www.wabash.lib.in.us	Wabash Carnegie Public Library	2006.0	565.0
+20236	http://www.co.dekalb.in.us	DeKalb	2005.0	785.0
+20237	http://sms.nlcs.k12.in.us/	Shawswick Middle School	0.0	66.0
+20238	http://riverview.marion.k12.in.us/	Riverview Elementary School	2013.0	336.0
+20239	http://www.attica.lib.in.us	Attica Public Library	2002.0	16.0
+20242	http://70.ips.k12.in.us/	Mary E Nicholson School 70	2004.0	0.0
+20243	http://www.wellscolibrary.org	Wells County Public Library	1998.0	413.0
+20244	http://www.wrv.k12.in.us/	White River Valley Jr/Sr High Sch	1998.0	154.0
+20245	http://www.in.gov/iwm/	War Memorials, Indiana	2001.0	68.0
+20246	http://northpoint.phmschools.org/	Northpoint Elementary Sch	2009.0	11.0
+20247	http://nses.hendricks.k12.in.us	North Salem Elementary School	2002.0	1185.0
+20248	http://www.eastern.k12.in.us/gpl/grentown.htm	Greentown Eastern Howard School Public Library	1998.0	2.0
+20249	http://highschool.concord.k12.in.us	Concord Community High School	2006.0	121.0
+20251	http://cia.warren.k12.in.us/	Creston Intermediate Academy	2010.0	155.0
+20253	http://rchs.rushville.k12.in.us/	Rushville Consolidated High Sch	0.0	167.0
+20255	http://www.farmlandlibrary.org	Farmland Public Library	2008.0	9.0
+20256	http://south.shcsc.k12.in.us/	South Central Elementary	1998.0	1.0
+20257	http://www.rooseveltms.org/	Roosevelt Middle Sch	0.0	48.0
+20258	http://www.njwt.lib.in.us	North Judson-Wayne Township Public Library	1999.0	228.0
+20259	http://www.co.hendricks.in.us/	Hendricks	2003.0	1404.0
+20261	http://www.scsd2.k12.in.us/scottsburghighschool_home.aspx	Scottsburg Senior High School	2012.0	126.0
+20262	http://www.clarkco.lib.in.us	Charlestown Clark County Public Library	2002.0	1.0
+20264	http://cityofjeff.net	Jeffersonville	2004.0	1612.0
+20265	http://brms.rushville.k12.in.us/	Benjamin Rush Middle Sch	0.0	281.0
+20269	http://pleasantrun.warren.k12.in.us/	Pleasant Run Elementary Sch	2002.0	83.0
+20270	http://www.hammond.k12.in.us/edisones/	Thomas A Edison Elem Sch	2006.0	1232.0
+20271	http://www.washington.fwcs.k12.in.us	Washington Elem School	2012.0	11.0
+20272	http://oxbow.concord.k12.in.us	Concord Ox-Bow Elementary Sch	2006.0	728.0
+20274	http://65.ips.k12.in.us/	Raymond F Brandes School 65	2003.0	0.0
+20275	http://sites.evscschools.com/AdminDefault.aspx?PortalId=9dd9b6f7-5c56-4c38-abaa-9085a0fa2f4c	Daniel Wertz Elementary Sch	2014.0	4.0
+20276	http://www.valpo.k12.in.us/pccc/index.php	Porter County Career Center	2004.0	1.0
+20277	http://ichs.indiancreekschools.com/	Indian Creek Sr High Sch	2012.0	30.0
+20278	http://mchs.madison.k12.in.us	Madison Consolidated High Sch	0.0	298.0
+20279	http://www.in.gov/ig/	Ethics Commission, Indiana State	2005.0	88.0
+20280	http://www.crothersville.k12.in.us/crothersville_elementary_s.html	Crothersville Elementary Sch	2000.0	782.0
+20281	http://www.nwcs.k12.in.us/norwellmiddleschool_home.aspx	Norwell Middle School	2013.0	144.0
+20282	http://eisenhower.warsaw.k12.in.us	Eisenhower Elementary School	2008.0	486.0
+20284	http://alex.k12.in.us/	Alexandria-Monroe Intermediate	1998.0	351.0
+20285	http://www.crothersville.k12.in.us/jr-sr_high.html	Crothersville Jr-Sr High School	2000.0	783.0
+20286	http://www.wclark.k12.in.us/schools-borden-jr-sr-high	William W Borden High School	2013.0	2007.0
+20287	http://www.c-vpl.org	Covington-Veedersburg Public Library	2008.0	26.0
+20288	http://www.wclark.k12.in.us/schools-silver-creek-middle	Silver Creek Middle School	2013.0	2005.0
+20289	http://www.wclark.k12.in.us/schools-silver-creek-high	Silver Creek High School	2013.0	2005.0
+20290	http://www.wclark.k12.in.us/schools-henryville-elementary	Henryville Elementary School	2013.0	2005.0
+20291	http://www.wclark.k12.in.us/schools-henryville-jr-sr-high	Henryville Jr & Sr High Sch	2013.0	2006.0
+20294	http://www.leb.k12.in.us	Hattie B Stokes Elementary School	2001.0	115.0
+20296	http://www.ptsc.k12.in.us/	Boone Grove High School	1997.0	177.0
+20297	http://www.jgsc.k12.in.us/john-glenn-high-school.html	John Glenn High School	2013.0	57.0
+20298	http://www.in.gov/gov/firstlady/	First Lady	2001.0	28.0
+20299	http://www.milan.k12.in.us	Milan Elementary School	1996.0	194.0
+20302	http://www.sripley.k12.in.us	South Ripley Elementary School	2000.0	384.0
+20303	http://sites.evscschools.com/AdminDefault.aspx?PortalId=6faf25d4-c494-4274-8b05-514a6435d1d3	Harper Elementary School	0.0	4.0
+20305	http://www.ccsc.k12.in.us/default.asp?q_areaprimaryid=6&q_areasecondaryid=1	Clarksville Senior High Sch	2011.0	1743.0
+20306	http://ndhs.decaturco.k12.in.us	North Decatur Jr-Sr High Sch	2011.0	97.0
+20307	http://parkside.goshenschools.org	Parkside Elementary School	2005.0	111.0
+20308	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/eagle-elementary	Eagle Elementary Sch	2013.0	8.0
+20309	http://goshenpl.lib.in.us/	Goshen Public Library	1999.0	240.0
+20311	http://www.ips.k12.in.us/bad-url/	Northwest Community High School	2013.0	16.0
+20312	http://www.fulco.lib.in.us	Fulton County Public Library	1998.0	277.0
+20313	http://74.ips.k12.in.us/	Theodore Potter School 74	2003.0	0.0
+20314	http://www.southadams.k12.in.us/high.cfm	South Adams High School	0.0	726.0
+20315	https://www.edline.net/pages/bendix_school	Rise Up Academy at Eggleston	0.0	18.0
+20316	http://www.fremont.lib.in.us	Fremont Public Library	2004.0	4.0
+20317	http://www.newportlibrary.info	Vermillion County Public Library	2007.0	16.0
+20318	http://fayettein.frazee.schooldesk.net//	Frazee Elementary School	2011.0	62.0
+20319	http://rpia.warren.k12.in.us/	Raymond Park Intermediate	2010.0	140.0
+20320	http://www.in.gov/idoa/	Administration, Department of	2001.0	276.0
+20322	http://528.ips.k12.in.us/	Longfellow Magnet Middle School	0.0	0.0
+20323	http://www.wayne.k12.in.us/sfe/	Stout Field Elementary School	1999.0	17.0
+20324	http://www.mccsc.edu/Domain/18	Summit Elementary School	2013.0	837.0
+20325	https://www.edline.net/pages/harrison_primary_center	Harrison Primary Center	0.0	20.0
+20327	http://www.in.gov/ieerb/	Education Employment Relations Board	2001.0	30.0
+20328	http://jefferson.warsaw.k12.in.us	Jefferson Elementary School	2008.0	419.0
+20329	http://www.clintonpl.lib.in.us	Clinton Public Library	1998.0	30.0
+20330	http://north.imsaindy.org	IN Math & Science Acad North	2010.0	67.0
+20331	http://filmindiana.iupui.edu/	Film Indiana	2012.0	6.0
+20332	http://www.danville.k12.in.us/ourschool/middleschool/default.htm	Danville Middle School	2007.0	47.0
+20333	http://www.bicknell-vigo.lib.in.us	Bicknell-Vigo Township Public Library	1998.0	23.0
+20334	http://www.wpl.lib.in.us	Westchester Public Library	1998.0	87.0
+20335	http://www.eapld.org	Aurora Public Library District	2007.0	11.0
+20336	http://www.danville.k12.in.us/ourschool/highschool/default.htm	Danville Community High Sch	2007.0	75.0
+20337	http://www.wccsonline.com/ces/default.aspx	Coesse School	2010.0	340.0
+20338	http://www.oaklawnelementary.org/	Oaklawn Elementary School	0.0	50.0
+20339	http://echs.sunmandearborn.k12.in.us	East Central High School	2011.0	2784.0
+20340	http://co.putnam.in.us/	Putnam	2004.0	69.0
+20341	http://www.in.gov/legislative/house_republicans/	General Assembly, Indiana (HOUSE REPS)	2001.0	1109.0
+20342	http://eastside.concord.k12.in.us	Concord East Side Elem School	2006.0	185.0
+20343	http://www.greensburg.k12.in.us	Greensburg Community Jr High	1998.0	69.0
+20344	http://www.nm.k12.in.us/schools/sommer.htm	Lester B Sommer Elem Sch	0.0	4.0
+20346	http://www.scsd1.com/austinmiddleschool_home.aspx	Austin Middle School	2013.0	57.0
+20348	http://ces.tsc.k12.in.us	James Cole Elementary School	0.0	213.0
+20349	http://www.mccsc.edu/Domain/15	Lakeview Elementary School	2013.0	837.0
+20350	http://315.ips.k12.in.us/	Cold Spring School	2003.0	0.0
+20352	http://www.indianavirtual.com	Indiana Virtual School	2012.0	142.0
+20355	http://www.IN.gov/bpe/	Proprietary Education, Board for	2013.0	80.0
+20356	http://www.acpl.lib.in.us	Allen County Public Library	1997.0	136.0
+20357	http://www.stjosephcentral.fwcs.k12.in.us	Saint Joseph Central School	2012.0	11.0
+20358	http://tis.taylor.k12.in.us	Taylor Intermediate School	2012.0	4.0
+20359	https://www.edline.net/pages/clay_intermediate_center	Clay Intermediate Center	0.0	11.0
+20361	http://www.town.pendleton.in.us/	Pendleton	2001.0	101.0
+20362	http://morg.lib.in.us	Morgan County Public Library	2001.0	73.0
+20364	http://www.bcsc.k12.in.us/site/default.aspx?domainid=788	CSA Lincoln Campus	0.0	9.0
+20365	http://417.ips.k12.in.us/	Broad Ripple Mgnt HS for Prfm Arts	2009.0	0.0
+20366	https://www.edline.net/pages/nuner_primary_center	Nuner Primary Center	0.0	13.0
+20367	http://npe.newpal.k12.in.us	New Palestine Elementary School	2001.0	388.0
+20368	http://www.in.gov/silveralert/	Silver Alerts	2009.0	8.0
+20369	http://hs.resc.k12.in.us	Union City Community Jr/Sr HS	2007.0	415.0
+20371	http://www.lpcsc.k12.in.us/kingsford_heights/	Kingsford Heights Elem Sch	2006.0	8.0
+20372	http://nphs.newpal.k12.in.us	New Palestine High School	2012.0	875.0
+20373	http://bnlhs.nlcs.k12.in.us/	Bedford-North Lawrence High School	0.0	167.0
+20374	http://westside.concord.k12.in.us	Concord West Side Elem School	2006.0	1552.0
+20375	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/reagan	Reagan Elementary	2013.0	8.0
+20376	http://www.maplewood.fwcs.k12.in.us	Maplewood Elementary School	2012.0	11.0
+20377	http://sites.evscschools.com/AdminDefault.aspx?PortalId=45765458-443b-4601-bf8f-d4c2650e77c1	McGary Middle School	2013.0	4.0
+20380	http://www.msdwc.k12.in.us/nhs/nhshome.htm	Northfield Jr-Sr High School	1999.0	2.0
+20382	http://www.twinlakeshs.org/	Twin Lakes Senior High School	0.0	19.0
+20383	http://www.centerville.k12.in.us/schools/centerville_elem/default.htm	Centerville-Abington Elem School	1999.0	6.0
+20384	http://www.in.gov/ibtr/	Tax Review, Board of	2002.0	152.0
+20385	http://www.mitchell.k12.in.us/	Hatfield Elementary School	2000.0	396.0
+20386	http://www.edline.net/pages/5143961421399243394	Lakeland High School	2012.0	15.0
+20388	http://www.hammond.k12.in.us/lincolnes/	Abraham Lincoln Elem Sch	2006.0	289.0
+20389	http://les.nlcs.k12.in.us/	Lincoln Elementary School	0.0	75.0
+20390	http://www.imsaindy.org	Indiana Math & Science Academy	2007.0	132.0
+20391	http://batesvilleinschools.com/bms/	Batesville Middle School	2012.0	791.0
+20392	http://www.whiting.lib.in.us	Whiting Public Library	1998.0	74.0
+20393	http://opl.lib.in.us/	Otterbein Public Library	2013.0	43.0
+20394	http://www.hse.k12.in.us/hre/	Hoosier Road Elementary School	2004.0	32.0
+20395	http://meadowsedge.phmschools.org/	Meadow's Edge Elementary Sch	2009.0	16.0
+20396	http://wye.tsc.k12.in.us/	Wyandotte Elementary	0.0	304.0
+20397	http://grassycreek.warren.k12.in.us/	Grassy Creek Elementary Sch	2002.0	76.0
+20399	http://wchs.warsaw.k12.in.us	Warsaw Community HS	2008.0	5749.0
+20400	http://svhs.svalley.k12.in.us	Springs Valley Comm High Sch	2012.0	574.0
+20401	http://www.mybcpl.org/	Bartholomew County Public Library	2006.0	26.0
+20402	http://www.in.gov/attorneygeneral/	Attorney General	2001.0	391.0
+20403	http://model.goshenschools.org/	Model Elementary School	2005.0	98.0
+20405	http://www.brownco.k12.in.us/	Helmsburg Elementary School	1999.0	150.0
+20406	http://www.lsc.k12.in.us/schools/glenacres/index.htm	Glen Acres Elementary School	2005.0	662.0
+20407	http://gcjhs.gcsc.k12.in.us	Greenfield Central Junior High Sch	2013.0	45.0
+20408	http://www.wccs.k12.in.us/cchs/	Columbia City High School	2002.0	124.0
+20409	http://www.in.gov/spd/	Personnel, State Department of	2008.0	117.0
+20410	http://nccsc.k12.in.us/	Wilbur Wright Elementary School	1997.0	6422.0
+20411	http://www.nwcs.k12.in.us/lancastercentralelementaryschool_home.aspx	Lancaster Central School	2013.0	147.0
+20412	http://dcms.newpal.k12.in.us	Doe Creek Middle School	2012.0	458.0
+20413	http://www.scsd2.k12.in.us/scottsburgelementary_home.aspx	Scottsburg Elem School	2012.0	101.0
+20416	http://sdms.sunmandearborn.k12.in.us	Sunman-Dearborn Middle School	2012.0	3384.0
+20417	http://sites.evscschools.com/AdminDefault.aspx?PortalId=0f146342-1cb2-4984-b1a2-01cdabb17de2	Lincoln School	2012.0	2.0
+20418	http://www.apls.lib.in.us	Adams Public Library System	2009.0	24.0
+20419	http://www.gws.k12.in.us/ghs/	Greenwood Community High Sch	2011.0	915.0
+20421	http://www.ftcsc.k12.in.us	Franklin Township Middle Schl East	2002.0	258.0
+20423	http://www.vigocounty.org/	Vigo	2000.0	1865.0
+20424	http://www.gibsoncounty-in.gov/default.aspx	Gibson	2009.0	515.0
+20425	http://www.wayne.k12.in.us/bdfresh/	Ben Davis Ninth Grade Center	2006.0	45.0
+20426	http://www.scott.lib.in.us	Scott County Public Library	2003.0	9.0
+20427	http://www.centerville.k12.in.us/schools/rose_hamilton/default.htm	Rose Hamilton Elementary Sch	1999.0	4.0
+20428	http://www.cclib.lib.in.us	Cambridge City Public Library	2002.0	15.0
+20429	http://www.lintonpl.lib.in.us	Linton Public Library	2008.0	252.0
+20430	https://www.edline.net/pages/lincoln_primary_center	Lincoln Primary Center	2013.0	16.0
+20431	http://www.bcsc.k12.in.us/site/default.aspx?domainid=746	CSA Fodrea Campus	2011.0	17.0
+20432	http://fvw.lcsc.k12.in.us/	Fairview Elementary School	2001.0	19.0
+20433	http://www.shiningminds.com	Community Montessori	2004.0	26.0
+20434	http://www.epcsc.k12.in.us/mes/	Morgan Township Elementary School	2007.0	0.0
+20436	http://www.sullivan.lib.in.us	Sullivan County Public Library	2001.0	69.0
+20437	http://103.ips.k12.in.us/	Francis Scott Key School 103	2003.0	0.0
+20438	http://kendall.marion.k12.in.us/	John W Kendall Elem School	2013.0	350.0
+20439	http://gis.gcsc.k12.in.us	Greenfield Intermediate School	2012.0	28.0
+20440	http://www.centergrove.k12.in.us/cgmsc	Center Grove Middle Schl Central	2011.0	2409.0
+20441	http://www.valpo.k12.in.us/hlel/index.php	Hayes Leonard Elementary Sch	2004.0	1.0
+20442	http://fayettein.everton.schooldesk.net//	Everton Elementary School	2011.0	111.0
+20443	http://42.ips.k12.in.us/	Elder W Diggs School 42	2003.0	0.0
+20444	http://www.lpcsc.k12.in.us/handley/	Handley Elementary School	2006.0	7.0
+20448	http://www.pccs.k12.in.us	Perry Central Elem School	1997.0	61.0
+20449	http://14.ips.k12.in.us/	Washington Irving School 14	2003.0	0.0
+20450	http://www.greensburg.k12.in.us/ges/	Greensburg Elementary	2002.0	13.0
+20451	http://www.cpcsc.k12.in.us/wchs/	Whiteland Community High Sch	2001.0	7.0
+20452	http://cat.crownpoint.lib.in.us	Crown Point Community Public Library	2008.0	1474.0
+20455	http://sites.evscschools.com/AdminDefault.aspx?PortalId=2ad66c19-3c16-4cd6-af3d-149279ec36d0	William Henry Harrison High Sch	2012.0	3.0
+20456	http://hpe.msdsteuben.k12.in.us/	Hendry Park Elementary School	2011.0	1689.0
+20457	http://www.in.gov/rda/	Northwest Indiana Regional Development Authority	2006.0	24.0
+20458	http://www.in.gov/ipdc/	Public Defenders Council, Indiana	2007.0	21.0
+20459	http://www.mcas.k12.in.us/elston	Elston Middle School	2005.0	5.0
+20460	http://www.scsd2.k12.in.us/viennafinleyelementary_home.aspx	Vienna-Finley Elem Sch	2012.0	103.0
+20461	http://www.greensburglibrary.org	Greensburg-Decatur County Contractual Public Library	2003.0	81.0
+20462	http://www.lowellpl.lib.in.us	Lowell Public Library	2000.0	18.0
+20463	http://www.delcomschools.org/aes/	Albany Elementary School	2000.0	33.0
+20465	http://www.wclark.k12.in.us/schools-silver-creek-primary-school	Silver Creek Primary School	2013.0	2006.0
+20466	http://park.mgargylls.com/	Park Elementary School	2011.0	1.0
+20467	http://www.syracuse.lib.in.us/	Syracuse-Turkey Creek Township Public Library	2001.0	10.0
+20468	http://indiana.gov/	State Government	2001.0	6465.0
+20469	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1110	Taylorsville Elem School	0.0	14.0
+20472	http://www.epcsc.k12.in.us/kes/	Kouts Elementary School	2006.0	0.0
+20476	http://www.myepl.org/epl/	Elkhart Public Library	2012.0	195.0
+20477	http://www.swhitley.lib.in.us	South Whitley-Cleveland Township Public Library	2006.0	105.0
+20480	http://meridianstreetfoundation.net/mspchome.html	Meridian Street Preservation Commission	2008.0	42.0
+20481	http://www.xavierschool.org/	Xavier School of Excellence	2002.0	15.0
+20485	http://www.msdwc.k12.in.us/mne/mnehome.htm	Metro North Elementary School	1999.0	2.0
+20487	http://www.in.gov/idoc/penproducts/	PEN Products	2008.0	22.0
+20489	http://www.westville.k12.in.us/	Westville High School	2000.0	144.0
+20490	http://www.jefferson.fwcs.k12.in.us	Jefferson Middle School	2012.0	11.0
+20491	http://www.vigo.lib.in.us/about/west	West Branch Library	0.0	49.0
+20493	http://www.schs.switzerland.k12.in.us/ms.php	Switzerland Co Middle Sch	0.0	31.0
+20494	http://www.shenandoah.k12.in.us/education/school/school.php?sectionid=5&sc_id=1197550965	Shenandoah Middle School	2008.0	3.0
+20496	http://jefferson.lib.in.us	Jeffersonville Township Public Library	1998.0	593.0
+20497	https://www.edline.net/pages/perley_primary_fine_arts_acade	Perley Fine Arts Academy	0.0	12.0
+20499	http://sves.nlcs.k12.in.us/	Springville Elementary School	0.0	52.0
+20500	http://www.gws.k12.in.us/ne/	Greenwood Northeast Elem Sch	2012.0	848.0
+20501	http://www.cityofshelbyvillein.com/	Shelbyville	2002.0	3.0
+20502	http://www.cloverdale.k12.in.us/chs/	Cloverdale High School	2000.0	10.0
+20503	http://www.warren.lib.in.us	Warren Public Library	2002.0	9.0
+20504	http://www.hammond.k12.in.us/mortonhs/	Morton Senior High School	2007.0	1894.0
+20507	http://www.whitko.org/buildings/whs/index.html	Whitko High School	2001.0	0.0
+20508	http://www1.wcs.k12.in.us/	North Elementary School	1998.0	261.0
+20510	http://www.fwsafe.com	Smith Academy for Excellence	2012.0	40.0
+20511	http://www.vigo.lib.in.us	Vigo County Public Library	2000.0	817.0
+20513	http://www.carroll.k12.in.us	Carroll Jr-Sr High Sch	2002.0	934.0
+20514	http://ms.npusc.k12.in.us	New Prairie Middle School	2013.0	464.0
+20517	http://www.in.gov/dlgf/	Local Government Finance, Department of	2002.0	378.0
+20518	https://www.edline.net/pages/mckinley_primary_center	McKinley Primary Center	2013.0	12.0
+20520	http://www.gws.k12.in.us/gms/	Greenwood Middle School	1998.0	861.0
+20521	https://www.edline.net/pages/marquette_primary_montessori_a	Marquette Montessori Academy	0.0	16.0
+20522	http://www.hammond.k12.in.us/acc/	Area Career Center	2006.0	34.0
+20523	https://sites.google.com/a/acsc.net/ahs/	Anderson High School	2014.0	178.0
+20524	http://www.in.gov/judiciary/admin/	Court Administration, Indiana State	2001.0	104.0
+20527	http://www.ci.portage.in.us/	Portage	1998.0	1542.0
+20529	http://www.ics-charter.org	Irvington Community School	2002.0	391.0
+20530	http://www.cpcsc.k12.in.us/cpms/	Clark Pleasant Middle Sch	2001.0	5.0
+20533	http://www.fairmountlibrary.com	Fairmount Public Library	2004.0	110.0
+20534	http://www.in.gov/hrc/	Horse Racing Commission	2007.0	110.0
+20535	http://fayettein.chs.schooldesk.net//	Connersville Sr High School	2011.0	229.0
+20536	http://fhs.frontier.k12.in.us/	Frontier Jr-Sr High School	2006.0	201.0
+20537	http://ma.mvschool.org/	Marrs Elementary School	2013.0	2012.0
+20538	http://www.indianasenaterepublicans.com/	General Assembly, Indiana (SENATE REPS)	2013.0	1527.0
+20543	http://www.cityofgreensburg.com/	Greensburg	2001.0	58.0
+20545	http://www.cloverdale.k12.in.us/ces/	Cloverdale Elementary School	1999.0	10.0
+20547	http://wms.tsc.k12.in.us/	Wainwright Middle School	0.0	300.0
+20548	http://dms.rc.k12.in.us	Lee L Driver Middle School	2012.0	264.0
+20551	http://cms.lcsc.k12.in.us/	Columbia Middle School	2001.0	15.0
+20552	http://www.hse.k12.in.us/lre/	Lantern Road Elementary Sch	2004.0	221.0
+20555	http://rp.npusc.k12.in.us	Rolling Prairie Elem Sch	2013.0	505.0
+20556	http://www.od.k12.in.us/hs/hs_homepage.html	Oregon-Davis Jr-Sr High School	2006.0	4.0
+20557	http://www.nws.k12.in.us/nhs/nhsmain.htm	Northeastern High School	2001.0	2.0
+20559	http://www.bcsc.k12.in.us/site/default.aspx?domainid=440	Central Middle School	2012.0	15.0
+20560	http://grissom.phmschools.org/	Virgil I Grissom Middle Sch	2009.0	26.0
+20561	http://merrillville.schoolwires.net/Domain/1077	John Wood Elementary School	2012.0	370.0
+20562	http://www.hnpl.lib.in.us	Hamilton North Public Library	2003.0	27.0
+20564	http://emmerichmanualhs.org/	Emmerich Manual High School	2012.0	10.0
+20565	http://bge.tsc.k12.in.us/	Battle Ground Elem Sch	0.0	301.0
+20566	http://www.in.gov/icrc/	Civil Rights Commission, Indiana	2001.0	287.0
+20567	http://www.lpcsc.k12.in.us/kingsbury/	Kingsbury Elementary School	2006.0	8.0
+20568	http://www.centergrove.k12.in.us/cgmsn	Center Grove Middle School North	2003.0	2107.0
+20569	http://lakeview.warsaw.k12.in.us	Lakeview Middle School	2008.0	420.0
+20570	http://www.jgsc.k12.in.us/north-liberty-elementary-school.html	North Liberty School	2013.0	48.0
+20572	http://www.fcavc.org	Four County Area Voc Coop	2008.0	170.0
+20573	http://www.jdcpl.lib.in.us	Jasper-Dubois County Contractual Public Library	2006.0	85.0
+20574	http://www.wayne.k12.in.us/mce/	McClelland Elementary School	2000.0	19.0
+20575	http://www.gws.k12.in.us/sw/	Southwest Elem Sch	2012.0	934.0
+20576	http://61.ips.k12.in.us/	Clarence Farrington School 61	2008.0	0.0
+20577	http://www.shenandoah.k12.in.us/education/school/school.php?sectionid=4&sc_id=1197550303	Shenandoah Elementary School	2008.0	4.0
+20578	http://www.winonalake.net/	Winona Lake	2000.0	3.0
+20579	http://www.lpcsc.k12.in.us/riley/	Riley Elementary School	2006.0	8.0
+20580	http://ndes.sunmandearborn.k12.in.us	North Dearborn Elementary School	2011.0	2618.0
+20581	http://anthis.fwcs.k12.in.us	Anthis Career Center	2007.0	41.0
+20584	http://www.epcsc.k12.in.us/whs/	Washington Twp Middle/High School	2006.0	5.0
+20585	http://www.swdubois.k12.in.us/	Southridge Middle School	1998.0	25.0
+20586	http://www.eastbrookschools.net/index.php	Eastbrook Junior High School	2006.0	0.0
+20588	http://www.arlington.fwcs.k12.in.us	Arlington Elementary School	2012.0	11.0
+20589	http://www.mcs.k12.in.us/mes/	Manchester Elem School	1999.0	2.0
+20592	http://bgm.tsc.k12.in.us/	Battle Ground Middle School	0.0	350.0
+20593	http://www.isbvik12.org/	School for the Blind, Indiana	2010.0	83.0
+20594	http://nes.nlcs.k12.in.us/	Needmore Elementary School	0.0	78.0
+20595	http://www.elwood.k12.in.us	Elwood Community High School	1998.0	43.0
+20596	https://www.edline.net/pages/wilson_primary_center	Wilson Primary Center	2013.0	9.0
+20597	http://arlington.rushville.k12.in.us	Arlington Elementary School	0.0	80.0
+20598	http://www.nws.k12.in.us/nes/nesmain.html	Northeastern Elementary Sch	2000.0	2.0
+20599	http://www.bccn.boone.in.us/tpl/	Thorntown Public Library	2000.0	10.0
+20600	http://sites.evscschools.com/AdminDefault.aspx?PortalId=169270a4-97ab-4dc5-ad87-12b74d22d56a	Highland Elementary School	2012.0	2.0
+20602	http://www.co.steuben.in.us/	Steuben	2001.0	359.0
+20603	http://www.rcsi.k12.in.us	Rural Community Academy	2006.0	45.0
+20604	http://www.lsc.k12.in.us/jeff/	Jefferson High School	2001.0	1943.0
+20605	http://www.wccsonline.com/mres/default.aspx	Mary Raber Elementary School	2010.0	370.0
+20607	http://www.ses.k12.in.us/mhs/index.html	Morristown Jr-Sr High School	2003.0	7.0
+20608	http://www.avongov.org/	Avon	1999.0	746.0
+20609	http://townofclarksville.com/	Clarksville	2009.0	40.0
+20610	http://www.in.gov/dor/	Revenue, Department of	2001.0	559.0
+20611	http://www.in.gov/fssa/hip/	Healthy Indiana Plan	2007.0	25.0
+20612	http://www.jenningslib.org	Jennings County Public Library	2008.0	24.0
+20613	http://www.marion.k12.in.us	Grant County Comm Justice Cntr	1998.0	505.0
+20614	https://www.edline.net/pages/madison_primary_center	Madison Primary Center	0.0	11.0
+20615	http://www.culver.k12.in.us	Culver Community Middle Sch	1998.0	277.0
+20616	http://www.valpo.k12.in.us/cnel/index.php	Central Elementary School	2004.0	1.0
+20617	https://www.edline.net/pages/adamshs	Adams High School	2012.0	12.0
+20618	http://www.tiptonpl.lib.in.us	Tipton County Public Library	1998.0	12.0
+20620	http://www.carmel.lib.in.us	Carmel Clay Public Library	1996.0	1132.0
+20621	http://www.fccsc.k12.in.us/bms/wordpress/	Brookville Middle Sch	2012.0	304.0
+20624	http://www.in.gov/gov/	Governor Mike Pence	2001.0	156.0
+20625	http://www.in.gov/idoc/	Correction, Department of	2008.0	327.0
+20626	http://www.in.gov/atc/	Alcohol & Tobacco Commission	2002.0	114.0
+20627	http://www.mishawakacity.com/	Mishawaka	1999.0	497.0
+20628	http://ses.rbbcsc.k12.in.us	Stinesville Elementary School	2000.0	59.0
+20629	http://www.jcsc.org/jchs/	Jennings County High School	2000.0	2.0
+20630	http://www.wlaf.lib.in.us	West Lafayette Public Library	1998.0	200.0
+20631	http://www.jcsc.org/education/school/school.php?sectionid=84&sc_id=1198814888	Jennings County Education Center	0.0	2.0
+20632	http://www.nm.k12.in.us/schools/ph.htm	Pleasant Hill Elementary School	2000.0	4.0
+20634	http://fayettein.grandview.schooldesk.net//	Grandview Elementary School	2011.0	60.0
+20635	https://www.edline.net/pages/tarkington_traditional_school	Tarkington Traditional Center	2013.0	11.0
+20637	http://www.nafclibrary.org	New Albany-Floyd County Public Library	2005.0	635.0
+20638	http://ces.wl.k12.in.us/	Cumberland Elementary School	2013.0	296.0
+20639	http://www.tchowehighschool.org	Thomas Carr Howe Comm High School	2012.0	9.0
+20640	http://www.co.adams.in.us/	Adams	2004.0	36.0
+20641	http://www.hse.k12.in.us/des/	Durbin Elementary School	2000.0	98.0
+20642	http://www.msdwc.k12.in.us/shs/shshome.htm	Southwood Jr-Sr High School	1999.0	2.0
+20643	http://enlaceacademy.org	Enlace Academy	2013.0	247.0
+20645	http://www.ezwebsite.org/lakestreetelem	Lake Street Elementary School	2008.0	0.0
+20647	http://indianahousedemocrats.org/	General Assembly, Indiana (HOUSE DEMS)	2012.0	694.0
+20648	http://cms.bsu.edu/Web/Burris.aspx/	Burris Laboratory School	2011.0	113.0
+20649	http://www.brownsburg.k12.in.us/index.php/our-schools/developmental-preschool	Brownsburg Early Childhood Center	2013.0	24.0
+20650	http://www.mccsc.edu/Domain/12	Fairview Elementary School	2013.0	837.0
+20652	http://www.cityofmuncie.com/	Muncie	1999.0	125.0
+20653	http://pv.npusc.k12.in.us	Prairie View Elementary Sch	2013.0	416.0
+20654	http://www.in.gov/icw/	Women, Indiana Commission for	2001.0	91.0
+20655	http://riverview.hccsc.k12.in.us/	Riverview School	2010.0	841.0
+20656	http://lincolnheritage.lib.in.us	Lincoln Heritage Public Library	1999.0	2.0
+20657	http://melton.lib.in.us/	Melton Public Library	2001.0	29.0
+20659	http://www.swparke.k12.in.us/	Montezuma Elementary School	1998.0	5410.0
+20660	http://www.in.gov/isdh/	Health, State Department of	2001.0	1987.0
+20661	http://www.mcas.k12.in.us/barker	Barker Middle Sch	2001.0	1358.0
+20663	http://www.nhaschools.com/schools/aspire/en/pages/default.aspx	Aspire Charter Academy	0.0	22.0
+20664	http://www.lpcsc.k12.in.us/indian_trail/	Indian Trail Elem Sch	2006.0	6.0
+20665	http://www.edline.net/pages/wolcott_mills_elementary	Wolcott Mills Elementary Sch	0.0	12.0
+20666	http://www.westview.k12.in.us/ses/sesindex.html	Shipshewana-Scott Elem School	2004.0	2.0
+20667	http://www.ccsc.k12.in.us/default.asp?q_areaprimaryid=6&q_areasecondaryid=3	Clarksville Elementary School	2011.0	1764.0
+20668	http://www.centergrove.k12.in.us/nges	North Grove Elementary School	2001.0	1782.0
+20669	http://www.in.gov/isp/	State Police	2001.0	320.0
+20670	http://www.in.gov/sos/elections/	Election Division, Indiana	2001.0	148.0
+20671	http://cpe.msdsteuben.k12.in.us/	Carlin Park Elementary School	2011.0	74.0
+20672	http://www.westview.k12.in.us/mes/mesframeset.htm	Meadowview Elementary Sch	2004.0	2.0
+20673	http://bes.sunmandearborn.k12.in.us	Bright Elementary Sch	2011.0	2748.0
+20675	http://www.lpld.lib.in.us	Lawrenceburg Public Library District	2000.0	247.0
+20676	http://www.ci.valparaiso.in.us/	Valparaiso	1999.0	1254.0
+20678	http://www.in.gov/judiciary/	Indiana Courts	2001.0	874.0
+20679	http://www.eacs.k12.in.us	Leo Junior/Senior High School	1998.0	2710.0
+20680	http://mhs.tsc.k12.in.us	McCutcheon High School	0.0	1539.0
+20681	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2983	Sugar Grove Elementary School	2011.0	1265.0
+20682	http://www.sputnam.k12.in.us	Central Elementary School	1998.0	584.0
+20683	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2981	Rio Grande Elementary School	2011.0	1723.0
+20684	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2986	Ouabache Elementary School	2011.0	1598.0
+20685	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2984	Terre Town Elementary School	2011.0	1325.0
+20686	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2985	West Vigo Elementary School	2007.0	1285.0
+20688	http://31.ips.k12.in.us/	James A Garfield Sch 31	2003.0	0.0
+20692	http://www.speedway.lib.in.us	Speedway Public Library	2001.0	129.0
+20694	http://www.northside.fwcs.k12.in.us	North Side High School	2003.0	11.0
+20695	http://www.mccsc.edu/Domain/27	Bloomington High School North	2013.0	837.0
+20696	http://rc.eastnoble.net/	Rome City Elementary School	2008.0	241.0
+20697	http://www.and.lib.in.us/	Anderson Public Library	2000.0	608.0
+20698	http://www.hse.k12.in.us/ges/	Geist Elementary School	2006.0	35.0
+20699	http://www.wayne.k12.in.us/mwe/	Maplewood Elementary School	2000.0	21.0
+20701	http://www.tcsc.k12.in.us	Tipton Elementary School	0.0	371.0
+20702	http://icms.indiancreekschools.com/	Indian Creek Middle School	2012.0	15.0
+20705	http://www.nman.lib.in.us	North Manchester Public Library	2001.0	87.0
+20706	http://www.westview.k12.in.us/tes/tesframeset.htm	Topeka Elementary School	2004.0	2.0
+20707	http://www.forestpark.fwcs.k12.in.us	Forest Park Elementary School	2012.0	11.0
+20708	http://www.columbiacity.net/	Columbia City	2001.0	39.0
+20711	http://www.portage.fwcs.k12.in.us	Portage Middle School	2012.0	11.0
+20712	http://townofclearlake.org/	Clear Lake	2002.0	173.0
+20713	http://www.m-gsd.org/mms/	Monrovia Middle School	2007.0	30.0
+20714	http://www.washingtonpubliclibrary.org	Washington Carnegie Public Library	2007.0	0.0
+20715	http://eom.madison.k12.in.us	Emery O Muncie Elem School	0.0	208.0
+20719	http://merrillville.schoolwires.net/site/default.aspx?domainid=128	Merrillville High Sch	2012.0	170.0
+20720	https://www.edline.net/pages/dickinson_intermediate_fine_ar	Dickinson Fine Arts Academy	0.0	11.0
+20721	http://www.nn.k12.in.us	Lake Village Elementary Sch	2001.0	60.0
+20722	http://fes.nlcs.k12.in.us/	Fayetteville Elementary Sch	0.0	63.0
+20723	http://www.elkhart.k12.in.us/schools.php	Mary Feeser Elementary School	2003.0	230.0
+20725	http://ghs.goshenschools.org	Goshen High School	2005.0	1265.0
+20726	http://www.medorahornets.org	Medora Jr & Sr High School	2007.0	21.0
+20727	http://www.ses.k12.in.us/whs/	Waldron Jr-Sr High School	2001.0	33.0
+20730	http://www.jayschools.k12.in.us/redkey/	Redkey Elementary School	2003.0	10.0
+20731	http://www.ccsc.k12.in.us/default.asp?q_areaprimaryid=6&q_areasecondaryid=2	Clarksville Middle School	2011.0	1766.0
+20733	http://www.lakecountyin.org/	Lake	2003.0	1021.0
+20735	http://glenwoodpark.fwcs.k12.in.us	Glenwood Park Elementary Sch	2012.0	11.0
+20736	http://block.scec.k12.in.us/	Joseph L Block Jr High School	2013.0	510.0
+20737	http://bccn.boone.in.us/LPL/	Lebanon Public Library	1997.0	66.0
+20740	http://www.elkhartcountyindiana.com/	Elkhart	2003.0	6.0
+20741	http://www.haley.fwcs.k12.in.us	J Wilbur Haley Elementary Sch	2012.0	11.0
+20742	http://www.kippindy.org	KIPP Indpls College Preparatory	2008.0	42.0
+20743	http://inwhiteriver.wrsp.in.gov/	White River State Park Commission	2010.0	39.0
+20744	http://www.buscolibrary.whitleynet.org	Churubusco Public Library	2002.0	693.0
+20745	http://www.co.jay.in.us/	Jay	2002.0	28.0
+20746	http://www.tindleyschool.org	Charles A Tindley Accelerated Sch	2004.0	46.0
+20748	http://msdadmin.scican.net/wms/	Martinsville West Middle Sch	1999.0	0.0
+20750	http://www.wayne.fwcs.k12.in.us	Wayne High School	2003.0	13.0
+20752	http://www.in.gov/	Indiana State Government	2001.0	18517.0
+20754	http://www.in.gov/sboa/	Accounts, State Board of	2001.0	91.0
+20755	http://60.ips.k12.in.us/	William A Bell Sch 60 Reggio Acad	2003.0	0.0
+20758	http://westgoshen.goshenschools.org	West Goshen Elementary School	2005.0	158.0
+20759	http://www.hse.k12.in.us/bse/	Brooks School Elementary	2004.0	358.0
+20763	http://www.middleburyin.org/publishsite/index.cfm?CFID=3132f0b8-7a9f-46d8-8d3f-a37bee9c6879&CFTOKEN=0	Middlebury	0.0	0.0
+20765	http://www.jgsc.k12.in.us/walkerton-elementary-school.html	Walkerton Elementary School	2013.0	48.0
+20767	http://www.cityofknox.net/	Knox	2001.0	15.0
+20770	http://www.hse.k12.in.us/fhs/	Fishers High School	2003.0	784.0
+20771	http://www.mccsc.edu/Domain/23	Jackson Creek Middle Sch	2013.0	837.0
+20773	http://www.nspencer.k12.in.us/ltes/	Lincoln Trail Elementary Sch	2004.0	1.0
+20774	http://www.brownsburg.k12.in.us/index.php/our-schools/middle-schools/west-middle	Brownsburg West Middle School	2013.0	5.0
+20776	http://www.kendallvillelibrary.org	Kendallville Public Library	2001.0	39.0
+20777	http://merrillville.schoolwires.net/Domain/434	Pierce Middle School	2012.0	370.0
+20778	http://www.elkhartindiana.org/	Elkhart	1998.0	1521.0
+20779	http://sites.evscschools.com/AdminDefault.aspx?PortalId=b515681d-5403-46d4-b0aa-3fe79cf6998f	Fairlawn Elementary School	2013.0	2.0
+20780	http://mccsc.k12.in.us/mill-creek-west-elementary	Mill Creek West Elementary	2012.0	826.0
+20781	http://102.ips.k12.in.us/	Francis Bellamy Pre-School Center	2003.0	0.0
+20782	http://www.in.gov/tourism/	Tourism Development, Indiana Office of	2001.0	79.0
+20784	http://www.mclib.org	Michigan City Public Library	1998.0	9.0
+20786	http://www.tr.k12.in.us	Turkey Run Elementary School	1999.0	320.0
+20789	http://109.ips.k12.in.us/	Jonathan Jennings School 109	2003.0	0.0
+20792	http://www.monon.lib.in.us	Monon Town Township Public Library	2004.0	43.0
+20793	http://www.apl.lib.in.us	Alexandrian Public Library	1999.0	60.0
+20794	http://sites.evscschools.com/AdminDefault.aspx?PortalId=47167012-372f-4233-afd3-346d7bd62a6e	Central High School	2012.0	4.0
+20795	http://www.ncpl.lib.in.us	New Carlisle Olive Township Public Library	1998.0	23.0
+20796	http://www.hartfordcity.net/	Hartford City	2000.0	6.0
+20799	http://sites.evscschools.com/AdminDefault.aspx?PortalId=c67787e4-a0b1-41c0-b4ce-dca317ae3c54	Vogel Elementary School	2012.0	3.0
+20800	http://www.converselib.org	Converse-Jackson Township Public Library	2008.0	7.0
+20801	http://sites.evscschools.com/AdminDefault.aspx?PortalId=511d66fc-2c51-435d-83b2-5812d6e6ee40	Plaza Park International Prep Acad	0.0	2.0
+20802	http://lowell.warren.k12.in.us/	Lowell Elementary School	2002.0	79.0
+20803	http://www.in.gov/ipac/	Prosecuting Attorneys Council	2001.0	125.0
+20804	http://www.westview.k12.in.us/wve/wesframeset.htm	Westview Elementary School	2004.0	2.0
+20806	http://wrm.tsc.k12.in.us/	Wea Ridge Middle School	0.0	446.0
+20808	http://hs.knox.k12.in.us/	Knox Community High School	2008.0	1711.0
+20809	http://hes.nlcs.k12.in.us/	Heltonville Elementary School	0.0	312.0
+20810	http://www.culver.k12.in.us/chs.html	Culver Community High Sch	1999.0	286.0
+20813	http://twms.hendricks.k12.in.us/	Tri-West Middle School	2005.0	799.0
+20814	http://www.huntington.in.us/	Huntington	1997.0	3508.0
+20815	http://www.milan.k12.in.us/jrsr.htm	Milan High School	1997.0	195.0
+20816	http://ns.resc.k12.in.us	North Side Elementary School	2007.0	422.0
+20817	http://ses.sunmandearborn.k12.in.us	Sunman Elementary School	2011.0	1969.0
+20819	http://www.mccsc.edu/Domain/10	Childs Elementary School	2013.0	837.0
+20820	http://eastridge.warren.k12.in.us/	Eastridge Elementary School	2002.0	81.0
+20821	http://wchs.rc.k12.in.us	Winchester Community High Sch	2012.0	393.0
+20822	http://www.zionsville.lib.in.us/hmmpl/nojava/main	Hussey-Mayfield Memorial Public Library	2009.0	68.0
+20824	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2993	Terre Haute North Vigo High Sch	2010.0	1274.0
+20825	http://www.in.gov/isda/2351.htm	Grain Buyers & Warehouse Licensing Agency, Indiana	2009.0	108.0
+20826	http://rchs.rensselaerschools.org	Rensselaer Central High Sch	2009.0	205.0
+20827	http://hcplibrary.org/	Hancock County Public Library - Sugar Creek	2001.0	510.0
+20828	http://www.in.gov/dol/	Labor, Department of	2007.0	247.0
+20829	http://www.mcs.k12.in.us/mhs/	Manchester Jr-Sr High School	2000.0	2.0
+20830	http://15.ips.k12.in.us/	Thomas D Gregg School 15	2003.0	0.0
+20831	http://www.shambaugh.fwcs.k12.in.us	Willard Shambaugh Elem Sch	2012.0	11.0
+20832	http://www.valpo.k12.in.us/tjms/index.php	Thomas Jefferson Middle Sch	2004.0	1.0
+20833	http://fallcreekacademy.org/	Fall Creek Academy	2008.0	99.0
+20834	http://www.cpcsc.k12.in.us/pces/	Pleasant Crossing Elementary	2008.0	5.0
+20835	http://www.in.gov/boah/	Animal Health, Board of	2001.0	178.0
+20836	http://milroy.rushville.k12.in.us	Milroy Elementary School	0.0	60.0
+20838	http://www.gkb.k12.in.us	J E Ober Elementary School	2001.0	98.0
+20839	http://www.fccsc.k12.in.us/les/wordpress/	Laurel School	2012.0	48.0
+20840	http://www.southwayne.fwcs.k12.in.us	South Wayne Elementary School	2012.0	11.0
+20841	http://39.ips.k12.in.us/	William McKinley School 39	2003.0	0.0
+20842	http://www.danvilleindiana.org/	Danville	2002.0	622.0
+20843	http://www.epcsc.k12.in.us/mhs/	Morgan Township Middle/High School	2006.0	21.0
+20847	http://les.shelbycs.org/	William F Loper Elem Sch	2013.0	42.0
+20848	http://ftbranchlibrary.org/	Fort Branch-Johnson Township Public Library	2006.0	0.0
+20849	http://www.abbett.fwcs.k12.in.us	Merle J Abbett Elementary Sch	2004.0	11.0
+20850	http://roanoke.hccsc.k12.in.us/	Roanoke Elementary School	2012.0	750.0
+20851	http://www.hammond.k12.in.us/lafayettees/	Lafayette Elementary School	2006.0	605.0
+20852	http://merrillville.schoolwires.net/Domain/973	Jonas E Salk Elem Sch	2012.0	371.0
+20854	http://www.townofflora.org	Flora	2004.0	833.0
+20855	http://www.cpcsc.k12.in.us/bes/	Break-O-Day Elementary School	2001.0	5.0
+20856	http://www.msdwc.k12.in.us/laf/lafhome.htm	LaFontaine Elementary School	1999.0	2.0
+20857	http://www.in.gov/igc/	Gaming Commission	2008.0	241.0
+20858	http://www.gws.k12.in.us/ic/	V O Isom Central Elem School	2012.0	949.0
+20859	http://www.southadams.k12.in.us/elementary.cfm	South Adams Elem School	0.0	608.0
+20860	http://www.henryco.net/	Henry	2004.0	462.0
+20861	https://www.edline.net/pages/South_Bend_New_Tech_HighSchool	South Bend New Tech HS	0.0	20.0
+20864	http://www.k12.com/ha	Hoosier Acad Virtual Charter Sch	2008.0	528.0
+20865	http://www.indianamuseum.org/	Museum, Indiana State	2000.0	184.0
+20866	http://www.cville.k12.in.us/Cville/Buildings/HooverElementary45/tabid/69/Default.aspx	Mollie B Hoover Elem Sch	2007.0	1.0
+20867	http://www.cville.k12.in.us/Cville/	Anna Willson School	2007.0	6.0
+20868	http://www.co.fulton.in.us/	Fulton	2002.0	83.0
+20870	http://www.in.gov/lg/	Lieutenant Governor	2007.0	134.0
+20873	http://www.in.gov/ceci/	Center for Education and Career Innovation	2013.0	13.0
+20874	http://www.in.gov/statefair/	State Fair, Indiana	2001.0	205.0
+20875	http://www.covington.k12.in.us/ces/default.asp	Covington Elementary School	2012.0	30.0
+20876	http://www.epcsc.k12.in.us/khs/	Kouts Middle/High School	2006.0	13.0
+20877	http://www.lakes.k12.in.us/site/default.aspx?PageID=1	Alexander Hamilton Elementary Sch	2013.0	11.0
+20879	http://msdadmin.scican.net/mhs/	Martinsville High School	2001.0	0.0
+20880	http://www.co.marshall.in.us/	Marshall	2000.0	0.0
+20885	http://www.nknox.k12.in.us/intermediate/	North Knox Intermediate	2011.0	3.0
+20886	http://horizon.phmschools.org/	Horizon Elem Sch	2009.0	13.0
+20888	http://www.scs.k12.in.us/mid/	Sheridan Middle School	2008.0	84.0
+20889	http://www.od.k12.in.us/elem/index.htm	Oregon-Davis Elementary Sch	2006.0	4.0
+20890	http://www.ezwebsite.org/winfield	Winfield Elementary School	2006.0	0.0
+20891	http://www.hammondacademy.org	Hammond Academy of Science & Tech	2009.0	2.0
+20892	http://sites.evscschools.com/AdminDefault.aspx?PortalId=193188d4-8b88-44fd-a5f0-177bd726cd01	North High School	2012.0	4.0
+20893	http://av.eastnoble.net	Avilla Elementary School	2008.0	236.0
+20894	http://356.ips.k12.in.us/	Francis W Parker School 56	2003.0	0.0
+20896	http://www.kekionga.fwcs.k12.in.us	Kekionga Middle School	2012.0	11.0
+20897	http://www.msdwarco.k12.in.us/index.php/schools/pinevillageelementary	Pine Village Elementary Sch	2011.0	8.0
+20899	http://www.indy.gov/Pages/Home.aspx	Indianapolis	2008.0	2019.0
+20900	http://www.jcsc.org/education/school/school.php?sectionid=15&sc_id=1198814888	Jennings County Middle School	0.0	2.0
+20901	http://www.mcas.k12.in.us/knapp	Knapp Elementary School	2001.0	1152.0
+20902	http://mecc.marion.k12.in.us/	Marion Early Childhood Ed Cntr	2013.0	266.0
+20903	http://www.towles.fwcs.k12.in.us	Jeff H Towles Intermediate School	2012.0	11.0
+20904	http://www.in.gov/idoi/	Insurance, Department of	2001.0	409.0
+20905	http://www.alex.lib.in.us	Alexandria-Monroe Public Library	2001.0	32.0
+20906	http://www.in.gov/ofbci/	Faith-based & Community Initiatives, Office of	2006.0	33.0
+20910	http://www.co.delaware.in.us/	Delaware	2001.0	811.0
+20911	http://www.greensburg.k12.in.us/gchs/	Greensburg Community High Sch	2002.0	75.0
+20913	http://www.brownsburg.k12.in.us/index.php/our-schools/high-schools/brownsburg-high-school	Brownsburg High School	2013.0	4.0
+20914	http://iga.in.gov/	General Assembly, Indiana	2013.0	3684.0
+20915	http://www.salemschools.com/content.asp?q_areaprimaryid=4&q_areasecondaryid=4	Bradie M Shrum Lower Elem	2009.0	1344.0
+20916	http://www.salemschools.com/content.asp?q_areaprimaryid=4&q_areasecondaryid=3	Bradie M Shrum Upper Elem	2009.0	1346.0
+20917	http://harris.gcsc.k12.in.us	Harris Elementary School	2012.0	366.0
+20918	http://www.valpo.k12.in.us/mmel/index.php	Memorial Elementary School	2004.0	1.0
+20919	http://www.pioneer.k12.in.us/	Pioneer Jr-Sr High School	0.0	123.0
+20922	http://www.genevapl.lib.in.us/	Geneva Public Library	2000.0	35.0
+20923	http://kentland.lib.in.us	Kentland-Jefferson Township Public Library	2002.0	38.0
+20924	http://www.mccsc.edu/Domain/21	University Elementary School	2013.0	835.0
+20925	http://www.m-gsd.org/mes/	Monrovia Elementary School	2006.0	47.0
+20927	http://302.ips.k12.in.us/	Center For Inquiry	2003.0	0.0
+20928	http://96.ips.k12.in.us/	Meredith Nicholson School 96	2003.0	0.0
+20930	http://www.socs.k12.in.us/	Patricksburg Elementary Sch	1998.0	185.0
+20935	http://www.hammond.k12.in.us/irvinges/	Washington Irving Elem Sch	2007.0	1102.0
+20936	http://wre.tsc.k12.in.us/	Wea Ridge Elementary School	0.0	369.0
+20937	http://bartholomewco.com/	Bartholomew	2001.0	5713.0
+20940	http://www.jcsc.org/education/school/school.php?sectionid=9&sc_id=1198814888	Hayden Elementary School	0.0	2.0
+20941	http://www.jcsc.org/education/school/school.php?sectionid=11&sc_id=1198814888	North Vernon Elementary School	0.0	2.0
+20942	http://www.hagerstown.lib.in.us	Hagerstown-Jefferson Township Public Library	1998.0	22.0
+20943	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2960	Booker T Washington Alt Sch	2011.0	1212.0
+20944	http://www.mcas.k12.in.us/marsh	Marsh Elementary School	2001.0	1198.0
+20945	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2962	Honey Creek Middle Sch	2009.0	1866.0
+20946	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2963	Otter Creek Middle Sch	2007.0	2887.0
+20947	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2964	Sarah Scott Middle Sch	2011.0	1290.0
+20948	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2965	West Vigo Middle School	2007.0	2472.0
+20949	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2966	Woodrow Wilson Middle Sch	2010.0	1624.0
+20950	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2967	Sugar Creek Consolidated Elem Sch	2007.0	1737.0
+20951	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2968	Davis Park Elementary School	2011.0	1564.0
+20952	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2969	Deming Elementary School	2007.0	1912.0
+20953	http://ejhs.rbbcsc.k12.in.us	Edgewood Junior High School	1998.0	153.0
+20954	http://www.clinton.k12.in.us	Clinton Central Junior-Senior HS	2001.0	2952.0
+20955	http://www.in.gov/isdt/	Toxicology, Indiana State Department of	2012.0	20.0
+20956	http://www.edline.net/pages/4687971959116959634	Parkside Elementary School	0.0	16.0
+20957	http://www.attica.k12.in.us	Attica Elementary School	2000.0	102.0
+20960	http://sites.evscschools.com/AdminDefault.aspx?PortalId=f897997c-4401-4f56-a893-fc0b21f0fee7	Oak Hill Elementary	0.0	4.0
+20961	http://www.faulkneracademy.org/new/	Dr Robert H Faulkner Academy	2011.0	48.0
+20962	http://www.claycountyin.gov/metadot/index.pl	Clay	2005.0	1100.0
+20963	http://www.wayne.k12.in.us/nwe/	North Wayne Elem School	2000.0	19.0
+20964	http://www.nknox.k12.in.us/primary/	North Knox Primary School	2012.0	4.0
+20965	http://www.mccsc.edu/Domain/29	Hoosier Hills Career Center	2013.0	837.0
+20966	http://www.mcas.k12.in.us/niemann	Niemann Elementary School	2002.0	5.0
+20967	http://rpe.msdsteuben.k12.in.us/	Ryan Park Elementary Sch	2011.0	66.0
+20968	http://www.cityofnoblesville.org/	Noblesville	2001.0	1173.0
+20969	http://twhs.hendricks.k12.in.us/	Tri-West Senior High School	2005.0	1510.0
+20971	http://www.cityofanderson.com/	Anderson	1999.0	1024.0
+20972	http://hes.tsc.k12.in.us/	Hershey Elementary School	0.0	283.0
+20974	http://www.hammond.k12.in.us/scottms/	Charles N Scott Middle School	2006.0	937.0
+20976	http://www.steuben.lib.in.us	Carnegie Public Library Of Steuben County	2003.0	76.0
+20977	http://www.m-gsd.org/mhs/	Monrovia High School	2007.0	18.0
+20978	http://www.wvcl.org/laurel/	Laurel Community Library	2003.0	1.0
+20979	https://www.edline.net/pages/kennedy_primary_academy	Kennedy Primary Academy	0.0	64.0
+20980	http://chamberlain.goshenschools.org	Chamberlain Elementary School	2005.0	171.0
+20982	http://www.cityofwabash.org/	Wabash	2001.0	61.0
+20983	http://www.monroecentral.org/elementary/	Monroe Central Elem School	2009.0	30.0
+20984	http://www.warren.k12.in.us	Walker Career Center	1998.0	92.0
+20985	http://www.usc.k12.in.us	Union Junior & High School	2006.0	142.0
+20986	http://www.perrycountyin.org/	Perry	2000.0	172.0
+20987	http://www.western.k12.in.us/whs/	Western High School	2001.0	11.0
+20988	http://fes.mvcsc.k12.in.us/	Fortville Elementary School	2012.0	57.0
+20989	http://www.bourbon.lib.in.us	Bourbon Public Library	2004.0	12.0
+20990	http://www.mcsin-k12.org/yes/index.cfm	York Elementary School	2007.0	7.0
+20991	http://www.wwtpl.lib.in.us	Williamsport-Washington Township Public Library	2001.0	116.0
+20994	http://www.nwcs.k12.in.us/norwellhighschool_home.aspx	Norwell High School	2013.0	225.0
+20996	http://walton.lib.in.us	Walton Tipton Township Public Library	2000.0	19.0
+20997	http://www.dearborncounty.org/	Dearborn	1998.0	1246.0
+20998	http://www.hepl.lib.in.us	Hamilton East Public Library	2003.0	1043.0
+20999	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2994	Terre Haute South Vigo High Sch	2011.0	1721.0
+21004	http://www.in.gov/tos/	Treasurer of State	2002.0	101.0
+21005	http://www.cityofperu.org/	Peru	2004.0	162.0
+21006	http://maryfrank.phmschools.org/	Mary Frank Harris Elementary Sch	2009.0	12.0
+21008	http://82.ips.k12.in.us/	Christian Park School 82	2003.0	0.0
+21009	http://414.ips.k12.in.us/	Shortridge Law & Pub Pol Mag Jr HS	2009.0	0.0
+21010	http://www.dunkirkpubliclibrary.com	Dunkirk Public Library	2001.0	8.0
+21011	http://mckinley.scec.k12.in.us/	William McKinley Elementary Sch	2013.0	26.0
+21012	https://www.edline.net/pages/greene_intermediate_center	Greene Intermediate Center	0.0	21.0
+21013	http://www.nwcs.k12.in.us/ossianelementaryschool_home.aspx	Ossian Elementary	2013.0	157.0
+21014	http://www.washingtoncenter.fwcs.k12.in.us	Washington Center Elem Sch	2012.0	11.0
+21016	http://www.rushcounty.in.gov/Public/Home/index.cfm	Rush	2008.0	3.0
+21017	http://www.lincoln.fwcs.k12.in.us	Lincoln Elementary School	2012.0	11.0
+21019	http://www.btownccs.k12.in.us/bchs/default.htm	Brownstown Central High Sch	1999.0	11.0
+21020	http://mis.gcsc.k12.in.us	Maxwell Intermediate School	2012.0	208.0
+21022	http://hes.nwsc.k12.in.us/	Howard Elementary School	2011.0	143.0
+21023	http://www.plainfieldlibrary.net	Plainfield-Guilford Township Public Library	2006.0	295.0
+21024	http://www.mcas.k12.in.us/mchs	Michigan City High Sch	2001.0	2013.0
+21025	http://prairievista.phmschools.org/	Prairie Vista	2009.0	11.0
+21027	http://www.townoffowler.com/	Fowler	2001.0	102.0
+21028	http://www.mooresvilleschools.org/	Waverly Elementary School	2011.0	216.0
+21030	http://www.vanderburghgov.org/	Vanderburgh	2001.0	4627.0
+21031	https://www.edline.net/pages/hay_primary_center	Hay Primary Center	0.0	13.0
+21032	http://www.warsawlibrary.org	Warsaw Community Public Library	2006.0	111.0
+21033	http://www.hanover.k12.in.us/site/default.aspx?PageID=1	Hanover Central Middle School	2012.0	11.0
+21034	http://www.inshapeindiana.org/	InShape	2010.0	48.0
+21035	http://www.rfcsc.k12.in.us/site/default.aspx?domainid=302	Henry S Evans Elementary Sch	0.0	37.0
+21039	http://www.sheridan.lib.in.us	Sheridan Public Library	2001.0	51.0
+21041	http://www.vcsc.k12.in.us/franklin/home.aspx	Benjamin Franklin Elem School	2013.0	72.0
+21043	http://sites.evscschools.com/AdminDefault.aspx?PortalId=1cd5b5b5-b3ab-4215-943e-bda72e35c433	Helfrich Park STEM Academy	2012.0	2.0
+21044	http://www.msdwc.k12.in.us/sce/scehome.htm	Sharp Creek Elementary School	1999.0	2.0
+21046	http://sites.evscschools.com/AdminDefault.aspx?PortalId=92180736-049d-47e6-8028-25b514d45b8a	Stockwell Elementary School	2014.0	4.0
+21047	http://www.lacrosse.k12.in.us/	LaCrosse School	2001.0	112.0
+21048	http://www.floydcounty.in.gov/	Floyd	2003.0	29.0
+21049	http://www.mccsc.edu/Domain/19	Templeton Elementary School	2013.0	837.0
+21050	http://www.eminence.k12.in.us	Eminence Elementary School	2003.0	163.0
+21052	http://blueblazers.org/	Elkhart Central High School	1998.0	14.0
+21054	http://www.in.gov/ipas/	Protection & Advocacy Services Commission, Indiana	2001.0	105.0
+21055	http://www.IN.gov/dol/	Department of Labor	2007.0	270.0
+21060	http://nhs.nwsc.k12.in.us/	Northwestern Sr High Sch	2011.0	174.0
+21061	http://www.in.gov/sab/	Armory Board, State	2001.0	7.0
+21063	http://www.wws.k12.in.us/	Washington Woods Elementary School	1997.0	374.0
+21064	http://www.ci.auburn.in.us/	Auburn	2000.0	264.0
+21068	http://www.northcrest.fwcs.k12.in.us	Northcrest Elementary School	2012.0	12.0
+21070	http://www.in.gov/iot/	Technology, Office of	2005.0	73.0
+21071	http://sites.evscschools.com/AdminDefault.aspx?PortalId=ead97de1-90dd-4020-b546-f76305486e2f	Evans School	2013.0	4.0
+21072	http://www.ncs.k12.in.us	New Community School	2010.0	260.0
+21073	http://www.mcsin-k12.org/mes/index.cfm	Middlebury Elementary School	2007.0	12.0
+21076	http://wc.eastnoble.net	Wayne Center Elem Sch	2008.0	288.0
+21077	http://ews.nlcs.k12.in.us/	Englewood School	2014.0	48.0
+21078	http://www.elwood.lib.in.us	North Madison County Public Library System	2002.0	0.0
+21080	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1047	Southside Elementary School	0.0	22.0
+21082	http://www.in.gov/dnr/	Natural Resources, Department of	2001.0	1166.0
+21085	http://wes.tsc.k12.in.us/	Woodland Elementary School	0.0	335.0
+21087	http://waterford.goshenschools.org/	Waterford Elementary School	2005.0	103.0
+21088	http://www.meadowlawnelementary.org/	Meadowlawn Elementary School	0.0	133.0
+21089	http://www.shawnee.fwcs.k12.in.us	Shawnee Middle School	2012.0	11.0
+21090	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2973	Fayette Elementary School	2011.0	1778.0
+21091	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2972	Farrington Grove Elem Sch	2011.0	1255.0
+21092	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2971	Dixie Bee Elementary School	2011.0	3007.0
+21093	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2970	Adelaide De Vaney Elem Sch	2007.0	1528.0
+21094	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2977	Lost Creek Elementary School	2007.0	2391.0
+21095	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2976	Hoosier Prairie Elem School	2009.0	1272.0
+21096	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2975	Blanche E Fuqua Elem Sch	2011.0	1421.0
+21097	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2974	Benjamin Franklin Elem School	2011.0	2392.0
+21098	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2978	Meadows Elementary School	2011.0	1527.0
+21099	http://brookview.warren.k12.in.us/	Brookview Elementary School	2002.0	86.0
+21100	http://www.nobleco.lib.in.us	Noble County Public Library	2001.0	17.0
+21102	http://www.laportecounty.org/	La Porte	2001.0	169.0
+21103	http://ms.knox.k12.in.us	Knox Community Middle School	2008.0	1687.0
+21104	http://rykers.madison.k12.in.us	Rykers' Ridge Elementary School	0.0	158.0
+21106	http://www.co.wayne.in.us/	Wayne	1996.0	0.0
+21108	http://www.wayne.k12.in.us/rhe/	Rhoades Elementary School	2000.0	17.0
+21110	http://www.mphpl.org	Mishawaka-Penn-Harris Public Library	2006.0	45.0
+21111	http://hs.npusc.k12.in.us	New Prairie High School	2013.0	762.0
+21112	http://mays.rushville.k12.in.us	Mays Elementary School	0.0	84.0
+21113	http://hs.clintonprairie.com	Clinton Prairie Jr-Sr HS	2008.0	314.0
+21114	http://www.nchcpl.org/	New Castle-Henry County Public Library	2005.0	118.0
+21116	http://www.rockport-spco.lib.in.us	Spencer County Public Library	0.0	3.0
+21117	http://www.bcsc.k12.in.us/site/default.aspx?domainid=256	Columbus North High School	2011.0	61.0
+21118	http://www.in.gov/icssbm/	Social Status of Black Males, Indiana Commission on	2001.0	39.0
+21119	http://www.lafayette.in.gov/index.php	Lafayette	2013.0	2944.0
+21120	http://www.wclark.k12.in.us/schools-borden-elementary	William W Borden Elem Sch	2013.0	2007.0
+21122	https://www.edline.net/pages/coquillard_primary_center	Coquillard Primary Center	0.0	12.0
+21123	http://63.ips.k12.in.us/	Wendell Phillips School 63	2006.0	0.0
+21124	http://justice.marion.k12.in.us/	Justice Thurgood Marshall Intrmd	2013.0	345.0
+21126	http://www.triton.k12.in.us/	Triton Elementary School	2000.0	205.0
+21127	http://www.decaturcounty.in.gov/	Decatur	2001.0	116.0
+21129	http://www.lburg.k12.in.us/education/district/district.php?sectionid=1	Lawrenceburg Primary School	2004.0	3.0
+21130	http://www.in.gov/tos/iesa/	Education Savings Authority	2009.0	11.0
+21131	http://114.ips.k12.in.us/	Paul I Miller School 114	2003.0	0.0
+21132	http://105.ips.k12.in.us/	Charles W Fairbanks Sch 105	2003.0	0.0
+21133	http://www.wanatahschool.com/index.php?option=com_content&view=frontpage&itemid=219	Wanatah School	0.0	257.0
+21134	http://www.in.gov/dva/	Veteran Affairs, Department of	2007.0	349.0
+21135	http://bloomfield.lib.in.us/	Bloomfield-Eastern Greene County Public Library	1997.0	68.0
+21136	http://sites.evscschools.com/AdminDefault.aspx?PortalId=30b511a7-6054-4f81-a0d1-2872ad9e9d70	West Terrace Elementary Sch	0.0	4.0
+21138	http://www.waterloo.lib.in.us	Waterloo-Grant Township Public Library	2000.0	3.0
+21139	http://www.swjcs.us	Southwestern Middle School	2013.0	47.0
+21140	http://www.gamboldprep.com/	Gambold Preparatory Magnet HS	2012.0	1.0
+21141	http://www.in.gov/pac/	Public Access Counselor	2001.0	61.0
+21142	http://www.in.gov/mlkihc/	Martin Luther King, Jr. Indiana Holiday Commission	2012.0	27.0
+21143	http://www.franklinschools.org/site/default.aspx?PageID=1	Northwood Elementary School	2012.0	60.0
+21144	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/white-lick	White Lick Elementary School	2013.0	8.0
+21146	http://www.in.gov/ilea/	Law Enforcement Academy, Indiana	2001.0	80.0
+21147	http://brazil.lib.in.us/	Brazil Public Library	2002.0	10.0
+21149	http://ns.eastnoble.net	North Side Elementary School	2008.0	168.0
+21150	http://bloomingtonprojectschool.org/	The Bloomington Project School	2008.0	40.0
+21151	http://www.indianacounties.org/	Association of Indiana Counties	2000.0	436.0
+21153	http://www.westfield.in.gov/	Westfield	2005.0	1539.0
+21155	http://www.valpo.k12.in.us/bfms/index.php	Benjamin Franklin Mid Sch	2004.0	1.0
+21157	http://slocum.marion.k12.in.us/	Frances Slocum Elem School	2013.0	315.0
+21158	http://www.in.gov/wcb/	Worker's Compensations Board of Indiana	2008.0	33.0
+21161	http://argos.k12.in.us/elementary/	Argos Community Elementary	2001.0	13.0
+21164	http://www.in.gov/oed/	Energy Development, Office of	2008.0	187.0
+21165	http://www.greenfieldin.org/	Greenfield	2001.0	2158.0
+21166	http://www.ph.k12.in.us	Prairie Heights Middle School	1999.0	2302.0
+21167	http://ndes.decaturco.k12.in.us	North Decatur Elementary Sch	2011.0	150.0
+21168	http://harrison.warsaw.k12.in.us	Harrison Elementary School	2008.0	300.0
+21170	http://www.mcas.k12.in.us/krueger	Martin T Krueger Middle Sch	2001.0	1266.0
+21171	http://www.co.howard.in.us/	Howard	1998.0	62.0
+21172	http://www.hse.k12.in.us/hpe/	Harrison Parkway Elem School	2004.0	247.0
+21173	http://bwe.newpal.k12.in.us	Brandywine Elementary School	2012.0	343.0
+21174	http://www.in.gov/indot/	Transportation, Department of	2007.0	412.0
+21175	http://www.huntingtonpub.lib.in.us	Huntington City-Township Public Library	1998.0	339.0
+21177	http://ses.nlcs.k12.in.us/	Shawswick Elementary School	0.0	465.0
+21178	http://www.ligonier.lib.in.us	Ligonier Public Library	2004.0	7.0
+21180	http://www.wclark.k12.in.us/schools-silver-creek-elementary	Silver Creek Elementary School	2013.0	2008.0
+21181	http://icis.indiancreekschools.com/	Indian Creek Intermediate Sch	2012.0	36.0
+21182	http://www.colfaxptpl.org	Colfax-Perry Township Public Library	2009.0	823.0
+21183	http://www.weisserpark.fwcs.k12.in.us	Weisser Park Elem Sch	2012.0	11.0
+21186	http://sites.evscschools.com/AdminDefault.aspx?PortalId=be18b90e-e6e1-40e2-936e-9d402d787f87	Scott Elementary School	2012.0	2.0
+21187	http://www.neoadulted.org/site/default.aspx?PageID=1	Neighbors' New Vistas High School	2013.0	6.0
+21188	http://www.senseindy.org	SE Neighborhood Sch of Excellence	0.0	254.0
+21189	http://www.shcsc.k12.in.us/schs/south.htm	South Central Jr & Sr HS	2000.0	1.0
+21190	http://www.ltschools.org	Lawrence Central High School	2004.0	119.0
+21191	http://www.scsd2.k12.in.us/scottsburgmiddleschool_home.aspx	Scottsburg Middle School	2012.0	101.0
+21192	http://www.nappaneelibrary.org/	Nappanee Public Library	2013.0	16.0
+21194	http://www.middletownpubliclibrary.net/	Middletown Fall Creek Township Public Library	2011.0	14.0
+21196	http://fayettein.maplewood.schooldesk.net//	Maplewood Elementary School	2011.0	67.0
+21197	http://www.peru.k12.in.us/index.php?CurPage=elm	Elmwood Primary Learning Center	2013.0	44.0
+21198	http://lincoln.hccsc.k12.in.us/	Lincoln Elementary School	2012.0	1016.0
+21199	http://www.bgpl.lib.in.us	Beech Grove Public Library	1998.0	575.0
+21200	http://99.ips.k12.in.us/	Arlington Woods Elementary School	2003.0	0.0
+21201	http://www.jcsc.org/scipio/	Scipio Elementary School	2000.0	2.0
+21202	http://www.mitchell-in.gov	Mitchell	2006.0	13.0
+21203	http://www.orleans.k12.in.us	Orleans Jr-Sr High Sch	2000.0	38.0
+21204	http://gmacademy.org/	Geist Montessori Academy	2010.0	691.0
+21206	http://mcpl.info/	Monroe County Public Library	2004.0	14833.0
+21208	http://49.ips.k12.in.us/	William Penn School 49	2003.0	0.0
+21209	http://www.in.gov/ipsc/	Integrated Public Safety Commission	2006.0	107.0
+21210	http://www.western.k12.in.us/wms/	Western Middle School	2001.0	11.0
+21211	https://www.edline.net/pages/hamilton_traditional_school	Hamilton Traditional School	2013.0	9.0
+21212	http://juniorhigh.concord.k12.in.us	Concord Junior High School	2006.0	167.0
+21213	http://www.egreene.k12.in.us	Eastern Greene Middle School	1999.0	1664.0
+21215	http://ces.lcsc.k12.in.us/	Columbia Elementary School	2000.0	13.0
+21217	http://www.msdwarco.k12.in.us/index.php/schools/warrencentralelementary	Warren Central Elem Sch	2011.0	8.0
+21218	http://www.in.gov/ihcda/	Housing & Community Development Authority, Indiana	2006.0	47.0
+21219	http://sites.evscschools.com/AdminDefault.aspx?PortalId=720b61d2-5371-4423-9b4d-0916814e8318	Glenwood Leadership Academy	2013.0	2.0
+21221	http://www.huntingburg.lib.in.us	Huntingburg Public Library	2000.0	21.0
+21222	http://www.shakamak.k12.in.us	Shakamak Elementary School	1997.0	48.0
+21223	http://www.brownsburg.lib.in.us	Brownsburg Public Library	1998.0	518.0
+21225	http://www.jcsc.org/education/school/school.php?sectionid=7&sc_id=1198814888	Brush Creek Elementary School	0.0	2.0
+21226	http://www.in.gov/judiciary/appeals/	Appeals, Court of	2001.0	39.0
+21228	http://elmroad.phmschools.org/	Elm Road Elementary School	2009.0	0.0
+21229	http://19.ips.k12.in.us/	Frederick Douglass School 19	2006.0	0.0
+21230	http://www.epcsc.k12.in.us/wes/	Washington Twp Elementary School	2006.0	0.0
+21231	http://southside.concord.k12.in.us	Concord South Side Elem School	2006.0	419.0
+21232	http://www.whitko.org/buildings/wms/index.html	Whitko Middle Sch	2001.0	0.0
+21235	http://www.starkecountylibrary.org	Starke County Public Library System	2007.0	402.0
+21237	http://www.scsd1.com/austinelementaryschool_home.aspx	Austin Elementary School	2013.0	85.0
+21238	http://421.ips.k12.in.us/	George Washington Community HS	2003.0	0.0
+21239	http://www.tcpclibrary.org	Tell City-Perry County Public Library	2007.0	28.0
+21240	http://eden.gcsc.k12.in.us	Eden Elementary School	2012.0	43.0
+21241	http://www.lakeside.fwcs.k12.in.us	Lakeside Middle School	2012.0	12.0
+21245	http://sites.evscschools.com/AdminDefault.aspx?PortalId=c45369af-1b9a-4929-a2a1-446af4fcbf7d	Southern Ind Career and Tech Cent	2012.0	2.0
+21246	http://www.sgcs.k12.in.us	Churubusco Elementary School	2003.0	1230.0
+21248	http://www.monticello.lib.in.us	Monticello-Union Township Public Library	2001.0	115.0
+21249	http://www.in.gov/ilrc/	Lobby Registration Commission, Indiana	2002.0	9952.0
+21250	http://www.hancockcoingov.org/	Hancock	2003.0	1045.0
+21252	http://www.mcas.k12.in.us/springfield	Springfield Elementary School	2001.0	1257.0
+21253	http://www.scsd2.k12.in.us/lexingtonelementary_home.aspx	Lexington Elementary School	2012.0	92.0
+21254	http://www.hse.k12.in.us/hhs/	Hamilton Southeastern HS	2004.0	1059.0
+21255	http://www.in.gov/itp/	Transparency Portal, Indiana	2010.0	14.0
+21256	http://www.in.gov/sba/	Budget Agency, State	2001.0	159.0
+21257	https://www.edline.net/pages/navarre_intermediate_center	Navarre Intermediate Center	0.0	12.0
+21258	http://www.citiesandtowns.org/	Indiana Association of Cities & Towns	1999.0	68.0
+21259	http://prairieview.goshenschools.org	Prairie View Elementary School	2006.0	168.0
+21260	http://www.lacrosselibraryonline.org	La Crosse Public Library	2008.0	19.0
+21262	http://sites.evscschools.com/AdminDefault.aspx?PortalId=7f21ca2d-aa3b-43ca-a09d-72311d92fd37	Caze Elementary School	2013.0	2.0
+21263	http://www.scsd1.com/austinhighschool_home.aspx	Austin High School	2013.0	167.0
+21265	http://www.arlingtonknights.org	Arlington Community High School	2012.0	44.0
+21266	http://www.bhmsd.k12.in.us/index	Bluffton-Harrison Middle Sch	2006.0	1429.0
+21267	http://www.lane.fwcs.k12.in.us	Lane Middle School	2004.0	0.0
+21268	http://nccsc.k12.in.us/ncms	New Castle Middle School	2002.0	5454.0
+21270	http://www.bedlib.org	Bedford Public Library	1997.0	32.0
+21271	http://www.in.gov/dva/2381.htm	Soldiers & Sailors Children's Home	2007.0	349.0
+21272	http://sites.evscschools.com/AdminDefault.aspx?PortalId=e2636c93-7c84-4716-a871-6be011c2be68	North Junior High School	0.0	4.0
+21274	http://www.ecpl.org	East Chicago Public Library	2000.0	202.0
+21276	http://townofwhiteland.com/	Whiteland	2000.0	106.0
+21277	https://www.edline.net/pages/warren_primary_center	Warren Primary Center	0.0	12.0
+21279	http://www.memorialpark.fwcs.k12.in.us	Memorial Park Middle School	2012.0	11.0
+21280	http://www.in.gov/quitline/	Tobacco Quitline, Indiana	2010.0	28.0
+21281	http://www.in.gov/ocra/	Community & Rural Affairs, Indiana Office of	2006.0	63.0
+21282	http://www.mccsc.edu/Domain/24	Tri-North Middle School	2013.0	837.0
+21283	http://www.wwayne.k12.in.us/site/default.aspx?PageID=1	Western Wayne Elem Sch	2011.0	31.0
+21284	http://www.western.k12.in.us/wps/	Western Primary School	2001.0	11.0
+21285	http://93.ips.k12.in.us/	George H Fisher School 93	2003.0	0.0
+21286	http://www.fairfield.fwcs.k12.in.us	Fairfield Elementary School	2012.0	11.0
+21287	http://www.hammond.k12.in.us/franklines/	Benjamin Franklin Elem Sch	2005.0	221.0
+21288	http://www.ecsc.k12.in.us	Edinburgh Comm Middle School	2008.0	325.0
+21289	http://www.fccsc.k12.in.us/bes/wordpress/	Brookville Elementary School	0.0	78.0
+21290	http://www.ladoga.lib.in.us	Ladoga-Clark Township Public Library	2002.0	2.0
+21291	https://www.edline.net/pages/lasalle_intermediate_academy	LaSalle Intermediate Academy	0.0	54.0
+21292	http://www.evpl.org	Evansville-Vanderburgh Public Library	2002.0	954.0
+21293	http://www.earlpark.lib.in.us	Earl Park Public Library	2004.0	275.0
+21294	http://www.sacs.k12.in.us/site/default.aspx?PageID=1	Homestead Senior High School	2014.0	6.0
+21295	http://merrillville.schoolwires.net/Domain/816	Homer Iddings Elem Sch	2012.0	370.0
+21296	http://rcms.rensselaerschools.org	Rensselaer Middle School	2009.0	312.0
+21297	http://www.mcsin-k12.org/jes/index.cfm	Jefferson Elementary School	2007.0	15.0
+21298	http://baugocommunity.in.schoolwebpages.com/education/school/school.php?sectionid=3	Jimtown High School	0.0	0.0
+21299	http://baugocommunity.in.schoolwebpages.com/education/components/layout/default.php?sectionid=5&url_redirect=1	Jimtown Intermediate School	0.0	0.0
+21300	http://baugocommunity.in.schoolwebpages.com/education/school/school.php?sectionid=4	Jimtown Junior High School	0.0	0.0
+21301	http://baugocommunity.in.schoolwebpages.com/education/components/layout/default.php?sectionid=7&url_redirect=1	Jimtown Elementary School	0.0	0.0
+21303	http://www.emichigancity.com/	Michigan City	2000.0	526.0
+21304	http://sdhs.sdcsc.k12.in.us	South Dearborn High School	2006.0	204.0
+21306	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1181	W D Richards Elementary Sch	0.0	20.0
+21307	http://www.emhschargers.org	Elkhart Memorial High School	2008.0	82.0
+21308	http://www.jcsc.org/sand%20creek/	Sand Creek Elementary Sch	2000.0	2.0
+21309	http://pcpls.org/	Valparaiso Branch System Office	2014.0	888.0
+21310	http://www.walkerton.org/	Walkerton	2000.0	48.0
+21312	http://www.pcsc.k12.in.us	Pike Central Middle School	2000.0	197.0
+21313	http://www.blackfordcounty.com/	Blackford	2001.0	2.0
+21317	http://www.kcgov.com/	Kosciusko	2003.0	404.0
+21318	http://www.harrisonhill.fwcs.k12.in.us	Harrison Hill Elementary Sch	2012.0	12.0
+21320	http://www.fcplibrary.lib.in.us	Fayette County Public Library	2003.0	822.0
+21322	http://discovery.phmschools.org/	Discovery Middle School	2009.0	35.0
+21323	http://www.hse.k12.in.us/sci/	Sand Creek Intermediate School	2004.0	31.0
+21324	http://mes.mvcsc.k12.in.us/	McCordsville Elementary School	2012.0	51.0
+21325	http://www.bcsc.k12.in.us/site/default.aspx?domainid=74	Columbus East High School	2011.0	34.0
+21326	http://www.centergrove.k12.in.us/sges	Sugar Grove Elementary Sch	2001.0	2304.0
+21327	http://www.scs.k12.in.us/high/	Sheridan High School	2008.0	53.0
+21330	http://www.sefschools.org	Southeast Fountain Elementary	2003.0	67.0
+21331	http://we.mvschool.org/	West Elementary School	2013.0	2046.0
+21332	http://www.lsc.k12.in.us/schools/earhart/index.htm	Amelia Earhart Elem Sch	2007.0	614.0
+21333	http://www.nweb.lib.in.us/	North Webster Community Public Library	2007.0	11.0
+21334	http://www.lighthouse-academies.org/	Gary Lighthouse Charter School	2003.0	165.0
+21335	http://www.lanesville.k12.in.us/hspages/hs.htm	Lanesville Jr-Sr HS	2000.0	15.0
+21336	http://www.ohusc.k12.in.us/converse/index.htm	Converse Elementary School	1999.0	2.0
+21337	http://www.rockville.k12.in.us/rhs2.htm	Rockville Jr-Sr High School	0.0	334.0
+21338	http://www.brownstown.lib.in.us	Brownstown Public Library	2001.0	47.0
+21340	http://www.bell.lib.in.us/home.aspx	Bell Memorial Public Library	0.0	16.0
+21341	http://eps.rbbcsc.k12.in.us/	Edgewood Primary School	2002.0	121.0
+21343	http://www.rockville.k12.in.us	Rockville Elementary School	1998.0	333.0
+21344	http://www.tricreek.k12.in.us	Lake Prairie Elementary Sch	1999.0	982.0
+21346	http://www.doe.in.gov/	Education, Department of	2003.0	1057.0
+21347	http://wchs.warren.k12.in.us/	Warren Central High School	2002.0	293.0
+21350	http://384.ips.k12.in.us/	Center for Inquiry II	2006.0	0.0
+21353	http://www.logan.lib.in.us	Logansport-Cass County Public Library	2000.0	76.0
+21354	http://www.gcmtpl.lib.in.us	Gas City-Mill Township Public Library	2003.0	12.0
+21355	http://mes.tsc.k12.in.us/	Mintonye Elementary School	0.0	293.0
+21356	http://www.bloomingdale.fwcs.k12.in.us	Bloomingdale Elementary Sch	2012.0	11.0
+21358	http://www.msdwarco.k12.in.us/index.php/schools/williamsportelementary	Williamsport Elementary Sch	2011.0	8.0
+21359	https://www.edline.net/pages/monroe_primary_center	Monroe Primary Center	0.0	20.0
+21360	http://www.vincennes.org/	Vincennes	1998.0	181.0
+21361	http://346.ips.k12.in.us/	Daniel Webster School 46	2011.0	0.0
+21362	http://www.porterco.org/	Porter	1999.0	573.0
+21363	http://www.ohusc.k12.in.us/swayzee/index.htm	Swayzee Elementary School	1998.0	0.0
+21364	http://ees.eastern.k12.in.us	Eastern Elementary School	2010.0	348.0
+21365	http://sites.evscschools.com/AdminDefault.aspx?PortalId=a679bdac-a8d6-43b8-afae-ea6766a6a907	Dexter Elementary School	0.0	0.0
+21366	http://www.covington.k12.in.us/chs/default.asp	Covington Community High Sch	2009.0	42.0
+21367	http://www.wincomlib.org/winchester/	Winchester Community Public Library	2011.0	41.0
+21368	http://www.edline.net/pages/lima-brighton_elementary_schoo	Lima-Brighton Elementary	0.0	13.0
+21369	http://nes.nwsc.k12.in.us/	Northwestern Elementary Sch	2002.0	143.0
+21370	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2959	McLean Education Center (Alt)	2009.0	1308.0
+21371	http://metadot.vigoco.k12.in.us/metadot/index.pl?id=2958	West Vigo High School	2008.0	1867.0
+21372	http://ehs.rbbcsc.k12.in.us/	Edgewood High School	1998.0	86.0
+21374	http://www.argos.k12.in.us	Argos Comm Jr-Sr High School	1998.0	30.0
+21375	http://www.wayne.k12.in.us/lynhurst/	Lynhurst 7th & 8th Grade Center	2005.0	43.0
+21376	http://ellettsville.in.us/bullet04.htm	Ellettsville	1999.0	0.0
+21377	http://94.ips.k12.in.us/	George S Buck Elementary School	2003.0	0.0
+21378	http://sves.svalley.k12.in.us	Springs Valley Elem Sch	2013.0	133.0
+21379	http://sites.evscschools.com/AdminDefault.aspx?PortalId=809445ac-3055-4a1c-8fda-1528d525e661	Francis Joseph Reitz High Sch	2012.0	0.0
+21380	http://sia.warren.k12.in.us/	Stonybrook Intermediate Academy	2010.0	159.0
+21381	http://www.cville.k12.in.us/Cville/Buildings/TuttleMiddleSchool/tabid/55/Default.aspx	Joseph F Tuttle Middle School	2007.0	1.0
+21382	http://www.wayne.k12.in.us/wle/	Westlake Elementary School	2000.0	20.0
+21383	http://391.ips.k12.in.us/	Rousseau Mc Clellan 91	2004.0	0.0
+21387	http://501.ips.k12.in.us/	H L Harshman Middle School	2003.0	0.0
+21388	http://www.stjosephcountyindiana.com/	St. Joseph	2003.0	8.0
+21389	http://www.delcomschools.org/dhs/	Delta High School	2000.0	47.0
+21392	http://www.co.clark.in.us/	Clark	2000.0	112.0
+21393	http://www.culver.k12.in.us/ces/ces.html	Culver Elementary School	2000.0	2.0
+21394	http://andrews.hccsc.k12.in.us/	Andrews Elementary School	2013.0	863.0
+21395	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1451	Columbus Area Career Connection	2011.0	100.0
+21396	http://www.laportelibrary.org/	La Porte County Public Library	2011.0	44.0
+21397	http://www.vcsc.k12.in.us/clark/home.aspx	George Rogers Clark Sch	2013.0	120.0
+21398	http://mvhs.mvcsc.k12.in.us/	Mt Vernon High School	2012.0	43.0
+21400	http://www.lpcsc.k12.in.us/boston/	Paul F Boston Middle School	2006.0	39.0
+21404	https://www.ltschools.org	Winding Ridge Elementary School	2004.0	122.0
+21406	http://www.wwpl.lib.in.us	Westfield Washington Public Library	2009.0	24.0
+21409	http://elsierogers.phmschools.org/	Elsie Rogers Elem Sch	2009.0	13.0
+21410	http://batesvilleinschools.com/bps/	Batesville Primary School	2012.0	717.0
+21411	http://www.in.gov/iscba/	Stadium Convention Building Authority, Indiana	2006.0	3.0
+21412	http://msdadmin.scican.net/paragon/	Paragon Elementary School	1998.0	0.0
+21413	http://www.bsu.edu/academy	IN Aca for Sci Math & Humanities	2001.0	36.0
+21414	http://www.holland.fwcs.k12.in.us	Mabel K Holland Elem Sch	2012.0	11.0
+21415	http://www.jcsc.org/education/school/school.php?sectionid=8&sc_id=1198814888	Graham Creek Elementary School	2013.0	2.0
+21416	http://www.portsofindiana.com/	Ports of Indiana	1998.0	299.0
+21417	http://www.plymouth.lib.in.us	Plymouth Public Library	1998.0	60.0
+21418	http://www.simindiana.com/	SimIndiana	0.0	86.0
+21420	http://stes.nlcs.k12.in.us/	Stalker Elementary School	0.0	81.0
+21422	http://www.kokomoschools.com/site/default.aspx?PageID=1	Kokomo High School	2013.0	56.0
+21423	http://www.IN.gov/indot/	Department of Transportation	2007.0	390.0
+21424	http://sites.evscschools.com/AdminDefault.aspx?PortalId=b8f245da-c690-40f3-86f7-d7c8201ae7cf	Benjamin Bosse High School	2013.0	0.0
+21425	http://www.cityofconnersville.net/	Connersville	2001.0	5.0
+21426	http://sites.evscschools.com/AdminDefault.aspx?PortalId=bee54ae4-3070-498a-972a-cd8024e1fd04	Washington Middle School	0.0	0.0
+21427	http://www.valpo.k12.in.us/nvel/index.php	Northview Elementary School	2004.0	1.0
+21428	http://levanscott.fwcs.k12.in.us	Levan R Scott Academy	2013.0	11.0
+21429	http://www.lsc.k12.in.us/schools/edgelea/index.htm	Edgelea Elementary School	2007.0	6.0
+21432	http://www.cabeard.k12.in.us/	Knightstown Intermediate School	2001.0	236.0
+21433	http://www.mrlinfo.org	Morrisson-Reeves Library	2004.0	87.0
+21434	http://chandler.goshenschools.org	Chandler Elementary School	2005.0	64.0
+21436	http://claypool.warsaw.k12.in.us	Claypool Elementary School	2010.0	266.0
+21440	http://www.hcpubliclibrary.com	Hartford City Public Library	0.0	2980.0
+21441	http://hs.wl.k12.in.us/	West Lafayette Jr/Sr High Sch	2013.0	316.0
+21443	http://www.allencounty.us/	Allen	2009.0	786.0
+21444	http://www.nafcs.k12.in.us	New Albany Senior High School	2000.0	73.0
+21445	http://etm.tsc.k12.in.us/	East Tipp Middle School	0.0	380.0
+21446	http://www.hammond.k12.in.us/hammondhs/	Hammond High School	2006.0	518.0
+21448	http://yorktowncommunitylibrary.org/	Yorktown-M. Pleasant Township Public Library	2007.0	14.0
+21450	http://58.ips.k12.in.us/	Ralph Waldo Emerson School 58	2004.0	0.0
+21451	http://www.joshuaacademy.com	Joshua Academy	2005.0	7.0
+21452	http://www.munciepubliclibrary.org/	Muncie-Center Township Public Library	2012.0	144.0
+21453	http://summitville.mgargylls.com/	Summitville School	2012.0	1.0
+21455	http://www.willard.lib.in.us	Willard Library Of Evansville	1998.0	88.0
+21456	http://www.mccsc.edu/Domain/22	Lora L Batchelor Middle Sch	2013.0	837.0
+21457	http://www.hse.k12.in.us/fjh/	Fishers Junior High School	2001.0	321.0
+21458	https://www.edline.net/pages/edison_intermediate_center	Edison Intermediate Center	2013.0	14.0
+21459	http://www.in.gov/cji/	Indiana Criminal Justice Institute	2001.0	64.0
+21464	http://pes.hendricks.k12.in.us/	Pittsboro Elementary	2005.0	801.0
+21465	http://www.hcpl.lib.in.us	Harrison County Public Library	2000.0	198.0
+21466	https://www.edline.net/pages/jackson_intermediate_center	Jackson Intermediate Center	0.0	14.0
+21467	http://www.in.gov/ifa/	Finance Authority, Indiana	2005.0	191.0
+21469	http://www.daleville.k12.in.us/education/district/district.php?sectionid=1	Daleville Elementary School	2010.0	2.0
+21470	http://www.washingtonin.us	Washington	2005.0	54.0
+21471	http://tps.taylor.k12.in.us	Taylor Primary School	2002.0	4.0
+21475	http://83.ips.k12.in.us/	Floro Torrence School 83	2003.0	0.0
+21476	http://www.bcsc.k12.in.us/site/default.aspx?domainid=987	Rockcreek Elementary School	2011.0	24.0
+21478	http://www.in.gov/iurc/	Indiana Utility Regulatory Commission	2001.0	373.0
+21479	http://www.lindenlibrary.com	Linden Carnegie Public Library	2002.0	10.0
+21480	http://www.in.gov/icsb/	Indiana Charter School Board	2013.0	57.0
+21481	http://www.fishers.in.us/	Fishers	1999.0	971.0
+21482	http://www.brook.lib.in.us	Brook-Iroquois-Washington Public Library	2001.0	8.0
+21483	http://hh.wl.k12.in.us/	Happy Hollow Elementary	2013.0	324.0
+21485	http://www.peru.lib.in.us	Peru Public Library	1998.0	7.0
+21487	http://www.ripleycounty.com/	Ripley	1998.0	562.0
+21490	http://www.clintonprairie.com/wes/	Whiteland Elementary School	0.0	2.0
+21491	http://flintsprings.hccsc.k12.in.us/	Flint Springs Elementary	2013.0	985.0
+21492	http://ppl.lib.in.us	Peabody Public Library	2001.0	48.0
+21493	http://www.wccsonline.com/ltes/default.aspx	Little Turtle Elementary School	2010.0	467.0
+21494	http://www.miami.fwcs.k12.in.us	Miami Middle School	2012.0	10.0
+21495	http://www.smadison.k12.in.us/education/district/district.php?sectionid=1	Pendleton Heights High School	2006.0	3.0
+21496	http://sites.evscschools.com/AdminDefault.aspx?PortalId=55ba1c6f-0955-43d9-bb39-7fa7ab028545	Stringtown Elementary School	0.0	0.0
+21497	http://www.valpo.k12.in.us/ccel/index.php	Cooks Corners Elementary School	2004.0	1.0
+21498	http://www.madisoncty.com/	Madison	2001.0	148.0
+21500	http://www.lindley.fwcs.k12.in.us	Lindley Elementary School	2012.0	12.0
+21502	http://gchs.gcsc.k12.in.us	Greenfield-Central High Sch	2012.0	92.0
+21504	http://waltdisney.phmschools.org/	Walt Disney Elementary School	2009.0	12.0
+21505	http://www.centerville.k12.in.us/schools/sr_high/default.htm	Centerville Sr High School	1999.0	21.0
+21507	http://www.wccsonline.com/nhes/default.aspx	Northern Heights Elementary Sch	2010.0	417.0
+21508	http://eastlawnelementary.org/	Eastlawn Elementary School	0.0	24.0
+21509	https://www.edline.net/pages/jefferson_intermediate_ts	Jefferson Intermediate Center	2013.0	13.0
+21510	https://www.edline.net/pages/rileyhs	Riley High School	2011.0	37.0
+21511	http://www.salemschools.com/content.asp?q_areaprimaryid=4&q_areasecondaryid=1	Salem High School	2009.0	1354.0
+21512	http://www.in.gov/dfi/	Financial Institutions, Department of	2002.0	62.0
+21513	http://www.frankepark.fwcs.k12.in.us	Franke Park Elementary School	2012.0	11.0
+21514	http://www.monroecentral.org/highschool/	Monroe Central Jr-Sr High Sch	2009.0	77.0
+21515	http://www.theabowmanleadershipacademy.org	Thea Bowman Leadership Academy	2005.0	1.0
+21516	http://sites.evscschools.com/AdminDefault.aspx?PortalId=a34bd9f2-17b0-48c2-b0b8-5d960e65db99	Hebron Elementary School	2014.0	0.0
+21518	http://www.cityoffortwayne.org/	Fort Wayne	2000.0	4545.0
+21519	http://www.in.gov/iifc/	Fusion Center, Indiana Intelligence	2010.0	27.0
+21521	http://www.mccsc.edu/Domain/20	Unionville Elementary School	2013.0	837.0
+21522	http://www.hse.k12.in.us/tce/	Thorpe Creek Elementary	2008.0	244.0
+21523	http://www.signature.edu	Signature School Inc	2000.0	93.0
+21525	http://westnoble.k12.in.us	West Noble Elementary School	2002.0	49.0
+21526	http://www.in.gov/omb/	Management & Budget, Office of	2006.0	29.0
+21527	http://www.in.gov/inprs/	Public Employees' Retirement Fund	2011.0	275.0
+21528	http://www.hammond.lib.in.us	Hammond Public Library	1998.0	156.0
+21531	http://www.IN.gov/spd/	Department of  State Personnel	2008.0	117.0
+21533	http://mgjh.mgargylls.com/	Madison-Grant Jr High Sch	2012.0	1.0
+21534	http://www.in.gov/tos/deposit/	Depositories, Indiana Board for	2009.0	12.0
+21537	http://rockvillepl.lib.in.us	Rockville Public Library	2003.0	23.0
+21539	http://www.lpcsc.k12.in.us/lincoln/	Lincoln Elementary School	2006.0	10.0
+21541	http://www.cpcsc.k12.in.us/swe/	Sawmill Woods Elementary School	2001.0	5.0
+21543	http://www.wayne.k12.in.us/gce/	Garden City Elementary School	2000.0	17.0
+21545	http://www.valpo.k12.in.us/flel/index.php	Flint Lake Elementary Sch	2004.0	1.0
+21546	https://www.edline.net/pages/brown_intermediate_center	Brown Intermediate Center	0.0	16.0
+21549	http://hes.shelbycs.org/	Thomas A Hendricks Elem Sch	2014.0	42.0
+21550	http://www.mccsc.edu/Domain/16	Marlin Elementary School	2013.0	837.0
+21551	http://www.westview.k12.in.us/whs/whsindex.html	Westview Jr-Sr High School	2004.0	2.0
+21552	http://www.vcsc.k12.in.us/riley/home.aspx	James Whitcomb Riley Elem Sch	2013.0	79.0
+21553	http://pvi.nlcs.k12.in.us/	Parkview Intermediate School	0.0	77.0
+21555	http://jelcc.com/	J Everett Light Career Ctr	2000.0	75.0
+21556	http://www.cityofnewalbany.com/	New Albany	2001.0	1120.0
+21557	http://www.wayne.k12.in.us/bdhhome/	Ben Davis High School	2000.0	20.0
+21558	http://www.indianvillage.fwcs.k12.in.us	Indian Village Elementary Sch	2012.0	12.0
+21560	http://es.knox.k12.in.us	Knox Community Elementary School	2008.0	1730.0
+21561	http://www.town.cumberland.in.us/	Cumberland	2001.0	733.0
+21563	http://www.wayne.k12.in.us/bduhs/	Ben Davis University High School	2007.0	53.0
+21564	http://www.centergrove.k12.in.us/mges	Maple Grove Elementary School	2001.0	2585.0
+21565	http://www.townofplainfield.com/	Plainfield	2004.0	696.0
+21566	http://www.mccsc.edu/Domain/17	Rogers Elementary School	2013.0	837.0
+21567	http://ths.taylor.k12.in.us	Taylor High School	2012.0	4.0
+21568	http://www.in.gov/oea/	Environmental Adjudication, Office of	2003.0	153.0
+21569	http://www.in.gov/sfc/	State Fair Commission	2011.0	205.0
+21570	http://www.veritasacademy.us	Veritas Academy	2009.0	56.0
+21571	http://lakeside.warren.k12.in.us/	Lakeside Elementary School	2002.0	86.0
+21572	http://www.IN.gov/atc/isep/	Excise Police, Indiana State	2002.0	65.0
+21573	http://bce.tsc.k12.in.us/	Burnett Creek Elementary School	0.0	332.0
+21574	http://madison.phmschools.org/	Madison Elementary School	2009.0	11.0
+21576	http://www.phalenacademies.org	George & Veronica Phalen Academy	2013.0	17.0
+21577	http://www.cville.k12.in.us/Cville/Buildings/NicholsonElementary23/tabid/70/Default.aspx	Meredith Nicholson Elem Sch	2007.0	1.0
+21579	http://ol.npusc.k12.in.us	Olive Township Elem Sch	2013.0	664.0
+21580	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/cardinal-elementary	Cardinal Elementary Sch	2013.0	8.0
+21581	http://www.montgomeryco.net	Montgomery	2004.0	1234.0
+21583	http://northrop.fwcs.k12.in.us	Northrop High School	2002.0	32.0
+21584	http://www.valpo.k12.in.us/pvel/index.php	Parkview Elementary School	2004.0	1.0
+21585	http://www.in.gov/ctb/	Coroner's Training Board	2001.0	13.0
+21586	http://www.cha.christelhouse.org	Christel House Academy South	2006.0	29.0
+21587	http://www.in.gov/history/	Historical Bureau, Indiana	2008.0	1270.0
+21588	http://ple.msdsteuben.k12.in.us/	Pleasant Lake Elem Sch	2011.0	77.0
+21589	http://www.cityofdelphi.org/	Delphi	2001.0	581.0
+21590	http://www.hse.k12.in.us/sce/	Sand Creek Elementary	2005.0	188.0
+21591	http://www.owenlib.org	Owen County Public Library	2001.0	174.0
+21593	http://www.in.gov/isda/	Agriculture, Indiana State Department of	2005.0	92.0
+21596	http://nhcs.k12.in.us.schools.bz/school_home.aspx?schoolid=2	North Harrison Middle School	2013.0	0.0
+21597	http://nhcs.k12.in.us.schools.bz/school_home.aspx?schoolid=3	North Harrison Elementary Sch	2013.0	0.0
+21598	http://nhcs.k12.in.us.schools.bz/school_home.aspx?schoolid=1	North Harrison High School	2013.0	0.0
+21599	http://nhcs.k12.in.us.schools.bz/school_home.aspx?schoolid=4	Morgan Elementary School	2013.0	0.0
+21600	http://www.osgoodlibrary.org	Osgood Public Library	2006.0	24.0
+21601	http://sites.evscschools.com/AdminDefault.aspx?PortalId=9d74eed7-eb5a-4833-a2fe-83b9465b8aa1	Lodge Community School	0.0	0.0
+21602	http://merrillville.schoolwires.net/Domain/725	Henry P Fieler Elem Sch	2012.0	371.0
+21604	http://www.rfcsc.k12.in.us/site/default.aspx?domainid=213	John I Meister Elementary School	0.0	37.0
+21605	http://allen.marion.k12.in.us/	Allen Elementary School	2013.0	369.0
+21606	http://www.danville.k12.in.us/ourschool/northelementary/default.htm	North Elementary School	2007.0	28.0
+21607	http://www.nadams.k12.in.us/bellmontmiddle.cfm?subpage=7117	Bellmont Middle School	0.0	261.0
+21608	http://www.nebraska.fwcs.k12.in.us	Nebraska Elementary School	2012.0	11.0
+21609	http://www.paramountindy.org	Paramount School of Excellence	2011.0	149.0
+21610	http://69.ips.k12.in.us/	Joyce Kilmer School 69	2004.0	0.0
+21612	http://www.in.gov/oucc/	Utility Consumer Counselor, Office of	2001.0	312.0
+21613	http://central.scec.k12.in.us/	East Chicago Central High Sch	2012.0	37.0
+21614	http://risingsunschools.com	Ohio County Elem-Middle Sch	2004.0	40.0
+21615	http://www.tysonlibrary.org	Tyson Library Association, Inc	2002.0	77.0
+21616	http://www.plymouth.k12.in.us/menominee-elementary.html	Menominee Elementary School	2011.0	0.0
+21617	http://leesburg.warsaw.k12.in.us	Leesburg Elementary School	2008.0	244.0
+21618	http://lincoln.warsaw.k12.in.us	Lincoln Elementary School	2008.0	284.0
+21619	http://www.crawfordsville.net	Crawfordsville	1998.0	346.0
+21620	http://www.salemschools.com/content.asp?q_areaprimaryid=4&q_areasecondaryid=2	Salem Middle School	2009.0	1242.0
+21621	http://www.mccsc.edu/Domain/28	Bloomington High School South	2013.0	837.0
+21625	http://www.in.gov/ichla/	Hispanic/Latino Affairs, Commission on	2005.0	36.0
+21627	http://www.IN.gov/ai/errors/dhs_404.html	Emergency Management Agency	0.0	1.0
+21628	http://www.edline.net/pages/lakeland_middle_school	Lakeland Middle School	2012.0	19.0
+21632	http://www.morgancounty.in.gov/	Morgan	2010.0	123.0
+21633	http://mghs.mgargylls.com/	Madison-Grant High School	2012.0	1.0
+21634	https://www.edline.net/pages/washingtonhs	Washington High School	2011.0	11.0
+21636	http://www.columbus.in.gov/	Columbus	2001.0	914.0
+21637	http://www.flcs.k12.in.us	Frankton Elementary School	2001.0	216.0
+21638	http://www.valpo.k12.in.us/tjel/index.php	Thomas Jefferson Elem Sch	2004.0	1.0
+21641	http://www.in.gov/library/	Library, Indiana State	2007.0	2253.0
+21642	http://www.mcas.k12.in.us/edgewood	Edgewood Elementary School	2001.0	1239.0
+21643	http://knightstown.lib.in.us/LightNEasy.php?page=Home	Knightstown Public Library	2013.0	0.0
+21644	http://www.jaycpl.lib.in.us	Jay County Public Library	2013.0	97.0
+21646	http://tms.taylor.k12.in.us	Taylor Middle School	2011.0	4.0
+21648	http://lydia.madison.k12.in.us	Lydia Middleton Elem School	0.0	171.0
+21649	http://www.edinburgh.lib.in.us	Edinburgh Wright-Hageman Public Library	1998.0	128.0
+21652	http://salamonie.hccsc.k12.in.us/	Salamonie School	2013.0	586.0
+21653	http://mce.mvcsc.k12.in.us/	Mt Comfort Elementary School	2012.0	60.0
+21654	http://www.IN.gov/ai/errors/isp_404.html	Indiana State Police	0.0	1.0
+21655	http://fayettein.faycentral.schooldesk.net//	Fayette Central Elementary	2011.0	60.0
+21656	http://www.delcomschools.org/dms/	Delta Middle School	2001.0	30.0
+21659	http://mooresvillelib.org/	Mooresville Public Library	2001.0	58.0
+21660	http://camden.lib.in.us	Camden-Jackson Township Public Library	2013.0	66.0
+21661	http://jh.mvschool.org/	Mount Vernon Jr High Sch	2013.0	2569.0
+21662	http://www.southside.fwcs.k12.in.us	South Side High School	2006.0	11.0
+21666	http://www.oisc.purdue.edu/index.html	Chemist & Seed Commissioner, Office of	2013.0	136.0
+21667	http://www.terrehaute.in.gov/	Terre Haute	2004.0	549.0
+21668	http://www.in.gov/pla/	Professional Licensing Agency	2001.0	531.0
+21669	http://mvms.mvcsc.k12.in.us/	Mt Vernon Middle School	2012.0	57.0
+21671	http://roanoke.lib.in.us/	Roanoke Public Library	2004.0	111.0
+21672	http://www.in.gov/idem/algae/	Blue-Green Algae	2008.0	76.0
+21673	http://kms.tsc.k12.in.us/	Klondike Middle School	0.0	338.0
+21674	http://44.ips.k12.in.us/	Riverside School 44	2004.0	0.0
+21675	http://www.study.fwcs.k12.in.us	Study Elementary School	2003.0	12.0
+21676	http://www.in.gov/bmv/	Mobile Website, State of Indiana	2001.0	388.0
+21677	http://www.shelbycs.org/coulston/	Coulston Elementary School	2002.0	47.0
+21678	http://www.jms.gjcs.k12.in.us/	Jasper Middle School	1999.0	29.0
+21679	http://sdis.sunmandearborn.k12.in.us	Sunman Dearborn Intermediate Sch	2011.0	2315.0
+21682	http://sunnyheights.warren.k12.in.us/	Sunny Heights Elementary Sch	2002.0	76.0
+21683	http://www.lsc.k12.in.us/schools/tecumseh/tecumseh.htm	Lafayette Tecumseh Jr High Sch	2007.0	1187.0
+21684	http://bms.nlcs.k12.in.us/	Bedford Middle School	0.0	298.0
+21688	http://www.jaccendel.k12.in.us	Jac-Cen-Del MS/HS	2001.0	8.0
+21691	http://van.rensselaerschools.org	Van Rensselaer Elementary School	2009.0	133.0
+21692	http://weston.gcsc.k12.in.us	Weston Elementary School	2012.0	79.0
+21693	http://www.nknox.k12.in.us/nkhs/	North Knox Jr-Sr High School	1998.0	6.0
+21694	http://ehs.eastern.k12.in.us	Eastern Jr & Sr High School	2010.0	714.0
+21696	http://sdes.decaturco.k12.in.us	South Decatur Elementary Sch	2011.0	382.0
+21697	http://www.hammond.k12.in.us/wallacees/	Lew Wallace Elementary School	2007.0	199.0
+21698	http://www.nedubois.k12.in.us/hs/	Northeast Dubois High School	1999.0	15.0
+21699	http://bes.rc.k12.in.us	O R Baker Elementary School	2012.0	248.0
+21701	http://www.putnam.lib.in.us	Putnam County Public Library	2002.0	46.0
+21704	http://www.wes-del.k12.in.us/education/district/district.php?sectionid=1	Wes-Del Middle/Senior High Sch	2006.0	0.0
+21705	http://www.garymiddlecollege.org/	Gary Middle College	2010.0	720.0
+21706	http://www.mcas.k12.in.us/site/default.aspx?PageID=1	A K Smith Area Career Ctr	2012.0	138.0
+21707	http://43.ips.k12.in.us/	James Whitcomb Riley Sch 43	2003.0	0.0
+21708	http://90.ips.k12.in.us/	Ernie Pyle School 90	2003.0	0.0
+21709	http://www.croninger.fwcs.k12.in.us	Fred H Croninger Elem Sch	2012.0	11.0
+21711	http://www.ci.south-bend.in.us/	South Bend	1997.0	698.0
+21713	http://ams.msdsteuben.k12.in.us/	Angola Middle School	1998.0	1583.0
+21715	http://www.in.gov/core/help.html	State Information Center	2010.0	87.0
+21716	http://www.in.gov/idem/	Environmental Management, Department of	2001.0	984.0
+21718	http://www.cpcsc.k12.in.us/ces/	Clark Elementary School	2002.0	5.0
+21720	http://367.ips.k12.in.us/	Stephen Collins Foster Sch 67	2003.0	0.0
+21721	http://www.dunesdiscoverycharter.org	Discovery Charter School	2010.0	39.0
+21722	http://54.ips.k12.in.us/	Brookside School 54	2004.0	0.0
+21723	http://www.brownsburg.k12.in.us/index.php/our-schools/middle-schools/east-middle	Brownsburg East Middle School	2013.0	5.0
+21725	http://www.southadams.k12.in.us/middle.cfm	South Adams Middle School	0.0	582.0
+21728	http://edgewood.warsaw.k12.in.us	Edgewood Middle School	2008.0	829.0
+21729	http://www.rcs.k12.in.us/schools	Elizabeth Starr Acad for Young Ent	2004.0	1960.0
+21730	http://sites.evscschools.com/AdminDefault.aspx?PortalId=95b50fa2-f390-420f-ad3d-9e17152aea00	New Tech Institute	2012.0	0.0
+21731	http://sms.tsc.k12.in.us/	Southwestern Middle School	0.0	325.0
+21732	http://sites.evscschools.com/AdminDefault.aspx?PortalId=89743994-ac49-43d1-a387-298e5cdab35e	Cynthia Heights Elem Sch	0.0	0.0
+21738	http://106.ips.k12.in.us/	Robert Lee Frost School 106	2004.0	0.0
+21740	http://www.townofspeedway.org/	Speedway	2001.0	2063.0
+21741	http://www.mccsc.edu/Domain/14	Highland Park Elem Sch	2013.0	837.0
+21742	http://www.myjcpl.org	Jasper County Public Library	2008.0	671.0
+21745	http://www.warrickcounty.gov/	Warrick	2001.0	388.0
+21746	http://www.hammond.k12.in.us/columbiaes/	Columbia Elementary School	2007.0	182.0
+21747	http://workingmensinstitute.org/	New Harmony Workingmens Institute	2009.0	94.0
+21748	http://mme.tsc.k12.in.us/	Mayflower Mill Elem Sch	0.0	293.0
+21749	http://c2.griffithps.schoolwires.net/site/default.aspx?PageID=1	Eldon Ready Elementary School	2012.0	25.0
+21750	http://www.nirpc.org/	Northwestern Indiana Regional Planning Commission	1998.0	507.0
+21752	http://www.hammond.k12.in.us/jeffersones/	Thomas Jefferson Elem Sch	0.0	274.0
+21753	http://www.nm.k12.in.us/schools/sc.htm	Sugar Creek Elem Sch	2000.0	4.0
+21754	http://88.ips.k12.in.us/	Anna Brochhausen School 88	2003.0	0.0
+21757	http://www.shelbycs.org/hs/	Shelbyville Sr High Sch	2002.0	306.0
+21759	http://www.in.gov/judiciary/tax/	Tax Court	2001.0	10.0
+21760	http://fa.mvschool.org/	Farmersville Elementary Sch	2013.0	1844.0
+21761	http://www.in.gov/dnr/parklake/	State Parks & Reservoirs	2001.0	183.0
+21763	http://www.bcsc.k12.in.us/site/default.aspx?domainid=1265	Lillian Schmitt Elem School	0.0	20.0
+21764	http://www.myjclibrary.org	Jackson County Public Library	2007.0	90.0
+21766	http://fes.frontier.k12.in.us	Frontier Elementary	2006.0	222.0
+21767	http://ices.indiancreekschools.com/	Indian Creek Elementary Sch	2012.0	17.0
+21768	http://earlychildhood.warren.k12.in.us/	Warren Early Childhood Ctr	2002.0	77.0
+21770	http://madison.warsaw.k12.in.us	Madison Elementary School	2008.0	413.0
+21771	http://www.pageafterpage.org/	Johnson County Public Library	2014.0	124.0
+21772	http://libertypark.warren.k12.in.us/	Liberty Park Elementary Sch	2002.0	80.0
+21773	http://www.pendleton.lib.in.us	Pendleton Community Public Library	2000.0	41.0
+21774	http://gms.goshenschools.org/	Goshen Middle School	2005.0	155.0
+21775	http://www.msdwc.k12.in.us/ses/seshome.htm	Southwood Elementary School	1999.0	2.0
+21776	http://www.mccsc.edu/Domain/13	Grandview Elementary School	2013.0	837.0
+21777	http://www.scentral.k12.in.us/	South Central Jr-Sr High Sch	2001.0	304.0
+21778	http://kirklinlibrary.com/	Kirklin Public Library	2003.0	34.0
+21779	http://www2.youseemore.com/bristolwash/	Bristol-Washington Township Public Library	2004.0	99.0
+21781	http://www.lpcsc.k12.in.us/lphs/	LaPorte High School	2006.0	154.0
+21782	http://www.in.gov/motorsports/	Motorsports, Indiana	2009.0	6.0
+21783	http://www.flora.lib.in.us	Flora-Monroe Township Public Library	2006.0	54.0
+21784	http://www.in.gov/sos/	Secretary of State	2001.0	943.0
+21786	http://www.adams.fwcs.k12.in.us	Adams Elementary School	2012.0	11.0
+21788	http://www.area30.k12.in.us	Area 30 Career Center	2004.0	2.0
+21790	http://www.nadams.k12.in.us/southeastelementary.cfm?subpage=7123	Southeast Elementary School	0.0	232.0
+21791	http://des.tsc.k12.in.us/	Dayton Elementary School	0.0	239.0
+21792	http://www.brentwood.fwcs.k12.in.us	Brentwood Elementary School	2012.0	12.0
+21793	http://www.in.gov/flu/	Novel H1N1 Flu	2009.0	21.0
+21794	http://www.hse.k12.in.us/fes/	Fishers Elementary School	2000.0	156.0
+21796	http://www.tcpl.lib.in.us	Tippecanoe County Public Library	1997.0	617.0
+21797	http://libraryforlife.org	St. Joseph County Public Library	2002.0	2.0
+21798	http://www.swraiders.com/	Southern Wells Jr-Sr High Sch	2002.0	92.0
+21801	http://www.harris.fwcs.k12.in.us	Robert C Harris Elem Sch	2012.0	11.0
+21802	http://hs.mvschool.org/	Mount Vernon High School	2013.0	2519.0
+21806	http://www.in.gov/dhs/	Homeland Security, Department of	2005.0	368.0
+21807	http://rctpl.com	Remington-Carpenter Township Public Library	2007.0	12.0
+21808	http://www.swshelby.k12.in.us	Southwestern Elementary Sch	0.0	374.0
+21809	http://www.excelcenter.org	Excel Center For Adult Learners	2004.0	36.0
+21810	https://www.edline.net/pages/swanson_primary_center	Swanson Primary Center	0.0	12.0
+21811	http://www.hammond.k12.in.us/eggersms/	Henry W Eggers Elem/Md Sch	2006.0	1996.0
+21812	http://www.nm.k12.in.us/schools/nrms/index.htm	Northridge Middle School	2000.0	4.0
+21813	http://www.in.gov/gpcpd/	Governor's Planning Council for People with Disabilities, Indiana	2001.0	50.0
+21814	http://www.state.in.us/icpr/webfile/formsdiv/index.html	State Forms Catalog	2000.0	2.0
+21815	http://batesvilleinschools.com/bhs/	Batesville High School	2012.0	1438.0
+21816	http://hs.eastnoble.net/	East Noble High School	2008.0	290.0
+21817	http://stonybrook.warren.k12.in.us/	Stonybrook Middle School	2002.0	94.0
+21818	http://sites.evscschools.com/AdminDefault.aspx?PortalId=00984874-beb8-4398-83a9-3bb626be3280	Cedar Hall Community School	2013.0	0.0
+21819	http://www.indianatownshipassoc.org/	Indiana Township Association	2001.0	2683.0
+21820	http://418.ips.k12.in.us/	Crispus Attucks Medical Magnet HS	2010.0	0.0
+21822	http://sce.newpal.k12.in.us	Sugar Creek Elementary Sch	2013.0	538.0
+21823	http://www.scsc.k12.in.us/shs_04-05/index.htm	Seymour Senior High School	2005.0	2.0
+21826	http://www.iacir.spea.iupui.edu/	Advisory Commission on Intergovernmental Relations, Indiana	2001.0	8.0
+21827	http://www.in.gov/idoc/dys/	Youth Services, Division of	2009.0	55.0
+21829	http://www.in.gov/mylocal/	myLocal.IN.gov	2004.0	2.0
+21831	http://www.in.gov/sfa/	Division of Student Financial Aid	2013.0	68.0
+21832	http://www.bunche.fwcs.k12.in.us	Bunche Elementary School	2012.0	11.0
+21833	http://www.nmcs.k12.in.us	North Miami Middle/High School	2000.0	625.0
+21835	http://www.sccusa.org	Southeastern Career Center	2002.0	38.0
+21836	http://www.hammond.k12.in.us/clarkhs/	George Rogers Clark Md/HS	2007.0	165.0
+21838	http://www.rschool.net	Renaissance Academy Charter Schl	2005.0	17.0
+21839	http://www.mcsin-k12.org/nms/index.cfm	Northridge Middle School	2008.0	8.0
+21840	http://79.ips.k12.in.us/	Carl Wilde School 79	2003.0	0.0
+21841	http://48.ips.k12.in.us/	Louis B Russell Jr School 48	2003.0	0.0
+21843	http://www.speedwayschools.org/	Frank H Wheeler Elem School 4	2008.0	287.0
+21845	http://www.in.gov/inwp/	Web Portal, IN.gov	2009.0	71.0
+21847	http://www.lsc.k12.in.us/schools/miller/index.htm	Thomas Miller Elementary Sch	2007.0	17.0
+21849	http://www.wellscounty.org/	Wells	2004.0	57.0
+21851	http://www.in.gov/idacs/	Data & Communication System	2008.0	16.0
+21853	http://www.in.gov/gis/	Geographic Information Services	2012.0	23.0
+21854	http://www.gjcs.k12.in.us/	Jasper High School	1998.0	284.0
+21855	http://www.in.gov/auditor/	Auditor of State	2001.0	89.0
+21856	http://www.in.gov/ruletheroad/	Rule the Road Indiana	2011.0	15.0
+21859	http://www.olemiss.k12.in.us	Mississinewa High School	2000.0	122.0
+21860	http://www.rssc.k12.in.us/index.php?option=com_content&view=article&id=29&itemid=8	Randolph Southern Jr-Sr High Sch	0.0	487.0
+21861	http://www.IN.gov/idoc/	Department of Correction	2008.0	327.0
+21862	http://www.IN.gov/dva/	Department of Veterans' Affairs	2007.0	351.0
+21863	http://www.northwood.fwcs.k12.in.us	Northwood Middle School	2002.0	12.0
+21864	http://www.IN.gov/isda/	Office of the Commissioner of Agriculture	2005.0	114.0
+21865	http://sdms.sdcsc.k12.in.us	South Dearborn Middle Sch	2007.0	165.0
+21866	http://www.wayne.k12.in.us/chapelhill/	Chapel Hill 7th & 8th Grade Center	2007.0	49.0
+21867	http://raymondpark.warren.k12.in.us/	Raymond Park Middle School	2002.0	100.0
+21868	http://indy.teamcfa.org/	The Challenge Foundation Academy	2010.0	34.0
+21870	http://sites.evscschools.com/AdminDefault.aspx?PortalId=24c0877d-b143-43f7-bda9-c5856848ba74	Thompkins Middle School	0.0	0.0
+21871	http://brookstonlibrary.org	Brookston-Prairie Township Public Library	2006.0	17.0
+21872	http://www.culver.lib.in.us	Culver-Union Township Public Library	2003.0	291.0
+21873	http://hnhs.hccsc.k12.in.us/	Huntington North High School	2010.0	2036.0
+21874	http://www.emmadonnanms.org	Emma Donnan Middle School	2012.0	11.0
+21875	http://iedc.in.gov/	Economic Development Corporation, Indiana	2005.0	73.0
+21878	http://www.hindscareercenter.org	John H Hinds Career Center	2004.0	869.0
+21879	http://www.mcs.k12.in.us/mis/	Manchester Intermediate School	2012.0	2.0
+21880	http://sms.shelbycs.org/	Shelbyville Middle School	2012.0	46.0
+21881	http://www.mccsc.edu/Domain/8	Arlington Heights Elem Sch	2013.0	837.0
+21882	http://www.fccsc.k12.in.us/fchs/wordpress/	Franklin County High	2012.0	147.0
+21883	http://www.rochester.in.us/	Rochester	1999.0	224.0
+21884	http://55.ips.k12.in.us/	Eliza A Blaker School 55	2004.0	0.0
+21886	http://www.scsd2.k12.in.us/johnsonelementary_home.aspx	Johnson Elementary School	2012.0	114.0
+21887	http://ci.bluffton.in.us/	Bluffton	2001.0	256.0
+21888	http://jbs.gcsc.k12.in.us	J B Stephens Elementary School	2012.0	127.0
+21889	http://des.rc.k12.in.us	Deerfield Elementary School	2013.0	219.0
+21890	http://creston.warren.k12.in.us/	Creston Middle School	2002.0	102.0
+21893	http://www.centergrove.k12.in.us/cges	Center Grove Elem School	2000.0	1285.0
+21894	http://www.bernepl.lib.in.us	Berne Public Library	2003.0	43.0
+21895	http://www.in.gov/nrc/	Natural Resources Commission	2001.0	102.0
+21896	http://www.irwin.fwcs.k12.in.us	John S Irwin Elementary Sch	2012.0	11.0
+21897	http://fayettein.eastview.schooldesk.net//	Eastview Elementary School	2011.0	23.0
+21898	http://www.tippecanoe.in.gov/	Tippecanoe	2004.0	1133.0
+21899	http://www.hse.k12.in.us/fci/	Fall Creek Intermediate Sch	2004.0	218.0
+21901	http://ww2.washingtoncountyindiana.com/index2.html	Washington	0.0	132.0
+21902	http://www.cville.k12.in.us/Cville/Buildings/CrawfordsvilleHighSchool/tabid/54/Default.aspx	Crawfordsville Sr High School	2007.0	1.0
+21903	http://www.wayne.k12.in.us/cge/	Chapel Glen Elementary School	2000.0	19.0
+21904	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/brown	Brown Elementary Sch	2013.0	8.0
+21905	http://www.snider.fwcs.k12.in.us	R Nelson Snider High School	2002.0	87.0
+21907	http://www.brownsburg.k12.in.us/index.php/our-schools/elementaries/delaware-trail-elementary	Delaware Trail Elementary School	2013.0	8.0
+21910	http://www.jasperindiana.gov	Jasper	2005.0	649.0
+21911	http://www.hse.k12.in.us/cre/	Cumberland Road Elem School	2004.0	31.0
+21912	http://mjcpl.org/	Madison-Jefferson County Public Library	2006.0	605.0
+21915	http://www.lsc.k12.in.us/schools/vinton/	Vinton Elementary School	2008.0	684.0
+21916	http://www.in.gov/inaiac/	Native American Indian Affairs Commission, Indiana	2012.0	11.0
+21918	http://lake-central.lcsc.us	Lake Central High School	2010.0	137.0
+21920	http://www.angolain.org/	Angola	2003.0	52.0
+21922	http://www.lpcsc.k12.in.us/kesling/	Kesling Middle School	2006.0	42.0
+21923	http://www.mitlib.org	Mitchell Community Public Library	1999.0	1.0
+21925	http://www.connectionsacademy.com/indiana-online-school/home.aspx	Indiana Connections Academy	2013.0	116.0
+21926	http://sites.evscschools.com/AdminDefault.aspx?PortalId=496aabbb-c6d5-415f-b445-3b8a6ea54f60	Tekoppel Elementary School	0.0	0.0
+21927	http://www.mdy.lib.in.us	Middlebury Community Public Library	2000.0	86.0
+21928	http://34.ips.k12.in.us/	Eleanor Skillen School 34	2004.0	0.0
+21929	http://www.danville.k12.in.us/ourschool/southelementary/default.htm	South Elementary School	2007.0	36.0

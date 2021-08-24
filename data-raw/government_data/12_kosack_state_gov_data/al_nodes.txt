@@ -1,0 +1,1282 @@
+NodeId	NodeURL	NodeName	Year	pages
+2	http://acdd.org/	Developmental Disabilities, Council for	2001.0	87.0
+3	http://www.wedoweetigers.com	Wedowee Middle School	2008.0	9.0
+4	http://www.cedarhillelementary.org	Cedar Hill Elementary School	2004.0	92.0
+5	http://www.piedmonthigh.org/	Piedmont High School	2013.0	84.0
+7	http://www.jefcoed.com/	Hueytown Elementary School	1998.0	780.0
+8	http://www.informationbirmingham.com/	Information Birmingham City	2001.0	192.0
+9	http://www.auburnschools.org/wrightsmill/new_web/wmr/index.htm	Wrights Mill Road Elementary School	2006.0	9.0
+10	http://www.bhamcityschools.org/brown	Charles A Brown Elementary School	2014.0	7781.0
+13	http://lle.chambersk12.org	Lafayette Lanier Elementary School	0.0	12.0
+14	http://www.cityofpg.com	Pleasant grove City	1998.0	8.0
+15	http://www.dalevilleal.com/home/	Daleville Public Library	2013.0	394.0
+16	http://www.fairhopehs.com	Fairhope High School	2007.0	4548.0
+17	http://www.gwtrenholm.org	G W Trenholm Primary School	2011.0	10.0
+19	http://www.albit.alabama.gov	Interpreters and Transliterators, Licensure Board for	2009.0	2.0
+20	http://ot.alabama.gov	Occupational Therapy, State Board of	2004.0	5.0
+22	http://www.bhamcityschools.org/centralpark	Central Park Elementary School	2013.0	7785.0
+23	http://www.asfa.k12.al.us/	School of Fine Arts	0.0	998.0
+24	http://amelialovejohnson.mch.schoolinsites.com	Amelia L. Johnson High School	2007.0	9.0
+25	http://www.ecs.k12.al.us/	Moorer Middle School	2000.0	145.0
+28	http://webmini.apls.state.al.us/apls_web/glencoe/	Glencoe Public Library	2014.0	19.0
+31	http://www.boeala.alabama.gov	Assisted Living Administrators, Board of Examiners	2007.0	12.0
+32	http://www.waltermkennedy.com	Walter M Kennedy School	2004.0	19.0
+33	http://www.raglandschoolhome.com	Ragland High School	2011.0	5.0
+35	http://www.guntersville-elementary.com	Guntersville Elementary School	2001.0	74.0
+36	http://eagle382.tripod.com/index.html	Beatrice City	2012.0	7.0
+37	http://judicial.alabama.gov/	Court of Civil Appeals	2007.0	16.0
+38	http://www.foleymiddle.com	Foley Middle School	2006.0	4480.0
+39	http://www.bhamcityschools.org/epic	Epic School	2014.0	7797.0
+40	http://www.forestry.alabama.gov	Forestry Commission	2007.0	145.0
+43	http://www.morris.mps-al.org/	Morris Elementary School	2010.0	23.0
+44	http://sakselementary.weebly.com/	Saks Elementary School	2013.0	13.0
+46	http://www.trussville.org	City of Trussville City	1999.0	19.0
+47	http://www.hoover.k12.al.us/sms/index.htm	Ira F Simmons Middle School	2000.0	14.0
+48	http://www.mtnbrook.k12.al.us	Jefferson School District	1996.0	2.0
+49	http://www.calhouncounty.org	Calhoun County	2001.0	7.0
+50	http://www.cityofirondale.org/	The City of Irondale City	2000.0	206.0
+51	http://www.wilson.mps-al.org/	Wilson Elementary School	2010.0	29.0
+52	http://www.asbpa.alabama.gov	Accountancy, Board of Public	2005.0	31.0
+53	http://tmse.tuscaloosacityschools.com	Tuscaloosa Magnet School - Elementary	0.0	11.0
+54	http://www.oxfordcityschools.com/	De Armanville Elementary School	2008.0	649.0
+55	http://www.zoraellis.blogspot.com	Zora Ellis Junior High School	2013.0	759.0
+56	http://www.shelbyed.k12.al.us/schools/mms/index.htm	Montevallo Middle School	2000.0	13.0
+58	http://www.mcpss.com/	TL Faulkner  School	1996.0	1618.0
+59	http://www.shelbyed.k12.al.us/schools/mes/index.htm	Montevallo Elementary School	2001.0	10.0
+60	http://www.demopolisal.gov	Welcome to Demopolis City	2008.0	34.0
+61	http://webmini.apls.state.al.us/apls_web/brentcentreville/	Brent-Centreville Public Library	0.0	18.0
+62	http://www.suscc.cc.al.us/	Southern Union State Community College	1998.0	359.0
+63	http://www.winfield.k12.al.us	Winfield Elementary School	0.0	1065.0
+64	http://www.bhamcityschools.org/westend	WeSt. End Academy	2014.0	7846.0
+65	http://www.dekalbk12.org/plainview/	Plainview School	2001.0	23.0
+66	http://www.preserveala.org	Historical Commission	1998.0	20.0
+67	http://www.danvilleneelelemschool.al.mcs.schoolinsites.com	Danville-Neel Elementary School	2012.0	9.0
+68	http://webmini.apls.state.al.us/apls_web/falkville/	Falkville Public Library	2013.0	15.0
+70	http://www.ircusa.com/randolph/county.htm	Randolph County	2001.0	1.0
+71	http://www.enterpriseschools.net	Enterprise Junior High School	2000.0	1117.0
+72	http://minorhigh.jefcoed.com	Minor High School	2013.0	11.0
+73	http://webmini.apls.state.al.us/apls_web/blountsville/	Blountsville Public Library	2013.0	16.0
+74	http://loachapoka.lch.schoolinsites.com	Loachapoka High School	2008.0	10.0
+75	http://www.huntsvillecityschools.org	Martin Luther King Jr Elementary School	2012.0	1345.0
+76	http://www.abela.alabama.gov	Landscape Architects, Alabama Board of Examiners of	2009.0	12.0
+77	http://www.winstonk12.org	Double Springs Elementary School	2001.0	546.0
+79	http://www.ahsbulldogs.org	Ashville High School	2008.0	2.0
+81	http://www.baldwincountyal.gov/PageView.asp?PageType=R&edit_id=1	Baldwin County	0.0	1049.0
+82	http://www.haley-k12.us	Haleyville Center Of Technology	2009.0	172.0
+84	http://verner.tuscaloosacityschools.com	Verner Elementary School	0.0	7.0
+85	http://www.talladegahighschool.net	Talladega High School	2010.0	2.0
+87	http://www.midfield.k12.al.us	Midfield Area Vocational Department	2003.0	190.0
+88	http://labor.alabama.gov/	Labor, Alabama Department of	2009.0	170.0
+90	http://www.jlnewtonschool.com	J Larry Newton School	2006.0	4500.0
+91	http://podiatryboard.alabama.gov/	Podiatry, Alabama State Board of	2007.0	17.0
+92	http://www.unionspringsalabama.com/	Union Springs City	2000.0	14.0
+93	http://hes.chambersk12.org	Huguley Elementary School	2013.0	14.0
+94	http://www.decaturalabamausa.com	Decatur City	2006.0	40.0
+95	http://www.athensal.us	Welcome to Athens City	2008.0	373.0
+96	http://www.bhamcityschools.org/huffmanms	Huffman Middle School	2014.0	7740.0
+97	http://www.headlandalabama.org	Blanche R. Solomon Memorial Library	2002.0	2240.0
+100	http://alb.tuscaloosacityschools.com	Alberta Elementary School	0.0	13.0
+101	http://www.psc.alabama.gov	Public Service Commission	2006.0	50.0
+103	http://www.vestavia.k12.al.us/westelementary/?CFID=5907720&CFTOKEN=81217957	WeSt. Elementary	0.0	51.0
+105	http://www.walkercountyschools.com	Walker School District	2001.0	796.0
+106	http://www.shelbyed.k12.al.us/schools/vis/index.htm	Valley Intermediate School	2001.0	0.0
+107	http://www.daphneelementary.com/	Daphne Elementary School	2007.0	4490.0
+108	http://paintrockvalley.jch.schoolinsites.com	Paint Rock Valley High School	2005.0	11.0
+110	http://just4.mcpss.com	JuSt. 4 Development Laboratory	2005.0	80.0
+111	http://www.pesbobcats.com	Prattville Elementary School	2010.0	12.0
+112	http://marengocounty.mch.schoolinsites.com	Marengo High School	2007.0	9.0
+113	http://fleeta.ccm.schoolinsites.com/	Fleeta School	2009.0	24.0
+114	http://www.talladega-cs.net/ges/default.aspx	Graham Elementary School	2008.0	230.0
+116	http://www.silverhillelementary.com	Silverhill School	2006.0	4470.0
+117	http://lindencity.org/lhs/	Linden High School	2007.0	2.0
+118	http://ctc.chambersk12.org	Chambers County Career Technology Center	0.0	14.0
+119	http://www.geneva.gch.schoolinsites.com/	Geneva High School	2006.0	41.0
+121	http://www.auburnschools.org/pes/	Pick Elementary School	2013.0	8.0
+122	http://www.ifsonline.org/	Individual and Family Supports	2001.0	5.0
+124	http://southlamarschool.weebly.com/	South Lamar School	2013.0	24.0
+125	http://www.marshallco.org/	Marshall County	1998.0	19.0
+126	http://satsumacity.schoolinsites.com/	Mobile School District	2013.0	158.0
+127	http://www.alboenha.alabama.gov	Nursing Home Administrators, Alabama Board of Examiners of	2007.0	30.0
+128	http://www.oneontacityschools.com	Oneonta Elementary School	2008.0	755.0
+130	http://www.wcbek12.org	Washington County High School	2008.0	518.0
+131	http://www.rainsvillealabama.com	Rainsville City	2004.0	75.0
+132	http://outdooralabama.com	Conservation and Natural Resources, Department of	2001.0	2054.0
+133	http://bumpusmiddle.al.hcm.schoolinsites.com/	Robert F Bumpus Middle School	2012.0	36.0
+134	http://finance.alabama.gov/pages/debt_mgmt.aspx	Finance, Department of : Debt Management	2008.0	63.0
+135	http://pcboe.net/les/	Lakewood Elementary School	2003.0	0.0
+137	http://www.lrs.state.al.us	Legislative Reference Service	2001.0	8.0
+138	http://www.shelbyed.k12.al.us/schools/hlms/index.htm	Helena Middle	2008.0	17.0
+139	http://aiac.alabama.gov	Indian Affairs Commission	2008.0	36.0
+140	http://www.maxwell.af.mil/	Maxwell-Gunter AFB City	1998.0	1259.0
+141	http://dms.tcboe.org	Charles R Drew Middle School	2008.0	13.0
+142	http://www.bessk12.org	Jefferson School District	2002.0	905.0
+143	http://tis.alabasterschools.org/	Thompson Intermediate School	2013.0	53.0
+144	http://www.dunbar.mps-al.org/	Dunbar-Ramer School	2010.0	17.0
+146	http://mcdavid-jones.mce.schoolinsites.com	McDavid-Jones Elementary School	2004.0	45.0
+148	http://www.ussalabama.com/	USS Alabama Battleship Commission	1998.0	10.0
+149	http://whitley.mce.schoolinsites.com	Whitley Elementary School	2001.0	10.0
+150	http://www.thecityofcenterpoint.org	City of Center Point City	2003.0	86.0
+151	http://dms.madisoncity.k12.al.us	Discovery Middle School	2000.0	13.0
+152	http://www.cityoflineville.com	City	2001.0	14.0
+153	http://www.brewint.mps-al.org/	Brewbaker Intermediate School	2011.0	37.0
+154	http://www.prattvilleal.gov/	Prattville City	2009.0	6711.0
+156	http://bbchs.tcboe.org	BB Comer Memorial High School	2006.0	10.0
+157	http://www.shelbyed.k12.al.us/schools/foes/index.htm	ForeSt. Oaks Elementary School	2013.0	14.0
+158	http://www.genevapubliclibrary.org/	Emma Knox Kenan Public Library	2007.0	158.0
+159	http://www.erdickson.com/	ER Dickson Elementary School	2005.0	72.0
+160	http://www.jackson.k12.al.us	Jackson School District	2003.0	470.0
+161	http://www.adeca.alabama.gov/Pages/default.aspx	Economic and Community Affairs, Alabama Department of	2012.0	98.0
+162	http://www.chiro.alabama.gov	Chiropractic Examiners, Board	2007.0	25.0
+163	http://www.bbcomerlibrary.net/	B. B. Comer Memorial Library	2012.0	77.0
+164	http://www.sd.alabama.gov	Finance, Department of : State Motor Pool	2006.0	5.0
+165	http://www.shelbyed.k12.al.us/schools/cams/index.htm	Calera Middle	2008.0	12.0
+167	http://collier.mce.schoolinsites.com	Elsie Collier Elementary School	2001.0	70.0
+168	http://www.pcboe.net/mes/index.htm	Meadowlane Elementary School	2001.0	0.0
+169	http://finance.alabama.gov/pages/spacem.aspx	Finance, Department of : Space Management	2008.0	63.0
+170	http://www.agi.alabama.gov	Agriculture and Industries	2005.0	9.0
+171	http://webmini.apls.state.al.us/apls_web/arab/	Arab Public Library	2013.0	13.0
+172	http://www.oppcityschools.com/oms/home	Opp Middle School	0.0	98.0
+173	http://keith.al.dch.schoolinsites.com/	Keith Middle-High School	2009.0	34.0
+174	http://girard.al.dcm.schoolinsites.com/	Girard Middle School	2008.0	83.0
+175	http://cms.tcboe.org	Childersburg Middle School	2003.0	10.0
+177	http://www.troy.edu	Troy University	2004.0	49.0
+178	http://oes.tuscaloosacityschools.com	Oakdale Elementary School	0.0	9.0
+179	https://www.teachervision.com/teaching-methods/career-in-education/68719.html	Pickens County High School	2013.0	3.0
+181	http://www.colbert.k12.al.us	Colbert Heights Elementary School	2004.0	227.0
+182	http://www.adcweb.org/	Aerospace Development Center	2001.0	79.0
+183	http://www.cityofoneonta.us/	Oneonta City	2005.0	630.0
+184	http://www.guntersvillelibrary.org/guntersville/	Guntersville Public Library	0.0	55.0
+186	http://www.selmacityschools.org/	Dallas School District	2003.0	509.0
+187	http://ervin.wce.schoolinsites.com	F S Ervin Elementary School	2009.0	10.0
+188	http://www.elsanorschool.com/	Elsanor School	2006.0	4461.0
+189	http://wms.tuscaloosacityschools.com	Westlawn Middle School	0.0	11.0
+190	http://www.landmarkpark.com	Agricultural Museum, Alabama	2000.0	0.0
+191	http://www.rehab.alabama.gov	Rehabilitation Services, Alabama Department of	2008.0	32.0
+192	http://cityofchickasaw.org/	Chickasaw City	2008.0	31.0
+193	http://physicalfitness.alabama.gov/	Physical Fitness Commission	2013.0	3.0
+195	http://www.cityofashland.net	City of Ashland City	2005.0	27.0
+196	http://webmini.apls.state.al.us/apls_web/crossville/	Crossville Public Library	2012.0	16.0
+197	http://www.greenville-alabama.com	City of Greenville City	1996.0	121.0
+198	http://www.clanton.al.us/	City of Clanton City	1997.0	53.0
+199	http://www.discoverlookoutmountain.com/	DeKalb County	2007.0	63.0
+200	http://southeasternes.blount.k12.al.us	Southeastern School	2003.0	25.0
+202	http://www.hooveral.org/	City of Hoover City	1998.0	1762.0
+203	http://www.autism-alabama.org/	Autism Society of Alabama	1998.0	1145.0
+204	http://www.calhounchamber.com/	Chamber of Commerce City	2000.0	54.0
+205	http://dys.alabama.gov	Youth Services, Department of	2006.0	20.0
+206	http://www.daphneal.com/	The City of Daphne City	1998.0	163.0
+207	http://www.co.cullman.al.us/	Cullman County	1999.0	64.0
+208	http://www.bhamcityschools.org/bushhills	Bush Hills Academy	2014.0	7826.0
+209	http://vhs.chambersk12.org	Valley High School	2013.0	14.0
+210	http://www.una.edu/	North Alabama, University of	1997.0	19.0
+211	http://calcedeaver.mce.schoolinsites.com	Calcedeaver Elementary School	2001.0	10.0
+212	http://cms.cullmancats.net	Cullman Middle School	2002.0	144.0
+213	http://www.dothan.k12.al.us	Houston School District	1998.0	1590.0
+216	http://www.shelbyed.k12.al.us/schools/cais/index.htm	Calera Intermediate School	2012.0	8.0
+217	http://www.hoovercityschools.net/	Brock's Gap Intermediate School	2012.0	774.0
+218	http://www.deshlerhigh.org	Deshler High School	2008.0	9.0
+219	http://www.ptc.dcs.edu/schools/hs/hhs/horizon.html	Horizon High School	1998.0	3.0
+220	http://www.alabamafirecollege.org	Firefighters Personnel Standards	2002.0	30.0
+221	http://www.floydelem.mps-al.org/	Floyd Elementary School	2010.0	45.0
+222	http://lanier.bcss.schoolinsites.com	Bessemer City High School	2004.0	11.0
+223	http://burns.mcm.schoolinsites.com/	Burns Middle School	2001.0	232.0
+224	http://www.writersforum.org/	Alabama State Council on the Arts : Alabama Writers' Forum	1999.0	1171.0
+225	http://www.hartselletigers.org/	Barkley Bridge Elementary School	2004.0	388.0
+226	http://www.loxleyelementary.com	Loxley Elementary School	2006.0	4475.0
+227	http://www.shelbyed.k12.al.us/schools/sot/index.htm	Shelby County College and Career Center	2001.0	18.0
+228	http://www.opelikaschools.org	Morris Avenue Intermediate School	2001.0	308.0
+229	http://www.bplonline.org	Birmingham Public Library	2001.0	6196.0
+230	http://www.fitzpatrick.mps-al.org/	Fitzpatrick Elementary School	2010.0	55.0
+231	http://www.rethompson.org	R E Thompson Intermediate School	2011.0	25.0
+232	http://www.arabcity.org/	Arab City	2002.0	9.0
+233	http://www.shelbyed.k12.al.us/schools/cpes/index.htm	Chelsea Park Elementary School	2006.0	23.0
+239	http://swcc.alabama.gov	Soil and Water Conservation Committee	2007.0	93.0
+240	http://tcchs.tcboe.org	Talladega County Central High	2007.0	14.0
+241	http://www.cityofgadsden.com/	City of Gadsden City	2002.0	389.0
+243	http://www.dannelly.mps-al.org/	Dannelly Elementary School	2010.0	20.0
+244	http://webmini.apls.state.al.us/apls_web/apls/apls/	Flomaton Public Library	2012.0	40.0
+247	http://www.banking.alabama.gov	Banking Department	2005.0	75.0
+248	http://www.shelbyed.k12.al.us/schools/omms/index.htm	Oak Mountain Middle School	2001.0	53.0
+249	http://www.newcenturytechnology.org	New Century Technology Demo High School	2012.0	13.0
+250	http://www.shelbyed.k12.al.us/schools/val/index.htm	Valley Elementary School	2001.0	0.0
+251	http://www.foleyhs.com	Foley High School	2007.0	4564.0
+252	http://gc.ccboe.org/	Garden City Elementary School	2011.0	14.0
+253	http://southernchoctaw.al.cce.schoolinsites.com/	Southern Choctaw Elementary School	2010.0	61.0
+254	http://www.fairhopeelementary.com	Fairhope Primary School	2003.0	4574.0
+255	http://www.conecuhk12.com	Conecuh School District	2011.0	64.0
+258	http://www.elbaed.com	Elba Area Vocational School	2001.0	125.0
+259	http://www.lawrenceal.org	Lawrence School District	2000.0	1701.0
+260	http://www.talladega.com/	Talladega City	1999.0	36.0
+261	http://www.lanier.mps-al.org/	Lanier Senior High School	2010.0	73.0
+262	http://www.dps.alabama.gov/Home/	Public Safety, Department of	2011.0	184.0
+263	http://northmobile.mcm.schoolinsites.com/	North Mobile County Middle School	2009.0	57.0
+264	http://www.demopolischamber.com/	Demopolis Area Chamber of Commerce City	2000.0	72.0
+265	http://southside.tcm.schoolinsites.com/	Southside Middle School	2008.0	93.0
+266	http://lawrencecounty.schoolinsites.com/	Speake	2010.0	1710.0
+267	http://www.lpgb.alabama.gov	Liquefied Petroleum Gas Board	2002.0	7.0
+268	http://www.co.blount.al.us	Blount County	1999.0	38.0
+269	http://www.gadsdenida.org/	Gadsden-Etowah County Industrial Development Authy City	2002.0	223.0
+270	http://caldwell.scottsboroschools.net	Caldwell Elementary School	2006.0	6.0
+271	http://www.isd.alabama.gov	Finance, Department of : Information Services	2006.0	53.0
+272	http://www.sulligent.siteblast.com/	Sulligent Community City	2001.0	234.0
+273	http://www.bhamcityschools.org/sunvalley	Sun Valley Elementary School	2014.0	7803.0
+274	http://www.bhamcityschools.org/greenacres	Green Acres Middle School	2014.0	7738.0
+275	http://mes.tcboe.org	Munford Elementary School	2003.0	10.0
+276	http://boed.alabama.gov	Dietetic/Nutrition, Board of Examiners	2006.0	2.0
+277	http://www.joblink.alabama.gov	Alabama JobLink	0.0	17429.0
+279	http://www.cityofalabaster.com/	Alabaster City	0.0	465.0
+280	http://sjhs.scottsboroschools.net	Scottsboro Junior High School	2004.0	24.0
+281	http://www.demopolislibrary.info/index.html	Demopolis Public Library	2007.0	16.0
+282	http://www.fma.alabama.gov	Farmers Market Authority	2004.0	369.0
+283	http://www.piedmont.k12.al.us/websites/piedmontcityschools/piedmontcitydistrict/	Calhoun School District	0.0	123.0
+284	http://athletictrainers.alabama.gov/	Athletic Trainers, Board of	2012.0	15.0
+285	http://www.pardons.alabama.gov	Pardons & Paroles, Board of	2007.0	3.0
+287	https://www.asecu.org/	Alabama State Employees Credit Union	1997.0	60.0
+289	http://hhs.haley-k12.us	Haleyville Elementary School	2009.0	150.0
+290	http://www.bels.alabama.gov	Engineers and Land Surveyors, Board of Professional	2004.0	59.0
+291	http://finance.alabama.gov/pages/legal.aspx	Finance, Department of : Legal	2008.0	64.0
+292	http://webmini.apls.state.al.us/apls_web/cherokee/	Cherokee Public Library	2013.0	90.0
+293	http://ffe.chambersk12.org	Fairfax Elementary School	2013.0	11.0
+294	http://www.dekalbk12.org	Henagar Junior High School	1999.0	101.0
+295	http://www.tuscco.com/	Tuscaloosa County	1999.0	131.0
+296	http://highlands.al.dce.schoolinsites.com/	Highlands Elementary School	2009.0	101.0
+297	http://www.monroe.k12.al.us	Monroe School District	2001.0	262.0
+298	http://www.stclairco.com/	St. Clair County	2002.0	219.0
+299	http://townofdauphinisland.org/home.asp?ID=2	Town of Dauphin Island City	2009.0	217.0
+301	http://www.cityofhelena.org/	City of Helena City	2002.0	859.0
+302	http://hiddenlake.al.dce.schoolinsites.com/	Hidden Lake Elementary School	2009.0	66.0
+303	http://alabama.travel/	Tourism, Alabama Department of	2006.0	2824.0
+304	http://www.pcboe.net/pces/index.htm	Phenix City Elementary School	2002.0	0.0
+306	http://www.acvcc.alabama.gov	Crime Victims Compensation	2007.0	2.0
+308	http://www.dauphinislandcoc.com	Dauphin Island Chamber of Commerce City	2008.0	204.0
+310	https://www.facebook.com/pages/Atmore-Public-Library/575356585855935	Atmore Public Library	0.0	1.0
+311	http://www.wallacestate.edu/	Wallace State College - Hanceville	2003.0	264.0
+312	http://www.franklin.k12.al.us	Tharptown Elementary School	2003.0	923.0
+313	http://mlk.tuscaloosacityschools.com	Martin L King Jr Elementary School	0.0	12.0
+314	http://www.bhamcityschools.org/barrett	Barrett Elementary School	2014.0	7776.0
+315	http://www.eufaulaalabama.com/	The Bluff City City	2000.0	141.0
+317	http://mms.tcboe.org	Munford Middle School	2004.0	10.0
+319	http://www.owd.alabama.gov	Workforce Development, Office of	2004.0	105.0
+320	http://www.baldwin.mps-al.org/	Baldwin Art And Academics Magnet	2010.0	24.0
+321	http://eanes.mcm.schoolinsites.com	Mae Eanes Middle School	2001.0	10.0
+322	http://stevenson.jcm.schoolinsites.com	Stevenson Middle School	2005.0	10.0
+323	http://fultondale.lib.al.us	Fultondale Public Library	1999.0	1.0
+324	http://www.schoolinsites.com/	ET Belsaw - Mount Vernon School	2000.0	61.0
+325	http://arc.tuscaloosacityschools.com	Arcadia Elementary School	2013.0	18.0
+326	http://www.calhoun.k12.al.us/ah/	Alexandria High School	2002.0	23.0
+327	http://heard.al.dce.schoolinsites.com/	Heard Magnet School	2009.0	252.0
+331	http://www.shelbyed.k12.al.us	Shelby School District	1999.0	609.0
+332	http://www.marburymiddle.com/	Marbury Middle School	2010.0	119.0
+333	http://gesgc.org	Goodwill Easter Seal Center Special Child	2004.0	78.0
+335	http://www.marburyhighschool.org	Marbury High School	2009.0	31.0
+336	http://www.beauregardelementary.com/	Beauregard Elementary School	2012.0	48.0
+338	http://butlerco.gms.schoolfusion.us	Greenville Middle School	2011.0	935.0
+339	http://www.shelbyed.k12.al.us/schools/hes/index.htm	Helena Elementary School	2000.0	12.0
+340	http://www.bhamcityschools.org/oliver	Oliver K5 School	2014.0	7765.0
+341	http://www.florencek12.org	Lauderdale School District	2011.0	5.0
+342	http://www.acua.alabama.gov/	Credit Union Administration	2004.0	24.0
+343	http://www.opelikachamber.com/	Opelika Chamber of Commerce City	2013.0	110.0
+344	http://www.claycoboe.org	Clay School District	2008.0	587.0
+345	http://www.cityofaliceville.com/?f	Chamber of Commerce City	2014.0	1.0
+346	http://www.orangebeachelementary.com	Orange Beach Elementary School	2006.0	4480.0
+347	http://kellysprings.al.dce.schoolinsites.com/	Kelly Springs Elementary School	2009.0	91.0
+348	http://sves.tuscaloosacityschools.com	Southview Elementary School	0.0	8.0
+349	http://choctawcounty.al.cce.schoolinsites.com/	Choctaw County Elementary	2010.0	61.0
+351	http://www.bhamcityschools.org/wylam	Wylam K-8	2013.0	7799.0
+352	http://www.asc.edu/	Supercomputer Authority	1997.0	84.0
+353	http://www.cherokeek12.org	Cherokee School District	2005.0	77.0
+354	http://www.uwa.edu/sorry.aspx?aspxerrorpath=/uwahome.htm	WeSt. Alabama, University of	0.0	1223.0
+355	http://blountsvillees.blount.k12.al.us	Blountsville Elementary School	2002.0	43.0
+357	http://www.bizsitepro.com/corporatesite/	Welcome to Vernon City	0.0	15.0
+358	http://www.bhamcityschools.org/carver	George Washington Carver High School	2012.0	7862.0
+360	http://shs.scottsboroschools.net	Scottsboro High School	2004.0	149.0
+361	http://www.bscc.edu	Bevill State Community College	2002.0	802.0
+362	http://www.vaughnrd.mps-al.org/	Vaughn Road Elementary School	2010.0	50.0
+363	http://www.perdidoschool.com	Perdido Elementary School	2006.0	4485.0
+364	http://southernchoctaw.al.cch.schoolinsites.com	Southern Choctaw High School	2010.0	61.0
+365	http://www.piedmontelementary.org/	Piedmont Elementary School	2013.0	69.0
+366	http://lindencity.org/gpa/	George P Austin Junior High School	2007.0	2.0
+367	http://fultondaleel.jefcoed.com	Fultondale Elementary School	2013.0	11.0
+368	http://www.williamspc.net	Williams Intermediate School	2008.0	94.0
+369	http://www.walkercountyschools.com/tsboyd/	T S Boyd School	2001.0	200.0
+370	http://www.ahsaa.com/	High School Athletic Association, Alabama	1998.0	979.0
+371	http://www.fcs.k12.al.us	Florence Middle School	1998.0	18.0
+373	http://www.ltgov.alabama.gov	Lieutenant Governor, Office of the	2007.0	12.0
+374	http://www.covcounty.com/index.php	Covington County	2010.0	43.0
+377	http://www.catoma.mps-al.org/	Catoma Elementary School	2010.0	33.0
+378	http://www.pleasantvalleyelementaryschool.com	Pleasant Valley Elementary School	2012.0	11.0
+379	http://www.shelbyed.k12.al.us/schools/cms/index.htm	Columbiana Middle School	2001.0	27.0
+381	http://www.mtnbrook.k12.al.us/mbe	Mountain Brook Elementary School	1996.0	2021.0
+382	http://maryvale.mce.schoolinsites.com	Maryvale Elementary School	2001.0	14.0
+383	http://www.gophslions.com	Prattville High School	2011.0	129.0
+384	http://www.blountboe.net	Allgood Alternative School	2007.0	1607.0
+386	http://www.brooksidealabama.com	Welcome to Brookside City	2007.0	98.0
+387	http://www.bhamcityschools.org/wenonah	Wenonah High School	2012.0	8474.0
+388	http://wes.tcboe.org	AH Watwood Elementary School	2003.0	14.0
+389	http://stelmo.mce.schoolinsites.com/	Saint Elmo Elementary School	2004.0	58.0
+390	http://www.opelika.org/	The City of Opelika City	2000.0	1521.0
+391	http://greenwood.bcse.schoolinsites.com	Greenwood Elementary School	2004.0	15.0
+392	http://www.kittystone-elem.org	Kitty Stone Elementary School	2003.0	14.0
+393	http://www.idboard.alabama.gov/	Interior Designers, Board of Registration for	2004.0	9.0
+395	http://sentencingcommission.alacourt.gov/	Alabama Sentencing Commission	2004.0	46.0
+396	http://www.bhamcityschools.org/minor	Minor Elementary School	2014.0	8501.0
+397	http://northhighlandel.jefcoed.com	North Highland Elementary School	2013.0	12.0
+398	http://www.wilcoxdevcouncil.org/wilcoxcounty.htm	Wilcox County Development Council City	2001.0	147.0
+399	http://genesis.tcboe.org	Talladega County Genesis School	2003.0	14.0
+400	http://www.tannerhigh.org	Tanner High School	2004.0	94.0
+401	http://ees.cullmancats.net	EaSt. Elementary School	2003.0	346.0
+403	http://careertech.al.mcc.schoolinsites.com/	Monroe County Career/technical Center	2010.0	97.0
+404	http://www.boazk12.org	Corley Elementary School	2004.0	415.0
+405	http://www.fews.mps-al.org/	Fews Secondary Acceleration Academy	2010.0	15.0
+406	http://www.flpl.org	Florence-Lauderdale Public Library	2007.0	50.0
+408	http://www.appl.info	Autauga-Prattville Public Library	2002.0	802.0
+409	http://www.duransouth.net/	Duran South	2004.0	44.0
+411	http://www.uah.edu/	Alabama, University of : Huntsville	1997.0	2.0
+413	http://les.tcboe.org	Lincoln Elementary School	2003.0	14.0
+414	http://www.gs-hs.com	Gulf Shores High School	2003.0	5804.0
+415	http://www.wjcintermediate.com	W J Carroll Intermediate School	2007.0	5787.0
+416	http://www.cityofbayminette.org/Library	Bay Minette Public Library	2004.0	44.0
+417	http://kingston.selmacityschools.org	Sophia P Kingston Elementary School	2009.0	8.0
+418	http://tcta.tuscaloosacityschools.com	Tuscaloosa Career and Technology Academy	0.0	8.0
+419	http://clark.selmacityschools.org	Clark Elementary School	2009.0	8.0
+420	http://www.pellcityschools.net/	St. Clair School District	2003.0	593.0
+421	http://eclectic.ecm.schoolinsites.com/	Eclectic Middle School	2005.0	27.0
+422	http://www.johnson.mps-al.org/	Johnson Elementary School	2010.0	53.0
+423	http://westmorganelementaryschool.org/	WeSt. Morgan Elementary School	2010.0	31.0
+425	http://www.mc-ala.org/Pages/Default.aspx	Montgomery County	2010.0	278.0
+426	http://lindencity.org/les/	Linden Elementary School	2007.0	2.0
+427	http://www.cleburne.schoolinsites.com/?iurl=www.pleasantgroveelementary.net&purl=	Pleasant Grove Elementary School	0.0	63.0
+428	http://www.sespartans.com/	Saraland Elementary School	2009.0	85.0
+430	http://www.mtnbrook.k12.al.us/bwf	Brookwood ForeSt. Elementary School	1996.0	2700.0
+431	http://brazier.mce.schoolinsites.com	William Henry Brazier Elementary School	2001.0	32.0
+432	http://www.bayminettemiddle.com	Bay Minette Middle School	2006.0	5786.0
+433	http://www.fmms.mps-al.org/	Floyd Middle School	2010.0	47.0
+434	http://www.pisgaheagles.org/	Pisgah High School	2007.0	75.0
+435	http://darelementary.marshallk12.org/	Kate D Smith DAR Elementary School	2010.0	69.0
+437	http://www.dozier.mps-al.org/	Dozier Elementary School	2010.0	71.0
+438	http://www.headlandmiddle.org	Headland Middle School	2006.0	14.0
+439	http://www.alcpl.org/	Athens-Limestone Public Library	2013.0	25.0
+441	http://www.madisoncity.k12.al.us	Madison School District	2000.0	688.0
+442	http://hobbs.wce.schoolinsites.com	J E Hobbs Elementary School	2010.0	13.0
+443	http://choctawcounty.schoolinsites.com	Choctaw School District	2011.0	63.0
+444	http://www.tarrant.k12.al.us	Tarrant Intermediate School	2000.0	591.0
+445	http://www.guntersville-middle.com	Guntersville Middle School	2007.0	272.0
+447	http://www.elbertamiddle.com	Elberta Middle School	2006.0	5737.0
+448	http://www.cofairhope.com/	Welcome to Fairhope City	0.0	750.0
+449	http://www.chambersk12.org	Chambers School District	2000.0	20.0
+450	http://www.creeksideelem.org	Creekside Elementary School	2004.0	64.0
+451	http://www.elmoreco.org/	Elmore County	2004.0	188.0
+452	http://www.ozarkcityschools.net	Opportunity Academy	2008.0	115.0
+453	http://www.monroecountyal.com/	Monroeville City	2001.0	44.0
+454	http://dhcolibrary.org/	Dothan Houston County Library System	0.0	0.0
+455	http://craighead.8m.net	Erwin Craighead Elementary School	2013.0	4.0
+456	http://www.cityofmidfield.com/	Midfield City	2007.0	19.0
+459	http://una.edu/kilby/	Kilby Laboratory School	2002.0	104.0
+460	http://www.jsu.edu/	Jacksonville State University	1997.0	3314.0
+461	http://www.lawrencecountyhigh.org	Lawrence County High School	2010.0	32.0
+463	http://austin.mce.schoolinsites.com	Mary B Austin Elementary School	2001.0	16.0
+464	http://www.shelbyed.k12.al.us/schools/phs/index.html	Pelham High School	2000.0	0.0
+466	http://www.springvilleelementary.org	Springville Elementary School	2008.0	0.0
+468	http://turner.mce.schoolinsites.com	J E Turner Elementary	2004.0	41.0
+469	http://pelhamonline.com/	Pelham City	1998.0	274.0
+470	http://www.escambiak12.net/	Escambia County Middle School	2001.0	373.0
+471	http://www.motorsportshalloffame.com/	Motorsports Hall of Fame, International	1998.0	360.0
+474	http://www.ptc.dcs.edu/schools/hs/dhs/dhspage.html	Decatur High School	1996.0	2216.0
+475	http://franklincountyal.schoolinsites.com/	Phil Campbell Elementary School	2010.0	937.0
+476	http://www.alabasterschools.org	Meadow View  Elementary School	2013.0	401.0
+477	http://burroughs.mce.schoolinsites.com	Mary W Burroughs Elementary School	2001.0	14.0
+479	http://www.montgomeryal.gov	City of Montgomery City	2006.0	404.0
+480	http://www.childersburg.org/	City of Childersburg City	1999.0	18.0
+481	http://theodore.mcs.schoolinsites.com	Theodore High School	2001.0	129.0
+482	http://www.banks-school.com	Banks School	2009.0	16.0
+483	http://www.shstigers.com	Springville High School	2001.0	142.0
+484	http://www.leeco.us/	Lee County	2006.0	105.0
+485	http://www.acboe.net/	Autauga School District	2009.0	244.0
+486	http://www.spanishfortelementary.com	Spanish Fort Elementary School	2006.0	5818.0
+487	http://fayetteal.org/	Fayette Alabama City	2004.0	173.0
+488	http://www.albme.org/	Medical Examiners, Board of	2000.0	90.0
+490	http://www.shelbycountyalabama.com/	Shelby County	2004.0	614.0
+491	http://ali.state.al.us/	Law Institute, Alabama	2001.0	23.0
+492	http://fonde.mce.schoolinsites.com	Elizabeth Fonde Elementary School	2001.0	14.0
+493	http://darmiddle.marshallk12.org/	Kate Duncan Smith DAR Middle	2010.0	41.0
+495	http://www.cityofscottsboro.com/	City of Scottsboro City	2002.0	613.0
+497	http://meadowview.selmacityschools.org	Meadowview Elementary School	2009.0	8.0
+498	http://www.walkercountycenteroftechnology.com	Walker County Center Of Technology	2012.0	2.0
+499	http://monroeville.al.mce.schoolinsites.com/	Monroeville Elementary School	2010.0	62.0
+500	http://fps.chambersk12.org	Five Points Elementary School	0.0	14.0
+501	http://www.mhspanthers.com/	Murphy High School	2001.0	755.0
+502	http://www.cleburne.schoolinsites.com/?iurl=www.cleburnecareertech.net&purl=	Cleburne County Career Technical School	0.0	63.0
+503	http://www.pcboe.net/lps/index.html	Lakewood Primary School	2012.0	0.0
+504	http://www.bscc.cc.al.us/	Bishop State Community College	1997.0	1353.0
+505	http://blountcountycareertech.weebly.com/	Blount County Career Technical Center	2013.0	20.0
+506	http://www.sulligenthighschool.com/	Sulligent School	2004.0	12.0
+507	http://lamarcountyschools.net	Lamar School District	2007.0	615.0
+508	http://www.phillipsprep.com/	Phillips Preparatory Middle School	2003.0	85.0
+509	http://www.cityofgardendale.com/	Gardendale City	2002.0	147.0
+511	http://www.asbrf.alabama.gov	Foresters, Board of Registration for	2005.0	1.0
+512	http://www.pcboe.us/pcis/	Phenix City Intermediate School	2008.0	0.0
+513	http://hrtg.madisoncity.k12.al.us	Heritage Elementary School	2001.0	0.0
+514	http://www.bhamcityschools.org/tuggle	Tuggle Elementary School	2014.0	0.0
+515	http://whs.tcboe.org	Winterboro High School	2003.0	0.0
+517	http://cacc.ccboe.org	Cullman County Area Career Center	2011.0	26.0
+518	http://wilcox.wch.schoolinsites.com/	Wilcox Central High School	2008.0	0.0
+519	http://www.dalecountyal.org/	Dale County	2008.0	0.0
+521	http://wfes.tuscaloosacityschools.com	Woodland ForreSt. Elementary School	2013.0	9.0
+523	http://chastang.mcm.schoolinsites.com	Elizabeth S Chastang Middle School	2001.0	0.0
+524	http://www.collinsvillealabama.net/	CollinsvilleAlabama.net City	2000.0	0.0
+525	http://www.mtnbrook.k12.al.us/cb	Cherokee Bend Elementary School	1996.0	0.0
+527	http://www.guntersville-high.com	Guntersville High School	2001.0	0.0
+528	http://www.seda-shoals.com/	the shoals City	1998.0	0.0
+529	http://www.tallaco.com	Tallapoosa County	2007.0	0.0
+530	http://fhs.tcboe.org	Fayetteville High School	2003.0	0.0
+531	http://www.children.mps-al.org/	Childrens Center	2011.0	0.0
+532	http://www.thomasvilleal.com	Thomasville Online City	2001.0	0.0
+534	http://www.townofthorsby.com	Town of Thorsby City	2010.0	0.0
+535	http://www.adfs.alabama.gov	Forensic Sciences, Department of	2007.0	54.0
+537	http://www.bhamcityschools.org/avondale	Avondale Elementary School	2014.0	0.0
+538	http://www.nbctschool.com	North Baldwin Center For Technology	2006.0	5747.0
+539	http://www.bhamcityschools.org/phillips	Phillips Academy	2013.0	8609.0
+540	http://www.elbertaelementary.com	Elberta Elementary School	2006.0	5772.0
+541	http://www.sdcinc.org	Southern Development Council, Inc.	1997.0	6.0
+542	http://www.selmaalabama.com/	City	1999.0	59.0
+544	http://cleveland.bce.schoolinsites.com/	Cleveland Elementary School	2009.0	35.0
+545	http://www.chickasawschools.com/	Mobile School District	2012.0	293.0
+546	http://www.smspartans.com	Saraland Middle School/Adams Campus	2009.0	33.0
+547	http://www.aecb.alabama.gov	Electrical Contractors Board	2007.0	15.0
+548	http://shields.al.mch.schoolinsites.com/	J F Shields High School	2010.0	29.0
+550	http://www.shelbyed.k12.al.us/schools/mhs/index.htm	Montevallo High School	2001.0	17.0
+551	http://www.arec.alabama.gov	Real Estate Commission	2005.0	60.0
+553	http://www.moodyelementaryschool.org	Moody Elementary School	2007.0	28.0
+554	http://www.dallask12.org/	Bruce K Craig Elementary School	2002.0	946.0
+556	http://www.shelbyed.k12.al.us/schools/chhs/	Chelsea High School	2002.0	56.0
+557	http://www.shelbyed.k12.al.us/schools/ves/index.htm	Vincent Elementary School	2001.0	21.0
+558	http://mertz.mce.schoolinsites.com	Eichold-Mertz Elementary School	2001.0	1.0
+559	http://lhs.chambersk12.org	Lafayette High School	0.0	13.0
+560	http://ww1.taylorwhite.mce.schoolinsite.com/	Taylor White Elementary School	0.0	1.0
+563	http://www.ccpl.lib.al.us	Chilton-Clanton Public Library	0.0	5.0
+565	http://alisondb.legislature.state.al.us/acas/acaslogin.asp	House of Representatives : Alabama Legislature Information System Online	2008.0	45.0
+566	http://www.medicaid.alabama.gov/	Medicaid Agency	2005.0	36.0
+567	http://www.franklincountyal.org/	Franklin County	2010.0	6.0
+569	http://bryant.mcv.schoolinsites.com	George H Bryant Vocational-Agricultural Center	2005.0	14.0
+570	http://www.talladega-cs.net/default.htm	C L Salter Elementary School	2008.0	444.0
+571	http://www.wpdavidson.org/	WP Davidson High School	2007.0	85.0
+573	http://www.randolph.k12.al.us	Randolph-Roanoke Career Technology Center	2002.0	683.0
+574	http://lhs.tcboe.org	Lincoln High School	2003.0	108.0
+578	http://www.daleville.k12.al.us/	A M Windham Elementary School	2001.0	216.0
+579	http://www.bhamcityschools.org/ramsay	Ramsay High School	2012.0	8666.0
+580	http://www.dstc.cc.al.us/	J.F. Drake, State Technical College	1998.0	1001.0
+581	http://sres.tcboe.org	Stemley Road Elementary School	2003.0	14.0
+582	http://www.centralbaldwinmiddle.com	Central Baldwin Middle School	2006.0	5710.0
+583	http://www.robertsdalehigh.com	Robertsdale High School	2003.0	5744.0
+584	http://www.cityofdadevilleal.org	Dadeville Area City	2011.0	998.0
+585	http://continuous.mcc.schoolinsites.com/	Continuous Learning Center	2005.0	32.0
+586	http://www.henrycountyal.com/	Henry County	2004.0	54.0
+587	http://www.chilton.k12.al.us	W A Lecroy Career / Technical Center	2001.0	334.0
+590	http://www.bcbe.org	Baldwin School District	1999.0	8.0
+592	http://www.straughnelementary.com	Straughn Elementary School	2006.0	2.0
+593	http://www.ashvilleelementary.com	Ashville Elementary School	2008.0	36.0
+595	http://wfb.chambersk12.org	W F Burns Middle School	2013.0	13.0
+596	http://www.ecboe.org/ghs	Glencoe High School	2008.0	0.0
+597	http://www.morningview.mps-al.org/	Morningview Elementary School	2010.0	21.0
+598	http://phs.mcbe.net	Phillips High School	2007.0	1.0
+599	http://www.shelbyed.k12.al.us/schools/ses/index.htm	Shelby Elementary School	2001.0	12.0
+600	http://www.childersburg.org/library/	Earle A. Rainwater Memorial Library	2009.0	2.0
+601	http://www.bhamcityschools.org/kennedy	Kennedy Alternative	2014.0	8454.0
+602	http://walterwellborn.al.cch.schoolinsites.com/	Wellborn High School	2010.0	49.0
+604	http://www.cleburne.schoolinsites.com/?iurl=www.ranburneelementary.net&purl=	Ranburne Elementary School	0.0	63.0
+605	http://www.cleburne.schoolinsites.com/?iurl=www.fruithurstelementary.net&purl=	FruithurSt. Elementary School	0.0	63.0
+606	http://ohatcheeelementary.weebly.com/	Ohatchee Elementary School	2012.0	24.0
+607	http://www.pikecountyschools.com	Pike County Alternative Learning Center	1999.0	947.0
+608	http://www.goshenelem.com	Goshen Elementary School	2011.0	18.0
+610	http://grandbay.mcm.schoolinsites.com	Grand Bay Middle School	2001.0	14.0
+611	http://girard.al.dce.schoolinsites.com/	Girard Elementary School	2009.0	118.0
+613	http://www.ecboe.org/rms	Rainbow Middle School	2006.0	0.0
+614	http://www.shelbyed.k12.al.us/schools/schs/index.htm	Shelby County High School	2001.0	33.0
+615	http://wpm.ccboe.org	WeSt. Point Middle School	2011.0	34.0
+616	http://www.vestavia.k12.al.us/cahabaelementary/	Vestavia Hills Elementary Cahaba Heights	2010.0	55.0
+617	http://rcms-rcsd-al.schoolloop.com/	Russell County Middle School	2010.0	2370.0
+618	http://www.fairhopeintermediate.com	Fairhope Intermediate School	2007.0	5733.0
+620	http://www.southalabama.edu/	South Alabama, University of	1998.0	1527.0
+621	http://socialwork.alabama.gov	Social Workers Examiners, Alabama State Board of	2004.0	34.0
+624	http://www.shelbycounty-al.org	Columbiana Public Library	1999.0	210.0
+625	http://www.mh.alabama.gov/	Mental Health, Department of	2006.0	227.0
+626	http://www.calhoun.k12.al.us/schools/ae/	Alexandria Elementary School	2001.0	1.0
+627	http://edgewood.selmacityschools.org	Edgewood Elementary School	2009.0	8.0
+630	http://www.jonesboroelementary.com	Jonesboro Elementary School	2007.0	16.0
+631	http://www.bayminetteintermediate.com	Bay Minette Intermediate School	2006.0	5697.0
+633	http://rain.mcs.schoolinsites.com	Ben C Rain High School	2001.0	21.0
+635	http://psychology.alabama.gov	Psychology, Board of Examiners	2007.0	19.0
+636	http://www.fairhopems.com	Fairhope Middle School	2006.0	5750.0
+637	http://www.cedarbluff-al.org/	Cedar Bluff City	1999.0	101.0
+638	http://www.athens.edu/	Athens State University	1996.0	991.0
+640	http://www.shelbyed.k12.al.us/schools/wes/index.htm	Wilsonville Elementary School	2000.0	10.0
+641	http://www.maconk12.org	George Washington Carver Elementary School	2001.0	10783.0
+642	http://bis.boazk12.org/	Boaz Intermediate School	2013.0	1002.0
+643	http://www.headlandelementary.org	Headland Elementary School	2003.0	288.0
+644	http://www.townofdoublesprings.com/	Town of Double Springs City	2009.0	28.0
+645	http://www.arabcityschools.org	Marshall School District	0.0	852.0
+646	http://visitfoley.org/	Foley Convention and Visitors Bureau City	2011.0	462.0
+648	http://www.chisholm.mps-al.org/	Chisholm Elementary School	2010.0	26.0
+649	http://www.spanishfortmiddle.com	Spanish Fort Middle School	2007.0	5731.0
+651	http://pleasantgrove.jefcoed.com/	Pleasant Grove Middle School	2013.0	87.0
+654	http://www.cityofandalusia.com	City of Andalusia City	2004.0	684.0
+655	http://www.archives.alabama.gov	Archives and History	2006.0	1373.0
+658	http://www.bhamcityschools.org/parker	Parker High School	2012.0	8671.0
+659	http://www.vestavia.k12.al.us/pizitzmiddle/?CFID=5907755&CFTOKEN=48292354	Pizitz Middle School	0.0	72.0
+661	http://ww1.booth.mce.schoolinsite.com/	Anna F Booth Elementary School	0.0	1.0
+662	http://www.ua.edu/	Alabama, University of	1997.0	2163.0
+663	http://brewtoncity.schoolinsites.com/	TR Miller High School	2007.0	454.0
+664	http://www.springvillealabama.org	Springville City	2007.0	0.0
+665	http://www.mps.k12.al.us	Montgomery School District	1999.0	0.0
+666	http://sod.selmacityschools.org	School Of Discovery Genesis Center	2009.0	0.0
+667	http://wes.cullmancats.net	WeSt. Elementary School	2002.0	0.0
+670	http://whiteplainselementary.weebly.com/	White Plains Elementary School	2012.0	0.0
+671	http://www.cleburneschools.net	Cleburne School District	2001.0	0.0
+672	http://www.garrett.mps-al.org/	Garrett Elementary School	2010.0	0.0
+673	https://sites.google.com/site/lowndescountymiddleschoolsite/	Lowndes County Middle School	0.0	0.0
+674	http://www.abn.alabama.gov	Nursing, Board of	2007.0	330.0
+675	http://www.crump.mps-al.org/	Crump Elementary School	2010.0	0.0
+676	http://www.shelbyed.k12.al.us/schools/scas/index.htm	New Direction	2008.0	0.0
+678	http://pinedale.al.ece.schoolinsites.com/	Pinedale Elementary School	2009.0	0.0
+680	http://www.ecboe.org/wehs	WeSt. End High School	2004.0	0.0
+681	http://www.pintlala.mps-al.org/	Pintlala Elementary School	2010.0	0.0
+682	http://www.halek12.org	Hale County Technology Center	2001.0	0.0
+683	http://collegestreet.al.ece.schoolinsites.com/	College Street Elementary School	2009.0	0.0
+684	http://www.perrycounty-al.org/	Perry County	2002.0	0.0
+685	http://asbvme.alabama.gov/	Veterinary Medical Exam Board	2010.0	14.0
+686	http://www.cityofcalera.org/	Calera City	1999.0	0.0
+687	http://www.mckeemid.mps-al.org/	McKee Middle School	2010.0	0.0
+688	http://www.jeffcointouch.com/	Jefferson County	1998.0	0.0
+689	http://www.carr.mps-al.org/	Carr Middle School	2010.0	0.0
+691	http://www.westlimestonehigh.org	WeSt. Limestone High School	2004.0	0.0
+692	http://www.cpyrwma.alabama.gov	Choctawhatchee, Pea and Yellow Rivers Watershed Management Authority	2006.0	2.0
+693	http://www.auditor.alabama.gov	Auditor	2006.0	18.0
+694	http://satsumahigh.al.sch.schoolinsites.com/	Satsuma High School	2012.0	0.0
+695	http://www.cleburne.schoolinsites.com/?iurl=www.ranburnehigh.net&purl=	Ranburne High School	0.0	0.0
+696	http://www.aboc.alabama.gov	Cosmetology, Board of	2007.0	14.0
+697	http://www.oppcityschools.com/ohs/home	Opp High School	0.0	0.0
+699	http://nelson.scottsboroschools.net	Thurston T Nelson Elementary School	2005.0	0.0
+700	http://www.shspartans.com	Saraland High School	2007.0	0.0
+702	http://www.decatur.lib.al.us	Decatur Public Library	2002.0	0.0
+703	http://www.alexandercityonline.com/	Alexander City City	2002.0	0.0
+704	http://www.rbcalabama.com/index.shtml	Welcome to Rainbow City City	2006.0	0.0
+705	http://www.apoabf.alabama.gov	Peace Officers Annuity Fund	2007.0	0.0
+706	http://www.dothan.com/	Dothan Area Chamber of Commerce City	1996.0	0.0
+707	http://www.hamiltonchamberofcommerce.org/cityservices.aspx	Clyde Nix Public Library	2013.0	31.0
+708	http://www.robbinselementary.com/	WD Robbins Elementary School	2010.0	62.0
+709	http://www.talladegacountyal.org/	Talladega County	2003.0	60.0
+710	http://www.cityofvalley.com/	Valley City	2001.0	407.0
+711	http://alarc.org/	Regional Councils, Alabama Association of	1999.0	46.0
+712	http://pleasantgrovehigh.jefcoed.com/	Pleasant Grove High School	2013.0	21.0
+714	http://ww25.anniston-k12.org/	Golden Springs Elementary School	2012.0	1.0
+715	http://www.sos.alabama.gov	Secretary of State	2006.0	526.0
+716	http://www.ls.cc.al.us/	Lawson State Community College	1998.0	754.0
+717	http://www.ahfa.com/	Housing Finance Authority, Alabama	1997.0	152.0
+718	http://www.genevacountyschools.com	Geneva School District	2004.0	678.0
+719	http://www.genevacityschools.com	Mulkey Elementary School	2010.0	510.0
+720	http://www.troyschools.net	Troy-Pike Regional Center For Technology	2002.0	545.0
+721	http://www.oppchamber.com/chamber-of-commerce/chamber.html	Opp/Covington County Chamber of Commerce City	2012.0	0.0
+722	http://www.cityofchelsea.com	City of Chelsea City	2001.0	107.0
+723	http://www.pikecountyelem.com	Pike County Elementary School	2009.0	16.0
+724	http://www.saraland.org/	Saraland City	1999.0	197.0
+725	http://www.fsb.alabama.gov	Funeral Service, Board of	2009.0	14.0
+727	http://aowb.alabama.gov	Onsite Wastewater Board	2007.0	2.0
+728	http://gilliard.mce.schoolinsites.com	Dr. Robert W. Gilliard Elementary	2006.0	14.0
+729	http://www.morgank12.org	Morgan County Learning Center	2001.0	1019.0
+731	http://www.oxfordalabama.org/	Oxford City	1998.0	288.0
+732	http://www.alabamadancecouncil.org/	Alabama State Council on the Arts : Alabama Dance Council	2003.0	63.0
+733	http://meadowlake.mce.schoolinsites.com	Meadowlake Elementary	2001.0	14.0
+734	http://www.apostc.state.al.us/	Peace Officers Standards & Training, Alabama	1999.0	3.0
+735	http://genevaes.genevacountyschools.com/	Geneva County Elementary School	2007.0	81.0
+736	http://www.lcschools.org	Lauderdale County High School	2001.0	983.0
+737	http://nhs.tuscaloosacityschools.com	Northridge High School	2013.0	10.0
+738	http://www.daphnelibrary.org	Daphne Public Library	2011.0	158.0
+739	http://www.sumter.k12.al.us/	Bell-Brown Career Technical Center	2006.0	241.0
+740	http://irondalecom.jefcoed.com/	Irondale Community School	2013.0	43.0
+741	http://www.calhoun.k12.al.us	Calhoun School District	1998.0	27.0
+742	http://www.robertsdale.org/	City of Robertsdale City	2005.0	213.0
+743	http://johnessex.mch.schoolinsites.com	John Essex High School	2007.0	63.0
+744	http://www.bhamcityschools.org/princeton	Princeton Alternative School	2014.0	8393.0
+745	http://www.ecboe.org/sshs	Southside High School	2013.0	0.0
+746	http://le-rcsd-al.schoolloop.com	Ladonia Elementary School	2010.0	9313.0
+747	http://www.troy-pike-tech.com	Troy-Pike Center For Technology	2009.0	14.0
+748	http://www.cityofabbeville.org/	City of Abbeville City	2003.0	62.0
+750	http://pathway.mcs.schoolinsites.com	The Pathway	2011.0	14.0
+752	http://www.naturalbridgeala.com	Town of Natural Bridge City	2009.0	0.0
+754	http://appalachianschool.blount.k12.al.us	Appalachian  School	2002.0	148.0
+755	http://www.hsvchamber.org	Chamber of Commerce City	1997.0	614.0
+756	http://www.swiftschool.org	Swift Consolidated Elementary School	2003.0	5785.0
+757	http://www-rucker.army.mil/	Ft. Rucker - Home of Army Aviation City	1996.0	363.0
+758	http://www.nixon.mps-al.org/	Nixon Elementary School	2010.0	37.0
+759	http://www.leedsalabama.com/	Leeds Alabama City	2000.0	10.0
+761	http://www.ohatcheeindians.net/	Ohatchee High School	2012.0	39.0
+762	http://www.bhamcityschools.org/arrington	Arrington Middle School	2013.0	8460.0
+763	http://www.enterprisealabama.com/	Enterprise Chamber of Commerce City	1999.0	189.0
+764	http://www.mtnbrook.org/	Mountain Brok City	1998.0	260.0
+765	http://www.childprotect.org/	Child Protect	1998.0	21.0
+766	http://www.hamiltonchamberofcommerce.org/	Hamilton City	2011.0	31.0
+768	http://www.abcboard.alabama.gov/(S(yqw0tc0tugws0et4i5cdwr2i))/default.aspx	Alcoholic Beverage Control Board	2012.0	97.0
+769	http://www.marshallk12.org	Brindlee Mountain Elementary School	2000.0	265.0
+770	http://www.shelbyed.k12.al.us/schools/lnlc/index.htm	Linda Nolen Learning Center	2001.0	11.0
+771	http://www.brewtech.mps-al.org/	Brewbaker Technology Magnet High School	2010.0	184.0
+772	http://www.gsmsdolphins.com/	Gulf Shores Middle School	2007.0	5803.0
+773	http://lauderdalecountyonline.com/	Lauderdale County	2001.0	51.0
+774	http://www.lanettcityschools.org/	Lanett Senior High School	2002.0	171.0
+775	http://www.daphnemiddleschool.com	Daphne Middle School	2004.0	5842.0
+776	http://www.odenvilleelementary.org	Odenville Elementary School	2008.0	2.0
+777	http://shoalschamber.com/	Shoals Chamber of Commerce City	2000.0	32.0
+778	http://www.cityyork.com	City of York City	2010.0	1.0
+779	http://www.greenville-bcpl.org/	Greenville-Butler County Public Library	2011.0	380.0
+780	http://www.shelbyed.k12.al.us/schools/ces/index.htm	Calera Elementary	2001.0	12.0
+781	http://www.foleyelementary.com	Foley Elementary School	2006.0	6102.0
+785	http://www.halcyon.mps-al.org/	Halcyon Elementary School	2010.0	114.0
+786	http://vmm.ccboe.org	Vinemont Middle School	2011.0	26.0
+787	http://www.shelbyed.k12.al.us/schools/omis/index.htm	Oak Mountain Intermediate School	2001.0	14.0
+789	http://www.bhamcityschools.org/gleniris	Glen Iris Elementary School	2014.0	8881.0
+790	http://www.walkercountyschools.com/pes/	Parrish Elementary School	2001.0	267.0
+792	http://weaverelementaryschool.weebly.com/	Weaver Elementary School	2012.0	14.0
+793	http://www.walkercountyschools.com/ches/	Carbon Hill Elementary-Junior High School	2001.0	176.0
+794	http://www.cullmancats.net	Cullman Community Comprehensive Learning Center	2002.0	695.0
+796	http://fruitdale.al.wch.schoolinsites.com	Fruitdale High School	2008.0	30.0
+797	http://www.henrycountyboe.org	Henry County Virtual Campus	2005.0	533.0
+799	http://www.revenue.alabama.gov	Revenue, Alabama Department of	2005.0	13.0
+801	http://www.rosinton.com	Rosinton School	2007.0	6033.0
+802	http://www.alabamafilm.org/	Commerce, Alabama Department of : Film Office	2001.0	7.0
+803	http://www.spacecamp.com/	Space Science Exhibit Commission, Alabama	1996.0	46.0
+805	http://www.clementshigh.org	Clements High School	2004.0	10.0
+806	http://collins.scottsboroschools.net	Collins Intermediate School	2004.0	10.0
+807	http://www.eschamber.com/	Eastern Shore Chamber of Commerce City	0.0	71.0
+808	http://monroeville.al.mcj.schoolinsites.com/	Monroeville Middle School	2010.0	16.0
+809	http://www.walkercountyschools.com/dhs/	Dora High School	2002.0	191.0
+810	http://smithsstation.lch.schoolsites.com	Smiths Station High School	0.0	0.0
+811	http://www.auburn.edu/	Auburn University	1996.0	2020.0
+812	http://www.dolphin1.org/	Hollingers Island Elementary School	2008.0	195.0
+813	http://www.mobilecountyal.gov/	Mobile County	2008.0	95.0
+814	http://www.lcsk12.org	Limestone School District	2002.0	583.0
+816	http://wmes.madisoncity.k12.al.us	WeSt. Madison Elementary School	2001.0	28.0
+817	http://www.godogs.us/lchs/index.htm	Lamar County High-Intermediate	2007.0	17.0
+819	http://www.gsesdolphins.com	Gulf Shores Elementary School	2006.0	6113.0
+822	http://butlerco.ghs.schoolfusion.us	Greenville High School	2009.0	1588.0
+823	http://www.al.ngb.army.mil/Pages/Default.aspx	Military Department : National Guard, Alabama	2011.0	34.0
+824	http://bridgeport.jce.schoolinsites.com/	Bridgeport Elementary School	2005.0	26.0
+825	http://houstonelementaryschool.blogspot.com	Evelyn D Houston Elementary School	2013.0	27.0
+827	http://www.amhc.alabama.gov	Manufactured Housing Commission	2007.0	7.0
+828	http://www.susanmoorebulldogs.com	Susan Moore High School	2003.0	47.0
+830	http://www.lowndesboe.org	Jackson-Steele Elementary School	2001.0	179.0
+831	http://www.oppcityschools.com/oes/home	Opp Elementary School	0.0	103.0
+832	http://luverne.cch.schoolinsites.com	Luverne High School	2007.0	11.0
+834	http://www.hartsellechamber.org/	Hartselle Area Chamber of Commerce City	2013.0	471.0
+835	http://slocombhs.genevacountyschools.com/	Slocomb High School	2007.0	39.0
+836	http://hatton.al.lch.schoolinsites.com/	Hatton High School	2010.0	25.0
+837	http://www.walkercountyschools.com/curryhs/	Curry High School	2002.0	231.0
+838	http://www.owenselementary.org	Owens Elementary School	2004.0	11.0
+839	http://www.auctioneer.alabama.gov	Auctioneers, Board of	2006.0	27.0
+841	http://www.duranjuniorhigh.net	Duran Junior High School	2004.0	14.0
+844	http://www.claylibrary.com	Clay Public Library	2012.0	45.0
+845	http://gpwlibrary.org/	Green Pond-Woodstock  Library	2011.0	15.0
+846	http://www.alabama.gov/	State Web Site	2002.0	570.0
+847	http://www.claychalkvillehigh.com	Clay-Chalkville High School	2001.0	2581.0
+848	http://www.alabamaadr.org/	Bar, Alabama State : Dispute Resolution, Alabama Center for	2000.0	84.0
+851	http://www.leedsk12.org	Jefferson School District	2007.0	260.0
+852	http://www.vestavia.k12.al.us/centralelementary/?CFID=5907778&CFTOKEN=49650844	Vestavia Hills Elementary Central	0.0	37.0
+853	http://foresthill.mce.schoolinsites.com/	ForeSt. Hill Elementary School	2006.0	43.0
+854	http://pell-city.com/	City of Pell City City	2013.0	120.0
+856	http://www.escambiacountylibrary.com	Escambia County Cooperative Library	2011.0	8.0
+857	http://www.hgardens.mps-al.org/	Highland Gardens Elementary School	2010.0	42.0
+859	http://www.alstudentaid.com/website/alaid/home	Student Aid System	2009.0	105.0
+860	http://www.bhamcityschools.org/jonesvalley	Jones Valley Middle School	2012.0	8717.0
+861	http://asc.alabama.gov	Securities Commission, Alabama	2007.0	178.0
+862	http://www.ogb.alabama.gov	Oil and Gas Board, Alabama State	2007.0	51.0
+863	http://www.bessemertech.com/	Bessemer State Technical College	2000.0	1.0
+864	http://www.auburnchamber.com/	Auburn Chamber City	1996.0	78.0
+865	http://www.smsbulldogs.com/	Semmes Middle School	2008.0	164.0
+866	http://dawes3-5.mce.schoolinsites.com/	Dawes Intermediate School	2010.0	46.0
+867	http://sylvansprings.net/	SylvanSprings.net City	2007.0	10.0
+869	http://bjhs.madisoncity.k12.al.us	Bob Jones High School	2000.0	119.0
+870	http://bayminetteelementary.com	Bay Minette Elementary School	2005.0	0.0
+874	http://www.edenelementaryschool.com/	Eden Elementary School	2004.0	58.0
+875	http://www.franklincountyschools.com	EaSt. Franklin Junior High School	2004.0	1.0
+876	http://www2.youseemore.com/cerl/Default.asp	Carl Elliott Regional Library	2010.0	391.0
+877	http://oids.alabama.gov	Finance, Department of : Indigent Defense Services	2012.0	2.0
+878	http://cornerel.jefcoed.com	Corner School	2013.0	20.0
+880	http://www.stclaircountyschools.net/	Odenville Intermediate School	2001.0	294.0
+882	http://www.jadavismiddleschool.com	Bessemer City Middle School	2006.0	12.0
+883	http://www.cityofbrewton.org/	City of Brewton City	2003.0	94.0
+884	http://www.foleyintermediate.org	Foley Intermediate School	2006.0	6050.0
+886	http://www.ccpls.com	Cullman County Public Library	1998.0	43.0
+887	http://www.townofoakgrove.org/	Town of Oak Grove City	2002.0	22.0
+888	http://www.sbs.alabama.gov/	Finance, Department of : State Business Systems	2008.0	3.0
+889	http://www.mft.alabama.gov	Marriage and Family Therapy, Board of Examiners in	2007.0	45.0
+890	http://www.hutchenselementary.org/	Hutchens Elementary School	2011.0	54.0
+891	http://ctf.alabama.gov	Child Abuse & Neglect Prevention	2007.0	14.0
+892	http://www.pcboe.net/sgs/	South Girard School	2001.0	0.0
+893	http://thomasvilleschools.org	Thomasville Elementary School	2001.0	164.0
+894	http://www.asrb.alabama.gov	Alabama Security Regulatory Board	2010.0	14.0
+895	http://aidb.org/	Institute for Deaf and Blind	1998.0	1222.0
+896	http://www.ecboe.org/sardis	Sardis High School	2004.0	0.0
+897	http://www.alexandercity.org/	Chamber of Commerce City	2000.0	83.0
+898	http://www.nsmbison.com	North Sand Mountain School	2008.0	12.0
+900	http://leeelementary.al.sce.schoolinsites.com/	Robert E. Lee Elementary	2012.0	37.0
+901	http://ees.chambersk12.org	Lafayette Eastside Elementary School	0.0	13.0
+902	http://www.fcs.k12.al.us/hibbett/	Hibbett School	2001.0	0.0
+905	http://cornerhigh.jefcoed.com	Corner High School	2013.0	31.0
+906	http://www.summerdaleschool.com	Summerdale School	2006.0	6069.0
+907	http://reab.alabama.gov	Real Estate Appraisers Board	2007.0	28.0
+908	http://www.disl.org/	Marine Environmental Sciences Consortium	1998.0	499.0
+909	http://www.saralandboe.com	Mobile School District	2011.0	865.0
+911	http://ohs.tuscaloosacityschools.com	Oak Hill School	0.0	11.0
+912	http://www.walkercountyschools.com/sipsey/	Sipsey Junior High School	2001.0	188.0
+913	http://marengocounty.schoolinsites.com	Marengo School District	2007.0	215.0
+915	http://www.godogs.us/ves/indexe.html	Vernon Elementary School	2009.0	2.0
+918	http://www.dalraida.mps-al.org/	Dalraida Elementary School	2010.0	39.0
+920	http://www.bessemeral.org	Bessemer City	2002.0	970.0
+921	http://www.co.morgan.al.us/	Morgan County	2001.0	31.0
+922	http://genevaalabama.com/	Geneva Chamber of Commerce City	2000.0	11.0
+923	http://www.robertsdaleelementary.com	Robertsdale Elementary School	2003.0	6097.0
+924	http://www.houstoncounty.org/	Houston County	1998.0	242.0
+925	http://www.opelikaschools.org/oms/	Opelika Middle School	2008.0	8.0
+926	http://tmsm.tuscaloosacityschools.com	Tuscaloosa Magnet School - Middle	2013.0	69.0
+927	http://www.cherokeek12.org/	Cherokee County Career & Technology Center	2005.0	77.0
+928	http://www.lmn.lib.al.us	Courtland Public Library	1998.0	6.0
+929	https://sites.google.com/site/grovehilllibrary/	Grove Hill Public Library	2011.0	17.0
+930	http://chs.cullmancats.net	Cullman High School	2002.0	274.0
+931	http://www.fairfieldcityschoolsystem.com	Robinson Elementary School	2005.0	6681.0
+932	http://grandview.al.dce.schoolinsites.com/	Grandview Elementary School	2009.0	280.0
+933	http://www.iolaroberts.net/	Iola Roberts Elementary School	2004.0	45.0
+934	http://wpi.ccboe.org	WeSt. Point Intermediate School	2011.0	23.0
+935	http://aps.arabcityschools.org	Arab Primary School	0.0	735.0
+937	http://www.tcschools.com	Tallassee Elementary School	2004.0	318.0
+938	http://www.jcsboe.org	Calhoun School District	0.0	212.0
+939	http://www.bhamcityschools.org/smith	Smith Middle School	2013.0	8889.0
+941	http://www.auburnschools.org/ahs/	Auburn High School	1999.0	14.0
+942	http://www.clarkecountyschools.org	Grove Hill Elementary School	2003.0	560.0
+943	http://www.cityofaliceville.com	Aliceville City	2007.0	1.0
+944	http://birminghambusinessalliance.com/	Birmingham Chamber City	2010.0	483.0
+945	http://www.bhamcityschools.org/putnam	WE Putnam Middle School-Magnet	2014.0	8807.0
+946	http://upms.tuscaloosacityschools.com	University Place Middle School	0.0	10.0
+947	http://jpp.chambersk12.org	John P Powell Middle School	2013.0	14.0
+949	http://www.cityofcarbonhill.com/	City of Carbon Hill City	2010.0	21.0
+950	http://monroe.al.mch.schoolinsites.com/	Monroe County High School	2010.0	80.0
+954	http://www.stapletonelementary.com	Stapleton School	2006.0	6038.0
+955	http://www.huntsvillemiddle.org	Huntsville Middle School	2012.0	40.0
+956	http://lindencity.org	Marengo School District	2003.0	13.0
+957	http://www.daleville.org/	Daleville - Gateway to Ft. Rucker City	2000.0	401.0
+958	http://www.brewpri.mps-al.org/	Brewbaker Primary School	2010.0	22.0
+959	http://www.bhamcityschools.org/bushms	Bush K-8	2012.0	8830.0
+960	http://cityofalbertville.com/175/library.aspx	Albertville Public Library	2011.0	2.0
+962	http://matthewselementary.tcss.net/site/default.aspx?PageID=49	Matthews Elementary School	2013.0	6.0
+963	http://res.madisoncity.k12.al.us	Rainbow Elementary School	2001.0	10.0
+964	http://finance.alabama.gov/pages/accounting.aspx	Finance, Department of : Accounting	2008.0	36.0
+965	http://jchs.madisoncity.k12.al.us	James Clemens High School	2012.0	141.0
+966	http://www.ache.alabama.gov	Education, Commission on Higher	2007.0	366.0
+968	http://www.sectionlions.com	Section High School	2005.0	11.0
+970	http://www.brundidge.org/	Brundidge City	2001.0	186.0
+971	http://www.adss.alabama.gov	Senior Services, Department of	2007.0	17.0
+972	https://www.accs.cc/	Education, Postsecondary : College System, Alabama	2008.0	330.0
+973	http://www.susanmoore.al.bce.schoolinsites.com/	Susan Moore Elementary School	2009.0	86.0
+976	http://www.ecboe.org/gms	Glencoe Middle School	2004.0	0.0
+978	http://www.alasu.edu/index.aspx	Alabama State University	0.0	1872.0
+979	http://www.coosaves.net/	Coosa Valley Elementary School	2007.0	40.0
+980	https://www.accs.cc/?PROCESSLOGOUT=false	CommunityCollege System	2014.0	330.0
+982	http://www.pinelevelelem.com	Pine Level Elementary School	2010.0	14.0
+983	http://hall.mce.schoolinsites.com	George Hall Elementary School	2004.0	11.0
+984	http://chs.tcboe.org	Childersburg High School	2003.0	11.0
+985	http://www.bmstigers.com	Bridgeport Middle School	2007.0	11.0
+986	http://www.scs.k12.al.us	Colbert School District	1999.0	104.0
+987	http://www.personnel.alabama.gov	Personnel Department	2007.0	582.0
+988	http://www.alexandercityschools.net	Nathaniel H Stephens Elementary School	0.0	479.0
+989	http://www.hueytown.com/	Hueytown City	1998.0	27.0
+990	http://www.anad.army.mil/	Army Depot City	1999.0	86.0
+991	http://snowrogersel.jefcoed.com/	Snow Rogers Elementary School	2013.0	26.0
+992	http://www.legislature.state.al.us/	House of Representatives	1998.0	106.0
+993	http://lott.mcm.schoolinsites.com	Lott Middle School	2004.0	12.0
+994	http://www.cherokee-elementary.com	Cherokee Elementary School	2001.0	49.0
+995	http://www.tuscaloosacityschools.com	Tuscaloosa School District	2002.0	16.0
+996	http://www.dot.state.al.us	Transportation Department	1997.0	53.0
+997	http://www.southlawnelem.mps-al.org/	Southlawn Elementary School	2010.0	63.0
+998	http://www.loveless.mps-al.org/	Loveless Academic Magnet Program High School	2010.0	136.0
+999	http://holtville.ech.schoolinsites.com/	Holtville High School	2005.0	20.0
+1000	http://www.deshlermiddle.org	Deshler Middle School	2009.0	13.0
+1001	http://cedarpark.selmacityschools.org/	Cedar Park Elementary School	2009.0	25.0
+1002	http://www.treasury.alabama.gov/Content/index.aspx	Treasury Department	2006.0	42.0
+1003	https://sites.google.com/a/wcslive.com/bankhead-middle-school/	Bankhead Middle School	0.0	61.0
+1004	http://www.algeobd.alabama.gov	Geologists, Board of Licensure for Professional	2007.0	33.0
+1006	http://www.auburnschools.org/ogletree/	Ogletree Elementary School	1999.0	4.0
+1007	http://www.mtnbrook.k12.al.us/ces	Crestline Elementary School	1996.0	2555.0
+1008	http://bhs.chambersk12.org	Bob Harding-Shawmut Elementary	2013.0	13.0
+1009	http://vigor.mcs.schoolinsites.com	CF Vigor High School	2001.0	17.0
+1010	http://greensborohigh.al.hch.schoolinsites.com/	Greensboro High School	2013.0	37.0
+1012	http://www.tuscaloosa.com/	City of Tuscaloosa City	1999.0	342.0
+1014	http://www.cityofwetumpka.com/	Wetumpka City	2004.0	132.0
+1015	http://www.florencek12.org/ffc/	Florence Freshman Center	0.0	0.0
+1016	http://williamson.mcs.schoolinsites.com/	Lillie B Williamson High School	2001.0	61.0
+1017	http://www.bhamcityschools.org/hayes	Hayes K-8	2014.0	8938.0
+1018	http://blackbeltaction.alabama.gov/	Blackbelt Action Commission	2007.0	1.0
+1019	http://www.optometry.alabama.gov	Optometry, Board of	2007.0	12.0
+1020	http://rqes.tuscaloosacityschools.com	Rock Quarry Elementary School	2013.0	9.0
+1021	http://www.butlerco.k12.al.us	Butler School District	2000.0	440.0
+1022	http://media.alabama.gov/pr/list.aspx	Media : Information Services	2008.0	34.0
+1023	http://www.davis.mps-al.org/	Davis Elementary School	2010.0	55.0
+1024	http://www.greene.k12.al.us	Peter J Kirksey Career Center	2005.0	647.0
+1026	http://lineville.cce.schoolinsites.com	Lineville Elementary School	2010.0	10.0
+1027	http://www.cleburne.schoolinsites.com/?iurl=www.cleburnehigh.net&purl=	Cleburne County High School	0.0	61.0
+1028	http://webmini.apls.state.al.us/apls_web/greensboro/	Hale County Library	2013.0	16.0
+1029	http://www.walkercountyschools.com/oes/	Oakman Middle School	2001.0	233.0
+1031	http://www.bhamcityschools.org/lewis	Lewis Elementary School	2014.0	8820.0
+1033	http://www.abec.alabama.gov	Counseling, Board of  Examiners in	2007.0	17.0
+1034	http://www.adem.alabama.gov/default.cnt	Environmental Management, Alabama Department of	2010.0	296.0
+1035	http://www.townofmagnoliasprings.org/	Magnolia Springs City	2007.0	44.0
+1036	http://www.lee.k12.al.us	South Smiths Station Elementary School	1998.0	272.0
+1037	http://regional.mcs.schoolinsites.com	SW Alabama Regional School Deaf-Blind	2004.0	16.0
+1038	http://users.nehp.net/readme/	Grant Public Library	2003.0	33.0
+1039	http://honeysuckle.al.dcm.schoolinsites.com/	Honeysuckle Middle School	2009.0	99.0
+1040	http://scarborough.mcm.schoolinsites.com	CL Scarborough Middle School	2001.0	11.0
+1041	http://upes.tuscaloosacityschools.com	University Place Elementary School	0.0	9.0
+1042	http://www.alacourt.gov	Courts, Administrative Office of	2003.0	25.0
+1043	http://www.goodwyn.mps-al.org/	Goodwyn Middle School	2010.0	13.0
+1044	http://www.summerdalealabama.com/	SummerdaleAlabama.com City	2001.0	98.0
+1045	http://tcss.schoolwires.net/site/default.aspx?PageID=1	Myrtlewood Elementary School	2011.0	7.0
+1046	http://www.gardendalelibrary.org/	Gardendale-Martha Moore Public Library	2013.0	262.0
+1047	http://rlyoung.blogspot.com	Raymond L Young Elementary School	2010.0	2620.0
+1048	http://abrams.bcse.schoolinsites.com	Abrams Elementary School	2004.0	13.0
+1050	http://www.brookwoodalabama.com/	Town of Brookwood City	2001.0	77.0
+1052	http://faine.al.dce.schoolinsites.com/	Faine Elementary School	2009.0	53.0
+1053	http://carver.al.dcm.schoolinsites.com/	Carver Magnet School	2009.0	56.0
+1054	http://www.cityofwarrior.com	City of Warrior City	2011.0	42.0
+1055	http://beauregard.lch.schoolinsites.com	Beauregard High School	2008.0	15.0
+1056	http://www.crossvillealabama.com/	Crossville City	2000.0	37.0
+1057	http://www.gwash.mps-al.org/	Georgia Washington Middle School	2010.0	34.0
+1058	http://www.jacksonville-al.org/	Jacksonville Alabama City	2000.0	145.0
+1059	http://www.gcs.k12.al.us	Therapeutic Academic Program	1998.0	96.0
+1060	http://www.alabama.gov/portal/index.jsp	State Government	2006.0	570.0
+1061	http://www.abbevillehighschool.com	Abbeville High School	2003.0	72.0
+1062	http://www.walkercountyschools.com/Default.asp	Walker County Schools 180 Program	2010.0	754.0
+1064	http://www.moodypubliclibr.org/	Doris Stanley Memorial Library	2011.0	20.0
+1065	http://www.bhamcityschools.org/hudson	Hudson K-Eight School	2013.0	9034.0
+1066	http://www.walkercounty.com/	Walker County	1998.0	95.0
+1068	http://www.pikeroad.us	Town of Pike Road City	2008.0	49.0
+1069	http://beverlye.al.dcm.schoolinsites.com/	Beverlye Magnet School	2009.0	61.0
+1070	http://www.cityofsemmes.org	City of Semmes City	2010.0	38.0
+1072	http://www.evergreenal.org	EvergreenAL.com City	2008.0	113.0
+1073	http://www.townofbrantley.com/	Town of Brantley City	2001.0	10.0
+1074	http://www.auburnschools.org	Lee School District	1998.0	45.0
+1075	http://www.haydenelementary.com/	Hayden Elementary School	2006.0	25.0
+1077	http://bbces.tcboe.org	BB Comer Memorial Elementary School	2003.0	35.0
+1078	http://www.cityofandalusia.com/leisure-services/library.html	Andalusia Public Library	2011.0	53.0
+1079	http://www.faulknerstate.edu/	Faulkner State Community College	2002.0	572.0
+1080	http://www.barbourschools.org	Barbour School District	2007.0	118.0
+1081	http://www.cityofclay.com	City of Clay City	2000.0	2073.0
+1082	http://www.va.alabama.gov	Veterans Affairs, Department of	2007.0	116.0
+1083	http://www.shelbyed.k12.al.us/schools/ies/index.htm	Inverness Elementary School	2000.0	16.0
+1084	http://www.baldwincountyhighschool.com	Baldwin County High School	2002.0	6159.0
+1086	http://selmastreet.al.dce.schoolinsites.com/	Selma Street Elementary School	2009.0	417.0
+1087	http://www.drycleaningtrustfund.alabama.gov	Drycleaning Environmental TruSt. Fund Advisory Board	2006.0	22.0
+1088	http://www.bhamcityschools.org/wilkerson	Wilkerson Middle School	2013.0	8853.0
+1089	http://www.alabamavotes.gov	Voter Registration	2008.0	60.0
+1090	http://www.vestavia.k12.al.us	Jefferson School District	2000.0	232.0
+1093	http://www.madeinalabama.com/	Foreign Trade Relations Commission	2013.0	581.0
+1094	http://www.pjhscats.com	Prattville Junior High School	2009.0	13.0
+1095	http://unionhillschool.al.mcs.schoolinsites.com/	Union Hill School	2012.0	30.0
+1096	http://abc.wce.schoolinsites.com	ABC Elementary	2008.0	10.0
+1097	http://lamarcountyschooloftechnology.weebly.com/	Lamar County School Of Technology	2012.0	9.0
+1099	http://www.montgomerychamber.com/	Montgomery Chamber City	2000.0	149.0
+1100	http://www.carverelem.mps-al.org/	Carver Elementary School	2010.0	51.0
+1101	http://www.colbertcounty.org/	Colbert County	2000.0	23.0
+1102	http://www.goshenhs.com	Goshen High School	2009.0	48.0
+1103	http://cloverdale.al.dce.schoolinsites.com/	Cloverdale Elementary School	2009.0	230.0
+1104	http://www.fayettecountyal.com	Fayette County	2013.0	26.0
+1105	http://ces.tcboe.org	Childersburg Elementary School	2003.0	11.0
+1106	http://www.welcometospanishfort.com/splash.asp	Welcome to Spanish Fort City	2006.0	3.0
+1107	http://www.mcbe.net	Marion County Alternative School	2007.0	28.0
+1108	http://www.prattvillekindergarten.com/	Prattville Kindergarten School	2003.0	52.0
+1109	http://www.ecboe.org/carlisle	Carlisle Elementary School	2004.0	0.0
+1111	http://www.gulfshores.com/	City	1996.0	1958.0
+1112	http://www.aptv.org/	Educational Television, Alabama Public Television	1996.0	2801.0
+1115	http://www.chamberscountylibrary.org	H. Grady Bradshaw-Chambers County Library	2007.0	138.0
+1116	http://www.dhr.alabama.gov	Human Resources, Alabama Department of	2007.0	25.0
+1117	http://davis.mce.schoolinsites.com	Nan Gray Davis Elementary School	2001.0	11.0
+1118	http://www.vestaviahills.org/	Vestavia Hills City	1998.0	314.0
+1119	http://www.spanishforttoros.org	Spanish Fort High School	2009.0	6308.0
+1120	http://www.ozarkalabama.org/	City of Ozark City	1999.0	106.0
+1121	http://shpda.alabama.gov	Health Planning and Development, State (SHPDA)	2007.0	27.0
+1122	http://www.dcsedu.com/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Marengo School District	2014.0	2.0
+1123	http://www.aidt.edu/	Industrial Development Training, Alabama	1996.0	57.0
+1124	http://www.rbhudson.selmacityschools.org/	R.B.Hudson Middle School	0.0	38.0
+1125	http://haydenprimary.org	Hayden Primary School	2011.0	60.0
+1126	http://ems.tuscaloosacityschools.com	Eastwood Middle School	2013.0	21.0
+1128	http://www.tva.gov	Tennessee Valley Authority	1997.0	464.0
+1129	http://selmahigh.selmacityschools.org	Selma High School	2009.0	5.0
+1131	http://www.pvraiders.org/	Pleasant Valley High School	2013.0	34.0
+1132	http://beulah.lch.schoolinsites.com	Beulah High School	2008.0	50.0
+1133	http://hollyhill.al.ece.schoolinsites.com	Holly Hill Elementary School	2009.0	11.0
+1134	http://www.genevacounty.us/aboutgenevacounty/cities/slocomb.aspx	City of Slocomb City	2011.0	5.0
+1136	http://www.lee.mps-al.org/	Lee High School	2011.0	21.0
+1137	http://pantherpages.weebly.com/	Wellborn Elementary School	2012.0	23.0
+1138	http://nes.tuscaloosacityschools.com	Northington Elementary School	0.0	10.0
+1139	http://www.vestavia.k12.al.us/vestaviahigh/	Vestavia Hills High School	2009.0	51.0
+1140	http://mcadory.jefcoed.com/	McAdory Middle School	2013.0	22.0
+1142	http://www.acs-k12.org	James L Cowart Elementary School	2001.0	650.0
+1143	http://sweetwater.mch.schoolinsites.com	Sweet Water High School	2007.0	15.0
+1144	http://brookwoodmiddle.tcss.net/site/default.aspx?PageID=15	Brookwood Middle School	2013.0	4.0
+1147	http://www.ucpmobile.org	UCP Of Mobile Inc	2008.0	251.0
+1148	http://www.comptroller.alabama.gov	Finance, Department of : State Comptroller	2007.0	3.0
+1150	http://www.walkercountyschools.com/curryes/	Curry Elementary School	2001.0	214.0
+1151	http://www.cotacoschool.com/	Cotaco School	2010.0	65.0
+1153	http://www.bakerhighschool.com/	Baker High School	2000.0	319.0
+1154	http://www.clarkecountyal.com/	Clarke County	2006.0	62.0
+1155	http://www.alseib.org	Employees Health Insurance Board, State	2008.0	110.0
+1156	http://www.dekalbk12.org/sylvania/	Sylvania School	2001.0	1.0
+1157	http://gchs.gcs.k12.al.us/	Gadsden City High School	2008.0	85.0
+1158	http://www.pcboe.net/wes/index.html	Westview Elementary School	2001.0	23.0
+1159	http://www.duttonschool.org/	Dutton Elementary School	2007.0	45.0
+1160	http://www.ci.madison.al.us/	Welcome to Madison City	2000.0	1009.0
+1162	http://www.phenixcityal.us/	City of Phenix City City	2003.0	230.0
+1163	http://www.fcs.k12.al.us/weeden/index.html	Weeden Elementary School	2002.0	0.0
+1164	http://www.courtlandalabama.com/	Courtland Alabama City	2004.0	2.0
+1166	http://www.piedmontcity.org/	City	2001.0	6.0
+1167	http://www.bhamcityschools.org/huffmanacademy	Huffman Academy	2014.0	8942.0
+1168	http://www.albertk12.org	Big Spring Lake Kindergarten School	1999.0	322.0
+1170	http://www.mscs.k12.al.us	Muscle Shoals Center For Technology	2001.0	320.0
+1176	http://www.enterpriselibrary.org	Enterprise Public Library	2006.0	50.0
+1180	http://www.westhillselementaryschool.com	Westhills Elementary School	2007.0	12.0
+1181	http://www.vinahighschool.com/	Vina High School	2011.0	30.0
+1182	http://www.brierfieldironworks.com/	Brierfield Ironworks Historical State Park	2000.0	2.0
+1183	http://www.cityofbrentalabama.com	Bibb County City	2008.0	34.0
+1184	http://harrandcreek.al.ece.schoolinsites.com/	Harrand Creek Elementary School	2009.0	238.0
+1185	http://www.bibbed.org/wes/	Woodstock Elementary School	2002.0	20.0
+1186	http://www.bhamcityschools.org/hemphill	Hemphill Elementary School	2014.0	8844.0
+1187	http://brantley.cch.schoolinsites.com	Brantley High School	2007.0	61.0
+1189	http://www.chatom.org/	Town of Chatom City	2004.0	6.0
+1194	http://ema.alabama.gov/	Emergency Management Agency, Alabama	2005.0	24.0
+1195	http://www.crenshawcounty.schoolinsites.com	Crenshaw School District	2007.0	215.0
+1196	http://www.walkercountyschools.com/ohs/	Oakman High School	2001.0	196.0
+1197	http://leinkauf.mce.schoolinsites.com	Leinkauf Elementary School	2001.0	11.0
+1198	http://bayoulabatrechamber.com/	Bayou la Batre AL City	2004.0	5.0
+1199	http://pgfb.alabama.gov	Plumbers and Gas Fitters Examining Board	2008.0	16.0
+1200	http://www.homewood.k12.al.us	Jefferson School District	2000.0	528.0
+1201	http://www.guinal.org	City of Guin City	2000.0	46.0
+1203	http://northview.al.dch.schoolinsites.com/	Northview High School	2009.0	224.0
+1204	http://www.cleburne.schoolinsites.com/?iurl=www.cleburne.al.ccm.schoolinsites.com&purl=	Cleburne County Middle School	0.0	61.0
+1206	http://www.hvac.alabama.gov	Heating and Air Conditioning Contractors, Board of	2007.0	13.0
+1207	http://www.homewood.k12.al.us/edgewood/	Edgewood Elementary School	2002.0	42.0
+1208	http://www.cityofepesalabama.com	City of Epes City	2007.0	20.0
+1209	http://www.macmillan.mps-al.org/	MacMillan International at McKee	2010.0	80.0
+1211	http://www.waresferry.mps-al.org/	Wares Ferry Elementary School	2010.0	30.0
+1213	http://www.cityofjacksonal.com	City of Jackson City	2010.0	20.0
+1214	http://www.hblb.alabama.gov	Home Builders Licensure Board	2007.0	21.0
+1215	http://www.fayette.k12.al.us	Fayette County High School	2002.0	519.0
+1216	http://semmes.mce.schoolinsites.com	Semmes Elementary School	2001.0	204.0
+1217	http://www.cullmanchamber.org/	Cullman Chamber City	1998.0	23.0
+1218	http://www.cityofcolumbiana.com	City of Columbiana City	2001.0	193.0
+1219	http://www.talladegalibrary.com	Armstrong-Osborne Public Library	2013.0	49.0
+1221	http://www.careertechnical.org	Limestone County Area Vocational Technology	2004.0	47.0
+1222	http://pricevilleelem.al.mce.schoolinsites.com/	Priceville Elementary School	2012.0	88.0
+1223	http://newhorizon.bcsa.schoolinsites.com	New Horizon Alternative School	2006.0	12.0
+1224	http://www.wilsonvilleal.com/	Wilsonville City	2010.0	31.0
+1225	http://www.athensmiddle.org	Athens Middle School	2006.0	26.0
+1227	http://www.btw.mps-al.org/	Booker T Washington Magnet High School	2010.0	67.0
+1228	http://holloway.mce.schoolinsites.com/	Holloway Elementary	2001.0	28.0
+1229	http://butlerco.ges.schoolfusion.us	Greenville Elementary School	2012.0	574.0
+1230	http://skyline.jch.schoolinsites.com	Skyline High School	2005.0	12.0
+1231	http://www.pcboe.net	Russell School District	2000.0	45.0
+1232	http://hrzn.madisoncity.k12.al.us	Horizon Elementary School	2001.0	9.0
+1233	http://www.chamberscountyal.gov	Chambers County	2012.0	48.0
+1234	http://www.elmoreco.com	Airport Road Intermediate School	2001.0	214.0
+1235	http://www.bear.mps-al.org/	Bear Exploration Center	2010.0	13.0
+1236	http://www.bhamcityschools.org/jacksonolin	Jackson-Olin High School	2014.0	8969.0
+1238	http://www.wilcox.k12.al.us/	Wilcox County Alternative School	2009.0	391.0
+1239	http://morningside.mce.schoolinsites.com	Morningside Elementary School	2001.0	7.0
+1240	http://www.geneva.gcs.schoolinsites.com/	Geneva Middle School	2006.0	16.0
+1241	http://www.bibbed.org	WeSt. Blocton Elementary School	2001.0	33.0
+1242	http://www.elkmonthigh.org	Elkmont High School	2004.0	143.0
+1243	http://www.vestavia.k12.al.us/libertyparkmiddle/	Liberty Park Middle School	2009.0	57.0
+1244	http://www.vestavia.k12.al.us/libertyparkelementary/?CFID=5907811&CFTOKEN=97775013	Liberty Park Elementary	0.0	42.0
+1245	http://johnwill.mce.schoolinsites.com	John Will Elementary School	2005.0	63.0
+1247	http://www.mooresvilleal.com/	Mooresville Festival 2005 City	0.0	97.0
+1248	http://www.budget.alabama.gov	Finance, Department of : Executive Budget Office	2003.0	6.0
+1249	http://www.insurance.alabama.gov	Insurance, Department of : State Fire Marshal	2007.0	738.0
+1250	http://fcml.org/	Fayette County Memorial Library	2006.0	7.0
+1251	http://www.co.escambia.al.us/	Escambia County	2002.0	27.0
+1252	http://www.shelbyed.k12.al.us/schools/vmhs/index.htm	Vincent Middle High School	2001.0	16.0
+1253	http://www.ci.livingston.al.us/	City of Livingston City	2000.0	39.0
+1255	http://boaz.net/city/	Boaz City	1999.0	27.0
+1257	http://ces.madisoncity.k12.al.us	Columbia Elementary School	2004.0	29.0
+1258	http://hueytown.jefcoed.com/	Hueytown Middle School	2013.0	25.0
+1259	http://www.polygraph.alabama.gov	Polygraph Examiners, Board of	2003.0	9.0
+1260	http://www.annistonschools.com	Randolph Park Elementary School	2005.0	7.0
+1262	http://knox.selmacityschools.org	Knox Elementary School	2009.0	5.0
+1263	http://www.shelbyed.k12.al.us/schools/mtles/index.htm	Mt Laurel Elementary School	2004.0	13.0
+1264	http://www.learning-tree.org/	The Learning Tree	2003.0	122.0
+1266	http://www.moodybluedevils.org/	Moody High School	2006.0	1.0
+1267	http://www.coffeecounty.us	Coffee County	2004.0	51.0
+1268	http://www.baileyton-al.com/	City	2001.0	1.0
+1269	http://www.bhamcityschools.org/robinson	Robinson Elementary School	2014.0	8900.0
+1270	http://www.adph.org/	Health, Alabama Department of Public	2002.0	160.0
+1271	http://www.eastlimestonehigh.org	EaSt. Limestone High School	2004.0	23.0
+1273	http://www.auburnschools.org/ajhs/	Auburn Junior High School	2002.0	86.0
+1275	http://www.tannehill.org/	Tannehill Ironworks Historical State Park	1998.0	13.0
+1277	http://www.bhamcityschools.org/christian	Christian Alternative School	2012.0	8996.0
+1279	http://www.eolib.org	Emmet O'Neal Public Library	1998.0	1.0
+1280	http://www.perrycountyal.org/	Uniontown Elementary School	2008.0	164.0
+1281	http://www.nwscc.cc.al.us/	Northwest-Shoals Community College	1998.0	2.0
+1282	http://www.shelbyed.k12.al.us/schools/cahs/index.htm	Calera High	2008.0	30.0
+1283	http://www.rockwellelem.org/	Rockwell Elementary School	2006.0	6146.0
+1284	http://marionalabama.org/	Marion, The College City City	2001.0	33.0
+1285	http://www.acawt.org	Woodworking Technology, Alabama Center For Advanced	2003.0	0.0
+1286	http://www.lawrencealabama.com/	Lawrence County	2003.0	16.0
+1288	http://www.ecboe.org/ducksprings	Duck Springs Elementary School	2003.0	0.0
+1289	http://www.woodvilleonline.com/	Woodville City	2004.0	1.0
+1290	http://www.dothan.org/	Welcome to Dothan City	1998.0	887.0
+1293	http://www.brookhillelementary.org	Brookhill Elementary School	2005.0	11.0
+1295	http://www.cheaharegionallibrary.org	Annie L. Awbrey Public Library	2001.0	21.0
+1296	http://www.finance.alabama.gov	Finance, Department of	2006.0	23.0
+1297	http://www.bc.alabama.gov	Building Commission	2007.0	3.0
+1298	http://www.auburnalabama.org/library/Default.aspx?PageID=97	Auburn Public Library	2010.0	63.0
+1299	http://citronellechamber.com/	The City of Citronelle City	2002.0	20.0
+1300	http://www.doc.alabama.gov	Corrections, Department of	2007.0	66.0
+1301	http://bigsandyelementary.tcss.net/site/default.aspx?PageID=9	Big Sandy Elementary	2013.0	6.0
+1302	http://sakshigh.wix.com/saks-high-school	Saks High School	2013.0	1.0
+1303	http://www.chelsealibraryonline.com	Chelsea Public Library	2013.0	46.0
+1304	http://www.shelbyed.k12.al.us/schools/rms/index.htm	Riverchase Middle School	2001.0	0.0
+1305	http://www.pace.mps-al.org/	Progressive Academy of Creative Education	2010.0	41.0
+1306	http://www.shelbyed.k12.al.us/schools/his/index.htm	Helena Intermediate School	2002.0	13.0
+1307	http://www.designalabama.org	Alabama State Council on the Arts : DesignAlabama	2001.0	9.0
+1309	http://www.financepersonnel.alabama.gov	Finance, Department of : Personnel	2007.0	2.0
+1310	http://chs.tuscaloosacityschools.com	Central High School	2013.0	12.0
+1311	http://Whiteplainshigh.weebly.com/	White Plains High School	2011.0	1.0
+1313	http://bessemer.bcst.schoolinsites.com	Bessemer Center For Technology	2004.0	61.0
+1314	http://www.montevallo.edu/	Montevallo, University of	1997.0	845.0
+1315	http://ashfordcitygovernment.com/start.php	Town of Ashford City	2010.0	24.0
+1316	http://beulah.lce.schoolinsites.com	Beulah Elementary School	2009.0	12.0
+1317	http://www.southlawnmid.mps-al.org/	Southlawn Middle School	2010.0	19.0
+1318	http://www.shelbyed.k12.al.us/schools/omes/index.htm	Oak Mountain Elementary School	2000.0	12.0
+1319	http://www.hartselle.org/wp/	Hartselle City	2009.0	243.0
+1321	http://www.walkercountyschools.com/lupton/	Lupton Junior High School	2001.0	47.0
+1322	http://www.johnsonelementary.org	Johnson Elementary School	2004.0	86.0
+1324	http://brownwood.scottsboroschools.net	Brownwood Elementary School	2006.0	7.0
+1325	http://terry.al.dce.schoolinsites.com	JE Terry Elementary School	2010.0	19.0
+1326	http://www.cullmancity.org/	The City of Cullman City	2000.0	15.0
+1327	http://www.avl.lib.al.us/	Library, Alabama Virtual	2000.0	23.0
+1328	http://www.bellingrath.mps-al.org/	Bellingrath Middle School	2010.0	148.0
+1329	http://byrd.selmacityschools.org/	Byrd Elementary School	2009.0	19.0
+1330	http://www.chsindians.org	Cherokee High School	2010.0	21.0
+1332	http://www.pikecountyhs.com	Pike County High School	2009.0	22.0
+1333	http://www.tuscaloosachildrenscenter.org/	Tuscaloosa Children's Center	2001.0	16.0
+1334	http://www.baldwincat.org/	Baldwin County Library Cooperative	2011.0	9.0
+1335	http://www.bhamcityschools.org/oxmoor	Oxmoor K-5	2013.0	8864.0
+1336	http://www.tcss.net/site/default.aspx?PageID=1	Huntington Place Elementary School	2011.0	7.0
+1337	http://www.vestavia.k12.al.us/eastelementary/?CFID=5907819&CFTOKEN=63397488	EaSt. Elementary	0.0	102.0
+1338	http://www.boa.alabama.gov	Architects, Board for Registration of	2007.0	48.0
+1339	http://monroe.al.mci.schoolinsites.com/	Monroe Intermediate School	2010.0	206.0
+1340	http://www.gsa.alabama.gov	Geological Survey of Alabama	2008.0	51.0
+1341	http://www.carversr.mps-al.org/	Carver Senior High School	2010.0	49.0
+1343	http://www.bhamcityschools.org/ossiewaremitchell	Ossie Ware Mitchell Middle School	2013.0	8871.0
+1344	http://dunbar.mcm.schoolinsites.com	Dunbar Creative Performing Arts	2001.0	12.0
+1345	http://www.surface-mining.alabama.gov	Surface Mining Commission, Alabama	2007.0	12.0
+1347	http://www.genconbd.alabama.gov	General Contractors, Licensing	2007.0	48.0
+1350	http://www.capitol.mps-al.org/	Capitol Heights Middle School	2010.0	25.0
+1351	http://blount.mcs.schoolinsites.com	Mattie T Blount High School	2001.0	24.0
+1352	http://www.fesk5.com/	Falkville Elementary School	2013.0	44.0
+1353	http://www.clevelandhighschool.net	Cleveland High School	2008.0	12.0
+1355	http://www.walkercountyschools.com/curryms/	Curry Middle School	2001.0	174.0
+1356	http://www.athenshighschool.org	Athens High School	2004.0	17.0
+1358	http://webmini.apls.state.al.us/apls_web/eclectic/	Eclectic Public Library	0.0	23.0
+1359	http://ww1.grant.mce.schoolinsite.com/	Grant Elementary School	0.0	1.0
+1360	http://wilmer.mce.schoolinsites.com	Wilmer Elementary School	2001.0	11.0
+1361	http://www.cityofmuscleshoals.com/	Muscle Shoals City	2002.0	148.0
+1362	http://www.alabar.org/	Bar, Alabama State	1997.0	707.0
+1363	http://www.fortdeposit.info/library/	Fort Deposit Public Library	2007.0	1.0
+1364	http://www.oppcityschools.com	Covington School District	2002.0	744.0
+1366	http://governor.alabama.gov/	Governor, Office of the	2004.0	948.0
+1367	http://www.coffeecountyschools.org	New Brockton Elementary School	2008.0	331.0
+1368	http://www.lakeguntersville.org/	Welcome to Guntersville City	1997.0	94.0
+1369	http://causey.mcm.schoolinsites.com	Bernice J Causey Middle School	2001.0	39.0
+1372	http://www.cityofsouthside.com/	The City of Southside City	2001.0	521.0
+1373	http://www.cityofheflin.org/	Welcome to Heflin City	2000.0	1.0
+1374	http://www.almtbd.alabama.gov	Massage Therapy, Board of	2007.0	34.0
+1375	http://www.hcboe.us	Houston County Area Vocational Center	2002.0	64.0
+1376	http://pickenslibrary.com/	Aliceville Public Library	2013.0	8.0
+1377	http://www.guntersvilleboe.com	Marshall School District	2002.0	338.0
+1378	http://www.cityofsatsuma.com	City of Satsuma City	2002.0	31.0
+1379	http://www.blount.mps-al.org/	Blount Elementary School	2010.0	37.0
+1381	http://www.gadsdenlibrary.org	Gadsden-Etowah County Public Library	2008.0	9.0
+1382	http://wpmiddle.weebly.com/	White Plains Middle School	2012.0	57.0
+1383	http://www.servealabama.gov/	Governors Office of Faith Based and Community Initiatives	2004.0	228.0
+1385	http://denton.mcm.schoolinsites.com/	Jeremiah A Denton Middle School	2003.0	117.0
+1387	http://www.headlandhigh.org	Headland High School	2004.0	14.0
+1388	http://pillans.mcm.schoolinsites.com	Pillans Middle School	2001.0	11.0
+1389	http://www.autaugaco.org	Autauga County	2007.0	197.0
+1393	http://www.shorteralabama.com/	Shorter City	2001.0	30.0
+1394	http://www.fairhopelibrary.org	Fairhope Public Library	2001.0	19.0
+1398	http://www.cityofbayminette.org/	City of Bay Minette City	2003.0	44.0
+1399	http://www.troyalabama.com/	City of Troy City	1998.0	10.0
+1400	http://phoenix.selmacityschools.org	Phoenix School	2009.0	5.0
+1401	http://www.cov.k12.al.us	Red Level Elementary School	2005.0	379.0
+1402	http://collinsrhodes.mce.schoolinsites.com	Collins-Rhodes Elementary School	2007.0	141.0
+1403	http://bdadj.alabama.gov/default.aspx	Finance, Department of : Board of Adjustments	2008.0	17.0
+1404	http://www.brewtoncityschools.org/	Escambia School District	2002.0	464.0
+1407	http://hatchechubbee.com	Hatchechubbee, AL 36858 City	1999.0	152.0
+1408	http://www.rcs.k12.al.us	Franklin School District	0.0	880.0
+1409	http://etowahcounty.org/	Etowah County	2000.0	169.0
+1410	http://madisoncountyal.gov/	Madison County	2011.0	21.0
+1412	http://allentown.mce.schoolinsites.com	Allentown Elementary School	2001.0	21.0
+1414	http://butlerco.ms.schoolfusion.us	McKenzie High School	2010.0	1139.0
+1415	http://www.dentalboard.org	Dental Examiners, Board of	2002.0	18.0
+1416	http://www.sbctschool.com	South Baldwin Center For Technology	2006.0	6091.0
+1417	http://www.foleylibrary.org	Foley Public Library	2002.0	43.0
+1419	http://www.cityofmontevallo.com/	Montevallo City	1998.0	75.0
+1420	http://www.aesbl.alabama.gov	Electronic Security Board of Licensure	2013.0	14.0
+1421	http://ses.tcboe.org	Sycamore School	2005.0	14.0
+1422	http://ww35.brookwoodelementary.net/	Brookwood Elementary School	2013.0	3.0
+1423	http://www.arts.alabama.gov	Alabama State Council on the Arts	2007.0	105.0
+1424	http://www.ago.alabama.gov	Attorney General	2004.0	207.0
+1426	http://acjic.alabama.gov	Criminal Justice Information Center, Alabama	2004.0	17.0
+1427	http://www.bibbal.com/	Bibb County	2009.0	42.0
+1428	http://www.sylacauga.k12.al.us/	Indian Valley Elementary School	2000.0	144.0
+1429	http://butlerco.bcms.schoolfusion.us	Georgiana School	2009.0	139.0
+1430	http://excel.al.mch.schoolinsites.com/	Excel High School	2010.0	36.0
+1431	http://www.elbaalabama.net	Tradition with Vision City	2005.0	47.0
+1432	http://webmini.apls.state.al.us/apls_web/hayneville/	Hayneville/Lowndes County Public Library	0.0	16.0
+1433	http://www.chiltoncounty.org	Chilton County	2004.0	2.0
+1434	http://wetumpka.ece.schoolinsites.com/	Wetumpka Elementary School	2005.0	16.0
+1435	https://www.trussvillecityschools.com/schools/pp/pages/default.aspx	Paine Primary School	2011.0	0.0
+1437	http://www.bluespringselem.org	Blue Springs Elementary School	2010.0	61.0
+1438	http://hankins.mcm.schoolinsites.com	Katherine H Hankins Middle School	2001.0	12.0
+1439	http://www.macedoniaschool.org/	Macedonia School	2003.0	29.0
+1440	http://www.apob.alabama.gov	Prosthetists and Orthotists, Board of	2005.0	12.0
+1441	http://www.sylacauga.net/	Sylacauga City	1999.0	18.0
+1443	http://www.lillian.org	Welcome to Lillian City	1999.0	53.0
+1444	http://www.goodwater.org/	Goodwater Online City	1999.0	14.0
+1445	http://bryant.mcs.schoolinsites.com	Alma Bryant High School	2005.0	136.0
+1446	http://www.lafayetteal.com	City	2001.0	10.0
+1447	http://www.walkercountyschools.com/sumiton/	Sumiton Elementary Middle School	2001.0	759.0
+1448	http://webmini.apls.state.al.us/apls_web/florala/	Florala Public Library	2013.0	16.0
+1450	http://www.tuscumbia.k12.al.us	Deshler Career Technical Center	2001.0	398.0
+1451	https://www.trussvillecityschools.com/Pages/Default.aspx	Hewitt-Trussville High School	2011.0	0.0
+1452	http://www.ascc.edu/	Alabama Southern Community College	1996.0	1417.0
+1454	http://www.auburnalabama.org/	Auburn City	1998.0	479.0
+1456	http://www.good.alabama.gov	Governors Office on Disability	2007.0	13.0
+1457	http://www.asbrt.alabama.gov	Respiratory Therapy, Alabama Board of	2005.0	6.0
+1458	http://www.indianspringsvillage.org	Indian Springs Village Online City	2002.0	399.0
+1459	http://www.archives.alabama.gov/mansion.html	Governor, Office of the : Mansion	2007.0	636.0
+1460	http://www.ethics.alabama.gov	Ethics Commission, Alabama	2008.0	22.0
+1461	http://www.attalla.k12.al.us	Attalla Elementary School	2001.0	202.0
+1462	http://www.albop.com/	Pharmacy, Board of	1998.0	24.0
+1464	http://www.shelbyed.k12.al.us/schools/ehes/index.htm	Elvin Hill Elementary School	2001.0	27.0
+1465	http://chattahoocheetrace.com/	Historic Chattahoochee Commission	2014.0	118.0
+1466	http://www.mtnbrook.k12.al.us/mbhs	Mountain Brook High School	1996.0	3394.0
+1467	http://www.leehigh.org	Lee High School	2012.0	16.0
+1468	http://www.mgmvikings.com/	Mary G Montgomery High School	2011.0	147.0
+1469	http://www.alaae.org/	Alabama State Council on the Arts : Alabama Alliance for Arts Education	2003.0	72.0
+1470	http://wop.butlerco.k12.al.us/	WO Parmer Elementary School	2012.0	478.0
+1471	http://rqms.tuscaloosacityschools.com	Rock Quary Middle School	2013.0	16.0
+1473	http://www.sylvaniaalabama.com	Sylvania City	2006.0	33.0
+1474	http://www.opelikaschools.org/ohs/	Opelika High School	2008.0	27.0
+1475	http://www.nacc.cc.al.us/default.htm	NortheaSt. Alabama Community College	2000.0	78.0
+1476	http://www.homewoodal.net/	Homewood City	2007.0	770.0
+1478	http://stevenson.jce.schoolinsites.com	Stevenson Elementary School	2005.0	11.0
+1479	http://www.luverne.org/	Welcome to City	2000.0	33.0
+1480	http://www.tallassee-al.gov/home/	Tallassee City	2013.0	7.0
+1482	http://www.bhamcityschools.org/marthagaskins	Martha Gaskins K-5	2014.0	8840.0
+1483	http://hard.bcse.schoolinsites.com	Charles F Hard Elementary School	2004.0	15.0
+1484	http://www.annistonal.gov	Anniston - The Model City City	2009.0	322.0
+1485	http://greshamel.jefcoed.com/	Gresham Elementary School	2013.0	17.0
+1486	http://www.aamu.edu/Pages/default.aspx	Alabama A & M University	2011.0	1074.0
+1488	http://www.homewood.k12.al.us/hallkent/	Hall Kent Elementary School	2002.0	581.0
+1489	http://www.daphnehs.com	Daphne High School	2007.0	6186.0
+1490	http://www.florenceal.org/	The City of Florence City	2003.0	36.0
+1491	http://dothantech.al.dct.schoolinsites.com/	Dothan Technology Center	2009.0	46.0
+1492	http://www.dadevillepubliclibrary.com	Dadeville Public Library	2007.0	23.0
+1493	http://www.ecboe.org/hbms	Hokes Bluff Middle School	0.0	0.0
+1494	http://www.bhamcityschools.org/washington	Washington Elementary School	2014.0	8860.0
+1496	http://www.ardmorehigh.org	Ardmore High School	2004.0	152.0
+1499	http://choctawcounty.al.cch.schoolinsites.com	Choctaw County High School	2010.0	61.0
+1501	http://www.jd.mps-al.org/	Jefferson Davis High School	2010.0	44.0
+1502	http://www.cityoforangebeach.com	City of Orange Beach City	2004.0	126.0
+1505	http://www.purchasing.alabama.gov	Finance, Department of : Purchasing	2006.0	54.0
+1506	http://sanford.lcm.schoolinsites.com	Sanford Middle School	2009.0	14.0
+1509	http://leflore.mcs.schoolinsites.com	John L Leflore Magnet School	2005.0	19.0
+1512	http://www.forestave.mps-al.org/	ForeSt. Avenue Elementary School	2010.0	34.0
+1513	http://www.walkercountyschools.com/valley/	Valley Junior High School	2001.0	131.0
+1514	http://www.homemed.alabama.gov	Home Medical Equipment Services Providers, Alabama Board of	2009.0	41.0
+1515	http://highland.cch.schoolinsites.com	Highland Home School	2007.0	12.0
+1517	http://www.grovehillal.com	Grove Hill AL City	2001.0	2.0
+1518	http://www.bhamcityschools.org/woodlawn	Woodlawn High School-Magnet	2013.0	9130.0
+1519	http://www.ccps.cullmancats.net	Cullman City Primary School	2002.0	904.0
+1521	http://www.pt.alabama.gov	Physical Therapy, Board of	2005.0	32.0
+1522	http://www.scottsboroschools.net	Jackson School District	2001.0	259.0
+1523	http://loachapoka.lce.schoolinsites.com	Loachapoka Elementary School	2009.0	11.0
+1524	http://www.moodyjrhigh.com	Moody Junior High School	2002.0	0.0
+1525	http://www.ccboe.org/ghm/	Good Hope Middle School	2002.0	1.0
+1526	http://www.jacksoncountyal.com/	Jackson County	2004.0	7.0
+1527	http://www.evaschool.org	Eva School	2009.0	12.0
+1528	http://griggs.mce.schoolinsites.com	WC Griggs Elementary School	2004.0	44.0
+1529	http://www.cleburne.schoolinsites.com/?iurl=www.cleburneelementary.net&purl=	Cleburne County Elementary School	0.0	61.0
+1531	http://www.walkercountyschools.com/cordovahs/	Cordova High School	2001.0	251.0
+1532	http://www.lindenalabama.net/	City of Linden City	2008.0	26.0
+1533	http://www.rcala.com/	Russell County	2009.0	6.0
+1535	http://www.fortpayne.org	City of Fort Payne City	2001.0	1215.0
+1536	http://www.walkercountyschools.com/chhs/	Carbon Hill High School	2001.0	200.0
+1539	http://tms.alabasterschools.org/	Thompson Middle School	2013.0	23.0
+1541	http://northjefferson.jefcoed.com	North Jefferson Middle School	2013.0	83.0
+1542	http://www.asdd.com/	Docks Department, Alabama State	2000.0	67.0
+1544	http://www.have.mps-al.org/	Highland Avenue Elementary School	2010.0	58.0
+1546	http://www.lfo.alabama.gov	Legislative Fiscal Office	2008.0	15.0
+1547	http://svms.tuscaloosacityschools.com	Southview Middle School	0.0	10.0
+1548	http://sky.tuscaloosacityschools.com	Skyland Elementary School	0.0	7.0
+1549	http://www.townofeclectic.com/home/	Town of Eclectic City	2011.0	52.0
+1551	http://www.jscc.cc.al.us/	Jefferson State Community College	1997.0	410.0
+1552	http://citronelle.mcs.schoolinsites.com	Citronelle High School	2001.0	213.0
+1553	http://mes.madisoncity.k12.al.us	Madison Elementary School	2001.0	28.0
+1554	http://www.oppal.com/	City of Opp City	2001.0	264.0
+1556	http://www.pgelementary.com	Pine Grove Elementary School	2006.0	6135.0
+1557	http://www.boazpubliclibrary.org	Boaz Public Library	2009.0	11.0
+1558	http://webmini.apls.state.al.us/apls_web/DekalbCountyLibraries/	DeKalb County Public Library	2013.0	1.0
+1559	http://www.riskmgt.alabama.gov	Finance, Department of : Risk Management	2006.0	30.0
+1560	http://ces.tuscaloosacityschools.com	Central Elementary School	0.0	8.0
+1561	http://shepard.mce.schoolinsites.com	Kate Shepard Elementary School	2001.0	281.0
+1562	http://pinsonvalleyhigh.jefcoed.com	Pinson Valley High School	2013.0	12.0
+1563	http://montanastreet.al.dce.schoolinsites.com/	Montana Street Magnet School	2009.0	187.0
+1564	http://camden.wc.schoolinsites.com	Camden School Of Arts & Technology	2009.0	10.0
+1565	http://www.pjhs.us/	Priceville Junior High School	2012.0	62.0
+1566	http://www.bhamcityschools.org/southhampton	South Hampton K-8	2014.0	9044.0
+1567	http://uasystem.ua.edu/	Alabama, University of : System	1999.0	202.0
+1568	http://www.piedmontmiddle.org/	Piedmont Middle School	2014.0	76.0
+1570	http://locustforkhs.blount.k12.al.us/	LocuSt. Fork High School	2002.0	574.0
+1572	http://www.adamsville.lib.al.us	Adamsville Public Library	2000.0	1.0
+1573	http://www.daphneeast.org	Daphne EaSt. Elementary School	2006.0	6182.0
+1574	http://www.pickenscountyschools.net	Pickens School District	2013.0	191.0
+1575	http://www.shelbyed.k12.al.us/schools/chms/index.htm	Chelsea Middle School	2001.0	26.0
+1576	http://www.pellcityhigh.net	Pell City High School	2004.0	126.0
+1577	http://www.examiners.alabama.gov	Examiners of Public Accounts	2007.0	14.0
+1578	http://lms.madisoncity.k12.al.us	Liberty Middle School	2000.0	33.0
+1580	http://www.abbevilleelementary.org	Abbeville Elementary School	2006.0	14.0
+1582	http://www.coosaschools.k12.al.us/	Coosa School District	2002.0	231.0
+1583	http://www.legislature.state.al.us/index.html	State Legislature	1998.0	106.0
+1585	http://orourke.mce.schoolinsites.com	O'Rourke Elementary School	2001.0	48.0
+1586	http://blacksher.al.mch.schoolinsites.com/	J U Blacksher School	2010.0	37.0
+1587	http://mhs.tcboe.org	Munford High School	2003.0	98.0
+1588	http://vanceelementary.tcss.net/site/default.aspx?PageID=71	Vance Elementary School	0.0	6.0
+1589	http://www.uniontownalabama.org/	Uniontown City	2002.0	26.0
+1591	http://www.cv.edu/	Chattahoochee Valley Community College	2002.0	273.0
+1592	http://www.magnoliaschoolk6.com	Magnolia School	2006.0	6201.0
+1593	http://bhs.tuscaloosacityschools.com	Paul W Bryant High School	2013.0	21.0
+1594	http://payne.selmacityschools.org	Payne Elementary School	2009.0	12.0
+1596	http://www.sheffieldalabama.org	Center of the Shoals City	2005.0	447.0
+1598	http://www.ftpayk12.org	Williams Avenue Elementary School	2001.0	125.0
+1599	http://castlen.mce.schoolinsites.com	Cora Castlen Elementary	2001.0	13.0
+1601	http://fvm.ccboe.org	Fairview Middle School	2011.0	28.0
+1602	http://www.cityofnorthport.org/	Northport City	2001.0	113.0
+1604	http://council.mce.schoolinsites.com	W H Council Traditional School	2001.0	51.0
+1606	http://children.alabama.gov	Children's Affairs, Department of	2006.0	58.0
+1607	http://www.flowers.mps-al.org/	Flowers Elementary School	2010.0	16.0
+1608	http://www.ccboe.org	Fairview Elementary School	2001.0	41.0
+1609	http://dothan.al.dch.schoolinsites.com/	Dothan High School	2009.0	108.0
+1610	http://le.alabama.gov/	Homeland Security, Department of	2013.0	11.0
+1611	http://www.hugedomains.com/domain_profile.cfm?d=wedoweeal&e=com	Wedowee City	0.0	1101.0
+1612	http://www.cityofmobile.org/	The City of Mobile City	2001.0	873.0
+1613	http://www.mtnbrook.k12.al.us/mbjh	Mountain Brook Junior High School	1996.0	3198.0
+1614	http://www.dodgeeagles.com	Olive J Dodge Elementary School	2010.0	44.0
+1615	http://www.ador.alabama.gov/motorvehicle/index.cfm	Revenue, Alabama Department of : Motor Vehicle Registration	2014.0	30.0
+1616	http://www.dalecountyboe.org	Midland City Elementary School	2002.0	665.0
+1617	http://margaretelementaryschool.com/	Margaret Elementary	2011.0	68.0

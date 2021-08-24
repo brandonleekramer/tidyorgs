@@ -1,0 +1,561 @@
+NodeId	NodeURL	NodeName	Year	pages
+56293	http://www.fauquiercounty.gov/government/departments/library/	Fauquier County Public Library	2002.0	108.0
+56294	http://www.courts.state.va.us/courts/gd/home.html	General District Court	2009.0	91.0
+56299	http://www.pwcgov.org/Pages/default.aspx	Independent Hill Neighborhood Library	2012.0	1612.0
+56300	http://www.tcc.edu/	Tidewater Community College	2002.0	933.0
+56301	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfkcf242jbeden	Roanoke City Public Library - Raleigh Court Branch	2011.0	490.0
+56302	http://luraypage.com/	Luray-Page County	0.0	65.0
+56303	http://www.fairfaxcounty.gov/library/branches/rb/	Richard Byrd Library	2002.0	5.0
+56304	http://www.williamsburg.com	Williamsburg Online	1996.0	1113.0
+56305	http://hcps2.hanover.k12.va.us	Hanover County Public Schools	1999.0	93.0
+56306	http://www.blackwaterlib.org/bookmobile/	Blackwater Regional Library - Outreach Bookmobile	2009.0	2.0
+56307	http://frco.k12.va.us/	Franklin County Public Schools	0.0	161.0
+56308	http://www.vbgov.com/site-info/pages/404.aspx?from=/vgn.aspx	Bayside Special Service Library	2012.0	24.0
+56310	http://www.salem.k12.va.us	Salem Public Schools	1998.0	113.0
+56311	http://www.arlingtonva.us	Arlington	2004.0	12.0
+56312	http://www.fairfaxcounty.gov/library/branches/ww/	Woodrow Wilson Library	2002.0	4.0
+56313	http://stafford.schoolfusion.us/	Stafford County Public Schools	2007.0	10493.0
+56314	http://www.dmbe.virginia.gov/	Minority Business Enterprise, Department of	2004.0	25.0
+56315	http://www.mrc.virginia.gov/	Marine Resources Commission	2004.0	903.0
+56316	http://www.arls.org/locations/rohoic-library/	Rohoic Library	2011.0	2.0
+56317	http://www.floyd.k12.va.us	Floyd County Public Schools	1998.0	105.0
+56318	http://www.fairfaxcounty.gov/library/branches/tj/	Thomas Jefferson Library	2002.0	5.0
+56320	http://www.roanokecountyva.gov/facilities.aspx?page=detail&rid=46	Roanoke County Public Library - Glenvar Branch	0.0	1624.0
+56321	http://www.roanokecountyva.gov/facilities.aspx?page=detail&rid=47	Roanoke County Public Library - Bent Mountain Branch	0.0	1711.0
+56322	http://www.roanokecountyva.gov/facilities.aspx?page=detail&rid=44	Roanoke County Public Library - Hollins Branch	0.0	1631.0
+56323	http://www.roanokecountyva.gov/facilities.aspx?page=detail&rid=45	Roanoke County Public Library - Vinton Branch	0.0	1719.0
+56324	http://www.pcva.us	Pulaski County Public Schools	2003.0	69.0
+56326	http://www.roanokecountyva.gov/facilities.aspx?page=detail&rid=48	Roanoke County Public Library - Mt. Pleasant Branch	0.0	1716.0
+56327	http://www.jmrl.org/br-louisa.htm	Louisa County Library	2004.0	4414.0
+56328	http://www.schev.edu/	State Council of Higher Education for Virginia	1997.0	483.0
+56329	http://foiacouncil.dls.virginia.gov/	Freedom of Information Advisory Council, Virginia	2009.0	63.0
+56331	http://www.co.botetourt.va.us	Botetourt County	1998.0	95.0
+56332	http://www.salemlibrary.info	Salem Public Library	2002.0	73.0
+56333	http://www.rappahannock.edu/	Rappahannock Community College	2006.0	366.0
+56334	http://galaxcarroll.lib.va.us	Galax-Carroll Regional Library	2000.0	22.0
+56335	http://www.virginiadot.org/	Transportation, Department of	2001.0	1489.0
+56337	http://radford.edu/content/radfordcore/home.html	Radford University	2011.0	324.0
+56338	http://www.iwcs.k12.va.us	Isle of Wight County Public Schools	1998.0	1093.0
+56339	http://www.pcs.k12.va.us/public/index-1.html	Pittsylvania County Public Schools	2000.0	25.0
+56340	http://gets.gc.k12.va.us/	Gloucester County Public Schools	2001.0	1282.0
+56341	http://www.varetire.org/	Retirement System, Virginia	2002.0	670.0
+56342	http://richmondpubliclibrary.org	Richmond Public Library	2001.0	235.0
+56343	http://www.acpl.us/	Amherst County Public Library - Madison Heights Branch	2002.0	587.0
+56344	http://yorkcountyschools.org	York County Public Schools	2001.0	233.0
+56345	http://www.smv.org/	Science Museum of Virginia	1999.0	1538.0
+56346	http://www.mrlib.org/Home.aspx	Massanutten Regional Library	2011.0	336.0
+56347	http://www.virginiaoutdoorsfoundation.org/	Outdoors Foundation, Virginia	2001.0	341.0
+56349	http://portals.virginia.gov/governor/cabinet	Veterans Affairs and Homeland Security, Secretary of	2014.0	2.0
+56350	http://www.poquoson.k12.va.us	Poquoson Public Schools	2009.0	20.0
+56351	http://dlas.virginia.gov/index.asp	Legislative Automated Systems, Division of	2011.0	29.0
+56352	http://www.essex.k12.va.us	Essex County Public Schools	2001.0	350.0
+56353	http://www.roanokeva.gov/../WebMgmt/ywbase61b.nsf/DocName/$library	Roanoke City Public Library	0.0	2.0
+56355	http://www.chincoteaguechamber.com	Chincoteague Chamber of Commerce	1998.0	450.0
+56356	http://www.augustacountylibrary.org	Augusta County Library - Churchville Branch Library	2005.0	130.0
+56357	http://www.frontiermuseum.org/	Frontier Culture Museum	1999.0	143.0
+56358	http://highlandlibrary.homestead.com/index.html	Highland County Public Library	2001.0	9.0
+56359	http://www.dickenson.k12.va.us	Dickenson County Public Schools	2000.0	0.0
+56360	http://www.dfs.virginia.gov/	Forensic Science, Department of	2005.0	133.0
+56362	http://www.wise.k12.va.us	Wise County Public Schools	1998.0	41.0
+56363	http://www.nvcc.edu/index.html	Northern Virginia Community College	2002.0	1229.0
+56364	http://www.lva.virginia.gov/	Library of Virginia, The	2007.0	255.0
+56365	https://www.nsu.edu/	Norfolk State University	1996.0	1310.0
+56367	http://www.ocplva.org/	Orange County Public Library	2004.0	1055.0
+56368	http://charles.va.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=6657	Charles City County Public Schools	2011.0	1.0
+56370	https://governor.virginia.gov/cabinet/	Health and Human Resources, Secretary of	2010.0	16.0
+56371	http://www.halifax.k12.va.us/news/all	Halifax County Public Schools	2013.0	63.0
+56374	http://www.parksley.com	Parksley, Town of	2000.0	9.0
+56375	http://www.doe.virginia.gov/	Education, Department of	2004.0	1859.0
+56377	http://www.highlandcounty.org	Highland County Chamber of Commerce	1999.0	231.0
+56379	http://www.wcpl.net/locations-hours/mendota.html	Washington County Public Library - Mendota	0.0	49.0
+56380	http://dela.state.va.us/dela/membios.nsf/mwebsitetl?openview	House of Delegates	2002.0	16019.0
+56381	http://www.tax.virginia.gov/	Taxation, Department of	2004.0	2205.0
+56382	http://www.jmu.edu/	James Madison University	1997.0	2632.0
+56385	http://www.suffolk.lib.va.us	Suffolk Public Library System	0.0	1645.0
+56386	http://www.henry.k12.va.us	Henry County Public Schools	2010.0	196.0
+56387	http://www.virginiaresources.org/	Resources Authority, Virginia	2000.0	23.0
+56388	http://www.visitstaunton.com/	Staunton	2008.0	59.0
+56389	http://www.arls.org	Appomattox Regional Library System	1999.0	368.0
+56390	http://www.botetourt.org/libraries/	Botetourt County Library	2014.0	6.0
+56391	http://wythegrayson.lib.va.us/rrpl.html	Rural Retreat Public Library	2011.0	24.0
+56392	http://eclipse.pagecounty.k12.va.us	Page County Public Schools	2001.0	108.0
+56394	http://www.blackwaterlib.org/carrollton/	Carrollton Library	2009.0	2.0
+56395	http://www.mrlib.org/LocationsHours/ElktonCommunityLibrary.aspx	Elkton Community Library	2012.0	336.0
+56396	http://www.vccs.edu/	Community College System, Virginia	2001.0	391.0
+56397	http://www.fairfaxcounty.gov/library/branches/ce/	Centreville Regional Library	2002.0	5.0
+56400	http://www.richmond-county.k12.va.us	Richmond County Public Schools	2001.0	609.0
+56401	http://www.fairfaxcounty.gov/library/branches/bc/	Burke Centre Library	2006.0	5.0
+56402	http://www.patrick.k12.va.us	Patrick County Public Schools	2007.0	220.0
+56404	http://www.wise.virginia.edu	University of Virginias College at Wise	1999.0	387.0
+56405	http://www.warrentononline.com	Warrenton	1997.0	8.0
+56406	http://www.frederick.k12.va.us	Frederick County Public Schools	2000.0	56.0
+56407	http://www.nr.vccs.edu/	New River Community College	2001.0	860.0
+56409	http://www.pclibs.org	Pulaski County Library System	2001.0	96.0
+56412	http://www.vsu.edu/	Virginia State University	1996.0	1056.0
+56414	https://lexedu.org/	Lexington Public Schools	2002.0	441.0
+56416	http://www.blackwaterlib.org/windsor/	Windsor Library	2009.0	2.0
+56417	http://www.shenandoah.co.lib.va.us/locations/basye-orkney	Basye-Orkney Springs Library	2009.0	21.0
+56420	http://www.clarke.k12.va.us	Clarke County Public Schools	1999.0	17.0
+56421	http://www.leectysch.com	Lee County Public Schools	1997.0	66.0
+56422	http://www.fairfaxcounty.gov/library/branches/he/	Herndon Fortnightly Library	2002.0	6.0
+56423	http://www.rockbridge.net	Rockbridge County	1996.0	35.0
+56424	http://www.fairfaxcounty.gov/library/branches/gm/	George Mason Regional Library	2002.0	6.0
+56425	http://www.shenandoahvalleyweb.com/	Shenandoah Valley Web	2000.0	57.0
+56426	http://www.discoverpowhatan.com	Powhatan - Discover Powhatan	2008.0	0.0
+56427	http://www.arls.org/locations/carson/	Carson Depot Library	2011.0	2.0
+56428	http://www.vec.virginia.gov/	Employment Commission, Virginia	2008.0	3442.0
+56429	http://www.mrlib.org/LocationsHours/ShenandoahCommunityLibrary.aspx	Shenandoah Community Library	2012.0	335.0
+56431	http://www.portsmouth-va-public-library.com/portsmouth-main-library/	Portsmouth Public Library	2013.0	2.0
+56433	http://cvcc.vccs.edu/	Central Virginia Community College	2001.0	483.0
+56435	http://www.shenandoah.co.lib.va.us/locations/fort-valley	Fort Valley Library	2009.0	21.0
+56436	http://www.dof.virginia.gov/	Forestry, Department of	2004.0	79.0
+56437	http://vsdb.k12.va.us/	Virginia School for the Deaf and Blind	0.0	35.0
+56438	http://www.osig.virginia.gov	State Inspector General	2013.0	27.0
+56439	http://www.vbgov.com/government/departments/libraries/Pages/home.aspx	Virginia Beach Public Library	2012.0	5.0
+56440	http://www.arls.org/locations/hopewell/	Maude Langhorne Nelson Library (Hopewell)	2011.0	4.0
+56441	http://www.arls.org/locations/mckenney/	Mckenney Library	2011.0	2.0
+56442	http://www.mpark.net	Manassas Park Public Schools	2000.0	480.0
+56444	http://www.historyisfun.org/contact-us.htm	Jamestown-Yorktown Foundation	2007.0	8.0
+56445	http://www.colonialhts.net	Colonial Heights Public Schools	2000.0	239.0
+56446	http://www.madisoncountyvalibrary.org	Madison County Library, Inc.	2010.0	252.0
+56450	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfk9n552jbeden	Roanoke City Public Library - Jackson Park Branch	2010.0	490.0
+56451	http://www.ccps.us	Caroline County Public Schools	2002.0	383.0
+56453	http://www.eplva.org	Essex Public Library	2003.0	887.0
+56454	http://www.apsva.us/site/default.aspx?PageID=1	Arlington County Public Schools	2011.0	479.0
+56455	http://wythe.k12.va.us	Wythe County Public Schools	2008.0	47.0
+56456	http://mychesterfieldschools.com/	Chesterfield County Public Schools	2011.0	789.0
+56457	http://www.fairfaxcounty.gov/library/branches/po/	Pohick Regional Library	2002.0	5.0
+56458	http://www.rcps.info	Roanoke Public Schools	2006.0	724.0
+56459	http://www.buc.k12.va.us	Buchanan County Public Schools	2000.0	19.0
+56460	http://www.pamunkeylibrary.org/ukw.htm	Pamunkey Regional Library - Upper King William Branch Library	2003.0	124.0
+56462	http://www.visitloudoun.org	Loudoun County Tourism	1999.0	717.0
+56463	http://www.nngov.com	Newport News, City of	2002.0	1514.0
+56464	http://www.blackwaterlib.org/waverly/	Agnes Taylor Gray Library	2009.0	2.0
+56466	http://www.rappahannocklibrary.org/	Rappahannock County Library	2001.0	777.0
+56467	http://www.longwood.edu	Longwood University	2000.0	1591.0
+56468	http://www.visitocva.com	Orange County Visitors Bureau	1999.0	13.0
+56469	http://www.martinsville.com/content.cfm/	Martinsville, Henry County Chamber	2001.0	216.0
+56471	http://www.lun.k12.va.us	Lunenburg County Public Schools	2006.0	16.0
+56472	http://www.roanokecountyva.gov/	Roanoke County Public Library	2004.0	1683.0
+56474	http://www.mcplva.org	Middlesex County Public Library - Deltaville Branch	2002.0	6.0
+56475	http://disabilitylawva.org/	Protection and Advocacy, Virginia Office for	2013.0	2.0
+56476	http://www.fairfaxcounty.gov/library/archives/	Archives Records Center For Fairfax County	2006.0	3.0
+56477	http://www.gmu.edu/	George Mason University	1998.0	38.0
+56478	http://www.urbanna.com	Urbanna, Town of	1997.0	17.0
+56479	https://www.valottery.com/	Lottery	1997.0	427.0
+56480	http://www.jtcc.edu/	John Tyler Community College	2002.0	1040.0
+56481	http://dls.virginia.gov	Legislative Services, Division of	2009.0	140.0
+56482	http://www.germanna.edu/	Germanna Community College	2006.0	1303.0
+56483	http://www.colonialheightsva.gov	Colonial Heights	2012.0	1382.0
+56484	http://www.scb.virginia.gov/	Compensation Board	2003.0	53.0
+56485	http://www.rockbridge.k12.va.us	Rockbridge County Public Schools	2006.0	57.0
+56486	http://www.harrisonburg.k12.va.us	Harrisonburg Public Schools	1998.0	258.0
+56487	http://wythegrayson.lib.va.us/wtpl.html	Whitetop Public Library	2011.0	24.0
+56488	http://division.wmlcps.org	Westmoreland County Public Schools	2007.0	282.0
+56489	http://vawg.cap.gov/	Civil Air Patrol Virginia Wing	2000.0	55.0
+56490	http://www.lcsedu.net	Lynchburg Public Schools	2005.0	1785.0
+56491	http://www.boa.virginia.gov/	Accountancy, Board of	2004.0	69.0
+56493	http://www.blackwaterlib.org/franklin/	Ruth Camp Campbell Memorial Library	2009.0	2.0
+56494	http://www.bath.k12.va.us/default.aspx	Bath County Public Schools	2008.0	862.0
+56495	http://www.fxva.com	Fairfax County Tourism	2007.0	1852.0
+56496	http://www.portofvirginia.com/	Port Authority, Virginia	2003.0	200.0
+56497	https://commonwealth.virginia.gov/	Commonwealth, Secretary of the	2003.0	91.0
+56498	https://administration.virginia.gov/	Administration, Secretary of	2003.0	41.0
+56499	http://www.mcps.org	Montgomery County Public Schools	1998.0	1460.0
+56500	http://www.fairfaxcounty.gov/library/branches/ok/	Oakton Library	2007.0	5.0
+56501	http://www.wcc.vccs.edu/	Wytheville Community College	2001.0	1374.0
+56502	https://www.trs.virginia.gov/vaMoneySearch/Account/LogOn	Unclaimed Property, Division of	2012.0	6.0
+56503	http://www.arls.org/locations/burrowsville/	Burrowsville Library	2011.0	2.0
+56504	http://www.dbhds.virginia.gov/	Behavioral Health and Developmental Services, Department of	2009.0	6351.0
+56505	http://www.townofedinburg.com	Edinburg, Town of	2007.0	2.0
+56506	http://www.co.augusta.va.us/	Augusta County	1998.0	715.0
+56508	http://www.blackwaterlib.org/claremont/	Claremont Library	2009.0	2.0
+56511	http://www.portsmouth-va-public-library.com/churchland-branch/	Portsmouth Public Library - Churchland Branch	2012.0	2.0
+56512	http://www.pamunkeylibrary.org/goochland.htm	Pamunkey Regional Library - Goochland Branch Library	2003.0	124.0
+56513	http://pps.k12.va.us	Portsmouth Public Schools	1997.0	1104.0
+56514	http://www.bcps.k12.va.us	Botetourt County Public Schools	2000.0	66.0
+56515	http://www.bathcountyva.org	Bath County	1998.0	72.0
+56516	http://www.bcplnet.org	Buchanan County Public Library	2001.0	956.0
+56517	http://www.dpor.virginia.gov/	Professional and Occupational Regulation, Department of	2006.0	166.0
+56518	http://www.vwc.state.va.us/portal/vwc-website	Workers' Compensation Commission, Virginia	2010.0	252.0
+56520	http://www.amelia.k12.va.us	Amelia County Public Schools	2003.0	464.0
+56521	http://www.bland.k12.va.us	Bland County Public Schools	1999.0	36.0
+56522	http://www.npl.lib.va.us	Norfolk Public Library	1998.0	16403.0
+56528	http://www.kwcps.k12.va.us	King William County Public Schools	2000.0	736.0
+56529	http://www.visitvirginiabeach.com/	Virginia Beach	2012.0	1985.0
+56531	http://cliftonforge.polarislibrary.com/search/default.aspx?ctx=3.1033.0.0.1	Clifton Forge Public Library	2007.0	3247.0
+56532	http://www.nortonva.gov	City of Norton	2011.0	534.0
+56534	http://pgs.k12.va.us	Prince George County Public Schools	0.0	176.0
+56535	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfkfs048jbeden	Roanoke City Public Library - Williamson Road Branch	2010.0	484.0
+56536	http://www.dcc.vccs.edu/	Danville Community College	2001.0	167.0
+56538	http://www.jmrl.org/br-nelson.htm	Nelson Memorial Library	2004.0	4414.0
+56539	http://vdba.virginia.gov/vsbfa.shtml	Virginia Small Business Financing Authority	2010.0	34.0
+56540	http://www.wm.edu/	College of William and Mary	1997.0	427.0
+56542	http://www.co.henrico.va.us	Henrico County	1997.0	1614.0
+56548	http://www.scc.virginia.gov/	State Corporation Commission	2004.0	456.0
+56550	http://www.pvcc.edu/	Piedmont Virginia Community College	2002.0	1071.0
+56551	http://www.montgomery-floyd.lib.va.us/index.php	Montgomery-Floyd Regional Library	2006.0	98.0
+56554	http://cnu.edu/	Christopher Newport University	1997.0	696.0
+56556	http://www.wps.k12.va.us	Winchester Public Schools	2002.0	117.0
+56557	http://www.pamunkeylibrary.org/atlee.htm	Pamunkey Regional Library - Atlee Branch Library	2003.0	123.0
+56558	http://www.craig.k12.va.us	Craig County Public Schools	2001.0	47.0
+56559	http://www.fairfaxcounty.gov/library/branches/ty/	Tysons-Pimmit Regional Library	2002.0	5.0
+56560	http://www.fairfaxcounty.gov/	Fairfax County	2002.0	3681.0
+56562	http://www.danvillepublicschools.org/	Danville Public Schools	0.0	242.0
+56563	http://www.cucps.k12.va.us	Cumberland County Public Schools	1998.0	594.0
+56564	http://www.co.gloucester.va.us	Gloucester County	1998.0	894.0
+56565	http://www.drpt.virginia.gov/	Rail and Public Transportation, Department of	2003.0	80.0
+56566	http://www.jmrl.org/br-gordon.htm	Gordon Avenue Library	2004.0	4439.0
+56569	http://www.visitnorfolktoday.com	Visit Norfolk	2009.0	1320.0
+56570	http://pearisburg.org	Pearisburg Public Library	1998.0	418.0
+56571	http://www.jmrl.org/br-crozet.htm	Crozet Library	2004.0	4440.0
+56573	http://www.vdbvi.org/	Blind and Vision Impaired, Department for the	2000.0	111.0
+56574	http://transportation.virginia.gov/	Transportation, Secretary of	2003.0	139.0
+56575	http://www.countyofamherst.com	Amherst County	2002.0	1400.0
+56576	http://www.fredericksburg.com	Fredericksburg	1999.0	11705.0
+56577	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=2	Richmond Public Library - Broad Rock	2008.0	296.0
+56578	http://sw.edu/	Southwest Virginia Community College	2002.0	380.0
+56579	http://www.visitmartinsville.com	Martinsville, Henry County	2006.0	1563.0
+56580	http://www.dpb.virginia.gov/	Planning and Budget, Department of	2003.0	47.0
+56581	http://www.acps.k12.va.us	Alexandria Public Schools	1996.0	559.0
+56583	http://www.dgif.virginia.gov/	Game and Inland Fisheries, Department of	2004.0	316.0
+56585	http://www.mathewslibrary.org	Mathews Memorial Library	2004.0	0.0
+56587	http://www.fairfaxcounty.gov/library/branches/vr/	Virginia Room	2004.0	171.0
+56588	http://www.pamunkeylibrary.org/hanover.htm	Pamunkey Regional Library - Hanover Branch Library	2003.0	123.0
+56589	http://www.hopewellva.gov	Hopewell, City of	2008.0	220.0
+56590	http://hamptonroads.com	Hampton Roads	1997.0	19289.0
+56591	http://www.fairfaxcounty.gov/library/branches/fx/	City Of Fairfax Regional Library	2002.0	5.0
+56592	http://www.richmondpubliclibrary.org/branch.asp	Richmond Public Library - Westover Hills	2008.0	297.0
+56593	http://www.northernva.com	Northern Viginia	1996.0	40.0
+56594	http://www.rbc.edu/	Richard Bland College	1997.0	352.0
+56595	http://www.portsmouth-va-public-library.com/cradock-branch/	Portsmouth Public Library - Cradock Branch	2013.0	2.0
+56596	http://www.appomattox.schoolfusion.us/	Appomattox County Public Schools	2010.0	474.0
+56597	http://www.carolinelibrary.org	Caroline Library - Ladysmith Branch	2003.0	2854.0
+56598	http://www.portsmouth-va-public-library.com/manor-branch/	Portsmouth Public Library - Manor Branch	2013.0	2.0
+56599	http://co.charlotte.va.us/	Charlotte County	1998.0	64.0
+56600	http://www.nngov.com/acl_users/credentials_cookie_auth/login_form?came_from=http%3A//www.nngov.com/library/resources/locations/resourcesdocument_view	Virgil I. Grissom Library	0.0	0.0
+56602	http://lexva.com	Lexington, The Community	2000.0	51.0
+56603	http://www.me.vccs.edu/	Mountain Empire Community College	2001.0	1390.0
+56604	http://www.rcs.k12.va.us	Roanoke County Public Schools	1998.0	457.0
+56605	http://www.sbo.nn.k12.va.us/	Newport News Public Schools	1998.0	442.0
+56606	http://www.gostaffordva.com	Stafford County Tourism	2005.0	295.0
+56607	http://virginiageneralassembly.gov/	General Assembly, Virginia	2012.0	208.0
+56608	http://www.smithfield-virginia.com	Smithfield and Isle of Wight Tourism Bureau	2000.0	16.0
+56609	http://www.staunton.k12.va.us/site/default.aspx?PageID=1	Staunton Public Schools	2012.0	6.0
+56610	http://www.trs.virginia.gov/	Treasury, Department of the	2004.0	46.0
+56611	http://www.accomack.k12.va.us/	Accomack County Public Schools	2013.0	0.0
+56613	http://www.mcps.k12.va.us/Home.aspx	Middlesex County Public Schools	2012.0	353.0
+56614	http://www.arls.org/locations/dinwiddie/	Appomattox Regional Library - Dinwiddie Branch Library	2011.0	2.0
+56615	http://www.spsk12.net	Suffolk Public Schools	0.0	131.0
+56616	http://www.dcr.virginia.gov/	Conservation and Recreation, Department of	2004.0	726.0
+56617	http://www.wrl.org/	James City County Library	1998.0	6854.0
+56619	http://www.campbellcountylibraries.org/	Staunton River Memorial Library	2010.0	1564.0
+56621	http://www.franklinva.com/	Franklin, City of	1998.0	150.0
+56622	http://wythegrayson.lib.va.us/wcpl.html	Wythe County Public Library	2011.0	24.0
+56623	http://www.vawarmemorial.org	Virginia War Memorial	2002.0	113.0
+56624	http://www.pulaskitown.org	Pulaski, Town of	1996.0	204.0
+56625	http://www.nottowayschools.org/	Nottoway County Public Schools	2004.0	31.0
+56626	http://www.vadrs.org/default.htm	Aging and Rehabilitative Services, Department for	2002.0	225.0
+56627	http://www.vdacs.virginia.gov/	Agriculture and Consumer Services, Department of	2004.0	86.0
+56628	http://www.visitalleghanyhighlands.com/main/index.php	Alleghany Highlands	2011.0	7.0
+56629	http://www.dss.virginia.gov/	Social Services, Department of	2004.0	1221.0
+56630	http://www.cbschools.net	Colonial Beach Public Schools	2004.0	629.0
+56631	http://www.bristolvaschools.org	Bristol Public Schools	1999.0	35.0
+56632	http://www.fairfaxcounty.gov/library/	Fairfax County Public Library	2002.0	497.0
+56634	http://www.fairfaxcounty.gov/library/branches/dm/	Dolley Madison Library	2002.0	5.0
+56635	http://www.discoverlynchburg.org	Lynchburg Tourism	2001.0	459.0
+56636	http://www.appomattoxcountyva.gov/	Appomattox	2007.0	1006.0
+56637	http://www.chincoteague-island.net/	Chincoteague Island Virginia	2006.0	475.0
+56638	http://www.ncpsk12.com	Northampton County Public Schools	0.0	733.0
+56639	http://www.fairfaxva.gov/	Fairfax, City of	2003.0	2097.0
+56640	http://www.stayarlington.com	Arlington Tourism	0.0	907.0
+56641	http://www.fairfaxcounty.gov/library/branches/sh/	Sherwood Regional Library	2002.0	5.0
+56642	http://www.lcps.k12.va.us/education/components/scrapbook/default.php?sectionid=1	Louisa County Public Schools	2004.0	0.0
+56643	http://wythegrayson.lib.va.us	Wythe-Grayson Regional Library	2001.0	24.0
+56644	http://www.sbrl.org	Smyth-Bland Regional Library - Marion Branch	1998.0	268.0
+56646	http://www.shenandoah.co.lib.va.us/locations/county-library	Shenandoah County Library	2009.0	21.0
+56647	http://www.bvcps.net	Buena Vista Public Schools	2010.0	137.0
+56648	http://www.dhp.virginia.gov/	Health Professions, Department of	2004.0	119.0
+56649	http://www.wcpl.net/locations-hours/hayters-gap.html	Washington County Public Library - Hayters Gap	0.0	49.0
+56652	http://www.ccpsk12.org	Charlotte County Public Schools	2009.0	52.0
+56653	http://www.courts.state.va.us/	Supreme Court of Virginia	1997.0	978.0
+56654	http://www.berryvilleva.gov	Berryville	2006.0	210.0
+56655	http://www.odu.edu	Old Dominion University	0.0	5739.0
+56657	http://www.fairfaxcounty.gov/library/branches/ph/	Patrick Henry Library	2002.0	5.0
+56658	http://www.jsr.vccs.edu/site/home.aspx	J Sargeant Reynolds Community College	2013.0	8.0
+56661	http://www.craiglibrary.org/	Craig County Public Library	2009.0	465.0
+56664	http://www.librarypoint.org	Central Rappahannock Regional Library	2000.0	5174.0
+56666	http://www.rockingham.k12.va.us	Rockingham County Public Schools	1998.0	211.0
+56667	http://www.fairfaxcounty.gov/library/branches/gf/	Great Falls Library	2003.0	5.0
+56668	http://www.rappahannockschools.us	Rappahannock County Public Schools	2011.0	1.0
+56669	http://www.jmrl.org/br-central.htm	Jefferson-Madison Regional Library	2004.0	4405.0
+56670	http://www.fairfaxcounty.gov/library/branches/jm/	John Marshall Library	2002.0	5.0
+56671	http://www.campbell.k12.va.us	Campbell County Public Schools	2000.0	63.0
+56672	http://www.waynesborova-online.com	Waynesboro	2001.0	2321.0
+56673	http://www.yorkcounty.gov/Home/Libraries.aspx	York County Public Library	2013.0	51.0
+56674	http://www.vdh.state.va.us/	Health, Department of	1997.0	1744.0
+56675	http://www.kgcs.k12.va.us/	King George County Public Schools	2001.0	44.0
+56677	http://www.lcs.k12.va.us	Lancaster County Public Schools	1999.0	248.0
+56678	http://www.arts.virginia.gov/	Arts, Virginia Commission for the	2004.0	270.0
+56679	http://www.abc.virginia.gov/	Alcoholic Beverage Control Board, Department of	2004.0	518.0
+56680	http://www.jmrl.org/br-northside.htm	Northside Library	2004.0	4413.0
+56681	http://vmfa.museum/default.aspx	Museum of Fine Arts, Virginia	2010.0	1158.0
+56682	http://www.halifax.com/?f	Halifax County	2012.0	545.0
+56684	http://www.yesvirginia.org/	Economic Development Partnership, Virginia	1998.0	3063.0
+56685	http://www.sbo.hampton.k12.va.us	Hampton Public Schools	1998.0	73.0
+56686	http://www.dinwiddie.k12.va.us	Dinwiddie County Public Schools	2002.0	1896.0
+56687	http://www.vcu.edu/	Virginia Commonwealth University	1997.0	46.0
+56688	http://www.waynesboro.k12.va.us/main/	Waynesboro Public Schools	2012.0	135.0
+56690	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=8	Richmond Public Library - West End	2008.0	298.0
+56691	http://www.ltgov.virginia.gov/	Lieutenant Governor	2003.0	15.0
+56692	http://www.blackwaterlib.org/surry/	Surry Public Library	2009.0	2.0
+56693	http://www.pwcgov.org/government/dept/library/Pages/default.aspx	Prince William Public Library System	2012.0	118.0
+56694	http://www.vbschools.com	Virginia Beach Public Schools	2001.0	618.0
+56696	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=3	Richmond Public Library - East End	2008.0	298.0
+56697	http://www.farmvilledirectory.com/	Farmville, Town of	2008.0	2.0
+56698	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=1	Richmond Public Library - Belmont	2008.0	298.0
+56699	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=7	Richmond Public Library - North Avenue	2008.0	298.0
+56700	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=4	Richmond Public Library - Ginter Park	2008.0	233.0
+56701	http://www.richmondpubliclibrary.org/branch_detail.asp?branchid=5	Richmond Public Library - Hull Street	2008.0	298.0
+56702	http://www.brrl.lib.va.us	Blue Ridge Regional Library - Martinsville Main Branch	2000.0	101.0
+56703	http://www.fairfaxcounty.gov/library/branches/mw/	Martha Washington Library	2002.0	5.0
+56705	http://www.reston.org/default.aspx?qenc=HzT9ACzZbNs%3d&fqenc=HzT9ACzZbNs%3d	Reston	0.0	1160.0
+56706	http://www.doli.virginia.gov/	Labor and Industry, Department of	2004.0	64.0
+56707	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfke7891jbeden	Roanoke City Public Library - Valley View E-Branch	2011.0	484.0
+56711	http://vdba.virginia.gov/	Business Assistance, Department of	2007.0	35.0
+56712	http://www.brcc.edu/	Blue Ridge Community College	2002.0	624.0
+56714	http://es.vccs.edu/	Eastern Shore Community College	2001.0	284.0
+56715	http://www.hampton.gov/Index.aspx?NID=100	Hampton Public Library	2013.0	3048.0
+56717	http://www.dhrm.virginia.gov	Human Resource Management, Department of	2004.0	163.0
+56718	http://www.brunswickco.com/map.asp	Brunswick County	2012.0	37.0
+56719	http://www.jmrl.org/br-bookmobile.htm	Jefferson-Madison Regional Library - Bookmobile	2004.0	4414.0
+56720	http://www.espl.org/	Eastern Shore Public Library - Northampton Memorial Library	1997.0	843.0
+56721	http://www.danville-va.gov/	Danville	2008.0	1177.0
+56722	http://www.kqps.net/	King and Queen County Public Schools	0.0	4.0
+56723	http://www.chincoteague.com/	Chincoteague Island	1998.0	124.0
+56724	http://www.pwcweb.com	Prince William County	1996.0	6.0
+56725	http://www.blackwaterlib.org/courtland/	Walter Cecil Rawls Library	2009.0	2.0
+56726	http://www.vhda.com/pages/home.aspx	Housing Development Authority, Virginia	2009.0	557.0
+56728	http://www.dcjs.virginia.gov/	Criminal Justice Services, Department of	2004.0	494.0
+56729	http://www.jmrl.org/br-greene.htm	Green County Library	2004.0	4405.0
+56730	http://www.umw.edu	University of Mary Washington	2004.0	287.0
+56731	http://www.fccps.org	Falls Church Public Schools	2006.0	4412.0
+56732	http://www.wcpl.net/locations-hours/glade-spring.html	Washington County Public Library - Glade Spring	0.0	49.0
+56733	http://www.deq.virginia.gov/	Environmental Quality, Department of	2004.0	1100.0
+56734	http://www.ccpsd.k12.va.us	Carroll County Public Schools	1999.0	23.0
+56735	http://www.co.hanover.va.us	Hanover County	1998.0	569.0
+56736	http://www.wpschools.net/	West Point Public Schools	2013.0	430.0
+56737	http://www.visitfranklincountyva.org/	Franklin County Tourism	2007.0	24.0
+56739	http://www.fairfaxcounty.gov/library/branches/kn/	Kingstowne Library	2002.0	6.0
+56740	http://www.dmme.virginia.gov/	Mines, Minerals and Energy, Department of	2003.0	126.0
+56741	http://www.blackwaterlib.org/smithfield/	Smithfield Library	2009.0	2.0
+56742	http://www.oag.state.va.us/	Attorney General	1999.0	693.0
+56743	http://www.manassas.k12.va.us/education/school/school.php?sectionid=1146	Manassas Public Schools	0.0	2.0
+56744	http://www.portsmouth-va-public-library.com/portsmouth-public-law-library/	Portsmouth Public Law Library	2013.0	2.0
+56745	http://mcpsweb.org/	Mecklenburg County Public Schools	2007.0	1203.0
+56746	http://www.apa.virginia.gov/	Auditor of Public Accounts	2004.0	34.0
+56747	http://www.cumberlandcountypubliclibrary.org	Cumberland County Public Library	2002.0	500.0
+56748	http://www.northernneck.org	Northern Neck Tourism Council	1999.0	40.0
+56749	http://www.braceyvirginia.com	Bracey	2007.0	30.0
+56750	http://www.nplva.org	Northumberland Public Library	2003.0	17.0
+56751	http://www.colonialbeachva.net	Colonial Beach	2000.0	42.0
+56752	http://www.fluco.org/SitePages/index.aspx	Fluvanna County Public Schools	2011.0	321.0
+56753	http://www.vcp.state.va.us/	Capitol Police	2004.0	34.0
+56755	http://www.reynolds.edu/site/home.aspx	J Sargeant Reynolds Community College	2013.0	8.0
+56756	http://www.chesbay.us/	Chesapeake Bay Commission	2011.0	25.0
+56757	http://www.russell.k12.va.us	Russell County Public Schools	1999.0	1.0
+56758	http://www.nottlib.org	Nottoway County Library System	2001.0	39.0
+56759	http://albemarlehistory.org//index.php/contact	Albemarle Charlottesville Historical Society	2009.0	19.0
+56761	http://www.augusta.k12.va.us/site/default.aspx?PageID=1	Augusta County Public Schools	2012.0	39.0
+56762	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfkb4741jbeden	Roanoke City Public Library - Melrose Branch	2011.0	484.0
+56763	http://www.shenandoah.co.lib.va.us/locations	Mt. Jackson Community Library	2009.0	387.0
+56764	http://www.grayson.k12.va.us	Grayson County Public Schools	2002.0	373.0
+56766	http://www.ph.vccs.edu/	Patrick Henry Community College	2001.0	971.0
+56767	http://www.virginiaslakeregion.com/	Virginia's Lake Region	2013.0	45.0
+56768	http://www.sussex.k12.va.us	Sussex County Public Schools	2000.0	66.0
+56770	http://www.vatc.org/home/	Tourism Corporation, Virginia	2012.0	2.0
+56772	http://www.bcpschools.org	Buckingham County Public Schools	2010.0	24.0
+56773	http://www.culpepervachamber.com	Culpeper County Chamber of Commerce	1998.0	1.0
+56774	http://www.visitculpeperva.com	Culpeper	2001.0	80.0
+56775	http://www.heritagepubliclibrary.org	Heritage Public Library - Charles City Location	2005.0	661.0
+56776	http://www.ocss-va.org	Orange County Public Schools	1998.0	3.0
+56777	http://www.dhr.virginia.gov/	Historic Resources, Department of	2003.0	20.0
+56779	http://www.indigentdefense.virginia.gov/	Indigent Defense Commission, Virginia	2005.0	16.0
+56780	http://www.vsb.org/	State Bar, Virginia	1996.0	2126.0
+56781	http://www.spotsylvania.va.us/	Spotsylvania County	1999.0	846.0
+56782	http://www.princegeorgeva.org/	Prince George County	2001.0	1375.0
+56783	http://www.glnd.k12.va.us	Goochland County Public Schools	1998.0	995.0
+56785	http://jchc.virginia.gov/	Joint Commission on Health Care	2009.0	18.0
+56786	http://www.suffolk.lib.va.us/about-us/about-us/north-suffolk-library.html	North Suffolk Library	0.0	5.0
+56787	http://www.gcps.k12.va.us	Galax Public Schools	1998.0	1109.0
+56788	http://www.newport-news.org	Newport News Tourism	1999.0	485.0
+56789	http://www.lcps.org/site/default.aspx?PageID=1	Loudoun County Public Schools	2011.0	90.0
+56791	http://www.buchanancountyonline.com/	Buchanan County	2012.0	56.0
+56792	http://www.occoquan.org	Occoquan	1998.0	38.0
+56793	http://www.stauntonlibrary.org	Staunton Public Library	2008.0	289.0
+56794	http://www.halifaxlibrary.org	Halifax County-South Boston Regional Library	2008.0	430.0
+56795	http://commerce.virginia.gov/	Commerce and Trade, Secretary of	2003.0	154.0
+56796	http://asmfc.org/	Atlantic States Marine Fisheries Commission	0.0	192.0
+56797	http://lancasterlibrary.org	Lancaster Community Library	2001.0	1056.0
+56798	http://www.doa.virginia.gov/	Accounts, Department of	2004.0	133.0
+56800	http://www.vda.virginia.gov/	Aging, Division of the	2003.0	164.0
+56801	http://wythegrayson.lib.va.us/gcpl.html	Grayson County Public Library	2011.0	24.0
+56803	http://www.petersburg.k12.va.us	Petersburg Public Schools	2001.0	9904.0
+56804	http://www.alleghanycountyschools.us/main/index.php	Alleghany County Public Schools	2012.0	846.0
+56805	http://www.leesburgva.org/index.aspx	Leesburg, Town of	2009.0	2598.0
+56807	http://www.nottlib.org/about-us/about-us/burkeville-library.html	Burkeville Library	2012.0	0.0
+56809	http://www.fairfaxcounty.gov/library/branches/as/	Access Services	2003.0	23.0
+56810	http://www.fairfaxcounty.gov/library/branches/ch/	Chantilly Regional Library	2002.0	5.0
+56811	http://www.herndonweb.com	Herndon, Town of	1996.0	17.0
+56812	http://www.vdh.virginia.gov/oems/	Emergency Medical Services	0.0	394.0
+56814	http://www.vmnh.net/	Museum of Natural History, Virginia	2003.0	684.0
+56818	http://www3.greenecc.org/	Greene County	1998.0	1.0
+56819	http://www.rappahannock.us	Rappahannock County	2004.0	5.0
+56820	http://www.vhcc.edu/	Virginia Highlands Community College	2002.0	2782.0
+56823	http://www.bristol-library.org/avoca-branch-library	Bristol Public Library - Avoca Branch Library	2010.0	143.0
+56824	http://jlarc.virginia.gov/	Joint Legislative Audit and Review Commission (JLARC)	2009.0	85.0
+56825	http://www.wcpl.net	Washington County Public Library	1999.0	374.0
+56826	http://www.radford.edu/	Radford University	1998.0	362.0
+56827	http://vdfp.virginia.gov/	Fire Programs, Department of	2009.0	116.0
+56828	http://www.gilesonline.net	Giles County	2003.0	270.0
+56829	http://www.dslcc.edu/	Dabney S. Lancaster Community College	2006.0	383.0
+56831	http://www.scsb.org	Smyth County Public Schools	1998.0	95.0
+56832	http://web.richmond.k12.va.us/Home.aspx	Richmond Public Schools	2011.0	684.0
+56833	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfk7b907jbeden	Roanoke City Public Library - Garden City E-Branch	2010.0	484.0
+56834	http://www.rcps.org	Radford Public Schools	1998.0	762.0
+56836	http://www.co.richmond.va.us/	Richmond County	2000.0	1066.0
+56837	http://www.vita.virginia.gov/	Information Technologies Agency, Virginia	2003.0	668.0
+56838	http://www.pamunkeylibrary.org/ashland.htm	Pamunkey Regional Library - Richard S. Gillis, Jr.-Ashland Branch Library	2003.0	123.0
+56840	http://www.louisatown.org	Louisa, Town of	2000.0	24.0
+56841	http://www.mathews.k12.va.us	Mathews County Public Schools	2000.0	20.0
+56842	http://www.wcpl.net/locations-hours/damascus.html	Washington County Public Library - Damascus	2012.0	49.0
+56843	http://dgs.virginia.gov/	General Services, Department of	2003.0	461.0
+56844	http://www.middleburgonline.com	Middleburg, City of	1996.0	107.0
+56845	http://clarksvilleva.com/	Clarksville	2002.0	189.0
+56847	http://www.portsmouth-va-public-library.com/local-history-collection/	Esther Murdaugh Wilson Memorial Room	2013.0	2.0
+56848	http://www.mrlib.org/LocationsHours/GrottoesBranchLibrary.aspx	Massanutten Regional Library - Grottoes Branch Library	2012.0	335.0
+56849	http://library.loudoun.gov	Loudoun County Public Library	2008.0	174.0
+56850	http://www.newkent.net	New Kent County	1999.0	72.0
+56851	http://www.lancova.com	Lancaster County Government	1998.0	46.0
+56852	http://www.toursurryva.com	Surry County	1999.0	8.0
+56853	http://www.courts.state.va.us/agencies/jirc/home.html	Judicial Inquiry and Review Commission	2009.0	36.0
+56854	http://www.cas.state.va.us/	Commonwealth's Attorneys' Services Council	2001.0	16.0
+56856	http://www.pecps.k12.va.us	Prince Edward County Public Schools	1999.0	22.0
+56857	http://www.russell.lib.va.us/	Russell County Public Library	0.0	1200.0
+56858	http://www.ccs.k12.va.us/	Charlottesville Public Schools	1999.0	345.0
+56859	http://www.lynchburgva.gov/library	Lynchburg Public Library	2013.0	3204.0
+56860	http://www.blackstoneva.com	Blackstone	1999.0	28.0
+56861	http://www.vt.edu/	Virginia Polytechnic Institute and State University	1997.0	393.0
+56862	http://apps.lis.virginia.gov/sfb1/senate/telephonelist.aspx	Senate of Virginia	2012.0	61.0
+56863	http://www.spotsylvania.k12.va.us/site/default.aspx?PageID=1	Spotsylvania County Public Schools	2014.0	5.0
+56865	http://www.nps.k12.va.us	Norfolk Public Schools	1998.0	1117.0
+56866	http://www.chesterfield.gov/	Chesterfield County	2001.0	1590.0
+56867	http://www.madisonschools.k12.va.us	Madison County Public Schools	2002.0	980.0
+56868	http://www.explorescottcountyva.org/	Scott County	2010.0	125.0
+56869	http://www.arls.org/locations/princegeorge/	Prince George Library	2011.0	2.0
+56870	http://www.lexingtonvirginia.com	Lexington-Rockbridge County	0.0	105.0
+56871	http://www.dcr.virginia.gov/state-parks//	State Parks, Virgnia	2014.0	253.0
+56872	http://www.winchesterva.gov/	Winchester, City of	2006.0	944.0
+56873	http://www.mvdb.virginia.gov/	Motor Vehicle Dealer Board	2004.0	62.0
+56875	http://www.nortoncityschools.org	Norton Public Schools	2003.0	35.0
+56877	http://www.jmrl.org/br-scottsville.htm	Scottsville Library	2004.0	4407.0
+56878	http://www.tcplweb.org/	Tazewell County Public Library - Richlands	2002.0	626.0
+56879	http://www.tazewell.k12.va.us	Tazewell County Public Schools	1998.0	785.0
+56880	http://www.co.stafford.va.us	Stafford County	1998.0	1666.0
+56881	http://www.ci.roanoke.va.us/../WebMgmt/ywbase61b.nsf/DocName/$home	Roanoke, City of	0.0	2.0
+56882	http://www.virginia529.com/	College Savings Plan, Virginia	2002.0	193.0
+56884	http://www.dmas.virginia.gov/	Medical Assistance Services, Department of	2004.0	33.0
+56885	http://library.arlingtonva.us/	Arlington Department Of Libraries	2012.0	1445.0
+56886	http://finance.virginia.gov/	Finance, Secretary of	2003.0	135.0
+56887	http://www.smoot.org	Lewis Egerton Smoot Memorial Library	1999.0	46.0
+56888	http://www.wcs.k12.va.us	Washington County Public Schools	1998.0	1114.0
+56889	http://www.vrc.virginia.gov/	Racing Commission, Virginia	2005.0	232.0
+56890	http://vscc.virginia.gov/	Crime Commission	2007.0	11.0
+56891	http://www.wisecounty.org/	Wise County	1998.0	216.0
+56892	http://www.hamnerlibrary.org	James L. Hamner Public Library	2007.0	1.0
+56893	http://www.brun.k12.va.us	Brunswick County Public Schools	0.0	440.0
+56895	http://www.blackwaterlib.org/wakefield/	Troxler Memorial Library	2009.0	2.0
+56896	http://www.tazewellcounty.org	Tazewell County	1998.0	49.0
+56897	http://www.visitgalax.com/	Galax	2004.0	2667.0
+56898	http://www.pamunkeylibrary.org/montpelier.htm	Pamunkey Regional Library - Lois Wickham Jones-Montpelier Branch Library	2003.0	124.0
+56899	http://www.arls.org/locations/disputanta/	Disputanta Library	2011.0	2.0
+56900	http://www.henrico.k12.va.us	Henrico County Public Schools	2001.0	155.0
+56901	http://www.wytheville.org	Wytheville, City of	1997.0	55.0
+56902	http://www.mrlib.org/LocationsHours/NorthRiverLibrary.aspx	North River Library	2012.0	338.0
+56906	http://www.bplsonline.org	Bedford Public Library System	2008.0	0.0
+56907	http://www.vaemergency.gov/	Emergency Management, Department of	2007.0	1983.0
+56908	http://www.lfcc.edu/	Lord Fairfax Community College	2002.0	5521.0
+56911	http://www2.k12albemarle.org/Pages/default.aspx	Albemarle County Public Schools	2012.0	715.0
+56912	http://www.fcpsva.org/	Franklin Public Schools	2013.0	388.0
+56914	http://www.blackwaterlib.org	Blackwater Regional Library	2001.0	72.0
+56915	http://www.vmi.edu/	Virginia Military Institute	1996.0	1595.0
+56916	http://www.virginia.edu	University of Virginia	1997.0	2494.0
+56918	http://www.martinsville.k12.va.us	Martinsville Public Schools	2000.0	1024.0
+56920	http://www.doav.virginia.gov/	Aviation, Department of	2003.0	75.0
+56921	http://www.pcplib.org	Pittsylvania County Public Library - Mt. Hermon	2002.0	62.0
+56922	http://www.wcps.k12.va.us	Warren County Public Schools	2000.0	311.0
+56924	http://www.dvs.virginia.gov/	Veterans Services, Department of	2003.0	244.0
+56925	http://www.regionalchamber.biz/	Winchester/Frederick County Chamber of Commerce	2006.0	20.0
+56926	http://www.radfordpl.org/	Radford Public Library	2004.0	270.0
+56929	http://www.pamunkeylibrary.org	Pamunkey Regional Library	2000.0	130.0
+56930	http://www.pdc.edu/	Paul D Camp Community College	2007.0	1122.0
+56931	http://www.mrlib.org/LocationsHours/PagePublicLibrary.aspx	Page Public Library	2012.0	335.0
+56932	http://www.fairfaxcounty.gov/library/branches/lo/	Lorton Library	2002.0	5.0
+56933	http://www.nottlib.org/about-us/about-us/blackstone-library.html	Blackstone Library	2012.0	0.0
+56934	http://www.townofluray.com/	Luray, Town of	2002.0	29.0
+56936	http://www.fairfaxcounty.gov/library/branches/ad/	Library Administration	2007.0	3.0
+56937	http://www.lorton.net	Lorton, Town of	2000.0	23.0
+56939	http://vadoc.virginia.gov/	Corrections, Department of	2005.0	34.0
+56940	http://www.visitwilliamsburg.com	Williamsburg Area Convention and Visitors Bureau	1997.0	817.0
+56941	http://www.edline.net/pages/WJCC	Williamsburg-James City County Public Schools	2012.0	2.0
+56942	http://www.nottlib.org/about-us/crewe-library.html	Crewe Library	2011.0	0.0
+56943	http://www.culpeperschools.org	Culpeper County Public Schools	2001.0	80.0
+56944	http://www.dmv.virginia.gov/	Motor Vehicles, Department of	2004.0	314.0
+56945	http://www.pamunkeylibrary.org/westpoint.htm	Pamunkey Regional Library - West Point Branch Library	2003.0	124.0
+56949	http://www.nngov.com/library	Newport News Public Library System	2002.0	1615.0
+56950	http://wythegrayson.lib.va.us/fpl.html	Fries Public Library	2011.0	24.0
+56951	http://sbo.gilesk12.org	Giles County Public Schools	2001.0	33.0
+56953	http://www.vddhh.org/	Deaf and Hard of Hearing, Department for the	2001.0	93.0
+56954	http://www.fairfaxcounty.gov/library/branches/rr/	Reston Regional Library	2003.0	5.0
+56955	http://www.pamunkeylibrary.org/mechanicsville.htm	Pamunkey Regional Library - Mechanicsville Branch Library	2003.0	124.0
+56956	http://www.svhed.org/	Southern Virginia Higher Education Center	2006.0	906.0
+56958	http://www.newkentschools.org	New Kent County Public Schools	2002.0	250.0
+56960	http://centralvirginiaregionallibrary.org	Central Virginia Regional Library	2007.0	33.0
+56961	http://www.tncc.edu	Thomas Nelson Community College	2004.0	696.0
+56962	http://www.nr.edu/	New River Community College	2002.0	1154.0
+56963	http://www.esvatourism.org/es_home/home.asp	Eastern Shore of Virginia Tourism	2011.0	2.0
+56964	http://www.suffolk.lib.va.us/about-us/morgan-memorial-library.html	Morgan Memorial Library	0.0	88.0
+56965	https://governor.virginia.gov/	Governor	2003.0	535.0
+56967	http://www.pamunkeylibrary.org/rockville.htm	Pamunkey Regional Library - Cochrane Rockville Branch Library	2003.0	124.0
+56968	http://www.shenvalley.com/sv2/index.shtml	Front Royal/Warren County	1998.0	54.0
+56969	http://www.pwcs.edu	Prince William County Public Schools	1996.0	1908.0
+56971	http://www.southampton.k12.va.us/education/components/layout/default.php?sectionid=1	Southampton County Public Schools	2010.0	1.0
+56972	http://www.shenandoah.k12.va.us	Shenandoah County Public Schools	2003.0	1711.0
+56975	http://www.vsp.state.va.us/	Virginia State Police	1999.0	107.0
+56976	http://www.vims.edu/	Marine Science, Institute of	1996.0	371.0
+56977	http://www.radford.va.us	Radford	1999.0	1740.0
+56978	http://co.caroline.va.us	Caroline County	1998.0	453.0
+56979	http://www.rockinghamcountyva.gov/	Rockingham County	2004.0	747.0
+56980	http://www.pamunkeylibrary.org/king_queen.htm	Pamunkey Regional Library - King Queen Branch Library	2003.0	124.0
+56982	http://www.mrlib.org/LocationsHours/VillageLibrary.aspx	Village Library	2012.0	338.0
+56983	http://www.dhrm.virginia.gov/employmentdisputeresolution.html	Employment Dispute Resolution, Office of	2012.0	162.0
+56985	http://www.chesapeake.lib.va.us/	Chesapeake Public Library System	1997.0	34.0
+56986	http://www.smythcounty.org/	Smyth County	2001.0	59.0
+56988	http://www.suffolk.lib.va.us/about-us/about-us/chuckatuck-branch-library.html	Chuckatuck Branch Library	0.0	5.0
+56990	http://www.augustava.com/	Greater Augusta Regional Chamber of Commerce	2011.0	546.0
+56991	http://www.virginia.gov/	State Government	2008.0	184.0
+56992	http://www.virginiawestern.edu/	Virginia Western Community College	2002.0	1950.0
+56993	http://www.cityschools.com/	Fredericksburg Public Schools	1999.0	762.0
+56994	http://www.fairfaxcounty.gov/library/branches/kp/	Kings Park Library	2002.0	5.0
+56995	http://www.djj.virginia.gov/	Juvenile Justice, Department of	2005.0	94.0
+56996	http://www.amherst.k12.va.us	Amherst County Public Schools	2001.0	86.0
+56997	http://www.gunstonhall.org/	Gunston Hall Plantation	2000.0	95.0
+56998	http://www.cclibrary.net	Charlotte County Library	2001.0	29.0
+57000	http://www.future.virginia.gov	Council on Virginia's Future	2003.0	58.0
+57003	http://www.roanokeva.gov/85256a8d0062af37/currentbaselink/n28bfk37459jbeden	Roanoke City Public Library - Gainsboro Branch	2010.0	484.0
+57005	http://www.co.middlesex.va.us	Middlesex County	2000.0	151.0
+57006	http://www.cpschools.com	Chesapeake Public Schools	2003.0	305.0
+57007	http://www.vcsc.virginia.gov/	Criminal Sentencing Commission, Virginia	2007.0	11.0
+57009	http://www.visitalexandriava.com/	Alexandria Tourism	2008.0	3664.0
+57010	http://www.greenecountyschools.com	Greene County Public Schools	2001.0	1.0
+57012	http://tlc.library.net/culpeper/	Culpeper County Library	1999.0	221.0

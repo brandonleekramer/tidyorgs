@@ -1,0 +1,1797 @@
+NodeId	NodeURL	NodeName	Year	pages
+29165	https://sites.google.com/site/hinokiinternational/home	Hinoki International School	2013.0	39.0
+29167	http://www.mthaleytwp.org/	Mount Haley Township	2010.0	39.0
+29168	http://www.infopage.com/hadley/	Hadley Township	0.0	0.0
+29169	http://www.zilwaukeemichigan.gov/	Zilwakee, City of	2004.0	19.0
+29170	http://cityofironwood.org/	Ironwood, City of	2004.0	119.0
+29171	http://www.michigan.gov/ctf	Michigan Children's Trust Fund	2006.0	5879.0
+29172	http://www.algomatwp.org/	Algoma Township	2003.0	86.0
+29173	http://www.eatontownship.com/	Eaton Township	2004.0	120.0
+29174	http://www.dowlingpubliclibrary.com	Dowling Public Library	2008.0	8.0
+29175	http://www.columbiaville.org/	Columbiaville, Village of	2005.0	21.0
+29176	http://www.bellairemichigan.com/	Bellaire, Village of	2000.0	52.0
+29179	http://northvillelibrary.org/	Northville District Library	2004.0	501.0
+29180	http://www.merps.org	Meridian	2003.0	132.0
+29181	http://www.webbervilleschools.org	Webberville	2004.0	730.0
+29182	http://www.melvindale.org/	Melvindale, City of	2002.0	129.0
+29183	http://www.edwardsburg.org/	Edwardsburg, Village of	2002.0	0.0
+29185	http://www.vbco.org/covert.asp	Covert Township	2003.0	419.0
+29186	http://www.threeoakstownship.org/	Three Oaks Township	0.0	65.0
+29188	http://lawrencetigers.com	Lawrence	2008.0	0.0
+29189	http://frankenlust.com/	Frankenlust Township	2003.0	45.0
+29190	http://www.slcs.us	South Lyon	2004.0	220.0
+29191	http://www.svsu.edu/	Saginaw Valley State University	1997.0	2831.0
+29193	http://www.salemtownship.org/	Salem Township	2006.0	32.0
+29195	http://www.villageofdimondale.org/Pages/default.aspx	Dimondale, Village of	2012.0	31.0
+29196	http://www.flushingtownship.com/	Flushing Charter Township	2006.0	71.0
+29197	http://www.berkley.lib.mi.us	Berkley Public Library	2002.0	19.0
+29198	http://www.bcschools.net	Bay City	2000.0	1.0
+29199	http://www.mackinaccounty.net/	Mackinac County	2003.0	642.0
+29200	http://www.mar-lee.org	Marcellus	2007.0	22.0
+29201	http://www.fennville.com/	Fennville, City of	2001.0	17.0
+29202	http://www.drydentownshiplibrary.org	Dryden Township Library	2003.0	287.0
+29203	http://www.hillsdalecounty.info/government0065.asp	North Adams, Village of	2004.0	706.0
+29204	http://www.villageofotterlake.com/	Otter Lake, Village of	2008.0	14.0
+29205	http://oriontownship.org/	Orion Charter Township	2002.0	555.0
+29206	http://binghamartsacademy.org/	Bingham Arts Academy	2004.0	48.0
+29207	http://www.atlanta.k12.mi.us	Atlanta	2002.0	13.0
+29208	http://www.wcskids.net	Warren Consolidated	2001.0	91.0
+29209	http://www.oasd.k12.mi.us	Ontonagon	0.0	146.0
+29210	http://www.grattanacademy.com	Grattan Academy	2007.0	17.0
+29211	http://www.cppschools.com/Home.aspx	Comstock Park	2011.0	58.0
+29212	http://www.ecsd.us	East China	2003.0	1427.0
+29213	http://www.plymouthed.org	Plymouth Educational Center Charter School	2004.0	1.0
+29215	http://www.zps.org	Allegan Area ESA	2001.0	264.0
+29216	http://www.cityofgibraltar.org/	Gibraltar, City of	2002.0	22.0
+29217	http://www.city-data.com/city/Hesperia-Michigan.html	Hesperia, Village of	2004.0	654.0
+29218	http://www.grandbeach.org/	Grand Beach, Village of	1999.0	23.0
+29219	http://www.emich.edu/	Eastern Michigan University	1997.0	2252.0
+29220	http://www.nhaschools.com/schools/legacy/en/pages/default.aspx	Legacy Charter Academy	0.0	23.0
+29221	http://www.augustatownship.org/	Augusta Charter Township	2001.0	41.0
+29222	http://www.sturgisps.org/site/default.aspx?PageID=1	Summerfield	2012.0	32.0
+29223	http://www.southrange.com/	South Range, Village of	2001.0	11.0
+29224	http://www.infomi.com/city/berriensprings/	Berrien Springs, City of	2002.0	4.0
+29225	http://www.bessemer.k12.mi.us/	Bessemer	2006.0	92.0
+29226	http://www.michigan.gov/minewswire	MI Newswire	2002.0	27669.0
+29229	http://www.saginawtownship.org/	Saginaw Charter Township	2000.0	177.0
+29230	http://www.windover.org	Wolverine Academy (SDA)	2003.0	20.0
+29231	http://www.otsegocountymi.gov/	Otsego County	2005.0	361.0
+29233	http://www.acmetownship.org/	Acme Township	2000.0	31.0
+29234	http://www.renaissancepsa.com	Renaissance	2011.0	26.0
+29235	http://www.flint.umich.edu/	University of Michigan - Flint	1997.0	1239.0
+29236	http://nilesschools.schoolwires.net/site/default.aspx?PageID=1	Niles	2014.0	205.0
+29238	http://www.pentwatertwp.org/	Pentwater Township	2007.0	32.0
+29239	http://www.taylorprephs.com	Taylor Preparatory High School	0.0	99.0
+29240	http://www.deltacountymi.org/	Delta County	2001.0	134.0
+29241	http://www.redfordtwp.com/	Redford Charter Township	2001.0	273.0
+29242	http://www.aaps.k12.mi.us/aaps/home	Ann Arbor	2011.0	350.0
+29244	http://www.michigan.gov/msp	State Police	2002.0	8013.0
+29245	http://battlecreekmontessoriacademy.com	Battle Creek Montessori Academy	2013.0	66.0
+29246	http://www.cityofutica.org/	Utica, City of	2001.0	49.0
+29247	http://www.co.hillsdale.mi.us/	Hillsdale County	1999.0	243.0
+29249	http://www.co.mecosta.mi.us/granttown.asp	Grant Township	2005.0	0.0
+29250	http://www.annarborlearningcommunity.org	Ann Arbor Learning	2005.0	38.0
+29251	http://www.threeriverslibrary.org	Three Rivers Public Library	2001.0	67.0
+29252	http://www.nhaschools.com/schools/detroitenterprise/en/pages/default.aspx	Detroit Enterprise Academy	0.0	23.0
+29253	http://www.westernschools.org	Western	2003.0	467.0
+29254	http://newaygo.llcoop.org/	Newaygo Area District Library	2001.0	15.0
+29255	http://www.portaustinlibrary.org/	Port Austin Township Library	2010.0	17.0
+29256	http://flatriverlibrary.org/	Flat River Community Library	2002.0	25.0
+29257	http://www.twp.columbia.mi.us/	Columbia Township	2002.0	185.0
+29258	http://www.michigan.gov/dmva/	Military and Veterans Affairs	2002.0	412.0
+29259	http://www.charlevoixcounty.org/norwood.asp	Norwood Township	2005.0	612.0
+29260	http://www.michigan.gov/mpsc	Public Service Commission	2002.0	6069.0
+29261	http://www.nmps.k12.mi.us/site/default.aspx?PageID=1	North Muskegon	2013.0	14.0
+29262	http://www.pigeondistrictlibrary.com	Pigeon District Library	2002.0	136.0
+29263	http://ccsweb.clinton.k12.mi.us/	Clintondale	2009.0	22.0
+29264	http://www.alansonlibrary.com	Alanson Area Public Library	2006.0	1.0
+29265	http://www.countrysideacademy.org	Countryside	2012.0	263.0
+29266	http://www.gwcarveracademy.org	George Washington Carver	2009.0	16.0
+29267	http://www.lindenschools.org	Linden	2000.0	13.0
+29268	http://www.sdl.lib.mi.us	Shiawassee District Library	1999.0	35.0
+29269	http://www.newbuffalotownship.org/	New Buffalo Township	2002.0	23.0
+29270	http://www.nhaschools.com/schools/achieve/en/pages/default.aspx	Achieve Charter Academy	0.0	23.0
+29271	http://www.twp-manchester.org/	Manchester Township	2005.0	52.0
+29272	http://twp.unadilla.mi.us/	Unadilla Township	2003.0	22.0
+29273	http://www.infomi.com/township/onondaga/	Onondaga Township	2004.0	2.0
+29275	http://baycountypsa.mosaicaeducation.com/	Bay County PSA	2013.0	73.0
+29276	http://www.wassd.org/	Waldron	0.0	86.0
+29277	http://www.cityofnewbuffalo.com/	New Buffalo, City of	2001.0	38.0
+29278	http://www.larkintownship.org/?	Larkin Charter Township	2009.0	75.0
+29279	http://thomastownshiplibrary.org/	Thomas Township Library	2003.0	34.0
+29280	http://bridgmanarea.org/	Bridgman, City of	1999.0	337.0
+29281	http://www.whitehallschools.net	Whitehall	2010.0	333.0
+29282	http://www.relevantacademy.org/	Relevant Academy of Eaton County	2011.0	38.0
+29283	http://www.rogerscity.com/	Rogers City, City of	2000.0	82.0
+29284	http://www.dewittschools.net/	DeWitt	2008.0	486.0
+29285	http://www.alohatownship.com/	Aloha Township	2001.0	12.0
+29286	http://www.taylorinternationalacademy.com	Taylor International Academy	2010.0	65.0
+29288	http://www.buchanantownship.net/	Buchanan Township	2010.0	13.0
+29289	http://www.deltami.gov/	Delta Charter Township	2003.0	375.0
+29290	http://www.nhaschools.com/schools/vista/en/pages/default.aspx	Vista Charter Academy	0.0	23.0
+29291	http://www.michigan.gov/lara/0,4601,7-154-35299_10570---,00.html	Liquor Control Commission	2012.0	6107.0
+29293	http://mecostatwp.org/	Mecosta Township	2013.0	55.0
+29294	http://www.twp.grand-blanc.mi.us/	Grand Blanc Charter Township	2000.0	266.0
+29295	http://www.bownetwp.org/?	Bowne Township	2009.0	21.0
+29296	http://www.otsego.org/elmira/index.htm	Elmira Township	2002.0	0.0
+29297	http://www.alpenatownship.com/	Alpena Township	2005.0	12.0
+29298	http://www.gunplain.org/	Gun Plain Charter Township	2001.0	18.0
+29299	http://www.stcharlesdistrictlibrary.org/	Saint Charles District Library	2011.0	270.0
+29301	http://www.isabellacounty.org/contact-information/townships/21-rolland-township	Rolland Township	0.0	34.0
+29302	http://www.hillsdalecounty.info/government0037.asp	Cambria Township	2003.0	706.0
+29303	http://www.arborprep.com	Arbor Preparatory High School	2011.0	141.0
+29304	http://www.michigan.gov/libraryofmichigan/0,2351,7-160-34169_26038---,00.html	Michigan Reads	2012.0	696.0
+29305	http://www.grandville.k12.mi.us	Grandville	2000.0	452.0
+29307	http://www.cityofboynecity.com/	Boyne City, City of	2012.0	223.0
+29309	http://www.dafter.org/	Dafter Township	2002.0	2.0
+29310	http://www.lansingmi.gov/	Lansing, City of	2008.0	810.0
+29311	http://www.portagemi.com/	Portage, City of	1996.0	287.0
+29312	http://www.willard.lib.mi.us	Willard Public Library	1997.0	409.0
+29314	http://www.porthuron.org/	Port Huron, City of	1998.0	134.0
+29315	http://www.bigbayschool.com	Big Bay De Noc	2005.0	5.0
+29316	http://www.cityofgrayling.org/	Grayling, City of	2002.0	340.0
+29317	http://www.ypsilibrary.org	Ypsilanti District Library	2001.0	832.0
+29318	http://mason.k12.mi.us	Mason (Ingham)	1996.0	37.0
+29319	http://www.wynnea.com/kimballtownship.htm	Kimball Township	2000.0	2.0
+29320	http://www.cantoncharteracademy.com/	Capstone Academy Charter School (SDA)	2003.0	4.0
+29321	http://www.harrisonschools.com	Harrison	2004.0	1127.0
+29322	http://www.bangortownship.org/	Bangor Township	2004.0	201.0
+29323	http://www.nhaschools.com/schools/metro/en/pages/default.aspx	Romulus Metro	0.0	23.0
+29324	http://www.twp-lodi.org/	Lodi Township	2004.0	120.0
+29325	http://www.gp.lib.mi.us	Grosse Pointe Public Library	2000.0	280.0
+29326	http://www.twp.watertown.mi.us/	Watertown Charter Township	2001.0	319.0
+29327	http://www.detroitpubliclibrary.org/branch/main	Detroit Public Library	2012.0	47.0
+29328	http://www.cityoffremont.net/	Fremont, City of	2001.0	91.0
+29329	http://www.ppps.org/site/default.aspx?PageID=1	Paw Paw	2012.0	16.0
+29330	http://www.deerfieldtownship.com/	Deerfield Township	2001.0	7.0
+29332	http://www.markeytownship.org/	Markey Township	2004.0	16.0
+29334	http://hopkins.llcoop.org/	Hopkins Public Library	2001.0	1125.0
+29335	http://www.birchrunschools.org	Birch Run	0.0	1986.0
+29336	http://www.leelanau.cc/leelanautwp.asp	Leelanau Township	2004.0	1554.0
+29337	http://www.ci.wixom.mi.us/	Wixom, City of	2001.0	666.0
+29338	http://www.reedcitylibrary.org/	Reed City Public Library	2008.0	623.0
+29339	http://www.starpsa.org	Starr Detroit Academy	2003.0	42.0
+29340	http://www.romulus.lib.mi.us/	Romulus Public Library	1998.0	34.0
+29341	http://www.freewebs.com/denvertwp/index.htm	Denver Township	2014.0	0.0
+29342	http://www.gogebic.org/	Gogebic County	2001.0	2.0
+29343	http://www.cityofriverview.com/	Riverview, City of	2000.0	273.0
+29344	http://carltonacademy.com/	Will Carleton	2008.0	150.0
+29346	http://www.ci.alma.mi.us/1/307/index.asp	Alma, City of	2011.0	511.0
+29347	http://hesperialibrary.org	Hesperia Community Library	2003.0	2.0
+29348	http://www.dryden.k12.mi.us	Dryden	2000.0	964.0
+29349	http://akronfairgrove.org	Akron-Fairgrove	2007.0	71.0
+29350	http://www.hamptontownship.org/	Hampton Charter Township	1999.0	108.0
+29351	http://www.courtlandtwp.org/	Courtland Township	2004.0	36.0
+29352	http://www.aatwp.org/	Ann Arbor Charter Township	2000.0	80.0
+29353	http://www.sciotatownship.net/	Sciota Township	2005.0	12.0
+29354	http://www.michigan.gov/cwd	Chronic Wasting Disease Task Force	2003.0	671.0
+29355	http://www.ruthhughes.org/ruthhughes/	Ruth Hughes Memorial District Library	2008.0	117.0
+29356	http://www.dewittlibrary.org	Dewitt Public Library	2006.0	10.0
+29357	http://www.belleville.mi.us/	Belleville, City of	1998.0	2.0
+29358	http://www.dewittmi.org/	DeWitt, City of	2001.0	173.0
+29359	http://www.villageofbritton.org/	Britton, Village of	2008.0	20.0
+29360	http://www.threeoaks.michlibrary.org/	Three Oaks Township Public Library	2012.0	462.0
+29361	http://www.fremonttwnshp.com/	Fremont Township	2011.0	8.0
+29362	http://www.michigan.gov/ose/0,1607,7-143-6097_29351---,00.html	State Employee Service Program	2004.0	135.0
+29363	http://www.munrotownship.com/	Munro Township	2002.0	83.0
+29364	http://iron.org/	Iron County	1996.0	254.0
+29365	http://www.michigan.gov/forensic_artists	Forensic Artist Program	2006.0	1826.0
+29366	http://www.thegrammatoncleric.com/schoolcraft/	Schoolcraft, Village of	2008.0	14.0
+29367	http://www.detroitpubliclibrary.org/branch/campbell	Detroit Public Library - Campbell	2012.0	47.0
+29368	http://www.huronacademy.org	Huron Academy	2001.0	83.0
+29369	http://www.fowlerschools.net	Fowler	2009.0	5.0
+29370	http://www.lyontwp.org/	Lyon Charter Township	2000.0	162.0
+29371	http://www.cityoforchardlake.com/	Orchard Lake Village, City of	2002.0	48.0
+29374	http://www.detroitpubliclibrary.org/branch/conely	Detroit Public Library - Conely	2012.0	47.0
+29375	http://www.superior-twp.org/	Superior Charter Township	2001.0	177.0
+29376	http://www.charlevoixcounty.org/marion.asp	Marion Township	2008.0	606.0
+29378	http://www.ias-sabis.net/	International Preparatory Academy-MacDowell Campus	2008.0	28.0
+29379	http://www.battlecreek.org/	Battle Creek, City of	1996.0	2.0
+29380	http://www.ci.saline.mi.us/?module=Home	Saline, City of	2010.0	389.0
+29381	http://www.lincolntownshiplibrary.org	Lincoln Township Public Library	2008.0	15.0
+29382	http://www.manistique.k12.mi.us/library/library.htm	Manistique School Public Library	2004.0	5.0
+29383	http://www.nsacd.com	North Star Academy	2003.0	48.0
+29384	http://www.detroitpubliclibrary.org/branch/elmwood-park	Detroit Public Library - Elmwood Park	2012.0	47.0
+29385	http://www.fowlervillelibrary.org	Fowlerville District Library	2005.0	35.0
+29386	http://www.michigan.gov/deq/1,1607,7-135-3313_3677---,00.html	Great Lakes	2002.0	2350.0
+29387	http://www.cityofvassar.org/	Vassar, City of	2000.0	16.0
+29388	http://www.greaterheightsacademy.org	Greater Heights Academy	2013.0	41.0
+29389	http://sllib.org/	Spring Lake District Library	2004.0	472.0
+29390	http://www.bangorvikings.org	Bangor (Van Buren)	1999.0	249.0
+29391	http://www.newaygocity.org/	Newaygo, City of	2001.0	340.0
+29392	http://www.michigan.gov/business	Michigan Business One Stop	2005.0	16866.0
+29393	http://www.ross-township.us/index.html	Ross Township	2005.0	19.0
+29394	http://www.inlandlakes.org	Inland Lakes	2003.0	78.0
+29395	http://www.tecumsehtownship.org/	Tecumseh Township	2001.0	105.0
+29396	http://www.tekonshaschools.org/	Tekonsha	2012.0	102.0
+29397	http://www.co.mecosta.mi.us/austintown.asp	Austin Township	2005.0	0.0
+29398	http://highland.lib.mi.us	Highland Township Public Library	2002.0	11.0
+29399	http://www.michigan.gov/kids	Michigan Kids! Web site	2008.0	4068.0
+29401	http://www.baycounty-mi.gov/	Bay County	2004.0	894.0
+29402	http://www.michigan.gov/lara/0,4601,7-154-35738---,00.html	State Office of Administrative Hearings & Rules	2011.0	6076.0
+29403	http://www.fenton.k12.mi.us	Fenton	1998.0	24.0
+29404	http://www.acspublic.com	Airport	2008.0	0.0
+29405	http://www.michigan.gov/mshda/0,1607,7-141-54318---,00.html	Cultural Economic Development	2009.0	1258.0
+29406	http://www.bloomfieldhillsmi.net/	Bloomfield Hills, City of	2002.0	186.0
+29407	http://www.springfield.lib.mi.us/	Springfield Township Library	2005.0	585.0
+29408	http://www.hamburg.mi.us/	Hamburg Township	2001.0	179.0
+29409	http://www.ght.org/	Grand Haven Charter Township	1998.0	325.0
+29410	http://www.rosd.k12.mi.us/portal/	Royal Oak	2006.0	20.0
+29411	http://www.quincyschools.org	Quincy	2004.0	3.0
+29412	http://www.miltontwp.org/	Milton Township	2000.0	5.0
+29413	http://www.hillsdalecounty.info/government0067.asp	Camden, Village of	2003.0	706.0
+29414	http://www.bdalecards.org	Bloomingdale	2000.0	7.0
+29415	http://www.hudsonville.org/	Hudsonville, City of	2001.0	1780.0
+29416	http://www.dorrlibrary.michlibrary.org/	Dorr Township Library	2011.0	864.0
+29417	http://www.michigan.gov/cg	Charitable Gaming	2002.0	2882.0
+29418	http://www.cityofdavison.org/	Davison, City of	2001.0	248.0
+29419	http://www.manisteecounty.com	Manistee County	2001.0	468.0
+29420	http://www.pmdl.org	Pere Marquette District Library	2013.0	18.0
+29421	http://byron.k12.mi.us	Byron Center	1999.0	227.0
+29422	http://www.peninsulatownship.com/	Peninsula Township	2001.0	47.0
+29424	http://www.olivetownship.com/	Olive Township	2004.0	48.0
+29426	http://dearbornlibrary.org/	Dearborn Public Library	2006.0	387.0
+29428	http://www.gaudioracademy.org	Gaudior	0.0	8.0
+29429	http://www.calschools.org/	Caledonia	2008.0	398.0
+29430	http://www.carolibrary.org	Caro Area District Library	2000.0	356.0
+29431	http://www.hazel-park.lib.mi.us	Hazel Park Memorial Library	1998.0	34.0
+29432	http://www.twp.addison.mi.us/	Addison Township	2002.0	31.0
+29433	http://www.herrickdl.org	Herrick District Library	2001.0	136.0
+29434	http://www.hartfordmi.com/	Hartford, City of	1998.0	16.0
+29435	http://www.oxfordtownship.org/	Oxford Charter Township	1999.0	491.0
+29436	http://www.oaklandtownship.org/	Oakland Charter Township	2001.0	134.0
+29437	http://misd.k12.mi.us	Monroe ISD	1996.0	406.0
+29438	http://www.cityoftaylor.com/	Taylor, City of	1998.0	711.0
+29439	http://www.sfldlib.org	Southfield Public Library	2002.0	2.0
+29440	http://www.byroncentercharter.org	Byron Center Charter School	2008.0	16.0
+29441	http://oneamazingclass.org/forest-academy/	Forest Academy	2013.0	23.0
+29442	http://www.leelanau.cc/northport.asp	Northport, Village of	2004.0	1634.0
+29443	http://www.posen.k12.mi.us	Potterville	2003.0	8.0
+29444	http://www.sjcity.com/	Saint Joseph, City of	1999.0	191.0
+29445	http://www.harrison-township.org/	Harrison Charter Township	2004.0	97.0
+29446	http://www.bellevuemi.net/	Bellevue, Village of	2004.0	24.0
+29447	http://www.hamtramck.lib.mi.us/	Hamtramck Public Library	2005.0	73.0
+29448	http://www.pawpaw.net/	Paw Paw, Village of	1998.0	16.0
+29449	http://www.arenaccountygov.com/	Arenac County	2004.0	71.0
+29450	http://www.bluelaketownship.org/?	Blue Lake Township	2011.0	407.0
+29451	http://www.lakeodessalibrary.org	Lake Odessa Community Library	2005.0	551.0
+29452	http://www.menomineecounty.com/	Menominee County	2000.0	5641.0
+29453	http://www.themiddlecollege.org	Waterford Montessori Academy	2006.0	55.0
+29454	http://aldenlib.info	Helena Township Public Library	2008.0	1.0
+29455	http://www.ironriver.org/	Iron River, City of	1999.0	54.0
+29456	http://www.lansingtownship.org/	Lansing Charter Township	1999.0	213.0
+29457	http://www.jlas.org	Jo-Lewiston	1999.0	90.0
+29458	http://www.portagelibrary.info	Portage District Library	2002.0	252.0
+29459	http://www.petoskeyschools.org	Petoskey	2001.0	404.0
+29460	http://algonac-mi.gov/	Algonac, City of	2003.0	161.0
+29461	http://www.cascostclair.org/	Casco Township	2004.0	19.0
+29462	http://www.huntington-woods.lib.mi.us/	Huntington Woods Public Library	1998.0	11.0
+29463	http://nwschools.org	Northwest	2009.0	906.0
+29464	http://www.tricountyschools.com	Tri County	2002.0	90.0
+29465	http://www.cityofdowagiac.com/	Dowagiac, City of	2001.0	93.0
+29466	http://www2.library.lapeer.org//	Lapeer District Library	1998.0	1144.0
+29467	http://landmarkacademy.net/Main/Home.aspx	Landmark Academy	2010.0	0.0
+29468	http://www.nhaschools.com/schools/triumph/en/pages/default.aspx	Triumph Academy	0.0	23.0
+29469	http://www.ropl.org	Royal Oak Public Library	2006.0	1903.0
+29470	http://www.michigan.gov/calley	Lieutenant Governor Calley	2011.0	938.0
+29471	http://www.michigan.gov/cepi	Center for Educational Performance & Information	2001.0	4590.0
+29473	http://www.nhaschools.com/schools/timberland/en/pages/default.aspx	Timberland	0.0	23.0
+29474	http://charltonhestonacademy.com/	Charlton Heston Academy	2012.0	126.0
+29475	http://www.fortgratiot.org/	Fort Gratiot Charter Township	2002.0	0.0
+29476	http://www.michigan.gov/recordsmanagement	Records Management Services	2006.0	403.0
+29477	http://www.sjredwings.org	St. Johns	2010.0	356.0
+29478	http://www.marlette.k12.mi.us	Marlette	2000.0	59.0
+29479	http://www.cityofnegaunee.com/	Negaunee, City of	2004.0	46.0
+29480	http://www.twp.lowell.mi.us/	Lowell Charter Township	1998.0	21.0
+29481	http://www.leelanau.cc/centervilletwp.asp	Centerville Township	2006.0	1625.0
+29482	http://www.oscodatownshipmi.gov/1/322/index.asp	Oscoda Charter Township	2014.0	43.0
+29483	http://www.clkschools.org	Calumet	2003.0	391.0
+29484	http://www.tadl.org	Traverse Area District Library	1999.0	818.0
+29485	http://www.lamphere.k12.mi.us/education/district/district.php?sectionid=1	Lamphere	2003.0	3.0
+29486	http://www.villageofkingsley.com/	Kingsley, Village of	2005.0	50.0
+29487	http://www.ithacalibrary.michlibrary.org/	Thompson Home Public Library	2012.0	399.0
+29488	http://www.detroitpubliclibrary.org/branch/bowen	Detroit Public Library - Bowen	2012.0	47.0
+29489	http://www.americanmontessori.net/site/index.asp	American Montessori Academy	2012.0	12.0
+29490	http://www.torchlaketownship.org/	Torch Lake Township	2005.0	35.0
+29491	http://www.infomi.com/city/bessemer/	Bessemer, City of	2002.0	2.0
+29492	http://www.freeland.k12.mi.us	Freeland	1998.0	184.0
+29493	http://www.michigan.gov/ors/	Retirement Services	2002.0	1183.0
+29494	http://www.fabiustownship.org/	Fabius Township	2004.0	47.0
+29495	http://www.raisinvilletownship.com/	Raisinville Township	0.0	17.0
+29496	http://www.michigantownships.org/twp_details.asp?fips=59180	Norvell Township	2014.0	106.0
+29497	http://www.boynelibrary.org/	Boyne District Library	2006.0	683.0
+29498	http://vernontownship.org/	Vernon Township	2008.0	2.0
+29499	http://thresholdacademy.org/SitePages/Home.aspx	Threshold Academy	2013.0	0.0
+29502	http://www.ecorse.lib.mi.us/	Ecorse Public Library	1998.0	1.0
+29503	http://www.mundytwp-mi.gov/	Mundy Charter Township	2003.0	223.0
+29504	http://www.washington-parksacademy.org	Washington-Parks Academy	2011.0	25.0
+29505	http://www.cityofmuskegonheights.org/	Muskegon Heights, City of	2003.0	34.0
+29506	http://www.robinson-twp.org/	Robinson Township	2001.0	33.0
+29507	http://www.mesick.org	Michigan Center	2001.0	34.0
+29508	http://www.vermontville-mi.gov/	Vermontville, Village of	2006.0	11.0
+29509	http://www.lanseschools.org	L'Anse	2004.0	60.0
+29511	http://www.hct.holland.mi.us/	Holland Charter Township	2001.0	854.0
+29512	http://www.stclaircounty.org/townships/columbus/	Columbus Township	2005.0	85.0
+29513	http://www.watersmeet.k12.mi.us	Watersmeet	2003.0	188.0
+29514	http://www.chelibrary.org	Chesterfield Township Library	2001.0	73.0
+29515	http://www.madison-academy.org/	Madison Academy	2006.0	32.0
+29516	http://www.blissfieldmichigan.gov/	Blissfield, Village of	2003.0	62.0
+29518	http://www.hanleyacademy.com/	Hanley International Academy	2006.0	17.0
+29519	http://www.michigan.gov/healthymichigan	Michigan Steps Up	2011.0	3069.0
+29520	http://www.hackleylibrary.org	Hackley Public Library	2001.0	94.0
+29523	http://riverviewpubliclibrary.com	Riverview Public Library	2003.0	1.0
+29524	http://www.twp.northfield.mi.us/	Northfield Township	2004.0	66.0
+29525	http://www.moreypublicschool.com	Mosaica Online Academy of Michigan	2008.0	193.0
+29526	http://www.vikingnet.org	Cadillac	1998.0	322.0
+29527	http://www.stjosephcountymi.org	St. Joseph County	2002.0	127.0
+29529	http://www.sturgismi.gov/	Sturgis, City of	2011.0	96.0
+29530	http://www.suttonsbaylibrary.org/	Suttons Bay-Bingham District Library	2004.0	154.0
+29531	http://www.royaloaktwp.com/	Royal Oak Charter Township	2004.0	39.0
+29532	http://www.think-usa.org	Unionville-Sebewaing	2008.0	64.0
+29533	http://www.kentwoodps.org	Laingsburg	2000.0	300.0
+29534	http://www.memphisk12.org	Memphis	2010.0	31.0
+29535	http://www.hazelpark.k12.mi.us	Hazel Park	1999.0	93.0
+29536	http://www.eatonresa.org	Eaton RESA	2013.0	96.0
+29537	http://www.nhaschools.com/schools/windemerepark/en/pages/default.aspx	Windemere Park	0.0	23.0
+29538	http://gbacademy.org/	Grand Blanc Academy	2009.0	71.0
+29539	http://www.lakeviewspartans.org	Lakeview (Calhoun)	0.0	419.0
+29540	http://www.rhpl.org/	Rochester Hills Public Library	2000.0	436.0
+29541	http://www.nhuron.org/	North Huron	2001.0	36.0
+29542	http://www.armadalib.org	Armada Free Public Library	2000.0	384.0
+29543	http://www.brucetwp.org/	Bruce Township	2001.0	42.0
+29544	http://www.wmich.edu/	Western Michigan University	1997.0	3613.0
+29545	http://www.gainestownship.org/	Gaines Charter Township	2006.0	129.0
+29548	http://www.glenlake.k12.mi.us	Glen Lake	1998.0	143.0
+29549	http://www.hudsonville.k12.mi.us/HPS/	Hudsonville	2008.0	1459.0
+29550	https://www.facebook.com/pages/Orleans-Township-Ionia-County-Michigan/152313944810588	Orleans Township	0.0	1.0
+29551	http://www.rauchholzlibrary.org	Rauchholz Memorial Library	2008.0	22.0
+29552	http://www.marshalltownship.org/	Marshall Township	2004.0	12.0
+29553	http://www.whitecloudlibrary.net/	White Cloud Community Library	2003.0	584.0
+29554	http://www.alpena.mi.us/	Alpena, City of	1998.0	133.0
+29556	http://www.easttawas.com/	East Tawas, City of	0.0	93.0
+29557	http://www.mortontownshiplibrary.org/	Morton Township Public Library	2007.0	2.0
+29558	http://www.lenawee.lib.mi.us/	Lenawee County Library	1999.0	24.0
+29559	http://www.richlandtwp.net/?	Richland Township	2009.0	30.0
+29560	http://woodlandparkacademy.org/	Woodland Park Academy	2013.0	21.0
+29561	http://www.charlevoixcounty.org/govern0283.asp	Bay Township	2003.0	605.0
+29562	http://www.uplibraries.org/whitefish.htm	Whitefish Township Community Library	0.0	1.0
+29563	http://www.michigan.gov/mistudentaid	Student Financial Aid	2002.0	6898.0
+29564	http://jamestown.llcoop.org/	Patmos Library	2001.0	757.0
+29565	http://fulton.edzone.net/site/default.aspx?PageID=1	Fulton	0.0	6.0
+29566	http://www.brandywinebobcats.org	Brandywine	2007.0	193.0
+29567	http://www.pigeonmichigan.com/	Pigeon, Village of	2004.0	34.0
+29568	http://www.charlevoixcounty.org/chandler.asp	Chandler Township	2003.0	612.0
+29569	http://southredford.net	South Redford	2000.0	60.0
+29570	http://www.homerschools.net	Homer	2002.0	1592.0
+29571	http://www.nhaschools.com/schools/endeavor/en/pages/default.aspx	Escuela Avancemos!	2013.0	23.0
+29572	http://www.kdl.org/branches/5	Kent District Library - Plainfield	2007.0	50.0
+29573	http://www.hbpirates.org	Harbor Beach	2008.0	149.0
+29574	http://www.hudsonville.org/library/	Gary Byker Memorial Library Of Hudsonville	2002.0	1.0
+29575	http://www.kdl.org/branches/4	Kent District Library - Grandville	2007.0	47.0
+29576	http://www.lincolnparkpublicschools.com	Lincoln Park	2009.0	327.0
+29577	http://www.detroitpubliclibrary.org/branch/knapp	Detroit Public Library - Knapp	2012.0	47.0
+29578	http://www.detroitpubliclibrary.org/branch/hubbard	Detroit Public Library - Hubbard	2012.0	47.0
+29580	http://www.ci.livonia.mi.us/	Livonia, City of	1998.0	1752.0
+29581	http://www.midland-mi.org/	Midland, City of	2000.0	2.0
+29582	http://www.otsegolibrary.org	Otsego District Public Library	2000.0	44.0
+29583	http://www.twp.windsor.mi.us/	Windsor Charter Township	2000.0	17.0
+29584	http://www.vbco.org/	Van Buren County	2002.0	418.0
+29585	http://www.co.ottawa.mi.us/	Ottawa County	1999.0	591.0
+29586	http://www.hastings.mi.us/	Hastings, City of	1998.0	637.0
+29587	http://www.bessemer.org/	Bessemer Township	1997.0	9.0
+29588	http://swanvalleyschools.com/	Swartz Creek	2013.0	633.0
+29589	http://www.zeelandtwp.org/	Zeeland Charter Township	2007.0	35.0
+29590	http://www.yale.k12.mi.us	Ypsilanti	1998.0	22.0
+29591	http://www.howardcity.org/	Howard City, Village of	2006.0	136.0
+29592	http://www.portertownship.org/	Porter Township	2000.0	28.0
+29594	http://web2.wayland.k12.mi.us/	Wayland Union	2009.0	1382.0
+29595	http://www.woodlandschool.ws	Woodland School	2008.0	19.0
+29596	http://www.copperharbor.org/	Copper Harbor	1998.0	18.0
+29597	http://www.armadatwp.org	Armada Township	2007.0	105.0
+29598	http://www.flatrockmi.org/index-home.asp	Flat Rock, City of	2012.0	310.0
+29600	http://www.franklin.mi.us/	Franklin, Village of	1999.0	62.0
+29601	http://www.michigan.gov/cgi	Center for Geographic Information	2002.0	5057.0
+29602	http://www.legislature.mi.gov/(S(xi10k0jopqibx5b0r0tghxjb))/mileg.aspx?page=home	State Legislature	2006.0	15882.0
+29603	http://www.woodhavenmi.org/index-home.asp	Woodhaven, City of	2010.0	0.0
+29604	http://www.kdl.org/branches/12	Kent District Library - Kentwood	2007.0	50.0
+29605	http://www.clarktwp.org/	Clark Township	2001.0	189.0
+29606	http://www.burtonmi.gov/	Burton, City of	2012.0	0.0
+29607	http://www.breck.edzone.net	Breckenridge	2001.0	0.0
+29608	http://www.homermich.com/	Homer, Village of	2000.0	32.0
+29609	http://www.lawtoncs.org	Lawton	2004.0	26.0
+29610	http://www.lakerschools.org	Elkton-Pigeon-Bay Port Laker	2002.0	87.0
+29611	http://www.benzonia.lib.mi.us	Benzonia Public Library	2007.0	8.0
+29612	http://www.michigan.gov/michiganprepares	Michigan Prepares	2006.0	6079.0
+29613	http://www.nhaschools.com/schools/ridgepark/en/pages/default.aspx	Rising Stars Academy	0.0	23.0
+29614	http://www.montmorencycountymichigan.us/	Montmorency County	2006.0	84.0
+29615	http://www.rochesterhills.org/	Rochester Hills, City of	1998.0	1120.0
+29617	http://www.vicksburg-community-schools.org	Vicksburg	2003.0	68.0
+29618	http://www.egrps.org	East Grand Rapids	2000.0	79.0
+29619	http://maps.manistee.org/	Manistee	2013.0	25.0
+29620	http://www.sault-sainte-marie.mi.us/	Sault Ste Marie, City of	2000.0	0.0
+29621	http://www.madl.org	Muskegon Area District Library	1999.0	179.0
+29622	http://www.roscommoncounty.net/	Roscommon County	2001.0	328.0
+29623	http://www.eatoncounty.org/	Eaton County	2003.0	6687.0
+29624	http://plymouthlibrary.org	Plymouth District Library	2002.0	1998.0
+29625	http://orionlibrary.org/	Orion Township Public Library	2008.0	0.0
+29626	http://aceaofmidland.org/	Academic and Career Education Academy	2007.0	20.0
+29627	http://www.bankstownship.net/	Banks Township	2004.0	135.0
+29628	http://www.dundeecommunityschools.org/	Dundee	2010.0	160.0
+29629	http://www.mackinacparks.com/	Mackinac State Historic Parks	0.0	259.0
+29630	http://www.charlevoixcounty.org/melrose.asp	Melrose Township	2003.0	613.0
+29631	http://onaway.mi.schoolwebpages.com/education/school/school.php?sectionid=7267	Oneida Twp #3	2003.0	3.0
+29633	http://www.northpointepsa.org	Northpointe Academy	2011.0	1.0
+29634	http://www.ci.fraser.mi.us	Fraser Public Library	1998.0	507.0
+29637	http://www.baragacounty.org/	Baraga County	2004.0	91.0
+29638	http://www.lathrupvillage.org/	Lathrup Village, City of	1998.0	408.0
+29639	http://watertowntwplibrary.org	Watertown Township Library	2008.0	16.0
+29640	http://www.milantownship.org/	Milan Township	2007.0	8.0
+29641	http://westvillageacademy.org	West Village	2009.0	30.0
+29642	http://www.uproc.lib.mi.us/mspl/	Munising School Public Library	2000.0	4.0
+29644	http://www.detroitpubliclibrary.org/branch/franklin	Detroit Public Library - Franklin	2012.0	47.0
+29645	http://www.dickinsoncountymi.gov/	Dickinson County	2006.0	49.0
+29646	http://www.myjdl.com	Jackson District Library	2005.0	1002.0
+29647	http://www.standish-sterling.org	Standish-Sterling	2001.0	231.0
+29648	http://www.mmsaonline.org	Michigan Mathematics and Science Academy	2009.0	160.0
+29649	http://www.masonchamber.org/	Mason, City of	1999.0	38.0
+29650	http://www.eup.k12.mi.us/site/default.aspx?PageID=1	Eastern UP ISD	2013.0	22.0
+29651	http://www.nortonshores.org/	Norton Shores, City of	1999.0	1198.0
+29653	http://www.oakridgeschools.org/site/default.aspx?PageID=1	Oakridge	2012.0	13.0
+29654	http://www.cheboygan.org/	Cheboygan, City of	2000.0	30.0
+29655	http://www.ci.ionia.mi.us/	Ionia, City of	2000.0	486.0
+29656	http://www.hillsdalecounty.info/government0023.asp	Moscow Township	2004.0	704.0
+29657	http://www.lansetownship.org/	L'anse Township	2004.0	8.0
+29658	http://www.cityofcharlevoix.org/	Charlevoix, City of	2003.0	46.0
+29659	http://www.lakeshoreschools.k12.mi.us/	Lakeshore (Berrien)	2001.0	5.0
+29660	http://orchardview.org/	Orchard View	2001.0	48.0
+29661	http://www.chebschools.com	Cheboygan	2011.0	46.0
+29662	http://cassopolis.k12.mi.us/	Cassopolis	2004.0	647.0
+29663	http://www.northbranchlibrary.org/	North Branch Township Library	2003.0	450.0
+29664	http://www.district7.net	Dearborn Heights #7	2002.0	6.0
+29665	http://www.deckerville.k12.mi.us	Deckerville	1998.0	21.0
+29666	http://www.frankfort.k12.mi.us	Frankfort-Elberta	2001.0	126.0
+29667	http://www.franklin.lib.mi.us	Franklin Public Library	1998.0	430.0
+29668	http://www.mayvillelibrary.org	Mayville District Public Library	2001.0	778.0
+29669	http://www.adlmi.org	Almont District Library	2001.0	340.0
+29670	http://www.hillsdalecounty.info/government0026.asp	Ransom Township	2004.0	706.0
+29671	http://pottervillelibrary.org	Potterville Benton Township District Library	2002.0	8.0
+29673	http://www.viennatwp.com/	Vienna Charter Township	2001.0	98.0
+29674	http://www.ci.big-rapids.mi.us/	Big Rapids, City of	1997.0	59.0
+29675	http://www.pennfieldtwp.com/	Pennfield Township	2003.0	356.0
+29676	http://www.grpl.org	Grand Rapids Public Library	0.0	660.0
+29677	http://www.stephenson-mi.com/	Stephenson, City of	1998.0	19.0
+29678	http://www.norway.k12.mi.us	Norway-Vulcan	1998.0	66.0
+29679	http://grandtraverseacademy.mi.schoolwebpages.com/education/school/school.php?sectionid=2	Grand Traverse	2006.0	3.0
+29680	http://www.ci.plymouth.mi.us/	Plymouth, City of	1998.0	496.0
+29681	http://www.taylor.lib.mi.us/	Taylor Community Library	1998.0	582.0
+29682	http://www.cfss.org	Camden-Frontier	2000.0	19.0
+29684	http://www.infomi.com/city/threeoaks/	Three Oaks, Village of	2003.0	5.0
+29685	http://midlandacademy.com	Midland Academy	2003.0	199.0
+29686	http://www.marlettelibrary.org	Marlette District Library	2008.0	23.0
+29688	http://www.taymouthtwplibrary.org	Taymouth Township Library	2011.0	21.0
+29689	http://www.oakparkschools.org	Oak Park	1999.0	368.0
+29690	http://www.csredhawks.org	Cedar Springs	2001.0	921.0
+29691	http://www.shps.org	South Haven	1999.0	266.0
+29692	http://www.michigan.gov/libraryofmichigan	Library of Michigan	2006.0	4468.0
+29693	http://www.bendleschools.org	Bendle	2001.0	34.0
+29694	http://casman.manistee.org/	Casman Alternative Academy	0.0	61.0
+29695	http://www.cmpl.org	Clinton-Macomb Public Library	2000.0	145.0
+29696	http://www.pidl.org/home.html	Presque Isle District Library	2013.0	47.0
+29697	http://www.michigan.gov/gasprices	Gasoline Corner	2006.0	1058.0
+29698	http://wwcsd.net	Wayne-Westland	2001.0	652.0
+29699	http://www.northportps.org	Northport	2007.0	1.0
+29700	http://www.lakeisabellami.org/	Lake Isabella, Village of	2006.0	39.0
+29702	http://www.convistownship.org/	Convis Township	2001.0	22.0
+29703	http://www.wmaaa.com	West Mich Academy	2001.0	69.0
+29704	http://www.michigan.gov/mgcb	Gaming Control Board	2002.0	3180.0
+29705	http://www.newkirktownship.com/	Newkirk Township	2007.0	22.0
+29706	http://www.mendonschools.org/site/default.aspx?PageID=1	Menominee	2011.0	6.0
+29707	http://www.co.monroe.mi.us/	Monroe County	2000.0	513.0
+29708	http://www.leelanau.cc/suttonsbayvill.asp	Suttons Bay, Village of	2006.0	1612.0
+29709	http://www.leslietownship.org/	Leslie Township	2006.0	114.0
+29710	http://www.nhaschools.com/schools/detroitmerit/en/pages/default.aspx	Detroit Merit	2013.0	23.0
+29711	http://www.rosevillelibrary.org	Roseville Public Library	2005.0	39.0
+29713	http://www.newbeginningsacademy.org	New Beginnings Academy	2002.0	2.0
+29714	http://www.dundeevillage.net/	Dundee, Village of	2005.0	421.0
+29715	http://www.kentcountymi.gov/	Kent County	2008.0	753.0
+29716	http://www.hudsontownship.org/	Hudson Township	2007.0	12.0
+29717	http://belding.mi.us/	Belding, City of	2013.0	27.0
+29719	http://www.michigan.gov/mdot/	Transportation	2002.0	3578.0
+29721	http://www.milfordlibrary.info	Milford Public Library	2003.0	91.0
+29722	http://www.chippewatwp-mecostaco.org/	Chippewa Township	2013.0	86.0
+29723	http://www.chesterfieldtwp.org/	Chesterfield Charter Township	2002.0	459.0
+29724	http://www.whitelakelibrary.org/whitelake/	White Lake Township Library	2009.0	73.0
+29725	http://iosco.m33access.com/index.htm	Iosco County	2003.0	55.0
+29726	http://www.albionlibrary.org	Albion District Library	2002.0	227.0
+29727	http://www.fvl.k12.mi.us	Fowlerville	0.0	477.0
+29728	http://www.ferndaleschools.org	Ferndale	1999.0	93.0
+29729	http://www.jpsk12.org	Jefferson	2006.0	130.0
+29730	http://nvps.net	Northview	2001.0	539.0
+29731	http://www.cityofhowell.org/	Howell, City of	2000.0	240.0
+29732	http://www.leelanau.cc/	Leelanau County	2003.0	1595.0
+29733	http://www.mayfieldtownship.com/	Mayfield Township	2001.0	21.0
+29736	http://www.abc-clio.com/	Greenwood Township	1996.0	43.0
+29737	http://www.twp.west-bloomfield.mi.us/	West Bloomfield Charter Township	2003.0	290.0
+29738	http://spartami.org/	Sparta, Village of	0.0	62.0
+29739	http://www.fruitlandtwp.org/	Fruitland Township	2002.0	203.0
+29740	http://www.cherrygrovetwp.org/	Cherry Grove Township	2008.0	35.0
+29741	http://www.porthope.k12.mi.us	Port Hope	1998.0	36.0
+29742	http://www.hillsdalecounty.info/government0006.asp	Allen Township	2003.0	706.0
+29743	http://www.nhaschools.com/schools/northsaginaw/en/pages/default.aspx	North Saginaw	0.0	23.0
+29744	http://www.uproc.lib.mi.us/las/	Lanse Area School-Public Library	2007.0	1.0
+29745	http://www.sjschools.org/site/default.aspx?PageID=1	St. Joseph	2013.0	170.0
+29746	http://www.arenaceastern.org	Arenac Eastern	2001.0	61.0
+29747	http://www.belleville.lib.mi.us/	Fred C. Fischer Public Library	1998.0	81.0
+29748	http://www.hancock.k12.mi.us	Hanover-Horton	2000.0	63.0
+29749	http://www.maisd.com	Montcalm ISD	1998.0	700.0
+29750	http://www.nhaschools.com/schools/greatoaks/en/pages/default.aspx	Great Oaks Academy	0.0	23.0
+29751	http://www.adrian.com/	Adrian Township	1998.0	498.0
+29752	http://www.saginawlibrary.org	Public Libraries Of Saginaw	2001.0	246.0
+29753	http://www.ci.northville.mi.us/	Northville, City of	2002.0	1042.0
+29754	http://www.detroitpubliclibrary.org/branch/chase	Detroit Public Library - Chase	2012.0	47.0
+29755	http://www.reeseunitylibrary.org/	Reese Unity District Library	2011.0	67.0
+29756	http://www.stevensville.org/	Stevensville, Village of	2001.0	35.0
+29757	http://www.sccresa.org/countyeducation/academies/bluewaterlearningacademy/	Blue Water	2008.0	2.0
+29758	http://www.shelbypublicschools.net	Shelby	2013.0	78.0
+29759	http://www.ci.rochester.mi.us/	Rochester, City of	2002.0	352.0
+29760	http://www.chsd.us	Chippewa Valley	2003.0	28.0
+29761	http://www.coleacademy.org	Cole Academy	2006.0	38.0
+29762	http://www.cityofau-gres-mi.org/	AuGres, City of	2007.0	27.0
+29763	http://www.williamstowntownship.com/	Williamstown Township	2006.0	3.0
+29764	http://www.foresthometwp.com	Forest Home Township	2003.0	15.0
+29765	http://www.gpak8.com	Global Preparatory Academy	2010.0	290.0
+29766	http://www.almontschools.org	Almont	2013.0	314.0
+29767	http://www.wellspringprep.com	Wellspring Preparatory High School	2005.0	135.0
+29768	http://www.clinton-county.org/	Clinton County	1998.0	602.0
+29769	http://www.commercetwp.com/	Commerce Charter Township	2000.0	165.0
+29770	http://www.mackinawcity.org/	Mackinaw City, Village of	2000.0	97.0
+29771	http://detourata.eup.k12.mi.us/site/default.aspx?PageID=1	DeTour Arts and Technology Academy	2013.0	9.0
+29772	http://www.michigan.gov/micontractconnect/0,4541,7-225-48756---,00.html	Administrative Board	2012.0	364.0
+29773	http://www.bvct.org/	Buena Vista Township	2004.0	45.0
+29774	http://www.longlaketownship.com/	Long Lake Township	2000.0	33.0
+29775	http://www.genoa.org/	Genoa Township	1999.0	929.0
+29777	http://freeport.llcoop.org	Freeport District Library	2001.0	1.0
+29778	http://knd.manistee.org/	Kaleva Norman Dickson	2012.0	75.0
+29779	http://www.springarbor.org/	Spring Arbor Township	2003.0	58.0
+29780	http://www.uproc.lib.mi.us/rich/	Richmond Township Library	0.0	1.0
+29781	http://www.michigan.gov/mde	Education	2002.0	6981.0
+29782	http://www.antrimcounty.org/	Antrim County	2002.0	187.0
+29783	http://www.michigan.gov/mda	Agriculture and Rural Development	2002.0	5989.0
+29784	http://www.michigan.gov/ose/	State Employer	2002.0	136.0
+29785	http://www.nhaschools.com/schools/reach/en/pages/default.aspx	Reach Charter Academy	0.0	23.0
+29786	http://www.michigan.gov/landbank	Land Bank Fast Track Authority	2007.0	4159.0
+29787	http://www.vergennestwp.org/	Vergennes Township	2001.0	48.0
+29788	http://lyonstownship.ioniacounty.org/	Lyons Township	2011.0	13.0
+29789	http://www.wolverinelake.com/Pages/default.aspx	Wolverine Lake, Village of	2011.0	0.0
+29790	http://www.michigan.gov/archivesofmi	Archives of Michigan	2006.0	519.0
+29792	http://www.infomi.com/city/newhaven/	New Haven, Village of	2002.0	3.0
+29793	http://www.boynefalls.org	Boyne Falls	2001.0	2.0
+29794	http://www.colonlibrary.org	Colon Township Library	2006.0	131.0
+29795	http://www.mvs.k12.mi.us/	Maple Valley	2001.0	114.0
+29796	http://www.baisd.net	Bay-Arenac ISD	2000.0	238.0
+29797	http://www.michigan.gov/ltc	Long Term Care	2002.0	43.0
+29798	http://www.grantps.net	Grant	1998.0	326.0
+29799	http://www.baycitymi.org/	Bay City, City of	2000.0	921.0
+29801	http://www.allendale-twp.org/	Allendale Charter Township	1998.0	85.0
+29802	http://jvdl.info	Jordan Valley District Library	2006.0	234.0
+29803	http://tech.mtpleasant.k12.mi.us/mpps/	Mt. Pleasant	0.0	6.0
+29804	http://cityofwestland.com/	Westland, City of	2000.0	1209.0
+29805	http://www.gladwin.org/	Gladwin, City of	1998.0	43.0
+29806	http://www.greentownship.org/	Green Charter Township	2006.0	22.0
+29809	http://www.byrontownship.org/	Byron Township	2004.0	88.0
+29810	http://www.reading.mi.us/	Reading, City of	2000.0	78.0
+29811	http://www.rapidriver.k12.mi.us/education/school/school.php?sectionid=3	Rapid River	2010.0	3.0
+29812	http://www.sanilaccounty.net/	Sanilac County	2001.0	140.0
+29813	http://www.aceacademysda.com	ACE Academy (SDA)	2010.0	207.0
+29814	http://www.villageofoxford.org/	Oxford, Village of	2003.0	207.0
+29815	http://www.calhouncountymi.gov/	Calhoun County	2003.0	1173.0
+29816	http://www.oakpark-mi.com/	Oak Park, City of	1999.0	30.0
+29817	http://www.tuscolacounty.org/	Tuscola County	2000.0	47.0
+29819	http://clare.k12.mi.us	Clare	2002.0	7.0
+29820	http://www.lasd.net	Mackinac Island	2000.0	148.0
+29821	http://www.allendale.k12.mi.us	Allendale	1998.0	323.0
+29822	http://sleeperlibrary.org/	Sleeper Public Library	2011.0	6.0
+29824	http://www.michigan.gov/mdch	Community Health	2002.0	8078.0
+29825	http://www.sheridantownship.com/	Sheridan Township	2011.0	15.0
+29826	http://www.oiacademy.net/	Oakside Scholars Charter Academy	0.0	213.0
+29827	http://www.ontonagonmi.com	Ontonagon County	1999.0	34.0
+29828	http://www.michigan.gov/mdcr	Civil Rights	2002.0	7247.0
+29829	http://www.michigan.gov/mdcs	Civil Service	2002.0	4865.0
+29830	http://www.ejps.org	East Jordan	1999.0	187.0
+29831	http://www.tbaisd.k12.mi.us	Traverse Bay ISD	1996.0	37.0
+29833	http://www.pawpawtownship.org/	Paw Paw Township	2003.0	49.0
+29834	http://www.michigan.gov/lara/0,4601,7-154-61256_17485---,00.html	Michigan Employment Relations Commission	2012.0	6096.0
+29835	http://www.cityofmountclemens.com/	Mount Clemens, City of	2001.0	46.0
+29836	http://www.monashores.net	Mona Shores	2001.0	527.0
+29837	http://www.northvillemich.com/	Northville Charter Township	0.0	842.0
+29838	http://www.hillsdalecounty.info/government0066.asp	Allen, Village of	2003.0	706.0
+29839	http://www.twp-dexter.org/	Dexter Township	2004.0	388.0
+29840	http://www.lakeview.misd.net/	Lakeview (Macomb)	2003.0	89.0
+29841	http://www.uproc.lib.mi.us/ish/	Ishpeming Carnegie Public Library	2011.0	12.0
+29842	http://www.carman.k12.mi.us/site/default.aspx?PageID=1	Carman-Ainsworth	2011.0	12.0
+29844	http://coetownship.com/	Coe Township	2006.0	6.0
+29845	http://blissfield.com/	Blissfield Township	1999.0	68.0
+29846	http://www.eastjordancity.org/	East Jordan, City of	2004.0	40.0
+29847	http://www.nhaschools.com/schools/southpointe/en/pages/default.aspx	Southwest Detroit Lighthouse Academy	0.0	23.0
+29848	http://sandusky.lib.mi.us	Sandusky District Library	2000.0	486.0
+29849	http://www.stephenson.k12.mi.us	Stephenson	1997.0	5.0
+29850	http://www.co.mecosta.mi.us/martinytown.asp	Martiny Township	2005.0	0.0
+29851	http://www.michigan.gov/westnile	West Nile Virus	2006.0	673.0
+29852	http://catalog.orionlibrary.org/search/communityinformation.aspx?ctx=3.1033.0.0.6	Lake Orion, Village of	2013.0	372.0
+29853	http://dexterschools.org	Dollar Bay-Tamarack	2009.0	219.0
+29854	http://wayne.edu/	Wayne State University	1997.0	6625.0
+29855	http://www.pinerivertwp.org/	Pine River Township	2006.0	16.0
+29856	http://www.cityofallegan.org/	Allegan, City of	2003.0	33.0
+29857	http://www.bsclibrary.org	Berrien Springs Community Library	2001.0	15.0
+29858	http://www.nhaschools.com/schools/taylor/en/pages/default.aspx	Taylor Exemplar Academy	0.0	23.0
+29859	http://www.michiganfilmoffice.org	Michigan Film Office	2008.0	227.0
+29860	http://www.crawfordco.org/	Crawford County	2002.0	28.0
+29861	http://scs.hfli.org/	Henry Ford Academy: School for Creative Studies (PSAD)	2012.0	55.0
+29862	http://www.athertonschools.org/site/default.aspx?PageID=1	Atherton	2012.0	1561.0
+29863	http://www.uproc.lib.mi.us/ironwood/	Ironwood Carnegie Library	2011.0	0.0
+29864	http://www.cityofgrandblanc.com/	Grand Blanc, City of	0.0	115.0
+29865	http://www.crystalfallstownship.org/	Crystal Falls Township	2009.0	58.0
+29867	http://www.alleganpublicschools.org	Allegan	2004.0	114.0
+29868	http://www.charteracademies.com/academy-of-southfield/index.htm	Academy of Southfield	2008.0	0.0
+29869	http://www.otsegolaketownship.org/	Otsego Lake Township	2007.0	35.0
+29870	http://www.otsegops.org	Otsego	2008.0	277.0
+29871	https://www.thegdl.org/	Genesee District Library	2004.0	1117.0
+29872	http://www.phasd.us	Port Huron	2008.0	751.0
+29873	http://www.infomi.com/city/bentonharbor/	Benton Harbor, City of	2002.0	4.0
+29874	http://www.cityofnewbaltimore.org/	New Baltimore, City of	2008.0	215.0
+29875	http://www.sjcisd.org/site/default.aspx?PageID=1	St. Joseph ISD	2013.0	9.0
+29877	http://www.cityofcaseville.com/	Caseville, City of	2013.0	373.0
+29878	http://www.saranac.k12.mi.us	Saranac	1999.0	83.0
+29881	http://www.summit-academy.com	Summit Academy North	1998.0	230.0
+29882	http://www.geneseeschools.org	Genesee	2003.0	129.0
+29883	http://www.berkleymich.org/	Berkley, City of	2003.0	67.0
+29884	http://www.oakland.edu/	Oakland University	1997.0	4464.0
+29885	http://www.mtmorristwp.org/	Mount Morris Charter Township	2004.0	28.0
+29886	http://www.southgatemi.org/	Southgate, City of	2010.0	189.0
+29887	http://www.stlouisschools.net/site/default.aspx?PageID=1	St. Louis	2012.0	33.0
+29889	http://www.ci.troy.mi.us/	Troy, City of	1999.0	842.0
+29890	http://www.detroitsla.org	Detroit Service Learning Academy	2011.0	50.0
+29891	http://www.vbco.org/geneva.asp	Geneva Township	2003.0	418.0
+29892	http://www.croton.org/	Croton Township	2002.0	2.0
+29893	http://www.wyoming.k12.mi.us	Wyoming	2000.0	102.0
+29894	http://coopersvillebroncos.org/	Coopersville	2003.0	234.0
+29895	http://www.owosso.k12.mi.us	Owosso	1999.0	287.0
+29896	http://www.binghamfarms.org/	Bingham Farms, Village of	2001.0	33.0
+29897	http://www.solontwp.org/	Solon Township	2002.0	8.0
+29898	http://garden-city.lib.mi.us	Garden City Public Library	1997.0	2.0
+29899	http://www.gladwinlibrary.org	Gladwin County District Library	2001.0	1286.0
+29900	http://www.osceola-county.org	Osceola County	2003.0	177.0
+29901	http://www.idatownship.org/	Ida Township	2007.0	3.0
+29902	http://www.cityofstclair.com/	Saint Clair, City of	2002.0	113.0
+29903	http://northfieldtownshiplibrary.com	Northfield Township Area Library	2002.0	47.0
+29904	http://www.ci.wyoming.mi.us/	Wyoming, City of	1999.0	749.0
+29905	http://www.cascotownship.org/	Casco Township	2004.0	21.0
+29906	http://www.infomi.com/township/haynes/	Haynes Township	2002.0	2.0
+29907	http://newbergtwp.com/	Newberg Township	2013.0	160.0
+29908	http://www.kdl.org/branches/18	Kent District Library - Wyoming	2007.0	47.0
+29909	http://www.kdl.org/branches/17	Kent District Library - Walker	2007.0	50.0
+29910	http://www.kdl.org/branches/16	Kent District Library -Tyrone Township	2007.0	50.0
+29911	http://www.kdl.org/branches/15	Kent District Library - Spencer Township	2007.0	50.0
+29912	http://www.kdl.org/branches/14	Kent District Library - Sand Lake-Nelson Township	2007.0	50.0
+29913	http://www.kdl.org/branches/13	Kent District Library - Krause Memorial	2007.0	47.0
+29914	http://www.michigan.gov/deq	Environmental Quality	2002.0	5851.0
+29915	http://www.kdl.org/branches/11	Kent District Library - Gaines Township	2007.0	47.0
+29916	http://www.kdl.org/branches/10	Kent District Library - Englehardt	2007.0	50.0
+29917	http://www.michigan.gov/estore	Michigan eStore	2006.0	236.0
+29918	http://www.gibdist.net	Gibraltar	2008.0	1337.0
+29919	http://www.springportmi.com/	Springport, Village of	2006.0	167.0
+29921	http://www.river-rouge.lib.mi.us/	River Rouge Public Library	1998.0	8.0
+29922	http://btl-verso.auto-graphics.com/WelcomePages/SplashPage1.aspx?cid=BTL&targetLibPK=9108&lid=BTL	Bellevue Township Library	0.0	3.0
+29924	http://www.casscountymi.org/	Cass County	1999.0	68.0
+29925	http://www.sccresa.org/countyeducation/academies/careerprepacademy/	St. Clair County Career Prep Academy	2010.0	10.0
+29926	http://www.co.grand-traverse.mi.us/	Grand Traverse County	2001.0	1367.0
+29927	http://www.oxfordschools.org	Oxford	2004.0	611.0
+29928	http://sumptertwp.com/	Sumpter Township	2007.0	26.0
+29929	http://www.oscodacountymi.com/	Oscoda County	2006.0	134.0
+29930	http://www.nhaschools.com/schools/quest/en/pages/default.aspx	Quest Charter Academy	0.0	23.0
+29931	http://www.michigan.gov/sos/1,1607,7-127-1585---,00.html	Automotive Regulation	2002.0	3124.0
+29934	http://www.bas-k12.org	Belding	2004.0	422.0
+29935	http://www.superiorcentralschools.org/	Superior Central	2007.0	51.0
+29937	http://www.plainwell.org/	Plainwell, City of	2000.0	257.0
+29939	http://www.bellairepublicschools.com	Bellaire	2007.0	1345.0
+29940	http://www.dowagiacdl.org/	Dowagiac District Library	2007.0	45.0
+29941	http://www.sugarislandtownship.com/	Sugar Island Township	2006.0	0.0
+29942	http://www.theadrianmaples.com	Adrian	2008.0	614.0
+29943	http://www.ensleytownship.org/	Ensley Township	2003.0	42.0
+29944	http://www.hemlock.k12.mi.us	Hesperia	1998.0	3946.0
+29946	http://www.lakelinden.k12.mi.us	Lake Linden-Hubbell School Public Library	2001.0	122.0
+29947	http://www.nhaschools.com/schools/keystone/en/pages/default.aspx	Kingsbury Academy	0.0	23.0
+29948	http://www.moisd.org/	Mecosta-Osceola ISD	2003.0	214.0
+29949	http://www.keweenawcountyonline.org	Keweenaw County	2008.0	71.0
+29950	http://www.winans.spfs.k12.mi.us	Winans Academy	2005.0	26.0
+29951	http://www.manistee.org	Manistee ISD	1999.0	63.0
+29952	http://www.villagebeverlyhills.com/	Beverly Hills, Village of	2001.0	3.0
+29953	http://www.cornerstonecharters.org/madison-carver-academy/	Madison-Carver Academy	0.0	25.0
+29955	http://www.eastchinatownship.org/	East China Charter Township	2000.0	22.0
+29956	http://www.go-nordics.com	North Dickinson	2000.0	5.0
+29957	http://www.chassellschools.org	Chassell Township	2008.0	323.0
+29958	http://www.stairlib.org	Stair Public Library	2010.0	368.0
+29960	http://www.peck.k12.mi.us	Peck	2000.0	117.0
+29961	http://www.highlandparkcity.us/	Highland Park, City of	2008.0	44.0
+29962	http://www.howelllibrary.org	Howell Carnegie District Library	2001.0	1811.0
+29963	http://www.michigan.gov/energyoffice	Energy Systems	2006.0	1.0
+29964	http://www.villageofclinton.org/	Clinton, Village of	1998.0	626.0
+29965	http://www.wpcschools.org/site/default.aspx?PageID=1	White Pigeon	2011.0	24.0
+29966	http://www.armada.net/	Armada, Village of	1998.0	86.0
+29967	http://www.imschools.org	Iron Mountain	1998.0	64.0
+29968	http://www.michigantownships.org/twp_details.asp?fips=64280	Pine Grove Township	2014.0	105.0
+29970	http://www.saugatuckps.com	Saugatuck	2006.0	1048.0
+29972	http://www.sterling-heights.net/bins/site/templates/splash.asp	Sterling Heights, City of	0.0	16.0
+29973	http://www.shelbylibrary.org	Shelby Area District Library	2008.0	14.0
+29974	http://www.michigan.org/	Travel Michigan	1997.0	3267.0
+29975	http://www.chester-twp.org/	Chester Township	2004.0	570.0
+29976	http://www.michigan.gov/healthcareers	Health Careers in Michigan	2006.0	8259.0
+29977	http://www.hillsdalecounty.info/government0020.asp	Jefferson Township	2003.0	706.0
+29978	http://bentonharborcharter.com	Benton Harbor Charter	2008.0	230.0
+29979	http://www.nhaschools.com/schools/linden/en/pages/default.aspx	Linden Charter	0.0	23.0
+29982	http://www.nhaschools.com/schools/walker/en/pages/default.aspx	Walker Academy	0.0	23.0
+29983	http://www.cityofbuchanan.com/	Buchanan, City of	2003.0	1037.0
+29984	http://www.trentonmi.org/index-home.asp	Trenton, City of	2011.0	415.0
+29985	http://www.putnamtwp.us/	Putnam Township	2003.0	27.0
+29986	http://www.lakefentonschools.org	Lake Fenton	2007.0	6708.0
+29987	http://www.bigrapids.lib.mi.us	Big Rapids Community Library	2001.0	42.0
+29988	http://www.baconlibrary.org	Bacon Memorial District Library	2003.0	58.0
+29989	http://remus.org/	Wheatland Township Library	2001.0	851.0
+29990	http://www.daytontwptuscola.org/	Dayton Township	2004.0	0.0
+29991	http://www.oregontownship.org/	Oregon Township	2010.0	16.0
+29992	http://www.crawfordco.lib.mi.us/	Crawford County Library	2007.0	1.0
+29993	http://www.bathtownship.us/	Bath Charter Township	2004.0	735.0
+29994	http://morrice.k12.mi.us	Morrice	2000.0	2736.0
+29995	http://www.nhaschools.com/schools/lansing/en/pages/default.aspx	Lansing Charter Academy	0.0	23.0
+29996	http://www.greenville.k12.mi.us	Greenville	0.0	808.0
+29997	http://www.hopeacad.org	Hope Academy of West Michigan	2009.0	12.0
+29998	http://www.alamotownship.org/	Alamo Township	2008.0	27.0
+29999	http://web.wmisd.org/default.aspx	Wexford-Missaukee ISD	2006.0	1160.0
+30000	http://www.isabellacounty.org/contact-information/townships/10-broomfield-township	Broomfield Township	0.0	34.0
+30001	http://www.eastjacksonschools.org/	East Jackson	2009.0	28.0
+30002	http://www.detroitpubliclibrary.org/branch/chaney	Detroit Public Library - Chaney	2012.0	47.0
+30003	http://www.goodrichschools.org	Grand Blanc	0.0	4760.0
+30004	http://www.gratiotmi.com/	Gratiot County	2011.0	177.0
+30005	http://www.ishpemingschools.org/	Ishpeming	2000.0	115.0
+30006	http://www.vbco.org/keeler.asp	Keeler Township	2003.0	418.0
+30007	http://tahquamenon.eup.k12.mi.us/site/default.aspx?PageID=1	Tahquamenon	2013.0	14.0
+30008	http://www.pccs.k12.mi.us	Plymouth-Canton	2000.0	975.0
+30009	http://www.chinatownship.net/	China Charter Township	2007.0	66.0
+30010	http://www.ci.saint-johns.mi.us/	Saint Johns, City of	1998.0	652.0
+30011	http://www.co.mecosta.mi.us/deerfieldtown.asp	Deerfield Township	2005.0	0.0
+30012	http://www.romulusgov.com/	Romulus, City of	2002.0	98.0
+30013	http://unioncityschools.org	Union City	2007.0	44.0
+30014	http://www.centerline.gov/	Center Line, City of	2001.0	107.0
+30015	http://www.carocity.net/	Caro, Village of	2010.0	59.0
+30016	http://www.csdm.k12.mi.us	Croswell-Lexington	1996.0	137.0
+30017	http://www.mceschools.com/education/district/district.php?sectionid=1	Mason Co. Eastern	2010.0	4.0
+30018	http://www.watervliet.org/	Watervliet, City of	1999.0	12.0
+30019	http://nottawatownshiplibrary.com	Nottawa Township Library	2005.0	0.0
+30020	http://www.michigan.gov/mcsc	Community Service Commission	2002.0	6391.0
+30021	http://www.brs.cgresd.net/site/default.aspx?PageID=1	Beaverton	0.0	6.0
+30022	http://www.raiderpride.org/site/default.aspx?PageID=1	Decatur	2013.0	9.0
+30023	http://lapeercountyweb.org/	Lapeer County	2007.0	161.0
+30025	http://www.flushingschools.org	Flushing	0.0	1472.0
+30026	http://livonia.lib.mi.us	Livonia Public Library	1998.0	1693.0
+30027	http://www.browncitylibrary.org	Brown City Public Library	2011.0	17.0
+30028	http://www.sanilacdistrictlibrary.lib.mi.us	Sanilac District Library	2001.0	584.0
+30029	http://www.newaygo.net	Newaygo	1998.0	82.0
+30030	http://www.house.mi.gov/	House of Representatives	2002.0	227.0
+30031	http://nottawatwp.com/	Nottawa Township	2014.0	8.0
+30032	http://www.infomi.com/county/lake/	Lake County	2002.0	6.0
+30033	http://www.nhaschools.com/schools/excel/en/pages/default.aspx	Experiencia Preparatory Academy	0.0	25.0
+30034	http://www.ovidelsie.org/	Ovid-Elsie	2012.0	935.0
+30036	http://www.cityofmanistique.org/	Manistique, City of	2006.0	467.0
+30037	http://www.eastgr.org/	East Grand Rapids, City of	2001.0	677.0
+30040	http://www.frederictownship.org/	Frederic Township	2007.0	73.0
+30041	http://www.parchmentlibrary.org/parchment/	Parchment Community Library	2009.0	1096.0
+30042	http://www.fitz.k12.mi.us/	Fitzgerald	1998.0	139.0
+30043	http://www.cityofeatonrapids.com/	Eaton Rapids, City of	2010.0	2562.0
+30044	http://www.huronschools.com	Huron Valley	2007.0	189.0
+30045	http://www.pellstonschools.org	Pellston	2007.0	18.0
+30046	http://columbiaschooldistrict.org	Columbia	2007.0	27.0
+30047	http://www.freewebs.com/wisetownship/index.htm	Wise Township	2014.0	0.0
+30048	http://www.michigan.gov	State of Michigan	2001.0	11505.0
+30049	http://www.whitepigeonlibrary.org	White Pigeon Township Library	2006.0	44.0
+30050	http://www.columbiatwp.com/	Columbia Township	2000.0	638.0
+30051	http://www.sccresa.org/countyeducation/academies/interventionacademy/	St. Clair Co. Intervention Academy	2008.0	2.0
+30052	http://www.greatlakes.net/~lextwp/lextwpweb/	Lexington Township	2002.0	67.0
+30053	http://www.michigan.gov/dhs	Human Services	2005.0	9597.0
+30054	http://brandonschooldistrict.org	Brandon	2011.0	2076.0
+30055	http://www.thewcaa.org/	Abney Academy	2012.0	49.0
+30058	http://www.hopetwp.org/	Hope Township	2003.0	15.0
+30059	http://www.michigan.gov/tax_trib	Tax Tribunal	2006.0	8302.0
+30062	http://www.melvindale.lib.mi.us/	Melvindale Public Library	1998.0	7.0
+30063	http://www.hamtramck.k12.mi.us	Hamtramck	2000.0	57.0
+30065	http://www.shabazzlearning.com/	El-Hajj Malik El-Shabazz Academy	2008.0	25.0
+30067	http://www.baycityacademy.com	Bay City Academy	2011.0	163.0
+30068	http://www.khps.org/	Kenowa Hills	2001.0	545.0
+30069	http://www.salineschools.org	Saline	2012.0	424.0
+30071	http://www.detroitpubliclibrary.org/branch/national-automotive-history-collection	Detroit Public Library - National Automotive History Collection	2012.0	47.0
+30073	http://www.shpl.net	Sterling Heights Public Library	1999.0	11.0
+30074	http://www.plainwellschools.org	Plainwell	2001.0	1550.0
+30075	http://www.rockford.mi.us/	Rockford, City of	1999.0	149.0
+30076	http://www.woodhaven.k12.mi.us/	Woodhaven-Brownstown	2002.0	602.0
+30077	http://www.corunna.k12.mi.us	Corunna	1999.0	4.0
+30079	http://www.shermantwp.com/	Sherman Township	2011.0	8.0
+30080	http://www.cromaine.org	Cromaine District Library	1999.0	364.0
+30081	http://www.detroit-west.com	Detroit West Preparatory Academy	2014.0	1.0
+30082	http://charlottelibrary.org/	Charlotte Community Library	2002.0	2121.0
+30083	http://www.oscoda.lib.mi.us	Oscoda County Library	2001.0	22.0
+30084	http://www.whitewatertownship.org/	Whitewater Township	2004.0	32.0
+30085	http://www.camdenlibrary.org	Camden Township Library	2006.0	447.0
+30086	http://www.kalamazoopublicschools.com/	Kalamazoo	2000.0	960.0
+30087	http://www.davinciinstitute.org	Da Vinci	2003.0	1.0
+30088	https://www.detroitmi.gov/	Detroit, City of	2003.0	1327.0
+30089	http://www.libcoop.net/utica/	Utica Public Library	2001.0	290.0
+30090	http://www.grandhaven.org/	Grand Haven, City of	2000.0	58.0
+30091	http://www.hillsdale-library.org	Hillsdale Community Library	2004.0	20.0
+30092	http://www.sdlibrary.org/	Saugatuck-Douglas District Library	2004.0	604.0
+30093	http://www.hpsmi.org	Hartford	2009.0	1194.0
+30094	http://www.hastingspubliclibrary.org/	Hastings Public Library	2010.0	265.0
+30095	http://www.leelanautownshiplibrary.org	Leelanau Township Library	2004.0	569.0
+30096	http://www.hillsdaleschools.org/site/default.aspx?PageID=1	Hillsdale	2012.0	24.0
+30097	http://www.hillsdalecounty.info/government0016.asp	Fayette Township	2004.0	704.0
+30098	http://lawrence-township.com/	Lawrence Township	2007.0	31.0
+30100	http://www.westbranch.com/	West Branch, City of	1997.0	79.0
+30101	http://www.coldspringsexcelsior.org/coldsprings.htm	Cold Springs Township	2005.0	43.0
+30102	http://www.michigantownships.org/twp_details.asp?fips=14420	Central Lake Township	2014.0	106.0
+30103	http://www.middleburytownship.org/	Middlebury Township	2009.0	10.0
+30104	http://www.morenci.k12.mi.us/	Morenci	1998.0	38.0
+30105	http://jonesvilleschools.org	Jonesville	2004.0	1853.0
+30106	http://www.nhaschools.com/schools/paragon/en/pages/default.aspx	Paragon Academy	2013.0	25.0
+30107	http://www.umd.umich.edu/	University of Michigan - Dearborn	1996.0	1401.0
+30108	http://www.masoncounty.lib.mi.us	Mason County District Library	1999.0	441.0
+30109	http://www.co.mecosta.mi.us/colfaxtown.asp	Colfax Township	2005.0	0.0
+30111	http://www.hillsdalecounty.info/government0029.asp	Scipio Township	2004.0	706.0
+30112	http://www.burttownship.org/	Burt Township	2004.0	13.0
+30113	http://www.pellstonmi.com/	Pellston, Village of	2003.0	18.0
+30114	http://beulahpubliclibrary.blogspot.com/	Darcy Library Of Beulah	0.0	11.0
+30115	http://www.ags-schools.org	Au Gres-Sims	2001.0	390.0
+30116	http://www.aureliustwp.org/	Aurelius Township	2003.0	246.0
+30117	http://www.watsontownship.org/	Watson Township	2008.0	43.0
+30118	http://www.uproc.lib.mi.us/bpl/lescheneaux.html	Les Cheneaux Community Library	2011.0	68.0
+30120	http://www.erschools.com	Elk Rapids	2000.0	404.0
+30121	http://chatfieldschool.org	Chatfield	2007.0	148.0
+30122	http://www.westiron.org/index.htm	West Iron	2007.0	2415.0
+30123	http://www.rivervalleyschools.org	River Valley	2000.0	27.0
+30124	http://www.chocolay.org/	Chocolay Charter Township	2007.0	54.0
+30125	http://ytown.org/	Ypsilanti Charter Township	2013.0	2776.0
+30126	http://www.uproc.lib.mi.us/bessemer/	Bessemer Public Library	2010.0	0.0
+30127	http://www.chikamingtownship.org/	Chikaming Township	2005.0	14.0
+30128	http://www.lincoln-park.lib.mi.us/	Lincoln Park Public Library	1998.0	114.0
+30130	http://www.concordschools.net/site/default.aspx?PageID=1	Constantine	2011.0	9.0
+30132	http://www.mqtinfo.org/government0013.asp	Negaunee Township	2002.0	2581.0
+30133	http://www.odessatownship.org/	Odessa Township	2005.0	59.0
+30134	http://www.crookedtreelibrary.org	Crooked Tree District Library	2007.0	318.0
+30135	http://www.cityofgrantmi.com/	Grant, City of	2007.0	75.0
+30136	http://www.vassar.k12.mi.us/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Verona Twp. #1F	0.0	1.0
+30138	http://www.leelanau.cc/empiretwp.asp	Empire Township	2004.0	1638.0
+30140	http://www.mtacademy.us	Michigan Technical Academy	2009.0	92.0
+30141	http://romulus.net	Romulus	2000.0	0.0
+30142	http://www.nilestownship.us/	Niles Township	2002.0	19.0
+30143	http://www.rockwoodmi.org/	Rockwood, City of	2004.0	91.0
+30144	http://www.allegancounty.org/	Allegan County	1999.0	883.0
+30145	http://www.mapsk12.org/	Montague	2013.0	135.0
+30146	http://brightonlibrary.info	Brighton District Library	2002.0	419.0
+30147	http://www.michigan.gov/mshda	State Housing Development Authority	2002.0	5771.0
+30148	http://www.waterford.lib.mi.us	Waterford Township Public Library	1998.0	1222.0
+30149	http://www.macomb-mi.gov/	Macomb Township	2003.0	27.0
+30150	http://www.mancelonatownship.com/	Mancelona Township	2001.0	112.0
+30151	http://whitelake.llcoop.org	White Lake Community Library	2001.0	639.0
+30152	http://www.barodatownship.org/	Baroda Township	2003.0	7.0
+30153	http://www.blackriverpublicschool.org	Blanche Kelso Bruce Academy	2002.0	4.0
+30154	http://www.cityofwayland.org/	Wayland, City of	2011.0	49.0
+30155	http://www.nhaschools.com/schools/laurus/en/pages/default.aspx	Laurus Academy	2013.0	25.0
+30156	http://www.michigan.gov/osa	Mi Seniors	2006.0	4104.0
+30157	http://www.hartfordtownship.org/	Hartford Township	2007.0	9.0
+30158	http://www.michigan.gov/mideal	MiDEAL	2006.0	5106.0
+30159	http://www.casarichardacademy.com	Casa Richard	2003.0	7.0
+30160	http://www.mytecumseh.org/	Tecumseh, City of	2009.0	2328.0
+30161	http://www.bloomfield.org	Bloomfield Hills	1999.0	1251.0
+30162	http://www.ioscoarenaclibrary.org	Iosco-Arenac District Library	2002.0	58.0
+30163	http://www.btpl.org	Bloomfield Township Public Library	0.0	1.0
+30164	http://www.pasd.org	Pinconning	2000.0	205.0
+30165	http://www.pawpaw.lib.mi.us	Paw Paw District Library	1998.0	17.0
+30166	http://www.merritt-academy.org/	Merritt Academy	2004.0	14.0
+30167	http://www.hbadl.org	Harbor Beach Area District Library	2008.0	1711.0
+30168	http://www.gvsu.edu/	Grand Valley State University	1997.0	2866.0
+30169	http://www.holtonschools.com	Holton	2008.0	175.0
+30170	http://www.birmingham.k12.mi.us	Birmingham	1998.0	997.0
+30171	http://riverrougeschools.org/home/	River Rouge	2009.0	78.0
+30172	http://www.chelsea.k12.mi.us/	Chelsea	1996.0	29.0
+30173	http://muskegonmontessoriacademy.com/	Muskegon Montessori Academy for Environmental Change	2013.0	45.0
+30174	http://www.napoleontownship.us/	Napoleon Township	2003.0	25.0
+30175	http://www.rcs.misd.net	Saginaw Township	2002.0	36.0
+30176	http://www.michigan.gov/healthcareworkforcecenter	MI Healthcare Workforce Center	2006.0	10241.0
+30178	http://www.benzieschools.net	Benzie Co. Central	2008.0	435.0
+30179	http://www.rapsk12.net	Roscommon	2010.0	81.0
+30180	http://lexingtonlibrary.net	Moore Public Library	2008.0	23.0
+30181	http://www.michigan.gov/lara	Licensing and Regulatory Affairs	2011.0	12348.0
+30183	http://www.uproc.lib.mi.us/bpl/	Bayliss Public Library	1999.0	69.0
+30184	http://gpschools.schoolwires.net/site/default.aspx?PageID=1	Grosse Pointe	2012.0	35.0
+30185	http://www.granttwp.org/	Grant Township	2002.0	78.0
+30186	http://www.sandusky.k12.mi.us	Sandusky	1998.0	146.0
+30187	http://www.detroitpubliclibrary.org/branch/duffield	Detroit Public Library - Duffield	2012.0	47.0
+30188	http://mtmorrisschools.schoolfusion.us/	Mt. Morris	2009.0	1.0
+30189	http://www.universalpsa.org/	Universal Academy	2003.0	38.0
+30190	http://morantwp.eup.k12.mi.us/site/default.aspx?PageID=1	Moran Twp	2012.0	5.0
+30191	http://www2.mayville.k12.mi.us/	Mayville	1998.0	32.0
+30192	http://www.croswell-library.com	Aitkin Memorial District Library	2002.0	40.0
+30194	http://www.schoolcraftlibrary.org/	Schoolcraft Community Library	2004.0	70.0
+30195	http://www.cadillaclibrary.org	Cadillac-Wexford Public Library	2003.0	660.0
+30196	http://www.tadl.org/peninsula	Peninsula Community Library	2012.0	909.0
+30197	http://www.riverviewschools.com/education/components/whatsnew/default.php?sectiondetailid=4&	Riverview	2008.0	7.0
+30198	http://www.libcoop.net/newbaltimore/	Macdonald Public Library	2001.0	26.0
+30199	http://www.mqtinfo.org/government0002.asp	Ely Township	2002.0	2581.0
+30200	http://www.clareco.net	Clare County	2002.0	30.0
+30201	http://www.imlaytownship.org/	Imlay Township	2013.0	193.0
+30202	http://www.trilliumacademy.us/	Trillium Academy	2002.0	23.0
+30203	http://www.blairtownship.org/	Blair Township	2004.0	47.0
+30204	http://www.grasslakect.com/	Grass Lake Charter Township	2007.0	99.0
+30206	http://www.co.genesee.mi.us/	Genesee County	2000.0	738.0
+30207	http://saline.lib.mi.us/	Saline District Library	2000.0	1812.0
+30208	http://www.fourcornersmontessori.com	Four Corners Montessori Academy	2009.0	424.0
+30209	http://www.marshalldistrictlibrary.org	Marshall District Library	2003.0	480.0
+30210	http://www.michigan.gov/budget	State Budget	2002.0	5663.0
+30211	http://www.michigan.gov/taxes	Taxes	2006.0	10391.0
+30212	http://www.westland.lib.mi.us	William P. Faust Public Library Of Westland	2001.0	1263.0
+30213	http://www.nhaschools.com/schools/southcanton/en/pages/default.aspx	South Canton Scholars Charter Academy	0.0	23.0
+30214	http://www.miltontownship.org/	Milton Township	2003.0	21.0
+30215	http://www.bradfordacademy.com/	Branch Line School	2004.0	655.0
+30217	http://www.co.midland.mi.us/	Midland County	1999.0	1075.0
+30219	http://www.michigan.gov/lottery	Lottery	2001.0	2.0
+30221	http://pontiacacademy.org/	Pontiac Academy	2003.0	163.0
+30222	http://www.lakelinden.net/	Lake Linden, Village of	2000.0	111.0
+30223	http://www.michigan.gov/heatingassistance	Energy Assistance Programs	2004.0	2426.0
+30224	http://www.readingrangers.org	Reading	2011.0	13.0
+30225	http://www.cantonpl.org	Canton Public Library	2000.0	9111.0
+30226	http://www.canton-mi.org/	Canton Charter Township	1998.0	1237.0
+30228	http://www.taylorschools.net/	Taylor	2003.0	451.0
+30230	http://www.otsego.org/hayes/	Hayes Township	2002.0	4.0
+30231	http://www.white-oak-twp.org/	White Oak Township	2002.0	9.0
+30233	http://www.bridgmanlibrary.com/bridgman/	Bridgman Public Library	2010.0	126.0
+30234	http://www.twp.stclair.mi.us/	St. Clair Township	2003.0	80.0
+30235	http://www.lakewoodps.org	Lakewood	2008.0	113.0
+30236	http://www.deltonlib.org	Delton District Library	2001.0	15.0
+30237	http://www.cbfacademy.com	Clara B. Ford Academy (SDA)	2011.0	591.0
+30238	http://www.cityofmenominee.org/	Menominee, City of	1999.0	1181.0
+30239	http://www.kdl.org/branches/7	Kent District Library - Byron Township	2007.0	47.0
+30240	http://www.kdl.org/branches/6	Kent District Library - Alto	2007.0	47.0
+30241	http://www.cityofironmountain.com/	Iron Mountain, City of	2004.0	476.0
+30242	http://www.fairgrovevillage.org/	Fairgrove, Village of	2009.0	243.0
+30243	http://www.kdl.org/branches/3	Kent District Library - Caledonia Township	2007.0	47.0
+30244	http://www.kdl.org/branches/2	Kent District Library - Alpine Township	2007.0	47.0
+30245	http://www.kdl.org/branches/1	Kent District Library - East Grand Rapids	2007.0	47.0
+30246	http://www.chelsea.lib.mi.us	Chelsea District Library	2000.0	54.0
+30247	http://ci.zeeland.mi.us/Community/HowardMillerLibrary/tabid/3557/Default.aspx/	Howard Miller Library	2007.0	2.0
+30249	http://www.kdl.org/branches/8	Kent District Library - Cascade Township	2007.0	47.0
+30250	http://www.kresa.org/site/default.aspx?PageID=1	Kalamazoo RESA	2011.0	60.0
+30251	http://www.ithacaschools.net/site/default.aspx?PageID=1	Ithaca	2011.0	9.0
+30252	http://www.northvilleschools.org/	Northville	1999.0	822.0
+30253	http://www.michigan.gov/shpo	State Historic Preservation Office	2006.0	1270.0
+30254	http://www.tkschools.org/community/library/Pages/default.aspx	Thornapple Kellogg School And Community Library	2008.0	2.0
+30255	http://www.badaxelibrary.org	Bad Axe Area District Library	1999.0	605.0
+30256	http://www.kpl.gov	Kalamazoo Public Library	1997.0	1858.0
+30257	http://www.villageofsanford.com	Sanford, Village of	2013.0	12.0
+30258	http://twp-lima.org/	Lima Township	2005.0	79.0
+30259	http://www.williamstwp.com/	Williams Charter Township	2002.0	156.0
+30260	http://www.almenatownship.org/	Almena Township	2002.0	16.0
+30261	http://www.trenton.lib.mi.us/	Trenton Veterans Memorial Library	1998.0	107.0
+30262	http://godwinschools.org	Godwin Heights	2001.0	117.0
+30263	http://www.infomi.com/city/galien/	Galien, Village of	2002.0	3.0
+30264	http://www.leightonlibrary.org/	Leighton Township Library	2011.0	708.0
+30266	http://www.wayne.lib.mi.us	Wayne Public Library	1998.0	47.0
+30267	http://www.lowellschools.com/education/components/scrapbook/default.php?sectionid=1	Lowell	2010.0	1.0
+30268	http://www.homertownship.org/	Homer Township	2001.0	50.0
+30269	http://www.cityofleslie.org/	Leslie, City of	2003.0	34.0
+30270	http://www.cityofnorthmuskegon.com/	North Muskegon, City of	0.0	68.0
+30271	http://www.chavezacademy.com	Cesar Chavez	2011.0	44.0
+30272	http://www.michigan.gov/elicense	E-License	2002.0	8134.0
+30273	http://mc-isd.org	Menominee ISD	2002.0	311.0
+30274	http://www.casscityschools.org/	Cass City	2007.0	102.0
+30275	http://www.villageofmancelona.org/	Mancelona, Village of	2011.0	21.0
+30276	http://www.michigan.gov/wca	Workers' Compensation Agency	2003.0	8630.0
+30277	http://www.evart.k12.mi.us/Default.aspx?PID=50&SID=-1	Evart Public Schools	2009.0	114.0
+30278	http://www.wilsontownship.org/	Wilson Township	2013.0	14.0
+30279	http://www.highlandtwp.com/	Highland Charter Township	2003.0	174.0
+30281	http://www.elkrapidslibrary.org/	Elk Rapids District Library	2013.0	177.0
+30282	http://www.erpsk12.org	Eaton Rapids	2007.0	135.0
+30284	http://www.schoolcraftschools.org	Schoolcraft	2000.0	21.0
+30285	http://www.concordpetoskey.com	Concord - Petoskey	2003.0	370.0
+30286	http://www.libertytwp.us/	Liberty Township	2007.0	15.0
+30287	http://www.ci.royal-oak.mi.us/portal/	Royal Oak, City of	2009.0	2350.0
+30288	http://www.wbrc.k12.mi.us	West Branch-Rose City	2002.0	72.0
+30289	http://www.comstockmi.com/	Comstock Charter Township	1999.0	427.0
+30290	http://www.ci.kentwood.mi.us/	Kentwood, City of	2000.0	930.0
+30291	http://www.brownstown-mi.org/	Brownstown Charter Township	1998.0	110.0
+30293	http://www.calhounisd.org	Calhoun ISD	2004.0	249.0
+30294	http://www.grasslakeschools.com	Grass Lake	2002.0	1278.0
+30295	http://www.bedfordmi.org/	Bedford Township	1999.0	70.0
+30297	http://bachs.us	Bay-Arenac Comm HS	2003.0	22.0
+30298	http://www.detroitpubliclibrary.org/branch/redford	Detroit Public Library - Redford	2012.0	47.0
+30299	http://www.hayestownshipmi.gov/	Hayes Township	0.0	616.0
+30300	http://www.bas.k12.mi.us	Brighton	0.0	744.0
+30301	http://www.gobles.org	Gobles	1999.0	146.0
+30302	http://edmonson.gee-edu.com/	GEE Edmonson Academy	0.0	457.0
+30303	http://www.hamtramck.us/	Hamtramck, City of	2002.0	35.0
+30304	http://www.olivetstudent.org/	Olivet	2011.0	103.0
+30305	http://www.stcmi.com/	Saint Charles, Village of	2005.0	12.0
+30306	http://www.nhaschools.com/schools/knapp/en/pages/default.aspx	Lakeside Charter School	2013.0	23.0
+30307	http://sccresa.org	St. Clair Co. Academy of Style	2004.0	861.0
+30308	http://www.springportmi.com/springporttownship.htm	Springport Township	2007.0	291.0
+30309	http://www.has-k12.org	Holly	2008.0	1.0
+30310	http://www.stpl.org	Surrey Township Public Library	2001.0	64.0
+30311	http://www.leetownship.org/	Lee Township	2004.0	21.0
+30312	http://www.almiratownship.org/	Almira Township	2011.0	28.0
+30313	http://www.peremarquettetwp.org/	Pere Marquette Charter Township	2001.0	534.0
+30314	http://www.jrladetroit.com	Jefferson International Academy	2011.0	96.0
+30315	http://www.bangorschools.org/	Bangor Twp (Bay)	2001.0	228.0
+30316	http://www.colomapubliclibrary.net	Coloma Public Library	2007.0	15.0
+30317	http://www.sciotownship.org/	Scio Township	2013.0	2785.0
+30318	http://www.presqueisleacademy.com/	Presque Isle Acad II	2006.0	9.0
+30319	http://www.loutitlibrary.org	Loutit District Library	2000.0	154.0
+30321	http://www.threelakesacademy.com/site/default.aspx?PageID=1	Three Lakes Academy	2013.0	7.0
+30322	http://www.charlevoixlibrary.org	Charlevoix Public Library	2003.0	329.0
+30323	http://www.cityofjackson.org/	Jackson, City of	2002.0	754.0
+30325	http://www.maresa.org	Marquette-Alger RESA	2002.0	107.0
+30326	http://www.sparta.llcoop.org	Sparta Carnegie Township Library	2001.0	485.0
+30327	http://www.michigan.gov/fyit	Foster Youth in Transition	2007.0	6828.0
+30328	http://www.twp.independence.mi.us/	Independence Charter Township	2000.0	118.0
+30329	http://www.montcalm.org/montcalmtwp.asp	Montcalm Township	2003.0	1118.0
+30330	http://www.isabellacounty.org/contact-information/townships/13-coldwater-township	Coldwater Township	0.0	34.0
+30331	http://www.pinckneyschools.org	Pinckney	2009.0	1085.0
+30332	http://cass.lib.mi.us	Cass District Library	2000.0	379.0
+30333	http://www.michigan.gov/disabilityresources	Disability Resources	2006.0	6848.0
+30334	http://www.cadl.org	Capital Area District Library	2000.0	295.0
+30335	http://www.charlevoixcounty.org/eveline.asp	Evangeline Township	2005.0	614.0
+30336	http://www.ogemawcountymi.gov/	Ogemaw County	2006.0	196.0
+30337	http://www.detroitpubliclibrary.org/branch/sherwood-forest	Detroit Public Library - Sherwood Forest	2012.0	47.0
+30338	http://www.salem-mi.org/	Salem Township	2001.0	34.0
+30339	http://www.grosseile.com/	Grosse Ile Township	1999.0	286.0
+30340	http://www.waynecounty.com/	Wayne County	1996.0	824.0
+30341	http://www.perry.mi.us/	Perry, City of	2001.0	351.0
+30343	http://www.athensk12.org	Athens	2004.0	109.0
+30344	http://www.muskegonisd.org	Muskegon ISD	2003.0	144.0
+30345	http://buckleyschools.com	Buckley	2002.0	762.0
+30346	http://milanlibrary.org/	Milan Public Library	2008.0	46.0
+30347	http://www.glenlakelibrary.net	Glen Lake Community Library	2006.0	38.0
+30348	http://www.schoolcrafttownship.org/	Schoolcraft Township	2005.0	18.0
+30349	http://www.macombcountymi.gov/	Macomb County	2004.0	2.0
+30351	http://www.schoolcraftcounty.net/	Schoolcraft County	2006.0	49.0
+30352	http://www.nhaschools.com/schools/walton/en/pages/default.aspx	Walton Charter	2013.0	23.0
+30354	http://www.georgetown-mi.gov/	Georgetown Charter Township	2007.0	122.0
+30356	http://www.cwdacademy.com/	Commonwealth	2004.0	1.0
+30357	http://www.lake-township.org/	Lake Charter Township	2003.0	19.0
+30359	http://www.lansingschools.net	Lansing	2004.0	14.0
+30360	http://www.flextech-hs.org/	FlexTech High School	2011.0	34.0
+30361	http://www.vbco.org/hamilton.asp	Hamilton Township	2003.0	418.0
+30362	http://www.vanderbilt.k12.mi.us/	Vanderbilt	2001.0	24.0
+30363	http://www.harpercreek.net/	Harper Creek	2002.0	40.0
+30364	http://www.lyndontownship.org/	Lyndon Township	2000.0	0.0
+30365	http://www.sccresa.org/countyeducation/academies/learningacademy/	St. Clair County Learning Academy	2008.0	7.0
+30367	http://remus.org/wheatland-township	Wheatland Township	2012.0	861.0
+30368	http://www.whitepineacademy.com	White Pine Academy	2002.0	1.0
+30369	http://www.westironlib.org	West Iron District Library	2010.0	1.0
+30370	http://www.michigan.gov/museum	Michigan Historical Museum	2006.0	521.0
+30371	http://www.hillsdalecounty.info/government0033.asp	Wright Township	2003.0	706.0
+30372	http://www.westbranchtownship.org/	West Branch Township	2002.0	12.0
+30373	http://www.rosetownship.com/index.php?lang=en	Rose Township	2013.0	81.0
+30374	http://www.jerome.org/	Jerome Township	1999.0	148.0
+30376	http://www.co.mecosta.mi.us/hintontown.asp	Hinton Township	2005.0	0.0
+30377	http://www.walledlakelibrary.org/	Walled Lake City Library	2003.0	326.0
+30378	http://www.clawson.k12.mi.us	Clawson	1998.0	64.0
+30379	http://www.ci.wayne.mi.us/	Wayne, City of	1998.0	484.0
+30380	http://danbytwp.org/	Danby Township	2005.0	26.0
+30381	http://www.algonac.k12.mi.us	Algonac	1998.0	35.0
+30382	http://www.madisonschools.k12.mi.us	Madison (Oakland)	2000.0	101.0
+30384	http://www.garfield-twp.com/	Garfield Charter Township	2000.0	121.0
+30385	http://www.doyletownship.com/	Doyle Township	2006.0	66.0
+30387	http://www.cityofinkster.com/	Inkster, City of	2004.0	265.0
+30389	http://www.mcbain.org	McBain	2002.0	85.0
+30391	http://www.pontiac.k12.mi.us	Pontiac	1999.0	6.0
+30392	http://www.bertrandtownship.com/	Bertrand Township	2013.0	8.0
+30393	http://www.michiganbusiness.org/	Economic Development Corp.	2001.0	286.0
+30394	http://www.thornapple-twp.org/	Thornapple Township	2002.0	93.0
+30395	http://www.valleytwp.org/	Valley Township	2006.0	35.0
+30396	http://www.berriencounty.org/	Berrien County	1998.0	637.0
+30397	http://www.hillsdalecounty.info/government0005.asp	Adams Township	2004.0	706.0
+30398	http://courts.mi.gov/pages/default.aspx	MI Courts	2012.0	1336.0
+30400	http://youthadvancementacademy.com/	Youth Advancement Academy	2011.0	43.0
+30401	http://villageoffruitport.com/	Fruitport, Village of	2007.0	58.0
+30402	http://www.vdps.net	Van Dyke	2006.0	143.0
+30404	http://www.pineriver.org	Pine River	1999.0	37.0
+30406	http://www.michigan.gov/driverresponsibility	Driver Responsibility	2004.0	6902.0
+30407	http://www.tittabawassee.org/	Tittabawassee Township	2002.0	59.0
+30408	http://www.cityofcoopersville.com/	Coopersville, City of	2002.0	47.0
+30409	http://www.mygovhelp.org/JACKSONCOUNTYMI/_cs/SupportHome.aspx	Jackson County	2009.0	53.0
+30410	http://www.rochester.k12.mi.us	Rochester	1998.0	4023.0
+30412	http://mdotnetpublic.state.mi.us/drive/default.aspx	Metro Detroit Traffic	2010.0	7.0
+30413	http://www.bennington-township.org/	Bennington Township	2007.0	273.0
+30414	http://www.tyrone.us/	Tyrone Township	2002.0	1.0
+30416	http://www.co.oceana.mi.us/	Oceana County	2001.0	2.0
+30417	http://www.raisintownship.com/	Raisin Charter Township	2003.0	55.0
+30418	http://uprep.com/	University Preparatory Science and Math (PSAD)	2001.0	75.0
+30419	http://www.tallmadge.com/	Tallmadge Charter Township	1996.0	19.0
+30420	http://www.watertowntownship.net/	Watertown Township	2002.0	281.0
+30421	http://www.hillsdalecounty.info/government0027.asp	Reading Township	2004.0	706.0
+30422	http://www2.rawson.lib.mi.us/	Rawson Memorial District Library	1998.0	32.0
+30423	http://www.monroe.k12.mi.us	Monroe	1996.0	1129.0
+30424	http://www.frontier-academy.net/	Frontier International Academy	0.0	66.0
+30425	http://www.oakland.k12.mi.us	Oakland Schools	1996.0	468.0
+30426	http://www.artsacad.net	Arts Academy in the Woods	2010.0	2.0
+30427	http://www.nhaschools.com/schools/prevail/en/pages/default.aspx	Prevail Academy	0.0	23.0
+30428	http://www.aadl.org	Ann Arbor District Library	1998.0	38665.0
+30429	http://www.oshtemo.org/	Oshtemo Charter Township	2000.0	636.0
+30430	http://www.hollyacademy.org	Holly Academy	2002.0	267.0
+30431	http://www.whitelake.org/	Montague, City of	1998.0	809.0
+30432	http://www.michigan.gov/asbestos	Asbestos Program	2006.0	6069.0
+30433	http://www.hudson.k12.mi.us	Hudson	1998.0	678.0
+30434	http://www.ferndale.lib.mi.us/	Ferndale Public Library	2001.0	741.0
+30435	http://www.apps.k12.mi.us/	Allen Park	2000.0	75.0
+30436	http://www.cityofclawson.com/your%5Fgovernment/library/	Blair Memorial Library	2012.0	1.0
+30437	http://www.sumnertownship.com/	Sumner Township	2002.0	8.0
+30438	http://www.nice.k12.mi.us	NICE	2001.0	200.0
+30439	http://www.ashleyschools.net	Ashley	2008.0	153.0
+30440	http://www.cityofeastlansing.com/	East Lansing, City of	2002.0	1521.0
+30441	http://www.kalkaskacounty.net/library.asp	Kalkaska County Library	2005.0	343.0
+30442	http://www.gaylordschools.com	Gaylord	2001.0	669.0
+30443	http://www.a2gov.org/Pages/default.aspx	Ann Arbor, City of	2007.0	909.0
+30444	http://www.grantlibrary.net	Grant Area District Library	2004.0	584.0
+30447	http://www.townshipofwoodhull.com/	Woodhull Township	2010.0	82.0
+30448	http://www.assyriatwp.org/	Assyria Township	2006.0	11.0
+30449	http://www.mqtcty.org/	Marquette, City of	2001.0	219.0
+30450	http://grandledge.lib.mi.us/	Grand Ledge Area District Library	2005.0	2.0
+30451	http://www.coldspringsexcelsior.org/excelsior.htm	Excelsior Township	2005.0	45.0
+30452	http://www.almaschools.net	Alma	2001.0	261.0
+30453	http://www.midlandesa.org/	Midland County ESA	0.0	387.0
+30454	http://www.cityofclare.org/	Clare, City of	2003.0	87.0
+30455	http://www.bronson-mi.com/?	Bronson, City of	2011.0	48.0
+30457	http://www.jonesville.org/	Jonesville, Village of	2002.0	220.0
+30458	http://www.detroitpubliclibrary.org/branch/chandler-park	Detroit Public Library - Chandler Park	2012.0	47.0
+30459	http://auburn-hills.lib.mi.us	Auburn Hills Public Library	2000.0	274.0
+30460	http://s293307664.onlinehome.us/	Ada Township	2010.0	966.0
+30461	http://www.nhaschools.com/schools/southarbor/en/pages/default.aspx	South Arbor Charter Academy	2013.0	23.0
+30462	http://www.dtdl.org	Delta Township District Library	2008.0	171.0
+30463	http://www.roseville-mi.gov/	Roseville, City of	2007.0	96.0
+30464	http://www.michigan.gov/mentor	Mentor Michigan	2006.0	4471.0
+30465	http://www.pentwater.k12.mi.us/education/school/school.php?sectionid=3	Pentwater	2013.0	2.0
+30466	http://www.brightoncity.org/Home.aspx	Brighton, City of	2014.0	218.0
+30467	http://addisonschools.org	Addison	2009.0	3125.0
+30468	http://www.detroitpubliclibrary.org/branch/wilder	Detroit Public Library - Wilder	2012.0	47.0
+30469	http://www.jcisd.org/site/default.aspx?PageID=1	Jackson ISD	0.0	6.0
+30470	http://www.cityofwarren.org/	Warren, City of	2000.0	779.0
+30471	http://www.milfordtownship.com/	Milford Charter Township	2001.0	139.0
+30472	http://www.cannontwp.org/	Cannon Township	2001.0	517.0
+30473	http://www.michigan.gov/sos/	Secretary of State	2002.0	3174.0
+30474	http://www.cityofmarshall.com/	Marshall, City of	2000.0	218.0
+30475	http://www.hillsdalecounty.info/government0030.asp	Somerset Township	2003.0	696.0
+30476	http://www.caspiancity.org/	Caspian, City of	2002.0	32.0
+30477	http://www.springlakevillage.org/	Spring Lake, Village of	2001.0	138.0
+30478	http://www.lenoxtwp.org/	Lenox Township	2002.0	240.0
+30479	http://www.baldwinlib.org	Baldwin Public Library	2000.0	153.0
+30480	http://www.manisteelibrary.org/	Manistee County Library	2002.0	526.0
+30481	http://www.southlyonmi.org/1/223/index.asp	South Lyon, City of	2009.0	93.0
+30482	http://www.grandrapidstwp.org/	Grand Rapids Charter Township	2001.0	80.0
+30483	http://dearbornschools.org/	Dearborn	1998.0	1254.0
+30484	http://westmichiganaviation.org	West Michigan Aviation Academy	2010.0	277.0
+30485	http://www.michigan.gov/uia	Unemployment Insurance Agency	2003.0	3334.0
+30486	http://bigjackson.ncats.net/	Big Jackson	2001.0	53.0
+30487	http://www.elpl.org	East Lansing Public Library	2001.0	5328.0
+30488	http://www.inghamisd.org/	Ingham ISD	2001.0	298.0
+30489	http://www.crystalfalls.org/	Crystal Falls, City of	1999.0	85.0
+30490	http://www.albion.k12.mi.us	Albion	1999.0	1231.0
+30491	http://www.hillmanschools.com	Hillman	2008.0	32.0
+30492	http://www.bradytwp.org/	Brady Township	2002.0	78.0
+30493	http://www.sylvanlake.org/	Sylvan Lake, City of	1999.0	289.0
+30494	http://www.montmorencylibrary.com/	Montmorency County Public Libraries	2006.0	358.0
+30495	http://www.clio.govoffice.com/	Clio, City of	2002.0	226.0
+30496	http://www.cityofkingsford.com/	Kingsford, City of	2003.0	33.0
+30497	http://www.clkschools.org/library	Calumet Public-School Library	2008.0	237.0
+30498	http://dkschools.org/	Delton-Kellogg	2004.0	1034.0
+30499	http://www.goodlandtownship.org	Goodland Township	2013.0	21.0
+30500	http://www.allen-park.lib.mi.us/	Allen Park Public Library	1998.0	246.0
+30501	http://www.ingham.org/	Ingham County	1998.0	279.0
+30502	http://www.infomi.com/township/wayland/	Wayland Township	2003.0	2.0
+30504	http://www.detroitpubliclibrary.org/branch/jefferson	Detroit Public Library - Jefferson	2012.0	47.0
+30505	http://www.springfieldmich.com/	Springfield, City of	1999.0	26.0
+30506	http://www.niapsa.org/	Noor International Academy	2011.0	40.0
+30507	http://www.wblib.org/	West Bloomfield Township Public Library	2000.0	30.0
+30508	http://www.montroseschools.org/Montrose/	Montrose	2014.0	0.0
+30509	http://www.laketon.org/pages/home/	Laketon Township	2008.0	2.0
+30510	http://www.cityofhillsdale.org/default.aspx	Hillsdale, City of	2011.0	75.0
+30511	http://carsoncity.llcoop.org	Carson City Public Library	2001.0	384.0
+30512	http://www.mattawanmi.com/index	Mattawan, Village of	2012.0	359.0
+30513	http://www.kentcityschools.org	Kent City	2008.0	90.0
+30515	http://www.cityofalbionmi.gov/	Albion, City of	2013.0	363.0
+30516	http://www.michigan.gov/difs	Insurance and Financial Services	2013.0	9902.0
+30517	http://www.carrolltontwp.com/	Carrollton Township	2001.0	89.0
+30518	http://www.wlcsd.org	Walled Lake	0.0	3125.0
+30519	http://www.vbco.org/lawrence.asp	Lawrence, Village of	2003.0	418.0
+30520	http://www.nhaschools.com/schools/hamtramck/en/pages/default.aspx	Hamtramck Academy	0.0	23.0
+30521	http://pontiacpsa.org	Arts and Technology Academy of Pontiac	2002.0	51.0
+30522	http://www.chesaninglibrary.org	Chesaning Public Library	2006.0	17.0
+30523	http://www.michigan.gov/msi	Michigan State Industries	2003.0	2708.0
+30524	http://www.raytwp.org/	Ray Township	2002.0	43.0
+30525	http://www.antwerptownship.com/	Antwerp Township	0.0	21.0
+30526	http://www.clinton.lib.mi.us	Clinton Township Public Library	2009.0	680.0
+30527	http://www.carsoncity.k12.mi.us/site/default.aspx?PageID=1	Carson City-Crystal	2013.0	18.0
+30528	http://www.harperwoodscity.org/page/page/2935733.htm	Harper Woods, City of	2007.0	35.0
+30529	http://www.vanburen-mi.org/	Van Buren Charter Township	2000.0	300.0
+30530	http://www.villageofcapac.com/	Capac, Village of	2008.0	8.0
+30531	http://www.wexfordcounty.org/	Wexford County	2002.0	535.0
+30532	http://www.napoleonschools.org/	Napoleon	2006.0	246.0
+30533	http://www.bridgeportmi.org/	Bridgeport Charter Township	2005.0	341.0
+30534	http://www.infomi.com/city/ortonville/	Ortonville, Village of	2002.0	4.0
+30535	http://www.interlochenpubliclibrary.org	Interlochen Public Library	2007.0	4.0
+30536	http://www.uplibraries.org/forsyth.htm	Forsyth Township Public Library	2008.0	1.0
+30537	http://www.pittsfieldtwp.org/	Pittsfield Charter Township	2000.0	838.0
+30539	http://www.hillsdalecounty.info/government0018.asp	Hillsdale Township	2003.0	706.0
+30540	http://www.hillsdalecounty.info/government0024.asp	Pittsford Township	2003.0	706.0
+30541	http://www.baragaschools.org/	Bark River	2001.0	43.0
+30542	http://vermontvillelibrary.com/	Vermontville Township Library	2008.0	1.0
+30543	http://www.gladstoneschools.com/library/main%20library.htm	Gladstone Area School Public Library	2007.0	20.0
+30544	http://www.dewitttownship.org/	DeWitt Charter Township	2004.0	964.0
+30545	http://www.cadillac-mi.net/	Cadillac, City of	2001.0	478.0
+30546	http://cheboyganlibrary.org/	Cheboygan Area Public Library	2004.0	19.0
+30547	http://www.fremontlibrary.net	Fremont Area District Library	2003.0	1496.0
+30548	http://www.romeo.k12.mi.us	Romeo	2001.0	1538.0
+30549	http://www.charemisd.org	Charlevoix-Emmet	2003.0	117.0
+30550	http://www.charlevoixcounty.org/stjames.asp	St. James Township	2003.0	614.0
+30551	http://www.lakevilleschools.org	LakeVille	2008.0	266.0
+30552	http://milanmich.org/	Milan, City of	2011.0	28.0
+30553	http://www.flowerfieldtwp.net/	Flowerfield Township	2001.0	71.0
+30554	http://www.decaturmi.org/	Decatur, Village of	1999.0	24.0
+30555	http://www.co.mecosta.mi.us/aetnatown.asp	Aetna Township	2005.0	0.0
+30556	http://www.charlevoixcounty.org/	Boyne Valley Township	2002.0	613.0
+30557	http://www.nhaschools.com/schools/vanguard/en/pages/default.aspx	Vanguard Charter	2013.0	23.0
+30558	http://www.auburnhills.org/	Auburn Hills, City of	2000.0	496.0
+30559	http://umich.edu/	University of Michigan - Ann Arbor	1996.0	10026.0
+30560	http://www.miseasons.com/compass/boynefalls.html	Boyne Falls, Village of	2008.0	20.0
+30561	http://www.mtu.edu/	Michigan Technological University	1997.0	4454.0
+30562	http://detroitk12.org/	Detroit	2002.0	3301.0
+30564	http://www.leelanau.cc/solontwp.asp	Solon Township	2006.0	1531.0
+30565	http://www.hart.lib.mi.us	Hart Area Public Library	2003.0	1170.0
+30566	http://www.hartlandschools.us/	Hartland	2006.0	100.0
+30567	http://www.msu.edu/	Michigan State University	1997.0	146.0
+30568	http://heartacademyhs.org/	Heart Academy	2010.0	15.0
+30569	http://www.shiawassee.net/	Shiawassee County	2001.0	997.0
+30570	http://www.k12.com/mvca	Michigan Virtual Charter Academy	2010.0	548.0
+30571	http://www.nhaschools.com/schools/burtonglen/en/pages/default.aspx	Burton Glen Charter Academy	0.0	23.0
+30572	http://www.burnips.llcoop.org/	Salem Township Library	2001.0	410.0
+30573	http://www.springlaketwp.org/	Spring Lake Township	2003.0	10.0
+30574	http://www.salinetownship.org/info.html	Saline Township	2001.0	11.0
+30575	http://www.solake.org	South Lake	2002.0	141.0
+30576	http://www.michigan.gov/mdch/0,1607,7-132-2941_4871---,00.html	Drug Control Policy	2002.0	2139.0
+30578	http://www.adrian.lib.mi.us	Adrian Public Library	2002.0	40.0
+30579	http://bigrapidstownship.net/	Big Rapids Charter Township	2003.0	48.0
+30580	http://www.tisd.k12.mi.us	Tuscola ISD	2000.0	90.0
+30581	http://www.hlcsk12.net	Houghton Lake	2005.0	116.0
+30582	http://www.cityofgrandville.com/	Grandville, City of	2000.0	2547.0
+30583	http://www.hillsdaleprep.org	Hillsdale Preparatory School	2008.0	51.0
+30584	http://www.cascadetwp.com/	Cascade Charter Township	2000.0	149.0
+30585	http://www.benzieshoreslibrary.org	Benzie Shores District Library	2001.0	15.0
+30586	http://www.charteracademies.com/academy-of-waterford/index.htm	Academy of Waterford	2008.0	0.0
+30587	http://www.nhaschools.com/schools/crosscreek/en/pages/default.aspx	Cross Creek	0.0	23.0
+30588	http://www.hollytownship.org/	Holly Township	2001.0	376.0
+30589	http://ydetroitacademy.org/	Detroit Leadership Academy	2012.0	13.0
+30590	http://www.fruitportschools.net	Fruitport	2006.0	176.0
+30591	http://www.melnap.k12.mi.us/education/district/district.php?sectionid=1	Melvindale-N. Allen Park	2010.0	3.0
+30592	http://www.lincoln.k12.mi.us	Lincoln	1996.0	334.0
+30593	http://www.lexingtonmichigan.org/	Lexington, Village of	2007.0	40.0
+30594	http://www.hpsk12.net	Holt	2002.0	101.0
+30595	http://bhas.org/site/default.aspx?PageID=1	Benton Harbor	2013.0	42.0
+30596	http://www.montcalm.org/	Montcalm County	2000.0	1132.0
+30597	http://www.trschools.org/site/default.aspx?PageID=1	Three Rivers	2011.0	7.0
+30598	http://www.twp-york.org/	York Charter Township	2004.0	148.0
+30600	http://www.westphaliami.com/	Westphalia, Village of	2003.0	10.0
+30601	http://www.harrisondistrictlibrary.org/acquia-drupal7/	Harrison Community Library	2012.0	0.0
+30602	http://www.sturgis-library.org	Sturgis District Library	2007.0	10.0
+30603	http://www.kalkaskami.com/	Kalkaska, Village of	2000.0	2.0
+30605	http://eastdetroit.org	East Detroit	2001.0	1.0
+30606	http://www.threeriversmi.org/	Three Rivers, City of	1999.0	831.0
+30608	http://www.wyandotte.net/	Wyandotte, City of	1998.0	181.0
+30609	http://www.leelanau.cc/clevelandtwp.asp	Cleveland Township	2006.0	1535.0
+30610	http://www.geneseeisd.org	Genesee ISD	2002.0	1902.0
+30611	http://www.mapleforest.org/	Maple Forest Township	2007.0	20.0
+30612	http://www.woodwardpsa.com/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Woodward Academy	0.0	2.0
+30614	http://co.branch.mi.us/	Branch County	1998.0	232.0
+30615	http://www.michigan.gov/ose/0,1607,7-143-6097_6274---,00.html	State Employee Health Management	2002.0	137.0
+30616	http://www.diisd.org	Dickinson-Iron ISD	1999.0	251.0
+30617	http://senate.michigan.gov/	Senate	2002.0	145.0
+30618	http://newhaven.misd.net/	New Haven	2002.0	515.0
+30619	http://eup.k12.mi.us/st_ignace/index.html	St. Ignace	1997.0	27.0
+30620	http://www.nileslibrary.com	Niles District Library	2001.0	1517.0
+30621	http://www.saugatuckcity.com/	Saugatuck, City of	1999.0	33.0
+30622	http://www.threeoaksschool.com	Three Oaks Public School Academy	2008.0	183.0
+30623	http://www.gladwinschools.net	Gladwin	2008.0	6.0
+30624	http://www.vernonlibrary.info	Vernon District Public Library	2003.0	0.0
+30625	http://www.flinttownship.com/	Flint Charter Township	2001.0	191.0
+30626	http://www.douglasmi.com/	Douglas, Village of	0.0	64.0
+30627	http://www.vevaytownship.org/	Vevay Township	2002.0	11.0
+30628	http://www.cityofmarlette.com/	Marlette, City of	2004.0	43.0
+30630	http://www.nhaschools.com/schools/eastarbor/en/pages/default.aspx	East Arbor Charter Academy	0.0	23.0
+30631	http://www.ncresa.org/page1.aspx	Newaygo County RESA	2011.0	147.0
+30632	http://www.frankfortmich.com/	Frankfort, City of	2002.0	1.0
+30633	http://www.ci.zeeland.mi.us/	Zeeland, City of	1997.0	160.0
+30634	http://www.coopertwp.org/	Cooper Charter Township	1999.0	31.0
+30635	http://www.mariontownship.com/	Marion Township	2001.0	11.0
+30636	http://audgen.michigan.gov/	Auditor General	2004.0	441.0
+30637	http://www.milanareaschools.org	Millington	2004.0	56.0
+30638	http://www.jklschool.org/site/default.aspx?PageID=1	Joseph K. Lumsden Bahweting Anishnabe	2012.0	9.0
+30639	http://www.detroitpubliclibrary.org/branch/douglass	Detroit Public Library - Douglass Branch For Specialized Services	2012.0	47.0
+30640	http://www.albaschool.org	Alba	2007.0	1.0
+30641	http://www.alpinetwp.org/	Alpine Township	2005.0	81.0
+30642	http://www.reese.k12.mi.us	Reeths-Puffer	2000.0	126.0
+30643	http://www.delhitownship.com/	Delhi Charter Township	1999.0	106.0
+30644	http://www.copperisd.org	Delta-Schoolcraft ISD	2005.0	60.0
+30645	http://www.ccresa.org	Clinton RESA	2001.0	260.0
+30646	http://www.mckaylibrary.org	Augusta-Ross Township District Library	2011.0	11.0
+30648	http://www.detroitpubliclibrary.org/branch/skillman	Detroit Public Library - Skillman	2012.0	47.0
+30650	http://www.southgate.lib.mi.us/	Southgate Veterans Memorial Library	1998.0	0.0
+30651	http://www.hillsdalecounty.info/government0010.asp	Camden Township	2004.0	706.0
+30652	http://www.montabella.com	Montabella	2000.0	73.0
+30653	http://www.dcl-lib.org	Dickinson County Library	2001.0	38.0
+30654	http://www.beavercreektownship.com/	Beaver Creek Township	2008.0	259.0
+30655	http://www.mattawanschools.org/mattawancs/site/default.asp	Mattawan	2008.0	0.0
+30656	http://www.frankenmuthcity.com/	Frankenmuth, City of	2001.0	171.0
+30657	http://www.michigan.gov/statelicensesearch/	State License Search	2003.0	933.0
+30658	http://www.parchment.org/	Parchment, City of	2002.0	16.0
+30660	http://www.berkleyschools.org	Berlin Twp #3	2009.0	937.0
+30661	http://www.ogemaw.michlibrary.org/	Ogemaw District Library	2011.0	266.0
+30662	http://www.hpts.us/	Houghton-Portage	2012.0	159.0
+30663	http://www.ci.birmingham.mi.us/	Birmingham, City of	1998.0	291.0
+30664	http://www.detroitpubliclibrary.org/branch/edison	Detroit Public Library - Edison	2012.0	47.0
+30665	http://www.novilibrary.org	Novi Public Library	2007.0	79.0
+30666	http://www.nmu.edu/	Northern Michigan University	1996.0	2311.0
+30668	http://www.muskegontwp.org/	Muskegon Township	2007.0	85.0
+30669	http://www.kwoods.org	Kensington Woods High School	2008.0	73.0
+30670	http://www.ioniacounty.org/	Ionia County	2000.0	277.0
+30671	http://www.twp.grayling.mi.us/	Grayling Township	2001.0	118.0
+30672	http://www.stccs.org	St. Charles	2001.0	895.0
+30673	http://www.michigan.gov/census	Census & Statistical Data for Michigan	2002.0	543.0
+30674	http://www.indelib.org	Independence Township Library	2004.0	221.0
+30675	http://www.oaisd.org/oaisd/	Shiawassee RESD	2009.0	219.0
+30676	http://www.sparta-township.com/	Sparta Township	2001.0	12.0
+30677	http://www.michiganmaritimemuseum.org/greatlakesresearchlibrary/	Marialyce Canonie Great Lakes Research Library	2004.0	1.0
+30678	http://www.farmlib.org	Farmington Community Library	2000.0	116.0
+30679	http://www.mlui.org	Michigan Land Use Institute	1998.0	7330.0
+30680	http://www.brightontwp.com/	Brighton Charter Township	2001.0	141.0
+30681	http://twp-bridgewater.org/	Bridgewater Township	2004.0	128.0
+30682	http://www.cityofallenpark.org/	Allen Park, City of	2001.0	72.0
+30683	http://www.villageofbirchrun.com/	Birch Run, Village of	2006.0	0.0
+30684	http://www.brookstownship.org/	Brooks Township	2001.0	19.0
+30685	http://www.hartlandtwp.com/	Hartland Township	2003.0	122.0
+30686	http://www.lifeskillspsa.com	Life Skills Center of Pontiac	2014.0	148.0
+30687	http://www.oakgov.com/Pages/home.aspx	Oakland County	2013.0	1309.0
+30688	http://www.ogemaw.org/	Ogemaw Township	2011.0	196.0
+30689	http://ci.owosso.mi.us/	Owosso, City of	0.0	1019.0
+30690	http://www.sandstonetownship.org/	Sandstone Charter Township	2011.0	16.0
+30691	http://www.connectionsacademy.com/michigan-virtual-school/home.aspx	Michigan Connections Academy	2013.0	118.0
+30692	http://www.cityofflint.com/	Flint, City of	1999.0	123.0
+30693	http://www.hpsvikings.org	Hopkins	2001.0	95.0
+30694	http://www.atlastownship.org/	Atlas Township	2002.0	51.0
+30696	http://www.walkerville.k12.mi.us	Walkerville Public-School Library	2001.0	0.0
+30697	http://www.hopkinstownship.org/	Hopkins Township	2008.0	63.0
+30698	http://white.gee-edu.com/	Genesee STEM Academy	0.0	111.0
+30699	http://www.harborps.org	Harbor Springs	2001.0	59.0
+30700	http://www.cityoflitchfield.org/	Litchfield, City of	2011.0	102.0
+30701	http://www.deckervillemich.org/	Deckerville, Village of	2002.0	6.0
+30703	http://www.manistique.k12.mi.us	Manistique	2001.0	28.0
+30704	http://ww5.birchruntownship.com/	Birch Run Township	2013.0	3.0
+30705	http://www.michigan.gov/safesleep	Safe Sleep	2007.0	2405.0
+30706	http://www.autraintownship.org/	Au Train Township	2005.0	37.0
+30707	http://www.hillsdalecounty.info/government0069.asp	Waldron, Village of	2003.0	706.0
+30709	http://www.brandonlibrary.org	Brandon Township Public Library	2001.0	308.0
+30710	http://www.chesaningschools.net	Chesaning Union	2002.0	381.0
+30711	http://www.brps.org	Big Rapids	2002.0	38.0
+30712	http://www.communitydistrictlibrary.org	Community District Library	2004.0	21.0
+30713	http://macombacademy.net/	Macomb Montessori Academy	2010.0	65.0
+30714	http://www.galienschools.org/	Galien Township	2012.0	9.0
+30715	http://tps.k12.mi.us	Tecumseh	0.0	3.0
+30716	http://www.michigan.gov/micontractconnect	State Purchasing	2011.0	4650.0
+30717	http://www.wlps.net	Whitmore Lake	2004.0	59.0
+30719	http://www.hayestownship.com/	Hayes Township	2003.0	55.0
+30720	http://www.midland-mi.org/gracedowlibrary/	Grace A. Dow Memorial Library	2001.0	1205.0
+30721	http://www.keegoharbor.org/	Keego Harbor, City of	2001.0	1023.0
+30722	http://www.frlib.org	Flat Rock Public Library	2001.0	532.0
+30723	http://www.marshall.k12.mi.us/	Marshall	1998.0	37.0
+30724	http://www.georgetown-mi.gov/library/	Georgetown Township Public Library	2007.0	39.0
+30725	http://www.ludington.mi.us/	Ludington, City of	1998.0	182.0
+30726	http://www.michigan.gov/wda	Workforce Programs	2013.0	4232.0
+30727	http://www.detcomschools.org/home	Detroit Community Schools	2010.0	458.0
+30728	http://www.emmett.org/	Emmett Charter Township	1998.0	559.0
+30729	http://www.hannahvilleschool.net/	Nah Tah Wahsh	2006.0	60.0
+30730	http://www.vbco.org/porter.asp	Porter Township	2003.0	418.0
+30731	http://www.kvilleps.org	Kelloggsville	2011.0	91.0
+30732	http://www.morleystanwood.org/	Morley Stanwood	2004.0	57.0
+30733	http://www.bc.k12.mi.us	Brown City	1999.0	561.0
+30734	http://www.dexter.lib.mi.us	Dexter District Library	2007.0	1603.0
+30735	http://www.butmantownship.com/	Butman Township	2001.0	0.0
+30737	http://www.eastbaytwp.org/	East Bay Township	2003.0	105.0
+30738	http://www.cityofbadaxe.com/	Bad Axe, City of	2004.0	19.0
+30739	http://www.stanton.k12.mi.us	Stanton Township	2008.0	254.0
+30742	http://www.fhps.net/	Forest Hills	2003.0	1327.0
+30743	http://www.mio.k12.mi.us	Mio-AuSable	2000.0	75.0
+30744	http://dbn.hfli.org/	Henry Ford Academy	2012.0	38.0
+30745	http://ewmacademyk12.org/	Muskegon Heights Public School Academy	2009.0	18.0
+30746	http://shepherd.edzone.net:81/index.php	Sigel Township S/D #6	0.0	1.0
+30747	http://www.ferrysburg.org/	Ferrysburg, City of	2001.0	234.0
+30748	http://www.michigan.gov/mfpc	Michigan Food Policy Council	2006.0	995.0
+30749	http://www.hwschools.org	Harper Woods	2002.0	99.0
+30750	http://www.wyandotte.org	Wyandotte	1998.0	328.0
+30751	http://whitefish.eup.k12.mi.us/site/default.aspx?PageID=1	Whitefish	2012.0	14.0
+30752	http://www.bellairelibrary.org	Bellaire Public Library	2003.0	348.0
+30754	http://www.manisteemi.gov/	Manistee, City of	2011.0	464.0
+30757	http://www.traversecitymi.gov/	Traverse City, City of	2008.0	528.0
+30759	http://www.uproc.lib.mi.us/spies/	Spies Public Library	2000.0	1.0
+30760	https://www.cmich.edu/Pages/default.aspx	Central Michigan University	2012.0	3377.0
+30762	http://www.victory.org/	Victory Township	1998.0	453.0
+30763	http://www.carsoncitymi.com/	Carson City, City of	2002.0	22.0
+30764	http://www.edwardsburgpublicschools.org	Edwardsburg	2006.0	348.0
+30765	http://www.alconacountymi.com/	Alcona County	2006.0	62.0
+30766	http://www.clps.k12.mi.us	Central Lake	1996.0	255.0
+30768	http://www.westwood.k12.mi.us	Westwood	2001.0	78.0
+30769	http://www.goperry.org	Pewamo-Westphalia	2011.0	323.0
+30771	http://www.nhaschools.com/schools/paramount/en/pages/default.aspx	Paramount Academy	2013.0	25.0
+30772	http://www.michigan.gov/eitc	Earned Income Tax Credit	2003.0	6048.0
+30773	http://www.baldwin.k12.mi.us	Baldwin	1998.0	131.0
+30774	http://www.michigan.gov/sos/1,1607,7-127-1633---,00.html	Elections	2002.0	3181.0
+30775	http://www.south-haven.com/	South Haven, City of	2001.0	70.0
+30776	http://www.co.mecosta.mi.us	Mecosta County	2002.0	36.0
+30777	http://www.richmondtwp.org/	Richmond Township	2001.0	16.0
+30778	http://www.vanburenschools.net	Van Buren	2004.0	7.0
+30779	http://www.ausabletownship.net/	AuSable Charter Township	2001.0	13.0
+30780	http://badaxeps.schooldesk.net/	Bad Axe	2012.0	392.0
+30782	http://www.lenawee.mi.us/	Lenawee County	2000.0	333.0
+30783	http://wwoodheights.wordpress.com/	Westwood Heights	2013.0	20.0
+30784	http://www.nwa.edu/	Northwest Academy	1998.0	36.0
+30785	http://www.libnet.org/iriver/	Indian River Area Library	0.0	9.0
+30786	http://www.walestwp-mi.com/	Wales Township	2003.0	11.0
+30788	http://www.emaninc.com	EMAN Hamilton Academy	0.0	31.0
+30789	http://www.ci.farmington.mi.us/	Farmington, City of	1996.0	141.0
+30790	http://city-chelsea.org/	Chelsea, Village of	2004.0	356.0
+30791	http://www.ferris.edu/	Ferris State University	1996.0	4083.0
+30792	http://www.buchananschools.com	Buchanan	2005.0	739.0
+30793	http://www.michigan.gov/treasury	Treasury	2001.0	8984.0
+30794	http://millingtonlibrary.info	Millington Arbela District Library	2008.0	29.0
+30795	http://www.nhaschools.com/schools/detroitpremier/en/pages/default.aspx	Detroit Premier Academy	2013.0	23.0
+30796	http://www.portageps.org	Portage	1998.0	367.0
+30797	http://www.michigan.gov/safedelivery	Safe Delivery of Newborns	2007.0	2380.0
+30798	http://www.ioniaschools.org	Ionia Twp #2	2008.0	1231.0
+30799	http://www.fowlerville.org/	Fowlerville, Village of	2002.0	51.0
+30800	http://grcity.us/Pages/default.aspx	Grand Rapids, City of	2011.0	644.0
+30801	http://www.saugatucktownship.org/	Saugatuck Township	2003.0	14.0
+30802	http://www.barryisd.org	Barry ISD	2002.0	4.0
+30803	http://www.grand-ledge.com/	Grand Ledge, City of	2001.0	87.0
+30804	http://www.cityofswartzcreek.org/	Swartz Creek, City of	2003.0	77.0
+30805	http://www.cohoctahtownship.org/	Cohoctah Township	2008.0	36.0
+30806	http://islandcityacademy.weebly.com/	Island City	2012.0	23.0
+30807	http://www.saginawcounty.com/	Saginaw County	2000.0	548.0
+30808	http://www.isabellacounty.org/contact-information/townships/17-gilmore-township	Gilmore Township	0.0	34.0
+30809	http://www.charlevoixcounty.org/southarm.asp	South Arm Township	2004.0	614.0
+30810	http://www.wma-es.com	West MI Academy of Environmental Science	2005.0	895.0
+30811	http://www.michigan.gov/dtmb	Technology, Management & Budget	2010.0	6292.0
+30812	http://www.colemanschools.net/site/default.aspx?PageID=1	Colfax Twp.	2013.0	6.0
+30813	http://www.anchorbay.misd.net	Anchor Bay	2001.0	64.0
+30814	http://www.gladwinco.com/	Gladwin County	2004.0	34.0
+30815	http://geneseetwp.com/	Genesee Township	2007.0	44.0
+30816	http://www.davisontwp-mi.org/	Davison Township	2001.0	160.0
+30817	http://www.michigan.gov/corrections	Corrections	2002.0	5102.0
+30818	http://www.alpenacounty.org/	Alpena County	2005.0	47.0
+30820	http://arlingtontownship.org/	Arlington Township	2013.0	15.0
+30821	http://panthernet.net/education/district/district.php?sectionid=1	Stockbridge	2007.0	2.0
+30822	http://www.hamlintownship.org/	Hamlin Township	1999.0	26.0
+30823	http://www.waldengreen.org	Walden Green Montessori	2010.0	31.0
+30824	http://www.chippewatownship.com/	Chippewa Township	2013.0	741.0
+30825	http://www.covertpublicschools.org	Covert	2008.0	1267.0
+30826	http://www.city-ecorse.org/	Ecorse, City of	2003.0	47.0
+30827	http://www.bronson.k12.mi.us	Bronson	2001.0	2.0
+30828	http://www.fpl.info	Flint District Library	2004.0	48.0
+30829	http://www.csschools.net	Climax-Scotts	2009.0	73.0
+30830	http://www.richlandtownship.com/	Richland Township	2001.0	53.0
+30832	http://www.miopl.org/	Oxford Public Library	2012.0	247.0
+30833	http://www.flushingcity.com/	Flushing, City of	2001.0	58.0
+30834	http://www.lesliek12.net	Leslie	2004.0	208.0
+30835	http://www.eskymos.com	Escanaba	2011.0	32.0
+30836	http://amaesd.org	A-M-A ESD	2013.0	123.0
+30837	http://www.muskegon-mi.gov/	Muskegon, City of	0.0	969.0
+30838	http://atafordpas.org	Advanced Technology Academy	2006.0	24.0
+30839	http://www.grossepointepark.org/	Grosse Pointe Park, City of	2002.0	420.0
+30841	http://www.glen-arbor-twp.com/	Glen Arbor Township	2001.0	2.0
+30842	http://www.nhaschools.com/schools/eaglecrest/en/pages/default.aspx	Eagle Crest Charter Academy	0.0	23.0
+30843	http://www.uproc.lib.mi.us/pwpl/	Peter White Public Library	1998.0	72.0
+30844	http://www.houghtoncounty.net/	Houghton County	2003.0	38.0
+30845	http://www.lucecountymi.org/	Luce County	2011.0	8.0
+30846	http://www.dorrtownship.org/	Dorr Township	2007.0	21.0
+30847	http://www.marysvilleschools.us	Marysville	2010.0	98.0
+30848	http://www.vicksburglibrary.org	Vicksburg District Library	2001.0	27.0
+30849	http://www.redfordlibrary.org	Redford Township District Library	2007.0	183.0
+30850	http://www.lincoln-twp.org/	Lincoln Township	2007.0	11.0
+30851	http://www.g-aschools.org	Galesburg-Augusta	2006.0	456.0
+30852	http://erietownship.com/	Erie Township	2004.0	180.0
+30853	http://www.hlpl.org	Houghton Lake Public Library	2006.0	24.0
+30854	http://www.hillsdalecounty.info/government0008.asp	Amboy Township	2003.0	706.0
+30855	http://lapeertownship.org/	Lapeer Township	2005.0	17.0
+30856	http://www.casdk12.net	Crawford AuSable	2001.0	67.0
+30857	http://www.allenacademydetroit.com	Alternative Educational Academy of Iosco County	2011.0	47.0
+30858	http://www.curtistownship.org	Curtis Township Library	2004.0	1.0
+30859	http://www.homeoftheshamrocks.org	Berrien Springs	2004.0	70.0
+30860	http://www.inkster.lib.mi.us/	Inkster Public Library	1998.0	41.0
+30861	http://www.elkrapids.org/	Elk Rapids, Village of	1999.0	861.0
+30862	http://www.cityofrichmond.net/	Richmond, City of	2003.0	399.0
+30863	http://www.mtmorriscity.org/	Mount Morris, City of	0.0	15.0
+30864	http://www.marshallacademy.org	Marshall Academy	2000.0	69.0
+30865	https://www.adams.k12.mi.us/	Adams Township	2003.0	138.0
+30866	http://www.portsheldontwp.org/	Port Sheldon Township	2002.0	42.0
+30868	http://www.hillsdalecounty.info/government0021.asp	Litchfield Township	2003.0	706.0
+30869	http://www.villageofgrasslake.com/	Grass Lake, Village of	2007.0	168.0
+30870	http://www.southbranchtownship.com/	South Branch Township	2008.0	37.0
+30871	http://www.bridgeportlibrary.org	Bridgeport Public Library	2006.0	512.0
+30872	http://www.performanceacademies.com	Michigan Great Lakes Virtual Academy	2009.0	381.0
+30873	http://www.hipark.org/	Highland Park	2012.0	18.0
+30874	http://www.csaschool.org	Charyl Stockwell Academy	2008.0	78.0
+30875	http://www.ssldl.info	Salem-South Lyon District Library	2007.0	108.0
+30876	http://www.essexville.org/	Essexville, City of	2001.0	8.0
+30877	http://www.lighthouseacademyschool.org	Lighthouse Academy	2009.0	31.0
+30878	http://www.alansonvikings.net	Alanson	2001.0	2.0
+30879	http://www.leonitownship.com/	Leoni Township	2007.0	31.0
+30880	http://www.michigan.gov/dnr	Natural Resources	2002.0	10432.0
+30881	http://www.dentontownship-mi.org/	Denton Township	2006.0	28.0
+30882	http://www.parchmentschools.org	Parchment	2001.0	698.0
+30883	http://www.gladwinco.com/townships.htm	Sherman Township	2004.0	1.0
+30884	http://www.gerrishtownship.org/	Gerrish Township	2001.0	154.0
+30885	http://www.thomastwp.org/	Thomas Township	2000.0	620.0
+30886	http://www.michigan.gov/emergingdiseases	Emerging Disease	2003.0	3784.0
+30887	http://www.michigan.gov/mdcr/1,1607,7-138-4957---,00.html	Women's Commission	2002.0	353.0
+30888	http://www.hamburglibrary.org	Hamburg Township Library	2003.0	34.0
+30889	http://www.spartaschools.org	Sparta	1999.0	329.0
+30890	http://www.godfrey-lee.org	Godfrey-Lee	2012.0	8.0
+30891	http://www.kingston.k12.mi.us	Jacquelin E. Opperman Memorial Library	1998.0	43.0
+30892	http://faxonacademy.com	Faxon Language Immersion Academy	2012.0	381.0
+30893	http://www.greenoaktwp.com/index.php	Green Oak Township	2003.0	106.0
+30894	http://www.thompsontownship.com/	Thompson Township	2006.0	21.0
+30895	http://www.wixomlibrary.org	Wixom Public Library	2004.0	464.0
+30896	http://www.riverschoolk8.org	Sodus Twp #5	2011.0	39.0
+30897	http://otsego.lib.mi.us	Otsego County Library	2000.0	45.0
+30898	http://www.frankenmuth.k12.mi.us	Frankenmuth	1999.0	86.0
+30899	http://www.countyofnewaygo.com/	Newaygo County	2002.0	49.0
+30900	http://www.bdschools.us/	Britton Deerfield	2012.0	261.0
+30901	http://www.greenspireschool.org/	The James and Grace Lee Boggs School	2008.0	32.0
+30902	http://www.crockettacademy.com	George Crockett	2011.0	93.0
+30903	http://www.novi.k12.mi.us	Novi	1997.0	386.0
+30904	http://www.michiganbusiness.org/community/council-arts-cultural-affairs/	Arts and Cultural Affairs	2013.0	3.0
+30905	http://www.twp.webster.mi.us/	Webster Township	2001.0	28.0
+30906	http://www.etc.k12.mi.us	Ewen-Trout Creek	2003.0	34.0
+30907	http://www.leelanau.cc/lelandtwp.asp	Leland Township	2004.0	1614.0
+30908	http://www.ioniacommunitylibrary.org	Hall-Fowler Memorial Library	2007.0	27.0
+30909	http://www.elktwplibrary.org	Elk Township Library	2011.0	18.0
+30910	http://www.huroncounty.com	Huron County	1998.0	1062.0
+30911	http://www.isabellacounty.org/	Isabella County	2002.0	1706.0
+30912	http://cpschools.org/site/default.aspx?PageID=1	Centreville	2012.0	22.0
+30913	http://alconaschools.org	Alcona	2009.0	39.0
+30914	http://adriancity.com/	Adrian, City of	2011.0	497.0
+30915	http://www.bloomfieldtwp.org/	Bloomfield Charter Township	2000.0	287.0
+30916	http://ci.dearborn-heights.mi.us/	Dearborn Heights, City of	1996.0	151.0
+30917	http://ghsd.net	Gerrish-Higgins School District Public Library	2009.0	0.0
+30918	http://www.paviliontownship.com/	Pavilion Township	2002.0	20.0
+30919	http://www.btc-bci.com/~townhall/	Cheshire Township	2005.0	9.0
+30920	http://www.dowagiacschools.org	Dowagiac Union	2004.0	710.0
+30921	http://www.vbco.org/waverly.asp	Waverly Township	2003.0	418.0
+30922	http://qtm.net/mason/	Mason Township	2008.0	11.0
+30923	http://www.prairievilletwp-mi.org/	Prairieville Township	2004.0	16.0
+30924	http://www.emmetcounty.org/	Emmet County	2008.0	1850.0
+30925	http://www.livgov.com/Pages/default.aspx	Livingston County	2013.0	845.0
+30926	http://www.centrallakemi.org	Central Lake, Village of	2009.0	39.0
+30927	http://parktownship.org/	Park Township	2001.0	152.0
+30928	http://detour.eup.k12.mi.us/detouras/site/default.asp	Detour	2005.0	1.0
+30929	http://www.emich.edu/charterschools/index.php	Dr. Joseph F. Pollack Academic Center of Excellence	2013.0	31.0
+30930	http://www.greatlakesacademy.org	Great Lakes Cyber Academy	2007.0	30.0
+30931	http://www.brucetownship.net/	Bruce Township	2007.0	26.0
+30932	http://www.infomi.com/city/baldwin/gov.html	Baldwin, Village of	2002.0	4.0
+30933	http://www.tuscaroratwp.com/	Tuscarora Township	2003.0	71.0
+30934	http://www.leelanau.cc/suttonsbaytwp.asp	Suttons Bay Township	2004.0	1555.0
+30935	http://www.uproc.lib.mi.us/sti/	Saint Ignace Public Library	1998.0	1.0
+30936	http://www.gulllakecs.org/site/default.aspx?PageID=1	Gull Lake	2013.0	11.0
+30937	http://www.missaukeelibrary.org/	Missaukee District Library	2005.0	471.0
+30938	http://www.michigan.gov/formergovernors/	Michigan's Former Governors	2004.0	546.0
+30939	http://www.detroitpubliclibrary.org/branch/parkman	Detroit Public Library - Parkman	2012.0	47.0
+30940	http://www.laketownship.net/	Lake Township	2005.0	171.0
+30941	http://www.charlottenet.org/	Charlotte	2001.0	46.0
+30942	http://www.hazelpark.org/	Hazel Park, City of	1998.0	138.0
+30943	http://greenvillemi.org/	Greenville, City of	2007.0	74.0
+30944	http://www.nhaschools.com/schools/warrendale/en/pages/default.aspx	Warrendale	0.0	23.0
+30945	http://www.nhaschools.com/schools/vanderbilt/en/pages/default.aspx	Vanderbilt Charter	0.0	25.0
+30946	http://www2.youseemore.com/chippewa/	Chippewa River District Library System	2002.0	97.0
+30947	http://sebewainglibrary.org	Sebewaing Township Library	2009.0	21.0
+30948	http://granttownship.net/	Grant Township	2004.0	21.0
+30949	http://www.leelanau.cc/empirevillage.asp	Empire, Village of	2003.0	1630.0
+30950	http://bearlakemichigan.org/	Bear Lake, Village of	2000.0	168.0
+30951	http://www.central-montcalm.org/	Central Montcalm	2009.0	589.0
+30952	http://www.michigan.gov/setwithmet	Michigan Education Trust	2006.0	4230.0
+30953	http://www.cgresd.net/site/default.aspx?PageID=1	Clare-Gladwin RESD	2013.0	8.0
+30954	http://www.michigan.gov/mcoles	Michigan Commission on Law Enforcement Standards	2004.0	4229.0
+30955	http://www.cityofnovi.org/	Novi, City of	2006.0	939.0
+30956	http://www.rcas.k12.mi.us/	Rogers City	2003.0	31.0
+30957	http://www.farmington.k12.mi.us	Farmington	1996.0	815.0
+30959	http://www.ci.lapeer.mi.us/	Lapeer, City of	1999.0	107.0
+30960	http://www.portland-michigan.org/	Portland, City of	2002.0	3.0
+30961	http://www.washingtontownship.org/	Washington Township	2001.0	133.0
+30962	http://www.munisingschools.com/	Munising	2013.0	185.0
+30963	http://www.alpenalibrary.org	Alpena County Library	2006.0	65.0
+30965	http://www.lakeshoreschools.org	Lake Shore (Macomb)	2001.0	109.0
+30966	http://www.leelanaumontessori.org/	Leelanau Montessori Public School Academy	2004.0	5.0
+30967	http://www.pennfield.net	Pennfield	2007.0	31.0
+30968	http://www.benzieco.net/	Benzie County	2007.0	54.0
+30970	http://www.creative-montessori.com	Creative Montessori	2001.0	158.0
+30971	http://www.michigan.gov/mostwanted	MDOC's Most Wanted	2006.0	110.0
+30972	http://www.richlandvillage.us/	Richland, Village of	2013.0	8.0
+30973	http://www.copesd.org/site/default.aspx?PageID=1	C.O.P. ESD	2012.0	8.0
+30974	http://www.nhaschools.com/schools/chandlerwoods/en/pages/default.aspx	Chandler Woods	0.0	23.0
+30976	http://www.bealcityschools.net/	Beal City	2007.0	474.0
+30977	http://www.cityofdearborn.org/	Dearborn, City of	0.0	555.0
+30978	http://www.wrighttownship.com/	Wright Township	2004.0	19.0
+30979	http://www.ferndale-mi.com/	Ferndale, City of	2000.0	10.0
+30980	http://www.nhaschools.com/schools/fortis/en/pages/default.aspx	Fortis Academy	0.0	23.0
+30981	http://www.iaf-sabis.net/	International Academy Flint	1999.0	48.0
+30982	http://www.pontiac.lib.mi.us/	Pontiac Public Library	1998.0	14.0
+30983	http://richlandlibrary.org/richland/	Richland Community Library	2009.0	830.0
+30984	http://www.lssu.edu/	Lake Superior State University	1996.0	684.0
+30985	http://twp.jamestown.mi.us/	Jamestown Charter Township	2001.0	149.0
+30986	http://www.buchananlibrary.org/	Buchanan District Library	2007.0	1018.0
+30987	http://www.pentwaterlibrary.org	Pentwater Township Library	2003.0	70.0
+30988	http://www.cityofcroswell.com/	Croswell, City of	2012.0	77.0
+30989	http://alleganlibrary.org/	Allegan Public Library	2003.0	166.0
+30990	http://bearcat.ubly.k12.mi.us	Ubly	1997.0	42.0
+30991	http://www.clarenceville.k12.mi.us	Clarenceville	2002.0	946.0
+30992	http://www.imlaycity.org/imlaycity/	Imlay City, City of	2009.0	41.0
+30993	http://www.riversidehagar.org	Hagar Twp #6	2011.0	28.0
+30994	http://ci.niles.mi.us/	Niles, City of	1998.0	109.0
+30995	http://www.nhaschools.com/schools/plymouth/en/pages/default.aspx	Plymouth Scholars Charter Academy	2013.0	23.0
+30996	http://www.newlothrop.k12.mi.us	New Lothrop	1997.0	17.0
+30997	http://www.cityofmarysvillemi.com/	Marysville, City of	2000.0	237.0
+30998	http://www.ci.huntington-woods.mi.us/	Huntington Woods, City of	1998.0	3.0
+30999	http://www.elkrapids.com/index.html	Elk Rapids Township	2005.0	4.0
+31000	http://co.muskegon.mi.us/	Muskegon County	1998.0	158.0
+31002	http://www.masoncounty.net/	Mason County	1999.0	49.0
+31003	http://www.ewashtenaw.org/	Washtenaw County	2002.0	2059.0
+31004	http://www.bengaltownship.org/	Bengal Township	2006.0	35.0
+31005	http://www.lakeodessa.org/	Lake Odessa, Village of	1999.0	40.0
+31006	http://www.michigan.gov/snyder	Governor Snyder	2011.0	2461.0
+31008	http://www.manoogian.org	AGBU Alex-Marie Manoogian School	2001.0	28.0
+31009	http://www.michigan.gov/mdch/0,1607,7-132-2940_2955_2973---,00.html	Tobacco	2008.0	2163.0
+31010	http://www.alcona.lib.mi.us	Alcona County Library	0.0	1276.0
+31011	http://www.wakefield.k12.mi.us/	Wakefield-Marenisco	2001.0	178.0
+31012	http://www.twp.waterford.mi.us/	Waterford Charter Township	1999.0	476.0
+31013	http://www.hart.k12.mi.us	Hart	2003.0	85.0
+31015	http://www.otsego.org/chester/	Chester Township	2002.0	17.0
+31016	http://www.grant.com/	Grant Township	1996.0	3.0
+31018	http://www.algercounty.com/	Alger County	1998.0	69.0
+31019	http://www.stlouismi.com/1/stlouis/index.asp	Saint Louis, City of	2006.0	326.0
+31020	http://www.lincolnpark.govoffice.com/	Lincoln Park, City of	2002.0	473.0
+31021	http://www.villageoftekonsha.com/?	Tekonsha, Village of	2013.0	17.0
+31022	http://www.rayder.net	Charlevoix	2000.0	10.0
+31023	http://www.michigan.gov/datingviolence	Dating Violence	2007.0	8100.0
+31025	http://www.vandyschools.org/	Vandercook Lake	2008.0	63.0
+31026	http://www.missaukee.org/	Missaukee County	2003.0	148.0
+31027	http://www.mtclemensmontessori.com	Mt. Clemens Montessori Academy	2003.0	23.0
+31028	http://co.livingston.mi.us/municipalities/tyrone.htm	Tyrone Township	2001.0	103.0
+31030	http://www.glcomets.net	Grand Rapids	2011.0	454.0
+31031	http://www.bathschools.net	Battle Creek	2010.0	213.0
+31032	http://www.alpenaschools.com	Alpena	1999.0	107.0
+31034	http://oneamazingclass.org/oakland-academy/	Oakland FlexTech Academy	2013.0	21.0
+31035	http://wlbpd.aadl.org	Washtenaw Library For The Blind And Physically Disabled	2009.0	1561.0
+31037	http://www.michigan.gov/miosha	Michigan Occupational Safety and Health Administration	2006.0	6125.0
+31038	http://www.michigan.gov/oco	Children's Ombudsman	2002.0	5676.0
+31039	http://henikalibrary.org	Henika District Library	2007.0	176.0
+31040	http://www.daask12.com	Detroit Academy of Arts & Sciences	2003.0	829.0
+31042	http://www.resorttownship.org/	Resort Township	2004.0	747.0
+31044	http://www.barrycounty.org/	Barry County	2001.0	498.0
+31046	http://www.petoskeylibrary.org	Petoskey Public Library	2001.0	204.0
+31047	http://www.trenton.k12.mi.us/	Trenton	2004.0	238.0
+31048	http://www.clioschools.org/education/district/district.php?sectionid=1	Clio	2006.0	2.0
+31049	http://www.kalamazootownship.org/	Kalamazoo Charter Township	2001.0	39.0
+31050	http://www.texastownship.org/	Texas Charter Township	2000.0	257.0
+31051	http://www.clintontownship-mi.gov/	Clinton Charter Township	2004.0	245.0
+31052	http://morrice.mi.us/	Morrice, Village of	2002.0	122.0
+31053	http://springportschools.net/site/default.aspx?PageID=1	Springport	0.0	7.0
+31054	http://timbuktuacademy.org/	Tipton Academy	2008.0	85.0
+31055	http://www.ulapsa.org	Universal Learning Academy	2005.0	33.0
+31056	http://www.stclaircounty.org/Main/Default.aspx	St. Clair County	2007.0	485.0
+31057	http://www.fairview.k12.mi.us	Fairview	2000.0	18.0
+31058	http://www.fhgov.com/	Farmington Hills, City of	2007.0	547.0
+31059	http://www.ravennaschools.org	Ravenna	2008.0	61.0
+31060	http://www.beavertonmi.org/	Beaverton, City of	2000.0	0.0
+31061	http://www.cheboygancounty.net/home/	Cheboygan County	2010.0	0.0
+31062	http://www.eriemason.k12.mi.us	Mason Co. Central	2001.0	54.0
+31063	http://www.detroitpsa.com	Detroit Public Safety Academy	2013.0	74.0
+31065	http://autrainonota.blogspot.com	AuTrain-Onota	2013.0	6.0
+31066	http://www.goisd.org	Gogebic-Ontonagon ISD	2006.0	190.0
+31067	http://www.brandontownship.us/	Brandon Charter Township	2003.0	42.0
+31068	http://www.meridian.mi.us/	Meridian Charter Township	1998.0	1553.0
+31069	http://www.blissfieldschools.us	Blissfield	2008.0	283.0
+31070	http://www.daytontownship.com/	Dayton Township	2002.0	33.0
+31071	http://villageofpinckney.org/	Pinckney, Village of	2004.0	5815.0
+31072	http://www.lctberrien.org/	Lincoln Charter Township	2004.0	44.0
+31073	http://www.hollytownshiplibrary.org	Holly Township Library	2009.0	21.0
+31074	http://ci.bangor.mi.us/	Bangor, City of	2001.0	48.0
+31075	http://oneamazingclass.org/arbor-academy/	Arbor Academy	2013.0	22.0
+31076	http://www.whitelaketwp.com/	White Lake Charter Township	2001.0	134.0
+31077	http://www.kalamazoocity.org/?	Kalamazoo, City of	2002.0	543.0
+31078	http://ishpemingcity.org/	Ishpeming, City of	2010.0	130.0
+31079	http://www.hurontownship-mi.gov/	Huron Charter Township	2007.0	25.0
+31080	http://www.alleganaesa.org/Page/229	Outlook Academy	2013.0	50.0
+31081	http://www.cityofhancock.com/	Hancock, City of	1998.0	656.0
+31082	http://www.fptrojans.org	Forest Park	2003.0	26.0
+31083	http://www.isabellacounty.org/contact-information/townships/18-isabella-township	Isabella Township	0.0	34.0
+31085	http://bentleyschools.org/site/default.aspx?PageID=1	Bentley	2013.0	0.0
+31086	http://www.tkschools.org/Pages/districthome.aspx	Thornapple Kellogg	2008.0	46.0
+31087	http://www.lindenmi.us/	Linden, City of	2003.0	68.0
+31088	http://www.barrytonlibrary.com	Barryton Public Library	2003.0	10.0
+31089	http://www.concordboyne.com/	Concord---Boyne	2001.0	42.0
+31090	http://www.kalkaskacounty.net/	Kalkaska County	2004.0	319.0
+31092	http://detour.eup.k12.mi.us/site/default.aspx?PageID=1	Detour Area School And Public Library	2012.0	6.0
+31093	http://www.hillsdalecounty.info/government0031.asp	Wheatland Township	2003.0	706.0
+31094	http://www.cnps.us	Carney-Nadeau	2002.0	7.0
+31095	http://www.ci.lowell.mi.us/	Lowell, City of	2002.0	694.0
+31096	http://www.kalcounty.com/	Kalamazoo County	1997.0	86.0
+31097	http://www.vil.stockbridge.mi.us/	Stockbridge, Village of	2006.0	265.0
+31098	http://www.dextermi.gov/	Dexter, Village of	2013.0	535.0
+31099	http://www.plymouthtwp.org/	Plymouth Charter Township	2001.0	171.0
+31101	http://www.co.marquette.mi.us/	Marquette County	2000.0	547.0
+31102	http://www.coldwaterschools.org	Coldwater	2007.0	14.0
+31104	http://www.plainfieldchartertwp.org/	Plainfield Charter Township	2000.0	90.0
+31105	http://tcaps.net	Traverse City	2001.0	2390.0
+31106	http://www.chippewacountymi.gov/	Chippewa County	2004.0	1249.0
+31107	http://ctaschool.com	Creative Technologies Academy	2001.0	15.0
+31108	http://www.elmriver.k12.mi.us	Elm River	0.0	23.0
+31109	http://www.vbisd.org/site/default.aspx?PageID=1	Van Buren ISD	2011.0	23.0
+31110	http://www.nhaschools.com/schools/flagship/en/pages/default.aspx	Flagship Charter Academy	0.0	23.0
+31111	http://www.ashtownship.org/	Ash Township	2002.0	18.0
+31112	http://www.lc-ps.org	L'Anse Creuse	1999.0	4583.0
+31113	http://www.lyon.lib.mi.us	Lyon Township Public Library	2002.0	6824.0
+31114	http://www.mantonschools.org	Manton	2006.0	82.0
+31115	http://www.e-hps.net	Essexville-Hampton	1999.0	430.0
+31116	http://www.ghaps.org	Grand Haven	1999.0	328.0
+31117	http://www.michigan.gov/safeschools	Safe Schools	2003.0	5805.0
+31118	http://www.bridgmanschools.com	Bridgman	2003.0	22.0
+31119	http://www.wakefieldtownship.com/	Wakefield Township	2005.0	46.0
+31121	http://www.rosshillacademy.org	Rutherford Winans Academy	2013.0	11.0
+31122	http://www.decaturmi.org/villagegovernment/tabid/549/default.aspx	Decatur Township	2011.0	1.0
+31123	http://www.cityofcedarsprings.org/	Cedar Springs, City of	2008.0	168.0
+31124	http://www.fentontownship.org/	Fenton Charter Township	2003.0	105.0
+31125	http://www.beecherschools.org	Beecher	2003.0	672.0
+31126	http://www.caledoniatownship.org/	Caledonia Charter Township	2001.0	84.0
+31127	http://www.leelanau.cc/elmwoodtwp.asp	Elmwood Charter Township	2006.0	1588.0
+31129	http://www.vassarlib.org	Bullard Sanford Memorial Library	2001.0	496.0
+31130	http://www.redfordu.k12.mi.us	Redford Union	1997.0	221.0
+31131	http://springlakeschools.org	Spring Lake	2006.0	166.0
+31132	http://www.villageofmilford.org/1/village/index.asp	Milford, Village of	2004.0	94.0
+31133	http://www.michigan.gov/ag	Attorney General	2002.0	8251.0
+31134	http://www.mtcps.org	Mount Clemens	2003.0	86.0
+31135	http://www.mt-pleasant.org/	Mount Pleasant, City of	1999.0	257.0
+31136	http://www.bedford.k12.mi.us	Bedford	1998.0	114.0
+31137	http://www.commercelibrary.info	Commerce Township Community Library	2005.0	224.0
+31138	http://www.richfieldpsa.org	Richfield Public School Academy	2003.0	89.0
+31139	http://www.webbermaa.com	Sarah J. Webber Media Arts Academy	2013.0	2.0
+31140	http://www.allendalelibrary.org	Allendale Township Library	2006.0	246.0
+31141	http://www.ci.walker.mi.us/	Walker, City of	1998.0	255.0
+31142	http://www.carsonvilleportsanilac.com/	Carsonville	2008.0	194.0
+31143	http://pittsfordk12.org	Pittsford	2013.0	12.0
+31145	http://www.lakeviewschools.net	Lakeview (Montcalm)	2001.0	174.0
+31146	http://ocs.manistee.org/	Onekama	2014.0	258.0
+31147	http://www.ccabr.org/	Crossroads Charter	2002.0	56.0
+31148	http://www.hillsdalecounty.info/government0032.asp	Woodbridge Township	2004.0	706.0
+31149	http://www.owengage.org	Owendale-Gagetown	2002.0	126.0
+31150	http://www.monroe.lib.mi.us	Monroe County Library System	1996.0	389.0
+31151	http://www.laurium.net/	Laurium, Village of	2002.0	146.0
+31152	http://www.nhaschools.com/schools/regentpark/en/pages/default.aspx	Regent Park Scholars Charter Academy	0.0	23.0
+31153	http://www.cityofeastpointe.net/	Eastpointe, City of	2007.0	238.0
+31154	http://prescottvillage.com/	Prescott, Village of	2001.0	0.0
+31155	http://www.baycountylibrary.org	Bay County Library System	1998.0	142.0
+31156	http://www.claytownship.org/	Clay Township	2002.0	116.0
+31157	http://www.cott-township.org/	Cottrellville Township	2003.0	16.0
+31158	http://www.chesaningtownship.com/	Chesaning Township	2001.0	30.0
+31159	http://www.hollyvillage.org/	Holly, Village of	2012.0	93.0
+31160	http://www.uticak12.org/ucsmain.asp	Utica	2009.0	145.0
+31161	http://www.shmlibrary.org/shml/	South Haven Memorial Library	2011.0	795.0

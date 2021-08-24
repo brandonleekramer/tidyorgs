@@ -1,0 +1,1318 @@
+NodeId	NodeURL	NodeName	Year	pages
+48297	http://www.chadphila.org	Charter High School for Architecture and Design	2001.0	117.0
+48298	http://www.southerntioga.org	Southern Tioga SD	2001.0	421.0
+48299	http://www.pa.gov/pages/default.aspx#.uvacjfgju1e	State Government	2014.0	154.0
+48300	https://www.portal.state.pa.us/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-5621a676-0624-4642-bc94-9f3366619130&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-2DTVPq86EcZtGQiklLZ5r4Xps0PmRsdphn4CydYUzoPnaxAdVu%2f%2bZlFU%2bDJnWA7iRWJYrLHw%2bdrhNxoDhsYVEK2Y%2fJdaYBRM&TARGET=-SM-http%3a%2f%2fwww%2eportal%2estate%2epa%2eus%2fportal%2fsso%2fSSOLogin%2easpx	Governor's Advisory Commission on Asian American Affairs	0.0	115.0
+48301	http://gjctc.org/	Greater Johnstown CTC	2010.0	122.0
+48302	http://www.pbsd.k12.pa.us	Plum Borough SD	1999.0	404.0
+48303	http://www.yorklibraries.org	Southern York County Library	2000.0	487.0
+48305	http://www.berks.lib.pa.us/wernersvillepl/	Wernersville Public Library	2001.0	96.0
+48306	http://www.berks.lib.pa.us/sinkingspringpl/	Sinking Spring Public Library	2001.0	101.0
+48307	http://www.berks.lib.pa.us/bethelpl/	Bethel-Tulpehocken Public Library	2001.0	90.0
+48309	http://www.collegeportraits.org/PA/cheyney	Cheyney University of Pennsylvania	2009.0	16.0
+48312	http://www.indians.k12.pa.us/site/default.aspx?PageID=1	Shamokin Area SD	2011.0	4.0
+48314	http://libwww.freelibrary.org/branches/branch.cfm?loc=wpr	Free Library Of Philadelphia - Lucien E. Blackwell West Philadelphia Regional Library	2007.0	446.0
+48315	http://www.nlsd.org	Northern Lehigh SD	2000.0	43.0
+48316	http://www.vgsd.org	Valley Grove SD	2001.0	15.0
+48317	http://www.rlasd.net	Red Lion Area SD	2012.0	26.0
+48318	http://carnegielibrary.org/locations/beechview/	Carnegie Library Of Pittsburgh - Beechview	2002.0	5.0
+48319	http://www.dos.state.pa.us/portal/server.pt/community/department_of_state/12405	Department of State	2010.0	2.0
+48320	http://www.carnegielibrary.org/locations/hilldistrict/	Carnegie Library Of Pittsburgh - Hill District	2002.0	4.0
+48322	http://gateway.ca.k12.pa.us/	Carbondale Area SD	1998.0	2.0
+48323	http://www.solehipl.org	Southern Lehigh Public Library	2000.0	1111.0
+48324	http://www.easternyork.com	Eastern York SD	2001.0	949.0
+48325	http://www.rsd.k12.pa.us	Riverview SD	1998.0	323.0
+48327	http://mcbridelibrary.org/new/	Mcbride Memorial Library	2013.0	32.0
+48328	http://www.monroepl.org	Eastern Monroe Public Library	2000.0	96.0
+48329	http://www.sharon.k12.pa.us/site/default.aspx?PageID=1	Sharon City SD	2011.0	24.0
+48330	http://www.ssdcougars.org	Springfield SD	0.0	1687.0
+48331	http://www.mabears.net	Mahanoy Area SD	2007.0	73.0
+48332	http://www.meganslaw.state.pa.us/portal/server.pt/community/soab_home/7557	Sexual Offenders Assessment Board	2010.0	2.0
+48334	http://www.fcrsd.org	Forest City Regional SD	2004.0	1874.0
+48335	http://coraopolislibrary.org/	Coraopolis Memorial Library	2006.0	7.0
+48336	http://www.peopleslibrary.org/	Peoples Library - New Kensington	2011.0	13.0
+48337	http://www.williamsburg.k12.pa.us/site/default.aspx?PageID=1	Williamsburg Community SD	2011.0	5.0
+48339	http://libwww.freelibrary.org/branches/branch.cfm?loc=fal	Free Library Of Philadelphia - Falls Of Schuylkill Branch	2007.0	497.0
+48341	http://www.inventpa.com/	Department of Community and Economic Development	2000.0	6.0
+48342	http://www.wilmington.k12.pa.us	Wilmington Area SD	2001.0	99.0
+48343	http://www.cumberlandcountylibraries.org/?q=NCU	New Cumberland Public Library	2013.0	2931.0
+48344	http://www.ccctc.org	Clearfield County CTC	2001.0	135.0
+48345	http://www.ellwood.k12.pa.us	Ellwood City Area SD	1999.0	5.0
+48346	http://www.clsv.net	Community Library Of The Shenango Valley	2008.0	40.0
+48347	http://www.northamptoncounty.org/northampton/site/default.asp	Northampton	2005.0	4.0
+48348	http://www.fleetwoodasd.k12.pa.us/	Fleetwood Area SD	2000.0	42.0
+48349	http://www.butlerlibrary.info	Butler Area Public Library	2008.0	2.0
+48350	http://www.stmaryslibrary.org	Saint Marys Public Library	2000.0	33.0
+48351	http://scctc.elklakeschool.org/home	Susquehanna County CTC	2010.0	24.0
+48352	http://www.padistance.org	Pennsylvania Distance Learning CS	2009.0	268.0
+48353	http://www.publiaison.state.pa.us/portal/server.pt/community/office_of_public_liaison/20980	Governor's Office of Public Liaison	2013.0	1.0
+48354	http://www.cbgpublib.org	Greater Canonsburg Pub Library	2000.0	1.0
+48355	http://www.manorpubliclibrary.org	Manor Public Library	2002.0	1.0
+48356	http://www.greenwoodscharter.org	Green Woods CS	2003.0	52.0
+48357	http://21cccs.org/	21st Century Cyber CS	2005.0	608.0
+48358	http://www.craw.org	Crawford Central SD	0.0	36.0
+48359	http://www.homercenter.org/	Homer-Center SD	2001.0	24.0
+48360	http://www.collegeportraits.org/PA/clarion	Clarion University of Pennsylvania	2009.0	15.0
+48361	http://www.co.greene.pa.us	Greene	2001.0	374.0
+48362	http://www.ctclc.edu	CTC of Lackawanna County	2008.0	263.0
+48364	http://www.ketterercharter.org	Dr Robert Ketterer CS, Inc.	2011.0	20.0
+48365	http://www.bbsd.com	Berlin Brothersvalley SD	0.0	41.0
+48366	http://www.raiderweb.org	Middletown Area SD	2003.0	2477.0
+48367	http://westernalleghenylibrary.org	Western Allegheny Community Library	2005.0	18.0
+48368	http://www.sfsd.k12.pa.us	Southern Fulton SD	2001.0	189.0
+48369	http://fclspa.org/?option=com_content&view=article&id=38&itemid=141	Coyle Free Library	0.0	2021.0
+48370	http://www.richlandsd.com	Richland SD	2004.0	86.0
+48371	http://www.shscs.org	Sylvan Heights Science CS	2000.0	12.0
+48372	http://www.bearcreekschool.com	Bear Creek Community CS	2002.0	60.0
+48374	http://www.doversd.org	Dover Area SD	2012.0	28.0
+48375	http://www.phefa.org/spsbamain.htm	Public School Building Authority	0.0	7.0
+48376	http://carnegiefreelib.org	Carnegie Free Library - Connellsville	2002.0	18.0
+48377	http://www.hcctc.org	Huntingdon County CTC	2003.0	31.0
+48378	http://www.psers.state.pa.us	Public School Employees' Retirement System	1998.0	311.0
+48379	http://www.ycs.k12.pa.us/	York City SD	2000.0	839.0
+48381	http://www.paturnpike.com/	Pennsylvania Turnpike Commission	1997.0	362.0
+48383	http://www.crsd.k12.pa.us/	Chestnut Ridge SD	1997.0	97.0
+48384	http://www.dcts.org	Dauphin County Technical School	1999.0	308.0
+48385	http://www.cocalico.org	Cocalico SD	2007.0	74.0
+48386	http://www.wilsonareasd.org	Wilson Area SD	2001.0	85.0
+48387	http://www.oxford.k12.pa.us	Oxford Area SD	2000.0	52.0
+48388	http://home.comcast.net/~rmarthurlib/	Rebecca M Arthurs Memorial Library	2007.0	1.0
+48389	http://www.philasd.org	Philadelphia City SD	2008.0	350.0
+48390	http://www.cclsys.org/southfork/	South Fork Public Library	2011.0	13.0
+48391	http://www.lehighcounty.org/	Lehigh	1999.0	2127.0
+48392	http://www.ctasd.org	Conemaugh Township Area SD	2001.0	191.0
+48393	http://www.co.washington.pa.us/	Washington	1999.0	787.0
+48394	http://www.phmc.state.pa.us/	Historical and Museum Commission	1998.0	8.0
+48396	http://www.pgc.state.pa.us/	Pennsylvania Game Commission	1998.0	2.0
+48398	http://www.bvsd.k12.pa.us/site/default.aspx?PageID=1	Blacklick Valley SD	2012.0	21.0
+48399	http://www.hamptoncommunitylibrary.org	Hampton Community Library	2006.0	42.0
+48401	http://www.pomounties.org/site/default.aspx?PageID=1	Philipsburg-Osceola Area SD	2012.0	94.0
+48402	http://centrecountylibrary.org/	Centre County Library Historical Museum	2001.0	151.0
+48403	http://www.beaverlibraries.org/center.asp	Center Express Branch Library	2012.0	44.0
+48404	http://www.dallastown.net/site/default.aspx?PageID=1	Dallastown Area SD	2012.0	29.0
+48405	http://wcpubliclibrary.org/	West Chester Public Library	2004.0	59.0
+48406	http://www.ghal.org	Greensburg Hempfield Area Library	2000.0	4.0
+48408	http://www.buckslib.org/libraries/warminster/	Bucks County Free Library - Warminster Township Free Library	2003.0	0.0
+48409	http://www.lmtsd.org/site/default.aspx?PageID=1	Lower Moreland Township SD	2011.0	14.0
+48410	http://www.maritimecharter.org	Maritime Academy Charter School	2003.0	312.0
+48411	http://www.nesd1.org	North East SD	2008.0	218.0
+48413	http://www.basd.us	Brookville Area SD	2013.0	204.0
+48415	http://www.cmvt.us	Columbia-Montour AVTS	2003.0	2.0
+48416	http://dcls.org/esa/	East Shore Area Library	2012.0	3.0
+48417	http://www.rtmsd.org/site/default.aspx?PageID=1	Rose Tree Media SD	2011.0	13.0
+48418	http://www.keyknox.com	Keystone  SD	2001.0	39.0
+48419	http://www.delcotech.org	Delaware County Technical High School	2010.0	267.0
+48420	http://www.basdk12.org/site/default.aspx?PageID=1	Butler Area SD	0.0	5.0
+48421	http://www.sharpsville.k12.pa.us	Sharpsville Area SD	2001.0	261.0
+48422	http://www.palcs.org	Pennsylvania Leadership Charter School	2003.0	776.0
+48423	http://www.collegeportraits.org/PA/iup	Indiana University of Pennsylvania	2009.0	15.0
+48425	http://www.bayardtaylor.org	Bayard Taylor Memorial Library	2001.0	1.0
+48426	http://swissvalelibrary.org	Carnegie Free Library Of Swissvale	2005.0	42.0
+48427	http://libwww.freelibrary.org/branches/branch.cfm?loc=pci	Free Library Of Philadelphia - Philadelphia City Institute	2007.0	482.0
+48428	http://libwww.freelibrary.org/branches/branch.cfm?loc=swk	Free Library Of Philadelphia - Charles Santore Branch	2007.0	405.0
+48429	http://www.portal.state.pa.us/portal/server.pt/community/department_of_health_information/	Department of Health	2013.0	16.0
+48430	http://marplepubliclibrary.org/	Marple Public Library	2002.0	2.0
+48431	http://www.gasd.net	Galeton Area SD	2001.0	1892.0
+48432	http://www.claysburglibrary.org	Claysburg Area Public Library Inc	2007.0	12.0
+48433	http://jkl.mclinc.org	Jenkintown Library	2003.0	10.0
+48434	http://www.middletownpubliclib.org	Middletown Public Library	1999.0	133.0
+48435	http://www.delcolibraries.org/fo.htm	Borough Of Folcroft Public Library	2005.0	194.0
+48436	http://www.avalonlibrary.org	Avalon Public Library	2006.0	97.0
+48437	http://www.carnegielibrary.org/locations/westend/	Carnegie Library Of Pittsburgh - West End	2002.0	4.0
+48438	http://www.gorockets.org	Titusville Area SD	2000.0	521.0
+48439	http://www.wilsonsd.org/site/default.aspx?PageID=1	Wilson  SD	2012.0	97.0
+48440	http://tome.bapl.lib.pa.us/default.aspx	Bellwood Antis Public Library	2011.0	72.0
+48441	http://www.pvsd.org	Perkiomen Valley SD	2001.0	197.0
+48442	http://www.pmrs.state.pa.us/	Municipal Retirement System	2001.0	4.0
+48443	http://fclspa.org/?option=com_content&view=article&id=40&itemid=143	Lilian S. Besore Memorial Library	0.0	2141.0
+48444	http://www.interborosd.org/	Interboro SD	2001.0	7.0
+48445	http://www.mvsd.us/	Mid Valley SD	2003.0	128.0
+48446	http://www.masterycharter.org/	Mastery CS-Shoemaker Campus	2004.0	305.0
+48447	http://www.hamlinlibrary.org/	Hamlin Memorial Library	2005.0	29.0
+48448	http://www.cor.state.pa.us/	Department of Corrections	1999.0	116.0
+48449	http://www.lincolncharterschoolpa.com	Lincoln CS	2006.0	1.0
+48450	http://www.buckslib.org/libraries/bensalem/	Bucks County Free Library - Bensalem Branch	2001.0	2.0
+48451	http://www.pacourts.us/	Administrative Office of Pennsylvania Courts	2013.0	385.0
+48452	http://www.fortleboeuf.net/	Fort LeBoeuf SD	2001.0	24.0
+48453	http://www.auditorgen.state.pa.us/	Auditor General	1996.0	1009.0
+48454	http://libwww.freelibrary.org/branches/branch.cfm?loc=rox	Free Library Of Philadelphia - Roxborough Branch	2007.0	428.0
+48455	http://www.rapcs.org	Richard Allen Preparatory CS	2004.0	544.0
+48457	http://www.berks.lib.pa.us/	Berks County Public Libraries	2001.0	153.0
+48458	http://www.buckslib.org/libraries/morrisville/	Bucks County Free Library - Morrisville Free Library	2003.0	0.0
+48459	http://www.antietamsd.org/site/default.aspx?PageID=1	Antietam SD	2013.0	4.0
+48460	http://www.fredpl.org	Fredericktown Area Public Library	2001.0	4.0
+48461	http://www.aasdcat.com/aasd/	Altoona Area SD	1999.0	104.0
+48462	http://www.spaldinglibrary.org	Spalding Memorial Library	2006.0	13.0
+48463	http://www.berks.lib.pa.us/brandywinecl/	Brandywine Community Library	2001.0	103.0
+48464	http://www.cheltenhamlibraries.org	Cheltenham Township Library System	2002.0	99.0
+48465	http://nmtcs.weebly.com/	New Media Technology CS	2011.0	114.0
+48466	http://www.basd.k12.pa.us	Beaver Area SD	1997.0	213.0
+48467	http://www.jimthorpesd.org/education/components/scrapbook/default.php?sectionid=1&url_redirect=1	Jim Thorpe Area SD	0.0	1.0
+48468	http://www.carmarea.org	Carmichaels Area SD	2001.0	687.0
+48470	http://www.jeannette.k12.pa.us/site/default.aspx?PageID=1	Jeannette City SD	2012.0	5.0
+48471	http://www.penntrafford.org	Penn-Trafford SD	2001.0	25.0
+48472	http://www.freedomareaschools.org	Freedom Area SD	2012.0	468.0
+48473	http://www.rosslibrary.org	Annie Halenbake Ross Library	2001.0	61.0
+48476	http://www.pittstonarea.com	Pittston Area SD	0.0	5595.0
+48477	http://www.freeport.k12.pa.us/site/default.aspx?PageID=1	Freeport Area SD	2011.0	14.0
+48478	http://www.phefa.org/	Higher Educational Facilities Authority	0.0	7.0
+48479	http://www.portal.state.pa.us/portal/server.pt?open=514&objid=1071852&parentname=objmgr&parentid=223&mode=2	Governor's Advisory Commission on African American Affairs	2012.0	2.0
+48480	http://www.dallassd.com	Dallas SD	2000.0	1.0
+48481	http://www.phila.gov/Pages/default.aspx	Philadelphia	2012.0	126.0
+48482	http://www.portal.state.pa.us/portal/server.pt/community/gacla/20749	Governor's Advisory Commission on Latino Affairs	2012.0	2.0
+48483	http://www.edline.net/pages/Conrad_Weiser_SD	Conrad Weiser Area SD	2010.0	9.0
+48484	http://www.mmb.state.pa.us/portal/server.pt/community/mb_home/4741	Milk Marketing Board	2010.0	2.0
+48485	http://www.charleroisd.org/	Charleroi SD	2001.0	12.0
+48486	http://www.slsd.org	Southern Lehigh SD	0.0	2133.0
+48487	http://www.sparksd.org	South Park SD	2001.0	58.0
+48488	http://www.countyofindiana.org/	Indiana	2004.0	74.0
+48489	http://www.cfsd.info	Central Fulton SD	2003.0	31.0
+48491	http://www.dukecitysd.org/	Duquesne City SD	2010.0	54.0
+48492	http://www.duboispubliclibrary.org	Dubois Public Library	2010.0	221.0
+48493	https://www.seal-pa.org/SitePages/Home.aspx	Selinsgrove Area SD	2011.0	59.0
+48494	http://www.portal.state.pa.us/portal/server.pt/community/hide_-_liquor_control_enforcement	Bureau of Liquor Enforcement	0.0	1.0
+48495	http://fclspa.org/?option=com_content&view=article&id=45&itemid=149	Blue Ridge Summit Free Library	0.0	2141.0
+48496	http://www.portal.state.pa.us/portal/server.pt/community/dep_home/5968	Department of Environmental Protection	2010.0	2.0
+48497	http://meadvillelibrary.org/	Meadville Public Library	0.0	548.0
+48498	https://www.edline.net/pages/Kiski_Area_SD/	Kiski Area SD	2011.0	10.0
+48499	http://www.chestercommunitycharter.org	Chester Community CS	2004.0	391.0
+48500	http://www.house.state.pa.us/index.cfm	House	2003.0	15.0
+48501	http://www.weatherlysd.org	Weatherly Area SD	2004.0	809.0
+48502	http://www.berks.lib.pa.us/womelsdorfcl/	Womelsdorf Community Library	2001.0	96.0
+48503	http://www.budget.state.pa.us	Office of the Budget	1998.0	2.0
+48504	http://www.hyndmanlibrary.org	Hyndman-Londonderry Public Library	2008.0	20.0
+48506	http://libwww.freelibrary.org/branches/branch.cfm?loc=gro	Free Library Of Philadelphia - Greater Olney Branch	2007.0	417.0
+48507	http://www.wmasd.org	West Mifflin Area SD	0.0	676.0
+48508	http://www.cityofstmaryspa.gov/	St Marys	2014.0	50.0
+48509	http://www.kosd.org/education/district/district.php?sectionid=1	Keystone Oaks SD	2008.0	2.0
+48510	http://www.waynehighlands.org/site/default.aspx?PageID=1	Wayne Highlands SD	2011.0	12.0
+48511	http://www.collegeportraits.org/PA/sru	Slippery Rock University of Pennsylvania	2010.0	15.0
+48513	http://www.portal.state.pa.us/portal/server.pt?open=514&objid=1108792&mode=2	Commission for Women	2012.0	2.0
+48515	http://www.tmsd.net	Tussey Mountain SD	2001.0	815.0
+48516	http://www.lebanon.k12.pa.us	Lebanon SD	1998.0	154.0
+48517	http://www.co.juniata.pa.us/	Juniata	2000.0	89.0
+48519	http://www.fcavts.org	Fulton County AVTS	2004.0	40.0
+48520	http://www.cpdlf.org/site/default.aspx?PageID=1	Central PA Digital Learning Foundation CS	2012.0	5.0
+48522	http://www.danville.k12.pa.us	Danville Area SD	0.0	741.0
+48523	http://www.moonlibrary.org	Moon Township Public Library	2005.0	8.0
+48525	http://discoverycharterschool.com/	Discovery Charter School	2003.0	282.0
+48526	http://www.cppanthers.org	Commodore Perry SD	2006.0	164.0
+48527	http://www.northwaleslibrary.org	North Wales Mem Free Library	2003.0	27.0
+48528	http://www.parklandsd.org	Parkland SD	2001.0	700.0
+48529	http://www.soudertonsd.org	Souderton Area SD	1999.0	104.0
+48530	http://www.columbia.lib.pa.us/columbia/site/default.asp	Columbia Public Library	2008.0	2.0
+48531	http://www.chestercity.com/	Chester	1999.0	147.0
+48532	http://www.hasdhawks.org/	Hamburg Area SD	0.0	1234.0
+48533	http://www.northwest.k12.pa.us	Northwest Area SD	2000.0	1630.0
+48534	http://www.fhrangers.org/site/default.aspx	Forest Hills SD	2012.0	7.0
+48536	http://www.palottery.state.pa.us/	Pennsylvania Lottery	2004.0	1648.0
+48537	http://montgomerylib.org	Montgomery Area Public Library	2007.0	14.0
+48538	http://www.wvwspartans.org	Wyoming Valley West SD	2002.0	378.0
+48539	http://www.beaverlibraries.org/baden.asp	Baden Memorial Library	2012.0	44.0
+48540	http://www.bbsd.org	Bristol Borough SD	2002.0	45.0
+48541	http://www.bcfls.org/zelienople-public-library/zelienople-library-childrens-department/	Zelienople Public Library	2012.0	2.0
+48542	http://www.carnegielibrary.org/locations/main/	Carnegie Library Of Pittsburgh - Main (Oakland)	2002.0	8.0
+48543	http://www.pasen.gov/	State Senate	1997.0	22.0
+48544	http://www.fish.state.pa.us/	Pennsylvania Fish and Boat Commission	1998.0	1523.0
+48545	http://www.athensasd.k12.pa.us	Athens Area SD	2000.0	783.0
+48547	http://www.masd.net/site/default.aspx?PageID=1	Meyersdale Area SD	2012.0	10.0
+48548	http://www.newalexlibrary.org/	New Alexandria Public Library	2003.0	1.0
+48549	http://www.lycoctc.org/site/default.aspx?PageID=1	Lycoming CTC	2013.0	6.0
+48550	http://www.braddockcarnegielibrary.org/	Braddock Carnegie Library	2013.0	20.0
+48551	http://www.hannasd.org/site/default.aspx?PageID=1	Susquehanna Township SD	2011.0	9.0
+48552	http://www.co.berks.pa.us/Pages/default.aspx	Berks	2011.0	809.0
+48553	http://www.cgsd.org	Central Greene SD	2001.0	13.0
+48554	http://www.ephratapubliclibrary.org	Ephrata Public Library	2000.0	93.0
+48555	http://www.co.somerset.pa.us/	Somerset	2002.0	302.0
+48556	http://www.garnetvalleyschools.com/site/default.aspx?PageID=1	Garnet Valley SD	2012.0	70.0
+48557	http://www.ulgpcs.org	Urban League of Greater Pittsburgh CS	0.0	404.0
+48558	http://www.municipalauthorities.org/	Pennsylvania Municipal Authorities Association	1998.0	56.0
+48559	http://hatborogov.com/library	Union Library Company Of Hatborough	2007.0	0.0
+48560	http://www.ubtech.org/site/default.aspx?PageID=1	Upper Bucks County Technical School	2012.0	10.0
+48561	http://www.pequeavalley.org/site/default.aspx?PageID=1	Pequea Valley SD	2012.0	36.0
+48562	http://www.hersheylibrary.org	Hershey Public Library	1999.0	592.0
+48564	http://www.unitedsd.net/education/district/district.php?sectionid=1	United SD	2008.0	2.0
+48565	http://www.oilcity.org	Oil City	2000.0	189.0
+48566	http://www.carnegielibrary.org/locations/woodsrun/	Carnegie Library Of Pittsburgh - Woods Run	2002.0	4.0
+48567	http://libwww.freelibrary.org/branches/branch.cfm?loc=hol	Free Library Of Philadelphia - Holmesburg Branch	2007.0	455.0
+48569	http://www.fayettecti.org	Fayette County Career & Technical Institute	2012.0	149.0
+48570	http://ovmlibrary.org/blog/	Oswayo Valley Memorial Library	2012.0	10.0
+48571	http://www.lmls.org	Lower Merion Library System	2001.0	113.0
+48572	http://ariseacademychs.org/	ARISE Academy Charter High School	2009.0	2.0
+48573	http://libwww.freelibrary.org/branches/branch.cfm?loc=fox	Free Library Of Philadelphia - Fox Chase Branch	2007.0	515.0
+48574	http://www.pvlibrary.net/	Perkiomen Valley Library At Schwenksville	2003.0	23.0
+48575	http://www.adamslib.org/libraries/caldwell/	Caldwell Memorial Library	2006.0	2.0
+48576	http://www.lancasterlibraries.org/lslc/site/default.asp	Library System Of Lancaster County	2006.0	0.0
+48577	http://www.buckslib.org	Bucks County Free Library - Township Library Of Lower Southampton (Feasterville)	1999.0	3.0
+48578	http://www.buckslib.org/libraries/langhorne/	Bucks County Free Library - Langhorne Branch	2003.0	0.0
+48579	http://www.sdst.org/site/default.aspx?PageID=1	Springfield Township SD	2013.0	37.0
+48580	http://www.conneautsd.org/	Conneaut SD	2008.0	19.0
+48581	http://www.srsd.k12.pa.us	Sto-Rox SD	2000.0	15.0
+48583	http://www.brsd.org	Blue Ridge SD	2004.0	3069.0
+48584	http://www.elancolibrary.org/elanco/site/default.asp	Eastern Lancaster County Library	2009.0	11.0
+48585	http://www.stsd.org	Salisbury Township SD	0.0	1206.0
+48586	http://www.pmsd.org/	Pocono Mountain SD	2000.0	66.0
+48587	http://www.mcasd.net	Marion Center Area SD	2002.0	456.0
+48588	http://hollidaysburglibrary.org/	Hollidaysburg Area Public Library	2001.0	16.0
+48589	http://www.mbgsd.org	Mechanicsburg Area SD	2000.0	26.0
+48590	http://www.lcb.state.pa.us/plcb/index.htm	Pennsylvania Liquor Control Board	2012.0	153.0
+48592	http://libwww.freelibrary.org/branches/branch.cfm?loc=ogn	Free Library Of Philadelphia - David Cohen Ogontz Branch	2007.0	439.0
+48593	http://www.franklincountypa.gov/Pages/default.aspx	Franklin	2013.0	107.0
+48595	http://www.palmertonarealibrary.com	Palmerton Library	2007.0	25.0
+48596	http://www.delcolibraries.org/co.htm	Collingdale Public Library	2005.0	194.0
+48597	http://www.upcs.net	Urban Pathways 6-12 CS	2004.0	150.0
+48598	http://www.clasd.net	Clarion-Limestone Area SD	2008.0	21.0
+48599	http://www.wsctc.net	West Side CTC	2010.0	19.0
+48601	http://www.pgsd.org/site/default.aspx?PageID=1	Pottsgrove SD	2013.0	12.0
+48602	http://www.cumberlandcountylibraries.org/?q=JGR	John Graham Public Library	2013.0	2932.0
+48603	http://www.pgasd.com	Pine Grove Area SD	2000.0	1382.0
+48604	http://www.cattysd.org	Catasauqua Area SD	0.0	855.0
+48605	http://www.beaverlibraries.org/chippewa.asp	Chippewa Branch Library	2012.0	44.0
+48606	http://www.huntingdoncounty.net/Pages/HuntingdonCountyHome.aspx	Huntingdon	2010.0	364.0
+48607	http://www.wrsd.org	Warrior Run SD	0.0	497.0
+48608	http://libwww.freelibrary.org/branches/branch.cfm?loc=leh	Free Library Of Philadelphia - Lillian Marrero Branch	2007.0	513.0
+48610	http://www.greentreelibrary.org	Green Tree Public Library	2005.0	190.0
+48611	http://dcls.org/afl/	William H. Marion C. Alexander Family Library	2013.0	4.0
+48612	http://www.portal.state.pa.us/portal/server.pt/community/pgc/9106	Game Commission	2009.0	2.0
+48613	https://wccc.edu/	Westmoreland County Community College	1998.0	21.0
+48614	http://www.dcnr.state.pa.us/stateparks/index.asp	State Parks	2003.0	720.0
+48615	https://www.ects.org/	Erie County Technical School	1998.0	5.0
+48616	http://www.elklandlibrary.com	Elkland Area Community Library	2002.0	7.0
+48617	http://fmsd.schoolwires.net/site/default.aspx?PageID=1	Fannett-Metal SD	2012.0	23.0
+48618	http://www.nasd.k12.pa.us/site/default.aspx?PageID=1	Norristown Area SD	2012.0	43.0
+48619	http://www.newtownlibrary.org	Newtown Public Library	2002.0	17.0
+48620	http://www.goldenrams.com/site/default.aspx?PageID=1	Highlands SD	2011.0	12.0
+48621	http://www.etownschools.org/site/default.aspx?PageID=1	Elizabethtown Area SD	2011.0	218.0
+48622	http://www.nhslibrary.org	Free Library Of New Hope Solebury	2008.0	2.0
+48623	http://www.shenango.k12.pa.us	Shenango Area SD	2001.0	96.0
+48624	http://www.carnegielibrary.org/locations/lbph/	Carnegie Library Of Pittsburgh - Library For The Blind And Physically Handicapped	2002.0	4.0
+48625	http://www.lcctc.edu	Lebanon County CTC	2012.0	214.0
+48627	http://www.quarryvillelibrary.org/quarryville/site/default.asp	Quarryville Library Center	2007.0	9.0
+48629	http://www.northampton.edu	Northampton Community College	2000.0	2.0
+48630	http://muncylibrary.com/new/	Muncy Public Library	2012.0	12.0
+48632	http://howardgardnerschool.com/	Howard Gardner Multiple Intelligence CS	2005.0	259.0
+48633	http://www.sedelco.org/site/default.aspx?PageID=1	Southeast Delco SD	2012.0	4.0
+48635	http://www.ltsd.k12.pa.us/site/default.aspx?PageID=1	Loyalsock Township SD	2012.0	55.0
+48636	http://www.carnegielibrary.org/locations/squirrelhill/	Carnegie Library Of Pittsburgh - Squirrel Hill	2002.0	6.0
+48637	http://www.segsd.org/	Southeastern Greene SD	2001.0	153.0
+48638	http://www.washlibs.org/bentleyville/	Bentleyville Public Library	2013.0	3.0
+48640	http://www.tasd.net/	Tunkhannock Area SD	2001.0	30.0
+48641	http://www.deerlakes.net	Deer Lakes SD	2004.0	135.0
+48642	http://www.monroecti.org/site/default.aspx?PageID=1	Monroe Career & Tech Inst	2013.0	9.0
+48643	http://www.swsmithlibrary.org	Samuel W Smith Mem Pub Library	2008.0	21.0
+48644	http://yorkcountypa.gov/	York	0.0	3462.0
+48645	http://www.scottlibrary.org	Scott Township Public Library	2006.0	76.0
+48646	http://www.westperry.org/site/default.aspx?PageID=1	West Perry SD	2012.0	84.0
+48647	http://mysite.verizon.net/saxtonlibrary/	Saxton Community Library	2006.0	1.0
+48648	http://www.bermudian.org	Bermudian Springs SD	2001.0	2566.0
+48649	http://www.philaport.com/	Philadelphia Regional Port Authority	2001.0	44.0
+48650	http://www.schlowlibrary.org/	Schlow Centre Region Library	2000.0	212.0
+48651	http://www.beaverlibraries.org/beaverfalls.asp	Carnegie Free Library - Beaver Falls	2012.0	44.0
+48652	http://www.berks.lib.pa.us/bernvilleacl/	Bernville Area Community Library	2001.0	118.0
+48653	http://tunkhannock.com/library/	Tunkhannock Public Library	2001.0	36.0
+48654	http://www.windberschools.org/site/default.aspx?PageID=1	Windber Area SD	2013.0	0.0
+48655	http://www.npenn.org/site/default.aspx?PageID=1	North Penn SD	2012.0	15.0
+48656	http://www.lockhavencity.org/	Lock Haven	2000.0	34.0
+48657	http://www.basd.net/site/default.aspx?PageID=1	Bellefonte Area SD	2011.0	17.0
+48658	http://www.sgasd.org/site/default.aspx?PageID=1	Spring Grove Area SD	2011.0	11.0
+48659	http://co.wayne.pa.us/	Wayne	2002.0	136.0
+48661	http://www.lancaster.k12.pa.us/	Lancaster SD	1998.0	75.0
+48662	http://www.tri-valley.k12.pa.us	Tri-Valley SD	2001.0	4.0
+48663	http://www.ccmellorlibrary.org/foresthills.html	Forest Hills Library	2010.0	39.0
+48664	http://www.upsd.org/site/default.aspx?PageID=1	Upper Perkiomen SD	2013.0	31.0
+48665	http://www.nazarethlibrary.org	Memorial Library Of Nazareth Vicinity	2000.0	39.0
+48666	http://www.donegal.k12.pa.us/site/default.aspx?PageID=1	Donegal SD	2011.0	1004.0
+48667	http://www.ldsd.org/site/default.aspx?PageID=1	Lower Dauphin SD	2012.0	9.0
+48668	http://www.nasdschools.org	Northampton Area SD	0.0	598.0
+48669	http://www.portal.state.pa.us/portal/server.pt/community/general_information/12983/contact_information/590381	Civil Service Commission	2009.0	2.0
+48671	http://www.edline.net/pages/Avella_ASD	Avella Area SD	2012.0	31.0
+48672	http://www.carlisleschools.org	Carlisle Area SD	0.0	2316.0
+48673	http://www.rtsd.org/site/default.aspx?PageID=1	Radnor Township SD	2011.0	12.0
+48674	http://mountcarmelareapubliclibrary.com/	Mount Carmel Public Library	2009.0	11.0
+48675	http://www.wyoarea.org	Wyomissing Area SD	2004.0	227.0
+48676	http://www.pikepa.org/	Pike	2002.0	78.0
+48677	http://www.mercer.k12.pa.us	Mercer Area SD	1999.0	51.0
+48678	http://www.perryco.org/Pages/default.aspx	Perry	2010.0	95.0
+48679	http://www.sulcosd.k12.pa.us/site/default.aspx?PageID=1	Sullivan County SD	2012.0	11.0
+48680	http://www.port.pittsburgh.pa.us/	Port of Pittsburgh Commission	1998.0	520.0
+48681	http://www.forbesroad.com	Forbes Road CTC	2001.0	29.0
+48682	http://www.svsd.k12.pa.us	Steel Valley SD	2001.0	4.0
+48683	http://www.ccmellorlibrary.org	C C Mellor Memorial Library	2005.0	39.0
+48684	http://fclspa.org/?option=com_content&view=article&id=47&itemid=152	Hustontown Branch Library	0.0	2140.0
+48685	http://www.altoonalibrary.org/	Altoona Area Public Library	2000.0	964.0
+48686	http://www.nwctc.k12.pa.us/site/default.aspx?PageID=1	Northern Westmoreland CTC	2012.0	6.0
+48687	http://www.carnegielibrary.org/locations/lawrenceville/	Carnegie Library Of Pittsburgh - Lawrenceville	2002.0	5.0
+48688	http://www.yorkarcs.org/SitePages/Home.aspx	York Academy Regional Charter School	2012.0	0.0
+48689	http://menglelibrary.org	Mengle Memorial Library	2011.0	18.0
+48690	http://www.lcvt.tec.pa.us	Lawrence County CTC	2001.0	104.0
+48691	https://www.kcsd.k12.pa.us/	Keystone Central SD	1996.0	2105.0
+48692	http://www.hempfieldsd.org	Hempfield  SD	2003.0	165.0
+48693	http://www.ltsd.org	Lackawanna Trail SD	2001.0	290.0
+48694	http://www.lvacademy.org	Lehigh Valley Academy Regional CS	2001.0	52.0
+48695	http://www.mtpl.info/	Manheim Township Public Library	2011.0	1558.0
+48696	http://www.lclshome.org/taylor/	Taylor Community Library	2011.0	2.0
+48697	http://www.lhsd.org	Laurel Highlands SD	2002.0	33.0
+48698	http://www.wpaces.com	West Phila. Achievement CES	2002.0	1.0
+48699	http://backmountainlibrary.org	Back Mountain Memorial Library	2002.0	24.0
+48700	http://www.cmths.org/site/default.aspx?PageID=1	Central Montco Technical High School	2012.0	4.0
+48701	http://WWW.imanicharter.org/	Imani Education Circle CS	0.0	86.0
+48702	http://www.conewago.k12.pa.us	Conewago Valley SD	1998.0	196.0
+48703	http://www.racc.edu	Reading Area Community College	2002.0	295.0
+48707	http://www.canton.k12.pa.us/site/default.aspx?PageID=1	Canton Area SD	2011.0	9.0
+48708	http://www.boc.state.pa.us/	Board of Claims	1998.0	11.0
+48709	http://www.buckslib.org/libraries/perkasie/	Bucks County Free Library - Perkasie	2003.0	0.0
+48710	http://www.cclsys.org/lillywash/	Lilly Washington Pub Library	2011.0	13.0
+48711	http://www.ccchs.net	Career Connections CHS	2003.0	131.0
+48712	http://www.ictc.edu	Indiana County Technology Center	2013.0	3.0
+48713	http://www.spectrumcharterschool.org	Spectrum CS	2006.0	9.0
+48715	http://www.manheimlibrary.org/manheim/site/default.asp	Manheim Community Library	2008.0	3.0
+48716	http://www.neshannock.k12.pa.us	Neshannock Township SD	2001.0	101.0
+48717	http://www.abington.k12.pa.us	Abington SD	1998.0	73.0
+48718	http://www.passhe.edu/pages/default.aspx	PENNSYLVANIA STATE SYSTEM OF HIGHER EDUCATION	2008.0	132.0
+48720	http://www.tigerwires.com/site/default.aspx?PageID=1	Hollidaysburg Area SD	2011.0	25.0
+48721	http://nar.mclinc.org	Narberth Community Library	2006.0	12.0
+48722	http://www.solanco.org	Solanco SD	2003.0	2.0
+48723	http://www.basd.org	Brownsville Area SD	1998.0	1.0
+48724	https://sites.google.com/site/orwigsburglibrary/	Orwigsburg Area Fr Pub Library	2012.0	21.0
+48725	http://hvlibrary.org	Huntingdon Valley Library	2001.0	52.0
+48726	http://chestercharterschoolforthearts.org/	Chester CS for the Arts	2013.0	36.0
+48728	http://www.parkwaywest.org	Parkway West CTC	2001.0	3397.0
+48730	http://www.warwicksd.org/website/index.php	Warwick SD	2011.0	539.0
+48731	http://www.wyasd.k12.pa.us	West York Area SD	2000.0	165.0
+48732	http://www.waynelibraries.org	Northern Wayne Community Library	2006.0	254.0
+48733	http://www.cantonlibrary.org	Green Free Library	2003.0	1.0
+48735	http://www.oig.state.pa.us/portal/server.pt/community/oig_home/3772	Office of Inspector General	2009.0	2.0
+48736	http://libwww.freelibrary.org/branches/branch.cfm?loc=and	Free Library Of Philadelphia - Andorra Branch	2007.0	401.0
+48738	http://www.carnegielibrary.org/locations/eastliberty/	Carnegie Library Of Pittsburgh - East Liberty	2002.0	4.0
+48739	http://avsd.k12.pa.us/site/index.php	Allegheny Valley SD	2008.0	0.0
+48740	http://www.sers.state.pa.us/portal/server.pt/community/sers_home/14364	State Employees' Retirement System	2009.0	32.0
+48741	http://www.lclshome.org/carbondale/	Carbondale Public Library	2008.0	2.0
+48742	http://www.bhasd.org	Brandywine Heights Area SD	2006.0	0.0
+48743	http://www.baynelibrary.org	Andrew Bayne Memorial Library	2005.0	14.0
+48744	http://www.dasd.k12.pa.us/site/default.aspx?PageID=1	Dubois Area SD	2011.0	14.0
+48745	http://www.mccordlibrary.org	Mccord Memorial Library	2001.0	1.0
+48747	http://www.dgs.state.pa.us/portal/server.pt/community/department_of_general_services/1230	Department of General Services	2010.0	8.0
+48749	http://libwww.freelibrary.org/branches/branch.cfm?loc=hav	Free Library Of Philadelphia - Haverford Branch	2007.0	384.0
+48751	http://libwww.freelibrary.org/branches/branch.cfm?loc=had	Free Library Of Philadelphia - Haddington Branch	2007.0	406.0
+48752	http://www.phc4.org/	Pennsylvania Health Care Cost Containment Council	1998.0	458.0
+48753	http://www.norwinsd.org/site/default.aspx?PageID=1	Norwin SD	2011.0	16.0
+48754	http://gamingcontrolboard.pa.gov/	Gaming Control Board	2012.0	1326.0
+48755	http://www.cclsys.org/ncambria/	Northern Cambria Public Library	2010.0	13.0
+48756	http://northlandlibrary.weebly.com/	Northland Public Library	2013.0	4.0
+48757	http://www.gillinghamcharterschool.org	Gillingham Charter School	2010.0	25.0
+48758	http://www.pa.gov/Pages/default.aspx	Lt. Governor	2013.0	154.0
+48759	http://www.lcb.state.pa.us/plcb/legal/officeofalj/index.htm	Administrative Law Judge, office of	2012.0	3.0
+48760	http://www.esasd.net/site/default.aspx?PageID=1	East Stroudsburg Area SD	2012.0	7.0
+48761	http://www.lmls.org/lib_belmonthills.html	Belmont Hills Library	2008.0	112.0
+48762	http://www.buckslib.org/libraries/bristol/	Bucks County Free Library - Margaret R. Grundy Memorial Library	2004.0	0.0
+48763	http://mediauplibrary.org/	Med Upper Prov Free Library	2009.0	208.0
+48765	http://users.stargate.net/~rospblib/	Rostraver Public Library	2002.0	0.0
+48766	http://www.nwsd.org	Northwestern  SD	2000.0	39.0
+48767	http://www.asd.k12.pa.us/site/default.aspx?PageID=1	Armstrong SD	2011.0	102.0
+48768	http://www.lowermaclib.org	Lower Macungie Library	2002.0	368.0
+48769	http://www.aclalibraries.org	Allegheny County Library Association	2005.0	33.0
+48773	http://libwww.freelibrary.org/branches/branch.cfm?loc=oak	Free Library Of Philadelphia - Oak Lane Branch	2007.0	415.0
+48774	http://www.arts-cs.org/	Arts Academy CS	2013.0	117.0
+48775	http://www.sssd.k12.pa.us/	South Side Area SD	2002.0	351.0
+48776	http://www.efsd.net	Elizabeth Forward SD	0.0	77.0
+48777	http://www.philadelphiaacademy.org/	Philadelphia Academy CS	1999.0	100.0
+48778	http://aruathite.tripod.com/	Osceola Mills Public Library	2011.0	2.0
+48779	http://www.monessenschooldistrict.com/site/default.aspx?PageID=1	Monessen City SD	2012.0	12.0
+48780	http://pointmarionlibrary.com/	Point Marion Library	2011.0	6.0
+48782	http://www.camphillsd.k12.pa.us/	Camp Hill SD	0.0	598.0
+48783	http://www.gactc.edu	Greater Altoona CTC	2010.0	60.0
+48784	http://www.clsd.k12.pa.us	Cornwall-Lebanon SD	0.0	788.0
+48786	http://www.roaringspringlibrary.org	Roaring Spring Comm Library	2001.0	262.0
+48787	http://www.turkeyfoot.k12.pa.us/	Turkeyfoot Valley Area SD	1999.0	22.0
+48788	http://www.ogc.state.pa.us/	Office of General Counsel	1999.0	2.0
+48789	http://www.mjctc.org	Mifflin-Juniata CTC	2004.0	12.0
+48790	http://www.radnorlibrary.org	Memorial Library Of Radnor Township	2000.0	77.0
+48791	http://www.agriculture.state.pa.us	Department of Agriculture	2002.0	2.0
+48793	http://www.jamestown.k12.pa.us	Jamestown Area SD	2006.0	28.0
+48794	http://www.pdsd.org/site/default.aspx?PageID=1	Penn-Delco SD	2011.0	11.0
+48795	http://www.lclshome.org/valley/	Valley Community Library	2007.0	2.0
+48797	http://www.ccfls.org	Saegertown Area Library	1997.0	21.0
+48798	http://www.jvbrown.edu/	James V. Brown Library	1996.0	133.0
+48799	http://www.washlibs.org/marianna/	Marianna Community Public Library	2013.0	4.0
+48800	http://www.lebcounty.org/Pages/default.aspx	Lebanon	2009.0	141.0
+48801	http://www.youghsd.net	Yough SD	2013.0	84.0
+48802	http://www.khepera.schoolfusion.us/	Khepera CS	2007.0	116.0
+48803	http://www.mwsd.cc	Midd-West SD	0.0	1118.0
+48804	http://www.charleroilibrary.org	John K Tener Library	2004.0	1.0
+48805	http://www.oesd.org	Otto-Eldred SD	2002.0	376.0
+48806	http://www.burrell.k12.pa.us	Burrell SD	2012.0	24.0
+48807	http://www.cpavts.org	Cumberland Perry AVTS	2000.0	406.0
+48808	http://www.bradfordareaschools.org	Bradford Area SD	2001.0	78.0
+48809	http://www.pasen.gov/index.cfm	Senate	2003.0	22.0
+48810	http://www.oilcitylibrary.org	Oil City Library	2004.0	20.0
+48811	http://www.newhopeacademycharterschool.com	New Hope Academy CS	2007.0	1.0
+48812	http://cysd.k12.pa.us	Central York SD	2000.0	1.0
+48813	http://www.cheltenham.org	Cheltenham Township SD	0.0	1751.0
+48814	http://www.pvpl.org/pequeavalley/site/default.asp	Pequea Valley Public Library	2008.0	3.0
+48815	http://www.beattietech.com	A W Beattie Career Center	1998.0	70.0
+48817	http://libwww.freelibrary.org/branches/branch.cfm?loc=cob	Free Library Of Philadelphia - Blanche A. Nixon-Cobbs Creek Branch	2007.0	411.0
+48818	http://www.osterhout.lib.pa.us	Osterhout Free Library	2000.0	86.0
+48820	http://www.pccd.state.pa.us/portal/server.pt/community/pccd_home/5226	Commission on Crime and Delinquency	2009.0	148.0
+48821	http://alleghenyvalleylibrary.org/	Community Library Of Allegheny Valley - Harrison Location	2006.0	149.0
+48822	http://www.insurance.pa.gov/portal/server.pt/community/insurance_department/4679	Department of Insurance	2009.0	2.0
+48825	http://www.bedfordcountylibrary.com	Bedford County Library	2002.0	10.0
+48826	http://www.berks.lib.pa.us/boyertowncl/	Boyertown Community Library	2001.0	112.0
+48827	http://www.cclsys.org/carrolltown/	Carrolltown Public Library	2011.0	13.0
+48829	http://www.karnscity.k12.pa.us	Karns City Area SD	2000.0	8.0
+48831	http://libwww.freelibrary.org/branches/branch.cfm?loc=qmb	Free Library Of Philadelphia - Queen Memorial Library	2007.0	442.0
+48832	http://hoytlibrary.org/	Hoyt Library	2000.0	58.0
+48833	http://www.bethelparklibrary.org	Bethel Park Public Library	2005.0	2.0
+48834	http://www.beaverlibraries.org/outreach.asp	Beaver County Bookmobile Schedule	2014.0	44.0
+48835	http://www.gatewayk12.com/	Gateway SD	2004.0	371.0
+48836	http://www.bangorlibrary.org	Bangor Public Library	2001.0	22.0
+48837	http://www.mca.k12.pa.us	Mount Carmel Area SD	1998.0	98.0
+48838	http://www.westasd.org	West Allegheny SD	0.0	669.0
+48840	http://www.rak12.org	Renaissance Academy CS	2007.0	939.0
+48841	http://www.kasd.org	Kutztown Area SD	0.0	691.0
+48843	http://www.macsk8.org	Manchester Academic CS	2003.0	60.0
+48844	http://www.lclshome.org/greenridge/index.php	Nancy Kay Holmes Branch Library	2006.0	2.0
+48845	http://libwww.freelibrary.org/branches/branch.cfm?loc=wol	Free Library Of Philadelphia - West Oak Lane Branch	2007.0	472.0
+48846	http://www.acschools.org/site/default.aspx?PageID=1	Annville-Cleona SD	2013.0	28.0
+48847	http://www.adamslib.org/libraries/unity/	Unity Library	2005.0	2.0
+48848	http://www.umtownship.org	Upper Merion Township Library	1998.0	759.0
+48849	http://www.cumberlandcountylibraries.org/?q=BOS	Bosler Free Library	2013.0	2969.0
+48850	http://priestleyforsyth.org/new/	Priestley Forsyth Memorial Library	2012.0	49.0
+48851	http://www.iu9.org/site/default.aspx?PageID=1	Seneca Highlands Career and Technical Center	2012.0	1095.0
+48852	http://www.factsweb.org	Folk Arts-Cultural Treasures CS	2005.0	34.0
+48853	http://www.westernwayne.org/Pages/Default.aspx	Western Wayne SD	2009.0	30.0
+48854	http://www.waterfordlibrary.org	Waterford Public Library	2004.0	3599.0
+48856	http://www.muasd.org	Mount Union Area SD	2001.0	745.0
+48857	http://www.eastlycoming.net/site/default.aspx?PageID=1	East Lycoming SD	2012.0	8.0
+48858	http://www.co.schuylkill.pa.us/	Schuylkill	0.0	9.0
+48859	http://www.wlnonline.org/wln/	Westmoreland Library Network	2009.0	9.0
+48861	http://www.calpublib.org	California Area Public Library	2001.0	10.0
+48862	http://www.nhsd.org/site/default.aspx?PageID=1	New Hope-Solebury SD	2013.0	5.0
+48863	http://www.beaverlibraries.org/newbrighton.asp	New Brighton Public Library	2012.0	44.0
+48865	http://www.washington.k12.pa.us	Washington SD	1999.0	35.0
+48867	http://pleasanthillslibrary.org	Pleasant Hills Public Library	2005.0	50.0
+48868	http://www.reading.lib.pa.us	Reading Public Library	1999.0	1.0
+48870	http://www.shamokincity.org	Shamokin	2007.0	14.0
+48871	http://monroetonlibrary.org	Monroeton Public Library	2003.0	1.0
+48872	http://www.bc3.edu	Butler County Community College	2002.0	200.0
+48873	http://www.smethportschools.com	Smethport Area SD	2006.0	228.0
+48875	http://www.montourschools.com	Montour SD	2000.0	11.0
+48876	http://www.tamaqua.k12.pa.us/site/default.aspx?PageID=1	Tamaqua Area SD	2013.0	13.0
+48877	http://www.co.mifflin.pa.us/Pages/default.aspx	Mifflin	2010.0	216.0
+48879	http://www.oca.state.pa.us/	Office of Consumer Advocate	1998.0	47.0
+48880	http://www.franklinregional.k12.pa.us	Franklin Regional SD	1999.0	1372.0
+48881	http://www.moonarea.net	Moon Area SD	2009.0	248.0
+48882	http://www.pacounties.org/Pages/default.aspx	County Commissioners Association of Pennsylvania	2010.0	210.0
+48883	http://www.youngsvillelibrary.org	Youngsville Public Library	2008.0	8.0
+48884	http://www.avongrove.org	Avon Grove SD	1999.0	255.0
+48885	http://www.ntiogasd.org	Northern Tioga SD	2004.0	84.0
+48886	http://www.bangor.k12.pa.us/	Bangor Area SD	0.0	1930.0
+48887	http://www.quipsd.org	Aliquippa SD	0.0	224.0
+48889	http://www.norleb.k12.pa.us/site/default.aspx?PageID=1	Northern Lebanon SD	2012.0	5.0
+48890	http://benson.ccfls.org/	Benson Memorial Library, Inc.	2009.0	126.0
+48891	http://www.bradfordlibrary.org/	Bradford Area Public Library	2000.0	59.0
+48893	http://www.stcenters.org/site/default.aspx?PageID=1	Schuylkill Technology Centers	2013.0	6.0
+48894	http://www.clymerlibrary.org	Clymer Library Association	2000.0	23.0
+48895	http://www.erielibrary.org	Erie County Public Library	2002.0	74.0
+48896	http://www.eastech.org	Eastern Center for Arts & Technology	1999.0	311.0
+48897	http://www.allentownpl.org	Allentown Public Library	1998.0	80.0
+48898	http://www.cor.state.pa.us/portal/server.pt/community/department_of_corrections/4604	Department of Corrections	2009.0	115.0
+48899	http://www.cbsd.org/site/default.aspx?PageID=1	Central Bucks SD	2013.0	6.0
+48900	http://www.haverford.k12.pa.us/site/default.aspx?PageID=1	Haverford Township SD	2011.0	62.0
+48901	http://www.independencecharter.org	Independence CS	2001.0	40.0
+48902	http://www.mckeesportlibrary.org/	Carnegie Library Of Mckeesport - Elizabeth Forward	2005.0	24.0
+48903	http://www.pde.state.pa.us/	Department of Education	2000.0	2.0
+48904	http://www.indianafreelibrary.org	Indiana Free Library Inc	2000.0	530.0
+48905	http://www.mlbgsd.k12.pa.us/site/default.aspx?PageID=1	Millersburg Area SD	2013.0	11.0
+48906	http://ujsportal.pacourts.us/	State Courts	2003.0	21.0
+48907	http://snydercountylibraries.squarespace.com/	Snyder County Libraries, Inc.	2012.0	9.0
+48910	http://www.lititzlibrary.org/lititz/site/default.asp	Lititz Public Library	2008.0	4.0
+48911	http://www.villagelibrary.org	Village Library Of Morgantown	2002.0	93.0
+48912	http://www.pennhillslibrary.org	William E. Anderson Library Of Penn Hills	2006.0	35.0
+48913	http://hub.colonialsd.org/pages/default.aspx	Colonial SD	2007.0	0.0
+48914	http://www.legis.state.pa.us/	General Assembly	1999.0	32104.0
+48915	http://www.bethlehem-pa.gov/	Bethlehem	2003.0	43.0
+48916	http://bradfordcountylibrary.org/	Bradford County Library System	2000.0	32.0
+48917	http://www.wyalusingrams.com/site/default.aspx?PageID=1	Wyalusing Area SD	2013.0	7.0
+48918	http://www.scavts.net	Steel Center AVTS	2005.0	10.0
+48919	http://www.sasd.us/site/default.aspx?PageID=1	Somerset Area SD	2012.0	11.0
+48920	http://www.co.lancaster.pa.us/	Lancaster	1996.0	914.0
+48922	http://www.graystoneacademy.org	Graystone Academy CS	2000.0	79.0
+48923	http://www.wgsd.org	West Greene SD	2004.0	36.0
+48924	http://www.nkasd.com	New Kensington-Arnold SD	2003.0	2132.0
+48926	http://www.chichestersd.org	Chichester SD	2003.0	19.0
+48927	http://www.scsc4kidssj.org/	Souderton CS Collaborative	2013.0	104.0
+48928	http://www.wjhsd.net	West Jefferson Hills SD	2002.0	243.0
+48929	http://www.coopersiegelcommunitylibrary.org/	Cooper-Siegel Community Library	2011.0	32.0
+48930	http://www.svsd.net/site/default.aspx?PageID=1	Seneca Valley SD	2012.0	35.0
+48931	http://www.upvlibrary.org/	Upper Perkiomen Valley Library	2005.0	69.0
+48932	http://www.lehighton.org	Lehighton Area SD	0.0	598.0
+48933	http://www.vtc1.org/site/default.aspx?PageID=1	Venango Technology Center	2013.0	7.0
+48934	http://www.cvsd.net	Chartiers Valley SD	2001.0	14.0
+48936	https://www.beth.k12.pa.us/	Bethlehem Area SD	1996.0	1181.0
+48937	http://www.qvsd.org	Quaker Valley SD	1999.0	2815.0
+48938	http://www.elanco.org	Eastern Lancaster County SD	0.0	880.0
+48939	http://www.northamptonapl.org	Northampton Area Pub Library	2003.0	15.0
+48940	http://www.calsd.org/site/default.aspx?PageID=1	California Area SD	2012.0	23.0
+48941	http://www.glacharter.org	Global Leadership Academy CS	2010.0	353.0
+48942	http://www.lclshome.org/childrenslibrary/index.php	Lackawanna County Childrens Library	2006.0	2.0
+48943	http://springboro.ccfls.org/	Springboro Public Library	2009.0	79.0
+48944	http://www.greenville.k12.pa.us	Greenville Area SD	2000.0	129.0
+48945	http://www.citvt.com	Career Institute of Technology	2000.0	421.0
+48946	http://www.rmctc.org	Reading Muhlenberg CTC	2007.0	123.0
+48947	http://www.csdcomets.org/	Crestwood SD	2007.0	1777.0
+48948	http://www.lccc.edu	Lehigh Carbon Community College	1997.0	920.0
+48949	http://www.lancaster.lib.pa.us	Lancaster Public Library	1998.0	79.0
+48950	http://www.governormifflinsd.org	Governor Mifflin SD	2004.0	533.0
+48951	http://www.nhsd.net	North Hills SD	0.0	1458.0
+48952	http://www.bubblers.k12.pa.us	South Middleton SD	0.0	616.0
+48953	http://www.education.state.pa.us/	Department of Education	2009.0	2.0
+48954	http://www.westbranch.org/site/default.aspx?PageID=1	West Branch Area SD	2012.0	6.0
+48955	http://www.cumberlandcountylibraries.org/?q=SIM	Joseph T. Simpson Public Library	2013.0	2912.0
+48956	http://www.pacouncilonthearts.org/pca.cfm?id=44&level=second	Pennsylvania Council on the Arts	0.0	57.0
+48957	http://www.swsd.k12.pa.us	South Western SD	1997.0	83.0
+48958	http://www.somersetcountypalibraries.org	Somerset County Federated Library System	2001.0	330.0
+48959	http://www.mpasd.net/site/default.aspx?PageID=1	Mount Pleasant Area SD	2012.0	15.0
+48960	http://www.ridleysd.org/site/default.aspx?PageID=1	Ridley SD	2011.0	11.0
+48961	http://www2.iu29.org/ptcpl/	Port Carbon Public Library	0.0	3.0
+48962	http://www.crawfordctc.org	Crawford County CTC	2011.0	49.0
+48963	http://www.cslcharter.org	Center for Student Learning CS at Pennsbury	2010.0	49.0
+48964	http://www.bloomsburgpl.org	Bloomsburg Public Library	2002.0	25.0
+48965	http://www.collegeportraits.org/PA/lhu	Lock Haven University of Pennsylvania	2009.0	15.0
+48966	http://www.tulpehocken.org/	Tulpehocken Area SD	2003.0	182.0
+48967	http://www.scrantonpa.gov	Scranton	2004.0	233.0
+48968	http://www.montoursville.k12.pa.us	Montoursville Area SD	0.0	571.0
+48969	http://www.hanoverarea.org	Hanover Area SD	2001.0	144.0
+48970	http://www.collegeportraits.org/PA/millersville	Millersville University of Pennsylvania	2009.0	16.0
+48971	http://crispusattucks.org/	Crispus Attucks Youthbuild CS	1998.0	91.0
+48972	http://www.grovecity.k12.pa.us/grovecity/site/default.asp	Grove City Area SD	2006.0	8.0
+48973	http://www.easttownlibrary.org	Easttown Library Info Center	2001.0	123.0
+48974	http://www.lclshome.org/dalton/	Dalton Community Library	2006.0	2.0
+48975	http://www.harmonyowls.com	Harmony Area SD	2003.0	53.0
+48976	http://libwww.freelibrary.org/branches/branch.cfm?loc=dur	Free Library Of Philadelphia - Charles L. Durham Branch	2007.0	410.0
+48977	http://www.wyomingarea.org/	Wyoming Area SD	2002.0	63.0
+48978	http://www.lackawannacounty.org/	Lackawanna	2001.0	432.0
+48979	http://www.yorklibraries.org/dillsburg	Dillsburg Area Public Library	2000.0	258.0
+48980	http://www.udsd.org	Upper Dublin SD	2000.0	391.0
+48982	http://www.portal.state.pa.us/portal/server.pt/community/phrc_home/18970	Human Relations Commission	2010.0	8.0
+48983	http://donorapublibrary.org/	Donora Public Library	2001.0	7.0
+48984	http://patientsafetyauthority.org/pages/default.aspx	Patient Safety Authority	2009.0	942.0
+48985	http://www.npsd.org	North Pocono SD	2005.0	6435.0
+48986	http://libwww.freelibrary.org/branches/branch.cfm?loc=wht	Free Library Of Philadelphia - Whitman Branch	2007.0	412.0
+48987	http://www.sewickleytownshippubliclibrary.org	Sewickley Township Public Library	2008.0	41.0
+48988	http://www.pottsvillelibrary.org	Pottsville Free Public Library	2002.0	61.0
+48989	http://www.lclshome.org/npocono/	North Pocono Public Library	2007.0	2.0
+48990	http://www.svbluedevils.org/	Shenandoah Valley SD	2010.0	26.0
+48992	http://www.montasd.org/site/default.aspx?PageID=1	Montgomery Area SD	2011.0	6.0
+48993	http://www.whitehallpubliclibrary.org	Whitehall Public Library	2005.0	83.0
+48994	http://www.mtwp.net	Manheim Township SD	2001.0	1289.0
+48995	http://www.lvsd.k12.pa.us/	Ligonier Valley SD	2010.0	9.0
+48996	http://www.trinitypride.org	Trinity Area SD	0.0	747.0
+48998	http://www.southbutler.org/site/default.aspx?PageID=1	South Butler County SD	2012.0	10.0
+48999	http://cambridge.ccfls.org/	Cambridge Springs Public Library	2009.0	145.0
+49000	http://www.infinityschool.org	Infinity CS	2008.0	0.0
+49001	http://www.bcths.com	Bucks County Technical High School	0.0	472.0
+49002	http://www.oa.state.pa.us	Office of Administration	1999.0	4.0
+49003	http://libwww.freelibrary.org/branches/branch.cfm?loc=lwn	Free Library Of Philadelphia - Lawncrest Branch	2007.0	440.0
+49004	http://www2.iu29.org/ralpl/	Ralpho Township Public Library	0.0	4.0
+49005	http://www.scasd.org/site/default.aspx?PageID=1	State College Area SD	2011.0	192.0
+49006	http://www.uppermorelandlibrary.org	Upper Moreland Free Public Library	2001.0	205.0
+49007	http://www.cityofwilliamsport.org/	Williamsport	2000.0	358.0
+49008	http://www.degensteinlibrary.org	Degenstein Community Library	2003.0	8.0
+49010	http://www.whitehallcoplay.org	Whitehall-Coplay SD	1999.0	29.0
+49011	http://www.susqcyber.org	Susq-Cyber CS	2000.0	33.0
+49012	http://www.pema.state.pa.us/portal/server.pt/community/pema_home/4463	Pennsylvania Emergency Management Agency	2009.0	184.0
+49013	http://www.uscsd.k12.pa.us/site/default.aspx?PageID=1	Upper Saint Clair SD	2012.0	16.0
+49014	http://www.allentownsd.org/site/default.aspx?PageID=1	Allentown City SD	2012.0	49.0
+49015	http://www.rockwoodschools.org	Rockwood Area SD	2000.0	12.0
+49016	http://www.yssd.org	York Suburban SD	2008.0	1163.0
+49017	http://www.brockway.k12.pa.us	Brockway Area SD	1998.0	45.0
+49018	http://www.johnsonburgareaschooldistrict.net	Johnsonburg Area SD	2012.0	30.0
+49020	http://www.selsd.com/site/default.aspx?PageID=1	Salisbury-Elk Lick SD	2011.0	5.0
+49021	http://www.neacademy.org	Esperanza Academy Charter High School	2001.0	1.0
+49022	http://www.wyopublib.org	Wyomissing Public Library	1998.0	25.0
+49023	http://www.bcfls.org	Butler County Federated Library System	2000.0	49.0
+49024	http://www.burgettstown.k12.pa.us/site/default.aspx?PageID=1	Burgettstown Area SD	2012.0	9.0
+49025	http://www.oleyvalleysd.org	Oley Valley SD	2003.0	243.0
+49027	http://www.wsdweb.org/	Wissahickon SD	2003.0	458.0
+49028	http://www.planetabacuscharter.org/	Planet Abacus CS	2010.0	1.0
+49030	http://dormontlibrary.org/	Dormont Public Library	2005.0	55.0
+49031	http://www.adamslibrary.org/search-our-catalog/download-ebooks/ebook-draft/	East Berlin Community Library	2013.0	5.0
+49032	http://www.eriecountygov.org/	Erie	1998.0	1868.0
+49033	http://www.sayrepl.org	Sayre Public Library	2003.0	60.0
+49034	http://linesville.ccfls.org/	Linesville Community Public Library	2009.0	23.0
+49035	http://www.beaverlibraries.org/libraries.asp	Community College Of Beaver County	2012.0	44.0
+49036	http://www.riverside.k12.pa.us	Riverside Beaver County SD	1998.0	11.0
+49037	http://mckeesport.org/	Mckeesport	2001.0	103.0
+49038	http://www.mohawk.k12.pa.us	Mohawk Area SD	2001.0	566.0
+49039	http://www.uniontownlib.org	Uniontown Public Library	2000.0	66.0
+49040	http://www.cornell.k12.pa.us/site/default.aspx?PageID=1	Cornell SD	2013.0	8.0
+49041	http://www.whsd.k12.pa.us	Woodland Hills SD	1996.0	1795.0
+49042	http://www.sun-tech.org	SUN Area Technical Institute	2001.0	24922.0
+49043	http://www.collegeportraits.org/PA/eup	Edinboro University of Pennsylvania	2009.0	15.0
+49044	http://whitehall.lib.pa.us	Whitehall Township Public Library	1998.0	42.0
+49045	http://www.kaltreider-benfer.org	Kaltreider-Benfer Library	2000.0	1.0
+49046	http://www.ucpl.org	Union City Public Library	2000.0	50.0
+49047	http://www.muncysd.org/site/default.aspx?PageID=1	Muncy SD	2013.0	21.0
+49048	http://www.cpi.edu	Central PA Institute of Science & Technology	2006.0	320.0
+49049	http://www.buckslib.org/libraries/doylestown/	Bucks County Free Library - Doylestown District Center Library	2002.0	0.0
+49050	http://www.sgfreelibrary.org/	Sugar Grove Free Library	2013.0	13.0
+49051	http://www.hpsd.k12.pa.us	Hanover Public SD	1999.0	160.0
+49052	http://www.greenecolib.org	Greene County Library System	2008.0	5.0
+49053	http://www.cclsys.org	Cambria County Library System	2008.0	6.0
+49054	http://www.collegeportraits.org/PA/ku	Kutztown University of Pennsylvania	2009.0	16.0
+49056	http://www.bop.state.pa.us/	Board of Pardons	2010.0	2.0
+49057	http://www.ncavts.org/site/default.aspx?PageID=1	Northumberland County CTC	2013.0	4.0
+49058	http://www.cctlibrary.org	Columbia County Traveling Library Authority	2006.0	18.0
+49060	http://www.riceavenuelibrary.org	Rice Avenue Community Public Library	2006.0	9.0
+49062	http://www.ptsd.k12.pa.us	Peters Township SD	1998.0	278.0
+49063	http://www.uasd.k12.pa.us	Upper Adams SD	1998.0	169.0
+49064	http://www.berks.lib.pa.us/exetercl/	Exeter Community Library	2001.0	99.0
+49066	http://www.meuserlib.org	Mary Meuser Memorial Library	2002.0	243.0
+49067	http://www.evakbowlby.org	Eva K Bowlby Public Library	2008.0	10.0
+49068	http://www.avonworth.k12.pa.us	Avonworth SD	2000.0	151.0
+49069	http://www.mcc.co.mercer.pa.us/	Mercer	1998.0	52.0
+49070	http://libwww.freelibrary.org/branches/branch.cfm?loc=wid	Free Library Of Philadelphia - Widener Branch	2007.0	442.0
+49071	http://www.peopleforpeople.org/	People for People CS	2001.0	29.0
+49072	http://www.gvsd.org/site/default.aspx?PageID=1	Great Valley SD	2012.0	21.0
+49073	http://www.saintclairsd.org/	Saint Clair Area SD	2007.0	18.0
+49074	http://derryasd.schoolwires.com/site/default.aspx?PageID=1	Derry Area SD	2013.0	38.0
+49075	http://www.phfa.org/	Pennsylvania Housing Finance Agency	1998.0	264.0
+49076	http://www.union.k12.pa.us/site/default.aspx?PageID=1	Union Area SD	2011.0	20.0
+49077	http://www.greencastle.k12.pa.us	Greencastle-Antrim SD	1999.0	185.0
+49078	http://www.iasd.cc/site/default.aspx?PageID=1	Indiana Area SD	2013.0	16.0
+49079	http://www.hellertownlibrary.org	Hellertown Area Library	2002.0	45.0
+49080	http://www.troyareasd.org/site/default.aspx?PageID=1	Troy Area SD	2012.0	79.0
+49082	http://www.scottdalelibrary.org	Scottdale Public Library	2006.0	11.0
+49083	http://www.lclshome.org/abington/	Abington Community Library	2006.0	2.0
+49084	http://www.frackvillelibrary.com/	Frackville Free Public Library	2002.0	2.0
+49085	http://www.wdp-llpcs.org	Walter D Palmer Leadership Learning Partners CS	2013.0	17.0
+49086	http://www.dunmoreschooldistrict.net/	Dunmore SD	2006.0	125.0
+49088	http://www.gsd1.org/	Glendale SD	2000.0	144.0
+49089	http://www.scschools.org	Susquehanna Community SD	2000.0	43.0
+49090	http://sewickleylibrary.org/	Sewickley Public Library	2005.0	524.0
+49091	http://www.collegeportraits.org/PA/su	Shippensburg University of Pennsylvania	2009.0	17.0
+49092	http://www.easdpa.org	Ephrata Area SD	2002.0	187.0
+49094	http://ehb.courtapps.com/public/index.php	Environmental Hearing Board	2006.0	17.0
+49095	http://www.baldwinborolibrary.org	Baldwin Borough Public Library	2006.0	15.0
+49096	http://www.strasburglibrary.org/strasburg/site/default.asp	Strasburg-Heisler Library	2007.0	3.0
+49097	http://www.adamscounty.us/Pages/Home.aspx	Adams	2013.0	623.0
+49098	http://northversailleslibrary.org/	North Versailles Public Library	2005.0	50.0
+49099	http://www.puc.state.pa.us/	Pennsylvania Public Utility Commission	2004.0	2856.0
+49100	http://www.mv.org	Morrisville Borough SD	0.0	896.0
+49101	http://www.portal.state.pa.us/portal/server.pt/community/firstlady_pa_gov/20747	Office of the First Lady	2012.0	2.0
+49102	http://www.psp.state.pa.us/	Pennsylvania State Police	1998.0	154.0
+49103	http://www.delcolibraries.org/	Upper Darby Township Sellers Memorial Free Public Library	2005.0	195.0
+49104	http://www.spring-ford.net	Spring-Ford Area SD	2003.0	393.0
+49105	http://www.cityoferiepa.com/	Erie	2002.0	580.0
+49106	http://www.generalmclane.org	General McLane SD	2003.0	532.0
+49107	http://www.psp.state.pa.us/portal/server.pt/community/psp/4451	Pennsylvania State Police	2009.0	153.0
+49108	http://www.pachildren.state.pa.us/portal/server.pt/community/pa_children/371	Governor's Commission on Children and Families	2009.0	2.0
+49110	http://www.newcastlepa.org/	New Castle	1999.0	20.0
+49112	http://www.lasd.us/	Lewisburg Area SD	2009.0	2.0
+49113	http://www.scrsd.org/	Scranton SD	2000.0	590.0
+49114	http://brentwoodpubliclibrary.org/	Brentwood Library	2012.0	7.0
+49115	http://www.blossburgmemoriallibrary.com/next/	Blossburg Memorial Library	2014.0	9.0
+49117	http://www.ocasd.org	Oil City Area SD	0.0	574.0
+49118	http://www.mvctc.tec.pa.us	Mon Valley CTC	2008.0	37.0
+49119	http://www.cityoflancasterpa.com/	Lancaster	1999.0	470.0
+49120	http://www.matherlibrary.org	Mather Memorial Library	2006.0	7.0
+49121	http://www.mcsdk12.org	Mifflin County SD	2000.0	218.0
+49122	http://www.wolcs.org	West Oak Lane CS	2001.0	299.0
+49123	http://www.bensalemsd.org/site/default.aspx?PageID=1	Bensalem Township SD	2013.0	25.0
+49124	http://www.elcosd.org	Eastern Lebanon County SD	2007.0	21.0
+49125	http://www.wplibrary.org	West Pittston Library	2001.0	57.0
+49126	http://www.bentonsd.k12.pa.us/site/default.aspx?PageID=1	Benton Area SD	2011.0	6.0
+49127	http://www.ahmfl.org	Alexander Hamilton Memorial Free Library	2008.0	26.0
+49128	http://www.sesdweb.net/site/default.aspx?PageID=1	South Eastern SD	2012.0	38.0
+49130	http://www.mcscs.org	Math Civics and Sciences CS	2003.0	879.0
+49131	http://www.fairfieldpaschools.org/site/default.aspx?PageID=1	Fairfield Area SD	2012.0	39.0
+49132	http://fclspa.org/?option=com_content&view=article&id=43&itemid=146	Franklin County Library System Bookmobile - Outreach	0.0	1000.0
+49134	http://www.twpusc.org/library/library-home	Upper St Clair Township Library	2013.0	19.0
+49135	http://www.laurel.k12.pa.us	Laurel SD	2000.0	0.0
+49136	http://libwww.freelibrary.org/branches/branch.cfm?loc=kng	Free Library Of Philadelphia - Kingsessing Branch	2007.0	484.0
+49137	http://www.ptlibrary.org	Peters Township Public Library	1999.0	66.0
+49138	http://www.carnegielibrary.org/locations/mtwashington/	Carnegie Library Of Pittsburgh - Mt. Washington	2002.0	4.0
+49139	http://fclspa.org/?option=com_content&view=article&id=39&itemid=142	Grove Family Library	0.0	2605.0
+49140	http://www.northgate.k12.pa.us	Northgate SD	2000.0	37.0
+49141	http://www.berkscareer.com	Berks CTC	0.0	360.0
+49142	http://www.oxfordpubliclibrary.org	Oxford Public Library	2004.0	23.0
+49143	http://www.macs.k12.pa.us	Multi-Cultural Academy CS	2004.0	35.0
+49144	http://libwww.freelibrary.org/branches/branch.cfm?loc=ind	Free Library Of Philadelphia - Independence Branch	2007.0	574.0
+49145	http://libwww.freelibrary.org/branches/branch.cfm?loc=spb	Free Library Of Philadelphia - South Philadelphia Branch	2007.0	430.0
+49146	http://www.methacton.org/site/default.aspx?PageID=1	Methacton SD	2011.0	44.0
+49148	http://www.cchs.k12.pa.us	Central Cambria SD	1998.0	116.0
+49149	http://www.dimmicklibrary.org	Dimmick Memorial Library	2002.0	2.0
+49152	http://unioncountylibrarysystem.com/locations-and-hours/herr-memorial/	Herr Memorial Library	2011.0	2.0
+49153	http://www.northernpolarbears.com	Northern York County SD	0.0	1902.0
+49154	http://www.tsd.k12.pa.us	Towanda Area SD	2001.0	1419.0
+49155	http://www.clearfieldco.org/	Clearfield	1998.0	35.0
+49156	http://www.burrelltownshiplibrary.org	Burrell Township Library	2011.0	1.0
+49157	http://www.octorara.k12.pa.us/site/default.aspx?PageID=1	Octorara Area SD	2013.0	11.0
+49158	http://www.westernbeaver.org	Western Beaver County SD	2001.0	5.0
+49159	http://mansfieldpubliclibrary.com/	Mansfield Free Public Library	2006.0	13.0
+49160	http://www.berks.lib.pa.us/robesoniacl/	Robesonia Community Library	2001.0	94.0
+49161	http://www.mbacs.org	Mariana Bracetti Academy CS	2007.0	2.0
+49162	http://www.dli.state.pa.us/	Department of Labor and Industry	1999.0	3.0
+49163	http://libwww.freelibrary.org/branches/branch.cfm?loc=cbm	Free Library Of Philadelphia - Cecil B. Moore Branch	2007.0	500.0
+49164	http://www.portal.state.pa.us/portal/server.pt/community/department_of_aging_home/18206	Department of Aging	2009.0	3.0
+49165	http://www.lclshome.org/	Lackawanna County Library System	2005.0	22481.0
+49166	http://www.universalcompanies.org/daroff.html	Universal Daroff Charter School	2011.0	0.0
+49167	http://www.cambriacountypa.gov/	Cambria	2012.0	376.0
+49168	http://www.collegeportraits.org/PA/cal-u	California University of Pennsylvania	2010.0	15.0
+49169	http://www.wonderlandcharter.com	Wonderland CS	2000.0	62.0
+49170	http://www.movalley.org/site/default.aspx?PageID=1	Moshannon Valley SD	2013.0	5.0
+49172	http://bcctc.org/education/	Beaver County CTC	2013.0	81.0
+49173	http://www.ccp.edu	Community College of Philadelphia	2002.0	910.0
+49174	http://www.adamslib.org	Adams Memorial Library	2001.0	2.0
+49175	http://www.jcjc.state.pa.us/	Juvenile Court Judges' Commission	2001.0	2.0
+49176	http://www.seda-cog.org/Pages/Home.aspx	Susquehanna Economic Development Association	2010.0	66.0
+49177	http://www.dot.state.pa.us/	Department of Transportation	1998.0	183.0
+49178	http://www.carlynton.k12.pa.us	Carlynton SD	1998.0	4.0
+49179	http://www.homelandsecurity.state.pa.us/portal/server.pt/community/homeland_security/20282/about_us/1145108	Office of Homeland Security	2012.0	19.0
+49180	http://www.mtlsd.org/district/	Mt Lebanon SD	2003.0	170.0
+49181	http://carnegieofhomestead.com/	Carnegie Library Of Homestead	2013.0	152.0
+49182	http://www.afpcs.org	Alliance for Progress CS	2001.0	24.0
+49183	http://www.fairviewschools.org/	Fairview SD	2005.0	225.0
+49184	http://www.smasd.org	Saint Marys Area SD	2001.0	138.0
+49185	http://www.ncsd.k12.pa.us	Northern Cambria SD	1999.0	14.0
+49186	http://libwww.freelibrary.org/branches/branch.cfm?loc=nic	Free Library Of Philadelphia - Nicetown-Tioga Branch	2007.0	433.0
+49187	http://www.ucfsd.org	Unionville-Chadds Ford SD	2003.0	42.0
+49188	http://www.dccc.edu	Delaware County Community College	1996.0	6250.0
+49189	http://www.upperdarbysd.org	Upper Darby SD	2009.0	4039.0
+49190	http://www.city.pottsville.pa.us	Pottsville	2001.0	4.0
+49192	http://www.cclsys.org/cresson/	Cresson Public Library	2011.0	10.0
+49193	http://www.readingsd.org/site/default.aspx?PageID=1	Reading SD	2013.0	10.0
+49194	http://www.cccs.k12.pa.us	Christopher Columbus CS	2002.0	115.0
+49195	http://www.miltonsd.org	Milton Area SD	2007.0	50.0
+49196	http://www.wpsd.k12.pa.us/default.htm	William Penn SD	2009.0	23.0
+49197	http://stone.ccfls.org/	James A Stone Memorial Library	2009.0	15.0
+49198	http://www.grvt.org	Greene County CTC	2002.0	44.0
+49199	http://www.kcsd.org	Kennett Consolidated SD	2001.0	402.0
+49200	http://www.wallenpaupack.org	Wallenpaupack Area SD	2007.0	101.0
+49201	http://www.berks.lib.pa.us/springtwp/	Spring Township Library	2004.0	100.0
+49202	http://www.ytech.edu/education/district/district.php?sectionid=1	York Co School of Technology	2013.0	0.0
+49203	http://www.eastonsd.org	Easton Area SD	2001.0	339.0
+49204	http://www.ethics.state.pa.us/	State Ethics Commission	1998.0	2.0
+49205	http://www.ccls.org	Parkesburg Free Library	1998.0	334.0
+49206	http://www.everettlibrary.org	Everett Free Library	2002.0	14.0
+49207	http://www.upperdublinlibrary.org/cms/	Upper Dublin Public Library	2009.0	580.0
+49208	http://www.pbpp.state.pa.us/portal/server.pt/community/home/5298	Pennsylvania Board of Probation and Parole	2010.0	2.0
+49209	http://libwww.freelibrary.org/branches/branch.cfm?loc=nwr	Free Library Of Philadelphia - Joseph E. Coleman Northwest Regional Library	2007.0	603.0
+49210	http://www.wissahickoncharter.org	Wissahickon CS	2001.0	1.0
+49211	http://www.collegeportraits.org/PA/mup	Mansfield University of Pennsylvania	2009.0	15.0
+49213	http://home.comcast.net/~reylib/	Reynoldsville Public Library	2008.0	6.0
+49214	http://www.cciu.org/site/default.aspx?PageID=1	Chester County Technical College High School	2011.0	58.0
+49215	http://fclspa.org/?option=com_content&view=article&id=85&itemid=145	Saint Thomas Library	0.0	3356.0
+49217	http://www.oakmontlibrary.org	Oakmont Carnegie Library	2005.0	25.0
+49218	http://www.crsd.org/site/default.aspx?PageID=1	Council Rock SD	2011.0	50.0
+49219	http://www.mbit.org/site/default.aspx?PageID=1	Middle Bucks Institute of Technology	2012.0	14.0
+49220	http://www.wvpl.org	Wissahickon Valley Pub Library	2000.0	3258.0
+49221	http://www.co.delaware.pa.us/	Delaware	1998.0	26.0
+49222	http://somersetcountypalibraries.org/conemaugh.htm	Somerset County Library - Conemaugh Township Branch	2004.0	598.0
+49223	http://www.slipperyrock.k12.pa.us	Slippery Rock Area SD	2001.0	14.0
+49225	http://www.franklintowne.org	Franklin Towne CHS	2002.0	9.0
+49226	http://www.plumlibrary.org	Plum Borough Library	2005.0	13.0
+49227	http://www.newpa.com/local-government/steb	State Tax Equalization Board	2013.0	54.0
+49228	http://delmontlibrary.org/	Delmont Public Library	2002.0	34.0
+49229	http://www.edline.net/pages/Blairsville-Saltsburg_SD/	Blairsville-Saltsburg SD	2012.0	12.0
+49230	http://www.hcsd.iu5.org	Harbor Creek SD	0.0	794.0
+49231	http://www.emmauspl.org	Emmaus Public Library	2001.0	8.0
+49232	http://www.allentownpa.gov	Allentown	2007.0	446.0
+49233	http://www.columbia.k12.pa.us/se3bin/clientschool.cgi?schoolname=school578	Columbia Borough SD	2013.0	1.0
+49234	http://www.altoonapa.gov/Pages/Home.aspx	Altoona	2010.0	87.0
+49235	http://www.edline.net/pages/Clarion_Area_SD	Clarion Area SD	2010.0	2.0
+49236	http://www.hughesvillelibrary.org	Hughesville Area Public Library	2006.0	6.0
+49237	http://www.christianalibrary.org/	Moores Memorial Library	2003.0	5.0
+49238	http://www.wasd.org/site/default.aspx?PageID=1	Williamsport Area SD	2013.0	77.0
+49239	http://www.greensburgsalem.org/site/default.aspx?PageID=1	Greensburg Salem SD	2011.0	64.0
+49240	http://www.collegeportraits.org/PA/esu	East Stroudsburg University of Pennsylvania	2009.0	15.0
+49241	http://www.jcsdk12.org/	Juniata County SD	2012.0	0.0
+49242	http://www.buckslib.org/libraries/fallsington/	Bucks County Free Library - Fallsington Library	2003.0	8.0
+49243	http://www.governor.state.pa.us/	Governor	2003.0	1.0
+49244	http://www.svrcs.org	Sugar Valley Rural CS	2001.0	41.0
+49245	http://www.palisadessd.org/site/default.aspx?PageID=1	Palisades SD	2013.0	10.0
+49246	http://www.penncrest.org	Penncrest SD	2006.0	33.0
+49247	http://www.collegeportraits.org/PA/wcu	West Chester University of Pennsylvania	2009.0	15.0
+49248	http://www.hopeforhyndmancs.org/	HOPE for Hyndman CS	2013.0	27.0
+49249	http://www.friendslibrary.org	Friends Memorial Library	2006.0	2.0
+49250	http://www.bc.k12.pa.us	Bethlehem-Center SD	1998.0	233.0
+49251	http://www.girardsd.org	Girard SD	2008.0	151.0
+49252	http://libwww.freelibrary.org/branches/branch.cfm?loc=wyn	Free Library Of Philadelphia - Wynnefield Branch	2007.0	428.0
+49253	http://libwww.freelibrary.org/branches/branch.cfm?loc=wyo	Free Library Of Philadelphia - Wyoming Branch	2007.0	661.0
+49255	http://montgomeryhouselibrary.org/	Montgomery House Warrior Run Area Public Library	2006.0	105.0
+49257	http://www.williamsburgpl.net	Williamsburg Public Library	2001.0	12.0
+49258	http://jsasd.schoolwires.com/site/default.aspx?PageID=1	Jersey Shore Area SD	2013.0	11.0
+49259	http://www.ogc.state.pa.us/portal/server.pt/community/office_of_general_counsel_-_home/1198	Office of General Counsel	2009.0	2.0
+49260	http://www.dboone.org/DBSD/Welcome.aspx	Daniel Boone Area SD	2009.0	5.0
+49261	http://www.svpanthers.org	Saucon Valley SD	2003.0	565.0
+49262	http://www.berks.lib.pa.us/mifflincl/	Mifflin Community Library	2001.0	105.0
+49263	http://www.scasd.us	Southern Columbia Area SD	2006.0	874.0
+49264	http://www.cranberrysd.org	Cranberry Area SD	2002.0	8.0
+49268	http://www.haven.k12.pa.us	Schuylkill Haven Area SD	2000.0	28.0
+49269	http://www.knoxvillepubliclibrary.com	Knoxville Public Library	2006.0	6.0
+49270	http://www.bigspringsd.org	Big Spring SD	2009.0	22.0
+49271	http://www.armstronglibraries.org/apollo/	Apollo Memorial Library	2012.0	8.0
+49272	http://libwww.freelibrary.org/branches/branch.cfm?loc=rgr	Free Library Of Philadelphia - Ramonita De Rodriguez Branch	2007.0	473.0
+49273	http://www.clarioncte.org/	Clarion County Career Center	2011.0	45.0
+49274	http://www.portal.state.pa.us/portal/server.pt/community/pennvest/9242	Infastructure Investment Authority (PENNVEST)	2009.0	4.0
+49275	http://www.carnegielibrary.org/locations/carrick/	Carnegie Library Of Pittsburgh - Carrick	2002.0	4.0
+49276	http://www.jenkintown.org	Jenkintown SD	1998.0	2.0
+49277	http://www.lcctc.org/site/default.aspx?PageID=1	Lancaster County CTC	2012.0	0.0
+49278	http://www.sssd.com/site/default.aspx?PageID=1	Shanksville-Stonycreek SD	2013.0	8.0
+49279	http://www.btsd.us/	Bristol Township SD	2009.0	549.0
+49280	http://www.shipk12.org	Shippensburg Area SD	2011.0	0.0
+49281	http://www.bfpl.org	Brownsville Free Public Library	2007.0	12.0
+49282	http://www.franklinctc.com	Franklin County CTC	2007.0	0.0
+49283	http://lclibs.org/palmyra/	Palmyra Public Library	2006.0	25.0
+49284	http://www.everett.k12.pa.us/site/default.aspx?PageID=1	Everett Area SD	2013.0	7.0
+49285	http://www.co.elk.pa.us/	Elk	2000.0	2.0
+49286	http://piercelibrary.org	Allen F. Pierce Free Library	2006.0	1.0
+49287	http://www.perc.state.pa.us	Public Employees' Retirement Commission	2003.0	9.0
+49288	http://www.hazletoncity.org/	Hazleton	2001.0	866.0
+49289	http://www.mtlebanonlibrary.org	Mount Lebanon Public Library	2005.0	236.0
+49290	http://www.elklakeschool.org	Elk Lake SD	2001.0	21.0
+49291	http://coudersport.schoolwires.com/site/default.aspx?PageID=1	Coudersport Area SD	2013.0	21.0
+49292	http://www.youthbuildphilly.org	Youth Build Phila CS	1999.0	47.0
+49293	http://www.southallegheny.org/	South Allegheny SD	0.0	900.0
+49294	http://www.l-spioneers.org	Lampeter-Strasburg SD	2001.0	32.0
+49295	http://www.charterarts.org	Lehigh Valley Charter High School for the Arts	2013.0	323.0
+49296	http://www.pasd.com/site/default.aspx?PageID=1	Phoenixville Area SD	2012.0	86.0
+49298	http://www.cclsys.org/beaverdale/	Beaverdale Public Library	2011.0	10.0
+49299	http://www.washlibs.org/chartiers-houston/	Chartiers-Houston Com Library	2013.0	5.0
+49300	http://www.frsd.k12.pa.us	Forbes Road SD	2001.0	1.0
+49302	http://www.pacouncilonthearts.org/	Pennsylvania Council on the Arts	2003.0	57.0
+49303	http://www.cdschools.org/site/default.aspx?PageID=1	Central Dauphin SD	2012.0	13.0
+49304	http://storoxlibrary.org/	F.O.R. Sto-Rox Library	2005.0	6.0
+49305	http://www.byerschool.org	Russell Byers CS	2002.0	209.0
+49306	http://www.neshaminy.k12.pa.us/site/default.aspx?PageID=1	Neshaminy SD	2011.0	15.0
+49308	http://www.chsd1.org/site/default.aspx?PageID=1	Cambria Heights SD	2012.0	32.0
+49310	http://www2.iu29.org/shenandoahpl/	Shenandoah Area Free Public Library	0.0	2.0
+49311	http://www.bsd.k12.pa.us	Blackhawk SD	2001.0	460.0
+49312	http://www.carnegielibrary.org/locations/downtown/	Carnegie Library Of Pittsburgh - Downtown Business	2004.0	4.0
+49313	http://libwww.freelibrary.org/branches/branch.cfm?loc=ffb	Free Library Of Philadelphia - Fumo Family Branch	2007.0	392.0
+49314	http://www.eriesd.org/site/default.aspx?PageID=1	Erie City SD	2012.0	85.0
+49315	http://www.pennhighlands.edu	Pennsylvania Highlands Community College	2004.0	285.0
+49316	http://libwww.freelibrary.org/branches/branch.cfm?loc=wel	Free Library Of Philadelphia - Welsh Road Branch	2007.0	409.0
+49317	http://www.muhlsdk12.org/site/default.aspx?PageID=1	Muhlenberg SD	2013.0	30.0
+49318	http://www.patreasury.gov/	Pennsylvania State Treasurer	2011.0	445.0
+49319	http://www.carnegielibrary.org/locations/homewood/	Carnegie Library Of Pittsburgh - Homewood	2002.0	4.0
+49320	http://www.bellevernonlibrary.org	Belle Vernon Public Library	2004.0	7.0
+49321	http://www.bedfordctc.org	Bedford County Technical Center	1999.0	6.0
+49322	http://www.berks.lib.pa.us/svcl/	Schuylkill Valley Community Library	2001.0	95.0
+49323	http://www.ccac.edu	Community College of Allegheny County	1996.0	1294.0
+49324	http://www.guthrielibrary.org	Guthrie Memorial Library - Hanovers Public Library	2007.0	0.0
+49325	http://www.westerncenter.org/site/default.aspx?PageID=1	Western Montgomery CTC	2012.0	8.0
+49326	http://www.delcolibraries.org/um.htm	Upper Darby Township Sellers Memorial Free Public Library	2006.0	193.0
+49327	http://www2.iu29.org/tripl/	Tri Valley Free Public Library	0.0	1.0
+49328	http://www.ewctc.net/site/default.aspx?PageID=1	Eastern Westmoreland CTC	2011.0	13.0
+49330	http://www.portal.state.pa.us/portal/server.pt/community/dobs_home/14319	Department of Banking and Securities	2013.0	2.0
+49331	http://libwww.freelibrary.org/branches/branch.cfm?loc=tac	Free Library Of Philadelphia - Tacony Branch	2007.0	459.0
+49333	http://www.monarealibrary.org	Monongahela Area Library	2000.0	1.0
+49334	http://www.tidioutecharter.com/	Tidioute Community CS	2008.0	21.0
+49335	http://www.camcosd.org/	Cameron County SD	2011.0	39.0
+49336	http://www.buckslib.org/libraries/quakertown/	Bucks County Free Library - Quakertown Branch	2003.0	0.0
+49337	http://www.hacc.edu	Harrisburg Area Community College	1996.0	1791.0
+49338	http://www.yorklibraries.org/dover/	Dover Area Community Library	2000.0	7.0
+49339	http://www.chesteruplandsd.org	Chester-Upland SD	2001.0	359.0
+49340	http://www.pacyber.org	Pennsylvania Cyber CS	2005.0	70.0
+49341	http://geneseelibrary.com/new/	Genesee Area Library	2012.0	9.0
+49342	http://teacherweb.com/PA/BucksCountyMontessoriCharterSchool/HomePage/sdhp1.aspx	Bucks County Montessori CS	2009.0	46.0
+49343	http://www.publibuc.org	Public Library For Union County	2001.0	94.0
+49344	http://www.cvsd.k12.pa.us	Conestoga Valley SD	0.0	1301.0
+49345	http://www.plsd.k12.pa.us/education/district/district.php?sectionid=1	Purchase Line SD	2011.0	2.0
+49346	http://panamericanacademy.org/	Pan American Academy CS	2011.0	164.0
+49347	http://www.dos.state.pa.us/	Secretary of the Commonwealth	1998.0	2.0
+49348	http://www.cumberlandcountylibraries.org/?q=AME	Amelia S Givin Library	2013.0	2975.0
+49349	http://lclibs.org/richland/	Richland Community Library	2010.0	8.0
+49350	http://www.pema.state.pa.us/	Pennsylvania Emergency Management Agency	1998.0	184.0
+49351	http://www.minersvillelibrary.org	Minersville Public Library	2008.0	8.0
+49352	http://www.yorkcity.org/	York	1998.0	2.0
+49353	http://www.brentwoodpgh.k12.pa.us	Brentwood Borough SD	2000.0	53.0
+49354	http://www.exeter.k12.pa.us/site/default.aspx?PageID=1	Exeter Township SD	2011.0	24.0
+49355	http://www.rasd.org	Rochester Area SD	1999.0	447.0
+49356	http://www.farrellareaschools.com/	Farrell Area SD	2004.0	8.0
+49357	http://www.washlibs.org/citizens/	Citizens Library	2013.0	18.0
+49358	http://scsd.schoolwires.net/site/default.aspx?PageID=1	Spring Cove SD	2012.0	5.0
+49359	http://www.mifflinburg.org	Mifflinburg Area SD	0.0	570.0
+49360	http://www.monroevillelibrary.org	Monroeville Public Library	2003.0	67.0
+49361	http://www.mountpleasantpalibrary.org	Mount Pleasant Free Public Library Association	2001.0	5.0
+49362	http://www.lmls.org/lib_gladwyne.html	Gladwyne Library	2008.0	112.0
+49363	http://www.ncasd.com	New Castle Area SD	2005.0	1348.0
+49364	http://libwww.freelibrary.org/branches/branch.cfm?loc=lbh	Free Library Of Philadelphia - Library For The Blind And Physically Handicapped	2007.0	448.0
+49365	http://www.ambridge.k12.pa.us	Ambridge Area SD	2000.0	3898.0
+49366	http://www.luzerne.edu/default.jsp	Montgomery County Community College	2009.0	1002.0
+49367	http://www.midlandpa.org	Midland Borough SD	2000.0	34.0
+49368	http://www.battlinminers.com	Minersville Area SD	2001.0	13.0
+49369	http://www.buckscounty.org/	Bucks	1998.0	3006.0
+49370	http://www.wpcl.lib.pa.us	Western Pocono Community Library	2000.0	74.0
+49371	http://www.shsd.k12.pa.us/page/1592	Steelton-Highspire SD	2012.0	3.0
+49372	http://www.avellapubliclibrary.org	Avella Area Library Center	2008.0	4.0
+49373	http://ulysseslibrary.com	Ulysses Library	2006.0	122.0
+49374	http://www.casdfalcons.org/site/default.aspx?PageID=1	Connellsville Area SD	2012.0	6.0
+49375	http://www.beaverlibraries.org/midland.asp	Carnegie Library, Midland	2012.0	44.0
+49376	http://www.buckslib.org/libraries/yardley/	Bucks County Free Library - Yardley-Makefield Branch	2003.0	2.0
+49379	http://www.wasd.k12.pa.us	Waynesboro Area SD	0.0	881.0
+49380	http://www.buckslib.org/libraries/new_hope/	Bucks County Free Library - Free Library Of New Hope And Solebury	2002.0	8.0
+49381	http://www.umasd.org/site/default.aspx?PageID=1	Upper Merion Area SD	2013.0	23.0
+49382	http://www.hasd.us/site/default.aspx?PageID=1	Halifax Area SD	2012.0	13.0
+49383	http://www.cityofjohnstownpa.net	Johnstown	2006.0	51.0
+49384	http://www.oit.state.pa.us/	Office for Information Technology	1998.0	3.0
+49385	http://www.dcls.org	Dauphin County Library System	1998.0	344.0
+49386	http://www.hopewellarea.org	Hopewell Area SD	2012.0	498.0
+49388	http://www.clintoncountypa.com/	Clinton	2000.0	209.0
+49389	http://libwww.freelibrary.org/branches/branch.cfm?loc=mps	Free Library Of Philadelphia - Mcpherson Square Branch	2007.0	352.0
+49390	http://www.dgs.state.pa.us/	Department of General Services	1998.0	8.0
+49391	http://edpluscharter.org/	Education Plus Academy Cyber CS	2012.0	22.0
+49393	http://www.fasd.k12.pa.us/site/default.aspx?PageID=1	Franklin Area SD	2012.0	57.0
+49394	http://www.foxburgfreelibrary.org	Foxburg Free Library Association	2007.0	19.0
+49395	http://www.adamslibrary.org	Adams County Library System	2000.0	110.0
+49396	http://www.nesd.k12.pa.us/site/default.aspx?PageID=1	Northeastern York SD	2011.0	17.0
+49397	http://www.southfayette.org/site/default.aspx?PageID=1	South Fayette Township SD	2012.0	9.0
+49398	http://www.northclarion.org	North Clarion County SD	2002.0	12623.0
+49399	http://www.visitpa.com/	VisitPA.com	2000.0	7715.0
+49400	http://fclspa.org/?option=com_content&view=article&id=41&itemid=144	Fort Loudon Community Library	0.0	3142.0
+49402	http://www.cclsys.org/nantyglo/	Nanty Glo Public Library	2011.0	12.0
+49403	http://www.curwensville.org/site/default.aspx?PageID=1	Curwensville Area SD	2011.0	10.0
+49405	http://www.mclinc.org/	Montgomery County Library Information Network Consortium	1999.0	39.0
+49406	http://www.berks.lib.pa.us/muhlenbergcl/	Muhlenberg Community Library	2001.0	25.0
+49407	http://www.mcguffey.k12.pa.us/District/	McGuffey SD	2007.0	0.0
+49408	http://www.pbpp.state.pa.us/	Board of Probation and Parole	1999.0	2.0
+49409	http://moss.blwd.k12.pa.us/Pages/Welcome.aspx	Bellwood-Antis SD	2009.0	26.0
+49410	http://lclibs.org/annville/	Annville Free Library	2005.0	51.0
+49411	http://libwww.freelibrary.org/branches/branch.cfm?loc=fsh	Free Library Of Philadelphia - Fishtown Community Branch	2007.0	319.0
+49412	http://www.portal.state.pa.us/portal/server.pt/community/office/20582	Office of the Receiver, Harrisburg	2012.0	2.0
+49413	http://www.northernpottersd.org	Northern Potter SD	2008.0	9.0
+49415	http://www.hasdpa.net/site/default.aspx?PageID=1	Hempfield Area SD	2013.0	155.0
+49416	http://www.bentworth.org/site/default.aspx?PageID=1	Bentworth SD	2012.0	8.0
+49417	http://www.coatesville.org/	Coatesville	2000.0	162.0
+49418	http://www.gettysburg.k12.pa.us	Gettysburg Area SD	0.0	1207.0
+49419	http://www.ntccschool.org	Northern Tier Career Center	2003.0	117.0
+49420	http://libwww.freelibrary.org/branches/branch.cfm?loc=bus	Free Library Of Philadelphia - Bustleton Branch	2007.0	289.0
+49421	http://www.robinsonlibrary.org/	Robinson Township Library	2007.0	1.0
+49422	http://www.phsd.k12.pa.us	Penn Hills SD	2000.0	267.0
+49423	http://wilkinsburglibrary.org	Wilkinsburg Public Library	2005.0	16.0
+49424	http://www.governor.state.pa.us/portal/server.pt/community/governor_pa_gov/20650	Office of the Governor	2012.0	1.0
+49425	http://www.readingpa.gov/	Reading Pennsylvania City	2006.0	6804.0
+49427	http://www.co.monroe.pa.us/monroe/site/default.asp	Monroe	2004.0	39.0
+49428	http://www.jmsd.org	Jefferson-Morgan SD	2001.0	375.0
+49429	http://libwww.freelibrary.org/branches/branch.cfm?loc=esw	Free Library Of Philadelphia - Eastwick Branch	2007.0	368.0
+49430	http://www.lmls.org/lib_ludington.html	Ludington Library	2008.0	112.0
+49431	http://www.ccsd.cc/site/default.aspx?PageID=1	Central Columbia SD	2013.0	34.0
+49432	http://www.hermitage.k12.pa.us/	Hermitage SD	1999.0	775.0
+49433	http://www.clairton.k12.pa.us	Clairton City SD	2001.0	221.0
+49436	http://www.schoollane.org	School Lane CS	2001.0	139.0
+49437	http://mercerarealibrary.net	Mercer Area Library	2013.0	2.0
+49438	http://cochranton.ccfls.org/	Cochranton Area Public Library	2009.0	65.0
+49439	http://tyronelibrary.org/	Tyrone-Snyder Township Public Library	2000.0	1.0
+49440	http://www.freewebs.com/marysvillerye/	Marysville Rye Library	2006.0	0.0
+49441	http://www.mc3.edu	http://www.mc3.edu	1996.0	1481.0
+49442	http://attorneys.statelocalgov.net/all/pennsylvania	Pennsylvania Attorney Database	2014.0	10069.0
+49443	http://www.chbucs.k12.pa.us	Chartiers-Houston SD	2004.0	81.0
+49444	http://www.delcolibraries.org/up.htm	Upper Darby Township Sellers Memorial Free Public Library	2006.0	194.0
+49445	http://www.lca.k12.pa.us	Lancaster County Academy	2001.0	13.0
+49446	http://glsd.us/site/default.aspx?pageid=1	Greater Latrobe SD	2014.0	18.0
+49447	http://www.co.westmoreland.pa.us/	Westmoreland	2004.0	1936.0
+49448	http://www.pinerichland.org/site/default.aspx?PageID=1	Pine-Richland SD	2013.0	103.0
+49449	http://www.northumberlandco.org/	Northumberland	2000.0	264.0
+49450	http://www.swarthmorepubliclibrary.org	Swarthmore Public Library	2007.0	14.0
+49452	http://www.hazletonlibrary.org	Hazleton Area Public Library	2001.0	34.0
+49453	http://www.county.allegheny.pa.us/	Allegheny	2000.0	1132.0
+49454	http://lclibs.org/	Myerstown Community Library	2005.0	1270.0
+49455	http://www.mckasd.net	McKeesport Area Tech Ctr	2003.0	6.0
+49456	http://libwww.freelibrary.org/branches/branch.cfm?loc=cen	Free Library Of Philadelphia - Central Library	2007.0	494.0
+49457	http://www.moniteau.k12.pa.us	Moniteau SD	1999.0	36.0
+49458	http://www.middletownfreelibrary.org	Middletown Free Library	2007.0	2.0
+49462	http://www.jefftech.us/site/default.aspx?PageID=1	Jefferson County-DuBois AVTS	2013.0	21.0
+49465	http://www.susqcohistsoc.org/	Susquehanna County Library - Main Library	2002.0	22.0
+49466	http://www.cclsys.org/gallitzin/	Gallitzin Public Library	2009.0	13.0
+49467	http://newpa.com/	Department of Community and Economic Development	2001.0	680.0
+49468	http://www.udasd.org	Upper Dauphin Area SD	2001.0	0.0
+49469	http://www.jeannettepubliclibrary.com	Jeannette Public Library	2011.0	10.0
+49470	http://www.pccd.state.pa.us/	Commission on Crime and Delinquency	1998.0	148.0
+49472	http://aspirapa.org/	ASPIRA Bilingual Cyber Charter School	2004.0	79.0
+49473	http://www.buckslib.org/libraries/wrightstown/	Bucks County Free Library - Village Library Of Wrightstown	2003.0	0.0
+49474	http://www.meyersdalelibrary.com	Meyersdale Public Library	2001.0	28.0
+49475	http://www.sayresd.org	Sayre Area SD	2000.0	10.0
+49477	http://www.edline.net/pages/Frazier_SD	Frazier SD	2010.0	7.0
+49478	http://www.achievementcharter.com/	Achievement House CS	2004.0	189.0
+49479	http://www.delcolibraries.org/as.htm	Aston Public Library	2005.0	194.0
+49480	http://www.portal.state.pa.us/portal/server.pt/community/department_of_health_home/17457	Department of Health	2009.0	2.0
+49481	http://www.bapl.org	Bethlehem Area Public Library	1996.0	82.0
+49482	http://southparklibrary.org	South Park Township Library	2005.0	78.0
+49483	http://www.carnegielibrary.org/locations/hazelwood/	Carnegie Library Of Pittsburgh - Hazelwood	2002.0	4.0
+49485	http://wilkes-barre.pa.us	Wilkes Barre	2005.0	676.0
+49486	http://www.herrlibrary.org	Jane Annette Herr Memorial Library	2001.0	101.0
+49487	http://www.dmva.state.pa.us/	Department of Military and Veterans Affairs	1999.0	2.0
+49488	http://www.reynolds.k12.pa.us/	Reynolds SD	2004.0	250.0
+49489	http://www.umtsd.org/site/default.aspx?PageID=1	Upper Moreland Township SD	2013.0	52.0
+49491	http://www.jvsd.org	Juniata Valley SD	2005.0	89.0
+49493	http://www.mnsd.net/	Marple Newtown SD	2001.0	813.0
+49494	http://www.jeffersonhillslibrary.org	Jefferson Hills Public Library	2006.0	13.0
+49495	http://www.rosslibrary.org/branch-libraries.aspx	Friendship Library	2011.0	61.0
+49496	http://www.carboncounty.com/	Carbon	2000.0	106.0
+49497	http://www.communityacademy.org	Community Academy of Philadelphia CS	2000.0	6.0
+49498	http://www.rural.palegislature.us/	Center for Rural Pennsylvania	2009.0	214.0
+49499	http://www.wactc.net/site/default.aspx?PageID=1	Western Area CTC	2011.0	8.0
+49500	http://www.warrenlibrary.org	Warren Library Association	2001.0	45.0
+49501	http://www.miltonlibrary.info	Milton Public Library	2006.0	4.0
+49502	http://www.horshamlibrary.org	Horsham Township Library	2004.0	160.0
+49503	http://www.shalerlibrary.org	Shaler North Hills Library	2006.0	58.0
+49504	http://www.wmasd.k12.pa.us	West Middlesex Area SD	2007.0	19.0
+49505	http://www.truebright.org	Truebright Science Academy CS	2007.0	153.0
+49506	http://www.grovecitypalibrary.org	Grove City Community Library	2000.0	26.0
+49507	http://www.beaverlibraries.org	Beaver County Library System	2004.0	45.0
+49508	http://www.palmerton.org	Palmerton Area SD	2000.0	253.0
+49509	http://www.banking.state.pa.us/	Department of Banking	1998.0	2.0
+49510	http://www.aging.state.pa.us/	Department of Aging	1999.0	2.0
+49511	http://www.montourco.org/Pages/default.aspx	Montour	2010.0	76.0
+49512	http://www.epasd.org/site/default.aspx?PageID=1	East Pennsboro Area SD	2013.0	6.0
+49513	http://cityofclairton.com/	Clairton	2004.0	30.0
+49514	http://www.flenniken.org	Flenniken Public Library	2004.0	79.0
+49515	http://bloomsburgasd.schoolwires.com/site/default.aspx?PageID=1	Bloomsburg Area SD	2013.0	17.0
+49516	http://www.valleyviewsd.org/site/default.aspx?PageID=1	Valley View SD	2012.0	44.0
+49517	http://www.newportpubliclibrary.org	Newport Public Library	2002.0	0.0
+49518	http://www.iroquoissd.org	Iroquois SD	0.0	436.0
+49519	http://www.lcti.org/site/default.aspx?PageID=1	Lehigh Career & Technical Institute	2012.0	233.0
+49520	http://mnl.mclinc.org/bookmobile-and-branches/royersford/	Royersford Free Public Library	2013.0	2.0
+49521	http://www.montcopa.org/	Montgomery	1997.0	2880.0
+49524	http://www.darbylibrary.org	Darby Library	2000.0	19.0
+49525	http://www.buckslib.org/libraries/southampton/	Bucks County Free Library - Southampton Free Library	2003.0	0.0
+49526	http://www.lcb.state.pa.us/PLCB/index.htm	Pennsylvania Liquor Control Board	2012.0	153.0
+49527	http://yswpcs.org/	Young Scholars of Western Pennsylvania CS	2010.0	249.0
+49528	http://www.luzernecounty.org/	Luzerne	2004.0	440.0
+49529	http://pittsburghpa.gov/	Pittsburgh	2010.0	1319.0
+49530	http://www.co.butler.pa.us/	Butler	2000.0	495.0
+49531	http://www.lyco.org/	Lycoming	1999.0	108.0
+49532	http://www.wssd.k12.pa.us	West Shore SD	0.0	988.0
+49533	http://www.paehealth.org/	eHealth Partnership Authority	2014.0	445.0
+49535	http://www.edline.net/pages/mtsd	Millcreek Township SD	2009.0	280.0
+49536	http://www.employment.pa.gov	Bureau of State Employment	2009.0	9.0
+49537	http://www.carnegielibrary.org/locations/southside/	Carnegie Library Of Pittsburgh - South Side	2002.0	4.0
+49538	http://www.gjsd.net	Greater Johnstown SD	2003.0	18.0
+49539	http://libwww.freelibrary.org/branches/branch.cfm?loc=frk	Free Library Of Philadelphia - Frankford Branch	2007.0	462.0
+49541	http://www.dcnr.state.pa.us/	Department of Conservation and Natural Resources	1997.0	1124.0
+49542	http://www.lancaster.lib.pa.us/contact/mountville-branch/	Lancaster Public Library - Leola Branch	2012.0	2.0
+49543	http://www.kippphiladelphia.org	KIPP Philadelphia Charter School	2003.0	94.0
+49544	http://www.sasd.k12.pa.us	Shaler Area SD	1996.0	413.0
+49545	http://www.southmoreland.net/	Southmoreland SD	2000.0	16.0
+49546	http://www.nmtcc.org	North Montco Tech Career Center	2001.0	86.0
+49547	http://www.lppacs.org	Lincoln Park Performing Arts CS	2006.0	105.0
+49548	http://www.lmsd.org	Lower Merion SD	1999.0	1425.0
+49549	http://www.franklinlibrary.org	Franklin Public Library	2002.0	939.0
+49550	http://www.berks.lib.pa.us/louisagonsercl/	Louisa Gonser Community Library Inc	2001.0	95.0
+49551	http://www.coatesville.k12.pa.us	Coatesville Area SD	1998.0	6.0
+49553	http://ppl.mclinc.org	Pottstown Public Library	2005.0	25.0
+49554	http://www.wcsdpa.org	Warren County AVTS	0.0	1246.0
+49556	http://libwww.freelibrary.org/branches/branch.cfm?loc=bhr	Free Library Of Philadelphia - Bushrod Branch	2007.0	778.0
+49557	http://www.eastonpl.org	Easton Area Public Library	1998.0	124.0
+49558	http://www.lmls.org/lib_balacynwyd.html	Bala Cynwyd Library	2008.0	112.0
+49561	http://www.syc.k12.pa.us	Southern York County SD	0.0	854.0
+49562	http://www.punxsy.k12.pa.us/site/default.aspx?PageID=1	Punxsutawney Area SD	2011.0	21.0
+49563	http://www.pcw.state.pa.us/	Pennsylvania Commission for Women	2000.0	2.0
+49564	http://www.pcam.org	Penn Cambria SD	2000.0	0.0
+49565	http://www.ridleylibrary.org	Ridley Township Public Library	2008.0	26.0
+49566	http://www.wyalusinglibrary.org	Wyalusing Public Library	2003.0	8.0
+49567	http://www.bucks.edu	Bucks County Community College	1997.0	4020.0
+49568	http://www.portal.state.pa.us/portal/server.pt/community/bureau_of_state_library/8811	State Bureau of Library	2009.0	6.0
+49569	http://www.tyrone.k12.pa.us	Tyrone Area SD	1999.0	5.0
+49570	http://www.lmls.org/lib_pennwynne.html	Penn Wynne Library	2008.0	112.0
+49571	http://www.pavcsk12.org/	Pennsylvania Virtual CS	2008.0	100.0
+49572	http://www.ccls.org/cwo/find_a_library/atglen	Atglen Public Library	2008.0	62.0
+49573	http://www.scsc.state.pa.us/	State Civil Service Commission	1998.0	2.0
+49576	http://www.buckslib.org/libraries/pipersville/	Bucks County Free Library - Pipersville Free Library	2003.0	8.0
+49578	http://www.co.lawrence.pa.us/	Lawrence	2001.0	2.0
+49579	http://mnl.mclinc.org/	Montgomery County-Norristown Public Library	1999.0	250.0
+49580	http://www.jerseyshorepubliclibrary.org	Jersey Shore Public Library	2006.0	9.0
+49581	http://mastccs.org/	MAST Community Charter School	2011.0	448.0
+49582	http://www.wattsburg.org	Wattsburg Area SD	2007.0	521.0
+49583	http://www.hbgsd.k12.pa.us/site/default.aspx?PageID=1	Harrisburg City SD	2011.0	120.0
+49584	http://www.ccbc.edu	Community College of Beaver County	2002.0	982.0
+49585	http://www.bradfordcountypa.org/	Bradford	2002.0	174.0
+49587	http://libwww.freelibrary.org/branches/branch.cfm?loc=kdr	Free Library Of Philadelphia - Katharine Drexel Branch	2007.0	440.0
+49588	http://westfieldpubliclibrary.com/new/	Westfield Public Library	2013.0	17.0
+49590	http://www.pamunicipalleague.org/	Pennsylvania League of Cities and Municipalities	2001.0	986.0
+49591	http://lpc.mclinc.org/	Lower Providence Community Library	2003.0	2.0
+49592	http://www.sctc.net/dnn/	Somerset County Technology Center	2009.0	281.0
+49593	http://www.cvk12.org	Conemaugh Valley SD	2008.0	28.0
+49594	http://www.southfayettelibrary.org/	South Fayette Township Library	2005.0	34.0
+49596	http://www.psats.org/	Pennsylvania State Association of Township Supervisors	1997.0	223.0
+49597	http://www.sctpubliclibrary.lib.pa.us	Shamokin Coal Township Public Library	1999.0	91.0
+49598	http://greenfreelibrary.org	Green Free Library	2006.0	23.0
+49599	http://libwww.freelibrary.org/branches/branch.cfm?loc=ner	Free Library Of Philadelphia - Northeast Regional Library	2007.0	418.0
+49600	http://bethlehemavts.org/	Bethlehem AVTS	2008.0	63.0
+49601	http://www.phrc.state.pa.us/	Pennsylvania Human Relations Commission	2000.0	2.0
+49602	http://www.chesco.org/	Chester	1998.0	1898.0
+49603	http://www.mounties.k12.pa.us/site/default.aspx?PageID=1	South Williamsport Area SD	2012.0	26.0
+49605	http://www.lakeview.k12.pa.us/site/default.aspx?PageID=1	Lakeview SD	2013.0	28.0
+49606	http://www.newdaycs.org	New Day Charter School	2011.0	44.0
+49607	http://www.publiaison.state.pa.us/	Office of Public Liaison	2000.0	1.0
+49608	http://www.revenue.state.pa.us/	Department of Revenue	1997.0	215.0
+49609	http://www.pottsville.k12.pa.us/site/default.aspx?PageID=1	Pottsville Area SD	2013.0	5.0
+49610	http://www.bellevernonarea.net/site/default.aspx?PageID=1	Belle Vernon Area SD	2013.0	76.0
+49611	http://libwww.freelibrary.org/branches/branch.cfm?loc=chh	Free Library Of Philadelphia - Chestnut Hill Branch	2007.0	439.0
+49612	http://www.galetonpubliclibrary.org	Galeton Public Library	2006.0	6.0
+49614	http://www.leechburg.k12.pa.us	Leechburg Area SD	2000.0	15.0
+49615	http://www.nbcsd.org/site/default.aspx?PageID=1	Northern Bedford County SD	2011.0	34.0
+49616	http://www.mslibrary.org/mountjoy/site/default.asp	Milanof-Schock Library	2011.0	7.0
+49617	http://www.crozerlibrary.org/	J. Lewis Crozer Library	2008.0	26.0
+49618	http://www.ncdlc.org	New Castle Public Library	2003.0	16.0
+49619	http://www.armstronglibraries.org	Ford City Public Library	2008.0	181.0
+49620	http://www.norwinpubliclibrary.net/	Norwin Public Library Association	2012.0	2.0
+49621	http://www.ltgovernor.pa.gov/portal/server.pt/community/ltgovernor_pa_gov/20736	Office of the Lieutenant Governor	2012.0	1.0
+49624	http://www.ligonierlibrary.org	Ligonier Valley Library	2002.0	39.0
+49625	http://centrecountypa.gov/	Centre	2013.0	1067.0
+49626	http://www.fcasd.edu	Fox Chapel Area SD	1996.0	611.0
+49627	http://www.ucasd.org/	Union City Area SD	2006.0	40.0
+49628	http://www.springdalepubliclibrary.org	Springdale Free Public Library	2006.0	57.0
+49630	http://www.irrc.state.pa.us/default.aspx	Independent Regulatory Review Commission	2012.0	38.0
+49631	http://www.eastpennsd.org	East Penn SD	2005.0	207.0
+49633	http://www.buckslib.org/libraries/northampton/	Bucks County Free Library - Free Library Of Northampton Township	2003.0	0.0
+49634	http://www.cumberlandcountylibraries.org/?q=SHP	Shippensburg Public Library	2013.0	2933.0
+49635	http://www.cityoflowerburrell.com/	Lower Burrell	1998.0	44.0
+49636	http://shontz.ccfls.org/	Margaret Shontz Memorial Library	2009.0	15.0
+49637	http://www.ahsd.org	Abington Heights SD	1999.0	2979.0
+49638	http://www.lakelandsd.org/	Lakeland SD	2003.0	4.0
+49639	http://www.admiralpeary.tec.pa.us	Admiral Peary AVTS	2001.0	37.0
+49641	http://www.berwicksd.org/site/default.aspx?PageID=1	Berwick Area SD	2012.0	7.0
+49642	http://nvcs.org/	Nittany Valley CS	2001.0	41.0
+49643	http://www.haverfordlibrary.org	Haverford Township Free Library	2004.0	624.0
+49644	http://mnl.mclinc.org/bookmobile-and-branches/conshohocken-branch/	Conshohocken Free Library	2013.0	2.0
+49645	http://www.philadelphiamontessori.org	Philadelphia Montessori CS	2004.0	936.0
+49646	http://www.shade.k12.pa.us	Shade-Central City SD	1998.0	26.0
+49647	http://libwww.freelibrary.org/branches/branch.cfm?loc=log	Free Library Of Philadelphia - Logan Branch	2007.0	468.0
+49648	http://boroughs.org/	Pennsylvania State Association of Boroughs	1998.0	327.0
+49649	http://www.pheaa.org/	Pennsylvania Higher Education Assistance Agency	1997.0	322.0
+49650	http://libwww.freelibrary.org/branches/branch.cfm?loc=lov	Free Library Of Philadelphia - Lovett Branch	2007.0	452.0
+49651	http://www.carnegielibrary.org/locations/sheraden/	Carnegie Library Of Pittsburgh - Sheraden	2002.0	4.0
+49652	http://www.etownpubliclibrary.org/etown/site/default.asp	Elizabethtown Public Library	2006.0	2.0
+49653	http://www.buckslib.org/libraries/riegelsville/	Bucks County Free Library - Riegelsville Public Library	2003.0	0.0
+49654	http://www.beaverlibraries.org/rochester.asp	Rochester Public Library	2012.0	44.0
+49655	http://www.albionarealibrary.org/wordpress/	Albion Area Public Library	2011.0	8.0
+49656	http://www.tvsd.org/Pages/default.aspx	Twin Valley SD	2012.0	242.0
+49657	http://www.wbactc.org	Wilkes-Barre Area CTC	2009.0	58.0
+49658	http://www.lmls.org/lib_ardmore.html	Ardmore Library	2008.0	112.0
+49659	http://www.westendlibrary.org	West End Library	2001.0	82.0
+49660	http://freirecharterschool.org/	Freire CS	2005.0	69.0
+49661	http://wilkinsburgschools.com/	Wilkinsburg Borough SD	2014.0	2.0
+49662	http://www.beaverlibraries.org/aliquippa.asp	B F Jones Memorial Library	2012.0	44.0
+49663	http://www.dvchs.net	Delaware Valley CHS	2005.0	36.0
+49664	http://www.unionco.org/	Union	1999.0	105.0
+49665	http://www.bpsd.org/	Bethel Park SD	2008.0	464.0
+49667	http://www.nscougars.com/site/default.aspx?PageID=1	North Star SD	2011.0	10.0
+49668	http://www.cvschools.org	Cumberland Valley SD	0.0	3781.0
+49670	http://libwww.freelibrary.org/branches/branch.cfm?loc=ken	Free Library Of Philadelphia - Kensington Branch	2007.0	534.0
+49672	http://www.pennsvalley.org	Penns Valley Area SD	1999.0	1695.0
+49673	https://www.kcsd.k12.pa.us/schools/career-and-technology-center	Keystone Central CTC	0.0	308.0
+49675	http://www.panthervalley.org	Panther Valley SD	1999.0	55.0
+49676	http://www.parklandlibrary.org	Parkland Community Library	2004.0	54.0
+49677	http://www.nbasd.org/	New Brighton Area SD	2009.0	280.0
+49678	http://www.gnasd.com/millmemorial.htm	Mill Memorial Library	2000.0	2.0
+49679	http://www.austinsd.net/	Austin Area SD	2012.0	37.0
+49680	http://www.adamstown.lib.pa.us	Adamstown Area Library	2000.0	2.0
+49681	http://www.cityofwarrenpa.gov/	Warren	2004.0	763.0
+49682	http://www.juniatalibrary.org	Juniata County Library	2007.0	29.0
+49683	http://www.carnegielibrary.org/locations/allegheny/	Carnegie Library Of Pittsburgh - Allegheny	2002.0	5.0
+49684	http://sullivancountylibrary.org	Sullivan County Library	2002.0	16.0
+49685	http://www.freelibrary.org/	Free Library Of Philadelphia	2007.0	48.0
+49686	http://www.carnegiecarnegie.com	Andrew Carnegie Free Library	2004.0	180.0
+49687	http://phillyscholars.org/ysfd/	Young Scholars Frederick Douglas Charter School	2012.0	53.0
+49691	http://www.k12.com/agora	Agora Cyber CS	2006.0	524.0
+49692	http://actacademy.org/	ACT Academy Cyber CS	2012.0	15.0
+49693	http://castleshannonlibrary.org/	Community Library Of Castle Shannon	2005.0	52.0
+49694	http://libwww.freelibrary.org/branches/branch.cfm?loc=tor	Free Library Of Philadelphia - Torresdale Branch	2007.0	431.0
+49696	http://www.hermitage.net/	Hermitage	1997.0	134.0
+49697	http://www.ofsd.cc	Old Forge SD	0.0	156.0
+49698	http://fclspa.org/fultoncounty/	Fulton County Library	2013.0	653.0
+49700	http://www.hasd.tiu.k12.pa.us	Huntingdon Area SD	2001.0	2.0
+49701	http://www.greenwoodsd.org/site/default.aspx?PageID=1	Greenwood SD	2012.0	12.0
+49702	http://harrisburgpa.gov/	Harrisburg	2003.0	130.0
+49703	http://bloomsburgpa.org/	Bloomsburg	2003.0	54.0
+49704	http://phillyscholars.org/yskcs/	Young Scholars Kenderton CS	2013.0	23.0
+49705	http://libwww.freelibrary.org/branches/branch.cfm?loc=pas	Free Library Of Philadelphia - Thomas F. Donatucci, Sr.	2007.0	439.0
+49706	http://www.portal.state.pa.us/portal/server.pt/community/ova/20938	Office of Victim Advocate	2012.0	2.0
+49707	http://www.hasdk12.org/site/default.aspx?PageID=1	Hazleton Area Career Center	2011.0	14.0
+49708	http://towandapubliclibrary.org/new/	Towanda Public Library	2013.0	51.0
+49709	http://libwww.freelibrary.org/branches/branch.cfm?loc=pac	Free Library Of Philadelphia - Paschalville Branch	2007.0	392.0
+49710	http://www.boyertownasd.org/site/default.aspx?PageID=1	Boyertown Area SD	2012.0	6.0
+49711	http://www.wbasd.k12.pa.us	Wilkes-Barre Area SD	2000.0	28.0
+49712	http://www.dauphincounty.org/Pages/default.aspx	Dauphin	2012.0	677.0
+49713	http://www.carnegielibrary.org/locations/knoxville/	Carnegie Library Of Pittsburgh - Knoxville	2002.0	4.0
+49714	http://www.delcolibraries.org/lawlibrary/default.htm	Francis J. Catania Law Library	2006.0	8.0
+49715	http://www.carboncti.org/main/index.htm	Carbon Career & Technical Institute	2007.0	11.0
+49716	http://www.hatboro-horsham.org/site/default.aspx?PageID=1	Hatboro-Horsham SD	2011.0	14.0
+49717	http://www.masd.info	Montrose Area SD	2003.0	1.0
+49718	http://sankofa-academy.com/	Sankofa Academy CS	2011.0	0.0
+49719	http://www.lake-lehman.k12.pa.us	Lake-Lehman SD	2000.0	26.0
+49722	http://www.nazarethasd.k12.pa.us/site/default.aspx?PageID=1	Nazareth Area SD	2012.0	12.0
+49725	http://www.barrettlibrary.org	Barrett Paradise Friendly Library	0.0	92.0
+49726	http://www.cclsys.org/patton/	Patton Public Library	2011.0	16.0
+49728	http://libwww.freelibrary.org/branches/branch.cfm?loc=ric	Free Library Of Philadelphia - Richmond Branch	2007.0	449.0
+49730	http://libwww.freelibrary.org/branches/branch.cfm?loc=wad	Free Library Of Philadelphia - Wadsworth Branch	2007.0	413.0
+49731	http://libwww.freelibrary.org/branches/branch.cfm?loc=wal	Free Library Of Philadelphia - Walnut Street West	2007.0	427.0
+49732	http://www.mvsd.net	Mountain View SD	2001.0	34.0
+49733	http://www.clccharter.org	Centre Learning Community CS	2000.0	147.0
+49734	http://www.haven.k12.pa.us/havenpl/	Schuylkill Haven Free Public Library	2001.0	6.0
+49735	http://www.house.state.pa.us/	House of Representatives	1999.0	15.0
+49736	http://www.cclsys.org/ebensburg/	Ebensburg Free Public Library	2011.0	13.0
+49737	http://www.pottertiogalibrary.org/	Potter-Tioga Library System	2006.0	48.0
+49738	http://www.centennialsd.org/site/default.aspx?PageID=1	Centennial SD	2011.0	6.0
+49740	http://www.co.clarion.pa.us/	Clarion	2000.0	98.0
+49741	http://maryslibrary.com/	Mary S Biesecker Public Library	2001.0	10.0
+49742	http://www.pennmanor.net	Penn Manor SD	2000.0	1297.0
+49743	http://www.gnasd.com	Greater Nanticoke Area SD	2000.0	28.0
+49744	http://www.poconomountpl.org	Pocono Mountain Public Library	2001.0	18.0
+49745	http://www.fortcherry.org/site/default.aspx?PageID=1	Fort Cherry SD	2012.0	49.0
+49746	http://www.northallegheny.org/site/default.aspx?PageID=1	North Allegheny SD	2011.0	714.0
+49747	http://www.tidioutelibrary.org	Tidioute Free Library	2008.0	1.0
+49749	http://www.portal.state.pa.us/portal/server.pt?open=514&objid=1071851&parentname=objmgr&parentid=7&mode=2	Governor's Advisory Council for Hunting, Fishing and Conservation	2012.0	2.0
+49750	http://www.riversidesd.com	Riverside SD	2003.0	60.0
+49754	http://northerntierlibrary.org/	Northern Tier Regional Library - Richland Center	2005.0	198.0
+49755	http://www.bedford.k12.pa.us/default.aspx	Bedford Area SD	2005.0	279.0
+49756	http://www.ridgwayareaschooldistrict.com	Ridgway Area SD	2001.0	23.0
+49758	http://www.pennsmanor.org	Penns Manor Area SD	2006.0	176.0
+49759	http://www.mifflincountylibrary.org/	Mifflin County Library	2001.0	47.0
+49760	http://www.ojrsd.com	Owen J Roberts SD	2000.0	7.0
+49761	http://www.co.venango.pa.us/	Venango	2000.0	611.0
+49765	http://www.lasd.k12.pa.us	Littlestown Area SD	1998.0	3356.0
+49766	http://www.fasdk12.org	Ferndale Area SD	2003.0	100.0
+49767	http://www.wellsborosd.k12.pa.us/site/default.aspx?PageID=1	Wellsboro Area SD	2013.0	5.0
+49768	http://libwww.freelibrary.org/branches/branch.cfm?loc=ovp	Free Library Of Philadelphia - Overbrook Park Branch	2007.0	395.0
+49769	http://www.phoenixvillelibrary.org	Phoenixville Public Library	2006.0	126.0
+49770	http://wjl.mclinc.org/	William Jeanes Memorial Library	2003.0	0.0
+49771	http://www.whsd.org/	Westmont Hilltop SD	2004.0	1988.0
+49772	http://www.northschuylkill.net	North Schuylkill SD	2003.0	54.0
+49775	http://www.mccc.tec.pa.us	Mercer County Career Center	2006.0	80.0
+49776	http://www.osfc.state.pa.us/portal/server.pt/community/state_fire_commissioner_home/4462	Office of Fire Commissioner	2009.0	3.0
+49779	http://www.nwlehighsd.org	Northwestern Lehigh SD	0.0	1675.0
+49780	http://www.cclsys.org/portage/	Portage Public Library	2011.0	13.0
+49781	http://www.dep.state.pa.us/	Department of Environmental Protection	1996.0	452.0
+49782	http://www.tesd.net/site/default.aspx?PageID=1	Tredyffrin-Easttown SD	2011.0	160.0
+49785	http://www.cclsys.org/hastings/	Hastings Public Library	2011.0	13.0
+49786	http://www.delcolibraries.org/me.htm	Media-Upper Providence Library	2005.0	194.0
+49787	http://www.delcolibraries.org/pp.htm	Prospect Park Free Library	2005.0	194.0
+49788	http://www.tus.k12.pa.us	Tuscarora SD	2001.0	15.0
+49789	http://www.ccfaschool.org	Chester Co Family Academy CS	2013.0	31.0
+49791	http://www.hershey.k12.pa.us/site/default.aspx?PageID=1	Derry Township SD	2013.0	5.0
+49792	http://www.stonevalleyccs.org	Stone Valley Community CS	2011.0	6.0
+49794	http://www.collegeportraits.org/PA/bu	Bloomsburg University of Pennsylvania	2009.0	15.0
+49795	http://www.legis.state.pa.us/index.cfm	State Legislature	2004.0	20699.0
+49796	http://www.tbflibrary.org	Thomas Beaver Free Library	2007.0	9.0
+49797	http://www.newportsd.org/site/default.aspx?PageID=1	Newport SD	2013.0	36.0
+49798	http://www.eawildcats.net/site/default.aspx?PageID=1	East Allegheny SD	0.0	16.0
+49799	http://www.susq.k12.pa.us	Susquenita SD	0.0	523.0
+49800	http://www.sullivancounty-pa.us/	Sullivan	2003.0	43.0
+49801	http://www.attorneygeneral.gov	Office of Attorney General	1998.0	7.0
+49802	http://www.clairtonlibrary.org	Clairton Public Library	2005.0	12.0
+49803	http://www.ht-sd.org	Hampton Township SD	2009.0	1412.0
+49804	http://bridgevillelibrary.org/	Bridgeville Public Library	2001.0	70.0
+49805	http://www.cwctc.org/site/default.aspx?PageID=1	Central Westmoreland CTC	2013.0	7.0
+49806	http://www.lclshome.org/albright/index.php	Albright Memorial Library	2006.0	2.0
+49807	http://cityhigh.org/	City CHS	2002.0	195.0
+49808	http://www.vandergriftpubliclibrary.org/	Vandergrift Public Library Association	2007.0	25.0
+49809	http://www.badenacademy.org	Baden Academy CS	2010.0	106.0
+49810	http://www.qcsd.org/site/default.aspx?PageID=1	Quakertown Community SD	2012.0	31.0
+49811	http://www.buckslib.org/libraries/levittown/	Bucks County Free Library - Levittown Branch	2002.0	0.0
+49813	http://www.wssd.org/site/default.aspx?PageID=1	Wallingford-Swarthmore SD	2012.0	16.0
+49814	http://mcsd-dnn.mcbarons.manheimcentral.org/mcsd/	Manheim Central SD	2011.0	40.0
+49816	http://www.yorklibraries.org/hufnagel/	Arthur Hufnagel Public Library Of Glen Rock	2010.0	4.0
+49817	http://www.bmsd.org	Blue Mountain SD	2003.0	233.0

@@ -1,0 +1,389 @@
+NodeId	NodeURL	NodeName	Year	pages
+36065	http://bclibrary.org/	Boulder City Library District	2002.0	2489.0
+36066	http://www.tmcc.edu/highschool/	Tmcc Magnet High School	2007.0	1.0
+36067	http://funeral.nv.gov/	Funeral Board, Nevada State	0.0	16.0
+36068	http://www.nevadaddcouncil.org/	Developmental Disabilities Council, Nevada	2007.0	1443.0
+36069	https://por.shr.nevada.edu/psp/spporprd/?cmd=login&errorPg=ckreq&languageCd=ENG	Class Schedules	0.0	26.0
+36071	http://podiatry.state.nv.us/	Podiatry State Board	2001.0	20.0
+36072	http://www.csn.edu/pages/660.asp	Catalog / Schedule / Calendar	2007.0	568.0
+36073	http://defcomp.nv.gov/	Deferred Compensation Program, Nevada Public Employees	2013.0	40.0
+36074	http://tmrpa.org/	Truckee Meadows Regional Planning Agency	2001.0	200.0
+36075	http://nvsos.gov/index.aspx?page=415	Start a Business	2010.0	2277.0
+36077	http://leg.state.nv.us/division/legal/	Legal Division	2010.0	1.0
+36078	http://it.nv.gov/	Information Technology, (Enterprise IT Services, Dept. of Administration)	2012.0	107.0
+36080	http://www.lyon-county.org/index.aspx?nid=238	Dayton Valley Branch Library	2009.0	693.0
+36081	http://motorpool.nv.gov	Fleet Services Division	2013.0	51.0
+36082	http://www.nevadajudiciary.us/index.php/judicialselection	Judicial Selection, Commission on	2010.0	1033.0
+36083	https://nevadatreasurer.gov/index.htm	Treasurer, Office of the State	2007.0	122.0
+36085	http://www.doe.nv.gov/boards_commissions_councils/commissions_and_councils/commission_on_professional_standards/commission_on_professional_standards/	Professional Standards, Commission on	2013.0	20.0
+36086	http://www.doe.nv.gov/apac_main_page/	Assessment, Program Accountability & Curriculum	2013.0	3.0
+36087	http://nv.gov/	State Government	2002.0	2188.0
+36088	http://lawlibrary.nevadajudiciary.us/selfhelp/nvprose.php	Self Help Resources	2010.0	2.0
+36089	http://purchasing.state.nv.us/	Purchasing	2001.0	137.0
+36090	http://www.dmvnv.com/nvdl.htm	Driver Licensing, Nevada	2002.0	120.0
+36091	http://www.climate.unr.edu	Climate Office, Nevada State	2005.0	11.0
+36093	http://www.nevadadot.com/about_ndot/ndot_divisions/planning/planning.aspx	Planning	2013.0	149.0
+36095	http://www.co.nye.nv.us	Nye County Website	2001.0	988.0
+36096	http://www.tmcc.edu/schedule/	Class Schedules	2009.0	12.0
+36097	http://www.wnc.edu/	Western Nevada College	2007.0	6203.0
+36098	http://nsbaidrd.state.nv.us/?page=1	Architecture, Interior Design and Residential Design; Nevada State Board of	2009.0	67.0
+36099	http://admin.nv.gov/	Administration, Department of	2012.0	41.0
+36100	http://landercountynv.org/communities-profiles/austin	Austin	2011.0	8.0
+36101	http://www.cityoffallon.com	City of Fallon	2001.0	235.0
+36102	http://www.washoe.k12.nv.us/hug/	Procter R. Hug High School	2001.0	16.0
+36103	http://supreme.nvcourts.gov/Find_a_Court/Municipal_Courts/	Municipal Courts	2014.0	12.0
+36104	http://hr.nv.gov/	Human Resource Management	2013.0	161.0
+36106	http://lands.nv.gov/	State Lands, Division of	2002.0	3.0
+36109	http://www.washoe.k12.nv.us/northvalleyshs/	North Valleys High School	2002.0	18.0
+36110	http://explorecarlinnv.com/	City of Carlin	2001.0	121.0
+36111	http://www.ivgid.org	Incline Village (GID)	1999.0	338.0
+36112	http://nvsos.gov/	Secretary of State, Office of the	2007.0	1833.0
+36113	http://www.nevadadot.com/About_NDOT/NDOT_Divisions/Planning/bikeped/bicycle.aspx	Bicycle Advisory Board, Nevada	2013.0	4.0
+36114	http://controller.nv.gov/	Controller, Office of the State	2002.0	2.0
+36115	http://schools.ccsd.net/sierravista/	Sierra Vista High School	0.0	3.0
+36116	http://www.red.state.nv.us/	Real Estate	2001.0	16.0
+36117	https://nevadatreasurer.gov/boardoffinance.htm	Finance, Board of	2007.0	0.0
+36120	http://serc.nv.gov/	Emergency Response Commission, Nevada State	2004.0	16.0
+36121	http://www.clarkcountynv.gov/	Clark County Website	2009.0	2538.0
+36122	http://www.co.eureka.nv.us/crescent/crescent.htm	Crescent Valley	2001.0	4.0
+36124	http://leg.state.nv.us/division/audit/	Audit Division	2010.0	9.0
+36125	http://www.nbmg.unr.edu/	Mines and Geology, Bureau of	1996.0	34.0
+36126	http://www.nvbar.org/	Bar Examiners of Nevada	1998.0	542.0
+36127	http://dhhs.nv.gov/autism_main.htm	Autism Spectrum Disorders, Nevada Commission on	2010.0	0.0
+36128	http://www.laborcommissioner.com/	Labor Commissioner	2002.0	74.0
+36129	http://license.k3systems.com/LicensingPublic/app?page=main&service=page	Osteopathic Medicine Board	0.0	85.0
+36130	http://www.wnc.edu/studentservices/admissions/	Admissions	2007.0	20.0
+36131	http://www.cityofnorthlasvegas.com/Departments/Library/Library.shtm	North Las Vegas Library District	2007.0	10.0
+36132	http://emrb.state.nv.us/	Employee Management Relations Board	2001.0	41.0
+36133	http://www.dmvnv.com/mchome.html	Motor Carrier Division	2002.0	119.0
+36134	http://www.nvrepository.state.nv.us/index.shtml	General Services Division	2007.0	37.0
+36135	http://www.yerington.net/	City of Yerington	2001.0	255.0
+36136	http://nevadaculture.org/	Tourism and Cultural Affairs, Department of	2001.0	2260.0
+36138	http://detr.state.nv.us/worforce_investment_pages/gov_wib.htm	Governor's Workforce Investment Board	2007.0	13.0
+36139	http://oriental_medicine.state.nv.us	Oriental Medicine State Board	2001.0	0.0
+36140	http://www.nsc.nevada.edu/	Nevada State College	2000.0	766.0
+36141	http://veterans.nv.gov/	Veteran's Services, Nevada Office of	2005.0	482.0
+36142	http://jic.nv.gov/	Joint Information Committee, JIC	2012.0	20.0
+36143	http://www.bandg.state.nv.us/	Buildings and Grounds	2001.0	1.0
+36144	http://dental.nv.gov/	Dental Examiners of Nevada, Board of	2014.0	39.0
+36145	http://nvbhme.org	Homeopathic Medical Examiners Board	2013.0	76.0
+36146	http://nevadaathletictrainers.nv.gov/	Athletic Trainers, Nevada State Board of	2005.0	20.0
+36147	http://crptr.nv.gov/	Certified Court Reporters Board	2013.0	32.0
+36148	http://www.dri.edu/dees	Earth and Ecosystem Sciences (Land & Life), Division of	2001.0	1586.0
+36150	http://www.nevadadot.com/	Transportation, Department of	1999.0	461.0
+36151	http://landercountynv.org/	Lander County Website	2010.0	3654.0
+36152	http://mhds.state.nv.us/	Mental Health and Developmental Services, Division of	2001.0	112.0
+36153	http://www.doe.nv.gov/state_board_of_education/	Education, Board of	2013.0	17.0
+36155	http://www.nevadadot.com/about_ndot/ndot_divisions/planning/performance_analysis/performance_analysis_division.aspx	Performance Analysis Division	2011.0	5.0
+36156	http://asm.leg.state.nv.us/Assembly/?CFID=53279017&CFTOKEN=62e5e1b03ae6c91-F2293EE3-9082-7140-004855788B1A655A	Assembly	0.0	48.0
+36157	http://www.nsc.nevada.edu/676.asp	Class Schedules	2009.0	759.0
+36159	http://dps.nv.gov/	Public Safety, Department of	2003.0	136.0
+36160	http://www.clan.lib.nv.us/polpac/library/clan/mineral.htm	Mina-Lunig Community Library	2000.0	6.0
+36161	http://agri.nv.gov/administration/garliconionab/garliconionab-home/	Garlic and Onion Growers' Advisory Board	2012.0	3.0
+36163	http://www.mesquitenv.gov/	City of Mesquite	2008.0	307.0
+36164	http://www.pershing.k12.nv.us/	Pershing County High School	2001.0	624.0
+36166	http://judicial.state.nv.us/	Judicial Discipline, Commission on	2001.0	289.0
+36167	http://www.yhs.lyon.k12.nv.us/	Yerington High School	2000.0	22.0
+36168	http://business.nv.gov/	Department of Business and Industry	2007.0	185.0
+36169	http://nvdetr.org/	Employment, Training and Rehabilitation, Department of	2002.0	56.0
+36170	http://nevadanursingboard.org/	Nursing, State Board of	2011.0	90.0
+36171	http://www.csn.edu/	College of Southern Nevada	2007.0	1016.0
+36172	http://www.doc.nv.gov/?q=node/1	Inmate Information	2011.0	261.0
+36173	http://www.nvsexoffenders.gov/	Sex Offender Registry, Nevada	2004.0	23.0
+36174	http://www.lyon-county.org/	Lyon County Website	2001.0	687.0
+36175	http://system.nevada.edu/nshe/index.cfm	Higher Education, Nevada System of	2011.0	2115.0
+36176	http://www.doe.nv.gov/business_support_svcs/	Business and Support Services	2013.0	4.0
+36177	http://chirobd.nv.gov/	Chiropractic Physicians' Board of Nevada	2003.0	24.0
+36179	http://www.trpa.org/	Tahoe Regional Planning Agency	2001.0	249.0
+36180	http://agri.nv.gov/plant-industry/	Plant Industry	2012.0	3.0
+36181	http://nvdetr.org/nerc.htm	Equal Rights Commission, Nevada	2007.0	36.0
+36182	http://supreme.nvcourts.gov/Find_a_Court/	Court Directory	2014.0	36.0
+36183	http://gaming.nv.gov/index.aspx?page=15	Technology Division	2012.0	571.0
+36184	http://crc.nv.gov/index.asp	Colorado River Commission of Nevada	2005.0	40.0
+36186	http://museums.nevadaculture.org/	Museums and History	2010.0	1903.0
+36187	http://www.gardnerville-nv.gov/	Gardnerville (Town of)	2006.0	88.0
+36188	http://socwork.nv.gov/	Social Workers, Board of Examiners	2003.0	36.0
+36190	http://www.rainshadowcchs.org/	Rainshadow Community Charter High School	2003.0	22.0
+36191	http://dirweb.state.nv.us/	Industrial Relations	2001.0	2.0
+36192	http://leg.state.nv.us/division/administrative/	Administrative Division	2010.0	2.0
+36193	http://www.mcqueenhs.com/	Robert Mcqueen High School	1999.0	1.0
+36194	http://www.elkocountynv.net/	Elko County Website	2003.0	493.0
+36195	http://www.nevadadot.com/public_involvement/transportation_planning/planning.aspx	Transportation Planning Division	2011.0	3.0
+36196	http://tonopah-hs.nye.k12.nv.us/	Tonopah High School	2007.0	31.0
+36198	http://nvbdo.nv.gov/	Dispensing Opticians, State of Nevada Board of	0.0	26.0
+36199	http://www.ndow.org/	Wildlife, Department of	2001.0	398.0
+36200	http://nvshpo.org/	Historic Preservation Office	2002.0	332.0
+36201	http://www.elkocountylibrary.org	Elko-Lander-Eureka Counties Library System	2001.0	37.0
+36202	http://training.dps.nv.gov/	Training	2012.0	5.0
+36203	http://www.cityofnorthlasvegas.com/departments/library/library.shtm	Northwest Branch	2007.0	12.0
+36204	https://partner.dotzup.com/index.html	Silverado High School	2010.0	21.0
+36205	http://www.nvaccountancy.com/	Accountancy, State Board of	0.0	41.0
+36208	http://www.dmvnv.com/platesmain.htm	License Plates	2002.0	119.0
+36209	http://www.hcnv.us/	Humboldt County Website	2003.0	2.0
+36210	http://cpe.state.nv.us	Postsecondary Education, Commission on	2001.0	2.0
+36211	http://www.cityofhenderson.com/	City of Henderson	1998.0	912.0
+36212	http://www.nevadadot.com/about_ndot/ndot_divisions/engineering/location/location_division.aspx	Location Division	2011.0	7.0
+36214	http://www.westwendovercity.com/	City of West Wendover	2000.0	138.0
+36215	http://nvdetr.org/idp.htm	Information Development and Processing Division	2008.0	36.0
+36216	http://cityofsparks.us	City of Sparks	2004.0	2575.0
+36218	http://lpg.nv.gov	Liquefied Petroleum Gas, Nevada Board for the Regulation of	2002.0	2.0
+36219	http://dcnr.nv.gov/conservation-district-program/	Conservation Districts Program	2011.0	6.0
+36221	http://nvdetr.org/researchandanalysis.htm	Research and Analysis Bureau	2007.0	36.0
+36222	http://www.virginiacity-nv.org	Virginia City	1999.0	638.0
+36223	http://www.bcnv.org/	Boulder City	2000.0	305.0
+36224	http://npp.dps.nv.gov/	Parole and Probation	2012.0	45.0
+36225	http://www.pahrumpnv.org	Pahrump (Town of)	2000.0	205.0
+36226	http://leg.state.nv.us/division/research/	Research Division	2010.0	172.0
+36228	http://www.doe.nv.gov/	Education, Department of	2004.0	316.0
+36229	http://www.dmvnv.com/nvreg.htm	Vehicle Registration	2002.0	167.0
+36230	http://nvdetr.org/rehab%20pages/rehab%20council.htm	Rehabilitation Council, Nevada State	2008.0	19.0
+36231	http://minerals.state.nv.us/	Minerals	2000.0	42.0
+36232	http://www.nvpers.org/	Public Employees' Retirement System of Nevada	1998.0	236.0
+36233	http://www.ci.elko.nv.us/	City of Elko	2001.0	22.0
+36234	http://www.diversifynevada.com/divisions/rural_community_development_cdbg	Rural Community Development Division	2010.0	2.0
+36235	http://www.doe.nv.gov/commission_educational_technology/	Educational Technology, Commission on	2013.0	2.0
+36236	http://www.lvccld.org	Las Vegas-Clark County Library District	2000.0	244.0
+36237	http://www.doe.nv.gov/information_technology/	Information Technology	2013.0	2.0
+36238	http://nvsos.gov/sosentitysearch/corpsearch.aspx	Business Entity Search	2009.0	3.0
+36240	http://nevadajudiciary.us/index.php/administrativeofficesofthecourt	Administrataive Office of the Courts Overview	2009.0	1330.0
+36241	http://www.nevadaworkforce.com/	Workforce Informer, Nevada	2003.0	384.0
+36242	http://www.dmvnv.com/ced.htm	Compliance Enforcement Division	2010.0	173.0
+36243	http://nvdetr.org/worforce_investment_pages/workforceinvestment.htm	Workforce Investment System, Nevada's	2007.0	18.0
+36244	http://nvohv.com/	Off-Highway Vehicles, Nevada Commission on	2012.0	46.0
+36245	http://iaudits.nv.gov/	Internal Audits	2013.0	26.0
+36246	http://naiw.nv.gov/	Injured Workers, Attorney for	2003.0	16.0
+36247	http://agri.nv.gov/food/foodnutrition_home/	Food and Nutrition Division	2013.0	3.0
+36248	http://leg.state.nv.us/division/lcb/commission.cfm	Legislative Commission	2010.0	7.0
+36249	http://www.dri.edu/ctrec	Clean Technologies and Renewable Energy Center (Renewable Energy)	2010.0	1844.0
+36250	http://www.nevadajudiciary.us/index.php/administrativeofficesofthecourt	Administrative Office	2009.0	1160.0
+36251	http://www.wellsnevada.com/wellscity.shtml	City of Wells	2011.0	2.0
+36254	http://www.nevadadot.com/doing_business/permits/occupancy_permits.aspx	Permanent Encroachment/Right-of-Way	2011.0	7.0
+36255	http://dem.nv.gov/	Homeland Security, Nevada (See Emergency Management)	2012.0	172.0
+36256	http://gaming.nv.gov/index.aspx?page=46	Enforcement Division	2012.0	594.0
+36257	http://gaming.nv.gov/index.aspx?page=47	Investigations Division	2012.0	594.0
+36258	http://gaming.nv.gov/index.aspx?page=44	Administration	2012.0	587.0
+36259	http://gaming.nv.gov/index.aspx?page=45	Audit Division	2012.0	572.0
+36260	http://gaming.nv.gov/index.aspx?page=48	Tax and License Division	2012.0	594.0
+36261	http://nac.nevadaculture.org/	Arts Council, Nevada	2010.0	672.0
+36262	http://cteae.nv.gov/	Career and Technical Education	2012.0	171.0
+36263	http://www.washoe.k12.nv.us/sparkshs/	Sparks High School	2001.0	40.0
+36264	http://medboard.nv.gov/	Medical Examiners, State Board of	2002.0	78.0
+36265	http://nvdetr.org/rehab%20pages/rehab.htm	Rehabilitation Division	2008.0	18.0
+36266	http://www.douglascountynv.gov	Douglas County Website	2012.0	943.0
+36267	http://pebp.state.nv.us/	Public Employees Benefit Program	2000.0	89.0
+36268	http://foreclosure.nevadajudiciary.us/	Foreclosure Mediation	2011.0	14.0
+36269	http://www.washoecounty.us	Washoe County Website	2004.0	4335.0
+36270	http://www.nv.ngb.army.mil/nvng/	Military, Office of	2012.0	894.0
+36271	https://dhcfp.nv.gov/index.htm	Health Care Financing and Policy, Division of	2009.0	182.0
+36272	http://www.dmvnv.com/index.htm	Motor Vehicles, Department of	2002.0	607.0
+36273	http://www.dri.edu/cerm	Center for Environmental Remediation and Monitoring (Environment)	2009.0	1878.0
+36275	http://www.nevadarangelands.org/	Rangeland Resources Commission	2003.0	56.0
+36276	http://carson.org	City of Carson City	1996.0	3830.0
+36277	http://www.accessesmeralda.com/	Esmeralda County Website	2004.0	113.0
+36281	http://tahoesouth.com/	Lake Tahoe South Shore	2004.0	962.0
+36282	http://www.doc.nv.gov/?q=node/73	Prison Commissioners, Board of State	2011.0	465.0
+36283	http://nvprint.state.nv.us/	Printing Division, State	2001.0	8.0
+36284	http://www.nvrehs.org/	Registered Evironmental Health Specialists	2003.0	33.0
+36285	http://travelnevada.com/	Commission on Tourism	1996.0	1044.0
+36286	http://schools.dcsd.k12.nv.us/dhs/	Douglas High School	2009.0	45.0
+36287	http://boxing.nv.gov/	Athletic Commission	2002.0	56.0
+36288	http://fire.nv.gov	Fire Marshal Division, State	2012.0	52.0
+36290	http://tax.nv.gov/	Taxation, Department of	2013.0	151.0
+36292	http://www.nevadajudiciary.us/index.php/judicialcouncil	Judicial Council of the State of Nevada	2010.0	1123.0
+36294	http://supreme.nvcourts.gov/Find_a_Court/District_Courts/	District Courts	2014.0	12.0
+36295	http://supreme.nvcourts.gov/Find_a_Court/Justice_Courts/	Justice Courts	2014.0	12.0
+36296	https://my.unlv.nevada.edu/psp/lvporprd/?cmd=login&errorPg=ckreq&languageCd=ENG	Class Schedules	0.0	26.0
+36297	http://marriage.nv.gov/	Marriage and Family Therapists and Clinical Professional Counselors, The Board of  Examiners for	2013.0	64.0
+36298	http://nvdetr.org/esd.htm	Employment Security Division	2008.0	192.0
+36299	http://www.fhs.lyon.k12.nv.us/	Fernley High School	2001.0	15.0
+36302	http://www.unr.edu/	University of Nevada Reno	1996.0	5958.0
+36303	http://leg.state.nv.us/division/lcb/	Legislative Counsel Bureau	2010.0	12.0
+36304	http://www.nvcontractorsboard.com/	Contractors Board, State	2006.0	121.0
+36305	http://www.nevadadot.com/about_ndot/ndot_divisions/operations/maintenance/maintenance_and_asset_management.aspx	Maintenance and Asset Management Division	2013.0	3.0
+36306	http://www.doe.nv.gov/title_i_committee_practitioners/	Title I Committee of Practitioners	2013.0	2.0
+36307	http://supreme.nvcourts.gov/	Supreme Court	2013.0	551.0
+36308	http://leg.state.nv.us/	State Legislature	1997.0	17018.0
+36309	https://dwss.nv.gov/	Welfare and Supportive Services, Division of	2008.0	78.0
+36310	http://voc.nv.gov/	Victims of Crime	2007.0	31.0
+36311	http://www.washoecounty.us/library/	Washoe County Library System	2009.0	140.0
+36313	http://www.diversifynevada.com/divisions/site_selectors	Site Selectors	2010.0	2.0
+36317	http://www.ccsdde.net/	Virtual High School	2002.0	74.0
+36319	http://www.churchill.k12.nv.us/education/school/school.php?sectionid=2	Churchill County High School	2005.0	3.0
+36320	http://churchillcounty.org	Churchill County Website	2000.0	1279.0
+36321	http://www.winnemuccacity.org/	City of Winnemucca	2002.0	36.0
+36322	http://www.nbmg.unr.edu/geonames/	Geographic Names, Nevada State Board on	2003.0	7.0
+36323	http://www.nevadadot.com/about_ndot/ndot_divisions/engineering/project_management/project_management_division.aspx	Project Management Division	2011.0	3.0
+36324	http://www.sshs.org/	Silver State Charter High School	2005.0	847.0
+36325	http://www.nevadadot.com/about_ndot/ndot_divisions/operations/materials/materials.aspx	Materials Section	2013.0	8.0
+36326	http://nvsos.gov/index.aspx?page=315	Sports Agents	2010.0	1751.0
+36327	http://gov.nv.gov	Governor, Office of the	2010.0	1112.0
+36328	http://water.nv.gov/	Water Resources, Division of	2002.0	397.0
+36329	http://www.paloverde.org/	Palo Verde High School	2001.0	8.0
+36331	http://health.nv.gov/pc.htm	Prostate Cancer Task Force (Health Division)	2009.0	176.0
+36332	http://agri.nv.gov/resource_protection/	Nevada Wildlife Servces	2012.0	13.0
+36333	http://www2.gbcnv.edu/schedule/	Class Schedules	2005.0	2.0
+36334	http://www.cityoffernley.org/	Fernley	2006.0	1143.0
+36335	http://nvdemography.org/	Demographer, State	2011.0	26.0
+36336	http://ag.nv.gov/	Attorney General, Office of the	2012.0	477.0
+36338	http://www.nevadadot.com/traveler_info/safety/roadway_safety.aspx	Roadway Safety	2011.0	21.0
+36340	http://southernnevadahealthdistrict.org/	Southern Nevada Health District	2006.0	1562.0
+36341	http://www.csn.edu/admissions/index.asp	Admissions	2007.0	7.0
+36342	http://go.unlv.edu/	University of Nevada Las Vegas	2010.0	3326.0
+36343	http://dhhs.nv.gov/publicdefender.htm	Public Defender, Office of the State	2007.0	2.0
+36344	http://www.tmcc.edu/	Truckee Meadows Community College	1997.0	2323.0
+36346	http://agri.nv.gov/administration/administration/adminservices_home/	Administration Division	2012.0	3.0
+36347	http://nvsos.gov/index.aspx?page=419	State Business License	2010.0	2342.0
+36348	https://nevadatreasurer.gov/unclaimedproperty.htm	Unclaimed Property	2007.0	2.0
+36349	http://nhp.nv.gov/	Highway Patrol, Nevada	2004.0	37.0
+36350	http://adminsvcs.nv.gov/	Administrative Services	2013.0	10.0
+36351	http://www.mypubliclibrary.com/catalog/	Malcolm Branch Library	0.0	98.0
+36352	http://ndep.nv.gov/index.htm	Environmental Protection, Division of	2003.0	513.0
+36353	http://supreme.nvcourts.gov/Supreme/Court_Information/Office_of_the_Clerk/	Supreme Court, Clerk of the	2013.0	2.0
+36354	http://www.dri.edu/dhs	Hydrologic Sciences (Water), Division of	2002.0	1943.0
+36355	http://parole.nv.gov/	Parole Commissioners, Nevada Board of	2003.0	65.0
+36357	http://www.nevadadot.com/about_ndot/ndot_divisions/operations/	Operations	2011.0	17.0
+36358	http://www.lincolncountynv.org/	Lincoln County Website	2008.0	313.0
+36359	http://www.dri.edu/das	Atmospheric Sciences (AIR), Division of	2000.0	1197.0
+36360	http://www.tmcc.edu/admissions/	Admissions	1998.0	26.0
+36362	http://www.cityofnorthlasvegas.com/	City of North Las Vegas	1999.0	559.0
+36363	http://risk.nv.gov/	Risk Management	2013.0	73.0
+36364	http://www.gbcnv.edu/	Great Basin College	2000.0	384.0
+36368	http://alcohol.nv.gov/	Alcohol, Drug and Gambling Counselors; Nevada State Board of Examiners	2013.0	42.0
+36369	http://detr.state.nv.us/publicminutes_displacedhomemakersboard.htm	Displaced Homemakers, Board on the Education & Counseling of	2011.0	53.0
+36371	http://optometry.nv.gov	Optometry, State Board of	2003.0	20.0
+36372	http://nsbla.state.nv.us/	Landscape Architecture, Nevada State Board	2001.0	23.0
+36374	http://agri.nv.gov/animals/livestock/home__livestock_id/	Junior Livestock Show Board, Nevada	2012.0	3.0
+36375	http://pershingcounty.net	Pershing County Website	2003.0	2474.0
+36376	http://dhhs.nv.gov/cha.htm	Consumer Health Assistance	2011.0	20.0
+36377	http://cosmetology.nv.gov	Cosmetology, State Board of	2002.0	72.0
+36381	http://system.nevada.edu/nshe/index.cfm/administration/state-of-nevada-western-interstate-commission-for-higher-education/	WICHE	2012.0	24.0
+36382	http://www.resources.ca.gov/tahoefirecommission/	California-Nevada Tahoe Basin Fire	2007.0	0.0
+36384	http://www.tonopahnevada.com	Tonopah	2000.0	32.0
+36385	http://www.nevadadot.com/about_ndot/ndot_divisions/engineering/design/design_division.aspx	Design Division	2011.0	10.0
+36386	http://www.lasvegasnevada.gov/	City of Las Vegas	2003.0	141.0
+36387	http://www.nevadadot.com/about_ndot/ndot_divisions/engineering/structures/structures_manual.aspx	Structures Division	2011.0	4.0
+36388	http://www.nevadadot.com/business/	Administrative Services	2001.0	2.0
+36389	http://www.unr.edu/academic-central/academic-resources/schedules-and-catalogs	Class Schedules	2011.0	19.0
+36390	http://barber.state.nv.us/	Barbers Health and Sanitation Board, State	2001.0	11.0
+36391	http://www.nevadadot.com/about_ndot/ndot_divisions/planning/roadway_systems/roadway.aspx	Roadway Systems Division	2013.0	30.0
+36392	http://ltgov.nv.gov/	Lieutenant Governor, Office of the	2007.0	8.0
+36394	http://www2.gbcnv.edu/admissions/	Admissions	2005.0	25.0
+36395	http://energy.nv.gov/	Renewable Energy and Energy Efficiency Authority, Nevada	2010.0	63.0
+36397	http://www.doc.nv.gov/	Corrections, Department of	2004.0	465.0
+36398	http://www.diversifynevada.com/divisions/procurement_outreach	Procurement Outreach, Nevada	2010.0	2.0
+36399	http://www.nic.nv.gov/	Indian Commission	2009.0	26.0
+36402	http://www.state.nv.us/nucwaste/	Nuclear Projects, Agency for	1997.0	2003.0
+36403	http://dhhs.nv.gov	Health and Human Services, Department of	2007.0	140.0
+36404	http://recovery.nv.gov/	Recovery - Nevada Information Related to the ARRA of 2009	2010.0	35.0
+36405	http://www.greenvalleyhs.org/	Green Valley High School	1998.0	6.0
+36406	http://agri.nv.gov	Agriculture, State Department of	2002.0	572.0
+36407	http://landercountynv.org/communities-profiles/battle-mountain-community	Battle Mountain	2011.0	8.0
+36408	http://post.nv.gov/	Peace Officer Standards and Training Commission	2012.0	75.0
+36409	http://www.douglascountynv.gov/index.aspx?NID=93	Lake Tahoe Branch Library	2012.0	2.0
+36410	http://www.diversifynevada.com/divisions/relocation_expansion_assistance	Relocation and Expansion Assistance	2010.0	2.0
+36411	http://lawlibrary.nevadajudiciary.us/	Law Library, Nevada Supreme Court	2009.0	29.0
+36413	http://www.nevadadot.com/traveler_info/traveler_information.aspx	Traveler's Information	2011.0	94.0
+36414	http://www.dmvnv.com/onlineservices.htm	Online Services	2002.0	217.0
+36415	http://budget.nv.gov	Budget Division	2012.0	70.0
+36416	http://nvmas.glsuite.us/glsuiteweb/clients/nvmas/public/home.aspx	Massage Therapists, Nevada State Board of	2012.0	21.0
+36417	http://ethics.nv.gov/	Ethics, Commission on	2005.0	45.0
+36418	http://mhds.nv.gov/index.php?option=com_content&view=article&id=40&itemid=21	Mental Health and Developmental Services, Commission on	0.0	0.0
+36419	http://bop.nv.gov/	Pharmacy, State Board of	2006.0	82.0
+36424	http://leg.state.nv.us/interim/75th2009/committee/nonleg/silver/?id=2	Silver Haired legislative Forum, Nevada	2010.0	1.0
+36425	http://www.dmvnv.com/admin.htm	Administrative Services Division	2002.0	215.0
+36427	http://www.washoe.k12.nv.us/galena/	Galena High School	2003.0	38.0
+36428	http://www.nevadadot.com/content.aspx?id=5820&terms=construction%20division	Construction Division	0.0	434.0
+36429	http://nevadavolunteers.org	Nevada Volunteers	2008.0	423.0
+36430	http://agri.nv.gov/animals/animal_home/	Animal Industry	2012.0	3.0
+36431	http://www.nvcontractorsboard.com/edu_comm_main.html	Construction Education, Commission on	2010.0	118.0
+36432	http://beltca.nv.gov/	Long Term Care Administrators, Nevada	2013.0	24.0
+36433	http://www.co.eureka.nv.us/	Eureka County Website	2001.0	54.0
+36435	http://reno.gov	City of Reno	1996.0	2037.0
+36438	http://www.clan.lib.nv.us/polpac/library/clan/hcl/humtest.htm	Mcdermitt Branch Library	2001.0	6.0
+36440	http://www.nevadadot.com/about_ndot/ndot_divisions/engineering/environmental_services/environmental_services_division.aspx	Environmental Services Division	2011.0	8.0
+36443	http://www.unlv.edu/admissions	Admissions	1998.0	2731.0
+36444	http://agri.nv.gov/administration/board_of_agriculture/boa-home/	Agriculture, Board of	2012.0	3.0
+36445	http://schools.dcsd.k12.nv.us/gwhs/	George Whittell High School	2009.0	16.0
+36446	http://tsa.nv.gov/	Transportation Authority, Nevada	2004.0	50.0
+36447	http://www.washoe.k12.nv.us/damonte/	Damonte Ranch High School	2003.0	37.0
+36448	http://www.doe.nv.gov/council_establish_academic_standards/	Academic Standards, Council to Establish	2013.0	2.0
+36449	http://heritage.nv.gov/	Natural Heritage Program	2002.0	1117.0
+36450	http://mld.nv.gov	Mortgage Lending Division	2003.0	1106.0
+36451	http://www.nevadajobconnect.com/	JobConnect, Nevada	2002.0	16.0
+36452	http://museums.nevadaculture.org/index.php?option=com_content&view=article&id=1273&itemid=379	Museums and History, Board of	0.0	1509.0
+36453	http://www.clan.lib.nv.us/polaris/	Churchill County Library	2002.0	1812.0
+36454	http://www.elycity.com	Ely	0.0	28.0
+36455	http://housing.nv.gov/	Housing Division	2013.0	73.0
+36456	http://firstlady.nv.gov	First Lady	2011.0	8.0
+36457	http://www.diversifynevada.com/divisions/nevada_film_office	Film Office, Nevada	2010.0	2.0
+36458	http://id.dps.nv.gov/	Investigations Division	2012.0	18.0
+36459	https://nevadatreasurer.gov/pooledcollateral.htm	Collateral Pool	2007.0	0.0
+36460	http://www.dri.edu/cwes	Center for Watersheds and Environmental Sustainability (Watersheds)	2009.0	1878.0
+36461	http://www.pahrumplibrary.com	Pahrump Community Library	2001.0	26.0
+36462	http://www.diversifynevada.com/divisions/global_business_development	Global Business Development	2010.0	2.0
+36463	http://mhd.nv.gov	Manufactured Housing	2013.0	100.0
+36464	http://pardons.nv.gov/	Pardons Commissioners, Nevada Board of	2006.0	465.0
+36465	http://forestry.nv.gov	Forestry, Division of	2002.0	289.0
+36466	http://www.nsc.nevada.edu/admissions.asp	Admissions	2009.0	768.0
+36468	https://www.nvprepaid.gov/	Prepaid Tuition	2012.0	2.0
+36470	http://www.washoe.k12.nv.us/reed/	Edward C. Reed High School	2002.0	36.0
+36472	http://coronadocougars.net/	Coronado High School	2005.0	315.0
+36473	http://www.unr.edu/admissions	Admissions	2005.0	5869.0
+36474	http://hearings.nv.gov/	Hearings and Appeals	2013.0	27.0
+36475	http://pebp.state.nv.us/board_meeting.htm	Public Employees Benefit Program, Board of	2011.0	86.0
+36476	http://www.dcfs.state.nv.us	Child and Family Services, Division of	2001.0	2.0
+36477	http://ots.state.nv.us/	Traffic Safety, Office of	2001.0	26.0
+36478	http://agri.nv.gov/plant/seed_certification/alfalfa_seed_board/alfalfa_seed_advisory_board/	Alfalfa Seed Advisory Board	2013.0	4.0
+36480	http://fid.state.nv.us/	Financial Institutions Division	2001.0	5.0
+36481	http://red.state.nv.us/appraisal/ap_commission.htm	Appraisal Commission	2006.0	6.0
+36482	http://www.nvot.org/	Occupational Therapy Board	2000.0	50.0
+36483	https://www.nvvetboard.us/glsuiteweb/clients/nvbov/public/default.aspx	Veterinary Medical Examiners, State Board	2011.0	19.0
+36485	http://aging.state.nv.us/index.htm	Aging and Disability Services Division	2002.0	30.0
+36486	http://www.diversifynevada.com/	Economic Development, Commission on	2010.0	269.0
+36488	http://www.whitepinecounty.net	White Pine County Website	2001.0	360.0
+36489	http://taxi.nv.gov	Taxicab Authority	2012.0	63.0
+36490	http://exchange.nv.gov/	Silver State Health Insurance Exchange	2012.0	276.0
+36491	https://nevadatreasurer.gov/ncic.htm	Nevada Capital Investment Corporation (NCIC)	2012.0	2.0
+36492	http://capitolpolice.nv.gov/	Capitol Police Division	2012.0	25.0
+36493	http://www.doe.nv.gov/special_ed_advisory_committee/	Special Education Advisory Committee (SEAC)	2013.0	2.0
+36494	http://www.nvaud-sp.org/	Audiology and Speech Pathology, Board of Examiners for	2012.0	12.0
+36495	http://nvpac.nv.gov/	Prosecuting Attorneys, Nevada Advisory	2013.0	74.0
+36496	http://www.cityoflovelock.com/	City of Lovelock	2003.0	78.0
+36497	http://agri.nv.gov/protection/measurement_standards/	Measurement Standards	2012.0	3.0
+36500	http://www.mineralcountynv.org/	Mineral County Website	2011.0	833.0
+36501	http://nvdetr.org/worforce_investment_pages/vets_performance_incentives_awards.htm	DETR Veterans Employment and Training Service Performance and Incentives Award Program	2008.0	14.0
+36503	http://gaming.nv.gov/index.aspx?page=3	Gaming Commission, Nevada and State Gaming Control Board	2012.0	585.0
+36511	http://www.washoecounty.us/health/	Washoe County District Health Department	2005.0	351.0
+36512	http://opr.dps.nv.gov/	Professional Responsibility, Office of	2012.0	11.0
+36513	http://www.storeycounty.org	Storey County Website	2005.0	303.0
+36514	http://leg.state.nv.us/division/fiscal/	Fiscal Analysis Division	2010.0	30.0
+36517	http://nevadamagazine.com	Nevada Magazine	1998.0	1018.0
+36518	http://red.state.nv.us/cic/commission_info.htm	Common-Interest Communities and Condominium Hotels, Commission for	2011.0	16.0
+36519	http://ptboard.nv.gov/	Physical Therapy Examiners, State Board	2003.0	41.0
+36520	http://mvhs.moapavalleyschools.org/	Moapa Valley High School	2008.0	0.0
+36521	http://dem.nv.gov/homeland_security/hs_commission/	Homeland Security Commission, Nevada	2012.0	4.0
+36522	http://health.nv.gov	Health Division	2007.0	211.0
+36523	http://www.earlycollegenv.com/	Nevada State High School	2004.0	105.0
+36524	http://grant.nv.gov	Grant Office	2012.0	28.0
+36525	http://dcnr.nv.gov/	Conservation & Natural Resources, Department of	2002.0	763.0
+36526	http://psyexam.nv.gov/	Psychological Examiners Board	2013.0	45.0
+36528	http://ocj.nv.gov/	Criminal Justice Assistance, Office of	2004.0	45.0
+36529	https://nevadatreasurer.gov/debtmanagement.htm	Debt Management Division	2010.0	2.0
+36530	http://www.doe.nv.gov/special_education/	Educational Opportunity, Office of	2013.0	16.0
+36531	http://hearingaidboard.nv.gov/	Hearing Aid Specialists, Nevada State Board of	2005.0	15.0
+36532	http://www.niaa.com/landing/index	Interscholastic Activities Association, Nevada	2011.0	5.0
+36535	http://nv.diversifynevada.com/divisions/office_of_diplomatic_relations_and_protocol/	Diplomatic Relations and Protocol, Office of	2012.0	3.0
+36536	http://www.dri.edu/	Desert Research Institute	1997.0	1733.0
+36537	http://doi.nv.gov/	Insurance Division	2010.0	278.0
+36539	http://www.schoolreviewsflorida.com/404r.aspx	Foothill High School	2011.0	1.0
+36540	http://nvsos.gov/index.aspx?page=7	Online Services	2009.0	1236.0
+36541	http://leg.state.nv.us/division/lcb/interim.cfm	Interim Finance Committee	2010.0	7.0
+36543	http://www.nevadadot.com/about_ndot/ndot_divisions/operations/materials/geotechnical/geotechnical_section.aspx	Geotechnical Section	2011.0	4.0
+36544	https://nevadatreasurer.gov/collegesavings.htm	College Savings Plans, Nevada's	2009.0	2.0
+36545	http://www.amargosalibrary.com	Amargosa Valley Library District	2008.0	8.0
+36546	http://spwb.state.nv.us/	Public Works Board	2001.0	6.0
+36547	http://nvsos.gov/index.aspx?page=3	Voter Registration	2009.0	1473.0
+36548	http://parks.nv.gov/	State Parks, Division of	2002.0	575.0
+36549	http://nvsos.gov/index.aspx?page=6	Securities Center	2009.0	1220.0
+36550	http://nvsos.gov/index.aspx?page=5	Licensing Center	2009.0	1228.0
+36551	http://nvsos.gov/index.aspx?page=4	Business Center	2009.0	1226.0

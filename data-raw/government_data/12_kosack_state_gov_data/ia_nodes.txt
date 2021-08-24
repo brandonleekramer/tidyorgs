@@ -1,0 +1,542 @@
+NodeId	NodeURL	NodeName	Year	pages
+21931	http://eastunionschools.org	East Union Middle-High School	2010.0	1.0
+21932	http://www.councilbluffs-ia.gov/	Council Bluffs	2003.0	608.0
+21933	http://manillaia.com/	Manilla	2000.0	38.0
+21935	http://www.marionpubliclibrary.org	Marion Public Library	2008.0	1585.0
+21937	http://www.swcciowa.edu/	Southwestern Community College	2004.0	937.0
+21938	http://www.icgov.org/	Iowa City	2001.0	1232.0
+21939	http://www.fmtabor.org/	Fremont-Mills Middle And Senior High School	2010.0	465.0
+21940	http://www.waterloo.k12.ia.us/	Expo Alternative Learning Center	1998.0	1866.0
+21942	http://sblschools.com	Sergeant Bluff-Luton Senior High School	2011.0	73.0
+21945	http://nlcsd.org	New London Jr-Sr High School	2011.0	4.0
+21946	http://www.belleplaine.lib.ia.us	Belle Plaine Community Library	2007.0	1021.0
+21949	http://www.ialottery.com/default1.asp	IOWA LOTTERY AUTHORITY	2007.0	807.0
+21951	http://www.iowaschoolforthedeaf.org/	IOWA School for the Deaf	2007.0	38.0
+21952	http://www.oskaloosaiowa.org/	Oskaloosa	2001.0	321.0
+21953	http://www.hornmemorialhospital.org/getpage.php?name=index	Horn Memorial Hospital	2011.0	221.0
+21954	http://sheldon.k12.ia.us	Sheldon School District	1997.0	106.0
+21958	http://mail.ms.maquoketa.k12.ia.us	Maquoketa Community High School	0.0	147.0
+21959	http://www.state.ia.us/ibpe/	PHARMACY BOARD	2000.0	73.0
+21960	http://www.slaterlibrary.org	Slater Public Library	2006.0	29.0
+21961	http://www.iowaeconomicdevelopment.com/	IOWA ECONOMIC DEVELOPMENT AUTHORITY	2013.0	249.0
+21965	http://www.dom.state.ia.us/	MANAGEMENT, DEPARTMENT OF	2002.0	81.0
+21967	http://www.indianhills.edu/	Indian Hills Community College	2005.0	246.0
+21968	http://www.das.iowa.gov/	ADMINISTRATIVE SERVICES DEPARTMENT OF	2003.0	18.0
+21969	http://indianola.k12.ia.us	Whittier Elementary School	2000.0	402.0
+21970	http://moc-fv.k12.ia.us	MOC-Floyd Valley School District	1998.0	909.0
+21971	http://www.bloomfield.lib.ia.us	Bloomfield Public Library	2008.0	104.0
+21972	http://rolfeiowa.com/	Rolfe	2002.0	2091.0
+21973	http://dia.iowa.gov/page17.html	EMPLOYMENT APPEAL BOARD	2008.0	31.0
+21974	http://www.postville.k12.ia.us/	Cora B Darling Elementary/Middle School	1998.0	416.0
+21975	http://mstm.us	Martensdale-St Marys Jr-Sr High School	2009.0	130.0
+21978	http://wiltoncsd.org	Wilton Jr-Sr High School	2004.0	50.0
+21980	http://www.ci.davenport.ia.us/	Davenport	1998.0	1470.0
+21981	https://www.waukeeschools.org/	Waukee Senior High School	2011.0	964.0
+21982	http://www.greenbelthomecare.com	Greenbelt Home Care	2001.0	38.0
+21986	http://www.iowaworkforce.org/	Iowa Workforce Development	1999.0	1406.0
+21987	http://www.lisboniowa.com/	Lisbon	1998.0	8.0
+21988	http://ivh.iowa.gov/	Iowa Veterans Home	2007.0	170.0
+21990	http://commerce.iowa.gov/	COMMERCE, DEPARTMENT OF	2012.0	3.0
+21991	http://www.winneshiekhealth.org	Winneshiek County Public Health Nursing Service	2006.0	12.0
+21992	http://stantonschools.com	Stanton Elementary School	2005.0	308.0
+21993	http://www.netwtc.net/~wplstaff/	Wilton Public Library	2008.0	1.0
+21994	http://www.iowa-valley.k12.ia.us/	Iowa Valley Jr-Sr High School	1998.0	36.0
+21995	http://www.iowaeconomicdevelopment.com/BusinessDev/WorkforceTraining	IDED: Iowa The SmartCareer Move	2013.0	10.0
+21996	http://www.dhs.state.ia.us/	Department of Human Services	1998.0	939.0
+21997	http://www.newtongov.org/	Newton	2001.0	699.0
+21998	http://www.state.ia.us/government/dia/index.html	Department of Inspections and Appeals	1996.0	27.0
+21999	http://www.ottumwaschools.com/index.cfm	Horace Mann Elementary School	2008.0	2217.0
+22000	http://www.comm1net.net/~corlib/	Corwith Public Library	2011.0	2.0
+22002	http://www.ci.humboldt.ia.us/	Humboldt	2000.0	40.0
+22004	http://www.iowa.gov/ethics/	ETHICS AND CAMPAIGN DISCLOSURE BOARD	2006.0	622.0
+22005	http://www.atlantic.lib.ia.us	Atlantic Public Library	2001.0	24.0
+22008	http://www.sicog.com/	Southern Iowa Council of Governments	2001.0	113.0
+22010	http://www.doc.state.ia.us/	CORRECTIONS, DEPARTMENT OF	2000.0	41.0
+22012	http://www.indianolaiowa.gov/departments/library.aspx	Indianola Public Library	2011.0	508.0
+22013	http://www.oskaloosa.k12.ia.us/	Oskaloosa Elementary School	2000.0	341.0
+22015	http://www.underwoodia.com/	Underwood	2001.0	56.0
+22016	http://ruthven.k12.ia.us	Ruthven-Ayrshire Elementary School	1998.0	166.0
+22017	http://showcase.netins.net/web/wregiememlib/	Wregie Memorial Library	2000.0	0.0
+22019	http://cbcsd.org	Lewis & Clark Elementary School	2001.0	1005.0
+22022	http://www.griswoldschools.org/	Griswold Middle/High School	2010.0	22.0
+22024	http://www.iowa-braille.k12.ia.us/	IOWA Braille K12	1998.0	602.0
+22025	http://www.mapleton.com/	Mapleton	1998.0	27.0
+22027	http://www.butlercoiowa.org	Butler County Public Health	2001.0	252.0
+22030	http://www.siouxcitylibrary.org	Sioux City Public Library	2001.0	300.0
+22031	http://www.iowanationalguard.com/SitePages/Index.aspx	NATIONAL GUARD OF IOWA	2013.0	3.0
+22033	http://algona.k12.ia.us	Bertha Godfrey Elementary School	1998.0	29.0
+22034	http://central.k12.ia.us	Central Community Jr-Sr High School	2002.0	16.0
+22038	http://www.swilsa.lib.ia.us/	Southwest Iowa Library Service Area	2001.0	5.0
+22040	http://dpd.iowa.gov/	PUBLIC DEFENSE MILITARY DIVISION	2012.0	10.0
+22041	http://www.earlhampubliclibrary.com	Earlham Public Library	2004.0	1.0
+22042	https://www.legis.iowa.gov/	SENATE	2014.0	5639.0
+22043	http://www.cityofottumwa.org/	Ottumwa	2007.0	2.0
+22044	http://www.windsorheights.org/	Windsor Heights	2002.0	203.0
+22045	http://clermontia.org/	Clermont	2001.0	120.0
+22047	http://www.wacocsd.org/	Waco Elementary School	2011.0	1213.0
+22051	http://www.polkcitylibrary.org	Polk City Community Library	2001.0	1976.0
+22052	http://ballard.k12.ia.us	Ballard Community Senior High School	1998.0	181.0
+22053	http://www.mondamin.swilsa.lib.ia.us	Mondamin Public Library	2004.0	14.0
+22055	http://bettendorf.k12.ia.us	Thomas Jefferson Elementary School	0.0	1193.0
+22057	http://newvirginialibrary.org	New Virginia Public Library	2007.0	11.0
+22060	http://masoncityschools.org	Jefferson Elementary School	2000.0	408.0
+22062	http://www.leecounty.org/	Lee	1998.0	101.0
+22063	http://www.lakepark.lib.ia.us	Lake Park Public Library	2007.0	1.0
+22064	https://sites.google.com/a/north-cedarstu.org/nccsd/	North Cedar School District	2013.0	6.0
+22065	http://west-branch.k12.ia.us	West Branch School District	1999.0	461.0
+22069	http://www.johnson-county.com/	Johnson	2001.0	1133.0
+22071	http://www.bettendorflibrary.com	Bettendorf Public Library Information Center	2001.0	1831.0
+22072	http://www.harrisoncountyia.org/	Harrison	2001.0	21.0
+22074	http://www.crawfordcountyhealth.com	Crawford County Home Health	2006.0	44.0
+22076	http://www.stanton.swilsa.lib.ia.us	Stanton Public Library	2004.0	25.0
+22078	http://www.co.clay.ia.us/	Clay	2001.0	129.0
+22081	http://www.wrightcounty.org/	Wright	2001.0	122.0
+22082	http://www.co.muscatine.ia.us/	Muscatine	2001.0	33.0
+22085	http://www.iowa.gov/tax/	Department of Revenue and Finance	2006.0	402.0
+22086	http://www.fortmadison-ia.com/index.aspx?nid=269	Fort Madison Public Library	2013.0	572.0
+22087	http://www.wapsievalleyschools.com/	Wapsie Valley School District	2005.0	5993.0
+22088	http://iowafinanceauthority.gov/	Iowa Finance Authority	2006.0	527.0
+22091	https://creditunions.iowa.gov/iacudiv/	CREDIT UNION DIVISION, DEPARTMENT OF COMMERCE	2012.0	39.0
+22093	http://se-warren.k12.ia.us	Southeast Warren Jr-Sr High School	2001.0	4941.0
+22095	http://www.burlingtoniowa.org/	Burlington	2001.0	919.0
+22098	http://schleswig.k12.ia.us	Schleswig Elementary School	2000.0	101.0
+22100	http://www.dubuque.lib.ia.us	Carnegie-Stout Public Library	1998.0	168.0
+22101	http://www.westmonona.org/	West Monona School District	2012.0	36.0
+22107	http://decorah.k12.ia.us	Decorah Community School District	1996.0	1025.0
+22108	http://www.state.ia.us/government/crc/index.html	Civil Rights Commission	1997.0	304.0
+22110	http://www.columbuscsd.org/	Columbus Community Junior High School	2011.0	259.0
+22113	http://booneiowa.homestead.com/citygovernment.html	Boone	2001.0	2.0
+22114	http://www.cityofpella.com/index.aspx?nid=190	Pella Public Library	2012.0	722.0
+22115	http://das.ite.iowa.gov/	INFORMATION TECHNOLOGY ENTERPRISE	2003.0	176.0
+22116	http://www.nwood-kensett.k12.ia.us/	Northwood-Kensett Jr-Sr High School	2001.0	293.0
+22118	http://rvwolverines.org/cms/One.aspx	River Valley Junior- Senior High School	2013.0	857.0
+22122	http://www.co.warren.ia.us/	Warren	2000.0	141.0
+22123	http://www.oskaloosalibrary.org	Oskaloosa Public Library	2009.0	15.0
+22125	http://www.iowa.gov/	State of Iowa	2002.0	200.0
+22126	http://allamakee.k12.ia.us	East Campus Elementary School	2000.0	279.0
+22127	http://www.northeast.k12.ia.us/	Northeast Middle-High School	2000.0	773.0
+22128	http://www.cityofclearlake.com	Clear Lake Public Library	2002.0	369.0
+22131	http://corwith-wesley.k12.ia.us	Corwith-Wesley School District	2001.0	1.0
+22137	http://www.co.boone.ia.us/	Boone	2001.0	947.0
+22138	http://cityofjohnston.com/Index.aspx?NID=128	Johnston Public Library	2013.0	1104.0
+22139	http://shencsd.com	Shenandoah Elementary School	2013.0	151.0
+22140	http://www.siouxcenter.org/	Sioux Center	2000.0	614.0
+22141	http://www.storm-lake.k12.ia.us/	St Lake/IA Cntrl/Buena Vista Early College HS	1997.0	507.0
+22142	http://www.co.bremer.ia.us/	Bremer	2001.0	83.0
+22143	http://linnmar.k12.ia.us	Indian Creek Elementary School	1996.0	265.0
+22145	http://www.aldenlibrary.org	Dr. Grace O. Doane Alden Public Library	2008.0	14.0
+22146	http://cityofroland.org/	Roland	2000.0	373.0
+22147	http://www.ipers.org/	IPERS	2002.0	277.0
+22149	http://www.pomeroy.lib.ia.us	Pomeroy Public Library	2008.0	1.0
+22150	http://www.crlibrary.org/	Cedar Rapids Public Library	2001.0	107.0
+22152	http://www.pekincsd.org/	Pekin Community High School	2005.0	434.0
+22153	https://www.iowaaging.gov/	Department of Elder Affairs	2013.0	406.0
+22160	http://www.gcplibrary.com/	Gilmore City Public Library	2000.0	8.0
+22161	http://pleasantville.k12.ia.us	Pleasantville School District	1997.0	1.0
+22163	http://www.claytonridge.k12.ia.us/	Clayton Ridge Elementary School	2001.0	97.0
+22165	http://www.claytoncountyia.gov/	Clayton	2010.0	1243.0
+22166	http://www.perry.k12.ia.us/	Perry School District	1998.0	230.0
+22167	http://garwin.k12.ia.us	GMG Elementary School	1999.0	0.0
+22168	http://www.mitchellville.org/	Mitchellville	2002.0	44.0
+22170	http://www.lawtoniowa.com/	Lawton	2004.0	23.0
+22171	http://www.laurenspubliclibrary.com	Laurens Public Library	2007.0	7.0
+22175	http://ccaschools.org	Clear Creek Amana School District	2011.0	238.0
+22176	http://north-scott.k12.ia.us	Virgil Grissom Elementary School	1998.0	2.0
+22179	http://www.lewis.swilsa.lib.ia.us/	Lewis Public Library	2002.0	12.0
+22180	http://www.grinnelliowa.gov/	Grinnell	2004.0	618.0
+22183	http://www.carroll-library.org	Carroll Public Library	2008.0	28.0
+22186	http://www.southpageschools.com/	South Page Senior High School	2007.0	206.0
+22189	http://www.urbandalelibrary.org	Urbandale Public Library	2001.0	149.0
+22190	http://www.clintoncounty-ia.gov/page/home.aspx	Clinton	2009.0	502.0
+22191	http://www.terracehilliowa.org	TERRACE HILL	2011.0	1.0
+22192	http://www.ci.springville.ia.us/	Springville	2000.0	48.0
+22198	http://www.dhs.iowa.gov/	HUMAN SERVICES DEPARTMENT OF	2007.0	941.0
+22200	http://www.cityofmtvernon-ia.gov/	Mount Vernon	2007.0	574.0
+22201	http://www.co.allamakee.ia.us/	Allamakee	2003.0	50.0
+22202	http://www.madisoncoia.us/	Madison	2003.0	88.0
+22206	http://auditor.iowa.gov/	AUDITOR OF STATE	2005.0	2.0
+22207	http://www.iowadot.gov/index.html#/services	TRANSPORTATION, DEPARTMENT OF	2014.0	2285.0
+22208	http://www.cghealth.com	Cerro Gordo County Department of Public Health	1998.0	1106.0
+22209	http://www.amespubliclibrary.org	Ames Public Library	2001.0	134.0
+22212	http://www.shenandoah.lib.ia.us	Shenandoah Public Library	2001.0	29.0
+22213	http://www.adaircountyhealthsystem.org/home_public_health.html	Adair County Home Care	2011.0	32.0
+22216	http://hartley-ms.k12.ia.us	Hartley-Melvin-Sanborn Elementary School	0.0	660.0
+22217	http://www.nwicc.edu/	Northwest Iowa Community College	2002.0	1422.0
+22218	http://www.state.ia.us/ilea/	IOWA LAW ENFORCEMENT ACADEMY	2000.0	0.0
+22219	http://www.igsb.uiowa.edu/	GEOLOGICAL SURVEY	1997.0	0.0
+22222	http://www.webstercountyia.org	Webster County Health Department	2001.0	892.0
+22225	http://lmcsd.org	Louisa-Muscatine School District	2013.0	433.0
+22227	https://iowaperb.iowa.gov/	PUBLIC EMPLOYMENT RELATIONS BOARD	2005.0	3.0
+22229	http://rockford.k12.ia.us/education/components/scrapbook/default.php?sectionid=3	Rockford Junior-Senior Rockford Senior High	2012.0	3.0
+22232	http://durant.k12.ia.us	Durant Elementary School	0.0	533.0
+22234	http://okoboji.k12.ia.us	Okoboji Elementary School	1999.0	208.0
+22236	http://www.creston.lib.ia.us	Matilda J. Gibson Memorial Library	2004.0	16.0
+22237	http://www.blairstown.lib.ia.us	Blairstown Public Library	2008.0	216.0
+22240	http://lamoni.k12.ia.us	Lamoni Elementary School	1997.0	77.0
+22241	http://home.windstream.net/fayettecity/	Fayette	2013.0	22.0
+22243	http://www.spiritlakepubliclibrary.org	Spirit Lake Public Library	2002.0	0.0
+22246	http://www.iowa.gov/government/crc/	CIVIL RIGHTS COMMISSION	2007.0	1.0
+22247	http://www.ci.marshalltown.ia.us/	Marshalltown	2000.0	489.0
+22251	http://www.leclaireiowa.org/	Le Claire	2001.0	2.0
+22253	http://www.vscsd.org/	Vinton-Shellsburg School District	2012.0	73.0
+22254	http://newell-fonda.k12.ia.us	Newell-Fonda Upper Elem. Elementary	1998.0	224.0
+22255	http://www.lb-eagles.org/	Lawton-Bronson School District	2014.0	119.0
+22256	http://www.visionary.com/	Jefferson-Scranton School District	1996.0	216.0
+22258	http://hintonschool.com	Hinton Elementary School	2001.0	765.0
+22259	http://www.urbandale.org/	Urbandale	1999.0	1828.0
+22260	http://adelpl.org/	Adel Public Library	2005.0	84.0
+22262	http://www.sentralschools.org/	North Union Elementary School - Sentral Campus	2005.0	1.0
+22265	http://www.albertcity.com/	Albert City	2001.0	1.0
+22267	http://www.lshawks.org/	Lynnville-Sully School District	2013.0	120.0
+22268	http://www.neilsa.org/	Northeast Iowa Library Service Area	2001.0	1.0
+22269	http://www.scottcountyiowa.com	Scott County Health Department	2000.0	6270.0
+22271	http://clearlakeschools.org	Clear Lake Middle School School	2007.0	222.0
+22274	http://www.estherville.k12.ia.us/	Estherville Lincoln Central Middle School	1998.0	81.0
+22276	http://www.iowa.gov/government/ag/	ATTORNEY GENERAL	2006.0	167.0
+22279	http://cfschools.org	Helen A Hansen Elementary School	2011.0	286.0
+22280	https://mail.davenport.k12.ia.us/owa/auth/logon.aspx?url=https://mail.davenport.k12.ia.us/owa/&reason=0	Frank L Smart Intermediate	0.0	1.0
+22282	http://venturaschools.org	Ventura Elementary School	2003.0	39.0
+22283	http://gr-rebels.net	Gladbrook-Reinbeck School District	2013.0	1971.0
+22285	http://swinn.k12.ia.us	South Winneshiek Elementary School	2013.0	0.0
+22287	http://www.blind.state.ia.us/	BLIND, DEPARTMENT FOR THE	1998.0	373.0
+22289	http://www.leclaireiowa.gov	Leclaire Community Library	2003.0	8.0
+22290	http://www.marshmed.com/	MMSC Home Care Plus	2013.0	148.0
+22292	http://www.grmc.us	Grinnell Regional Public Health - Home Health	2005.0	292.0
+22294	http://www.wlpl.org	West Liberty Public Library	2000.0	0.0
+22296	http://nashua-iowa.com	Nashua Public Library	2002.0	17.0
+22297	http://www.arthur.lib.ia.us	Arthur Public Library	2007.0	724.0
+22298	http://www.belleplaineiowa.us/	Belle Plaine	2002.0	284.0
+22299	http://www.cal.k12.ia.us/	CAL Community High School	1997.0	420.0
+22300	http://city.waverlyia.com/	Waverly	2003.0	1945.0
+22301	http://www.elyiowa.com/	Ely	2001.0	375.0
+22303	http://e-allamakee.k12.ia.us	Eastern Allamakee School District	2002.0	26.0
+22309	http://www.millscoia.us/	Mills	2002.0	201.0
+22310	http://www.clarinda.k12.ia.us/	Garfield Elementary School	1998.0	1078.0
+22311	http://aplingtonia.com/	Aplington	2000.0	223.0
+22313	https://www.greatiowatreasurehunt.com/	The Great Iowa Treasure Hunt	2003.0	10.0
+22314	http://exira-ehk.k12.ia.us	Elk Horn-Kimballton Elementary School	2012.0	111.0
+22322	http://www.HARMONYCSD.ORG/	Harmony Elementary School	2013.0	1.0
+22323	http://www.davenportlibrary.com	Davenport Public Library	2002.0	276.0
+22324	http://www.scottcountylibrary.org	Scott County Library System	2006.0	137.0
+22325	http://northbutler.k12.ia.us	North Butler Elementary Allison Building	2011.0	165.0
+22326	http://www.co.carroll.ia.us	St. Anthony Home Health Agency & Carroll County Public Health	2001.0	425.0
+22331	http://www.williamsburgiowa.org/	Williamsburg	2001.0	128.0
+22332	http://www.anita.swilsa.lib.ia.us	Anita Public Library	2002.0	1.0
+22335	http://cms.polkcountyiowa.gov/health/	Polk County Health Department	2013.0	1094.0
+22336	http://www.blakesburg.lib.ia.us	Blakesburg Public Library	2013.0	103.0
+22337	http://lakeview-ia.com/	Lake View	2001.0	7.0
+22339	http://www.calmaria.com	Calmar Public Library	2001.0	174.0
+22340	http://www.evansdale.govoffice.com/	Evansdale	2002.0	232.0
+22344	http://www.ci.algona.ia.us/	Algona	2001.0	344.0
+22347	http://ifacadets.net	Iowa Falls - Alden High School	2011.0	135.0
+22349	http://www.freewebs.com/agencylib/	Agency Public Library	2012.0	0.0
+22350	http://sos.iowa.gov/	Secretary of State	2011.0	613.0
+22351	http://www.lyoncountyiowa.com	Health Services of Lyon County	2004.0	41.0
+22353	http://www.harlan.lib.ia.us/	Harlan Community Library	2000.0	2403.0
+22364	http://www.sigourneyschools.com/	Sigourney School District	2007.0	165.0
+22367	http://walnutschools.org/	Walnut Middle School	2011.0	28.0
+22368	http://akron-westfield.com	Akron Westfield School District	2013.0	92.0
+22371	http://www.state.ia.us/iub/	UTILITIES DIVISION DEPARTMENT OF COMMERCE	2000.0	7.0
+22372	http://dcmustangs.com	Davis County Community High School	2005.0	19.0
+22373	http://www.ashton.lib.ia.us	Ashton Public Library	0.0	106.0
+22380	http://www.starmont.k12.ia.us/	Starmont Middle School Comm School District	2001.0	187.0
+22381	http://spencerlibrary.com	Spencer Public Library	2002.0	37.0
+22382	http://www.polkcountyiowa.gov/	Polk	2007.0	1340.0
+22384	http://university-heights.org/	University Heights	2001.0	62.0
+22386	http://www.wlwildcats.org/	West Lyon Junior High School	0.0	33.0
+22387	http://new-hampton.k12.ia.us	New Hampton Elementary School	2000.0	2029.0
+22388	http://www.cityofwalcott.com/	Walcott	2001.0	150.0
+22389	http://www.iowa.gov/irgc/	RACING & GAMING COMMISSION IMTA	2005.0	52.0
+22391	http://www.alta.lib.ia.us	Alta Community Library	2008.0	150.0
+22394	http://staffweb.legis.state.ia.us/lfb/	Legislative Fiscal Bureau	1998.0	10.0
+22396	http://www.siouxcounty.org/	Sioux	2001.0	51.0
+22397	http://www.hamiltoncountypublichealth.com	Hamilton County Public Health Services	2003.0	35.0
+22398	http://www.cbsforyou.com	Community Based Services Home Health	2011.0	16.0
+22399	http://wwacademy.com	Woodward Academy	2004.0	28.0
+22401	http://www.shellrocklibrary.org	Benny Gambaiani Public Library	2006.0	5.0
+22403	http://central-lyon.k12.ia.us	Central Lyon Senior High School	2000.0	1.0
+22405	http://louisa-muscatine.k12.ia.us	Louisa-Muscatine Elementary	2000.0	436.0
+22407	http://www.eldridge.org/	Eldridge	2000.0	1.0
+22410	http://www.agwsr.org/	AGWSR Elementary School	2011.0	1920.0
+22411	http://www.icpl.org	Iowa City Public Library	2002.0	324.0
+22412	http://governor.iowa.gov/	Governor	2007.0	2846.0
+22415	http://www.cityofnevadaiowa.org/default.php	Nevada	2011.0	311.0
+22419	http://www.worthcounty.org	Worth County Public Health	2004.0	514.0
+22420	http://home.ecsdcards.com/	Earlham Senior High School	2012.0	114.0
+22422	http://marshalltown.k12.ia.us	Marshalltown School District	1998.0	320.0
+22424	http://milfordlibrary.weebly.com/	Milford Memorial Library	2013.0	186.0
+22427	http://e-hawks.org	West Elementary School	0.0	1518.0
+22433	http://diagonalschools.org	Diagonal Junior-Senior High School	2013.0	1.0
+22436	http://www.iowaartscouncil.org/	Iowa Arts Council	2002.0	525.0
+22437	http://www.pellacity.com/	Pella	2001.0	12.0
+22438	http://www.indianolaiowa.gov/default.aspx	Indianola	2011.0	1320.0
+22440	http://www.linncounty.org/health	Linn County Public Health	2002.0	902.0
+22441	http://www.iowadnr.gov/	NATURAL RESOURCES DEPARTMENT OF	2003.0	7162.0
+22442	http://www.chickasawcoia.org/	Chickasaw	2003.0	214.0
+22444	http://www.growbuchanan.com/Public/Tourism	Buchanan	2012.0	12.0
+22445	http://www.rvraptors.org/	Schaller-Crestland M.S. Ridge View Middle School	2010.0	97.0
+22447	http://www.carterlake.swilsa.lib.ia.us	Edward F. Owen Memorial Library	2003.0	5.0
+22448	http://www.hamburglibrary.com	Hamburg Public Library	2006.0	13.0
+22449	https://ps-dbqdemo.gwaea.org/public/	Williamsburg Jr-Sr High School	0.0	4.0
+22450	http://atlanticiaschools.org	Washington Elementary School	2012.0	979.0
+22453	http://www.emschools.org/	Nishna Valley Elementary School	2012.0	678.0
+22454	http://www.cherokeermc.org	Cherokee Regional Medical Center Public Health	2006.0	390.0
+22455	http://www.mountpleasantiowalibrary.com	Mount Pleasant Public Library	2007.0	16.0
+22458	http://www.collinspubliclibraryia.org	Collins Public Library	2011.0	42.0
+22459	http://www.coralville.org/	Coralville	2000.0	1170.0
+22463	http://www.slater-iowa.org/	Slater	2000.0	9.0
+22466	http://www.tri-countyschools.com/	Tri-County Junior High School	2012.0	107.0
+22469	http://www.cedar-rapids.org/Pages/home.aspx	Cedar Rapids	0.0	422.0
+22470	https://www.iowaleague.org/Pages/Home.aspx	Iowa League of Cities	2011.0	78.0
+22472	http://www.keokuk.k12.ia.us/	George Washington Elementary School	1997.0	9.0
+22475	http://www.clarindapubliclibrary.org	Lied Public Library-Clarinda	2005.0	21.0
+22478	http://carlisle.k12.ia.us	Carlisle Elementary School	2001.0	579.0
+22480	http://homelandsecurity.iowa.gov/	HOMELAND SECURITY AND EMERGENCY MANAGEMENT DIVISION	2012.0	161.0
+22483	http://fort-dodge.k12.ia.us	Feelhaver Elementary School	1998.0	431.0
+22484	http://www.hchc.org	Henry County Health Center - Community Health Department	1999.0	243.0
+22485	https://www.educateiowa.gov//	EDUCATION DEPARTMENT	2011.0	4877.0
+22486	http://www.marshalltownlibrary.org	Marshalltown Public Library	2005.0	16.0
+22488	http://www.ci.monticello.ia.us/	Monticello	2001.0	1807.0
+22492	http://www.lemarscsd.org/	Individualized Learning Center	2011.0	24.0
+22493	http://www.waukee.lib.ia.us/waukeepl/	Waukee Public Library	2014.0	2.0
+22494	http://www.esthervillepubliclibrary.com	Estherville Public Library	2004.0	0.0
+22498	http://www.washph.com	Washington County Public Health & Home Care	2001.0	154.0
+22499	http://www.spartanpride.net/	Grundy Center Elementary School	2002.0	140.0
+22501	http://www.ankenyiowa.gov	Kirkendall Public Library	2008.0	2666.0
+22505	http://www.idph.state.ia.us/	PUBLIC HEALTH DEPARTMENT OF	1996.0	1828.0
+22506	http://www.thevnacares.org/	The Visiting Nurse Association	2008.0	161.0
+22508	http://www.huxleyiowa.org/	Huxley	2001.0	461.0
+22512	http://www.dmgov.org/Pages/default.aspx	Des Moines	2010.0	883.0
+22514	http://gilbert.k12.ia.us	Gilbert Intermediate School	1999.0	299.0
+22515	http://northiowa.org	North Iowa Elem Buffalo Center	2001.0	1924.0
+22516	http://bellevue.k12.ia.us	Bellevue Elementary School	1998.0	260.0
+22517	http://www.scciowa.edu/	Southeastern Community College	2002.0	751.0
+22519	http://www.dps.state.ia.us/	PUBLIC SAFETY DEPARTMENT OF	2002.0	1161.0
+22521	http://www.manchester-ia.org/	Manchester	2001.0	438.0
+22523	http://www.agriculture.state.ia.us/	Department of Agriculture and Land Stewardship	2002.0	598.0
+22524	http://www.colo-nesco.k12.ia.us/	Colo-Nesco Elementary Learning Center	2000.0	58.0
+22525	http://www.windstream.net/	Chariton	2002.0	1071.0
+22528	http://www.witcc.edu/	Western Iowa Tech Community College	2002.0	531.0
+22530	http://www.spencerhospital.org	Spencer Hospital - Community Health/Clay County Public Health	2000.0	540.0
+22533	http://www.humanrights.iowa.gov/	HUMAN RIGHTS DEPARTMENT OF	2010.0	24.0
+22535	http://clargold.org	Clarion-Goldfield School District	2011.0	1311.0
+22538	http://arnoldsparklibrary.weebly.com/	Arnolds Park Public Library	2013.0	45.0
+22540	http://www.cityofmarion.org/	Marion	2001.0	4748.0
+22541	http://www.bondurant.lib.ia.us	Bondurant Community Library	0.0	673.0
+22542	http://www.ci.pleasant-hill.ia.us/	Pleasant Hill	2001.0	375.0
+22544	http://www.saccounty.org/	Sac	2000.0	52.0
+22545	http://www.iowajobs.org/	Iowa Jobs	2000.0	14.0
+22552	http://www.councilbluffslibrary.org/	Council Bluffs Public Library	2013.0	248.0
+22553	http://www.uni.edu/	University of Northen IOWA	1997.0	3767.0
+22555	http://www.davenportschools.org/	Blue Grass Elementary School	2003.0	1946.0
+22556	http://www.bettendorf.org/	Bettendorf	2001.0	1135.0
+22558	http://www.co.marshall.ia.us/	Marshall	2000.0	845.0
+22559	http://www.rhshc.com/regional-health-services-of-howard-county-961	Regional Health Services of Howard County	2012.0	418.0
+22560	http://www.iowaagriculture.gov/	AGRICULTURE AND LAND STEWARDSHIP DEPARTMENT	2008.0	552.0
+22561	http://www.camcougars.org/	Iowa Connections Academy Elementary	2007.0	677.0
+22564	http://www.altoona-iowa.com/	Altoona	1999.0	190.0
+22566	http://www.emmetcountyia.com	Emmet County Public Health	2003.0	58.0
+22568	http://www.centralsprings.net/	Central Springs Elem. School - Nora Springs	2011.0	20.0
+22569	http://www.co.plymouth.ia.us/	Plymouth	2003.0	54.0
+22574	http://www.connectionseducation.com/connections-education/home.aspx	Iowa Connections Academy Middle School	2011.0	1.0
+22576	http://lewiscentral.org	Lewis Central School District	2001.0	5139.0
+22577	http://www.aplington.lib.ia.us	Aplington Legion Memorial Library	2007.0	608.0
+22580	http://www.co.fremont.ia.us/	Fremont	2003.0	380.0
+22582	http://medicalboard.iowa.gov/	IOWA BOARD OF MEDICINE	2007.0	89.0
+22583	https://www.ipib.iowa.gov/	IOWA PUBLIC INFORMATION BOARD	2013.0	147.0
+22584	http://www.mormontrailcsd.org/	Mormon Trail Jr-Sr High School	2013.0	74.0
+22586	http://woodward-granger.k12.ia.us	Woodward-Granger Elementary School	2000.0	322.0
+22587	http://www.pottcounty.com/	Pottawattamie	2001.0	167.0
+22591	http://whancock.org	West Hancock School District	0.0	28.0
+22592	http://www.johnson-county.com/dept_health.aspx?id=4485	Johnson County Public Health	2009.0	1130.0
+22594	http://www.arlington.lib.ia.us	Arlington Public Library	2007.0	355.0
+22595	http://s-obrien.k12.ia.us	South O'Brien Elem Sch Primghar Center	1999.0	88.0
+22596	http://www.masoncity.net/	Mason City	2001.0	1574.0
+22599	http://www.central-csd.org/	Central Clinton School District	0.0	237.0
+22600	http://lake-mills.k12.ia.us	Lake Mills Senior High School	1999.0	19.0
+22601	http://www.wdbqschools.org/	Drexler Middle- Intermediate School	2013.0	2491.0
+22602	http://www.iowa.gov/educate/	Department of Education	2006.0	4491.0
+22603	http://www.westburlington.org/	West Burlington	2000.0	40.0
+22604	http://dnhcsd.org	Dike-New Hartford Junior High School	2011.0	292.0
+22605	http://www.alburnettcsd.org/	Alburnett School District	2013.0	102.0
+22610	https://www.nicc.edu/	Northeast Iowa Community College	2000.0	918.0
+22611	http://www.grinnell-k12.org/	Grinnell Community Senior High School	2012.0	1384.0
+22613	http://jccog.org/	Johnson County Council of Governments	2003.0	1.0
+22616	http://www.fontanelle.swilsa.lib.ia.us	Fontanelle Public Library	2006.0	10.0
+22618	http://www.norwalk.iowa.gov/	Norwalk	2013.0	316.0
+22622	http://essex.k12.ia.us	Essex Junior-Senior High School	0.0	9756.0
+22623	http://cal-wheat.k12.ia.us	Calamus-Wheatland Elem Attendance Center	1998.0	23.0
+22624	http://www.iowacourts.gov/	JUDICIAL BRANCH	0.0	989.0
+22627	http://www.siouxcountychp.org	Community Health Partners of Sioux County	2004.0	71.0
+22632	http://www.hubbardiowa.com/	Hubbard	2001.0	14.0
+22633	http://www.moravia.k12.ia.us/	Moravia School District	2001.0	58.0
+22636	http://www.alton.lib.ia.us	Alton Public Library	2007.0	315.0
+22638	http://www.co.dallas.ia.us/	Dallas	2000.0	2373.0
+22640	http://www.mscsd.org/	Morning Sun Elementary School	2013.0	42.0
+22641	http://www.iid.state.ia.us/	INSURANCE DIVISION DEPARTMENT OF COMMERCE	2000.0	396.0
+22644	https://sites.google.com/a/mmccsd.org/home/	Marcus-Meriden-Cleghorn  Jr/Sr High School	2013.0	38.0
+22645	http://www.cityofcarterlake.com/	Carter Lake	2001.0	19.0
+22647	http://www.altoona.lib.ia.us	Altoona Public Library	2009.0	128.0
+22648	http://www.malvernlibrary.org/	Malvern Public Library	2009.0	0.0
+22649	http://camanche.k12.ia.us	Camanche Elementary School	1996.0	153.0
+22650	http://www.iowastatefair.org/	FAIR, IOWA STATE	1998.0	798.0
+22658	http://united.k12.ia.us	United School District	1998.0	635.0
+22659	http://www.traveliowa.com/	Iowa Travel / Tourism	1999.0	7844.0
+22663	http://www.fairfield.lib.ia.us	Fairfield Public Library	2001.0	1.0
+22664	http://www.humanrights.iowa.gov/index.html	Department of Human Rights	2010.0	24.0
+22665	http://www.westlibertyiowa.com/chamber/	West Liberty	2001.0	363.0
+22667	http://www.iowaworkforce.org/labor/	LABOR SERVICES (IWD)	2001.0	22.0
+22668	http://washington.k12.ia.us	Lincoln Upper Elementary School	1996.0	6868.0
+22669	http://www.iowa.gov/odcp/	GOVERNOR'S OFFICE OF DRUG CONTROL POLICY	2007.0	3.0
+22670	https://va.iowa.gov/	VETERANS AFFAIRS DEPARTMENT OF	2010.0	52.0
+22672	http://cb-schools.org	Council Bluffs School District	2001.0	1010.0
+22674	http://www.iowalakes.edu/	Iowa Lakes Community College	2002.0	2310.0
+22678	http://www.storycountyiowa.gov/	Story	2012.0	1427.0
+22679	http://www.pocahontasiowa.com/	Pocahontas	2000.0	25.0
+22681	http://www.cityofjohnston.com/	Johnston	2001.0	879.0
+22682	http://bkcsd.org	Belmond-Klemme Community Jr-Sr High School	2012.0	1005.0
+22684	http://gtschools.k12.ia.us	Graettinger-Terril Elementary School	2011.0	40.0
+22691	http://www.cornellcollege.edu/library/	Russell D. Cole Library	0.0	81.0
+22692	http://www.louisacountyiowa.org/	Louisa	2002.0	29.0
+22694	http://blog.ottumwapubliclibrary.org/	Ottumwa Public Library	2013.0	316.0
+22695	http://www.cityofames.org/	Ames	0.0	2440.0
+22696	http://www.boonehospital.com	Home Care Services of Boone County Hospital	1999.0	295.0
+22700	http://www.akron.lib.ia.us	Akron Public Library	2007.0	319.0
+22702	http://das.gse.iowa.gov/	GENERAL SERVICES DEPARTMENT OF	2003.0	19.0
+22703	http://www.myvgh.org/	Virginia Gay Hospital Home Health Agency	2011.0	189.0
+22704	http://www.cityofdubuque.org/	Dubuque	2002.0	1242.0
+22709	http://www.iccc.cc.ia.us/	Iowa Central Community College	1998.0	40.0
+22711	http://www.state.ia.us/government/dia/	CASA (COURT APPOINTED SPECIAL ADVOCATE)	1999.0	27.0
+22712	http://westbranchiowa.org/	West Branch	2001.0	683.0
+22714	http://www.iowaworkforce.org/wc/	WORKERS COMPENSATION (IWD)	2002.0	17.0
+22715	http://alli-bris.k12.ia.us	North Butler Middle School	2002.0	1.0
+22717	http://panorama.k12.ia.us	Panorama School District	2000.0	1022.0
+22718	http://www.dmcounty.com/	Des Moines	2013.0	590.0
+22719	http://www.claytoncountyiowa.net	Clayton County Visiting Nurse Association	2002.0	3270.0
+22721	http://www.state.ia.us/ddcouncil/	GOVERNOR'S COUNCIL ON DEVELOPMENTAL DISABILITIES	2000.0	212.0
+22723	http://www.correctionville.govoffice2.com/	Correctionville	2006.0	459.0
+22725	http://www.boyer-valley.k12.ia.us/	Boyer Valley Middle/High School	2001.0	939.0
+22726	http://www.iavalley.edu/	Iowa Valley Community College	2002.0	513.0
+22730	http://iowafinanceauthority.gov/IADD/	AGRICULTURAL DEVELOPMENT AUTHORITY	2013.0	2.0
+22731	http://www.iwcc.edu/	Iowa Western Community College	2002.0	876.0
+22733	http://www.burlington.lib.ia.us	Burlington Public Library	1997.0	587.0
+22735	https://spd.iowa.gov/	APPELLATE DEFENDER	2005.0	73.0
+22738	http://bennett.k12.ia.us	Bennett Elementary School	2002.0	1.0
+22739	http://www.fmcsd.org/	Fort Madison Alternative School	2013.0	3090.0
+22740	http://www.iowaworkforce.org/labor/iosh/	IOWA OCCUPATIONAL SAFETY & HEALTH (IOSHA)	2001.0	12.0
+22742	http://www.state.ia.us/government/iecdb/	Iowa Ethics and Campaign Disclosure Board	2000.0	7.0
+22744	http://www.ci.cedar-falls.ia.us/	Cedar Falls	1999.0	1118.0
+22745	http://www3.north-liberty.com/	North Liberty	2000.0	1.0
+22747	http://webster-city.k12.ia.us	Hamilton Regional HS High School	1998.0	1132.0
+22748	http://www.regmedctr.org	Regional Medical Center	2001.0	526.0
+22749	http://twincedars.k12.ia.us	Twin Cedars Jr-Sr High School	2000.0	1.0
+22751	http://n-winn.k12.ia.us	North Winneshiek Elementary School	2002.0	2.0
+22752	http://www.treasurer.state.ia.us/	TREASURER OF STATE	1998.0	265.0
+22753	http://www.lomaschools.org/	Logan-Magnolia Jr-Sr High School	2011.0	715.0
+22756	http://www.nfvschools.com/	North Fayette Elementary Fayette Center	2013.0	293.0
+22758	http://www.webstercity.com/	Webster City	1999.0	74.0
+22763	http://www.pachs.com/palo-alto-county-health-system-960	Palo Alto Community Health Nursing Service	2012.0	1273.0
+22764	http://www.albertcity.lib.ia.us	Albert City Public Library	0.0	165.0
+22765	http://www.ackley.lib.ia.us/	Ackley Public Library	2008.0	488.0
+22766	http://www.cedarcountypublichealth.org	Cedar County Public Health	2005.0	1.0
+22770	http://www.westharrison.org/	West Harrison School District	2013.0	1433.0
+22772	http://iowaeconomicdevelopment.com/Programs/Energy	ENERGY INDEPENDENCE OFFICE OF	2013.0	11.0
+22773	http://www.wdmlibrary.org	West Des Moines Public Library	2002.0	119.0
+22774	http://www.clarke.k12.ia.us/	Clarke Community Elementary School	2000.0	1528.0
+22775	http://www.charlescityschools.org/	Charles City School District	2007.0	966.0
+22776	http://www.kirkwood.edu/	Kirkwood Community College	2002.0	1021.0
+22777	http://www.governor.iowa.gov/	LT GOVERNORS OFFICE	2007.0	8.0
+22779	http://www.dubuquecounty.org/	Dubuque	2001.0	17.0
+22780	http://www.cityofbondurant.com/	Bondurant	2000.0	123.0
+22781	http://www.beaman.lib.ia.us	Beaman Community Memorial Library	2002.0	200.0
+22788	http://www.wccta.net/gallery/gowrielibrary/	Gowrie Public Library	2002.0	3.0
+22791	http://www.aurora.lib.ia.us	Aurora Public Library	2007.0	235.0
+22792	http://www.waukee.org/	Waukee	1999.0	667.0
+22793	http://union.k12.ia.us	Dysart-Geneseo Elementary School	1998.0	201.0
+22794	http://www.rurockets.org/	Remsen-Union Elementary School	0.0	60.0
+22796	http://sumner.k12.ia.us	Sumner-Fredericksburg HS	2008.0	454.0
+22797	http://www.ci.ankeny.ia.us/	Ankeny	1998.0	2582.0
+22800	http://www.ivrs.iowa.gov/	VOCATIONAL REHABILITATION SERVICES	2005.0	20.0
+22805	http://www.woodburyiowa.com/	Woodbury	2001.0	782.0
+22809	http://westforkschool.org	West Fork Elementary at Rockwell	2008.0	43.0
+22810	http://www.dmschools.org/	Des Moines Independent School District	2011.0	877.0
+22811	http://www.crawfordcounty.org/	Crawford	2001.0	65.0
+22812	http://lone-tree.k12.ia.us	Lone Tree Junior-Senior High School	1998.0	326.0
+22816	http://www.nishbd.org/	Marnie Simons Elementary School	2011.0	896.0
+22817	http://www.state.ia.us/government/com/	Department of Commerce	1999.0	1.0
+22820	http://www.co.black-hawk.ia.us/	Black Hawk	1999.0	5.0
+22821	http://cardinalcomet.com	Cardinal Middle-Senior High School	2008.0	876.0
+22822	http://www.mahaskahealth.com	Mahaska Health Partnership Community Health	2005.0	790.0
+22823	http://www.vintonlibrary.com	Vinton Public Library	2002.0	7.0
+22824	http://www.iowacounties.org/	Iowa State Association of Counties	1998.0	1184.0
+22825	https://boone.k12.ia.us/	Franklin Elementary School	1997.0	195.0
+22828	http://www.cityofhawarden.com/	Hawarden	2000.0	93.0
+22829	http://adeliowa.org/default.page	Adel	2006.0	93.0
+22830	http://cityofdenveriowa.com/	Denver	2002.0	43.0
+22831	http://www.keokukcountyia.com	Keokuk County Public Health	2003.0	132.0
+22832	http://www.shco.org/	Shelby	1998.0	2240.0
+22835	http://www.drugfreeinfo.org/	SUBSTANCE ABUSE	2002.0	84.0
+22837	http://www.allison.lib.ia.us	Allison Public Library	2007.0	115.0
+22839	http://hdcsd.org	Hampton-Dumont School District	2001.0	5810.0
+22840	http://maquoketa-v.k12.ia.us	Maquoketa Valley Senior High School	1997.0	88.0
+22841	http://dmpl.org/	Des Moines Public Library - Central	2007.0	4063.0
+22842	http://prairievalley.k12.ia.us	Prairie Valley Elementary School	2009.0	721.0
+22843	http://www.valley.k12.ia.us/	North Fayette-Valley Middle School	2001.0	0.0
+22844	http://www.tamacounty.org/	Tama	2001.0	161.0
+22845	http://www.quasky.com	Quasqueton	2007.0	38.0
+22847	http://www.pacsd.org/	Pocahontas Area Regional Learning Center	2003.0	27.0
+22853	http://www.crbcrusaders.org/	Coon Rapids-Bayard 6-12 Attendance Center	2004.0	229.0
+22854	http://www.niacc.edu/	North Iowa Area Community College	2002.0	1242.0
+22857	http://gcb.k12.ia.us	Gilmore City Elementary School	2013.0	1.0
+22858	http://www.state.ia.us/dentalboard/	IOWA DENTAL BOARD	2000.0	78.0
+22859	http://murraycsd.org	Murray School Murray Jr/Sr High	2011.0	104.0
+22862	http://harris-lp.k12.ia.us	Harris-Lake Park Elementary School	1998.0	236.0
+22866	http://www.cityofharlan.com/	Harlan	2002.0	29.0
+22867	http://www.state.ia.us/government/odcp/	Governor's Office of Drug Control Policy	2001.0	3.0
+22868	http://www.uiowa.edu/	University of IOWA	1997.0	554.0
+22871	http://vmbulldogs.com	Van Meter Jr-Sr High School	2012.0	113.0
+22872	http://audubon.k12.ia.us	Audubon Middle-High School	2000.0	4.0
+22873	http://www.iowa.gov/nursing/	NURSING BOARD OF	2007.0	2.0
+22874	http://www.marengoiowa.com/	Marengo	2001.0	130.0
+22875	http://ci.muscatine.ia.us/	Muscatine	2000.0	971.0
+22876	http://www.janesville.k12.ia.us/	Janesville Consolidated School District	2001.0	1.0
+22877	http://www.iptv.org/	IOWA PUBLIC TELEVISION (KDIN-TV)	1998.0	43109.0
+22879	https://www.legis.iowa.gov/committees?cid=53	ADMINISTRATIVE RULES REVIEW COMMITTEE	2014.0	2758.0
+22880	http://madrid.k12.ia.us	Madrid Junior High School	2001.0	99.0
+22881	http://collins-maxwell.k12.ia.us	Collins-Maxwell Middle/High School	2000.0	294.0
+22882	http://www.culturalaffairs.org/	CULTURAL AFFAIRS, DEPARTMENT OF	1999.0	4.0
+22883	http://www.treasurer.state.ia.us/the_treasurers_office/meet_michael_fitzgerald/	EXECUTIVE COUNCIL	2012.0	2.0
+22884	http://west-bend.k12.ia.us	West Bend-Mallard School District	1997.0	822.0
+22885	http://www.state.ia.us/government/ag/index.html	Department of Justice	1996.0	14.0
+22886	http://paton-churdan.k12.ia.us	Paton-Churdan Jr-Sr High School	1998.0	106.0
+22889	http://www.southeastpolk.org/	Southeast Polk Junior High School	2011.0	751.0
+22890	http://www.regents.iowa.gov/	Board of Regents	2009.0	6.0
+22893	http://www.bedford.lib.ia.us	Bedford Public Library	2011.0	109.0
+22898	http://newton.k12.ia.us	Basics and Beyond Alternative School	2000.0	172.0
+22899	http://www.eicc.edu/	Eastern Iowa Community College	2002.0	879.0
+22900	http://www.stormlake.org/	Storm Lake	1998.0	0.0
+22903	http://www.state.ia.us/government/com/prof/home.html	PROFESSIONAL LICENSING AND REGULATION BUREAU	2004.0	480.0
+22904	http://www.floydcoia.org/	Floyd	2003.0	465.0
+22906	http://www.westhost.com/	Dows Elementary School	1998.0	89.0
+22909	http://www.edline.net/pages/Interstate35CSD	Interstate 35 Elementary School	2012.0	10.0
+22910	http://www.audubon.swilsa.lib.ia.us	Audubon Public Library	2004.0	11.0
+22914	http://www.icn.iowa.gov/	IOWA COMMUNICATIONS NETWORK	2013.0	118.0
+22916	http://www.thegenerals.org/	Sibley Ocheyedan Elementary School	2012.0	365.0
+22918	http://www.hawkeyecollege.edu/	Hawkeye Community College	2002.0	803.0
+22919	http://www.humanrights.iowa.gov/saa/	Iowa Commission on the Status of African-Americans	2010.0	2.0
+22921	http://dickinsoncountyiowa.org/	Dickinson	2013.0	217.0
+22926	http://www.coralvillepubliclibrary.org	Coralville Public Library	2000.0	336.0
+22928	http://www.decorahia.org/decorah.asp	Decorah	2009.0	21.0
+22936	http://dpd.iowa.gov/dpd_text.html	Department of Public Defense	0.0	9.0
+22938	http://www.dhs.state.ia.us/Consumers/RefugeeServices/RefugeeHome.html	REFUGEE SERVICES BUREAU	2009.0	1081.0
+22940	http://www.avoca.swilsa.lib.ia.us	Avoca Public Library	2007.0	19.0
+22941	http://iowaabd.com/	ALCOHOLIC BEVERAGES DIVISION	2000.0	308.0
+22943	http://humboldtpubliclibrary.com	Humboldt Public Library	2005.0	122.0
+22945	http://www.wcv.k12.ia.us/	West Central Valley School District	2012.0	217.0
+22947	http://www.idob.state.ia.us/	BANKING DIVISION, DEPARTMENT OF COMMERCE	1999.0	35.0
+22949	http://www.odebolt.net/	Odebolt	2001.0	203.0
+22951	http://www.dubuquecounty.org/HEALTHDEPARTMENT/tabid/273/Default.aspx	Dubuque County Health Department	2012.0	2.0
+22953	http://www.co.cerro-gordo.ia.us/	Cerro Gordo	2001.0	9.0
+22954	http://www.iastate.edu/	IOWA State University	1996.0	205.0
+22955	http://wbschools.us	West Burlington Ind School District	0.0	183.0
+22957	https://go.dmacc.edu/Pages/welcome.aspx	Des Moines Area Community College	2014.0	2482.0

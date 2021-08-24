@@ -1,0 +1,558 @@
+NodeId	NodeURL	NodeName	Year	pages
+1619	http://hves.juneauschools.org/	Harborview Elementary	2011.0	630.0
+1620	http://www.asdk12.org/aboutschools/lakeotis/schoolname,3073,en.html	Lake Otis Elementary	2012.0	3.0
+1621	http://www.matsuk12.us/sse	Snowshoe Elementary	2012.0	8704.0
+1622	http://education.alaska.gov/tls/support/	Teaching & Learning Support	2012.0	5.0
+1623	http://www.courtrecords.alaska.gov/eservices/home.page;jsessionid=DA56D331C32B8BCD9BDC9A8D1045AA6D	Alaska Trial Court Cases	0.0	3.0
+1624	http://www.dot.state.ak.us/stwdplng/scenic/index.shtml	Scenic Byways	2004.0	37.0
+1625	http://www.adfg.alaska.gov/	Department of Fish and Game homepage	2009.0	5933.0
+1626	http://gov.alaska.gov/	Office of the Governor homepage	2008.0	32.0
+1628	http://www.asdk12.org/aboutschools/service/schoolname,3120,en.html	Service High School	2012.0	6.0
+1629	http://www.lksd.org/lksd/	Bethel Youth Facility	2012.0	15.0
+1630	http://ydhs.juneauschools.org/	Yaakoosge Daakahidi Alt. H.S.	2011.0	186.0
+1631	http://sms.kgbsd.org/site/default.aspx?PageID=403	Schoenbar Middle School	2013.0	6.0
+1634	http://alaska.gov	State of Alaska	2000.0	3002.0
+1637	http://donyoung.house.gov/	Congressman Don Young	2005.0	242.0
+1639	http://www.matsugov.us/msln/msb/sutton/	Sutton Public Library	0.0	0.0
+1640	http://www.cityofcordova.net/	Cordova, City of	2002.0	455.0
+1641	http://forestry.alaska.gov	Division of Forestry	2005.0	59.0
+1642	http://www.matsugov.us/msln/msb/talkeetna//	Talkeetna Public Library	0.0	0.0
+1644	http://education.alaska.gov/teachercertification/	Teacher Certification	2012.0	40.0
+1645	http://www.cityofwasilla.com/	Wasilla, City of	0.0	2200.0
+1646	http://www.asdk12.org/aboutschools/omalley/schoolname,3082,en.html	O'Malley Elementary	2012.0	3.0
+1647	http://www.thewatershedschool.com/	Watershed Charter School	2009.0	478.0
+1649	http://acpe.alaska.gov/	Commission on Postsecondary Education	2012.0	487.0
+1651	http://dnr.alaska.gov/commis/pco/	State  Pipeline Coordinator's Office	2011.0	59.0
+1652	http://dnr.alaska.gov/parks/	Division of Parks and Outdoor Recreation	2007.0	533.0
+1653	http://avtec.labor.state.ak.us/	Alaska Vocational Technical Center	2003.0	81.0
+1654	http://www.juneau.org/library/	Juneau Public Libraries - Downtown Branch Library	2002.0	527.0
+1655	http://mrcs.juneauschools.org/	Mendenhall River Community School	2010.0	338.0
+1657	http://www.asdk12.org/aboutschools/ravenwood/schoolname,3088,en.html	Ravenwood Elementary	2012.0	3.0
+1658	http://www.cordovasd.org/site/default.aspx?PageID=1	Cordova School District Innovative Learning	2012.0	14.0
+1660	http://ltgov.alaska.gov/treadwell/services/alaska-constitution.html	Constitution of the State of Alaska	2010.0	32.0
+1661	http://doa.alaska.gov/ogc/	Oil and Gas Conservation Commission	2009.0	64.0
+1662	http://www.asdk12.org/aboutschools/newpath/schoolname,6270,en.html	The New Path High School	2012.0	2.0
+1663	http://www.sisd.org	www.sisd.org	1999.0	3204.0
+1664	http://aws.state.ak.us/OnlinePublicNotices/	Online Public Notices	2013.0	26.0
+1665	http://doa.alaska.gov/das/	Division of Administrative Services	2009.0	29.0
+1666	http://ccsd.k12.ak.us/	www.craigschools.com	2000.0	12.0
+1667	http://www.crsd.us/	Glennallen Jr/Sr High School	2012.0	345.0
+1668	http://dps.alaska.gov/apsc/	Alaska Police Standards Council	2008.0	23.0
+1669	http://rca.alaska.gov/rcaweb/home.aspx	Regulatory Commission of Alaska	2007.0	1471.0
+1670	http://dec.alaska.gov/water/index.htm	Division of Water	2007.0	69.0
+1671	http://www.matsuk12.us/cwe	Cottonwood Creek Elementary	2012.0	8730.0
+1672	http://www.asdk12.org/aboutschools/creekside/schoolname,3256,en.html	Creekside Park Elementary	2012.0	3.0
+1673	http://treasury.dor.alaska.gov/ambba/Home.aspx	Alaska Municipal Bond Bank Authority	2014.0	10.0
+1674	http://www.edline.net/pages/george_h_gilson_ms	George H. Gilson Middle School	0.0	19.0
+1676	http://www.northpolealaska.com/	North Pole, City of	2000.0	47.0
+1678	http://www.asdk12.org/aboutschools/chugiakhs/schoolname,3124,en.html	Chugiak High School	2012.0	5.0
+1679	http://courts.alaska.gov	Alaska Court System homepage	2009.0	194.0
+1680	http://law.alaska.gov/department/civil/civil.html	Civil Division	2008.0	27.0
+1682	http://www.dot.alaska.gov/stwdmno/aah/	Adopt-A-Highway	2010.0	2.0
+1683	http://commerce.alaska.gov	Department of Commerce, Community and Economic Development homepage	2010.0	1429.0
+1684	http://www.ci.unalaska.ak.us/	Unalaska Public Library	2000.0	878.0
+1686	http://khs.kgbsd.org/site/default.aspx?PageID=397	Ketchikan High School	2013.0	7.0
+1687	http://www.tongassschool.org/	Tongass School of Arts and Sciences Charter School	2005.0	139.0
+1688	http://www.psglib.org/	Petersburg Public Library	2007.0	16.0
+1689	http://cityofhoonah.org/	Hoonah, City of	2013.0	9.0
+1690	http://www.matsuk12.us/tke	Talkeetna Elementary	2012.0	8798.0
+1691	http://www.ci.delta-junction.ak.us/	Delta Junction	1999.0	45.0
+1692	http://doa.alaska.gov/oah/	Office of Administrative Hearings	2009.0	7.0
+1693	http://www.matsugov.us/msln/msb/biglake//	Big Lake Public Library	0.0	0.0
+1694	http://dhss.alaska.gov/dsds/Pages/default.aspx	Senior and Disabilities Services	2012.0	94.0
+1695	http://www.yukonflats.net/	www.yukonflats.net/	1999.0	555.0
+1696	http://dmva.alaska.gov/asdf	State Defense Force	2009.0	345.0
+1697	http://web2.lksd.org/platinum/platinum/home_page.html	Arviq School	2013.0	8.0
+1698	http://www.asdk12.org/aboutschools/bearvalley/schoolname,3043,en.html	Bear Valley Elementary	2012.0	3.0
+1699	http://law.alaska.gov/department/civil/consumer/cpindex.html	Consumer Protection	2009.0	53.0
+1700	http://ready.alaska.gov	Division of Homeland Security and Emergency Management	2008.0	174.0
+1701	http://dhss.alaska.gov/djj/pages/facilities/jyc.aspx	Johnson Youth Center	2012.0	11.0
+1702	http://www.nsbsd.org/site/default.aspx?PageID=1	Kiita Learning Community	2012.0	11.0
+1703	http://www.dot.state.ak.us/stwdplng/cip/stip/	Needs List/Statewide Transportation Improvements Program (STIP)	2013.0	34.0
+1704	http://law.alaska.gov/	Department of Law homepage	2009.0	84.0
+1705	http://nenanalynx.org	http://nenanalynx.org	2011.0	47.0
+1706	http://www.paceschool.net/	PACE Correspondence	2001.0	15.0
+1707	http://www.muni.org/pages/default.aspx	Anchorage, Municipality of	2009.0	916.0
+1709	http://rivercityacademy.blogs.kpbsd.k12.ak.us/wpmu/	River City Academy	0.0	43.0
+1710	http://www.asdk12.org/aboutschools/springhill/schoolname,3106,en.html	Spring Hill Elementary	2012.0	3.0
+1711	http://www.edline.net/pages/Annette_Island_School_District	Charles R. Leask Sr. Middle School	2013.0	2.0
+1712	http://education.alaska.gov/tls/support/support_chart.html	Teaching & Learning Support Program Contacts	2012.0	5.0
+1715	http://www.co.fairbanks.ak.us/	Fairbanks North Star Borough	1996.0	78.0
+1717	http://www.matsuk12.us/swe	Swanson Elementary	2012.0	8847.0
+1718	http://www.akenergyauthority.org/	Alaska Energy Authority	2005.0	157.0
+1719	http://labor.alaska.gov/laborr/	Labor Relations Agency	2009.0	49.0
+1720	http://labor.alaska.gov/bp/	Business Partnerships Division	2009.0	31.0
+1721	http://www.smcsd.us/	Saint Mary's School	2004.0	18.0
+1722	http://www.dot.state.ak.us/stwddes/dcsaboutus/	Design & Construction Standards	2003.0	6.0
+1723	http://dhss.alaska.gov/dbh/Pages/default.aspx	Behavioral Health	2012.0	127.0
+1724	http://www.loweryukon.org	www.loweryukon.org	2007.0	43.0
+1725	http://fme.kgbsd.org/site/default.aspx?PageID=405	Fawn Mountain Elementary	2013.0	16.0
+1726	http://www.asdk12.org/aboutschools/alpenglow/schoolname,3038,en.html	Alpenglow Elementary	2012.0	3.0
+1727	http://alaska.gov/visitorhome.html	Visiting Alaska	2009.0	2940.0
+1729	http://www.asdk12.org/aboutschools/gruening/schoolname,3115,en.html	Gruening Middle School	2012.0	3.0
+1731	http://www.murkowski.senate.gov/public/	Senator Lisa Murkowski	0.0	784.0
+1732	http://www.muni.org/departments/library/pages/cebranchlibrary.aspx	Chugiak-Eagle River Branch Library	2010.0	4.0
+1733	http://www.asdk12.org/aboutschools/willowcrest/schoolname,3092,en.html	Willow Crest Elementary	2012.0	3.0
+1734	http://jdhs.juneauschools.org/	Juneau-Douglas High School	2012.0	95.0
+1735	http://www.asdk12.org/	www.asdk12.org/	2001.0	1087.0
+1736	http://www.asdk12.org/aboutschools/clark/schoolname,3117,en.html	Clark Middle School	2012.0	3.0
+1737	http://www.asdk12.org/aboutschools/trailside/schoolname,3103,en.html	Trailside Elementary	2012.0	3.0
+1738	http://www.asdk12.org/aboutschools/girdwood/schoolname,3141,en.html	Girdwood School	2012.0	3.0
+1739	http://www.asdk12.org/aboutschools/hanshew/schoolname,3114,en.html	Hanshew Middle School	2012.0	3.0
+1740	http://www.asdk12.org/aboutschools/frontier/schoolname,3130,en.html	Frontier Charter School	2012.0	2.0
+1742	http://www.chugachschools.com	www.chugachschools.com	2001.0	2.0
+1743	http://gses.juneauschools.org/	Gastineau Elementary	2011.0	13.0
+1744	http://www.asdk12.org/aboutschools/abbotloop/schoolname,3033,en.html	Abbott Loop Elementary	2012.0	2.0
+1745	http://www.chevakschool.org/	Chevak School	2009.0	64.0
+1747	http://abes.juneauschools.org/	Auke Bay Elementary	2010.0	45.0
+1748	http://w3.legis.state.ak.us/senate/senate.php	State Senate	2007.0	2.0
+1750	http://www.asdk12.org/aboutschools/eagleacademy/schoolname,3132,en.html	Eagle Academy Charter School	2012.0	2.0
+1751	http://dhss.alaska.gov/abada/Pages/default.aspx	Governor's Advisory Board on Alcoholism & Drug Abuse	2012.0	15.0
+1752	http://dps.alaska.gov/crimelab/	Alaska State Crime Lab	2008.0	597.0
+1755	http://www.lpsd.com	www.lpsd.com	1999.0	0.0
+1757	http://www.ahfc.us/	Alaska Housing Finance Corporation	2013.0	701.0
+1758	http://www.bristolbayboroughak.us/	Bristol Bay Borough	2010.0	49.0
+1760	http://www.iditarodsd.org/site/default.aspx?PageID=1	Top of the Kuskokwim School	2013.0	5.0
+1761	http://www.asdk12.org/aboutschools/avail/schoolname,3136,en.html	Avail School	2012.0	2.0
+1762	http://nome.nosd.schoolaccess.net/~acsa/	Anvil City Science Academy	2002.0	185.0
+1763	http://dhss.alaska.gov/ocs/Pages/default.aspx	Office of Children's Services	2013.0	141.0
+1764	http://dhss.alaska.gov/dph/Pages/default.aspx	Public Health	2012.0	8.0
+1765	http://www.yakutatschools.org	www.yakutatschools.org	2002.0	51.0
+1767	http://education.alaska.gov/about.html	About EED	2012.0	464.0
+1768	http://www.pcsd.us/	Rae C. Stedman Elementary	2011.0	12.0
+1769	http://www.matsuk12.us/phs	Palmer High School	2012.0	8797.0
+1771	http://www.city.kodiak.ak.us/library/Pages/default.aspx	A. Holmes Johnson Memorial Library	2008.0	11.0
+1772	http://www.asdk12.org/aboutschools/huffman/schoolname,3061,en.html	Huffman Elementary	2012.0	3.0
+1773	http://ombud.alaska.gov/	Office of the Ombudsman	2009.0	21.0
+1774	http://www.lksd.org/toksook/index.html	Nelson Island Area School	2000.0	55.0
+1775	http://www.ci.kenai.ak.us/	Kenai, City of	1998.0	584.0
+1776	http://education.alaska.gov/commissioner/	Office of the Commissioner	2012.0	2.0
+1778	http://www.asdk12.org/aboutschools/birchwoodabc/schoolname,3045,en.html	Birchwood ABC Elementary	2012.0	3.0
+1781	http://education.alaska.gov/districts.html	Districts & Schools	2012.0	172.0
+1782	http://www.hydaburg.k12.ak.us/	Hydaburg Correspondence School	2005.0	18.0
+1784	http://airguard.alaska.gov	Alaska Air National Guard	2009.0	2.0
+1785	http://www.matsuk12.us/tbc	Twindly Bridge Charter School	2012.0	8765.0
+1786	http://agsd.us/schools/eagle.html	Eagle Community School	2009.0	2.0
+1788	http://www.matsuk12.us/mze	Fred and Sara Machetanz Elementary School	2012.0	8821.0
+1791	http://www.craigak.com	Craig, City of	2004.0	21.0
+1792	http://education.alaska.gov/facilities/	School Facilities	2012.0	15.0
+1793	http://www.nwarctic.org/site/default.aspx?PageID=1	Aqqaluk High/Noorvik Elementary	2012.0	5.0
+1794	http://www.asdk12.org/aboutschools/fpcs/schoolname,3131,en.html	Family Partnership Charter School	2012.0	2.0
+1795	http://www.kibsd.org/	Kodiak Island Correspondence	2011.0	64.0
+1796	http://www.tuzzy.org	Tuzzy Consortium Library	2003.0	82.0
+1797	http://www.yksd.com/site/default.aspx?PageID=1	www.yksd.com	2013.0	12.0
+1798	http://dps.alaska.gov/awt/	Division of Wildlife Troopers	2008.0	24.0
+1799	http://education.alaska.gov/state_board/	State Board of Education & Early Development	2012.0	5.0
+1803	http://www.asdk12.org/aboutschools/eagleriverhs/schoolname,3122,en.html	Eagle River High School	2012.0	4.0
+1804	http://agsd.us/schools/mentasta.html	Mentasta Lake School	2009.0	2.0
+1806	http://dmva.alaska.gov	Department of Military and Veterans Affairs homepage	2007.0	353.0
+1807	http://www.kpbsd.k12.ak.us	www.kpbsd.k12.ak.us	1996.0	1412.0
+1808	http://www.asdk12.org/aboutschools/turnagain/schoolname,3101,en.html	Turnagain Elementary	2012.0	4.0
+1810	http://w3.legis.state.ak.us/house/house.php	State House of Representatives	2007.0	2.0
+1811	http://alaska.gov/akdir1.html	My Government	2009.0	3798.0
+1812	http://library.fnsb.lib.ak.us/	Fairbanks North Star Borough Public Library	2000.0	1.0
+1813	http://www.asdk12.org/aboutschools/mountainview/schoolname,3075,en.html	Mountain View Elementary	2012.0	3.0
+1814	http://veterans.alaska.gov	Veterans Affairs	2008.0	35.0
+1815	http://dps.alaska.gov/sorweb/sorweb.aspx	Sex Offender/Child Kidnapper Central Registry	0.0	430.0
+1816	http://education.alaska.gov/tls/sped/	Special Education	2012.0	8.0
+1819	http://www.hbsd.net/site/default.aspx?PageID=1	Mosquito Lake Elementary	2013.0	25.0
+1820	http://dlgsd.org/	Dillingham Middle/High School	2006.0	535.0
+1821	http://dor.alaska.gov/administrativeservices.aspx	Division of Administrative Services	2013.0	96.0
+1822	http://alaska.gov/residenthome.html	Resident	2009.0	2656.0
+1823	http://www.ucsd.net/education/district/district.php?sectionid=1	Eagle's View Elementary School	2010.0	2.0
+1825	http://www.wrangellschools.org	www.wrangellschools.org	2004.0	104.0
+1826	http://www.matsuk12.us/site/default.aspx?PageID=1	www.matsuk12.us	2012.0	25.0
+1827	http://dhss.alaska.gov/dph/vitalstats/Pages/default.aspx	Bureau of Vital Statistics	2012.0	45.0
+1829	http://homebridge.juneauschools.org/	HomeBRIDGE	2010.0	132.0
+1830	http://www.ci.valdez.ak.us/	Valdez, City of	1999.0	1156.0
+1831	http://dec.alaska.gov/spar/index.htm	Division of Spill Prevention & Response	2006.0	153.0
+1832	http://www.asdk12.org/aboutschools/northwoodabc/schoolname,3080,en.html	Northwood ABC	2012.0	3.0
+1833	http://www.asdk12.org/aboutschools/eagleriveres/schoolname,3054,en.html	Eagle River Elementary	2012.0	4.0
+1835	http://www.matsuk12.us/whs	Wasilla High School	2012.0	8682.0
+1836	http://gov.alaska.gov/parnell/services/boards-commissions.html	Boards and Commissions	2010.0	8.0
+1837	http://www.edline.net/pages/valdezhighschool	Valdez High School	2011.0	22.0
+1838	http://education.alaska.gov/aksca/	Alaska State Council on the Arts	2012.0	38.0
+1839	http://w3.legis.state.ak.us/laa/lio/doso.php	Directory of State Officials	2007.0	4.0
+1840	http://www.matsugov.us/msln/msb/trappercreek//	Trapper Creek Public Library	0.0	0.0
+1845	http://www.dot.alaska.gov/airport-portal.shtml	Aviation/Airports	2008.0	28.0
+1847	http://www.adfg.alaska.gov/index.cfm?adfg=viewing.main	Wildlife Viewing	2011.0	5493.0
+1848	http://www.asdk12.org/aboutschools/homestead/schoolname,3060,en.html	Homestead Elementary	2012.0	3.0
+1850	http://doa.alaska.gov/pda/	Public Defender Agency	2009.0	24.0
+1851	http://courts.alaska.gov/courtdir.htm	Directory of Alaska Court	2009.0	211.0
+1853	http://www.dbsd.org/site/default.aspx?PageID=1	Tri-Valley Community Library	2013.0	5.0
+1854	http://www.aidea.org/	Alaska Industrial Development and Export Authority	1999.0	107.0
+1856	http://www.matsuk12.us/tne	Tanaina Elementary	2012.0	8734.0
+1857	http://www.matsuk12.us/ppe	Pioneer Peak Elementary	2012.0	8844.0
+1858	http://www.legaudit.state.ak.us/	Legislative Audit	2001.0	172.0
+1859	http://www.asdk12.org/aboutschools/central/schoolname,3118,en.html	Central Middle School of Science	2012.0	3.0
+1860	http://dnr.alaska.gov/ag/	Division of Agriculture	2007.0	91.0
+1861	http://www.aleutregion.org/	Yakov E. Netsvetov School	2004.0	14.0
+1862	http://www.matsuk12.us/frc	Fronteras Charter School	2012.0	8824.0
+1863	http://rbes.juneauschools.org/	Riverbend Elementary	2011.0	50.0
+1864	http://www.chathamsd.org	www.chathamsd.org	2002.0	7.0
+1865	http://www.city.ketchikan.ak.us/	Ketchikan, City of	2000.0	13.0
+1866	http://agsd.us/schools/dotlake.html	Dot Lake School	2009.0	2.0
+1867	http://www.k12.com/akva	Alaska Virtual Academy	2009.0	480.0
+1869	http://www.mehs.us	www.mehs.us	2003.0	1.0
+1871	http://humanrights.alaska.gov/	Alaska State Commission for Human Rights	2010.0	18.0
+1872	http://www.matsuk12.us/cte	Mat-Su Career & Tech Ed High School	2012.0	8897.0
+1875	http://www.sitkaschools.org/site/default.aspx?PageID=1	www.sitkaschools.org	2011.0	41.0
+1876	http://labor.alaska.gov/awib/	Alaska Workforce Investment Board	2009.0	20.0
+1877	http://education.alaska.gov/tls/cnp/	Child Nutrition Programs	2012.0	47.0
+1878	http://agsd.us/schools/tetlin.html	Tetlin School	2009.0	2.0
+1879	http://www.asdk12.org/aboutschools/chestervalley/schoolname,3048,en.html	Chester Valley Elementary	2012.0	3.0
+1882	http://www.cityofpalmer.org/	Palmer, City of	2006.0	2160.0
+1883	http://labor.alaska.gov/lss/	Labor Standards and Safety	2009.0	54.0
+1884	http://www.ci.petersburg.ak.us/	Petersburg Borough	2000.0	197.0
+1885	http://www.houston-ak.gov	Houston, City of	2010.0	682.0
+1886	http://www.gov.alaska.gov/parnell/governors-office/international-trade/international-trade-home.html	Office of International Trade	2010.0	0.0
+1887	http://www.hoonahschools.org/	Hoonah Jr/Sr High School	2007.0	46.0
+1888	http://www.asdk12.org/aboutschools/steller/schoolname,3144,en.html	Steller Secondary School	2012.0	2.0
+1889	http://www.asdk12.org/aboutschools/gladyswood/schoolname,3057,en.html	Gladys Wood Elementary	2012.0	3.0
+1890	http://www.lpsd.com/index.html	Chignik Lagoon School	2002.0	0.0
+1891	http://www.asdk12.org/schools/anccs/pages/	Alaska Native Cultural Charter School	2007.0	51.0
+1892	http://labor.alaska.gov	Department of Labor and Workforce Development homepage	2009.0	55.0
+1893	http://www.asdk12.org/aboutschools/chugiakes/schoolname,3051,en.html	Chugiak Elementary	2012.0	4.0
+1894	http://www.asdk12.org/aboutschools/campbell/schoolname,3047,en.html	Campbell Elementary	2012.0	3.0
+1897	http://www.asdk12.org/aboutschools/nunakavalley/schoolname,3081,en.html	Nunaka Valley Elementary	2012.0	3.0
+1898	http://www.skagway.org/	Skagway Borough	1997.0	612.0
+1899	http://jobs.alaska.gov/offices/	Employment Offices	2007.0	3.0
+1900	http://commerce.alaska.gov/dnn/dcra/Home.aspx	Division of Community & Regional Affairs	2013.0	348.0
+1901	http://dhss.alaska.gov/acoa/Pages/default.aspx	Alaska Commission on Aging	2012.0	33.0
+1902	http://dps.alaska.gov/statewide/	Division of Statewide Services	2008.0	48.0
+1903	http://www.adfg.alaska.gov/index.cfm?adfg=lands.main	Lands and Waters	2011.0	5682.0
+1904	http://dhss.alaska.gov/fms/Pages/home.aspx	Finance and Management Services	2009.0	7.0
+1905	http://education.alaska.gov/stats/	Report Card to the Public	2012.0	3.0
+1906	http://www.matsuk12.us/ide	Iditarod Elementary	2012.0	8724.0
+1908	http://www.asdk12.org/aboutschools/chugachoptional/schoolname,3050,en.html	Chugach Optional Elementary	2012.0	3.0
+1909	http://www.wrangellschools.org/index.aspx?nid=15	Evergreen Elementary	2009.0	86.0
+1910	http://doa.alaska.gov/opa/	Office of Public Advocacy	2009.0	46.0
+1911	http://education.alaska.gov/nclb/	No Child Left Behind	2012.0	25.0
+1913	https://my.alaska.gov/	myAlaska	2012.0	14.0
+1914	http://www.matsuk12.us/jse	John Shaw Elementary	2012.0	8880.0
+1915	http://dhms.juneauschools.org/	Dzantik'i Heeni Middle School	2010.0	40.0
+1916	http://www.borough.kenai.ak.us/	Kenai Peninsula Borough	1998.0	712.0
+1917	http://www.matsuk12.us/vps	Valley Pathways	2012.0	8805.0
+1918	http://www.dot.state.ak.us/creg/whittiertunnel/	Whittier Tunnel	2002.0	16.0
+1919	http://www.matsuk12.us/cor	Mat-Su Central School	2012.0	8697.0
+1920	http://www.asdk12.org/aboutschools/airportheights/schoolname,3034,en.html	Airport Heights Elementary	2012.0	3.0
+1921	http://sled.alaska.edu/	SLED (Statewide Library Electronic Doorway)	1997.0	103.0
+1922	http://dnr.alaska.gov/commis/opmp/	Office of Project Management and Permitting	2008.0	12.0
+1923	http://dnr.alaska.gov/coastal/	Division of Coastal and Ocean Management	2008.0	272.0
+1926	http://dps.alaska.gov/admin/	Division of Administrative Services	2008.0	14.0
+1927	http://www.borough.ketchikan.ak.us/	Ketchikan Gateway Borough	2000.0	519.0
+1930	http://dec.alaska.gov/air/index.htm	Division of Air Quality	2007.0	98.0
+1932	http://commerce.alaska.gov/dnn/cbpl/Home.aspx	Division of Corporations, Business and Professional Licensing	2013.0	382.0
+1936	http://www.dot.state.ak.us/cvlrts/index.shtml	Civil Rights/Disadvantaged Business Enterprise Program	2004.0	25.0
+1937	http://www.lksd.org/atmautluak/	Joann A. Alexie Memorial School	2011.0	17.0
+1938	http://armyguard.alaska.gov	Alaska Army National Guard	2009.0	2.0
+1939	http://www.adfg.alaska.gov/index.cfm?adfg=species.main	Species	2011.0	5279.0
+1940	http://www.nomealaska.org	Nome, City of	2000.0	1730.0
+1941	http://www.asdk12.org/aboutschools/tudor/schoolname,3102,en.html	Tudor Elementary	2012.0	3.0
+1942	http://gves.juneauschools.org/	Glacier Valley Elementary	2010.0	91.0
+1943	http://www.asdk12.org/aboutschools/kcc/schoolname,3142,en.html	King Career Center	2012.0	2.0
+1944	http://law.alaska.gov/department/administrative/admin_svcs.html	Administrative Services	2008.0	2.0
+1945	http://doa.alaska.gov/drm/	Division of Risk Management	2009.0	16.0
+1946	http://www.matsuk12.us/ble	Big Lake Elementary	2012.0	8801.0
+1947	http://education.alaska.gov/edtech/	Educational Technology	2012.0	4.0
+1949	http://dnr.alaska.gov/commis/pic/	Public Information Center	2008.0	17.0
+1952	http://www.asdk12.org/aboutschools/northstar/schoolname,3078,en.html	North Star Elementary	2012.0	3.0
+1955	http://courts.alaska.gov/ctinfo.htm	Court System Information	2009.0	202.0
+1956	http://www.matsuk12.us/gbe	Goose Bay Elementary	2012.0	8846.0
+1957	http://omb.alaska.gov	Office of Management and Budget	2008.0	930.0
+1958	http://www.juneau.org/	Juneau, City and Borough of	2000.0	846.0
+1959	http://www.ci.soldotna.ak.us/	Soldotna, City of	1998.0	16.0
+1960	http://dec.alaska.gov/das/index.htm	Division of Administrative Services	2007.0	9.0
+1961	http://w3.legis.state.ak.us/	State Legislature	2002.0	71.0
+1962	http://agsd.us/schools/northway.html	Walter Northway School	2009.0	1.0
+1963	http://www.matsuk12.us/tms	Teeland Middle School	2012.0	8814.0
+1964	http://www.matsuk12.us/bte	Butte Elementary	2012.0	8709.0
+1965	http://commerce.alaska.gov/dnn/abc/Home.aspx	Alcoholic Beverage Control Board	2012.0	76.0
+1966	http://hte.kgbsd.org/site/default.aspx?PageID=407	Houghtaling Elementary	2013.0	19.0
+1967	http://www.dot.alaska.gov/stwdplng/transit/	Transit	2005.0	58.0
+1969	http://law.alaska.gov/doclibrary/ethics.html	Executive Branch Ethics	2009.0	101.0
+1971	http://www.adfg.alaska.gov/index.cfm?adfg=license.main	Licenses and Permits	2011.0	2653.0
+1972	http://law.alaska.gov/department/criminal/victims_assist.html	Victim-Witness Resources	2009.0	29.0
+1973	http://www.edline.net/pages/valdez_city_schools	http://www.edline.net/pages/Valdez_City_Schools	2013.0	15.0
+1975	http://laborstats.alaska.gov/	Research and Analysis Section	2009.0	110.0
+1976	http://lam.alaska.gov/home	Division of Libraries, Archives & Museums	2012.0	842.0
+1978	http://www.bssd.org/	Hogarth Kingeekuk Sr. Memorial School	2002.0	194.0
+1983	http://www.asdk12.org/aboutschools/bowman/schoolname,3046,en.html	Bowman Elementary	2012.0	4.0
+1985	http://agsd.us/schools/tanacross.html	Tanacross School	2009.0	2.0
+1986	http://www.mhtrust.org	Alaska Mental Health Trust Authority	1999.0	363.0
+1988	http://www.pelican.net/	Pelican, Chamber of Commerce of	1997.0	15.0
+1989	http://www.asdk12.org/aboutschools/dimond/schoolname,3123,en.html	Dimond High School	2012.0	5.0
+1990	http://www.asdk12.org/aboutschools/northernlights/schoolname,3149,en.html	Northern Lights ABC K-8 School	2012.0	2.0
+1992	http://www.asdk12.org/aboutschools/highland/schoolname,3129,en.html	Highland Tech High Charter School	2012.0	2.0
+1993	http://www.edline.net/pages/hermon_hutchens_es	Hermon Hutchens Elementary	2013.0	27.0
+1994	http://www.asdk12.org/aboutschools/lakehood/schoolname,3072,en.html	Lake Hood Elementary	2012.0	3.0
+1996	http://www.cityofsitka.com/	Sitka, City and Borough	1998.0	31.0
+1998	http://dec.alaska.gov/	Department of Environmental Conservation homepage	2004.0	257.0
+1999	http://www.muni.org/departments/library/pages/mvbranchlibrary.aspx	Mountain View Branch Library	2011.0	4.0
+2000	http://www.asdk12.org/aboutschools/west/schoolname,3119,en.html	West High School	2012.0	8.0
+2002	http://www.dot.state.ak.us/amhs/	Alaska Marine Highway System - State Ferries	2001.0	104.0
+2003	http://www.matsuk12.us/bhs	Burchell High School	2012.0	8792.0
+2004	http://dhss.alaska.gov/djj/Pages/default.aspx	Juvenile Justice	2012.0	184.0
+2005	http://www.asdk12.org/aboutschools/oceanview/schoolname,3083,en.html	Ocean View Elementary	2012.0	3.0
+2007	http://www.asdk12.org/aboutschools/williwaw/schoolname,3097,en.html	Williwaw Elementary	2012.0	3.0
+2009	http://www.matsuk12.us/hhs	Houston High School	2012.0	8829.0
+2010	http://www.matsuk12.us/bzs	Beryozova School	2012.0	8717.0
+2011	http://www.asdk12.org/aboutschools/chinook/schoolname,3049,en.html	Chinook Elementary	2012.0	4.0
+2012	http://dmva.alaska.gov/admin_services.htm	Administrative Services	2011.0	342.0
+2013	http://www.asdk12.org/aboutschools/aurora/schoolname,3039,en.html	Aurora Elementary	2012.0	3.0
+2014	http://www.muni.org/departments/library/pages/grbranchlibrary.aspx	Gerrish (Girdwood) Branch Library	2010.0	4.0
+2015	http://www.asdk12.org/aboutschools/denali/schoolname,3053,en.html	Denali Montessori Elementary	2012.0	3.0
+2016	http://www.dot.state.ak.us/sef/	Statewide Equipment Fleet	2005.0	18.0
+2020	http://education.alaska.gov/alaskan_schools/corres/	Correspondence Schools	2012.0	3.0
+2021	http://dps.alaska.gov/fire/	Division of Fire & Life Safety	2008.0	68.0
+2024	http://education.alaska.gov/ptpc/	Professional Teaching Practice Commission	2012.0	4.0
+2025	http://www.kgbsd.org/site/default.aspx?PageID=395	www.kgbsd.org	2012.0	15.0
+2026	http://w3.legis.state.ak.us/laa/lio/lio.php	Legislative Information Offices	2007.0	4.0
+2027	http://www.klawockschool.com	www.klawockschool.com	2005.0	89.0
+2028	http://www.wrangellschools.org/index.aspx?nid=22	Wrangell High School	2009.0	124.0
+2029	http://www.wrangellschools.org/index.aspx?nid=21	Stikine Middle School	2009.0	87.0
+2030	http://www.asdk12.org/aboutschools/rabbitcreek/schoolname,3089,en.html	Rabbit Creek Elementary	2012.0	3.0
+2031	http://www.matsuk12.us/kne	Knik Elementary School	2012.0	8829.0
+2032	http://labor.alaska.gov/dvr/	Vocational Rehabilitation Division	2009.0	24.0
+2034	http://www.asdk12.org/aboutschools/baxter/schoolname,3040,en.html	Baxter Elementary	2012.0	3.0
+2038	http://connect.kpbsd.k12.ak.us/	Connections	1999.0	76.0
+2039	http://www.matsuk12.us/mnc	Midnight Sun Family Learning Center	2012.0	8826.0
+2040	http://www.asdk12.org/aboutschools/rogerspark/schoolname,3087,en.html	Rogers Park Elementary	2012.0	3.0
+2042	http://www.legis.state.ak.us/basis/commbr_info.asp	Legislative Committees	2001.0	19617.0
+2045	http://www.begich.senate.gov/public/	Senator Mark Begich	0.0	709.0
+2046	http://www.matsuk12.us/tce	Trapper Creek Elementary	2012.0	8780.0
+2047	http://www.galenaalaska.org	www.galenaalaska.org	1998.0	14.0
+2048	https://education.alaska.gov/regs/	Comments on Regulations	2012.0	6.0
+2051	http://www.nomeschools.com/nes/index.html	Nome Youth Facility	2006.0	0.0
+2053	http://www.matsuk12.us/lre	Larson Elementary	2012.0	8816.0
+2055	http://www.asdk12.org/aboutschools/begich/schoolname,3108,en.html	Nicholas J. Begich Middle School	2012.0	3.0
+2056	http://www.asdk12.org/aboutschools/ursaminor/schoolname,3098,en.html	Ursa Minor Elementary	2012.0	3.0
+2057	http://www.asdk12.org/aboutschools/collegegate/schoolname,3052,en.html	College Gate Elementary	2012.0	3.0
+2058	http://www.cityofseward.us/	Seward, City of	2010.0	438.0
+2060	http://www.asdk12.org/aboutschools/wonderpark/schoolname,3091,en.html	Wonder Park Elementary	2012.0	3.0
+2062	http://www.legfin.state.ak.us/	Legislative Finance	1998.0	90.0
+2063	http://doa.alaska.gov/drb/	Division of Retirement and Benefits	2009.0	209.0
+2065	http://www.asdk12.org/aboutschools/taku/schoolname,3104,en.html	Taku Elementary	2012.0	3.0
+2066	http://www.cityofkotzebue.com/	Kotzebue, City of	2012.0	319.0
+2069	http://www.city.kodiak.ak.us/Home/Pages/home2.aspx	Kodiak, City of	2008.0	3.0
+2070	http://www.ideafamilies.org/	Interior Distance Education of Alaska (IDEA)	1999.0	11.0
+2072	http://www.adfg.alaska.gov/index.cfm?adfg=library.main	e-Library	2011.0	5039.0
+2073	http://www.dillinghamak.us/	Dillingham Public Library	2010.0	373.0
+2075	http://www.juneauschools.org	www.juneauschools.org	2009.0	184.0
+2076	http://jccs.juneauschools.org/	Juneau Community Charter School	2011.0	44.0
+2077	http://www.asdk12.org/aboutschools/scenicpark/schoolname,3107,en.html	Scenic Park Elementary	2012.0	3.0
+2078	http://www.dot.state.ak.us/stwddes/desports/	Ports & Harbors	2003.0	6.0
+2079	http://joy.k12northstar.org/	Joy Elementary	2009.0	171.0
+2081	http://dhss.alaska.gov/daph/Pages/default.aspx	Alaska Pioneer Homes	2012.0	43.0
+2083	http://w3.legis.state.ak.us/index.php	State Legislature	2007.0	72.0
+2084	http://www.asdk12.org/aboutschools/govthill/schoolname,3058,en.html	Government Hill Elementary	2012.0	5.0
+2085	http://education.alaska.gov/forms/home.cfm	Forms & Grants	2012.0	5.0
+2086	http://tax.alaska.gov/	Tax Division	2008.0	233.0
+2087	http://www.asdk12.org/aboutschools/mclaughlin/schoolname,3151,en.html	McLaughlin Secondary School	2012.0	2.0
+2090	http://fdms.juneauschools.org/	Floyd Dryden Middle School	2013.0	56.0
+2091	http://www.k12northstar.org	www.k12northstar.org	2009.0	806.0
+2092	http://www.asdk12.org/aboutschools/firelake/schoolname,3056,en.html	Fire Lake Elementary	2012.0	3.0
+2093	http://education.alaska.gov/schoolfinance/	School Finance	2012.0	3.0
+2094	http://www.asdk12.org/aboutschools/bayshore/schoolname,3217,en.html	Bayshore Elementary	2012.0	3.0
+2095	http://education.alaska.gov/contact.html	More. . .	2012.0	156.0
+2096	http://dps.alaska.gov	Department of Public Safety homepage	2008.0	580.0
+2098	http://www.alaskaseafood.org	Alaska Seafood Marketing Institute	1999.0	183.0
+2099	http://www.adfg.alaska.gov/index.cfm?adfg=education.main	Education and Outreach	2011.0	5995.0
+2100	http://ltgov.alaska.gov/	Office of the Lieutenant Governor homepage	2007.0	125.0
+2102	http://www.adfg.alaska.gov/index.cfm?adfg=fishing.main	Fishing	2011.0	5904.0
+2103	http://dps.alaska.gov/comm/	Commissioner's Office	2008.0	8.0
+2104	http://w3.legis.state.ak.us/misc/districts.php	Legislators by District	2007.0	0.0
+2106	http://www.correct.state.ak.us/corrections/admin/	Division of Administrative Services	1998.0	2.0
+2107	http://www.cityofbethel.org/	Bethel, City of	2002.0	1285.0
+2108	http://rhs.kgbsd.org/site/default.aspx?PageID=399	Revilla Jr/Sr High School	2013.0	9.0
+2111	http://www.asdk12.org/aboutschools/muldoon/schoolname,3076,en.html	Muldoon Elementary	2012.0	3.0
+2112	http://education.alaska.gov	Department of Education and Early Development homepage	2012.0	167.0
+2113	http://www.asdk12.org/aboutschools/south/schoolname,3183,en.html	South Anchorage High School	2012.0	4.0
+2114	http://www.uaa.alaska.edu/	University of Alaska Anchorage	1997.0	4525.0
+2115	http://www.aquariancharterschool.com/	Aquarian Charter School	2001.0	2.0
+2116	http://treasury.dor.alaska.gov	Treasury Division	2012.0	109.0
+2117	http://labor.alaska.gov/wc/	Workers' Compensation Division	2009.0	49.0
+2119	http://www.asdk12.org/aboutschools/ptarmigan/schoolname,3090,en.html	Ptarmigan Elementary	2012.0	3.0
+2120	http://dec.alaska.gov/eh/index.htm	Division of Environmental Health	2007.0	90.0
+2121	http://alaska.gov/employeehome.html	State Employees	2009.0	2681.0
+2122	http://dhss.alaska.gov/amhb/Pages/default.aspx	Alaska Mental Health Board	2012.0	12.0
+2123	http://www.asdk12.org/aboutschools/klatt/schoolname,3069,en.html	Klatt Elementary	2012.0	3.0
+2126	https://ovr.akleg.gov/	Office of the Victim's Rights	2014.0	9.0
+2128	http://w3.legis.state.ak.us/misc/legbranch.php	Legislative Branch	2007.0	7.0
+2130	http://commerce.alaska.gov/commissioner.htm	Office of the Commissioner	2012.0	1161.0
+2131	http://www.asdk12.org/aboutschools/romig/schoolname,3110,en.html	Romig Middle School	2012.0	5.0
+2133	http://www.adfg.alaska.gov/index.cfm?adfg=regulations.main	Regulations	2011.0	6432.0
+2134	http://www.dot.state.ak.us/stwdplng/projectinfo/index.shtml	Project Information	2004.0	3.0
+2136	http://www.psd-k12.org/	St George School	2008.0	30.0
+2138	http://law.alaska.gov/department/civil/rapa/rapa.html	Regulatory Affairs & Public Advocacy	2008.0	3.0
+2139	http://w3.legis.state.ak.us/pubs/pubs.php	Legislative Information Documents	2007.0	4.0
+2140	http://www.asdk12.org/aboutschools/inletview/schoolname,3062,en.html	Inlet View Elementary	2012.0	3.0
+2141	https://sites.google.com/a/mehs.us/home/	Mt. Edgecumbe High School	2010.0	411.0
+2142	http://www.asdk12.org/aboutschools/polaris/schoolname,3147,en.html	Polaris K-12 School	2012.0	2.0
+2143	http://www.dot.state.ak.us/stwdplng/hwysafety/	Highway Safety	2003.0	43.0
+2144	http://dnr.alaska.gov/ssd/recoff/default.cfm	Recorder's Office/UCC	2007.0	62.0
+2145	http://www.asdk12.org/aboutschools/orion/schoolname,3084,en.html	Orion Elementary School	2012.0	3.0
+2146	http://www.aebsd.org/site/default.aspx?PageID=1	Aleutians Correspondence Education School	2011.0	5.0
+2147	http://www.kakeschools.com	www.kakeschools.com	2007.0	13.0
+2148	http://www.asdk12.org/aboutschools/sandlake/schoolname,3085,en.html	Sand Lake Elementary	2012.0	4.0
+2149	http://www.ravenschool.com/site/default.aspx?PageID=1	Raven Correspondence School	2013.0	13.0
+2150	http://www.tax.alaska.gov/alaskafilmoffice/	Alaska Film Office	2013.0	2.0
+2151	http://education.alaska.gov/DOE_Rolodex/SchoolCalendar/	School Calendars	2012.0	805.0
+2153	http://alaska.gov/businesshome.html	Business in Alaska	2009.0	2596.0
+2154	http://sitkaschools.org/site/default.aspx?pageid=15	Sitka High School	2012.0	6.0
+2156	http://cms.gustavus-ak.gov/services/library	Gustavus Public Library	2008.0	302.0
+2157	http://w3.legis.state.ak.us/laa/laa.php	Legislative Affairs Agency	2007.0	4.0
+2158	http://education.alaska.gov/parents.html	Parents & Students	2012.0	167.0
+2159	http://sitkaschools.org/site/default.aspx?pageid=9	Baranof Elementary	2012.0	6.0
+2160	http://www.uaf.edu/	University of Alaska Fairbanks	1997.0	2206.0
+2161	http://www.kuspuk.org/site/default.aspx?PageID=1	Joseph S. & Olinga Gregory Elementary	2012.0	4.0
+2162	http://www.asdk12.org/aboutschools/mirrorlake/schoolname,3111,en.html	Mirror Lake Middle School	2012.0	4.0
+2163	http://www.dot.state.ak.us/stwddes/desbridge/	Bridge Design	2003.0	4.0
+2164	http://www.asdk12.org/aboutschools/bartlett/schoolname,3125,en.html	Bartlett High School	2012.0	8.0
+2165	http://www.biglakechamber.org/	Big Lake, Chamber of Commerce of	2007.0	30.0
+2167	http://commerce.alaska.gov/dnn/ded/Home.aspx	Division of Economic Development	2013.0	211.0
+2169	http://dps.alaska.gov/ast/	Division of Alaska State Troopers	2008.0	79.0
+2170	http://www.matsuk12.us/pjm	Palmer Middle School	2012.0	8834.0
+2171	http://www.kenailibrary.org/	Kenai Community Library	2000.0	219.0
+2172	http://commerce.alaska.gov/dnn/ins/home_dnnredirectpage.aspx	Division of Insurance	2014.0	223.0
+2174	http://www.matsuk12.us/cms	Colony Middle School	2012.0	8870.0
+2175	http://www.alaskarailroad.com/	Alaska Railroad	2000.0	394.0
+2176	http://dnr.alaska.gov	Department of Natural Resources homepage	2006.0	1341.0
+2177	http://www.asdk12.org/aboutschools/wendler/schoolname,3109,en.html	Wendler Middle School	2012.0	3.0
+2178	http://www.skagwayschool.org/	www.skagwayschool.org/	2003.0	805.0
+2179	http://dhss.alaska.gov/dpa/Pages/default.aspx	Public Assistance	2012.0	113.0
+2180	http://www.matsugov.us/	Matanuska-Susitna Borough	2003.0	73.0
+2182	http://www.dot.state.ak.us	Department of Transportation and Public Facilities homepage	1997.0	188.0
+2184	http://www.dot.state.ak.us/procurement/bidding/	Construction Bidding	2005.0	2.0
+2185	http://www.asdk12.org/aboutschools/susitna/schoolname,3105,en.html	Susitna Elementary	2012.0	4.0
+2186	http://dor.alaska.gov/commissionersoffice.aspx	Office of the Commissioner	2013.0	96.0
+2187	http://doa.alaska.gov/ets/	Enterprise Technology Services	2009.0	61.0
+2188	http://www.akoltco.org/	Office of the Long Term Care Ombudsman	2004.0	11.0
+2189	http://www.whittieralaska.gov/	Whittier, City of	2008.0	19.0
+2190	http://www.matsuk12.us/fle	Finger Lake Elementary	2012.0	8853.0
+2191	http://www.nomeschools.com/beltz/index.html	Nome-Beltz Jr/Sr High	2006.0	0.0
+2192	http://www.dot.state.ak.us/stwdplng/areaplans/	Statewide Area Plan	2003.0	17.0
+2193	http://www.roadweather.alaska.gov	Road Weather Info System	2004.0	293.0
+2194	http://www.alaska.edu/alaska/	University of Alaska homepage	2011.0	9.0
+2195	http://treasury.dor.alaska.gov/armb/Home.aspx	Alaska Retirement Management Board	2014.0	17.0
+2196	http://treasury.dor.alaska.gov/UnclaimedProperty.aspx	Unclaimed Property Searchable Database	2013.0	109.0
+2197	http://www.legis.state.ak.us/basis/folio.asp	Alaska Statutes and Current	2007.0	19332.0
+2199	http://dhss.alaska.gov/Pages/default.aspx	Department of Health and Social Services homepage	2012.0	1555.0
+2200	http://education.alaska.gov/alaskan_schools/charter/	Charter Schools	2012.0	3.0
+2201	http://www.nomeschools.com	www.nomeschools.com	2002.0	32.0
+2202	http://education.alaska.gov/tls/assessment/	Assessments	2012.0	44.0
+2204	http://www.kuinerrarmiut.com/	Kuinerrarmiut Elitnaurviat	2012.0	102.0
+2205	http://commerce.alaska.gov/dnn/sac/dnnredirect.html	Serve Alaska, State Service Commission	2013.0	369.0
+2206	http://www.matsuk12.us/mle	Meadow Lakes Elementary	2012.0	8904.0
+2207	http://doa.alaska.gov/vccb/	Violent Crimes Compensation Board	2009.0	26.0
+2208	http://labor.alaska.gov/commish/	Office of the Commissioner	2009.0	4.0
+2209	http://www.correct.state.ak.us/corrections/communitycorr/	Division of Probation and Parole	2002.0	2.0
+2210	http://doa.alaska.gov/dgs/	Division of General Services	2009.0	18.0
+2213	http://www.nenana.org	Nenana, City of	2004.0	13.0
+2216	http://www.adfg.alaska.gov/index.cfm?adfg=subsistence.main	Subsistence	2011.0	5657.0
+2217	http://ccalaska.com/	Coffman Cove, City of	2008.0	65.0
+2218	http://skagwaylibrary.blogspot.com/	Skagway Public Library	2011.0	123.0
+2219	http://law.alaska.gov/department/criminal/criminal_div.html	Criminal Division	2008.0	29.0
+2220	http://www.adfg.alaska.gov/index.cfm?adfg=hunting.main	Hunting/Shooting/Trapping	2011.0	5120.0
+2221	http://doa.alaska.gov/dop/	Division of Personnel and Labor Relations	2009.0	82.0
+2222	http://www.matsuk12.us/wms	Wasilla Middle School	2012.0	8864.0
+2225	http://dps.alaska.gov/afsc/	Alaska Fire Standards Council	2008.0	21.0
+2227	http://childsupport.alaska.gov/	Division of Child Support Services	2004.0	21.0
+2228	http://www.asdk12.org/aboutschools/crossroads/schoolname,3139,en.html	Crossroads School	2012.0	2.0
+2230	http://www.arctic.net/~alibrary/	Cooper Landing Community Library	2000.0	1.0
+2231	http://www.asdk12.org/aboutschools/assdhh/schoolname,3135,en.html	Alaska State School for the Deaf & Hard of Hearing	2012.0	2.0
+2232	http://uas.alaska.edu/	University of Alaska Southeast	1999.0	2789.0
+2234	http://commerce.alaska.gov/dnn/dbs/home_DNNredirect.aspx	Division of Banking and Securities	2014.0	109.0
+2236	http://www.correct.state.ak.us/corrections/institutions/	Division of Institutions	1999.0	2.0
+2237	http://www.mhtrustland.org/	Alaska Mental Health Trust Land Office	2004.0	7.0
+2238	http://www.matsuk12.us/gvs	Glacier View School	2012.0	8858.0
+2239	http://commerce.alaska.gov/dnn/das/Home.aspx	Division of Administrative Services	2012.0	5.0
+2241	http://www.asdk12.org/aboutschools/mtspurr/schoolname,3074,en.html	Mt. Spurr Elementary	2013.0	3.0
+2242	http://dps.alaska.gov/amberalert/	Amber Alert	2011.0	14.0
+2243	http://www.asdk12.org/aboutschools/kasuun/schoolname,3065,en.html	Kasuun Elementary	2012.0	3.0
+2247	http://doa.alaska.gov/dop/trainingdevelopment/	Training and Development	2010.0	8.0
+2248	http://doa.alaska.gov/dof/	Division of Finance	2011.0	68.0
+2249	http://www.dot.state.ak.us/permits/index.shtml	Right of Way Permitting Online	2005.0	4.0
+2250	http://law.alaska.gov/department/criminal/doa.html	Regional District Attorneys	2008.0	29.0
+2253	http://ltgov.alaska.gov/treadwell/notaries.html	Notary Office	2011.0	11.0
+2254	http://doa.alaska.gov/dmv/	Division of Motor Vehicles--On-line Services	2009.0	54.0
+2256	http://www.agsd.us	www.agsd.us	2009.0	36.0
+2257	http://dnr.alaska.gov/mlw/	Division of Mining, Land and Water	2007.0	272.0
+2258	http://www.dot.state.ak.us/stwddes/	Statewide Design & Engineering Services	2002.0	80.0
+2260	http://www.dot.state.ak.us/sereg/surveydata/	Southeast Right of Way Plats & Survey Data	2003.0	3.0
+2262	http://labor.alaska.gov/esd/	Employment Security Division	2009.0	5.0
+2264	http://www.matsuk12.us/svs	Susitna Valley High	2012.0	8865.0
+2265	http://www.muni.org/departments/library/pages/loussaclibrary.aspx	Z. J. Loussac Library	2010.0	4.0
+2266	http://www.dot.state.ak.us/procurement/	Procurement	2005.0	8.0
+2267	http://www.cordovalibrary.org/	Cordova Public Library	2002.0	22.0
+2270	http://www.matsuk12.us/hms	Houston Middle School	2012.0	8885.0
+2272	http://dnr.alaska.gov/ssd/	Division of Support Services	2007.0	25.0
+2273	http://www.legis.state.ak.us/basis/start.asp	Bill Action Status	2001.0	19580.0
+2275	http://www.akaerospace.com/	Alaska Aerospace Corporation	1998.0	43.0
+2277	http://gila.galenaalaska.org/	Galena Interior Learning Academy (GILA)	2005.0	3.0
+2278	http://phe.kgbsd.org/site/default.aspx?PageID=1	Point Higgins School	2012.0	9.0
+2279	http://www.asdk12.org/aboutschools/rilkeschule/schoolname,3128,en.html	Rilke Schule Charter School	2012.0	2.0
+2280	http://chenegabay.csd.schoolaccess.net/	Chenega Bay School	2003.0	1.0
+2282	http://www.matsuk12.us/mds	Mat-Su Day School	2012.0	8859.0
+2283	http://www.ajc.state.ak.us/	Alaska Judicial Council	1997.0	31.0
+2284	http://education.alaska.gov/educators.html	Educators & Administrators	2012.0	169.0
+2285	http://education.alaska.gov/tls/cte/	Career & Technical Education	2012.0	25.0
+2287	http://www.asdk12.org/aboutschools/save/schoolname,3146,en.html	S.A.V.E. High School	2012.0	2.0
+2289	http://labor.alaska.gov/asd/	Administrative Services Division	2009.0	4.0
+2290	http://sitkaschools.org/site/default.aspx?pageid=19	Sitka Correspondence	2012.0	5.0
+2292	http://sitkaschools.org/site/default.aspx?pageid=17	Pacific High School	2012.0	5.0
+2295	http://www.dot.alaska.gov/stwdplng/mapping/index.shtml	Transportation Geographic Information Section	2005.0	15.0
+2296	http://sitkaschools.org/site/default.aspx?pageid=13	Blatchley Middle School	2012.0	7.0
+2297	http://sitkaschools.org/site/default.aspx?pageid=11	Keet Gooshi Heen Elementary	2012.0	7.0
+2298	http://dlc.iditarodsd.org/	Distance Learning/Corresp. Ctr.	2013.0	29.0
+2300	http://www.dot.state.ak.us/mscve/	Measurement Standards & Commercial Vehicle Enforcement	2001.0	23.0
+2303	http://www.ajc.state.ak.us/conduct.htm	Alaska Commission on Judicial Conduct	1997.0	3.0
+2305	http://pfd.alaska.gov/	Division of Permanent Fund Dividend	2001.0	55.0
+2307	http://www.matsuk12.us/btc	Birchtree Charter School	2012.0	8927.0
+2308	http://511.alaska.gov/	511 - Traveler Information	2003.0	44.0
+2309	http://www.fmo.dmva.alaska.gov	Facilities Maintenance Office	2008.0	19.0
+2312	http://www.dggs.alaska.gov	Division of Geological & Geophysical Surveys	2010.0	2647.0
+2313	http://www.asdk12.org/aboutschools/fairview/schoolname,3055,en.html	Fairview Elementary	2012.0	3.0
+2314	http://www.asdk12.org/aboutschools/ursamajor/schoolname,3099,en.html	Ursa Major Elementary	2012.0	3.0
+2315	http://www.matsugov.us/msln/msb/willow//	Willow Public Library	0.0	0.0
+2316	http://dhss.alaska.gov/gcdse/Pages/default.aspx	Governor's Council on Disabilities & Special Education	2013.0	97.0
+2317	http://www.asdk12.org/aboutschools/mears/schoolname,3112,en.html	Mears Middle School	2012.0	4.0
+2318	http://www.alaska.gov/akdir1.html#top	Back to top	2014.0	3838.0
+2319	http://www.haineslibrary.org/	Haines Borough Public Library	2001.0	261.0
+2320	http://www.matsuk12.us/acc	Academy Charter School	2012.0	8853.0
+2321	http://doa.alaska.gov/	Department of Administration homepage	2009.0	178.0
+2323	http://www.asdk12.org/aboutschools/goldenview/schoolname,3116,en.html	Goldenview Middle School	2012.0	3.0
+2324	http://education.alaska.gov/alaskan_schools/	School Districts & Public Colleges	2012.0	9.0
+2325	http://www.matsuk12.us/acs	Alaska Middle College School	2012.0	8758.0
+2327	http://www.matsuk12.us/she	Sherrod Elementary	2012.0	8779.0
+2328	http://www.dlghomeschool.org/	Dillingham Correspondence School	2011.0	4.0
+2329	http://www.asdk12.org/aboutschools/benson/schoolname,3137,en.html	Benson Secondary/S.E.A.R.C.H.	2012.0	2.0
+2331	http://dps.alaska.gov/cdvsa/	Council on Domestic Violence and Sexual Assault	2008.0	58.0
+2332	http://www.asdk12.org/aboutschools/tyson/schoolname,3100,en.html	William Tyson Elementary	2012.0	3.0
+2333	http://ci.fairbanks.ak.us/	Fairbanks, City of	2001.0	3.0
+2334	http://www.asdk12.org/aboutschools/russianjack/schoolname,3086,en.html	Russian Jack Elementary	2012.0	3.0
+2337	http://www.asdk12.org/aboutschools/east/schoolname,3121,en.html	East High School	2012.0	4.0
+2339	http://www.dot.state.ak.us/stwddes/desmaterials/	Materials	2005.0	15.0
+2340	http://www.firstcitylibraries.org/	Ketchikan Public Library	2002.0	61.0
+2341	http://www.asdk12.org/aboutschools/whaley/schoolname,3143,en.html	Whaley School	2012.0	2.0
+2342	http://dhss.alaska.gov/dhcs/Pages/default.aspx	Health Care Services	2012.0	82.0
+2343	http://seldovialibrary.wordpress.com/	Seldovia Public Library	2007.0	772.0
+2344	http://www.muni.org/departments/library/pages/default.aspx	Anchorage Public Library	2009.0	4.0
+2346	http://www.asdk12.org/aboutschools/kincaid/schoolname,3068,en.html	Kincaid Elementary	2012.0	3.0
+2347	http://tmhs.juneauschools.org/	Thunder Mountain High School	2012.0	336.0
+2348	http://www.bbbsd.net/	Bristol Bay Middle/High School	2008.0	0.0
+2349	http://agsd.us/schools/tokschool/	Tok School	2009.0	6.0
+2351	http://www.correct.state.ak.us	Department of Corrections homepage	1998.0	503.0
+2352	http://www.yupiit.org/site/default.aspx?PageID=1	www.yupiit.org	2013.0	7.0
+2353	http://www.matsuk12.us/chs	Colony High School	2012.0	8683.0
+2354	http://education.alaska.gov/doe_rolodex/eeddirectory/edorgdetails.cfm	Educational Organizations	2012.0	0.0
+2355	http://doa.alaska.gov/dop/eeo/	Office of Equal Employment Opportunity	2010.0	4.0
+2357	http://www.muni.org/departments/library/pages/mdbranchlibrary.aspx	Muldoon Branch Library	2010.0	4.0
+2359	http://www.matsuk12.us/amc	American Charter Academy	2012.0	8531.0
+2360	http://dor.alaska.gov	Department of Revenue homepage	2009.0	96.0
+2361	http://dog.dnr.alaska.gov/	Division of Oil and Gas	2011.0	46.0
+2362	http://www.elections.alaska.gov	Division of Elections	2007.0	258.0
+2363	http://www.matsuk12.us/ste	Sutton Elementary	2012.0	2304.0
+2365	http://doa.alaska.gov/apoc/	Public Offices Commission - APOC	2009.0	58.0
+2366	http://www.matsuk12.us/wle	Willow Elementary	2012.0	8551.0
+2367	http://www.asdk12.org/aboutschools/winterberry/schoolname,3127,en.html	Winterberry School	2012.0	2.0

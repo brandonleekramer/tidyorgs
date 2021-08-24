@@ -1,0 +1,470 @@
+NodeId	NodeURL	NodeName	Year	pages
+55708	http://www.hartfordschools.net/Schools/WRS/tabid/282/Default.aspx	White River School (White River Junction)	2007.0	4.0
+55709	http://www.sburlcomlib.com/	South Burlington, South Burlington Community Library	2013.0	2.0
+55710	http://www.hartfordschools.net/Schools/OQS/tabid/59/Default.aspx	Ottauquechee School (Quechee)	2007.0	4.0
+55711	http://www.plattlib.org	Shoreham, Platt Memorial Library	2005.0	16.0
+55712	http://www.springfieldtownlibrary.org	Springfield, Springfield Town Library	2004.0	26.0
+55713	http://www.vtc.edu/	Vermont Technical College	2001.0	1340.0
+55715	http://accd.vermont.gov	Housing and Community Development, Dept. of	2012.0	961.0
+55716	http://bixbylibrary.org/WPBixby/	Vergennes, Bixby Memorial Library	2011.0	52.0
+55717	http://www.vtlottery.com/	Lottery Commission	1998.0	145.0
+55718	http://brookslibraryvt.org	Brattleboro, Brooks Memorial Library	2013.0	1259.0
+55719	http://roxburyfreelibrary.com	Roxbury, Roxbury Free Library	2013.0	26.0
+55720	http://whitinglibrary.wordpress.com	Chester, Whiting Library	2013.0	17.0
+55721	http://www.brownpubliclibrary.org	Northfield, Brown Public Library	2005.0	16.0
+55722	http://charlottepubliclibrary.org	Charlotte, Charlotte Library	2004.0	27.0
+55723	http://www.mesk8.net/	Montgomery Elementary School	2013.0	17.0
+55724	http://www.veda.org/	Economic Development Authority (VEDA)	1999.0	198.0
+55725	http://www.arlingtonmemorialhs.org/?f	Fisher Elementary School (Arlington)	2013.0	1.0
+55726	http://www.windhamsw.k12.vt.us/	Windham Southwest Supervisory Union	2003.0	151.0
+55727	http://www.addisoncentralsu.org/maryhogan/index/index.htm	Mary Hogan School (Middlebury)	0.0	0.0
+55728	http://stafford.rutlandcitypublicschools.org/	Stafford Technical Center (Rutland)	2010.0	1195.0
+55730	http://haskellopera.com	Derby Line, Haskell Free Library	2012.0	55.0
+55731	http://www.jerichotownlibrary.org/	Jericho Center, Jericho Town Library	2010.0	8.0
+55732	http://grandislefreelibraryvt.wordpress.com	Grand Isle, Grand Isle Free Library	2013.0	26.0
+55733	http://www.leg.state.vt.us/	State Legislature	1997.0	2530.0
+55734	http://salisburypubliclibrary.wordpress.com	Salisbury, Salisbury Free Public Library	2013.0	26.0
+55736	http://www.stjsd.org/	St. Johnsbury School District	2001.0	227.0
+55737	http://www.wrvschool.org/	Waits River Valley School	2008.0	39.0
+55738	http://moorefreelibrary.org	Newfane, Moore Free Library	2011.0	1.0
+55739	http://westfield.vt.gov/hitchcock-library/	Westfield, Hitchcock Museum and Library	0.0	5.0
+55740	https://sites.google.com/a/bes.berkshirek8.net/besk8/	Berkshire Elementary School	2013.0	37.0
+55742	http://www.weathersfieldproctorlibrary.org/	Ascutney, Weathersfield Proctor Library	2013.0	494.0
+55743	http://rms.rutlandcitypublicschools.org/	Rutland Middle School	2010.0	17.0
+55744	http://hartfordvtlibrary.org	Hartford, Hartford Library	2011.0	42.0
+55745	http://www.vita-learn.org/	Cambridge Elementary School	1999.0	85.0
+55747	http://www.csdvt.org	Colchester School District	2007.0	175.0
+55748	http://highgatelibrary.wordpress.com/	Highgate, Highgate Public Library	2009.0	45.0
+55749	http://www.wssu.k12.vt.us/schools/index.html	Windham Southeast Supervisory Union	2002.0	5.0
+55750	http://www.windsorschools.net/whs/	Windsor Junior and Senior High School	2011.0	374.0
+55751	http://www.tunbridgelibrary.org/	Tunbridge, Tunbridge Public Library	2008.0	67.0
+55752	http://www.twinfield.net/	Twinfield Union School	1999.0	2.0
+55753	http://liquorcontrol.vermont.gov/	Liquor Control, Dept. of  (DLC)	2006.0	74.0
+55757	http://www.doverfreelibrary1913.org	Dover, Dover Free Library	2005.0	735.0
+55758	http://www.orangecenterschool.org/	Orange Center School	2006.0	0.0
+55759	http://www.benningtonfreelibrary.org	Bennington, Bennington Free Library	2005.0	2.0
+55761	http://www.vermonttreasurer.gov/retirement/municipal-vmers	Retirement System for Municipal Employees (VMERS)	2010.0	92.0
+55762	http://www.lanpherlibrary.org/	Hyde Park, Lanpher Memorial Library	2011.0	345.0
+55765	http://sheldonlibrary.wordpress.com/	Sheldon, Sheldon Library	2014.0	24.0
+55766	http://dcf.vermont.gov/fsd/	Family Services Division	2008.0	143.0
+55767	http://www.joslinmemoriallibrary.com	Waitsfield, Joslin Memorial Library	2002.0	11.0
+55768	http://www.royaltonlibrary.org/	South Royalton, Royalton Memorial Library	2010.0	6.0
+55769	http://auditor.vermont.gov/	Auditor's Office (Vermont State Auditor Doug Hoffer)	2006.0	43.0
+55771	http://www.ccsuvt.org/cte/	Center for Technology, Essex	2007.0	187.0
+55773	https://sites.google.com/site/cabotpubliclibrary/	Cabot, Cabot Public Library	2011.0	51.0
+55774	http://windhamlibrary.wordpress.com	Windham, Windham Town Library	0.0	17.0
+55775	http://www.sec.state.vt.us	Secretary of State Jim Condos	1996.0	924.0
+55776	http://westrutlandlibrary.wordpress.com	West Rutland, West Rutland Public Library	0.0	9.0
+55777	http://www.oxbowhighschool.org/	Oxbow High School (Bradford)	2004.0	49.0
+55778	http://dcf.vermont.gov/esd/	Economic Services Division	2008.0	49.0
+55779	http://www.straffordlibrary.org/	Strafford, Morrill Memorial and Harris Library	2012.0	249.0
+55780	http://townshendlibrary.org/	Townshend, Townshend Public Library	2011.0	7.0
+55782	http://central.sf.sbschools.net/	Rick Marcotte Central School (South Burlington)	2013.0	190.0
+55783	http://www.ccvs.state.vt.us/	Crime Victim Services, Center for	2000.0	290.0
+55785	https://brsu.haikulearning.com/brsu/manchestermiddleelementaryschool/cms_page/view	Manchester Elementary and Middle School	2012.0	42.0
+55786	http://www.rumney.org	Rumney Memorial School (Middlesex)	1999.0	1.0
+55787	http://www.clarendonschool.org/	Clarendon Elementary School	2006.0	1.0
+55788	http://millersrun.cnsuschools.org/	Miller's Run School (Sheffield)	2013.0	33.0
+55789	http://marlboroschool.net/	Marlboro Elementary School	2007.0	79.0
+55790	http://www.moretownvt.org/moretown-library/	Moretown, Moretown Memorial Library	2013.0	3.0
+55791	http://www.richmond.k12.vt.us/	Richmond Elementary School	1999.0	185.0
+55792	http://prosecutors.vermont.gov/	State's Attorneys and Sheriffs, Department of	2009.0	24.0
+55793	http://www.maclurelibrary.org	Pittsford, Maclure Library	2007.0	30.0
+55794	http://ahs.vermont.gov/services/	ServiceNet - Help for Vermonters from the Agency of Human Services	2014.0	1.0
+55795	http://orangesouthwest.org/res	Randolph Elementary	2012.0	363.0
+55796	http://www.hartfordschools.net/	Hartford School District	2007.0	483.0
+55798	http://healthvermont.gov/	Health, Dept. of	2006.0	2015.0
+55800	http://bradfordvtlibrary.org	Bradford, Bradford Public Library	2009.0	65.0
+55801	http://marthacanfieldlibrary.org	Arlington, Martha Canfield Memorial Library	2006.0	479.0
+55802	http://weathersfieldschools.org/	Weathersfield Elementary School	2007.0	388.0
+55803	http://www.csdvt.org/pps/	Porters Point School (Colchester)	2008.0	11.0
+55804	http://grotonlibraryvt.org	Groton, Groton Free Public Library	2013.0	13.0
+55805	http://libraries.vermont.gov/	Libraries, Dept. of	2007.0	595.0
+55806	http://www.graftonpubliclibrary.org	Grafton, Grafton Public Library	2008.0	82.0
+55807	http://corrections.vermont.gov	Corrections, Dept. of	2007.0	220.0
+55808	http://tysonlibrary.wordpress.com	Ludlow, Tyson Library	0.0	2.0
+55809	http://baileylibraryvt.wordpress.com	North Clarendon, Bailey Memorial Library	0.0	5.0
+55811	http://www.underhill.k12.vt.us/	Underhill Central School	2001.0	174.0
+55812	http://vuhs.org/	Vergennes Union High School	2000.0	54.0
+55813	http://www.vtlife.com/	Vermont Life	1996.0	2.0
+55814	http://tbps.wwsu.org/	Thatcher Brook Primary School (Waterbury and Duxbury)	2014.0	36.0
+55815	http://bfa.fcsuvt.org/	Bellows Free Academy (St Albans)	0.0	0.0
+55816	http://www.swantonlibrary.org/	Swanton Public Library	2009.0	5.0
+55817	http://www.halifaxschool.org/	Halifax School	2004.0	24.0
+55818	http://russelllibraryvt.wordpress.com	Monkton, Russell Memorial Library	0.0	11.0
+55820	http://slgriffithlibrary.wordpress.com	Danby, S.L. Griffith Memorial Library	0.0	6.0
+55821	http://www.daileymemoriallibrary.org	Derby, Dailey Memorial Library	2011.0	39.0
+55822	http://humanservices.vermont.gov/tobacco	Tobacco Evaluation & Review Board	2006.0	253.0
+55824	http://www.bams.k12.vt.us/	Brattleboro Area Middle School	2002.0	28.0
+55825	http://www.ocsu.org/	Orleans Central Supervisory Union	2001.0	115.0
+55826	http://www.chms.k12.vt.us/	Camels Hump Middle School (Richmond)	2002.0	317.0
+55828	http://benson-vt.com/benson-pl.php	Benson, Benson Public Library	2009.0	0.0
+55829	http://thetfordlibrary.org	Thetford, Latham Memorial Library	2013.0	201.0
+55830	http://wes.wcsu.net/	Woodstock Elementary School	2011.0	101.0
+55831	http://www.cesu.k12.vt.us/	Chittenden East Supervisory Union	2001.0	986.0
+55832	http://www.vernonfreelibrary.org/vernon/	Vernon, Vernon Free Library	2007.0	838.0
+55833	http://www.beschool.org/	Bradford Elementary School	2005.0	42.0
+55834	http://jonesmemoriallibrary.wordpress.com	Orleans, Jones Memorial Library	2013.0	22.0
+55835	http://www.themountainschool.org/	Winhall Elementary School (The Mountain School)	2003.0	6756.0
+55839	http://muhs-school.org/	Middlebury Union High School	0.0	122.0
+55840	http://www.stalbansfreelibrary.org	Saint Albans, St. Albans Free Library	2012.0	13.0
+55842	http://www.peachamschool.org/	Peacham Elementary School	2007.0	63.0
+55843	http://www.owsu.org/	Orange Windsor Supervisory Union	2007.0	207.0
+55844	http://www.kellogghubbard.org	Montpelier, Kellogg Hubbard Library	2006.0	289.0
+55845	http://www.wcsu46.org/brookline/	Brookline Elementary School	2009.0	1.0
+55846	http://www.shsbtc.org/	Spaulding High School (Barre)	2007.0	110.0
+55849	http://accd.vermont.gov/strong_communities/preservation/	Historic Preservation, Vermont Division for	2012.0	67.0
+55850	http://nces.ncsuvt.org/	Newport City Elementary School	2012.0	215.0
+55851	http://northwest.rutlandcitypublicschools.org/	Northwest Primary School and Pierpoint Primary Learning Center (Rutland)	2010.0	20.0
+55853	http://www.sharon.owsu.org/	Sharon Elementary School	2007.0	45.0
+55854	http://www.addisoncentralsu.org/mums/index.html	Middlebury Union Middle School	2012.0	0.0
+55855	http://www.chelsea.owsu.org/	Chelsea Public School	2007.0	85.0
+55859	http://www.bpms.k12.vt.us/	Brewster Pierce Memorial School (Huntington)	2003.0	204.0
+55860	http://orwellfreelibrary.org/	Orwell, Orwell Free Library	2013.0	19.0
+55861	http://www.gloverschool.org/	Glover Community School	2008.0	4.0
+55863	http://www.nrb.state.vt.us	Natural Resources Board	2005.0	18.0
+55864	http://firesafety.vermont.gov/	Department of Fire Safety, Department of Public Safety	2011.0	151.0
+55866	http://www.smilie.k12.vt.us/	Smilie Elementary School (Bolton)	2002.0	204.0
+55867	http://www.barton.ocsu.org/	Barton Academy and Graded School	2008.0	10.0
+55868	http://www.wcsu.net/	Windsor Central Supervisory Union	2001.0	88.0
+55871	http://cornwallvt.com/library/	Cornwall, Cornwall Free Public Library	2013.0	3.0
+55872	http://academyvt.com/	Academy School (Brattleboro)	2009.0	40.0
+55873	http://www.craftsburypubliclibrary.org	Craftsbury, Craftsbury Public Library	2002.0	16.0
+55874	http://tenneymemoriallibrary.org	Newbury, Tenney Memorial Library	2009.0	44.0
+55875	http://belcherlibrary.wordpress.com	Gaysville, Belcher Memorial Library	2014.0	5.0
+55877	http://www.quecheelibrary.org	Quechee, Quechee Library	2007.0	2.0
+55878	http://dail.vermont.gov/	Disabilities, Aging and Independent Living, Dept. of  (DAIL)	2007.0	31.0
+55879	http://www.brownelllibrary.org/	Essex Junction, Brownell Library	2008.0	42.0
+55880	http://thevarnum.org	Jeffersonville, Varnum Memorial Library	2013.0	12.0
+55881	http://www.essex.org/index.asp?Type=B_BASIC&SEC={7184EFBC-C919-43DF-8515-885060313675}	Essex, Essex Free Library	2007.0	690.0
+55882	http://www.norwichlibrary.org	Norwich, Norwich Public Library	2001.0	82.0
+55883	http://www.hartland.k12.vt.us/	Hartland Elementary School	1997.0	3.0
+55885	http://www.mpsvt.org/mhs/	Montpelier High School	2010.0	385.0
+55886	http://www.waldenschoolvt.org/	Walden School	2001.0	51.0
+55887	http://bartonpubliclibrary.org	Barton, Barton Public Library	2011.0	8.0
+55888	http://www.addisoncentralsu.org/ripton/index.html	Ripton Elementary School	0.0	0.0
+55889	http://www.vtang.org/	Air National Guard	2004.0	1.0
+55890	http://www.cabotschool.org/	Cabot School	2000.0	2.0
+55892	http://www.atg.state.vt.us/	Attorney General's Office (Vermont Attorney General William H. Sorrell)	2003.0	928.0
+55893	http://winooskilibrary.wordpress.com	Winooski, Winooski Memorial Library	2012.0	11.0
+55894	http://publicservice.vermont.gov	Public Service, Dept. of	2005.0	108.0
+55895	http://vsp.vermont.gov/	Police (Vermont State Police)	2011.0	182.0
+55897	http://dii.vermont.gov/ECTO/	Chief Technology Officer, Office of (CTO)	2011.0	2.0
+55898	http://bsdweb.bsdvt.org/	Burlington School District	2007.0	318.0
+55899	http://www.bmuschool.org/	Blue Mountain Union School	2001.0	942.0
+55903	http://www.wssu.org/	Washington South Supervisory Union	2001.0	0.0
+55904	http://lyndonstate.edu/	Lyndon State College	2002.0	1481.0
+55905	http://marybloodlibrary.wordpress.com/	Brownsville, Mary L. Blood Memorial Library	0.0	14.0
+55906	http://www.readwithus.org	Whitingham, Whitingham Free Public Library	2003.0	9.0
+55907	http://www.state.vt.us/tax/	Taxes,  Dept. of	1998.0	123.0
+55908	http://www.ccsuvt.org/fleming/	Thomas Fleming School (Essex)	2007.0	118.0
+55909	http://www.cssu.org/site/default.aspx?PageID=1	Chittenden South Supervisory Union	2011.0	18.0
+55911	http://cavendishlibrary.org	Proctorsville, Cavendish Fletcher Community Library	2008.0	7.0
+55912	http://www.wardsboropubliclibrary.org	Wardsboro, Wardsboro Free Public Library	2008.0	6.0
+55913	http://aldrichpubliclibrary.org	Barre, Aldrich Public Library	2011.0	140.0
+55915	http://barnetvt.org/library.php	Barnet, Barnet Public Library	2011.0	0.0
+55917	http://www.gisu.org/alburgh/	Alburgh Community Education Center	2009.0	90.0
+55918	http://www.fmlnews.org	Ludlow, Fletcher Memorial Library	2009.0	12.0
+55919	http://www.drml.org	Jericho/Underhill, Deborah Rawson Memorial Library	2002.0	604.0
+55920	http://www.waterburypubliclibrary.com	Waterbury, Waterbury Public Library	2004.0	23.0
+55921	http://www.williston.lib.vt.us	Williston, Dorothy Alling Memorial Library	2001.0	3447.0
+55923	http://dmv.vermont.gov	Motor Vehicles, Dept. of  (DMV)	2009.0	501.0
+55924	http://bgs.vermont.gov/purchasing	Office of Purchasing & Contracting	2008.0	354.0
+55925	http://stamfordlibrary.org/stamford/	Stamford, Stamford Community Library	2011.0	729.0
+55927	http://orangesouthwest.org/brookfield	Brookfield Elementary	2012.0	361.0
+55928	https://sites.google.com/site/huntingtonvtlibrary/	Huntington Public Library	2013.0	22.0
+55929	https://sites.google.com/a/anwsu.org/vergennes-union-elementary-school/	Vergennes Union Elementary School	2014.0	23.0
+55930	http://hcr.vermont.gov/	Health Care Reform, Vermont	2007.0	55.0
+55931	http://aoa.vermont.gov/	Administration, Agency of	2008.0	30.0
+55932	http://www.jericho.k12.vt.us/	Jericho Elementary School	2001.0	144.0
+55934	http://ddc.vermont.gov/	Developmental Disabilities Council, Vermont	2007.0	29.0
+55936	http://www.doverschool.net/	Dover Elementary School	2010.0	9.0
+55937	http://abbottmemoriallibrary.org	South Pomfret, Abbott Memorial Library	2012.0	3.0
+55938	http://www.lawrencelibrary.net	Bristol, Lawrence Memorial Library	2006.0	11.0
+55939	http://www.nhcl.org/	New Haven, New Haven Community Library	2009.0	22.0
+55940	http://www.swantonschools.com	Swanton Elementary School	2005.0	12.0
+55941	http://www.lnsu.org/	Lamoille North Supervisory Union	2006.0	1149.0
+55943	http://vershare.org/library/	Vershire, Vershire Community Library	2013.0	4.0
+55944	http://hastonlibrary.wordpress.com	Franklin, Haston Library	2013.0	87.0
+55945	http://daviesmemoriallibrary.org	Lower Waterford, Davies Memorial Library	2003.0	22.0
+55946	http://www.svsu.net/mauhs/index.php	Mt. Anthony Union High School (Bennington)	2011.0	1.0
+55948	http://www.mtsd-vt.org/MHS/index.htm	Milton High School	2007.0	38.0
+55949	http://www.mvuschool.org/	Missisquoi Valley High School	2007.0	89.0
+55950	http://www.dotyschool.org	Doty Memorial School (Worcester)	2001.0	137.0
+55951	http://www.guilfordschool.org/	Guilford Central School	2003.0	388.0
+55952	http://www.hartlandlibraryvt.org	Hartland, Hartland Public Library	2008.0	31.0
+55953	http://dcf.vermont.gov/ocs	Child Support, Office of	2008.0	430.0
+55954	http://readsborocommunitylibrary.wordpress.com	Readsboro, Readsboro Community Library	2013.0	10.0
+55955	http://homepages.sover.net/~wilken/guilfordlibrary/	Guilford, Guilford Free Library	2011.0	7.0
+55956	http://dps.vermont.gov	Public Safety, Dept. of	2011.0	169.0
+55957	http://mtlvermont.wordpress.com	Montgomery, Montgomery Town Library	2013.0	71.0
+55958	http://www.anr.state.vt.us/	Natural Resources, Agency of  (ANR)	1998.0	153.0
+55959	https://sites.google.com/site/guildhallpubliclibrary/	Guildhall, Guildhall Public Library	0.0	27.0
+55960	http://www.ilsleypubliclibrary.org	Middlebury, Ilsley Public Library	2002.0	438.0
+55961	http://www.hartfordschools.net/Schools/HACTC/tabid/56/Default.aspx	Hartford Area Career and Technology Center	2007.0	4.0
+55962	http://www.rvtc.org/	River Valley Technical Center (Springfield)	2001.0	204.0
+55963	http://popememoriallibrary.org/	Danville, Pople Memorial Library	2013.0	18.0
+55964	http://www.calaisschool.org	Calais Elementary School	2001.0	1372.0
+55965	http://www.tunbridge.owsu.org/	Tunbridge Central School	2007.0	21.0
+55967	http://defgen.vermont.gov	Defender General, Office of	2009.0	102.0
+55968	http://www.jsc.edu/	Johnson State College	2007.0	1113.0
+55969	http://www.kesvt.org/	Sherburne Elementary School	2013.0	85.0
+55970	http://www.mpsvt.org/ues/	Union Elementary School (Montpelier)	2008.0	181.0
+55971	http://www.hartfordschools.net/Schools/DBS/tabid/58/Default.aspx	Dothan Brook School (Hartford)	2007.0	4.0
+55972	http://pawletpubliclibrary.wordpress.com	Pawlet, Pawlet Public Library	2013.0	43.0
+55973	http://www.bcemsvt.org/	Barre City Middle and Elementary School	2008.0	69.0
+55974	http://www.resvt.org/	Reading Elementary School	2008.0	2.0
+55975	http://alburghpl.com/	Alburgh, Alburg Public Library	2012.0	13.0
+55976	http://www.dummerston-school.com/	Dummerston School	2010.0	23.0
+55978	http://www.vermonttreasurer.gov/retirement/state-vsrs	Retirement System for State Employees (VSRS)	2010.0	92.0
+55979	http://orangesouthwest.org/ruhs	Randolph Union High School	2012.0	409.0
+55980	http://middletownsprings.wordpress.com	Middletown Springs, Middletown Springs Public Library	2011.0	31.0
+55981	http://www.newton.k12.vt.us/	Newton School, The	2001.0	2.0
+55982	http://www.vermonttreasurer.gov/unclaimed-property	Unclaimed Property	2009.0	225.0
+55985	http://www.csdvt.org/ums/	Union Memorial School (Colchester)	2007.0	16.0
+55987	http://www.mounthollyvt.org/library	Belmont, Mount Holly Town Library	2012.0	201.0
+55988	http://westfordpubliclibrary.wordpress.com	Westford, Westford Public Library	2012.0	24.0
+55989	http://ltgov.vermont.gov	Lieutenant Governor (Lt. Governor Phil Scott)	2007.0	201.0
+55990	http://www.carpentercarse.org	Hinesburg, Carpenter Carse Library	2003.0	12.0
+55991	http://www.thetfordschool.org/	Thetford Elementary School	2006.0	177.0
+55992	http://www.ccsuvt.org/	Chittenden Central Supervisory Union (Essex)	2008.0	1573.0
+55993	http://www.snellingcenter.org/cfed/	Future of Economic Development, Commission on the  (CFED)	2007.0	2.0
+55995	http://labor.vermont.gov	Labor, Dept. of	2005.0	448.0
+55996	http://firesafety.vermont.gov/Boards/electrical	Electrical Board	2013.0	5.0
+55997	http://www.csdvt.org/mbs/	Mallets Bay School (Colchester)	2007.0	7.0
+55998	http://vtcncs.vermont.gov/	National and Community Service, Commission on	2009.0	15.0
+55999	http://www.wuhsms.org/	Woodstock Union Middle and High School	2004.0	2823.0
+56000	http://www.ccsuvt.org/adl/	Albert D Lawton Intermediate School (Essex)	2007.0	199.0
+56001	http://orangesouthwest.org/braintree	Braintree Elementary	2012.0	359.0
+56002	http://firesafety.vermont.gov/Boards	Access Board	2011.0	153.0
+56003	http://orchard.sf.sbschools.net/	Orchard School (South Burlington)	2011.0	289.0
+56004	http://www.vtfishandwildlife.com	Fish & Wildlife, Dept. of	2001.0	663.0
+56005	http://islandpondpubliclibrary.wordpress.com	Island Pond, Island Pond Public Library	0.0	4.0
+56009	http://hunt.bsdvt.org/	Hunt Middle School (Burlington)	2007.0	1012.0
+56010	http://www.piersonlibrary.org/	Shelburne, Pierson Library	2008.0	138.0
+56012	http://www.uvm.edu/	University of Vermont	1996.0	4555.0
+56013	http://wrs.rcsu.org/	West Rutland School	2008.0	23.0
+56014	http://thetfordlibrary.org/?page_id=51	Post Mills, Peabody Library	2013.0	200.0
+56015	http://www.mmu.k12.vt.us/	Mt. Mansfield Union High School	2002.0	46.0
+56018	http://anwsu.org/fcs/	Ferrisburgh Central School	2005.0	13.0
+56019	http://craftcenters.vermont.gov/	State Craft Centers and Craft Education Centers	2014.0	240.0
+56021	http://www.fairfaxvtlibrary.org	Fairfax, Fairfax Community Library	2012.0	21.0
+56022	http://success.rutlandcitypublicschools.org/	SUCCESS Rutland Public School	2010.0	17.0
+56023	http://www.ddas.vermont.gov	Division of Disability and Aging Services	2007.0	51.0
+56024	http://vcjtc.vermont.gov/	Criminal Justice Training Council	2012.0	202.0
+56025	http://www.ovha.state.vt.us/	Health Access, Office of Vermont  (OVHA)	2004.0	225.0
+56027	http://finance.vermont.gov/	Finance & Management,  Dept. of	2008.0	134.0
+56028	http://aldenbalchlibrary.wordpress.com	Lunenburg, Alden Balch Memorial Library	0.0	6.0
+56029	http://www.lincolnlibraryvt.com/	Lincoln, Lincoln Library	2010.0	11.0
+56031	http://www.pittsfieldlibrary.com/	Pittsfield, Roger Clark Memorial Library	2008.0	528.0
+56032	http://wswsu.org/	Windsor Southwest Supervisory Union	2002.0	0.0
+56033	http://www.hcsvt.org/site/default.aspx?PageID=1652	Hinesburg Community School	2011.0	19.0
+56034	http://sbhs.sf.sbschools.net/	South Burlington High School	2009.0	228.0
+56036	http://www.mil.state.vt.us/	Military Property and Installations Office	1999.0	4.0
+56037	http://accd.vermont.gov/business	Economic Development, Dept. of	2012.0	930.0
+56038	http://vocrehab.vermont.gov	Vocational Rehabilitation, Division of	2007.0	100.0
+56039	http://www.dlp.vermont.gov	Licensing & Protection, Division of	2011.0	166.0
+56040	http://www.vtguard.com/	National Guard	2000.0	6.0
+56042	http://www.vhfa.org/	Housing Finance Agency (VHFA)	1997.0	127.0
+56043	http://windsorlibrary.org	Windsor, Windsor Public Library	2004.0	46.0
+56044	http://mentalhealth.vermont.gov/	Mental Health, Dept. of (AHS)	2009.0	341.0
+56045	http://www.edenschool.net/	Eden Central School	2008.0	127.0
+56047	http://vermonthistory.org/	Historical Society	2002.0	2332.0
+56048	http://normanwilliams.org	Woodstock, Norman Williams Public Library	2013.0	595.0
+56049	http://poultneypubliclibrary.com/	Poultney Public Library	2012.0	10.0
+56050	http://hrc.vermont.gov/	Human Rights Commission	2009.0	47.0
+56052	http://www.onsu.org/	Orange North Supervisory Union	2003.0	0.0
+56054	http://www.bentnorthrop.org/	Fairfield, Bent Northrop Memorial Library	2010.0	107.0
+56055	http://www.ccsuvt.org/summit/	Summit Street School (Essex)	2007.0	127.0
+56056	http://www.oakgrove.k12.vt.us/	Oak Grove School (Brattleboro)	2003.0	1.0
+56057	http://richmondfreelibraryvt.org/	Richmond, Richmond Free Library	2008.0	135.0
+56058	http://jamaicavtlibrary.org	Jamaica, Jamaica Memorial Library	2009.0	1.0
+56059	http://www.vermonttreasurer.gov/retirement/teachers-vstrs	Retirement System for State Teachers (VSTRS)	2009.0	92.0
+56060	http://www.emontpelierschool.org	East Montpelier Elementary School	2001.0	771.0
+56061	http://www.rochesterschool.org/	Rochester School	2000.0	21.0
+56062	http://humanresources.vermont.gov/	Human Resources,  Dept. of  (DHR)	2009.0	259.0
+56063	http://finance.vermont.gov/payroll	Payroll Division	2009.0	0.0
+56064	http://wnesu.org/	Windham Northeast Supervisory Union	2006.0	52.0
+56065	http://vvh.vermont.gov/	Veterans' Home	2009.0	40.0
+56066	http://www.mpsvt.org/msms/	Main Street Middle School (Montpelier)	2007.0	374.0
+56067	http://www.ccsuvt.org/westford/	Westford School (Essex)	2007.0	243.0
+56068	http://waitsfieldelementary.org/	Waitsfield  Elementary School	2007.0	0.0
+56069	http://southherocommunitylibrary.blogspot.com/	South Hero, South Hero Community Library	2013.0	0.0
+56070	http://www.cvuhs.org/	Champlain Valley Union High School	2001.0	55.0
+56071	http://www.vermont-byways.us/	Scenic Preservation Council, Vermont	2004.0	40.0
+56072	http://vcgi.vermont.gov/	Geographic Information System	2013.0	190.0
+56074	http://ghlib.wordpress.com	Wallingford, Gilbert Hart Library	2013.0	8.0
+56075	http://www.ed2go.com/chccvt/	Cold Hollow Career Center	2006.0	7578.0
+56076	http://bgs.vermont.gov/	Buildings and General Services, Dept. of  (BGS)	2007.0	366.0
+56077	http://www.vermontartscouncil.org/	Arts Council	2000.0	274.0
+56078	http://colchestervt.gov/Library/	Colchester, Burnham Memorial Library	2010.0	13.0
+56079	http://recovery.vermont.gov	Economic Stimulus and Recovery, Office of	2009.0	1112.0
+56080	http://ccv.edu/	Community College of Vermont	2002.0	788.0
+56081	http://rutlandcitypublicschools.org/	Rutland City Public Schools	2009.0	71.0
+56082	http://northeast.rutlandcitypublicschools.org/	Northeast Primary School (Rutland)	2010.0	2.0
+56084	http://www.riverbendtech.org/	River Bend Career and Technical Center (Bradford)	2001.0	47.0
+56086	http://www.kimballlibrary.org	Randolph, Kimball Public Library	2007.0	15.0
+56087	http://www.warrenlibrary.com/warren/	Warren, Warren Public Library	2011.0	62.0
+56088	http://winhallmemoriallibrary.org	Bondville, Winhall Memorial Library	2013.0	36.0
+56089	https://sites.google.com/a/wcsu.net/bvshome/home	Bridgewater Village School	0.0	50.0
+56090	http://firesafety.vermont.gov/fire_training/council	Fire Service Training Council, Vermont	2012.0	15.0
+56091	http://orwell.arsu.org/	Orwell Village School	2008.0	34.0
+56092	http://education.vermont.gov/	Education, Agency of	2006.0	367.0
+56093	http://home.svcable.net/putpub/	Putney, Putney Public Library	2006.0	4.0
+56094	http://www.rockinghamlibrary.org	Bellows Falls, Rockingham Free Public Library	2011.0	2.0
+56096	http://westwestlibrary.org	Westminster West, Westminster West Public Library	2013.0	1.0
+56097	http://www.marshfield.lib.vt.us	Marshfield, Jaquith Public Library	2002.0	1.0
+56099	http://www.ccsvt.org/site/default.aspx?PageID=2096	Charlotte Central School	2012.0	18.0
+56100	http://petteelibrary.org/	Wilmington, Pettee Memorial Library	2004.0	203.0
+56101	http://www.svcdc.org/	Southwest Vermont Career Development Center	2001.0	138.0
+56103	http://www.fletcherfree.org	Burlington, Fletcher Free Library	2001.0	40.0
+56105	http://firesafety.vermont.gov/Boards/elevators	Elevator Board	2012.0	5.0
+56106	http://www.orangesouthwest.org/rtcc/	Randolph Technical Career Center	2012.0	41.0
+56107	http://www.vermonttreasurer.gov/	Treasurer's Office (Vermont State Treasurer Beth Pearce)	2004.0	225.0
+56108	http://ainsworthpubliclibrary.wordpress.com	Williamstown, Ainsworth Public Library	2009.0	52.0
+56110	http://vt.gov/portal/	State Government	2007.0	399.0
+56112	http://vlrb.vermont.gov/home	Labor Relations Board	2011.0	145.0
+56113	http://www.vtprofessionals.org/	Professional Regulation, Office of	1998.0	940.0
+56116	http://healthvermont.gov/adap/adap.aspx	Alcohol & Drug Abuse Programs	2006.0	108.0
+56118	https://sites.google.com/a/addisoncentralsu.org/shoreham-elementary-school/	Shoreham Elementary School	2014.0	2.0
+56120	http://bhs.bsdvt.org/	Burlington High School	2007.0	1202.0
+56121	http://www.jeudevinememoriallibrary.org	Hardwick, Jeudevine Memorial Library	2006.0	21.0
+56122	http://www.buhs.k12.vt.us/	Brattleboro Union High School	1996.0	74.0
+56123	http://www.bfafairfax.com/	Bellows Free Academy (Fairfax)	2003.0	824.0
+56124	http://dcf.vermont.gov/	Children and Families, Dept. for (DCF)	2008.0	514.0
+56125	http://historicsites.vermont.gov/	Historic Sites, Vermont State	2012.0	497.0
+56126	http://ghsp.vermont.gov/	Governor's Highway Safety Program	2010.0	32.0
+56127	http://ctes.wswsu.org/	Cavendish Town Elementary School	2002.0	0.0
+56128	http://gmcboard.vermont.gov/	Green Mountain Care Board	2012.0	177.0
+56129	http://peachamlibrary.org/	Peacham Library	2011.0	301.0
+56130	http://www.vhcb.org/	Housing and Conservation Board (VHCB)	1999.0	216.0
+56131	http://harwoodunion.com/harwood2013/	Harwood Union Highschool (Duxbury)	2013.0	83.0
+56132	http://agriculture.vermont.gov/	Agriculture, Food & Markets, Agency of	2013.0	543.0
+56133	http://chamberlin.sf.sbschools.net/	Chamberlin School (South Burlington)	2012.0	209.0
+56134	http://www.canaanschools.org/	Canaan Schools	1999.0	28.0
+56135	http://butterfieldlibraryvt.wordpress.com	Westminster, Butterfield Library	0.0	3.0
+56136	http://www.wcsuonline.org/	Washington Central Supervisory Union	2001.0	671.0
+56137	http://www.mtsd-vt.org/mms-mhs/index.html	Milton Junior High School	2008.0	0.0
+56138	http://www.ccsuvt.org/ehs/	Essex High School	2007.0	1518.0
+56139	http://www.fairleelibrary.com/	Fairlee, Fairlee Public Library	2012.0	25.0
+56140	http://brandonpubliclibrary.org	Brandon, Brandon Free Public Library	2008.0	56.0
+56141	http://www.wrccvt.com/	Windham Regional Career Center	0.0	213.0
+56142	http://www.enosburghlibrary.org	Enosburg, Enosburgh Public Library	2007.0	11.0
+56144	http://www.hpes.org/	Hyde Park Elementary School	2003.0	139.0
+56145	http://www.readinglibrary.org	Reading, Reading Public Library	2008.0	1.0
+56146	http://fhgs.arsu.org/	Fair Haven Grade School	2014.0	24.0
+56147	http://dcf.vermont.gov/oeo/	Economic Opportunity, Office of	2008.0	13.0
+56148	http://www.vtstateparks.com/	State Parks, Division of	1999.0	246.0
+56150	http://dps.vermont.gov/demhs	Emergency Management and Homeland Security, Division of	2013.0	112.0
+56152	http://psb.vermont.gov	Public Service Board	2009.0	424.0
+56153	http://www.rssu.org/	Rutland South Supervisory Union	2000.0	205.0
+56154	http://franklingrandislebookmobile.org	Swanton, Franklin-Grand Isle Bookmobile	2013.0	15.0
+56155	http://humanservices.vermont.gov/	Human Services, Agency of  (AHS)	2006.0	600.0
+56156	http://centenniallibrary.org	Morrisville, Morristown Centennial Library	2003.0	34.0
+56157	http://www.lruhs.org/	Lake Region Union High School (Orleans)	2002.0	767.0
+56158	http://www.rochestervtpubliclibrary.com	Rochester, Rochester Public Library	2008.0	25.0
+56159	http://www.franklin.k12.vt.us/	Franklin Central School	2000.0	11.0
+56160	https://www.vermontjudiciary.org/default.aspx	Judiciary, Vermont State	2005.0	38.0
+56161	http://www.middletownsprings.org/?page=11111111	Middletown Springs Elementary School	2012.0	1.0
+56162	http://www.blakememorial.org	East Corinth, Blake Memorial Library	2008.0	15.0
+56163	http://champlain.bsdvt.org/	Champlain Elementary School (Burlington)	2007.0	966.0
+56164	http://www.vermontel.net/~mtholly/	Mount Holly Elementary School	2001.0	39.0
+56165	http://alicewardmemoriallibrary.wordpress.com/	Canaan, Alice M. Ward Memorial Library	2014.0	12.0
+56166	http://fhtms.sf.sbschools.net/	Frederick H. Tuttle Middle School (South Burlington)	2009.0	220.0
+56167	http://aoa.vermont.gov/risk	Risk Management, Office of	2014.0	30.0
+56168	http://www.dorsetlibraryinfo.org/	Dorset, Dorset Village Public Library	2011.0	15.0
+56169	http://www.hartfordschools.net/Schools/HHS/tabid/55/Default.aspx	Hartford High School	2007.0	4.0
+56170	http://www.tvhs.k12.vt.us/	Twin Valley High School	2004.0	0.0
+56171	http://rutlandfree.org/	Rutland, Rutland Free Library	2001.0	806.0
+56172	http://starksborolibrary.wordpress.com	Starksboro, Starksboro Public Library	0.0	27.0
+56174	http://www.dbvi.vermont.gov	Blind and Visually Impaired, Division for the	2009.0	68.0
+56175	http://www.stjathenaeum.org	Saint Johnsbury, St. Johnsbury Athenaeum	2000.0	21.0
+56176	http://www.georgia.lib.vt.us	Georgia, Georgia Public Library	2001.0	24.0
+56177	http://vem.vermont.gov/programs/rerp/yankee	Nuclear Safety at Vermont Yankee	2013.0	30.0
+56179	http://ees.bsdvt.org/	Edmunds Elementary School (Burlington)	2007.0	772.0
+56180	http://www.u32.org	U32 Middle and High School (Washington Central Supervisory Union)	1999.0	300.0
+56181	http://www.hireus.org/	Employment of People With Disabilities, Governor's Committee on the	1999.0	75.0
+56182	http://www.castletonfreelibrary.org/	Castleton, Castleton Free Library	2010.0	28.0
+56185	http://orangesouthwest.org/	Orange Southwest Supervisory Union	2011.0	352.0
+56186	http://www.wesvt.net/	Waterville Elementary School	2010.0	95.0
+56188	http://wellslibrary.com	Wells, Wells Village Library	2013.0	6.0
+56190	http://www.randmemoriallibrary.org/	North Troy, Rand Memorial Library	2013.0	0.0
+56191	http://caleflibrary.com/	Washington, Calef Memorial Library	2011.0	67.0
+56192	http://www.lamoillesouthsu.org/	Lamoille South Supervisory Union	2008.0	7.0
+56193	http://www.gemsvt.org/	Georgia Elementary and Middle School	2002.0	1092.0
+56194	http://www.vcjr.org/	Center for Justice Research, Vermont	2001.0	1.0
+56195	http://markskinnerlibrary.org	Manchester, Mark Skinner Library	2007.0	62.0
+56198	http://cobleighlibrary.org/main/	Lyndon, Cobleigh Public Library	2008.0	25.0
+56200	http://flynn.bsdvt.org/	John J Flynn Elementary School (Burlington)	2007.0	970.0
+56201	http://aoa.vermont.gov/wcp	Workers' Compensation, Office of	2014.0	31.0
+56202	http://www.berlinschool.org	Berlin Elementary School	2001.0	764.0
+56203	http://gleemerrittkelleylibrary.wordpress.com	Wolcott, Glee Merritt Kelley Community Library	0.0	18.0
+56204	http://johnsonpubliclibrary.wordpress.com	Johnson, Johnson Public Library	0.0	8.0
+56205	http://www.btmes.org/	Barre Town Middle and Elementary School	2004.0	65.0
+56206	http://www.dfr.vermont.gov	Financial Regulation, Dept. of  (formerly BISHCA)	2012.0	587.0
+56207	http://www.marioncross.org/	Marion W. Cross School (Norwich)	2004.0	25.0
+56208	http://www.castletonschools.org/	Castleton Hubbardton Union School District	2007.0	30.0
+56209	http://wildermemoriallibrary.org/	Weston, Wilder Memorial Library	2013.0	138.0
+56210	http://www.wwsu.org/	Washington West Supervisory Union	2007.0	84.0
+56212	http://www.wcsu46.org/jamaica/	Jamaica Elementary School	2009.0	1.0
+56213	http://www.csdvt.org/cms/	Colchester Middle School	2008.0	12.0
+56214	http://www.mccullough.lib.vt.us	Bennington, North, J.G. McCullough Free Library	2001.0	1.0
+56215	http://ems.bsdvt.org/	Edmunds Middle School (Burlington)	2007.0	1268.0
+56219	http://gmuhs.wswsu.org/	Green Mountain Union High School	2002.0	0.0
+56221	http://phsvt.org/pes/index.html	Poultney Elementary School	2012.0	0.0
+56222	http://smith.bsdvt.org/	C. P. Smith Elementary School (Burlington)	2007.0	955.0
+56223	http://sherlib.wordpress.com	Killington, Sherburne Memorial Library	2009.0	203.0
+56224	http://westfairleelibrary.wordpress.com/	West Fairlee, West Fairlee Free Public Library	2013.0	17.0
+56225	http://www.underhillid.k12.vt.us/	Underhill I.D. School	2001.0	155.0
+56226	http://www.hazen.ossu.org/	Hazen Union School	2011.0	44.0
+56227	http://www.gmtcc.info/	Green Mountain Technology and Career Center	2005.0	39.0
+56229	http://www.addisoncentralsu.org/	Addison Central Supervisory Union	2012.0	108.0
+56230	http://cmo.vermont.gov/	Chief Marketing Officer, Office of (CMO)	2007.0	21.0
+56231	http://www.castleton.edu/	Castleton State College	1999.0	1488.0
+56232	http://www.northcountryschools.org/education/district/district.php?sectionid=1	Orleans Essex North Supervisory Union	2010.0	2.0
+56233	http://www.wcsu46.org/windham/	Windham Elementary School	2009.0	1.0
+56234	http://www.va.state.vt.us/	Veterans Affairs, Dept. of	2000.0	58.0
+56235	http://firesafety.vermont.gov/Boards/plumbling	Plumbing Board	2012.0	5.0
+56236	http://caes.wswsu.org/	Chester Andover Elementary School	2002.0	0.0
+56238	http://www.miltonlibraryvt.org/	Milton, Milton Public Library	2013.0	1235.0
+56239	http://brookfieldpubliclibrary.wordpress.com	Brookfield, Brookfield Free Public Library	2013.0	13.0
+56240	http://www.vermonttreasurer.gov/retirement	Retirement Services, Office of the State Treasurer	2008.0	225.0
+56242	http://www.hartfordschools.net/Schools/HMMS/tabid/57/Default.aspx	Hartford Memorial Middle School	2007.0	0.0
+56243	http://www.greensborofreelibrary.org	Greensboro, Greensboro Free Library	2002.0	53.0
+56246	http://www.vtfpr.org	Forests, Parks & Recreation,  Dept. of  (FPR)	2005.0	283.0
+56247	http://www.goodrichlibrary.org	Newport, Goodrich Memorial Library	2006.0	2.0
+56248	http://www.vsha.org/	Housing Authority (VSHA)	2000.0	123.0
+56249	http://www.soroschool.org/	South Royalton School	2008.0	79.0
+56250	http://accd.vermont.gov/business/innovation/creative_economy	Creative Economy, Office of (formerly VT Film Commission)	2012.0	19.0
+56251	http://ris.rutlandcitypublicschools.org/	Rutland Intermediate School	2010.0	17.0
+56252	http://www.mtsd-vt.org/mes/index.htm	Milton Elementary School	2007.0	0.0
+56253	https://brsu.haikulearning.com/brsu/bennington-rutlandsupervisoryunion/cms_page/view/594285	Currier Memorial Elementary School (Danby)	2011.0	27.0
+56254	http://ww1.www.craftsburyschools.org/	Craftsbury Schools	0.0	1.0
+56255	http://baldwinmemoriallibrary.wordpress.com	Wells River, Baldwin Memorial Library	0.0	6.0
+56257	http://chittendenpubliclibrary.com	Chittenden, Chittenden Public Library	2013.0	38.0
+56258	http://www.anr.state.vt.us/dec/dec.htm	Environmental Conservation, Dept. of  (DEC)	2000.0	823.0
+56259	http://governor.vermont.gov/	Governor Honorable Peter Shumlin	2007.0	747.0
+56260	http://www.brownington.ocsu.org/BCS_home.html	Brownington Central School	2011.0	12.0
+56261	http://www.solomonwrightlibrary.org	Pownal, Solomon Wright Public Library	2006.0	26.0
+56265	http://vtrans.vermont.gov/	Transportation, Agency of  (AOT)	2013.0	77.0
+56266	http://www.arlingtonmemorialhs.org/	Arlington Memorial High and Middle School	2007.0	1.0
+56267	http://aabrown.org/	Richford, Arvin A. Brown Public Library	2001.0	81.0
+56270	http://e911.vermont.gov	Enhanced 911 (E911)	2009.0	68.0
+56272	http://fairhavenfree.org	Fair Haven, Fair Haven Free Library	2013.0	9.0
+56273	http://hfbrighamlibrary.wordpress.com/	Bakersfield, H.F. Brigham Library	2013.0	22.0
+56274	http://dii.vermont.gov	Information & Innovation, Dept. of  (DII)	2006.0	146.0
+56275	http://northherolibrary.org	North Hero, North Hero Public Library	2013.0	7.0
+56277	http://www.ccsuvt.org/hiawatha/	Hiawatha Elementary School (Essex)	2007.0	133.0
+56278	http://gloverlibrary.org	Glover, Glover Public Library	2010.0	13.0
+56279	http://www.addisoncentralsu.org/SalisburyCommunitySchool/Welcome.html	Salisbury Community School	0.0	0.0
+56280	http://tboard.vermont.gov/	Transportation Board	2013.0	3.0
+56281	http://www.brownsriver.k12.vt.us/	Browns River Middle School (Jericho)	2001.0	1853.0
+56282	http://dorsetschool.org/	Dorset School, The	2004.0	11.0
+56283	http://atp.vermont.gov	Assistive Technology Program	2010.0	56.0
+56284	http://www.chelsealibrary.com/	Chelsea, Chelsea Public Library	2002.0	8.0
+56285	http://women.vermont.gov/	Women, Commission on	2010.0	65.0
+56287	http://www.rutlandcitypublicschools.com/schools/tapestry/	Tapestry Program (Rutland)	2006.0	339.0
+56288	http://district.sf.sbschools.net/	South Burlington School District	2009.0	290.0
+56289	http://southlondonderryfreelibrary.wordpress.com	Londonderry, South Londonderry Free Library	0.0	9.0
+56291	http://www.scsvt.org/site/default.aspx?PageID=291	Shelburne Community School	2011.0	10.0
+56292	http://www.wcsu46.org/lg/	Leland and Gray Union Middle and High School (Windham Central)	2009.0	1.0

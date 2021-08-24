@@ -1,0 +1,1531 @@
+NodeId	NodeURL	NodeName	Year	pages
+50232	http://leg.spartanburg6.k12.sc.us/	L. E. Gable Middle	2009.0	275.0
+50233	http://taylor.richlandone.org/	E.E. Taylor Elementary	2011.0	25.0
+50234	http://ces.beaufort.k12.sc.us/	Coosa Elementary	2013.0	30.0
+50235	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=77	Ruby Elementary	2009.0	0.0
+50236	http://www.edgefieldcountyschools.org	Edgefield County School District	2012.0	39.0
+50237	http://www.greenville.k12.sc.us/hillcrest/index.asp	Hillcrest High	2008.0	806.0
+50239	http://lhs6.mybigcampus.net/	Latta High	2013.0	53.0
+50240	http://www.lexrich5.org/chapinms.cfm	Chapin Middle	0.0	1796.0
+50241	http://www.colletonlibrary.org	Colleton County Library System	2000.0	21.0
+50242	http://pacolet.spartanburg3.org/	Pacolet Elementary	2009.0	377.0
+50243	http://www.berkeley.k12.sc.us/sedgefieldmiddle.cfm	Sedgefield Middle	0.0	2391.0
+50244	http://brockman.richlandone.org/	Brockman Elementary	2010.0	35.0
+50245	http://www.greenvillecounty.org/	Greenville	1999.0	182.0
+50246	http://cfh.horrycountyschools.net/	Carolina Forest High	2008.0	78.0
+50247	http://www.llr.state.sc.us/pol/pyrotechnic/	Pyrotechnic Safety, Board of (LLR)	2001.0	37.0
+50248	http://www.greenville.k12.sc.us/mitchell/	Mitchell Road Elementary	1999.0	850.0
+50249	http://spartanburg4.publishpath.com/woodruff-elementary-school	Woodruff Elementary	0.0	50.0
+50250	http://chester.inquiry.schooldesk.net/	Chester Park Elementary of Inquiry	2011.0	79.0
+50251	http://ata.horrycountyschools.net/	Academy For Technolgy and Acad	2008.0	19.0
+50252	http://jdleverel.acps.schoolfusion.us/	J. D. Lever Elementary	2012.0	987.0
+50253	http://www.atc.edu/	Aiken Technical College	2002.0	835.0
+50254	http://theapplecharter.ccsdschools.com/	Apple Charter School	2012.0	504.0
+50255	http://www.scetv.org/	South Carolina Educational Television Commission	1997.0	322.0
+50256	https://www.fsd1.org/schools/mclaurin/pages/default.aspx	McLaurin Elementary	0.0	15.0
+50258	http://www.yorkcitysc.com/	York	2001.0	64.0
+50259	http://cherokee1.k12.sc.us/mbes/	Mary Bramlett Elementary	2007.0	0.0
+50260	http://www.anderson5.net/site/default.aspx?pageid=1	Anderson School District Five	2012.0	18.0
+50261	http://bes.anderson2.org/	Belton Elementary	2007.0	44.0
+50263	http://greenview.richlandone.org/	A. J. Lewis Greenview Elementary	2009.0	212.0
+50264	http://mcsdblenheimmiddle.sharpschool.net/	Blenheim Elementary-Middle	2012.0	503.0
+50265	http://leewle.sharpschool.net/	West Lee Elementary	2012.0	646.0
+50266	https://www.richland2.org/we/pages/default.aspx	Windsor Elementary	0.0	30.0
+50267	http://www.cctech.edu/	Central Carolina Technical College	2002.0	1846.0
+50269	http://www.carolinaschoolforinquiry.com/	Carolina School for Inquiry	2006.0	47.0
+50270	http://www.gcsd.k12.sc.us/	Georgetown High	1998.0	390.0
+50271	http://stall.ccsdschools.com/	R. B. Stall High	2002.0	809.0
+50272	http://cherokee1.k12.sc.us/bps/	Blacksburg Primary	2012.0	0.0
+50273	http://rbe.spartanburg6.k12.sc.us/	Roebuck Elementary	2009.0	192.0
+50274	http://warrenvilleel.acps.schoolfusion.us/	Warrenville Elementary	2012.0	1442.0
+50275	http://www.anderson1.k12.sc.us/domain/488	Spearman Elementary	2014.0	774.0
+50277	http://www.sccid.sc.gov/	Indigent Defense, Commission on	0.0	756.0
+50278	http://scjeda.com/	Jobs - Economic Development Authority	2010.0	193.0
+50279	http://bhs.beaufort.k12.sc.us/	Beaufort High	2010.0	9.0
+50280	http://dme.kcsdschools.com/	Doby's Mill Elementary	2005.0	31.0
+50281	http://ses.ocsd5.net/	Sheridan Elementary	2013.0	27.0
+50282	https://www.richland2.org/bce/pages/default.aspx	Bridge Creek Elementary	0.0	31.0
+50283	http://bbmh.ocsd5.net/	Bethune-Bowman Middle-High	2013.0	24.0
+50284	http://charlestonmathscience.org/	Charleston Charter School for Math and Science	2009.0	90.0
+50285	http://www.lexrich5.org/irmoms.cfm	Irmo Middle	0.0	2356.0
+50286	http://www.rock-hill.k12.sc.us/	Rock Hill School District Three of York County	1998.0	688.0
+50287	http://www.portroyal.org/	Port Royal	1997.0	135.0
+50288	http://www.llr.state.sc.us/pol/massagetherapy/	Massage/Bodywork Therapy (LLR)	2001.0	51.0
+50289	http://www.scdps.gov/redirect/redirect.html	Public Safety, Department of	2012.0	106.0
+50290	http://www.state.sc.us/dmh/	Mental Health, Department of	1997.0	475.0
+50291	http://hhe.acps.schoolfusion.us/	Hammond Hill Elementary	2012.0	3162.0
+50292	http://rces.sumterschools.net/	Rafting Creek Elementary	2013.0	27.0
+50293	http://www.lexrich5.org/lakemurray.cfm	Lake Murray Elementary	0.0	1489.0
+50294	http://nw.rock-hill.k12.sc.us/	Northwestern High	2009.0	373.0
+50295	http://www.mid-carolinahighschool.org/	Mid-Carolina High	2010.0	367.0
+50296	http://iles.lancasterscschools.org/home	Indian Land Elementary	2010.0	1.0
+50297	http://www.spart1.org/lms/	Landrum Middle	2007.0	375.0
+50298	http://rems.dcsdschools.org/	Rosenwald Elementary-Middle	2009.0	29.0
+50299	http://www.cherokee1.k12.sc.us/	Cherokee County School District	1998.0	122.0
+50300	https://www.richland2.org/ke/pages/default.aspx	Killian Elementary	2014.0	32.0
+50301	http://lh.horrycountyschools.net/	Loris High	2008.0	18.0
+50302	http://chester.career.schooldesk.net/	Chester County Career Center	2011.0	23.0
+50303	http://www.newberryes.org/	Newberry Elementary	2012.0	32.0
+50304	https://sites.google.com/a/lex2.org/schools-bch/	Brookland-Cayce Senior High	2013.0	36.0
+50305	http://belvedere.acps.schoolfusion.us/	Belvedere Elementary	2012.0	1332.0
+50306	https://sites.google.com/a/lex2.org/schools-tay/	Claude A. Taylor Elementary	0.0	46.0
+50307	http://standrews.ccsdschools.com/	St. Andrew's School of Math and Science	2002.0	1009.0
+50308	http://www.greenville.k12.sc.us/bridgems/	Blue Ridge Middle	1998.0	844.0
+50309	http://www.greenville.k12.sc.us/bglenn/	Brook Glenn Elementary	1999.0	977.0
+50310	http://nchs.ccsdschools.com/	North Charleston High	2003.0	1743.0
+50311	http://ltgov.sc.gov/Pages/default.aspx	Lieutenant Governor, Office of the	2011.0	2.0
+50316	http://www.cityofwoodruff.com/	Woodruff	2002.0	277.0
+50317	http://aging.sc.gov/Pages/default.aspx	Aging, Lieutenant Governors Office On	2011.0	61.0
+50318	https://www.fsd1.org/schools/wilson/pages/default.aspx	Wilson High	2012.0	14.0
+50319	http://cario.ccsdschools.com/	Thomas C. Cario Middle	2002.0	820.0
+50320	http://mtp.kcsdschools.com/	Mt. Pisgah Elementary	2005.0	28.0
+50321	http://gms.pickens.k12.sc.us/	Richard H. Gettys Middle	2009.0	5.0
+50322	http://www.georgetowncountysc.org/solicitor/default.html	Solicitor's Office, 15th Judicial Circuit	2002.0	4.0
+50323	http://www.patriotspoint.org/	Patriots Point Naval and Maritime Museum	2003.0	300.0
+50325	http://www.batesburg-leesville.org/	Batesburg-Leesville	1999.0	14.0
+50326	http://www.cityofhanahan.info/	Hanahan	2006.0	9.0
+50327	http://stp.clarendon1.k12.sc.us/	St. Paul Elementary	2005.0	19.0
+50328	http://les.dcsdschools.org/	Lamar Elementary	2009.0	593.0
+50329	http://www.llr.state.sc.us/pol/speech/	Speech-Language Pathology and Audiology, Board                  of Examiners in (LLR)	2001.0	50.0
+50330	http://www.spart5.net/site/default.aspx?PageID=1	Spartanburg Five	2013.0	24.0
+50331	http://bnes.marion.k12.sc.us/	Britton's Neck Elementary	2013.0	28.0
+50332	http://www.dormanhigh.org/	Dorman High	2001.0	367.0
+50333	http://npes.lexington1.net:8040/	New Providence Elementary	2012.0	1.0
+50334	http://www.anderson1.k12.sc.us/domain/971	Palmetto High	2014.0	774.0
+50335	https://sites.google.com/a/ccpsonline.net/cchs/	Calhoun County High	0.0	70.0
+50336	http://www.ses.florence3.k12.sc.us/	Scranton Elementary	2008.0	26.0
+50338	http://www.lex2.org/	Lexington District Two	2003.0	104.0
+50339	http://www.greenville.k12.sc.us/bvista/	Buena Vista Elementary	1998.0	839.0
+50340	http://www.dot.state.sc.us/	Department of Transportation	1997.0	135.0
+50342	http://www.greenville.k12.sc.us/league/	League Academy	1998.0	41.0
+50343	http://www.spart1.org/iis/	Inman Intermediate	2008.0	293.0
+50345	http://www.berkeley.k12.sc.us/stratford.cfm	Stratford High	0.0	2733.0
+50346	http://www.jes.flo5.k12.sc.us/	Johnsonville Elementary	2001.0	2.0
+50347	http://wde.sumterschools.net/	Willow Drive Elementary	2011.0	38.0
+50348	http://www.anderson1.k12.sc.us/domain/1101	Wren High	2014.0	775.0
+50349	http://hpe.anderson2.org/	Honea Path Elementary	2006.0	31.0
+50350	http://www.spart5.net/site/default.aspx?domainid=464	Berry Shoals Intermediate	0.0	19.0
+50351	http://www.oconee.k12.sc.us/senecahs.cfm	Seneca High	0.0	2560.0
+50352	http://cherokee1.k12.sc.us/ghs/	Gaffney High	2003.0	0.0
+50353	https://www.fsd1.org/schools/rnbeck/pages/default.aspx	Beck Learning Center	0.0	3.0
+50354	http://www.greenville.k12.sc.us/brysone/index.asp	Bryson Elementary	2008.0	793.0
+50355	http://www.columbiasc.net/	Columbia	1997.0	1157.0
+50356	http://www.spartanburgcounty.org/govt/depts/sol/index.htm	Solicitor's Office - 7th Judicial Circuit	2002.0	232.0
+50357	http://www.lex.lib.sc.us	Lexington County Public Library System - Main	1998.0	62.0
+50358	http://www.varnville.org/index.html	Varnville	2000.0	14.0
+50359	http://garrett.ccsdschools.com/	Garrett Academy of Technology	2002.0	987.0
+50360	http://www.cityofconway.com/	Conway	1999.0	8.0
+50361	http://bch.beaufort.k12.sc.us/	Battery Creek High	2010.0	13.0
+50362	http://www.lex.lib.sc.us/branchprofile.asp?lid=12	Lexington County Library - Gilbert-Summit	2006.0	0.0
+50363	http://www.lex.lib.sc.us/branchprofile.asp?lid=13	Lexington County Library - Irmo	2006.0	0.0
+50364	http://www.lex.lib.sc.us/branchprofile.asp?lid=10	Lexington County Library - Chapin	2006.0	0.0
+50365	http://www.llr.state.sc.us/pol/manufacturedhousing/	Manufactured Housing Board (LLR)	2001.0	45.0
+50366	http://www.lex.lib.sc.us/branchprofile.asp?lid=16	Lexington County Library - South Congaree - Pine Ridge Branch	2007.0	0.0
+50367	http://www.anderson1.k12.sc.us/domain/624	Wren Elementary	2014.0	774.0
+50368	http://www.lex.lib.sc.us/branchprofile.asp?lid=14	Lexington County Library - Pelion	2006.0	0.0
+50369	http://www.lex.lib.sc.us/branchprofile.asp?lid=15	Lexington County Library - Swansea	2006.0	0.0
+50370	http://rd.rock-hill.k12.sc.us/	Richmond Drive Elementary	2009.0	304.0
+50371	http://www.scddc.state.sc.us/	Developmental Disabilities Council (Governor's Office)	2000.0	8.0
+50372	http://aikenm.acps.schoolfusion.us/	Aiken Middle	2012.0	3153.0
+50373	http://hautgap.ccsdschools.com/	Haut Gap Middle	2003.0	129.0
+50374	https://www.richland2.org/bh/pages/default.aspx	Blythewood High	2014.0	13.0
+50375	http://mwe.sumterschools.net/	Millwood Elementary	2013.0	38.0
+50376	http://www.lex3.k12.sc.us/	Lexington County School District Three	2001.0	1.0
+50377	http://crayton.richlandone.org/	Crayton Middle	2009.0	52.0
+50378	http://www.greenville.k12.sc.us/riverside/index.asp	Riverside High	2011.0	840.0
+50379	http://whitmirecommunityschool.sc.ncs.schoolinsites.com/	Whitmire Community School (Elementary)	2012.0	96.0
+50380	http://www.cityofbeaufort.org/	Beaufort	2000.0	304.0
+50381	http://fmis.lexington4.net/	Frances F. Mack Intermediate	2012.0	48.0
+50382	http://sp.rock-hill.k12.sc.us/	Sunset Park Elementary	2008.0	237.0
+50383	http://www.dillon3.k12.sc.us/	Dillon School District 3	1998.0	41.0
+50384	http://sbi.clarendon1.k12.sc.us/	Scott's Branch Middle	2005.0	20.0
+50385	https://www.richland2.org/ce/pages/default.aspx	L. W. Conder Elementary	0.0	24.0
+50386	http://od.rock-hill.k12.sc.us/	Oakdale Elementary	2009.0	102.0
+50387	http://bridgewateracademy.org/	Bridgewater Academy Charter	2006.0	23.0
+50388	http://ch.rock-hill.k12.sc.us/	Castle Heights Middle	2009.0	154.0
+50389	http://www.dcctc.org	Dorchester County Career & Technology Center	0.0	33.0
+50390	http://www.oconee.k12.sc.us/jamesbrown.cfm	James M. Brown Elementary	0.0	2369.0
+50391	http://fis.fairfield.k12.sc.us/home.aspx	Fairfield Magnet for Math and Science	0.0	140.0
+50392	http://ncm.kcsdschools.com/	North Central Middle	2005.0	29.0
+50393	http://bes.ocsd5.net/	Brookdale Elementary	2013.0	52.0
+50394	http://bms.lancasterscschools.org/home	Buford Middle	2011.0	1.0
+50396	http://dc.rock-hill.k12.sc.us/	Dutchman Creek Middle	2008.0	127.0
+50397	http://hpms.anderson2.org/	Honea Path Middle	2006.0	20.0
+50399	http://mke.pickens.k12.sc.us/	McKissick Elementary	2009.0	5.0
+50400	http://wandohigh.ccsdschools.com/	Wando High	2012.0	706.0
+50401	http://mbm.horrycountyschools.net/	Myrtle Beach Middle	2008.0	29.0
+50402	http://thunderboltcareercenter.com/	Thunderbolt Career and Technology Center	2011.0	686.0
+50403	http://mcsdbennetelementary.sharpschool.net/	Bennettsville Intermediate	2012.0	452.0
+50404	http://www.tctc.edu/	Tri-County Technical College	2003.0	733.0
+50405	http://www.yorkcountygov.com/	York	2001.0	471.0
+50406	http://www.greenville.k12.sc.us/sevier/	Sevier Middle	1998.0	44.0
+50407	http://hhh.beaufort.k12.sc.us/	Hilton Head Island High	2010.0	9.0
+50408	http://mcr.beaufort.k12.sc.us/	Michael C. Riley Elementary	2010.0	8.0
+50409	http://www.greenville.k12.sc.us/brysonm/	Bryson Middle	1999.0	821.0
+50410	http://www.lexrich5.org/chapinhs.cfm	Chapin High	0.0	1789.0
+50412	http://ops.sumterschools.net/	Oakland Primary	2013.0	37.0
+50413	http://lac.sc.gov/Pages/default.aspx	Legislative Audit Council	2011.0	123.0
+50414	http://obg3.k12.sc.us/hhes/	Holly Hill Elementary	0.0	0.0
+50415	http://bps.barnwell45.org	Barnwell Primary	2013.0	24.0
+50416	http://www.surfsidebeach.org/	Surfside Beach	1999.0	97.0
+50417	http://www.oconee.k12.sc.us/oakway.cfm	Oakway Intermediate	0.0	2422.0
+50418	http://cacc.orangeburg4.schoolfusion.us/	Cope Area Career Ctr	2012.0	654.0
+50420	http://www.boundarystreet.org/	Boundary Street Elementary	2013.0	42.0
+50421	http://www.lanclib.org	Lancaster County Library System	2001.0	40.0
+50422	http://www.union.k12.sc.us/lhs/lhs.htm	Lockhart School	2000.0	31.0
+50424	https://www.richland2.org/rvh/pages/default.aspx	Ridge View High	2014.0	60.0
+50425	http://www.mylancastersc.org/	Lancaster	2011.0	963.0
+50426	http://www.port-of-charleston.com/	Ports Authority, State	1998.0	611.0
+50427	http://rsmhs.acps.schoolfusion.us/	Ridge Spring Monetta High	2012.0	23706.0
+50428	http://www.greenville.k12.sc.us/acircle/index.asp	Augusta Circle Elementary	2006.0	809.0
+50430	http://www.greenwood52.org/site/default.aspx?PageID=1	Greenwood County School District 52	2013.0	13.0
+50432	http://www.greenville.k12.sc.us/bells/	Bell's Crossing Elementary	2003.0	862.0
+50433	http://ses.beaufort.k12.sc.us/	Joseph S. Shanklin Elementary	2013.0	10.0
+50434	http://www.oepp.sc.gov/ombudsman/	Ombudsman, Governor's Office of	2007.0	5.0
+50436	http://www.spartanburg2.k12.sc.us/cfg/	Carlisle-Foster's Grove Elementary	2013.0	4.0
+50437	http://ghms.fort-mill.k12.sc.us/home.aspx	Gold Hill Middle	0.0	26.0
+50438	http://www.state.sc.us/djj/education.php	Willow Lane School	2008.0	124.0
+50439	http://www.sccsc.edu/	Spartanburg Community College	2007.0	2.0
+50440	http://www.hampton1.org/domain/12	Hampton Elementary	2011.0	455.0
+50441	http://rces.weebly.com/	Richard Carroll Elementary	2013.0	8.0
+50442	http://dorchester.ros.schoolfusion.us/	River Oaks Middle	2009.0	3725.0
+50443	http://southcarolinacalvertacademy.com	South Carolina Calvert Academy	2009.0	134.0
+50444	http://spm.dcsdschools.org/	Spaulding Middle	2009.0	70.0
+50445	http://www.ccms.colletonsd.org/	Colleton County Middle	0.0	35.0
+50446	http://www.gwd50.org/domain/1579	G Frank Russell Career Ctr	2012.0	992.0
+50447	http://www.yorktech.com/	York Technical College	1998.0	225.0
+50450	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=4338	Sanders Middle	2012.0	28.0
+50452	http://hkth.orangeburg4.schoolfusion.us/	Hunter-Kinard-Tyler High	2012.0	844.0
+50453	http://cherokee1.k12.sc.us/bms/	Blacksburg Middle	2005.0	0.0
+50454	http://www.berkeley.k12.sc.us/crosshigh.cfm	Cross High	0.0	3225.0
+50455	http://www.spart1.org/lhs/	Landrum High	2007.0	788.0
+50456	http://cms.ocsd5.net/	William J. Clark Middle	2013.0	41.0
+50457	http://chester.cms.schooldesk.net/	Chester Middle	2011.0	95.0
+50458	http://sms.rock-hill.k12.sc.us/	W. C. Sullivan Middle	2008.0	114.0
+50459	http://www.llr.state.sc.us/pol/residentialbuilders/	Residential Builders Commission (LLR)	2001.0	64.0
+50462	http://www.berkeley.k12.sc.us/sangaree.cfm	Sangaree Elementary	0.0	2603.0
+50463	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=2256	E. B. Morse Elementary	2012.0	17.0
+50464	http://whitesides.ccsdschools.com/	Mamie Whitesides Elementary	2002.0	486.0
+50465	http://www.sccounties.org/	South Carolina Association of Counties	1998.0	846.0
+50466	http://www.co.pickens.sc.us/	Pickens	1999.0	145.0
+50467	http://www.berkeley.k12.sc.us/canebayelementary.cfm	Cane Bay Elementary	0.0	3167.0
+50468	http://greendaleel.acps.schoolfusion.us/	Greendale Elementary	2013.0	1656.0
+50470	http://mtzion.ccsdschools.com/	Mt. Zion Elementary	2002.0	300.0
+50471	http://dreher.richlandone.org/	Dreher High	2009.0	103.0
+50472	http://www.berkeley.k12.sc.us/westviewmiddle.cfm	Westview Middle	0.0	3015.0
+50473	http://hursey.ccsdschools.com/	Malcolm C. Hursey Elementary	2002.0	404.0
+50474	http://www.greenville.k12.sc.us/jlmann/	J. L. Mann High Academy	1998.0	842.0
+50475	http://sc.gov/pages/default.aspx	State Government	2010.0	1128.0
+50476	http://tes.dcsdschools.org/	Thornwell School for the Arts	2006.0	1063.0
+50477	http://ilhs.lancasterscschools.org/home	Indian Land High	2010.0	1.0
+50478	http://hopkins.richlandone.org/	Hopkins Middle	2009.0	205.0
+50479	https://sites.google.com/a/lex2.org/schools-spr/	Springdale Elementary	0.0	54.0
+50480	http://www.edgefieldcounty.sc.gov/Pages/Home.aspx	Edgefield	2012.0	20.0
+50481	http://mecc.clarendon2.k12.sc.us/home.aspx	Manning Early Childhood Center	0.0	46.0
+50482	http://www.berkeley.k12.sc.us/westview.cfm	Westview Elementary	0.0	2563.0
+50483	http://www.llr.state.sc.us/pol/opticians/	Opticianry, Board of Examiners in (LLR)	2002.0	45.0
+50484	http://www.berkeley.k12.sc.us/berkeleycollege.cfm	Berkeley County Middle College High	0.0	2427.0
+50486	http://cfe.horrycountyschools.net/	Carolina Forest Elementary	2008.0	13.0
+50487	http://www.chestersc.org/	Chester	2000.0	37.0
+50488	http://midlandpark.ccsdschools.com/	Midland Park Primary	2003.0	811.0
+50489	http://www.williston.k12.sc.us/school_home.aspx?schoolid=2	Williston-Elko Middle	2013.0	796.0
+50490	http://www.williston.k12.sc.us/school_home.aspx?schoolid=3	Kelly Edwards Elementary	2013.0	928.0
+50491	http://www.k12.com/casc	Cyber Academy of South Carolina	2013.0	490.0
+50492	http://www.williston.k12.sc.us/school_home.aspx?schoolid=1	Williston-Elko High	2013.0	1383.0
+50493	http://pth.kcsdschools.com/	Pine Tree Hill Elementary	2006.0	59.0
+50494	http://lms.pickens.k12.sc.us/	Liberty Middle	2010.0	5.0
+50495	http://www.scguard.com/	Military Department	2000.0	532.0
+50497	https://www.richland2.org/jke/pages/default.aspx	Joseph Keels Elementary	2014.0	20.0
+50498	http://www.spart5.net/domain/567	Florence Chapel Middle	2013.0	335.0
+50499	http://www.llr.state.sc.us/pol/bcc/	Building Codes Council (LLR)	2005.0	47.0
+50500	http://www.jms.flo5.k12.sc.us/	Johnsonville Middle	2001.0	19.0
+50501	http://www.slcog.state.sc.us/	Santee-Lynches Regional Council of Governments	2000.0	0.0
+50502	http://ah.horrycountyschools.net/	Aynor High	2008.0	55.0
+50504	http://www.anderson1.k12.sc.us/domain/557	West Pelzer Elementary	2014.0	799.0
+50505	http://www.hgtc.edu/	Horry-Georgetown Technical College	2002.0	452.0
+50506	https://www.fsd1.org/schools/briggs/pages/default.aspx	Briggs Elementary	0.0	3.0
+50507	http://pinckney.ccsdschools.com/	Charles Pinckney Elementary	2003.0	2246.0
+50508	http://www.state.sc.us/djj/	Juvenile Justice, Department of	2000.0	128.0
+50509	http://www.mahs.marion.k12.sc.us	Marion High	2013.0	16.0
+50510	http://www.llr.state.sc.us/pol/chiropractors/	Chiropractic Examiners, Board of (LLR)	2001.0	42.0
+50511	http://www.greenville.k12.sc.us/sueclev/	Sue Cleveland Elementary	1998.0	792.0
+50512	http://www.governor.sc.gov/pages/cabinet.aspx	Cabinet Agencies (Governor's Office)	2011.0	70.0
+50513	http://at.rock-hill.k12.sc.us/	Applied Technology Center	2009.0	92.0
+50514	http://horry.ent.sirsi.net/client/default	Horry County Memorial Library - Administration	0.0	629.0
+50515	http://www.prosecution.state.sc.us/	Prosecution Coordination, Commission on	2001.0	18.0
+50516	http://stonopark.ccsdschools.com/	Stono Park Elementary	2003.0	814.0
+50517	http://www.greenville.k12.sc.us/washctr/	Washington Center	2001.0	871.0
+50518	http://www.pms.marion.k12.sc.us/	Palmetto Middle	2013.0	47.0
+50519	http://dis.sc.gov/Pages/default.aspx	Information Security (DIS), Division of	0.0	22.0
+50521	http://www.chesterfield.k12.sc.us/	Chesterfield County School District	1998.0	489.0
+50522	http://fairwold.richlandone.org/	Pendergrass Fairwold School	2009.0	125.0
+50523	http://www.sccja.sc.gov	Criminal Justice Academy	2010.0	36.0
+50524	http://dorchester.wre.schoolfusion.us/	William M. Reeves Elementary	2009.0	2418.0
+50526	http://www.greatergreenville.com/	Greenville	1999.0	36.0
+50527	http://www.scgreencharter.org/	GREEN Charter School	2013.0	138.0
+50528	http://nahs.acps.schoolfusion.us/	North Augusta High	2012.0	11625.0
+50529	http://mcsdwallace.sharpschool.net/	Wallace Elementary-Middle	2012.0	324.0
+50530	http://bes.dcsdschools.org/	Brockington Elementary	2009.0	942.0
+50531	http://www.cityofgreer.org/	Greer	2001.0	415.0
+50532	http://ajhs.lancasterscschools.org/home	Andrew Jackson High	2010.0	1.0
+50533	http://nmps.marion.k12.sc.us/	North Mullins Primary	2013.0	50.0
+50534	http://www.darcosc.com/	Darlington	2004.0	96.0
+50535	http://spe.dcsdschools.org/	Spaulding Elementary	2008.0	460.0
+50536	http://wbe.beaufort.k12.sc.us/	Whale Branch Elementary	2011.0	23.0
+50537	http://www.oconee.k12.sc.us/keowee.cfm	Keowee Elementary	0.0	4709.0
+50538	http://lhs.kcsdschools.com/	Lugoff-Elgin High	2005.0	58.0
+50540	https://www.richland2.org/kmm/pages/default.aspx	Kelly Mill Middle	2014.0	36.0
+50541	https://www.richland2.org/ne/pages/default.aspx	L. B. Nelson Elementary	0.0	26.0
+50543	http://www.spart1.org/npe/	New Prospect Elementary	2008.0	363.0
+50544	http://www.laurenscountysc.org/	Laurens	2002.0	72.0
+50545	http://wes.kcsdschools.com/	Wateree Elementary	2005.0	28.0
+50546	http://www.daodas.state.sc.us	Alcohol and Other Drug Abuse Services, Department of	1998.0	455.0
+50548	http://www.greenville.k12.sc.us/pelham/	Pelham Road Elementary	2011.0	801.0
+50549	http://www.townofnorth-sc.gov/	North	2004.0	27.0
+50550	http://www.scsolicitor16.org/	Solicitor's Office, 16th Judicial Circuit	2000.0	31.0
+50551	http://mid-carolinamiddle.sc.ncm.schoolinsites.com/	Mid-Carolina Middle	2012.0	68.0
+50552	http://www.kershaw.k12.sc.us/	Kershaw County School District	1998.0	270.0
+50553	http://www.barnwell19.k12.sc.us/	Blackville	2001.0	35.0
+50554	http://hec.beaufort.k12.sc.us/	Hilton Head Island Early Childhood Center	2010.0	8.0
+50555	http://burns.ccsdschools.com/	Edmund A. Burns Elementary	2002.0	275.0
+50556	http://www.langstoncharter.org/	Langston Charter Middle	2007.0	462.0
+50557	http://mvhs.acps.schoolfusion.us/	Midland Valley High	2012.0	17972.0
+50558	http://www.scemd.org/	Emergency Management Division	2004.0	475.0
+50560	http://www.newberry.k12.sc.us/	School District of Newberry County	1998.0	497.0
+50561	http://www.greenville.k12.sc.us/beream/	Berea Middle	1999.0	803.0
+50562	http://wes.anderson2.org/	Wright Elementary	2007.0	28.0
+50563	http://www.edline.net/pages/union_county_high_school	Union County High	2013.0	8.0
+50564	http://www.doc.sc.gov/pubweb/	Corrections, Department of	2013.0	107.0
+50565	http://schofieldm.acps.schoolfusion.us/	Schofield Middle	2011.0	3067.0
+50566	http://jeffersonel.acps.schoolfusion.us/	Jefferson Elementary	2012.0	898.0
+50567	http://www.scag.gov/	Attorney General	2009.0	5577.0
+50568	http://gbms.barnwell45.org	Guinyard-Butler Middle	2013.0	38.0
+50569	http://www.edline.net/pages/johnson_middle_school	Johnson Middle	0.0	34.0
+50570	http://shfa.lexington4.net/	Swansea High Freshman Academy	2012.0	55.0
+50571	http://www.state.sc.us/cma/	Minority Affairs, Commission for	1997.0	27.0
+50572	http://romc.richlandone.org/	Richland One Charter Middle College	2011.0	1.0
+50573	http://corcoran.ccsdschools.com/	A. C. Corcoran Elementary	2003.0	1868.0
+50574	http://www.chester.k12.sc.us/	Chester County School District	1998.0	182.0
+50576	http://governor.sc.gov/Pages/default.aspx	Governor, Office of the	2011.0	49.0
+50577	https://dss.sc.gov/	Social Services, Department of	2008.0	61.0
+50578	http://millcreek.richlandone.org/	Mill Creek Elementary	2009.0	152.0
+50579	http://www.dmtconline.org/	Daniel Morgan Technolgy Center	2011.0	470.0
+50581	http://www.greenville.k12.sc.us/northwd/	Northwood Middle	1998.0	781.0
+50582	http://www.pomaria-garmany.org/	Pomaria-Garmany Elementary	2010.0	82.0
+50583	http://www.colleton.k12.sc.us/schools/bsecc/index.cfm	Black Street Early Childhood Center	0.0	103.0
+50584	https://sites.google.com/a/lex2.org/schools-pineview/	Pineview Elementary	2014.0	31.0
+50585	http://stjames.ccsdschools.com/	St. James Santee Elementary	2002.0	347.0
+50587	http://hunleypark.ccsdschools.com/	Hunley Park Elementary	2002.0	334.0
+50588	http://dorchester.dms.schoolfusion.us/	Charles B. DuBose Middle	2009.0	3208.0
+50589	http://www.spartanburg2.k12.sc.us/chs/index.html	Chesnee High	2009.0	11.0
+50590	http://mps.clarendon2.k12.sc.us/home.aspx	Manning Primary	0.0	39.0
+50592	http://fmes.fort-mill.k12.sc.us/home.aspx	Fort Mill Elementary	0.0	38.0
+50593	http://www.anderson1.k12.sc.us/domain/1278	Powdersville High	2014.0	799.0
+50594	http://www.octech.edu/	Orangeburg-Calhoun Technical College	2002.0	352.0
+50595	http://kes.lancasterscschools.org/home	Kershaw Elementary	2011.0	1.0
+50596	http://fpes.lexington1.net:8039/	Forts Pond Elementary	2013.0	1.0
+50597	http://www.willougray.org/	Gray, Wil Lou Opportunity School	2000.0	13.0
+50598	http://sse.dcsdschools.org/	Southside Early Childhood Education Center	2009.0	375.0
+50599	http://ces.sumterschools.net/	Cherryvale Elementary	2013.0	43.0
+50600	http://www.mmo.sc.gov	Materials Management Office (MMO)	2007.0	74.0
+50601	http://www.berkeley.k12.sc.us/	Berkeley County School District	0.0	3386.0
+50602	http://www.orangeburg.sc.us/	Orangeburg	1999.0	689.0
+50603	http://www.anderson5.net/domain/8	Calhoun Academy of the Arts	2012.0	819.0
+50604	http://www.anderson5.net/domain/9	Centerville Academy of 21st Learning	2012.0	953.0
+50605	http://www.sumtersc.gov/	Sumter	2004.0	640.0
+50606	http://nmh.ocsd5.net/	North Middle-High	2013.0	94.0
+50607	http://developmentacademy.ccsdschools.com/	Charleston Development Academy	2012.0	423.0
+50608	http://www.prosperitysc.com/	Prosperity	2000.0	58.0
+50609	http://angeloak.ccsdschools.com/	Angel Oak Elementary	2002.0	299.0
+50610	http://eps.orangeburg4.schoolfusion.us/	Edisto Primary	2012.0	812.0
+50611	http://lmes.lexington1.net:8031/	Lake Murray Elementary	2013.0	1.0
+50612	http://dorchester.oes.schoolfusion.us/	Oakbrook Elementary	2009.0	1295.0
+50613	http://www.orangeburgcounty.org/library/	Orangeburg County Library Commission	2002.0	0.0
+50614	http://www.townofpendleton.org/	Pendleton	2002.0	58.0
+50615	http://shs.lexington4.net/	Swansea High	2012.0	47.0
+50616	http://yr.rock-hill.k12.sc.us/	York Road Elementary	2009.0	49.0
+50618	http://www.tcl.edu/	Technical College of the Lowcountry	2002.0	848.0
+50619	http://www.greenville.k12.sc.us/forksh/	Fork Shoals School	1998.0	895.0
+50620	http://www.colleton.k12.sc.us/schools/fhe/index.htm	Forest Hills Elementary	1999.0	14.0
+50621	http://www.lexrich5.org/chapin.cfm	Chapin Elementary	0.0	1889.0
+50622	http://coastalmontessoricharter.org/	Coastal Montessori Charter School	2011.0	127.0
+50623	http://www.clemson.edu/	Clemson University	1997.0	3331.0
+50624	http://bes.beaufort.k12.sc.us/	Beaufort Elementary	2010.0	24.0
+50625	http://cherokee1.k12.sc.us/ewing/	John E. Ewing Middle	2004.0	0.0
+50626	http://obm.horrycountyschools.net/	Ocean Bay Middle	2008.0	19.0
+50627	http://www.bambergsc.com/	Bamberg	2000.0	23.0
+50628	http://www.spartanburg2.k12.sc.us/bse/index.htm	Boiling Springs Elementary	2001.0	5.0
+50629	http://www.spart5.net/site/default.aspx?pageid=351	Abner Creek Academy	2013.0	32.0
+50630	http://dorchester.shs.schoolfusion.us/	Summerville High	2009.0	7750.0
+50631	http://www.sled.sc.gov/	State Law Enforcement Division (SLED)	2005.0	113.0
+50634	http://www.llr.state.sc.us/pol/contractors/	Contractors' Licensing Board (LLR)	2001.0	63.0
+50635	http://www.cio.sc.gov/Pages/default.aspx	State Information Technology (DSIT), Division of	2011.0	5.0
+50636	http://nmbi.horrycountyschools.net/	North Myrtle Beach Intermediate	2008.0	2.0
+50637	http://www.greenville.k12.sc.us/bereae/index.asp	Berea Elementary	2003.0	781.0
+50638	http://www.llr.state.sc.us/pol/medical/	Medical Examiners, Board of (LLR)	2001.0	84.0
+50639	http://cherokee1.k12.sc.us/lces/	Limestone-Central Elementary	2010.0	0.0
+50640	http://heyward.richlandone.org/	Samuel A. Heyward Career and Tech Center	2009.0	118.0
+50641	http://www.spartanburg2.k12.sc.us/csf/index.htm	Cooley Springs-Fingerville Elementary	2011.0	15.0
+50642	http://www.greenville.k12.sc.us/simville/index.asp	Simpsonville Elementary	2006.0	952.0
+50643	http://mjhs.clarendon2.k12.sc.us/home.aspx	Manning Junior High	0.0	27.0
+50644	http://www.lexrich5.org/oakpointe.cfm	Oak Pointe Elementary	0.0	1583.0
+50645	http://www.callsouthcarolina.com/	Department of Commerce	1999.0	107.0
+50646	http://bles.groupfusion.net/	Batesburg-Leesville Elementary	2005.0	480.0
+50647	http://www.charlestoncounty.org/	Charleston	1998.0	267.0
+50649	http://www.greenville.k12.sc.us/grove/index.asp	Grove Elementary	2004.0	886.0
+50650	http://www.greenville.k12.sc.us/monarch/	Monarch Elementary	2012.0	20.0
+50651	http://hyattpark.richlandone.org/	Hyatt Park Elementary	2009.0	33.0
+50652	http://bde.dcsdschools.org/	Brunson-Dargan Elementary	2009.0	771.0
+50653	http://www.oconee.k12.sc.us/walhallams.cfm	Walhalla Middle	0.0	4670.0
+50654	http://www.greenville.k12.sc.us/bonds/index.asp	J. Harley Bonds Career Center	2006.0	787.0
+50655	http://www.fdtc.edu/	Florence-Darlington Technical College	2002.0	1200.0
+50656	http://www.lexrich5.org/harbisonwest.cfm	Harbison West Elementary	0.0	1517.0
+50657	http://sfes.fort-mill.k12.sc.us/home.aspx	Springfield Elementary	0.0	58.0
+50658	http://www.co.spartanburg.sc.us/	Spartanburg	1999.0	618.0
+50659	http://jacksonm.acps.schoolfusion.us/	Jackson Middle	2012.0	2705.0
+50660	http://mbi.horrycountyschools.net/	Myrtle Beach Intermediate	2008.0	7.0
+50661	http://www.greenville.k12.sc.us/shs/index.asp	Southside High	2007.0	813.0
+50662	http://mccormickcountylibrary.org	Mccormick County Library System	2007.0	59.0
+50663	http://www.spartanburg2.k12.sc.us/ces/index.htm	Chesnee Elementary	2000.0	36.0
+50664	http://www.gwd50.org/domain/1114	Merrywood Elementary	2012.0	992.0
+50665	http://www.edelmanpubliclibrary.org/	Marian Wright Edelman Public Library	2010.0	29.0
+50666	http://www.crr.sc.gov/Pages/default.aspx	Confederate Relic Room and Museum	2011.0	44.0
+50667	http://btms.fort-mill.k12.sc.us/home.aspx	Banks Trail Middle	0.0	19.0
+50668	http://www.berkeley.k12.sc.us/whitesville.cfm	Whitesville Elementary	0.0	2570.0
+50669	http://www.berkeley.k12.sc.us/goosecreek.cfm	Goose Creek Primary	0.0	2418.0
+50670	https://www.fsd1.org/schools/alfredrush/Pages/default.aspx	Alfred Rush Academy	0.0	6.0
+50671	http://www.horrycounty.org/	Horry	2000.0	906.0
+50672	http://www.scrdc.org/	Rural Development Council	2008.0	0.0
+50673	http://www.cg.sc.gov/Pages/default.aspx	Comptroller General	2012.0	55.0
+50675	http://harborview.ccsdschools.com/	Harbor View Elementary	2003.0	439.0
+50677	http://hwe.horrycountyschools.net/	Homewood Elementary	2008.0	17.0
+50680	http://www.cityofcayce-sc.gov/	Cayce	0.0	67.0
+50682	http://chester.gfmh.schooldesk.net/	Great Falls High	2011.0	164.0
+50683	http://www.fortmillsc.org/	Fort Mill	2000.0	547.0
+50684	http://www.berkeley.k12.sc.us/hanahan.cfm	Hanahan Elementary	0.0	2495.0
+50686	https://www.fsd1.org/schools/northvista/pages/default.aspx	North Vista Elementary	0.0	101.0
+50687	http://www.summerville.sc.us/	Summerville	1998.0	362.0
+50688	http://mcsdmarlborohigh.sharpschool.net/	Marlboro County High	2012.0	898.0
+50689	http://hms.ocsd5.net/	Robert E. Howard Middle	2013.0	66.0
+50690	http://les2.mybigcampus.net/	Latta Elementary	2013.0	46.0
+50691	http://blh.beaufort.k12.sc.us/	Bluffton High	2010.0	10.0
+50692	http://www.berkeley.k12.sc.us/hanahanmiddle.cfm	Hanahan Middle	0.0	2591.0
+50693	http://www.clarendon1.k12.sc.us/	Clarendon School District One	2001.0	7361.0
+50694	http://ajms.lancasterscschools.org/home	Andrew Jackson Middle	2010.0	1.0
+50695	http://cm.horrycountyschools.net/	Conway Middle	2008.0	16.0
+50696	http://fms.sumterschools.net/	Furman Middle	2013.0	39.0
+50697	http://www.berkeley.k12.sc.us/cross.cfm	Cross Elementary	0.0	2433.0
+50698	http://dms.pickens.k12.sc.us/	Dacusville Middle	2008.0	5.0
+50699	http://www.colletoncounty.org/	Colleton	2002.0	212.0
+50700	http://sfms.fort-mill.k12.sc.us/	Springfield Middle	2007.0	56.0
+50701	http://bes.kcsdschools.com/	Blaney Elementary	2005.0	60.0
+50702	http://arl.pickens.k12.sc.us/	A. R. Lewis Elementary	2009.0	5.0
+50703	http://www.wiltech.edu/	Williamsburg Technical College	2002.0	195.0
+50704	http://www.spartanburg2.k12.sc.us/rlm/index.htm	Rainbow Lake Middle	2010.0	6.0
+50705	http://ww2.williamsburgsc.com/	Williamsburg	0.0	106.0
+50706	http://jpthomas.richlandone.org/	J. P. Thomas Elementary	2009.0	175.0
+50707	http://www.chapinsc.com/	Chapin	1998.0	321.0
+50708	http://www.greenville.k12.sc.us/twood/index.asp	Tanglewood Middle	2003.0	823.0
+50709	http://hphs.flo2.k12.sc.us	Hannah Pamplico High	2007.0	32.0
+50710	http://www.gwd50.org/domain/958	Lakeview Elementary	2012.0	992.0
+50711	http://www.greenville.k12.sc.us/eastside/	Eastside High	1998.0	966.0
+50712	http://www.dillon.k12.sc.us/jvm/default.htm	Dillon Middle	2012.0	64.0
+50713	http://www.ria.sc.gov	Rural Infrastructure Authority	2013.0	15.0
+50714	http://hkte.orangeburg4.schoolfusion.us/?sessionid=be3ce947861661bbd2258e4fd282fdfe&t	Hunter-Kinard-Tyler Elementary	0.0	630.0
+50715	http://www.ahjlibrary.org	Allendale-Hampton-Jasper Regional Library	2001.0	18.0
+50716	http://sces.fort-mill.k12.sc.us/home.aspx	Sugar Creek Elementary	0.0	39.0
+50717	http://aikenperformingartsacademy.yolasite.com/	Aiken Performing Arts Academy Charter	2010.0	19.0
+50718	http://ae.horrycountyschools.net/	Aynor Elementary	2008.0	9.0
+50719	http://www.florencelibrary.org	Florence County Library System	2001.0	111.0
+50720	http://www.spart5.net/domain/364	Wellford Academy of Science and Techology	2013.0	335.0
+50721	http://sca.beaufort.k12.sc.us/	Hilton Head Island Elementary School for the Creative Arts	2010.0	12.0
+50722	http://www.walterborosc.org	Walterboro	2005.0	234.0
+50723	http://spartanburg4.publishpath.com/woodruff-primary-school	Woodruff Primary	0.0	53.0
+50724	http://www.gwd50.org/domain/886	Hodges Elementary	2012.0	992.0
+50725	http://www.llr.state.sc.us/pol/cosmetology/	Cosmetology, Board of (LLR)	2001.0	53.0
+50726	http://cem.orangeburg4.schoolfusion.us	Carver Edisto Middle	2011.0	1444.0
+50727	http://www.govoepp.state.sc.us/va/	Veterans' Affairs, Office of (Governor's Office)	2006.0	9.0
+50728	http://www.citadel.edu/root/	The Citadel	2011.0	1686.0
+50729	http://pes.anderson4.org	Pendleton Elementary	2013.0	1732.0
+50731	http://spartanburg4.publishpath.com/woodruff-high-school	Woodruff High	0.0	53.0
+50733	http://ame.spartanburg6.k12.sc.us/	Anderson Mill Elementary	2009.0	295.0
+50734	http://ees.orangeburg4.schoolfusion.us/	Edisto Elementary	2011.0	1506.0
+50735	http://greermiddlecollege.org/	Greer Middle College Charter	2008.0	219.0
+50736	http://dorchester.ses.schoolfusion.us/	Summerville Elementary	2009.0	1738.0
+50737	http://www.anderson3.k12.sc.us/	Anderson School District Three	1999.0	6.0
+50738	http://chs.sumterschools.net/	Crestwood High	2011.0	47.0
+50739	http://le.horrycountyschools.net/	Loris Elementary	2008.0	18.0
+50740	http://www.palmettoacademy.com/portal/Home.aspx	Palmetto Academy of Learning and Success Charter	2013.0	257.0
+50741	http://lie.beaufort.k12.sc.us/	Lady's Island Elementary	2010.0	14.0
+50742	http://www.greenwood52.org/site/default.aspx?domainid=93	Ninety Six Elementary	2013.0	14.0
+50743	http://sjh.horrycountyschools.net/	St. James High	2008.0	21.0
+50744	https://sites.google.com/a/ccpsonline.net/working-on-srs-site/	Sandy Run School	0.0	44.0
+50745	http://www.greenvillelibrary.org	Greenville County Library System	1999.0	404.0
+50746	http://mges.lancasterscschools.org/home	McDonald Green Elementary	2010.0	1.0
+50747	http://lhs.lancasterscschools.org/home	Lancaster High	2009.0	1.0
+50748	http://www.berkeley.k12.sc.us/sangareemiddle.cfm	Sangaree Middle	0.0	2424.0
+50749	http://www.sumtercountysc.org/	Sumter	2001.0	2943.0
+50750	http://www.berkeley.k12.sc.us/cainhoy.cfm	Cainhoy Elementary Middle	0.0	2355.0
+50751	http://shs.sumterschools.net/	Sumter High	2011.0	35.0
+50752	http://www.spart5.net/site/default.aspx?domainid=243	Reidville Elementary	0.0	53.0
+50753	http://csms.lexington1.net:8037/	Carolina Springs Middle	2013.0	1.0
+50754	http://www.spart6.org/	Spartanburg County School District Six	2006.0	283.0
+50755	http://www.coastal.edu/	Coastal Carolina University	1997.0	1917.0
+50756	http://dorchester.fdhs.schoolfusion.us/	Fort Dorchester High	2009.0	2402.0
+50757	http://loe.spartanburg6.k12.sc.us/	Lone Oak Elementary	2009.0	79.0
+50758	http://cannons.spartanburg3.org/	Cannons Elementary	2010.0	188.0
+50759	http://wbm.beaufort.k12.sc.us/	Whale Branch Middle	2010.0	11.0
+50760	http://rves.fort-mill.k12.sc.us/home.aspx	Riverview Elementary	0.0	22.0
+50761	http://www.anderson1.k12.sc.us/domain/199	Concrete Primary	2014.0	801.0
+50762	http://chester.chs.schooldesk.net/	Chester Senior High	2011.0	84.0
+50763	http://www.scgovernorsmansion.org/	Governor's Mansion	2001.0	14.0
+50764	http://amhs.ccsdschools.com/	Academic Magnet High	2002.0	154.0
+50765	http://dhs.pickens.k12.sc.us/	D. W. Daniel High	2009.0	5.0
+50766	https://www.richland2.org/rce/pages/default.aspx	Rice Creek Elementary	0.0	33.0
+50768	http://www.denmarkolarschooldistrict2.org/education/district/district.php?sectionid=1	Bamberg 2	2010.0	3.0
+50769	http://www.berkeley.k12.sc.us/ststephenmiddle.cfm	St. Stephen Middle	0.0	2550.0
+50770	http://www.oconee.k12.sc.us/westoakms.cfm	West Oak Middle	0.0	4866.0
+50771	http://rce.beaufort.k12.sc.us/	Red Cedar Elementary	2010.0	9.0
+50772	http://www.bjace.org	Beaufort-Jasper Academy For Ex	1999.0	1.0
+50773	http://pses.sumterschools.net/	Pocalla Springs Elementary	2011.0	41.0
+50774	http://les.lexington1.net:8012/	Lexington Elementary	2012.0	1.0
+50775	http://www.greenville.k12.sc.us/cone/index.asp	Cherrydale Elementary	2003.0	1.0
+50776	http://www.greenville.k12.sc.us/rms/	Riverside Middle	2013.0	827.0
+50778	http://www.northcharleston.net/	North Charleston	2000.0	1.0
+50779	http://www.clover.k12.sc.us/domain/8	Bethany Elementary	2012.0	717.0
+50780	http://www.clover.k12.sc.us/domain/9	Bethel Elementary	2012.0	717.0
+50781	http://www.greenville.k12.sc.us/crestv/index.asp	Crestview Elementary	2005.0	832.0
+50782	http://lincoln.ccsdschools.com/	Lincoln High	2003.0	547.0
+50783	http://sandel.richlandone.org/	Sandel Elementary	2011.0	59.0
+50784	http://www.kiawahisland.org/	Kiawah Island	1999.0	387.0
+50785	http://bamberg1.com/bems/	Bamberg-Ehrhardt Middle	0.0	2.0
+50786	http://www.anderson1.k12.sc.us/domain/262	Hunt Meadows Elementary	2014.0	801.0
+50787	http://www.beaufortcountylibrary.org	Beaufort County Library	2008.0	1113.0
+50788	http://www.greenville.k12.sc.us/blythe/index.asp	Blythe Academy	2009.0	417.0
+50789	http://hopkinsel.richlandone.org/	Hopkins Elementary	2009.0	110.0
+50790	http://dfc.spartanburg6.k12.sc.us/	Dorman High Freshman Campus	2009.0	157.0
+50791	http://townofseabrookisland.org/	Seabrook Island	2000.0	21.0
+50792	http://www.oconee.k12.sc.us/blueridge.cfm	Blue Ridge Elementary	0.0	5312.0
+50793	http://www.lex-co.sc.gov/departments/deptah/buildingdirectory/pages/solicitor.aspx	Solicitor's Office, 11th                  Judicial Circuit	2012.0	31.0
+50794	http://hhs.dcsdschools.org/	Hartsville High	2008.0	2149.0
+50795	http://www.anderson5.net/domain/2723	Anderson Five Charter School	2012.0	954.0
+50796	https://sites.google.com/a/lex2.org/fms/	R. H. Fulmer Middle	0.0	32.0
+50797	http://www.greenville.k12.sc.us/gvilleh/index.asp	Greenville Senior High Academy	2013.0	909.0
+50798	http://www.greenville.k12.sc.us/gordon/	Rudolph Gordon Elementary	2008.0	820.0
+50799	http://www.state.sc.us/ethics/	State Ethics Commission	1998.0	56.0
+50800	http://www.berkeley.k12.sc.us/ststephen.cfm	St. Stephen Elementary	0.0	2487.0
+50801	http://kbe.sumterschools.net/	Kingsbury  Elementary	2011.0	33.0
+50802	http://www.york.k12.sc.us/yis/	York Intermediate	2010.0	8148.0
+50803	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=838	Laurens District 55 High	2012.0	29.0
+50805	http://ea.rock-hill.k12.sc.us/	Ebenezer Avenue Elementary	2009.0	60.0
+50806	http://www.greenville.k12.sc.us/armstrng/	Armstrong Elementary	1999.0	822.0
+50807	http://www.darlingtonsconline.com/	Darlington	2009.0	95.0
+50809	http://wve.spartanburg6.k12.sc.us/	West View Elementary	2009.0	474.0
+50810	http://www.greenville.k12.sc.us/ccreek/	Chandler Creek Elementary	2001.0	69.0
+50811	http://www.williamstonsc.us	Williamston	2005.0	39.0
+50812	http://eaikel.acps.schoolfusion.us/	East Aiken School of the Arts	2012.0	5730.0
+50813	http://www.greenville.k12.sc.us/hughes/index.asp	Hughes Academy of Science and Technology	2004.0	1.0
+50814	http://www.southcarolinaarts.com/index.shtml	Arts Commission	2006.0	415.0
+50815	http://www.che.sc.gov	Higher Education, Commission on	2003.0	1660.0
+50816	http://www.scvotes.org	Election Commission	0.0	709.0
+50817	http://www.oconee.k12.sc.us/	School District of Oconee County	0.0	5206.0
+50818	http://www.scag.gov/scsecurities	Securities Division (Office of Attorney General)	2011.0	5591.0
+50819	http://www.dorchester.rms.schoolfusion.us/	Rollings Middle School of the Arts	2009.0	1293.0
+50820	http://phms.lexington1.net:8034/	Pleasant Hill Middle	2013.0	1.0
+50821	http://ch.horrycountyschools.net/	Conway High	2008.0	15.0
+50822	http://www.mes.marion.k12.sc.us	McCormick Elementary	2013.0	26.0
+50824	http://mcsdclioelementary.sharpschool.net/	Clio Elementary-Middle	2012.0	253.0
+50825	http://sce.horrycountyschools.net/	South Conway Elementary	2008.0	12.0
+50826	http://www.lexrich5.org/dutchforkms.cfm	Dutch Fork Middle	0.0	1973.0
+50827	http://www.edline.net/pages/sims_middle	Sims Middle	2013.0	9.0
+50829	http://www.oconeesc.com/	Oconee	2001.0	475.0
+50830	http://southeast.richlandone.org/	Southeast Middle	2011.0	110.0
+50831	http://wse.dcsdschools.org/	Washington St. Elementary	2009.0	74.0
+50832	http://woodland.dorchester4.k12.sc.us/	Woodland High	2005.0	16.0
+50833	http://www.spart1.org/cgs/	Campobello-Gramling School	2007.0	635.0
+50834	http://www.dorchester4.k12.sc.us/	Dorchester 4	2001.0	190.0
+50835	http://nmbe.horrycountyschools.net/	North Myrtle Beach Elementary	2008.0	2.0
+50836	http://www.gwd51.org/	Greenwood 51 School District	2012.0	1531.0
+50837	http://ges.lexington1.net:8014/	Gilbert Elementary	2012.0	1.0
+50838	http://www.berkeley.k12.sc.us/berkeleyhigh.cfm	Berkeley High	0.0	2584.0
+50839	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=4853	Laurens Middle	2012.0	23.0
+50840	http://scsolicitor5.org/solicitorsoffice.aspx	Solicitor's Office - 5th Judicial Circuit	2014.0	93.0
+50841	https://www.richland2.org/mrm/pages/default.aspx	Muller Road Middle	2013.0	11.0
+50842	https://www.richland2.org/svh/pages/default.aspx	Spring Valley High	2014.0	68.0
+50844	http://ethics.sc.gov/Pages/default.aspx	Ethics Commission, State	2010.0	56.0
+50845	http://lhs.lexington1.net:8011/	Lexington High	2012.0	1.0
+50846	http://www.scfa.state.sc.us/	Fire Academy	2001.0	100.0
+50847	http://hes.jcsd.net/	Hardeeville Elementary	2011.0	134.0
+50848	https://www.fsd1.org/schools/timrod/pages/default.aspx	Henry Timrod Elementary	0.0	17.0
+50850	http://www.greenville.k12.sc.us/ajw/	A.J. Whittenburg Elementary	2010.0	815.0
+50851	http://pve.beaufort.k12.sc.us/	Pritchardville Elementary	2010.0	12.0
+50852	http://burnside.richlandone.org/	Annie Burnside Elementary	2010.0	111.0
+50853	http://www.schac.sc.gov/Pages/default.aspx	Human Affairs Commission	2014.0	64.0
+50854	http://whe.dcsdschools.org/	West Hartsville Elementary	2009.0	1052.0
+50855	http://www.dnr.sc.gov/climate/sco/	Climatology Office, State	2005.0	2.0
+50856	http://www.cityofspartanburg.org/	Spartanburg	1998.0	244.0
+50857	http://northaikenel.acps.schoolfusion.us/	North Aiken Elementary	2013.0	2994.0
+50858	http://www.scsos.com/	Secretary of State	2000.0	11.0
+50859	http://www.scpcf.com	Medical Malpractice Patients' Compensation Fund	2007.0	50.0
+50860	http://www.greenville.k12.sc.us/bethel/	Bethel Elementary	2001.0	61.0
+50861	http://www.greenville.k12.sc.us/gateway/index.asp	Gateway Elementary	2005.0	922.0
+50862	http://obg3.k12.sc.us/ees/	Elloree Elementary	0.0	0.0
+50863	http://fm.horrycountyschools.net/	Forestbrook Middle	2008.0	55.0
+50864	http://pye.dorchester.schoolfusion.us/	Joseph R. Pye Elementary	2012.0	1751.0
+50866	https://sites.google.com/a/clarendon3.org/ecmhs/	East Clarendon Middle-High	0.0	90.0
+50867	http://www.llr.state.sc.us/pol/geologists/	Geologists, Board of Registration for (LLR)	2001.0	43.0
+50868	http://www.llr.state.sc.us/	Labor, Licensing, and Regulation, Department of (LLR)	1998.0	1184.0
+50869	http://ashleyridge.schoolfusion.us/	Ashley Ridge High	2008.0	11394.0
+50870	http://www.soli10th.com/	Solicitor's Office, 10th Judicial Circuit	2004.0	213.0
+50871	http://www.lcsd56.org/domain/418	Joanna-Woodson Elementary	2012.0	305.0
+50872	https://www.fsd1.org/schools/lester/pages/default.aspx	Theodore Lester Elementary	0.0	37.0
+50873	http://www.gwd50.org/domain/83	Emerald High	2012.0	988.0
+50874	http://www.llr.state.sc.us/pol/engineers/	Engineers and Land Surveyors, Board of Professional                  (LLR)	2001.0	145.0
+50875	http://ehs.pickens.k12.sc.us/	Easley High	2008.0	5.0
+50876	http://mycowpensgov.com/	Cowpens	2002.0	102.0
+50877	http://www.mecc.marion.k12.sc.us	Mullins Early Childhood Center ANNEX	2013.0	16.0
+50878	http://fms.fairfield.k12.sc.us/home.aspx	Fairfield Middle	0.0	35.0
+50879	http://www.greenville.k12.sc.us/ftinn/index.asp	Fountain Inn Elementary	2003.0	1272.0
+50880	http://pre.beaufort.k12.sc.us/	Port Royal Elementary	2011.0	33.0
+50881	http://www.gwd50.org/domain/1473	Woodfields Elementary	2012.0	988.0
+50882	http://www.continuum.sc.gov/	Continuum of Care (Governor's Office)	2008.0	7.0
+50883	http://ors.sc.gov	Research and Statistics, Office of (Budget and Control Board)	2010.0	0.0
+50884	http://chester.lhs.schooldesk.net/	Lewisville High	2011.0	147.0
+50885	http://ae.spartanburg6.k12.sc.us/	Arcadia Elementary	2009.0	141.0
+50886	http://www.greenville.k12.sc.us/gbrier/	Greenbrier Elementary	1998.0	73.0
+50887	http://www.charleston-sc.gov	Charleston	2013.0	1409.0
+50888	http://www.berkeley.k12.sc.us/marringtonl.cfm	Marrington Middle School of the Arts	0.0	2536.0
+50889	http://www.barnwell45.org/	Barnwell School District 45	2009.0	25.0
+50890	http://chester.academy.schooldesk.net/	Academy for Teaching and Learning	2011.0	19.0
+50892	http://acmoore.richlandone.org/	A. C. Moore Elementary	2011.0	71.0
+50893	http://ces.dcsdschools.org/	Carolina Elementary	2008.0	490.0
+50895	http://murraylasaine.ccsdschools.com/	Murray Lasaine Elementary	2002.0	1291.0
+50896	http://www.greenville.k12.sc.us/bereah/index.asp	Berea High	2009.0	1.0
+50897	http://bellehall.ccsdschools.com	Belle Hall Elementary	2002.0	1435.0
+50898	http://www.tegacaysc.org/	Tega Cay	2001.0	282.0
+50899	http://www.sces.org/	Employment Security Commission	1998.0	155.0
+50900	http://www.gwd50.org/site/default.aspx?pageid=1	Greenwood School District 50	2011.0	34.0
+50901	http://www.greenville.k12.sc.us/northwst/	Northwest Middle	2002.0	812.0
+50902	http://nfhs.fort-mill.k12.sc.us/	Nation Ford High	2007.0	14.0
+50903	http://paulknoxm.acps.schoolfusion.us/	Paul Knox Middle	2012.0	2789.0
+50904	http://www.horrycountyschools.net/	Horry County Schools	2007.0	118.0
+50905	http://www.llr.state.sc.us/pol/veterinary/	Veterinary Medical Examiners, Board of (LLR)	2001.0	52.0
+50906	http://www.cityofwestcolumbiasc.org/	West Columbia	2002.0	2.0
+50907	http://littlemountainelem.sc.nce.schoolinsites.com/	Little Mountain Elementary	2012.0	43.0
+50909	http://sams.richlandone.org/	St. Andrews Middle	2011.0	95.0
+50910	http://www.yclibrary.org	York County Library System	1999.0	123.0
+50911	http://les.kcsdschools.com/	Lugoff Elementary	2006.0	73.0
+50912	http://www.oconee.k12.sc.us/walhallahs.cfm	Walhalla High	0.0	4969.0
+50913	http://id.rock-hill.k12.sc.us/	Independence Elementary	2008.0	171.0
+50914	http://bhjr.barnwell19.k12.sc.us	Blackville-Hilda Junior High	2011.0	20.0
+50915	http://mg.rock-hill.k12.sc.us/	Mount Gallant Elementary	2009.0	83.0
+50916	http://www.georgetowncountysc.org/	Georgetown	2002.0	197.0
+50917	http://www.union.k12.sc.us/	Union County School District	1998.0	123.0
+50918	http://sic.sc.gov/Pages/default.aspx	School Improvement Council	2011.0	56.0
+50919	http://www.york.k12.sc.us/hss/	Hunter Street Elementary	2010.0	1500.0
+50920	http://williams.ccsdschools.com/	C. E. Williams Middle School for Creative and Scientific Arts	2002.0	1121.0
+50921	http://www.seneca.sc.us/	Seneca	1999.0	1019.0
+50922	http://www.lcsd56.org/msb	M. S. Bailey Child Development Center	0.0	1433.0
+50923	http://moe.beaufort.k12.sc.us/	Mossy Oaks Elementary	2010.0	11.0
+50924	http://www.llr.state.sc.us/pol/counselors/	Counselors and Psychological Therapists Licensing Board (LLR)	2001.0	63.0
+50926	http://hampton2es.ss3.sharpschool.com/	Estill Elementary	2013.0	517.0
+50927	http://www.meyercenter.org/	Meyer Center for Special Children Charter	2001.0	46.0
+50928	http://myleadacademy.com/	LEAD Academy Charter School	2009.0	41.0
+50930	http://wm.dorchester4.k12.sc.us/	William Memorial Elementary	2003.0	20.0
+50931	http://www.legacycharterschool.com/index.php	Legacy Charter	2013.0	71.0
+50933	http://www.midlandstech.edu/	Midlands Technical College	2002.0	1217.0
+50934	http://op.rock-hill.k12.sc.us/	Old Pointe Elementary	2008.0	32.0
+50935	https://www.richland2.org/lm/pages/default.aspx	Longleaf Middle	2014.0	8.0
+50936	http://cherokee1.k12.sc.us/gpes/	Grassy Pond Elementary	2012.0	0.0
+50937	http://www.berkeley.k12.sc.us/collegeparkmiddle.cfm	College Park Middle	0.0	2541.0
+50938	http://burtonpack.richlandone.org/	Burton Pack Elementary	2009.0	31.0
+50939	http://www.greenville.k12.sc.us/index.asp	The School District of Greenville County	2003.0	657.0
+50940	http://www.scaeronautics.com	Aeronautics Division	2001.0	344.0
+50941	http://www.spartanburg4.org/	Spartanburg County School District Four	1998.0	53.0
+50942	http://www.regulatorystaff.sc.gov/Pages/default.aspx	Regulatory Staff, Office of	2012.0	111.0
+50943	http://www.spart5.net/site/default.aspx?domainid=516	D. R. Hill Middle	0.0	21.0
+50944	http://www.jcsd.net/	Jasper County School District	1999.0	851.0
+50945	http://cherokee1.k12.sc.us/lves/	Luther L. Vaughan  Elementary	2011.0	0.0
+50946	http://dorchester.fes.schoolfusion.us/	Flowertown Elementary	2009.0	1888.0
+50947	http://www.berkeley.k12.sc.us/jkgourdin.cfm	J. K. Gourdin Elementary	0.0	2602.0
+50948	http://www.york.k12.sc.us/jes/	Jefferson Elementary	2005.0	7667.0
+50949	http://leelcms.sharpschool.net/	Lee Central Middle	2012.0	169.0
+50950	http://msp.spartanburg3.org/	Middle School of Pacolet	2009.0	209.0
+50951	http://cwe.pickens.k12.sc.us/	Crosswell Elementary	2009.0	5.0
+50952	http://pms.lexington1.net:8030/	Pelion Middle	2013.0	1.0
+50953	http://clayhill.dorchester4.k12.sc.us/	Clay Hill Elementary	2008.0	10.0
+50954	http://www.cofc.edu/	College of Charleston	1997.0	465.0
+50955	http://www.greenville.k12.sc.us/hms/index.asp	Hillcrest Middle	2008.0	38.0
+50956	http://www.ptc.edu/	Piedmont Technical College	2002.0	2239.0
+50957	https://www.richland2.org/se/pages/default.aspx	Sandlapper Elementary	0.0	17.0
+50958	http://www.treasurer.sc.gov	Treasurer, Office of the State	2007.0	208.0
+50959	http://www.irf.sc.gov	Insurance Reserve Fund, Office of	2006.0	37.0
+50960	http://www.dillon.k12.sc.us/shs/default.htm	Stewart Heights Elementary	2012.0	12.0
+50962	http://www.lex.lib.sc.us/branchprofile.asp?lid=8	Lexington County Library - Batesburg-Leesville	2006.0	0.0
+50963	http://www.lex.lib.sc.us/branchprofile.asp?lid=9	Lexington County Library - Cayce-West Columbia	2006.0	0.0
+50964	http://www.olg.sc.gov/	Local Government, Office of	2006.0	11.0
+50966	http://www.scsolicitor9.org/	Solicitor's Office - 9th Judicial Circuit	1999.0	154.0
+50967	http://cde.sumterschools.net/	Crosswell Elementary	2012.0	27.0
+50968	http://www.myscschools.com/	Department of Education	2001.0	1.0
+50969	http://www.gwd50.org/domain/1285	Pinecrest Elementary	2012.0	994.0
+50970	https://www.richland2.org/bm/pages/default.aspx	Blythewood Middle	2014.0	46.0
+50971	http://dunston.ccsdschools.com/	Matilda Dunston Elementary	2003.0	1161.0
+50972	http://mcsdmarlborodiscovery.sharpschool.net/	Marlboro School of Discovery	2012.0	311.0
+50974	http://busbeecorbett.acps.schoolfusion.us/	Busbee Corbett Elementary Middle	2011.0	2295.0
+50975	http://www.sctax.org/default.htm	Department of Revenue	2003.0	414.0
+50976	http://sjm.horrycountyschools.net/	St. James Middle	2008.0	11.0
+50977	http://dorchester.fde.schoolfusion.us/	Fort Dorchester Elementary	2009.0	1957.0
+50978	http://ecc.lexington4.net/	Lexington Four Early Childhood Center	2012.0	41.0
+50979	http://be.horrycountyschools.net/	Burgess Elementary	2008.0	34.0
+50980	http://www.dcl.lib.sc.us	Dorchester County Library System	1999.0	285.0
+50981	http://lme.sumterschools.net/	Lemira Elementary	2011.0	32.0
+50982	http://www.greenville.k12.sc.us/cashion/	Robert E. Cashion Elementary	2004.0	869.0
+50983	http://www.muhs.marion.k12.sc.us	Mullins High	2013.0	16.0
+50984	http://www.llr.state.sc.us/pol/barber/	Barber Examiners, Board of (LLR)	2001.0	51.0
+50985	http://www.berkeley.k12.sc.us/hebonner.cfm	Henry E. Bonner Elementary	0.0	2594.0
+50986	http://attorneys.statelocalgov.net/all/south-carolina	South Carolina Attorney Database	2014.0	10089.0
+50987	http://mtpleasant.ccsdschools.com/	Mt. Pleasant Academy	2002.0	469.0
+50989	http://bridgesprep.org/	Bridges Preparatory School	2013.0	268.0
+50990	http://bms.sumterschools.net/	Bates Middle	2011.0	37.0
+50991	http://columbia.richlandone.org/	Columbia High	2009.0	94.0
+50992	http://www.yorkprepsc.org	York Preparatory Academy	2008.0	104.0
+50993	http://www.netc.edu/	Northeastern Technical College	2002.0	649.0
+50994	http://www.jaspercountysc.org/	Jasper	2002.0	114.0
+50995	http://www.psecademy.org	Palmetto State E-cademy	2009.0	1.0
+50996	http://www.saludaschools.org/domain/98	Saluda Elementary	2012.0	209.0
+50998	http://chicora.ccsdschools.com/	Chicora Elementary	2002.0	476.0
+50999	http://westashleyhigh.ccsdschools.com/	West Ashley High	2002.0	4110.0
+51001	http://midlandsmiddlecollege.com/	Midlands Middle College	2007.0	13.0
+51002	http://www.lexrich5.org/sevenoaks.cfm	Seven Oaks Elementary	0.0	1355.0
+51003	http://soa.ccsdschools.com/	Charleston School of the Arts	2003.0	612.0
+51004	http://janeedwards.ccsdschools.com/	Jane Edwards Elementary	2002.0	750.0
+51005	http://ems.sumterschools.net/	Ebenezer Middle	2011.0	30.0
+51006	http://secc.clarendon1.k12.sc.us/	Summerton Early Childhood Center	2009.0	23.0
+51007	http://www.oconee.k12.sc.us/orchardpark.cfm	Orchard Park Elementary	0.0	5108.0
+51008	http://www.pickens.k12.sc.us/	School District of Pickens County	1998.0	4.0
+51009	http://phs.lexington1.net:8015/	Pelion High	2012.0	1.0
+51010	http://www.oconee.k12.sc.us/westminster.cfm	Westminster Elementary	0.0	4768.0
+51011	http://gadsden.richlandone.org/	Gadsden Elementary	2009.0	121.0
+51012	http://www.palmsc.org/welcome/	Palmetto Academy for Learning Motorsports	2013.0	0.0
+51016	http://www.bcdcog.com/	Berkeley-Charleston-Dorchester Council of Governments	2000.0	49.0
+51017	http://www.oes.florence3.k12.sc.us/	Olanta Elementary	2008.0	12.0
+51019	http://www.lex.lib.sc.us/branchprofile.asp?lid=11	Lexington County Library - Gaston	2006.0	0.0
+51020	http://jims.ccsdschools.com/	James Island Middle	2002.0	1543.0
+51023	http://aikenhs.acps.schoolfusion.us/	Aiken High	2011.0	8717.0
+51024	http://mes.clarendon2.k12.sc.us/home.aspx	Manning Elementary	0.0	123.0
+51025	http://ls.rock-hill.k12.sc.us/	Lesslie Elementary	2009.0	145.0
+51026	http://www.jptms.florence3.k12.sc.us/	J. Paul Truluck Middle	2008.0	40.0
+51027	http://ep.rock-hill.k12.sc.us/	Ebinport Elementary	2008.0	184.0
+51028	http://www.berkeley.k12.sc.us/danielisland.cfm	Daniel Island School	0.0	2729.0
+51029	https://sites.google.com/a/lex2.org/schools-wood/	Herbert A. Wood Elementary	0.0	45.0
+51030	http://www.colletonsd.org/	Colleton School District	2009.0	678.0
+51031	http://www.spart1.org/mms/	T. E. Mabry Middle	2007.0	5404.0
+51032	http://scvrd.net/common/index.php	Vocational Rehabilitation Department	2012.0	17.0
+51034	http://www.greenville.k12.sc.us/hollise/index.asp	Hollis Academy	2004.0	805.0
+51035	http://lhs.pickens.k12.sc.us/	Liberty High	2009.0	5.0
+51036	http://lbcm.acps.schoolfusion.us/	Langley-Bath-Clearwater Middle	2012.0	4152.0
+51037	http://mbe.horrycountyschools.net/	Myrtle Beach Elementary	2008.0	28.0
+51038	http://www.lexington1.net/	Lexington County School District One	2001.0	34.0
+51039	http://www.sctuitiongrants.com/	Tuition Grants Commission, Higher Education	2001.0	17.0
+51040	http://blaney.ccsdschools.com/	C.C. Blaney Elementary	2002.0	1.0
+51041	https://sites.google.com/a/lex2.org/schools-sraa/	Saluda River Academy for the Arts	0.0	33.0
+51042	http://www.abbe-lib.org	Abbe Regional Library System	2002.0	120.0
+51043	http://draytonhall.ccsdschools.com/	Drayton Hall Elementary	2007.0	498.0
+51044	http://cherokee1.k12.sc.us/ges/	Goucher Elementary	2012.0	0.0
+51045	http://www.filmsc.com	Film Office (Parks, Recreation, and Tourism)	2004.0	313.0
+51046	http://www.clover.k12.sc.us/site/default.aspx?pageid=1	Clover School District No. Two of York County	2012.0	17.0
+51049	http://cms.spartanburg3.org/	Cowpens Middle	2009.0	165.0
+51050	http://www.gvltec.edu/index.aspx	Greenville Technical College	2009.0	801.0
+51051	http://mhs.clarendon2.k12.sc.us/home.aspx	Manning High	0.0	34.0
+51052	http://www.berkeley.k12.sc.us/canebaymiddle.cfm	Cane Bay Middle	0.0	2554.0
+51053	http://www.llr.state.sc.us/pol/environmental/	Environmental Certification, Board of (LLR)	2001.0	45.0
+51054	http://www.judicial.state.sc.us/supreme/index.cfm	Supreme Court	2001.0	20.0
+51055	http://fctc.fairfield.k12.sc.us/home.aspx	Fairfield Career and Technology Center	0.0	36.0
+51056	http://www.lancastercsd.com/	Lancaster County School District	2010.0	247.0
+51057	http://www.llr.state.sc.us/pol/optometry/	Optometry, Board of Examiners in (LLR)	2001.0	42.0
+51058	http://www.greenville.k12.sc.us/stone/	Stone Academy	1998.0	171.0
+51059	http://westashleymiddle.ccsdschools.com/	West Ashley Middle	2002.0	1.0
+51060	http://osa.sc.gov/Pages/default.aspx	Auditor, Office of the State	2011.0	203.0
+51061	http://www.delahowe.k12.sc.us/	John De La Howe School	2000.0	113.0
+51062	http://www.oconee.k12.sc.us/northside.cfm	Northside Elementary	0.0	4577.0
+51063	http://www.peba.sc.gov/	Public Employee Benefit Authority (PEBA)	2012.0	16.0
+51066	http://www.cityofmyrtlebeach.com/	Myrtle Beach	1998.0	125.0
+51067	http://sh.horrycountyschools.net/	Socastee High	2008.0	43.0
+51068	http://www.spartanburg2.k12.sc.us/bsh/index.htm	Boiling Springs High	2009.0	6.0
+51069	http://ces.pickens.k12.sc.us/	Central Elementary	2009.0	5.0
+51070	http://ss.lancasterscschools.org/home	Southside Early Childhood Center	2011.0	1.0
+51071	http://bhs.barnwell45.org	Barnwell High	2011.0	24.0
+51072	http://hse.pickens.k12.sc.us/	Holly Springs Elementary	2009.0	5.0
+51073	http://www.hamptoncountysc.org/	Hampton	2002.0	546.0
+51074	http://www.scseagrant.org/	Sea Grant Consortium	1999.0	363.0
+51075	http://www.edline.net/pages/brockington_elementary_school	Brockington Elementary	0.0	35.0
+51076	http://memminger.ccsdschools.com/	Memminger Elementary	2002.0	309.0
+51078	http://www.ccsdschools.com/	Charleston County School District	2001.0	10.0
+51079	http://broome.spartanburg3.org/	Gettys D. Broome High	2008.0	336.0
+51081	http://wes.ocsd5.net/	Whittaker Elementary	2013.0	30.0
+51082	http://www.co.greenwood.sc.us/	Greenwood	1998.0	1741.0
+51083	http://www.spartanburg3.org/	Spartanburg School District 3	2008.0	1333.0
+51084	http://www.sc.edu/beaufort/	USC Beaufort	1999.0	670.0
+51085	http://www.llr.state.sc.us/pol/longtermhealthcare/	Long Term Health Care Administrators, Board of                  (LLR)	2001.0	47.0
+51086	http://bamberg1.com/behs/	Bamberg-Ehrhardt High	2004.0	3.0
+51087	http://bes.barnwell45.org	Barnwell Elementary	2012.0	19.0
+51088	http://buist.ccsdschools.com/	Buist Academy	2002.0	1016.0
+51089	http://brennen.richlandone.org/	Brennen Elementary	2010.0	115.0
+51090	http://rms.lancasterscschools.org/home	A. R. Rucker Middle	2009.0	1.0
+51093	http://leelle.sharpschool.net/	Lower Lee Elementary	2012.0	112.0
+51094	http://www.spartanburg2.k12.sc.us/cms/index.htm	Chesnee Middle	2001.0	4.0
+51095	http://cowpens.spartanburg3.org/	Cowpens Elementary	2012.0	284.0
+51096	http://www.lcsd56.org/ees	Eastside Elementary	0.0	1422.0
+51097	http://www.gwd50.org/domain/1388	Springfield Elementary	2012.0	994.0
+51098	http://hhes.sumterschools.net/	High Hills Elementary	2011.0	38.0
+51099	http://www.dsparking.com/?a_id=132061&domainname=www.abbevillecountygovernment.org	Abbeville	0.0	0.0
+51100	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=3011	Waterloo Elementary	2012.0	41.0
+51101	http://www.oconee.k12.sc.us/westoakhs.cfm	West-Oak High	0.0	4876.0
+51102	http://www.leeschoolsk12.org/	Lee County School District	2004.0	476.0
+51103	http://www.state.sc.us/dio/	Internal Operations, Office of (Budget and Control Board)	1997.0	15.0
+51104	http://www.newberrycounty.net/	Newberry	2001.0	98.0
+51105	http://www.spart5.net/site/default.aspx?domainid=674	James F. Byrnes High	2013.0	31.0
+51106	http://www.museum.state.sc.us/	Museum, State	1997.0	9.0
+51107	http://byrdel.acps.schoolfusion.us/	Byrd Elementary	2012.0	871.0
+51108	http://nch.kcsdschools.com/	North Central High	2005.0	43.0
+51109	http://stgeorge.dorchester4.k12.sc.us/	St. George Middle	2004.0	16.0
+51110	http://millbrookel.acps.schoolfusion.us/	Millbrook Elementary	2012.0	2671.0
+51111	http://www.llr.state.sc.us/pol/dentistry/	Dentistry, Board of (LLR)	2001.0	40.0
+51112	http://ffm.spartanburg6.k12.sc.us/	Fairforest Middle	2009.0	160.0
+51113	https://www.richland2.org/pre/pages/default.aspx	Polo Road Elementary	0.0	32.0
+51114	http://bhp.anderson2.org/	Belton Honea Path High	2007.0	43.0
+51116	https://sites.google.com/a/lex2.org/schools-prms/	Pine Ridge Middle	0.0	36.0
+51117	http://goodwin.ccsdschools.com/	W. B. Goodwin Elementary	2002.0	1390.0
+51118	http://www.greenville.k12.sc.us/sumdrive/index.asp	Summit Drive Elementary	2006.0	820.0
+51119	http://scdah.sc.gov/Pages/default.aspx	Archives and History, Department of	2011.0	19.0
+51120	http://pkes.fort-mill.k12.sc.us/home.aspx	Pleasant Knoll Elementary	0.0	31.0
+51121	http://www.newberrymiddleschool.org/	Newberry Middle	2011.0	30.0
+51122	http://ttc.ocsd5.net/	Orangeburg Consolitated School District Five Technology Center	2013.0	45.0
+51123	http://www.berkeley.k12.sc.us/macedonia.cfm	Macedonia Middle	0.0	2581.0
+51124	http://www.spart1.org/hsm/	Holly Springs-Motlow Elementary	2008.0	293.0
+51125	http://nmbm.horrycountyschools.net/	North Myrtle Beach Middle	2008.0	42.0
+51126	http://meles.ocsd5.net/	Mellichamp Elementary	2013.0	31.0
+51127	http://www.lcpl.org	Laurens County Library System	2000.0	20.0
+51128	http://www.oepp.sc.gov/sova/	Victim Assistance, State Office of (Governor's Office)	2007.0	24.0
+51129	http://ghs.lexington1.net:8013/	Gilbert High	2013.0	1.0
+51132	http://bv.rock-hill.k12.sc.us/	Belleview Elementary	2009.0	201.0
+51133	http://leelchs.sharpschool.net/	Lee Central High	2012.0	720.0
+51134	http://gtchs.org/	Greenville Technical Charter High	2002.0	759.0
+51135	http://pms.pickens.k12.sc.us/	Pickens Middle	2008.0	6.0
+51136	http://oakwood.acps.schoolfusion.us/	Oakwood-Windsor Elementary	2013.0	4007.0
+51137	https://www.richland2.org/lce/pages/default.aspx	Lake Carolina Elementary	2014.0	28.0
+51138	http://www.gwd50.org/domain/460	Brewer Middle	2012.0	990.0
+51139	http://mes.lexington1.net:8028/	Midway Elementary	2013.0	1.0
+51140	http://caughman.richlandone.org/	Caughman Road Elementary	2011.0	74.0
+51141	http://dorchester.spann.schoolfusion.us/	James H. Spann Elementary	2009.0	1459.0
+51142	http://sanders.richlandone.org/	W. G. Sanders Middle	2009.0	94.0
+51143	http://simons.ccsdschools.com/	James Simons Elementary	2003.0	363.0
+51144	http://bccc.k12.sc.us	Barnwell County Career Centertr	2004.0	43.0
+51145	http://www.berkeley.k12.sc.us/hanahanhigh.cfm	Hanahan High	0.0	2729.0
+51147	http://www.wcc.sc.gov/Pages/default.aspx	Worker's Compensation Commission	2011.0	66.0
+51148	http://hand.richlandone.org/	Hand Middle	2009.0	62.0
+51149	http://phs.anderson4.org	Pendleton High	2011.0	2656.0
+51150	http://wld.sumterschools.net/	Wilder Elementary	2011.0	34.0
+51151	http://clifdale.spartanburg3.org/	Clifdale Elementary	2009.0	1113.0
+51152	http://www.remms.florence3.k12.sc.us/	Ronald E. McNair Middle	2005.0	135.0
+51153	http://aast.horrycountyschools.net/	Academy For Arts Science Techn	2008.0	65.0
+51154	http://eastcooper.ccsdschools.com/	East Cooper Montessori Charter	2012.0	821.0
+51155	http://www.spart5.net/site/default.aspx?domainid=197	Lyman Elementary	2013.0	19.0
+51156	http://www.anderson1.k12.sc.us/domain/879	Wren Middle	2014.0	770.0
+51157	http://gibbes.richlandone.org/	Heyward Gibbes Middle	2011.0	65.0
+51158	http://www.lexrich5.org/leaphart.cfm	Leaphart Elementary	0.0	1245.0
+51159	http://lms.lexington1.net:8020/	Lexington Middle	2012.0	1.0
+51160	http://rr.rock-hill.k12.sc.us/	Rawlinson Road Middle	2008.0	90.0
+51161	http://hes.pickens.k12.sc.us/	Hagood Elementary	2008.0	5.0
+51162	http://fmhs.fort-mill.k12.sc.us/	Fort Mill High	2007.0	31.0
+51163	http://opes.fort-mill.k12.sc.us/home.aspx	Orchard Park Elementary	0.0	15.0
+51164	http://jsb.spartanburg6.k12.sc.us/	Jesse S. Bobo Elementary	2009.0	129.0
+51165	http://www.york.k12.sc.us/fdj/	Floyd D. Johnson Technology Ctr	2005.0	8101.0
+51166	http://montessori.ccsdschools.com/	Montessori Community School	2007.0	726.0
+51167	http://dorchester.whe.schoolfusion.us/	Windsor Hill Arts Infused Elementary	2009.0	2087.0
+51168	https://sites.google.com/a/lex2.org/schools-busbee/	Cyril B. Busbee Creative Arts Academy	0.0	18.0
+51169	http://www.greenville.k12.sc.us/bridgehs/	Blue Ridge High	1998.0	811.0
+51170	http://phes.lexington1.net:8035/	Pleasant Hill Elementary	2013.0	1.0
+51171	http://nhe.dcsdschools.org/	North Hartsville Elementary	2009.0	334.0
+51172	http://redcliffeel.acps.schoolfusion.us/	Redcliffe Elementary	2012.0	2107.0
+51173	http://whe.spartanburg6.k12.sc.us/	Woodland Heights Elementary	2009.0	385.0
+51174	http://www.hampton2.k12.sc.us/	Hampton County School District 2	2000.0	208.0
+51175	http://hms.sumterschools.net/	Hillcrest Middle	2012.0	37.0
+51176	http://www.lexrich5.org/cats.cfm	Center for Advanced Technical Studies	0.0	2396.0
+51177	http://fps.fairfield.k12.sc.us/home.aspx	Fairfield Elementary	0.0	41.0
+51178	http://www.greenville.k12.sc.us/parise/	Paris Elementary	1999.0	825.0
+51179	http://mossyel.acps.schoolfusion.us/	Mossy Creek Elementary	2012.0	3910.0
+51180	http://www.llr.state.sc.us/pol/architects/	Architectural Examiners, Board of (LLR)	2001.0	63.0
+51181	http://www.mccormick.k12.sc.us/domain/8	McCormick Elementary	2012.0	167.0
+51182	http://www.mccormick.k12.sc.us/domain/9	McCormick Middle	2012.0	167.0
+51183	http://www.greenwood52.org/site/default.aspx?domainid=37	Ninety Six Primary	0.0	9.0
+51184	http://ftjohnson.ccsdschools.com/	Fort Johnson Middle	2002.0	1473.0
+51185	http://florenceco.org/elected-offices/solicitor/	Solicitor's Office, 12th Judicial Circuit	2010.0	2.0
+51186	http://www.atax.sc.gov/	Tourism Expenditure Review Committee	2004.0	16.0
+51187	http://www.llr.state.sc.us/pol/reab/	Real Estate Appraisers Board (LLR)	2007.0	47.0
+51188	https://sites.google.com/a/lex2.org/schools-congaree/	Congaree Elementary	0.0	20.0
+51190	http://tes.anderson4.org	Townville Elementary	2012.0	2350.0
+51191	http://www.govoepp.state.sc.us/oeo/	Economic Opportunity (Governor's Office)	2005.0	18.0
+51193	http://johnson.richlandone.org/	C. A. Johnson High	2009.0	212.0
+51194	http://www.greenville.k12.sc.us/gvillem/index.asp	Greenville Middle Academy	2006.0	818.0
+51195	http://www.edline.net/pages/timmonsville_high_school	Timmonsville High	0.0	35.0
+51196	http://www.unionlibrary.org	Union County Library System	2000.0	8.0
+51198	http://www.greenville.k12.sc.us/greerhs/	Greer High	1998.0	843.0
+51199	http://hem.beaufort.k12.sc.us/	H. E. McCracken Middle	2010.0	9.0
+51200	http://www.hampton1.org/domain/9	North District Middle	2011.0	455.0
+51201	http://www.hampton1.org/domain/8	Wade Hampton High	2011.0	456.0
+51202	https://www.richland2.org/bhe/pages/default.aspx	Bethel-Hanberry Elementary	2014.0	27.0
+51203	http://chester.greatfalls.schooldesk.net/	Great Falls Elementary	2011.0	66.0
+51204	http://www.sctechsystem.com/	Technical and Comprehensive Education, State Board for	2001.0	74.0
+51205	http://baptisthill.ccsdschools.com/	Baptist Hill High	2003.0	1017.0
+51207	http://www.dillon.k12.sc.us/east/default.htm	East Elementary	2012.0	6.0
+51208	http://www.eoc.sc.gov/Pages/index.aspx	Education Oversight Committee	2012.0	51.0
+51209	http://pepperhill.ccsdschools.com/	Pepperhill Elementary	2003.0	592.0
+51210	http://www.oconee.k12.sc.us/senecams.cfm	Seneca Middle	0.0	3812.0
+51211	http://www.mywcl.org/index-9.html	Williamsburg County Library - Hemingway	2011.0	1.0
+51213	http://www.hampton1.org/site/default.aspx?pageid=1	Hampton County School District 1	2011.0	7.0
+51214	https://www.richland2.org/le/pages/default.aspx	Langford Elementary	2014.0	13.0
+51216	http://www.greenville.k12.sc.us/lakeview/index.asp	Lakeview Middle	2006.0	45.0
+51217	http://www.energy.sc.gov/	Energy Office (Budget and Control Board)	2003.0	185.0
+51218	http://perry.richlandone.org/	W. A. Perry Middle	2011.0	87.0
+51220	http://www.greenvillecounty.org/solicitor/	Solicitor's Office, 13th Judicial Circuit	2000.0	31.0
+51221	http://www.lexington4.net/	Lexington School District Four	2002.0	85.0
+51222	http://www.york.k12.sc.us/cbe/	Cotton Belt Elementary	2002.0	2752.0
+51223	http://cses.lexington1.net:8038/	Carolina Springs Elementary	2012.0	1.0
+51224	http://www.anderson5.net/domain/17	Varennes Academy of Communication & Technology	2012.0	823.0
+51225	http://www.scgovernor.com/	Governor	2001.0	1.0
+51226	http://www.saf.sc.gov	Accident Fund, State	2007.0	38.0
+51227	http://www.andersonlibrary.org	Anderson County Library - Westside Community Center Library	2000.0	85.0
+51228	http://www.jcles.florence3.k12.sc.us/	J. C. Lynch Elementary	2009.0	187.0
+51229	http://bses.lancasterscschools.org/home	Brooklyn Springs Elementary	2010.0	1.0
+51230	http://agriculture.sc.gov/	Department of Agriculture	2008.0	912.0
+51231	http://ces.lancasterscschools.org/home	Clinton Elementary	2010.0	1.0
+51232	http://mbh.horrycountyschools.net/	Myrtle Beach High	2008.0	19.0
+51233	http://www.eps.marion.k12.sc.us	Easterling Primary	2013.0	13.0
+51234	http://www.cahcharterschool.org/	The Palmetto School at the Children's Attention Home	2010.0	1.0
+51235	http://www.swoffordcareercenter.org/	H B Swofford Career Center	2010.0	80.0
+51236	http://newellentonm.acps.schoolfusion.us/	New Ellenton Middle	2012.0	997.0
+51237	http://stjohns.ccsdschools.com/	St. Johns High	2002.0	1062.0
+51238	http://cherokee1.k12.sc.us/gms/	Gaffney Middle	2009.0	0.0
+51239	http://mares.ocsd5.net/	Marshall Elementary	2013.0	22.0
+51240	http://www.cityofclemson.org/	Clemson	1997.0	639.0
+51241	http://scgal.org/state/index.html	Guardian Ad Litem (Governor's Office)	2011.0	2.0
+51242	http://mles.anderson4.org	Mt. Lebanon Elementary	2012.0	1353.0
+51243	http://www.flo5.k12.sc.us/	Florence School District Five	2006.0	45.0
+51244	http://www.llr.state.sc.us/pol/athletic/	Athletic Commission, Board of (LLR)	2001.0	23.0
+51246	http://www.bennettsvillesc.com/	Bennettsville	2000.0	22.0
+51248	http://www.spartanburgprep.org/	Spartanburg Preparatory School	2011.0	97.0
+51249	http://www.scsif.sc.gov/	Second Injury Fund	2004.0	10.0
+51250	http://www.ccpsonline.net/	Calhoun County Public Schools	2010.0	57.0
+51251	http://www.greenville.k12.sc.us/chandler/	Ralph Chandler Middle	2008.0	54.0
+51252	http://ed.sc.gov/	Education, Department of	0.0	9070.0
+51254	http://www.co.beaufort.sc.us/	Beaufort	1998.0	197.0
+51255	http://gsfh.horrycountyschools.net/	Green Sea Floyds High	2008.0	21.0
+51256	http://pes.lexington1.net:8016/	Pelion Elementary	2013.0	1.0
+51257	http://www.llr.state.sc.us/pol/nursing/	Nursing, Board of (LLR)	2001.0	39.0
+51258	http://www.york.k12.sc.us/hcj/	Harold C. Johnson Elementary	2003.0	2849.0
+51259	https://sites.google.com/a/clarendon3.org/district/	Clarendon County School District III	0.0	37.0
+51261	http://hses.lancasterscschools.org/home	Heath Springs Elementary	2011.0	1.0
+51263	https://www.richland2.org/spm/pages/default.aspx	Summit Parkway Middle	0.0	33.0
+51264	http://spartanburg4.publishpath.com/woodruff-middle-school	Woodruff Middle	0.0	32.0
+51265	http://cityofcentral.org/	Central	1998.0	46.0
+51266	http://www.hartsvillesc.com/	Hartsville	1998.0	37.0
+51267	http://rhs.jcsd.net/	Ridgeland-Hardeeville High	2011.0	80.0
+51268	http://www.greenville.k12.sc.us/plaine/index.asp	Plain Elementary	2003.0	45.0
+51269	http://carverlyon.richlandone.org/	Carver-Lyon Elementary	2011.0	158.0
+51270	https://www.richland2.org/pages/default.aspx	Richland School District Two	2013.0	872.0
+51271	http://www.berkeley.k12.sc.us/sangareeintermediate.cfm	Sangaree Intermediate	0.0	2637.0
+51272	http://www.richlandone.org/	Richland County School District One	1997.0	214.0
+51273	http://www.dillon.k12.sc.us/dhs/default.asp	Dillon High School	2012.0	6.0
+51274	http://www.dppps.sc.gov/	Probation, Parole, and Pardon Services, Department of	2004.0	131.0
+51275	http://www.northaugusta.net/	North Augusta	1999.0	381.0
+51276	http://zucker.ccsdschools.com/	Jerry Zucker Middle School of Science	2011.0	1003.0
+51277	http://sccommerce.com/	Commerce, Department of	2001.0	1414.0
+51278	http://sges.lexington1.net:8023/	Saxe Gotha Elementary	2013.0	1.0
+51279	http://frierson.ccsdschools.com/	Edith L. Frierson Elementary	2003.0	343.0
+51280	http://dhs.dcsdschools.org/	Darlington High	2009.0	2359.0
+51281	http://cherokee1.k12.sc.us/nwes/	Northwest Elementary	2012.0	0.0
+51282	http://www.williston.k12.sc.us/	Williston School District, Barnwell County 29	2000.0	1634.0
+51283	http://www.spart1.org/ies/	Inman Elementary	2008.0	192.0
+51284	http://www.florence3.k12.sc.us/	Florence County School District Three	2001.0	1103.0
+51285	http://gps.lexington1.net:8032/	Gilbert Primary	2013.0	1.0
+51286	http://blhs.groupfusion.net/	Batesburg-Leesville High	2005.0	456.0
+51287	http://st.rock-hill.k12.sc.us/	Saluda Trail Middle	2008.0	226.0
+51288	http://www.berkeley.k12.sc.us/devonforest.cfm	Devon Forest Elementary	0.0	2638.0
+51290	http://www.mywcl.org/index-8.html	Williamsburg County Library - Kingstree	2011.0	1.0
+51291	http://www.greenville.k12.sc.us/mauldine/	Mauldin Elementary	1998.0	188.0
+51292	http://www.lcsd56.org/chs	Clinton High	2012.0	2443.0
+51293	http://www.abbe-lib.org/	Barnwell County Public Library - Blackville Branch Library	2002.0	135.0
+51294	http://hshp.ocsd5.net/	OCSD5 High School for Health Professions	2013.0	31.0
+51295	http://www.cherokeecountylibrary.org	Cherokee County Public Library	2008.0	2.0
+51296	http://jes.kcsdschools.com/	Jackson School	2005.0	92.0
+51297	http://www.greenville.k12.sc.us/wdmontm/	Woodmont Middle	1998.0	22.0
+51298	http://www.scgssm.org	Governor's School for Math and Science	2005.0	325.0
+51299	http://bdk.kcsdschools.com/	Baron Dekalb Elementary	2005.0	85.0
+51301	http://sahs.acps.schoolfusion.us/	South Aiken High	2011.0	16861.0
+51302	http://laurelhill.ccsdschools.com/	Laurel Hill Primary	2007.0	588.0
+51303	http://www.berkeley.k12.sc.us/westviewprimary.cfm	Westview Primary	0.0	2460.0
+51304	http://www.lexsc.com/	Lexington	2000.0	239.0
+51305	http://watkinsnance.richlandone.org/	Watkins-Nance Elementary	2009.0	196.0
+51306	http://gms.lexington1.net:8029/	Gilbert Middle	2013.0	1.0
+51307	http://dis.lancasterscschools.org/home	Discovery Charter of Lancaster	2011.0	1.0
+51308	http://morningside.ccsdschools.com	Morningside Middle	2002.0	185.0
+51309	http://www.llr.state.sc.us/pol/pilotage/	Pilotage Commission (LLR)	2001.0	18.0
+51310	http://www.lander.edu/	Lander University	1997.0	612.0
+51311	http://www.nmb.us	North Myrtle Beach	2005.0	51.0
+51314	https://www.fsd1.org/schools/royall/pages/royallelementary.aspx	Royall Elementary	0.0	28.0
+51315	http://www.winthrop.edu/	Winthrop University	1996.0	2732.0
+51316	http://webber.richlandone.org/	Webber School	2009.0	25.0
+51318	http://eee.pickens.k12.sc.us/	East End Elementary	2009.0	5.0
+51319	http://ashleyriver.ccsdschools.com/	Ashley River Creative Arts	2002.0	972.0
+51320	http://mgms.lexington1.net:8043/	Meadow Glen Middle	2012.0	1.0
+51321	http://www.dillon.k12.sc.us	Dillion 4	2011.0	53.0
+51322	http://ke.horrycountyschools.net/	Kingston Elementary	2008.0	11.0
+51323	http://www.york.k12.sc.us/yms/	York Middle	2010.0	3061.0
+51324	http://www.greenville.k12.sc.us/heritage/index.asp	Heritage Elementary	2004.0	59.0
+51325	http://phs.pickens.k12.sc.us/	Pickens High	2008.0	5.0
+51326	http://www.spart1.org/chs/	Chapman High	2007.0	669.0
+51328	http://rw.rock-hill.k12.sc.us/	Rosewood Elementary	2009.0	31.0
+51329	http://nes.lancasterscschools.org/home	North Elementary	2010.0	1.0
+51330	http://dms.spartanburg6.k12.sc.us/	R. P. Dawkins Middle	2009.0	182.0
+51331	http://www.berkeley.k12.sc.us/boulderbluff.cfm	Boulder Bluff Elementary	0.0	2452.0
+51332	http://www.state.sc.us/forest/	Forestry Commission	1997.0	510.0
+51333	http://lr.richlandone.org/	Lower Richland High	2009.0	380.0
+51334	http://cherokee1.k12.sc.us/draytonville/index.htm	Draytonville Elementary	1999.0	0.0
+51335	http://www.llr.state.sc.us/pol/occupationaltherapy/	Occupational Therapy, Board of (LLR)	2001.0	32.0
+51336	http://www.greenville.k12.sc.us/child/main.asp?titleid=index	Overbrook Child Development Center	0.0	30.0
+51337	http://www.lowcountrycog.sc.gov/Pages/default.aspx	Lowcountry Council of Governments	2012.0	16.0
+51339	http://horrellhill.richlandone.org/	Horrell Hill Elementary	2009.0	197.0
+51340	http://www.denmarkolarschooldistrict2.org/education/school/school.php?sectionid=3&	Denmark-Olar Elementary	0.0	4.0
+51341	http://www.uscupstate.edu/	USC Upstate	2004.0	1238.0
+51342	http://www.anderson1.k12.sc.us/domain/418	Powdersville Elementary	2014.0	774.0
+51343	http://ccd.rock-hill.k12.sc.us/	Central Child Development Center	2008.0	85.0
+51344	http://www.govoepp.state.sc.us/	Executive Policy and Programs, Governor's Office of (OEPP)	2000.0	8.0
+51346	http://www.greenville.k12.sc.us/mauldinh/index.asp	Mauldin High	2003.0	81.0
+51347	http://stilespoint.ccsdschools.com/	Stiles Point Elementary	2002.0	1306.0
+51348	http://www.spartanburg2.k12.sc.us/hes/index.htm	James H. Hendrix  Elementary	1999.0	3.0
+51349	http://www.spart1.org/do/	District One Schools Spartanburg County	2008.0	804.0
+51350	http://hes.dorchester4.k12.sc.us/	Harleyville Elementary	2013.0	16.0
+51352	http://ems.pickens.k12.sc.us/	R. C. Edwards Middle	2009.0	5.0
+51353	http://www.aikencounty.net/dspdept.cfm?qdeptid=sol	Solicitor's Office - 2nd Judicial Circuit	2003.0	288.0
+51354	https://www.fsd1.org/schools/carver/pages/default.aspx	Carver Elementary	2013.0	21.0
+51355	http://www.oepp.sc.gov/ca/	Children's Affairs, Office of (Governor's Office)	2007.0	7.0
+51356	http://sms.lancasterscschools.org/home	South Middle	2009.0	1.0
+51357	http://www.statelibrary.sc.gov	Library, State	2003.0	363.0
+51358	http://ilms.lancasterscschools.org/home	Indian Land Middle	2010.0	1.0
+51359	http://www.greenwood52.org/site/default.aspx?domainid=154	Edgewood Middle	2013.0	16.0
+51361	http://www.greenville.k12.sc.us/monaview/index.asp	Monaview Elementary	2004.0	106.0
+51362	http://bre.beaufort.k12.sc.us/	Broad River Elementary	2011.0	11.0
+51364	http://wkes.lexington1.net:8025/	White Knoll Elementary	2013.0	1.0
+51366	http://cherokee1.k12.sc.us/grms/	Granard Middle	2010.0	0.0
+51367	http://www.greenville.k12.sc.us/oakview/	Oakview Elementary	1998.0	70.0
+51368	http://moultrie.ccsdschools.com/	Moultrie Middle	2002.0	1352.0
+51369	http://www.lexrich5.org/ballentine.cfm	Ballentine Elementary	0.0	875.0
+51370	http://www.berkeley.k12.sc.us/timberland.cfm	Timberland High	0.0	2976.0
+51371	http://www.greenwood52.org/site/default.aspx?domainid=223	Ninety Six High	0.0	16.0
+51372	http://jenniemoore.ccsdschools.com/	Jennie Moore Elementary	2003.0	1204.0
+51373	http://lhs.sumterschools.net/	Lakewood High	2011.0	40.0
+51375	http://cherokee1.k12.sc.us/corinth/index.htm	Corinth Elementary	1999.0	0.0
+51376	http://www.coastalleadershipacademy.org/	Coastal Leadership Academy	2011.0	57.0
+51377	http://www.spartanburg2.k12.sc.us/bsj/index.htm	Boiling Springs Middle	2009.0	5.0
+51378	http://sms.lexington4.net/	Sandhills Middle	2012.0	32.0
+51379	http://wpm.horrycountyschools.net/	Whittemore Park Middle	2008.0	23.0
+51380	http://she.beaufort.k12.sc.us/	St. Helena Elementary	2013.0	11.0
+51381	http://www.anderson1.k12.sc.us/domain/121	Cedar Grove Elementary	2014.0	769.0
+51382	http://res.jcsd.net/	Ridgeland Elementary	2011.0	50.0
+51384	http://www.berkeley.k12.sc.us/collegepark.cfm	College Park Elementary	0.0	2434.0
+51385	http://www.spart5.net/site/default.aspx?domainid=163	Duncan Elementary	0.0	33.0
+51386	http://www.aikencountysc.gov/index.php	Aiken	2010.0	575.0
+51387	http://sctib.sc.gov/Pages/default.aspx	Transportation Infrastructure Bank	2013.0	11.0
+51388	http://jbedwards.ccsdschools.com/	James B. Edwards Elementary	2002.0	1308.0
+51389	http://www.fairfield.k12.sc.us/	The School District Of Fairfield County	2000.0	58.0
+51390	http://flora.richlandone.org/	A. C. Flora High	2010.0	151.0
+51391	http://sme.pickens.k12.sc.us/	Six Mile Elementary	2009.0	6.0
+51392	https://www.richland2.org/cte/pages/default.aspx	Catawba Trail Elementary	2013.0	24.0
+51393	http://leebps.sharpschool.net/	Bishopville Primary	2012.0	682.0
+51394	http://hhe.beaufort.k12.sc.us/	Hilton Head Island Elementary	2010.0	11.0
+51395	http://www.oconee.k12.sc.us/ravenel.cfm	Ravenel Elementary	0.0	3768.0
+51396	http://www.greenville.k12.sc.us/trest/index.asp	Travelers Rest High	2005.0	1206.0
+51397	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=54	Central High	2009.0	0.0
+51398	http://me.horrycountyschools.net/	Midland Elementary	2008.0	27.0
+51399	http://wkms.lexington1.net:8026/	White Knoll Middle	2013.0	1.0
+51401	http://www.acs.k12.sc.us/domain/11	Allendale Fairfax High	2011.0	182.0
+51402	http://www.acs.k12.sc.us/domain/10	Allendale-Fairfax Middle	2011.0	172.0
+51403	https://www.fsd1.org/schools/sneed/pages/default.aspx	Henry L. Sneed Middle	0.0	12.0
+51404	http://www.greenville.k12.sc.us/beck/	Beck Academy	2001.0	76.0
+51405	https://www.fsd1.org/schools/delmae/pages/default.aspx	Delmae Elementary	0.0	9.0
+51406	https://www.richland2.org/nse/pages/default.aspx	North Springs Elementary	2014.0	45.0
+51407	http://www.ccpl.org/	Charleston County Main Library - Edgar Allen Poe-Sullivans Island Branch Library	1998.0	418.0
+51408	http://www.leecountypubliclibrary.blogspot.com	Lee County Public Library System	2011.0	852.0
+51409	http://www.spartanburg2.k12.sc.us/mes/index.htm	Mayo Elementary	2000.0	50.0
+51410	http://lmms.acps.schoolfusion.us/	Leavelle McCampbell Middle	2012.0	2556.0
+51411	http://lms.kcsdschools.com/	Lugoff-Elgin Middle	2005.0	59.0
+51412	http://bhs.lancasterscschools.org/home	Buford High	2010.0	1.0
+51414	http://www.greenville.k12.sc.us/greerms/	Greer Middle	1998.0	41.0
+51415	http://www.marioncountylibrary.org	Marion County Library System	2001.0	163.0
+51416	http://coms.sumterschools.net/	Chesnut Oaks Middle	2011.0	49.0
+51418	http://rces.lexington1.net:8041/	Rocky Creek Elementary	2013.0	1.0
+51419	http://cchs.colleton.k12.sc.us/	Colleton County High	2002.0	22.0
+51420	http://www.lexrich5.org/riversprings.cfm	River Springs Elementary	0.0	986.0
+51421	http://lecc.mybigcampus.net/	Latta Early Childhood Center	2013.0	1.0
+51422	http://ble.beaufort.k12.sc.us/	Bluffton Elementary	2010.0	9.0
+51423	http://sbh.clarendon1.k12.sc.us/	Scott's Branch High	2005.0	66.0
+51424	http://ehs.orangeburg4.schoolfusion.us/	Edisto High	2011.0	3271.0
+51425	http://www.greenville.k12.sc.us/taylors/	Taylors Elementary	2011.0	46.0
+51426	http://bms.beaufort.k12.sc.us/	Beaufort Middle	2010.0	39.0
+51427	http://eauclaire.richlandone.org/	Eau Claire High	2009.0	59.0
+51428	http://rsmel.acps.schoolfusion.us/	Ridge Spring Monetta Elementary-Middle	2011.0	1022.0
+51429	http://blse.orangeburg4.schoolfusion.us/?sessionid=be3ce947861661bbd2258e4fd282fdfe&t	Lockett Elementary	0.0	706.0
+51430	http://www.springdalesc.com/	Springdale	1998.0	86.0
+51432	http://obg3.k12.sc.us/lmhs/	Lake Marion High School and Technology Center	0.0	0.0
+51434	http://www.greenville.k12.sc.us/ellenw/index.asp	Ellen Woodside Elementary	2005.0	42.0
+51435	http://www.clover.k12.sc.us/domain/16	Clover High	2012.0	718.0
+51436	http://www.lexrich5.org/irmo.cfm	Irmo Elementary	0.0	552.0
+51437	http://aikenel.acps.schoolfusion.us/	Aiken Elementary	2012.0	983.0
+51438	http://www.judicial.state.sc.us/appeals/index.cfm	Court of Appeals	2001.0	31.0
+51440	http://pes.dcsdschools.org/	Pate Elementary	2009.0	1129.0
+51441	http://nmbh.horrycountyschools.net/	North Myrtle Beach High	2008.0	13.0
+51442	http://hrm.dorchester4.k12.sc.us/	Harleyville-Ridgeville Middle	2013.0	80.0
+51443	http://ladson.ccsdschools.com/	Ladson Elementary	2002.0	888.0
+51444	http://we.horrycountyschools.net/	Waccamaw Elementary	2008.0	15.0
+51445	https://sites.google.com/a/lex2.org/schools-nm/	Northside Middle	0.0	86.0
+51446	http://jies.ccsdschools.com/	James Island Elementary	2003.0	709.0
+51447	http://cms.kcsdschools.com/	Camden Middle	2005.0	63.0
+51448	http://www.state.sc.us/scsec/	South Carolina Election Commission	1997.0	587.0
+51449	http://blms.groupfusion.net/	Batesburg-Leesville Middle	2005.0	506.0
+51450	http://dms.dcsdschools.org/	Darlington Middle	2008.0	1728.0
+51451	http://www.calhouncountylibrary.org/	Calhoun County Library	2010.0	218.0
+51452	http://lhs.dcsdschools.org/	Lamar High	2009.0	746.0
+51453	http://www.gwd50.org/domain/247	Greenwood High	2012.0	991.0
+51455	http://www.marion.k12.sc.us/	Marion Intermediate	2012.0	354.0
+51456	http://rms.anderson4.org	Riverside Middle	2011.0	1458.0
+51457	http://www.llr.state.sc.us/pol/physicaltherapy/	Physical Therapy Examiners, Board of (LLR)	2001.0	27.0
+51458	http://obe.horrycountyschools.net/	Ocean Bay Elementary	2009.0	12.0
+51459	http://dorchester.nes.schoolfusion.us/	Newington Elementary	2009.0	2103.0
+51460	http://www.anderson2.org/	Anderson School District Two	2007.0	24.0
+51461	http://www.greenville.k12.sc.us/westclif/	Westcliffe Elementary	1999.0	26.0
+51462	http://www.anderson3.k12.sc.us/flat_rock/	Flat Rock Elementary	2007.0	0.0
+51463	http://www.saludaschools.org/domain/300	Saluda High	2012.0	209.0
+51464	http://www.berkeley.k12.sc.us/canebay.cfm	Cane Bay High	0.0	2423.0
+51465	http://rhame.richlandone.org/	H. B. Rhame Elementary	2009.0	91.0
+51466	http://www.scfirststeps.org/	First Steps	2000.0	63.0
+51467	http://chester.literacy.schooldesk.net/	Chester Park Elementary School of Literacy and Technology	2011.0	186.0
+51468	http://www.greenville.k12.sc.us/gstripcc/	Golden Strip Career and Technology Center	1998.0	12.0
+51469	http://dcit.dcsdschools.org/	Darlington County Institute Of	2009.0	91.0
+51471	http://www.mullinssc.us/	Mullins	2003.0	23.0
+51472	http://www.llr.state.sc.us/pol/psychology/	Psychology, Board of Examiners in (LLR)	2001.0	28.0
+51473	http://www.anderson1.k12.sc.us/domain/330	Palmetto Elementary	2014.0	769.0
+51474	http://ddsn.sc.gov/Pages/default.aspx	Disabilities and Special Needs, Department of	2009.0	112.0
+51476	http://des.sumterschools.net/	F. J. Delaine Elementary	2013.0	24.0
+51477	http://mitchell.ccsdschools.com/	Mitchell Elementary	2002.0	1003.0
+51478	http://pbe.horrycountyschools.net/	Palmetto Bays Elementary	2008.0	15.0
+51479	http://fmms.fort-mill.k12.sc.us/	Fort Mill Middle	2007.0	23.0
+51480	http://www.greenville.k12.sc.us/dchapel/	Duncan Chapel Elementary	1998.0	37.0
+51481	http://dilloncounty.sc.gov/departments/solictor/pages/default.aspx	Solicitor's Office - 4th Judicial Circuit	2011.0	3.0
+51482	http://www.scfiremarshal.llronline.com/	Fire Marshal, State	2011.0	81.0
+51483	http://www.banking.sc.gov/pages/default.aspx	Banking, Commissioner of	2011.0	20.0
+51484	https://www.scdhhs.gov/	Health and Human Services, Department of (DHHS)	2009.0	718.0
+51485	http://www.dorchestercounty.net/	Dorchester	2001.0	647.0
+51486	http://www.berkeley.k12.sc.us/sedgefieldintermediate.cfm	Sedgefield Intermediate	0.0	2562.0
+51487	http://des.pickens.k12.sc.us/	Dacusville Elementary	2008.0	5.0
+51488	http://se.horrycountyschools.net/	Socastee Elementary	2008.0	16.0
+51489	http://mcsdmcollelementary.sharpschool.net/	McColl Elementary-Middle	2013.0	666.0
+51490	https://www.fsd1.org/schools/lucytdavis/pages/default.aspx	Lucy T. Davis Elementary	0.0	58.0
+51491	http://www.scoid.state.sc.us/	Commission on Indigent Defense	0.0	756.0
+51492	http://www.denmarkolarschooldistrict2.org/education/school/school.php?sectionid=4&	Denmark-Olar Middle	0.0	4.0
+51494	https://www.fsd1.org/schools/deweylcarter/pages/default.aspx	Dewey-Carter Elementary	0.0	4.0
+51495	http://shes.sumterschools.net/	Shaw Heights Elementary	2012.0	34.0
+51496	http://www.scgsah.org/	Governor's School for the Arts and Humanities	2008.0	368.0
+51497	http://dorchester.ene.schoolfusion.us/	Eagle Nest Elementary	2009.0	2250.0
+51499	http://www.greenville.k12.sc.us/tigervil/index.asp	Tigerville Elementary	2006.0	37.0
+51500	http://sje.horrycountyschools.net/	St. James Elementary	2008.0	12.0
+51501	http://www.saludaschools.org/domain/32	Saluda Primary	2012.0	209.0
+51503	http://bwm.horrycountyschools.net/	Black Water Middle	2008.0	11.0
+51504	http://midlandvalleyprep.com/index.html	Midland Valley Preparatory	0.0	1.0
+51505	http://www.fort-mill.k12.sc.us/	Fort Mill School District	1996.0	14.0
+51506	http://www.marlborocounty.sc.gov/Pages/default.aspx	Marlboro	2011.0	51.0
+51507	http://www.bcb.sc.gov/	Budget and Control Board	2003.0	31.0
+51509	http://www.kershawcountylibrary.org	Kershaw County Library System	2007.0	215.0
+51510	http://www.bcls.sc.gov/Pages/default.aspx	Berkeley County Library - Goose Creek Library	2011.0	77.0
+51511	http://www.anderson3.k12.sc.us/crescent/	Crescent High	2001.0	0.0
+51513	http://bms.anderson2.org/	Belton Middle	2007.0	26.0
+51514	http://blsh.orangeburg4.schoolfusion.us/	Branchville High	2013.0	780.0
+51515	http://www.oconee.k12.sc.us/tamasseees.cfm	Tamassee-Salem Elementary	0.0	3765.0
+51516	http://fchs.fairfield.k12.sc.us/home.aspx	Fairfield Central High	0.0	35.0
+51517	http://www.spart5.net/site/default.aspx?domainid=425	Beech Springs Intermediate	0.0	22.0
+51518	http://www.acs.k12.sc.us/domain/9	Fairfax Elementary	2011.0	182.0
+51519	http://www.acs.k12.sc.us/domain/8	Allendale Elementary	2011.0	172.0
+51520	http://www.llr.state.sc.us/pol/pharmacy/	Pharmacy, Board of (LLR)	2001.0	25.0
+51521	http://www.clarendon2.k12.sc.us/group_profile_view.aspx?id=b0290377-f523-471a-bfbb-ddc22b3dd867	Phoenix Charter High	0.0	53.0
+51522	https://www.fsd1.org/pages/default.aspx	Florence School District One	2012.0	395.0
+51523	http://www.cityofflorence.com/	Florence	2000.0	15.0
+51524	http://mh.rock-hill.k12.sc.us/	Mount Holly Elementary	2008.0	208.0
+51525	http://www.llr.state.sc.us/pol/forestry/	Foresters, Board of Registration for (LLR)	2001.0	30.0
+51526	http://sse.horrycountyschools.net/	Seaside Elementary	2008.0	26.0
+51527	http://www.lcsd56.org/site/default.aspx?pageid=1	Laurens County School District 56	2011.0	15.0
+51528	http://lim.beaufort.k12.sc.us/	Lady's Island Middle	2011.0	15.0
+51529	http://www.dillon.k12.sc.us/lv_elementary/default.htm	Lake View Elementary	2012.0	10.0
+51530	http://www.fmarion.edu/	Francis Marion University	1996.0	1121.0
+51531	http://www.orangeburg4.com/	Orangeburg Consolidated School District Four	2001.0	362.0
+51532	http://blm.beaufort.k12.sc.us/	Bluffton Middle	2010.0	13.0
+51533	http://www.hiltonheadislandsc.gov/	Hilton Head Island	2003.0	937.0
+51534	http://sullivansisland.ccsdschools.com/	Sullivan's Island Elementary	2003.0	551.0
+51535	http://www.marlboro.k12.sc.us/	Marlboro County	2000.0	451.0
+51536	http://www.greenville.k12.sc.us/lforest/index.asp	Lake Forest Elementary	2004.0	31.0
+51538	http://www.york.k12.sc.us/ych/	York Comprehensive High	2005.0	890.0
+51539	http://www.palmettoscholarsacademy.org	Palmetto Scholars Academy	2009.0	103.0
+51540	http://www.dillon.k12.sc.us/lv_high/default.asp	Lake View High	2012.0	40.0
+51541	http://silverbluffhs.acps.schoolfusion.us/	Silver Bluff High	2012.0	1870.0
+51543	http://res.ocsd5.net/	Rivelon Elementary	2013.0	19.0
+51544	http://www.theacademyofhope.org/	Academy of Hope Charter	2011.0	160.0
+51545	http://www.greenville.k12.sc.us/enoree/	Enoree Career Center	1998.0	17.0
+51546	http://mcsdbennetprimary.sharpschool.net/	Bennettsville Primary	2013.0	422.0
+51547	http://www.saludaschools.org/domain/154	Hollywood Elementary	2012.0	209.0
+51548	http://www.clover.k12.sc.us/domain/10	Crowders Creek Elem	2012.0	718.0
+51549	http://www.clover.k12.sc.us/domain/11	Griggs Road Elementary	2012.0	718.0
+51550	http://www.clover.k12.sc.us/domain/12	Kinard Elementary	2012.0	718.0
+51551	http://www.clover.k12.sc.us/domain/13	Larne Elementary	2012.0	718.0
+51552	http://www.clover.k12.sc.us/domain/14	Clover Middle	2012.0	718.0
+51553	http://www.clover.k12.sc.us/domain/15	Oakridge Middle	2012.0	718.0
+51554	http://www.psc.sc.gov/Pages/default.aspx	Public Service Commission	2012.0	49.0
+51555	http://www.cityofnewberry.com/	Newberry	1998.0	134.0
+51556	http://www.cfpcs.org	Calhoun Falls Charter School	2010.0	18.0
+51557	http://www.spart1.org/ope/	O. P. Earle Elementary	2008.0	1696.0
+51558	http://sc.provostacademy.com	Provost Academy South Carolina	2009.0	81.0
+51559	http://www.dillon.lib.sc.us	Dillon County Library System	2001.0	16.0
+51561	http://www.llr.state.sc.us/pol/accountancy/	Accountancy, Board of (LLR)	2001.0	32.0
+51562	http://lm.horrycountyschools.net/	Loris Middle	2008.0	14.0
+51563	http://lambs.ccsdschools.com/	Lambs Elementary	2003.0	585.0
+51564	http://alcorn.richlandone.org/	Alcorn Middle	2009.0	92.0
+51565	http://www.richlandonline.com/	Richland	1999.0	1156.0
+51566	http://sandersclyde.ccsdschools.com/	Sanders-Clyde Elementary	2003.0	522.0
+51567	http://www.llr.state.sc.us/pol/socialworkers/	Social Work Examiners, Board of (LLR)	2001.0	24.0
+51569	http://www.pickens.lib.sc.us	Pickens County Library System	2002.0	40.0
+51572	http://www.greenville.k12.sc.us/kerns/	Thomas E. Kerns Elementary	2006.0	34.0
+51573	http://ade.sumterschools.net/	Alice Street Elementary	2011.0	31.0
+51574	https://www.richland2.org/wh/pages/default.aspx	Westwood High	2013.0	14.0
+51575	http://bbes.ocsd5.net/	Bethune-Bowman Elementary	2013.0	22.0
+51576	http://www.denmarkolarschooldistrict2.org/education/school/school.php?sectionid=5&	Denmark Olar High	2012.0	7.0
+51577	http://www.oepp.sc.gov/cvo/	Crime Victims' Ombudsman (Governor's Office)	2006.0	5.0
+51578	http://pinegrove.richlandone.org/	Pine Grove Elementary	2009.0	29.0
+51579	http://prosperity-rikardelem.sc.nce.schoolinsites.com/	Prosperity-Rikard Elementary	2012.0	32.0
+51580	http://www.fairfield.lib.sc.us	Fairfield County Library	1998.0	35.0
+51581	http://bet.kcsdschools.com/	Bethune Elementary	2005.0	33.0
+51584	http://oig.sc.gov/Pages/default.aspx	Inspector General, Office of	2013.0	9.0
+51586	http://www.scstatehouse.gov/	Legislature (Senate, House)	2004.0	2771.0
+51587	http://www.anderson1.k12.sc.us/site/default.aspx?pageid=1	Anderson School District One	2012.0	48.0
+51588	https://www.fsd1.org/schools/williams/pages/default.aspx	Williams Middle	2012.0	7.0
+51589	https://sites.google.com/a/ccpsonline.net/smk8/	St. Matthews K-8 School	0.0	49.0
+51590	http://rh.rock-hill.k12.sc.us/	Rock Hill High	2008.0	430.0
+51591	http://les.anderson4.org	La France Elementary	2013.0	1697.0
+51592	http://www.greenville.k12.sc.us/slaterma/index.asp	Slater Marietta Elementary	2004.0	41.0
+51593	http://www.scsu.edu/	South Carolina State University	1999.0	2893.0
+51594	http://mhs.dcsdschools.org/	Mayo High For Math, Science, & Technology	2007.0	1066.0
+51595	http://satchelford.richlandone.org/	Satchel Ford Elementary	2009.0	51.0
+51596	http://www.dillonatech.com/	Dillon County Applied Technology Center	2011.0	31.0
+51597	http://www.greenville.k12.sc.us/carolina/	Carolina Academy	1998.0	55.0
+51598	http://www.tridenttech.edu/	Trident Technical College	2002.0	1213.0
+51599	http://kennedym.acps.schoolfusion.us/	M. B. Kennedy Middle	2012.0	1309.0
+51600	http://leelcctc.sharpschool.net/	Lee County Career and Technology Center	2012.0	422.0
+51601	http://wes.pickens.k12.sc.us/	West End Elementary	2009.0	6.0
+51602	http://nces.ccsdschools.com/	North Charleston Elementary	2002.0	1819.0
+51603	http://www.york.k12.sc.us/hgs/	Hickory Grove-Sharon Elementary	2010.0	2815.0
+51604	http://dorchester.gms.schoolfusion.us/	Gregg Middle	2009.0	4960.0
+51605	http://cherokee1.k12.sc.us/ctc/index.htm	Cherokee Technology Center	2000.0	0.0
+51606	http://www.oconee.k12.sc.us/walhallaes.cfm	Walhalla Elementary	0.0	3779.0
+51607	http://www.lexrich5.org/irmohs.cfm	Irmo High	0.0	1889.0
+51608	http://ow.ocsd5.net/	Orangeburg Wilkinson High	2013.0	42.0
+51609	http://www.lce.florence3.k12.sc.us/	Lake City Elementary	2010.0	16.0
+51610	http://www.greenville.k12.sc.us/skyland/	Skyland Elementary	1999.0	59.0
+51611	https://www.fsd1.org/schools/moore/pages/default.aspx	Moore Intermediate	0.0	15.0
+51612	http://www.ic.sc.gov/	Retirement Systems Investment Council	2008.0	12.0
+51613	http://www.scdmvonline.com/DMVNew/default.aspx	Motor Vehicles, Department of	2006.0	69.0
+51614	http://ses.lexington4.net/	Sandhills Elementary	2012.0	40.0
+51615	http://www.denmarktech.edu/	Denmark Technical College	2005.0	104.0
+51616	http://www.state.sc.us/treas/	State Treasurer	1997.0	195.0
+51617	http://ih.rock-hill.k12.sc.us/	India Hook Elementary	2009.0	172.0
+51618	https://www.fsd1.org/schools/savannahgrove/pages/default.aspx	Savannah Grove Elementary	2013.0	32.0
+51619	https://www.fsd1.org/schools/careercenter/pages/aboutus.aspx	Florence Career Center	0.0	9.0
+51620	http://www.gwd50.org/domain/624	Northside Middle	2012.0	991.0
+51622	http://arden.richlandone.org/	Arden Elementary	2011.0	48.0
+51623	https://www.richland2.org/bre/pages/default.aspx	Bookman Road Elementary	2014.0	21.0
+51624	http://www.ocsd5.net	Orangeburg Consolidated School District Five	2013.0	494.0
+51625	http://rms.jcsd.net/	Hardeeville-Ridgeland Middle	2011.0	38.0
+51626	http://sccc.sumterschools.net/	Sumter County Career Center	2012.0	31.0
+51627	http://ces.kcsdschools.com/	Camden Elementary of the Creative Arts	2005.0	58.0
+51628	http://www.anderson1.k12.sc.us/domain/793	Powdersville Middle	2014.0	774.0
+51629	http://www.spart5.net/site/default.aspx?domainid=302	River Ridge Elementary	0.0	23.0
+51630	http://www.edline.net/pages/foster_park_elementary	Foster Park Elementary	2013.0	16.0
+51631	http://www.sha.state.sc.us/	Housing Finance and Development Authority, State	1998.0	521.0
+51632	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=78	Cheraw Primary	2012.0	0.0
+51633	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=79	Petersburg Primary	2012.0	0.0
+51634	http://www.lexrich5.org/crossroadsms.cfm	CrossRoads Middle	0.0	1048.0
+51635	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=72	Edwards Elementary	2013.0	0.0
+51636	http://www.discoversouthcarolina.com/	Parks, Recreation, and Tourism, Department of	2001.0	183.0
+51637	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=70	New Heights Middle	2009.0	0.0
+51638	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=71	Cheraw Intermediate	2012.0	0.0
+51639	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=76	Plainview Elementary	2009.0	0.0
+51640	http://hpems.flo2.k12.sc.us	Hannah-Pamplico Elementary and Middle	2007.0	35.0
+51641	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=74	McBee Elementary	2012.0	0.0
+51642	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=75	Pageland Elementary	2013.0	0.0
+51643	http://mges.lexington1.net:8042/	Meadow Glen Elementary	2012.0	1.0
+51644	http://www.chesterlibsc.org	Chester County Library	2004.0	213.0
+51645	https://sites.google.com/a/lex2.org/schools-ahs/	Airport High	2013.0	69.0
+51646	http://mbp.horrycountyschools.net/	Myrtle Beach Primary	2008.0	13.0
+51647	http://minniehughes.ccsdschools.com/	Minnie Hughes Elementary	2003.0	488.0
+51648	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=2641	Ford Elementary	2012.0	18.0
+51650	http://www.lexrich5.org/nurseryroad.cfm	Nursery Road Elementary	0.0	942.0
+51651	http://jlc.dcsdschools.org/	Cain Elementary	2009.0	604.0
+51652	http://www.tompsc.com/	Mount Pleasant	2011.0	2485.0
+51653	http://www.andersoncountysc.org/	Anderson	0.0	44.0
+51654	http://ne.rock-hill.k12.sc.us/	Northside Elementary	2008.0	146.0
+51656	http://www.berkeley.k12.sc.us/berkeleyintermediate.cfm	Berkeley Intermediate	0.0	2565.0
+51657	http://fr.rock-hill.k12.sc.us/	Finley Road Elementary	2009.0	67.0
+51658	http://www.sumtercountysc.org/?q=department/solicitors-office/	Solicitor's Office - 3rd Judicial Circuit	2013.0	2753.0
+51659	http://www.clarendon2.k12.sc.us/	Clarendon School District Two	1999.0	25.0
+51660	http://les.pickens.k12.sc.us/	Liberty Elementary	2009.0	5.0
+51661	http://obg3.k12.sc.us/vpes/	Vance-Providence Elementary	0.0	0.0
+51662	http://www.greenville.k12.sc.us/whhs/	Wade Hampton High	1999.0	55.0
+51663	http://oges.lexington1.net:8022/	Oak Grove Elementary	2013.0	1.0
+51664	http://pes.pickens.k12.sc.us/	Pickens Elementary	2009.0	5.0
+51665	http://www.mccormick.k12.sc.us/site/default.aspx?pageid=1	McCormick County School District	2011.0	28.0
+51666	http://www.govoepp.state.sc.us/osmba/	Small and Minority Business Assistance (Governor's                  Office)	2000.0	9.0
+51667	http://bhhs.barnwell19.k12.sc.us	Blackville-Hilda High	2010.0	25.0
+51668	http://www.infodepot.org	Spartanburg County Public Library System	1998.0	86.0
+51670	http://cherokee1.k12.sc.us/alma/	Alma Elementary	2002.0	0.0
+51671	http://www.richlandlibrary.com/	Richland County Public Library	2002.0	68892.0
+51672	http://www.lexrich5.org/dutchforkhs.cfm	Dutch Fork High	0.0	1477.0
+51673	http://scsolicitor1.org/cmp/default.aspx	Solicitor's Office - 1st Judicial Circuit	2011.0	13.0
+51674	http://wbh.beaufort.k12.sc.us/	Whale Branch Early College High	2012.0	28.0
+51675	http://www.greenville.k12.sc.us/sterling/	Sterling School	2011.0	50.0
+51676	http://www.hampton1.org/domain/13	Fennell Elementary	2011.0	448.0
+51677	http://www.lcsd56.org/ces	Clinton Elementary	2013.0	1890.0
+51678	http://www.hampton1.org/domain/11	Brunson Elementary	2011.0	448.0
+51679	http://www.hampton1.org/domain/10	Ben Hazel Primary	2011.0	448.0
+51680	http://www.hampton1.org/domain/14	Varnville Elementary	2011.0	448.0
+51684	http://acps.schoolfusion.us/	Aiken County Public Schools	2011.0	81282.0
+51685	http://www.oconee.k12.sc.us/hamilton.cfm	Fred P. Hamilton Career Center	0.0	3806.0
+51686	http://progressive.ccsdschools.com/	Charleston Progressive	2003.0	512.0
+51687	http://www.anderson1.k12.sc.us/domain/698	Palmetto Middle	2014.0	769.0
+51688	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=421	Laurens Elementary	2012.0	20.0
+51689	http://am.horrycountyschools.net/	Aynor Middle	2008.0	10.0
+51690	http://www.florence4.k12.sc.us/	Florence County School District Four	2003.0	49.0
+51691	http://kme.fairfield.k12.sc.us/home.aspx	Kelly Miller Elementary	0.0	28.0
+51692	http://mdw.kcsdschools.com/	Midway Elementary	2005.0	55.0
+51694	http://adm.sumterschools.net/	Alice Drive Middle	2011.0	62.0
+51695	http://www.cityofgoosecreek.com/	Goose Creek	1998.0	717.0
+51696	http://rbhs.lexington1.net:8044/	River Bluff High	2012.0	1.0
+51697	http://gallmanelem.sc.nce.schoolinsites.com/	Gallman Elementary	2012.0	23.0
+51698	http://www.dnr.sc.gov/	Natural Resources, Department of	2005.0	752.0
+51699	http://www.greenville.k12.sc.us/bcreek/	Brushy Creek Elementary	1998.0	46.0
+51700	http://redes.sumterschools.net/	R. E. Davis Elementary	2011.0	35.0
+51701	http://www.scacog.org/	South Carolina Appalachian Council of Governments	1998.0	192.0
+51702	http://library.booksite.com/5064	Cherokee County Library	0.0	2060.0
+51703	http://oakland.ccsdschools.com/	Oakland Elementary	2002.0	928.0
+51705	http://hhm.beaufort.k12.sc.us/	Hilton Head Island Middle	2010.0	9.0
+51706	http://www.gwd50.org/domain/1025	Mathews Elementary	2012.0	991.0
+51707	http://www.llr.state.sc.us/pol/auctioneers/	Auctioneers' Commission, Board of (LLR)	2001.0	23.0
+51708	http://scsilc.com/	Independent Living Council, SC Statewide	2012.0	12.0
+51709	https://www.richland2.org/pe/pages/default.aspx	Pontiac Elementary	0.0	27.0
+51710	http://pge.spartanburg6.k12.sc.us/	Pauline Glenn Springs Elementary	2009.0	201.0
+51711	http://mes.barnwell19.k12.sc.us	Macedonia Elementary	2013.0	21.0
+51712	http://www.lexrich5.org/hecorley.cfm	H. E. Corley Elementary	0.0	1172.0
+51713	https://www.richland2.org/rnh/pages/default.aspx	Richland Northeast High	2013.0	44.0
+51715	http://www.lakecitycollegeprepacademy.org	Lake City College Preparatory Academy	2011.0	21.0
+51716	http://www.oconee.k12.sc.us/fairoak.cfm	Fair-Oak Elementary	0.0	3855.0
+51717	http://www.llr.state.sc.us/pol/cemetery/	Perpetual Care Cemetery Board (LLR)	2003.0	20.0
+51718	http://www.cbhs.marion.k12.sc.us/	Creek Bridge High	2013.0	24.0
+51719	http://militarymagnet.ccsdschools.com/	Military Magnet Academy	2006.0	1595.0
+51720	http://mps.anderson2.org/	Marshall Primary	2007.0	22.0
+51721	http://lke.horrycountyschools.net/	Lakewood Elementary	2008.0	32.0
+51722	http://cle.pickens.k12.sc.us/	Clemson Elementary	2009.0	5.0
+51723	http://mes.sumterschools.net/	Manchester Elementary	2012.0	29.0
+51724	http://dorchester.kes.schoolfusion.us/	Knightsville Elementary	2009.0	2099.0
+51725	http://bradley.richlandone.org/	Bradley Elementary	2011.0	45.0
+51726	http://cre.pickens.k12.sc.us	Chastain Road Elementary	2011.0	5.0
+51727	https://sites.google.com/a/lex2.org/schools-bc1/	Brookland Cayce Grammar School No. 1	0.0	20.0
+51728	http://www.lexrich5.org/springhill.cfm	Spring Hill High	0.0	1081.0
+51729	http://sccbank.sc.gov	Conservation Bank, South Carolina	2003.0	224.0
+51730	http://www.scsdb.org/site/default.aspx?PageID=1	SC School For Blind Elementary-Middle	2012.0	29.0
+51732	http://www.saludaschools.org/site/default.aspx?pageid=1	Saluda School District One	2012.0	10.0
+51733	http://www.berkeley.k12.sc.us/goosecreekhigh.cfm	Goose Creek High	0.0	2708.0
+51734	http://www.gwd50.org/domain/1207	Eleanor S. Rice Elementary	2012.0	966.0
+51735	https://www.richland2.org/rte/pages/default.aspx	Round Top Elementary	2013.0	28.0
+51738	http://www.union.k12.sc.us/jems/index.html	Jonesville Elementary	2009.0	10.0
+51739	http://cherokee1.k12.sc.us/bhs/	Blacksburg High	2003.0	0.0
+51740	http://atec.kcsdschools.com/	Applied Technology Education Campus	2005.0	75.0
+51742	http://clearwaterel.acps.schoolfusion.us/	Clearwater Elementary	2012.0	1754.0
+51743	http://rbes.lexington1.net:8024/	Red Bank Elementary	2013.0	1.0
+51744	http://fe.horrycountyschools.net/	Forestbrook Elementary	2008.0	17.0
+51745	http://www.consumer.sc.gov/Pages/default.aspx	Consumer Affairs, Department of	2012.0	92.0
+51746	http://cs.rock-hill.k12.sc.us/	The Children's School at Sylvia Circle	2008.0	75.0
+51747	http://www.dillon.k12.sc.us/south/default.htm	South Elementary	2012.0	10.0
+51748	http://fae.pickens.k12.sc.us/	Forest Acres Elementary	2009.0	5.0
+51749	https://www.fsd1.org/schools/westflorence/pages/default.aspx	West Florence High	2013.0	61.0
+51750	http://www.greenville.k12.sc.us/wdmonth/index.asp	Woodmont High	2006.0	36.0
+51751	http://ees.lancasterscschools.org/home	Erwin Elementary	2010.0	1.0
+51752	http://logan.richlandone.org/	Logan Elementary	2009.0	50.0
+51753	http://www.spartanburg2.k12.sc.us/bs9/index.htm	Boiling Springs High Ninth Grade Campus	2005.0	4.0
+51754	http://pinehurst.ccsdschools.com/	Pinehurst Elementary	2010.0	308.0
+51755	http://springfield.ccsdschools.com/	Springfield Elementary	2002.0	1127.0
+51756	http://hms.dcsdschools.org/	Hartsville Middle	2008.0	333.0
+51757	http://act.marion.k12.sc.us/	Academy of Careers and Technology	2013.0	57.0
+51758	http://www.greenville.k12.sc.us/alexand/	Alexander Elementary	1999.0	47.0
+51759	http://www.anderson5.net/domain/28	West Market School of Early Education	2012.0	942.0
+51760	http://www.anderson5.net/domain/21	McCants Middle, an International Baccalaureate World Candidate School	2012.0	942.0
+51761	http://www.anderson5.net/domain/20	Lakeside Middle School of Inquiry and Innovation, a STEM School	2012.0	942.0
+51762	http://www.anderson5.net/domain/23	Southwood Academy of the Arts	2012.0	942.0
+51763	http://www.anderson5.net/domain/22	Robert Anderson College and Career Academy	2012.0	823.0
+51764	http://www.anderson5.net/domain/25	T. L. Hanna High, an International Baccalaureate School	2012.0	823.0
+51765	http://www.anderson5.net/domain/24	Anderson Five Career Campus	2012.0	942.0
+51766	http://www.anderson5.net/domain/27	South Fant School of Early Education	2012.0	942.0
+51767	http://www.anderson5.net/domain/26	Westside High, an Early College Academy	2012.0	828.0
+51768	http://www.acs.k12.sc.us/site/default.aspx?pageid=1	Allendale County Schools	2011.0	7.0
+51769	http://www.greenville.k12.sc.us/enorthst/	East North Street Academy	1998.0	47.0
+51770	https://www.richland2.org/dm/pages/default.aspx	Dent Middle	0.0	36.0
+51771	http://www.llr.state.sc.us/pol/funeral/	Funeral Service, Board of (LLR)	2001.0	23.0
+51772	http://www.mccormick.k12.sc.us/domain/10	McCormick High	2011.0	167.0
+51773	http://www.darlington-lib.org	Darlington County Library System	2003.0	1.0
+51774	http://www.oepp.sc.gov/fcrb/	Foster Care Review Board (Governor's Office)	2006.0	7.0
+51775	http://meadowfield.richlandone.org/	Meadowfield Elementary	2009.0	50.0
+51776	http://www.gwd50.org/domain/717	Westview Middle	2012.0	991.0
+51777	http://www.darlington.k12.sc.us/	Darlington County School District	1998.0	177.0
+51778	http://www.sccourts.org/	Judicial Department	2006.0	3993.0
+51779	http://www.scdhec.gov/	Department of Health and Environmental Control	2003.0	2483.0
+51780	http://keenan.richlandone.org/	W.J. Keenan High	2009.0	205.0
+51782	http://doi.sc.gov/	Insurance, Department of	2006.0	613.0
+51783	https://www.richland2.org/charterhigh/pages/default.aspx	Richland Two Charter High	2013.0	17.0
+51784	http://dorchester.bhe.schoolfusion.us/	Beech Hill Elementary	2009.0	2202.0
+51785	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=69	Long Middle	2012.0	0.0
+51786	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=68	Chesterfield-Ruby Middle	2009.0	0.0
+51787	http://www.berkeley.k12.sc.us/berkeley.cfm	Berkeley Elementary	0.0	2639.0
+51788	https://www.santeecooper.com/	Santee Cooper Power	1998.0	611.0
+51789	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=67	McBee High	2012.0	0.0
+51790	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=66	Chesterfield High	2013.0	0.0
+51791	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=62	Cheraw High	2011.0	0.0
+51793	http://www.palmettoyouthacademy.com/	Palmetto Youth Academy Charter	2009.0	9.0
+51794	http://www.spartanburg2.k12.sc.us/	Spartanburg 2	1998.0	115.0
+51795	http://hampton2ms.ss3.sharpschool.com/	Estill Middle	2013.0	390.0
+51796	http://hampton2hs.ss3.sharpschool.com/	Estill High	2013.0	598.0
+51797	https://www.fsd1.org/schools/poynor/pages/default.aspx	Poynor Center	2012.0	8.0
+51798	http://sto.kcsdschools.com/	Leslie M. Stover Middle	2005.0	43.0
+51799	http://www.dorchester2.k12.sc.us/	Dorchester 2	1999.0	557.0
+51800	http://www.orangeburgcounty.org/	Orangeburg	2000.0	64.0
+51801	http://www.chapinlibrary.org	Chapin Memorial Library	2002.0	23.0
+51802	http://chester.lms.schooldesk.net/	Lewisville Middle	2011.0	43.0
+51803	https://www.fsd1.org/schools/southflorence/pages/default.aspx	South Florence High	0.0	27.0
+51804	http://www.scstatehouse.gov/house.php	House of Representatives	2011.0	2850.0
+51805	http://www.spartanburg2.k12.sc.us/bsi/	Boiling Springs Intermediate	2013.0	4.0
+51806	http://www.jms.marion.k12.sc.us	Johnakin Middle	2013.0	13.0
+51807	http://jichs.ccsdschools.com/	James Island Charter High	2003.0	3063.0
+51808	http://pde.horrycountyschools.net/	Pee Dee Elementary	2008.0	20.0
+51810	https://www.fsd1.org/schools/wallacegregg/pages/default.aspx	Wallace Gregg Elementary	0.0	6.0
+51811	http://sps.lexington4.net/	Sandhills Primary	2012.0	40.0
+51812	http://laing.ccsdschools.com/	Laing Middle	2003.0	607.0
+51814	http://ghes.fort-mill.k12.sc.us/home.aspx	Gold Hill Elementary	0.0	21.0
+51815	http://www.lexrich5.org/dutchfork.cfm	Dutch Fork Elementary	0.0	1039.0
+51816	http://chs.kcsdschools.com/	Camden High	2005.0	55.0
+51817	http://www.walkergamble.com/	Walker-Gamble Elementary	2013.0	37.0
+51818	http://www.llr.state.sc.us/pol/podiatry/	Podiatry Examiners, Board of	2001.0	23.0
+51819	http://acctc.schoolfusion.us/	Aiken County Career Center	2012.0	2084.0
+51820	http://www.scosha.llronline.com	Occupational Safety and Health Administration (OSHA)	2010.0	80.0
+51821	http://www.york.k12.sc.us/	York School District One	1998.0	9249.0
+51822	http://chester.lewisville.schooldesk.net/	Lewisville Elementary	2011.0	44.0
+51828	http://nmbp.horrycountyschools.net/	North Myrtle Beach Primary	2008.0	2.0
+51830	http://blps.groupfusion.net/	Batesburg-Leesville Primary	2005.0	773.0
+51831	http://www.anderson4.k12.sc.us/	Anderson County School District 4	1999.0	362.0
+51832	http://ffe.spartanburg6.k12.sc.us/	Fairforest Elementary	2009.0	207.0
+51833	http://www.scalc.net	Administrative Law Court	2004.0	36.0
+51834	http://www.saludaschools.org/domain/225	Saluda Middle	2012.0	209.0
+51836	http://www.lcsd56.org/bss	Bell Street Middle	0.0	1934.0
+51837	http://naugel.acps.schoolfusion.us/	North Augusta Elementary	2012.0	3071.0
+51838	http://des.ocsd5.net/	Dover Elementary	2013.0	9.0
+51840	http://cherokee1.k12.sc.us/bdlee/index.php	B. D. Lee Elementary	2012.0	0.0
+51842	http://district.sumterschools.net/	Sumter	2011.0	151.0
+51843	http://www.bofi.sc.gov/Pages/default.aspx	Financial Institutions, Board of	2011.0	19.0
+51844	http://skilbourne.richlandone.org/	South Kilbourne Elementary	2011.0	69.0
+51845	http://www.edline.net/pages/monarch_elementary	Monarch Elementary	2013.0	16.0
+51847	http://www.sccb.state.sc.us/	South Carolina Commission for the Blind	1999.0	58.0
+51848	http://www.jhs.flo5.k12.sc.us/	Johnsonville High	2001.0	45.0
+51849	http://www.scdps.gov/schp/redirect/redirect.html	Highway Patrol (Department of Public Safety)	2012.0	42.0
+51850	http://sje.dcsdschools.org/	St. Johns Elementary	2009.0	1248.0
+51851	http://www.berkeley.k12.sc.us/berkeleymiddle.cfm	Berkeley Middle	0.0	2580.0
+51854	https://www.richland2.org/fle/pages/default.aspx	Forest Lake Elementary	0.0	18.0
+51855	http://aes.pickens.k12.sc.us/	Ambler Elementary	2009.0	5.0
+51856	http://forestheights.richlandone.org/	Forest Heights Elementary	2009.0	22.0
+51857	http://northcca.ccsdschools.com/	North Charleston Creative Arts Elementary	2012.0	512.0
+51858	http://www.newberryhs.org/	Newberry High	2012.0	33.0
+51860	http://www.berkeley.k12.sc.us/marringtonelementary.cfm	Marrington Elementary	0.0	2704.0
+51861	http://www.rdanderson.org	R. D. Anderson Applied Technology Center	2001.0	189.0
+51862	http://ctc.pickens.k12.sc.us/	Pickens County Career and Technolgy Center	2011.0	0.0
+51864	http://www.spartanburg2.k12.sc.us/oes/index.htm	Oakland Elementary	2003.0	3.0
+51865	http://www.sceducationlottery.com/	Education Lottery Commission	2001.0	125.0
+51866	http://ec.horrycountyschools.net/	HCS Early College High	2008.0	21.0
+51867	http://www.greenville.k12.sc.us/mauldinm/index.asp	Mauldin Middle	2008.0	63.0
+51868	http://naugm.acps.schoolfusion.us/	North Augusta Middle	2012.0	3924.0
+51869	http://chukker.acps.schoolfusion.us/	Chukker Creek Elementary	2012.0	5223.0
+51870	http://www.iop.net/	Isle of Palms	1998.0	340.0
+51872	http://ltc.lexington1.net:8021/	Lexington Technology Center	2012.0	0.0
+51873	http://oes.beaufort.k12.sc.us/	Okatie Elementary	2010.0	12.0
+51874	http://lms4.mybigcampus.net/	Latta Middle	2013.0	59.0
+51875	http://www.mywcl.org/index-10.html	Williamsburg County Library - Dr C. E. Murray Branch	2011.0	1.0
+51876	https://sites.google.com/a/lex2.org/schools-redavis/	R. Earle Davis Elementary School for Technology	0.0	74.0
+51877	http://www.sc.edu/	USC Columbia	1997.0	2491.0
+51878	http://www.berkeley.lib.sc.us	Berkeley County Library System	1998.0	0.0
+51879	http://newberrycountycareercenter.sc.ncc.schoolinsites.com/	Newberry County Career Center	2012.0	14.0
+51880	http://wshs.acps.schoolfusion.us/	Wagener-Salley High	2012.0	2132.0
+51881	http://www.scdot.org	Transportation, Department of	2001.0	620.0
+51882	http://de.horrycountyschools.net/	Daisy Elementary	2008.0	17.0
+51883	http://www.anderson5.net/domain/18	Whitehall Elementary, a Global Communication School	2012.0	823.0
+51884	http://www.anderson5.net/domain/19	Glenview Middle School of Choice	2012.0	942.0
+51885	http://www.anderson5.net/domain/14	Nevitt Forest Community School of Innovation	2012.0	942.0
+51886	http://www.anderson5.net/domain/15	New Prospect STEM Academy	2012.0	942.0
+51887	http://www.anderson5.net/domain/16	North Pointe Elementary School of Choice	2012.0	942.0
+51888	http://www.k12.com/scvcs	SC Virtual Charter School	2008.0	504.0
+51889	http://www.anderson5.net/domain/10	Concord Elementary, an International Baccalaureate World School	2012.0	823.0
+51890	http://www.anderson5.net/domain/11	Homeland Park Primary	2012.0	942.0
+51891	http://www.anderson5.net/domain/12	McLees Academy of Leadership	2012.0	942.0
+51892	http://www.anderson5.net/domain/13	Midway Elementary School of Science and Engineering	2012.0	942.0
+51894	http://glovervilleel.acps.schoolfusion.us/	Gloverville Elementary	2013.0	2025.0
+51895	http://northwoods.ccsdschools.com/	Northwoods Middle	2010.0	711.0
+51896	http://www.mses.florence3.k12.sc.us/	Main Street Elementary	2005.0	16.0
+51897	http://chester.arts.schooldesk.net/	Chester Park Elementary School for the Arts	2011.0	43.0
+51898	http://mle.fairfield.k12.sc.us/home.aspx	McCrorey-Liston School of Technology	0.0	45.0
+51899	http://www.greenville.k12.sc.us/scollins/	Sara Collins Elementary	1999.0	52.0
+51900	http://ce.horrycountyschools.net/	Conway Elementary	2008.0	15.0
+51901	http://www.colleton.k12.sc.us/schools/bes/index.html	Bells Elementary	2000.0	14.0
+51902	http://standrewsms.ccsdschools.com/	St. Andrews Middle	2010.0	1.0
+51903	http://reubenelem.sc.nce.schoolinsites.com/	Reuben Elementary	2012.0	33.0
+51904	http://rosewood.richlandone.org/	Rosewood Elementary	2011.0	47.0
+51905	http://www.centralmidlands.org/	Central Midlands Council of Governments	2001.0	9.0
+51906	http://www.berkeley.k12.sc.us/aims.cfm	Howe Hall AIMS Elementary	0.0	2696.0
+51907	http://sph.rock-hill.k12.sc.us/	South Pointe High	2008.0	322.0
+51908	http://bes.lancasterscschools.org/home	Buford Elementary	2011.0	1.0
+51909	http://mms.sumterschools.net/	Mayewood Middle	2012.0	35.0
+51910	http://www.connectionsacademy.com/south-carolina-virtual-school/home.aspx	SC Connections Academy	2013.0	120.0
+51911	http://maryford.ccsdschools.com/	Mary Ford Elementary	2003.0	817.0
+51912	http://www.greenville.k12.sc.us/welcome/index.asp	Welcome Elementary	2005.0	105.0
+51913	http://www.greenville.k12.sc.us/woodland/	Woodland Elementary	1998.0	61.0
+51914	http://cherokee1.k12.sc.us/bes/	Blacksburg Elementary	2007.0	0.0
+51915	http://www.flo2.k12.sc.us/	Florence School District Two	2004.0	26.0
+51916	http://www.greenville.k12.sc.us/mtnview/index.asp	Mountain View Elementary	2004.0	46.0
+51917	http://gsfe.horrycountyschools.net/	Green Sea Floyds Elementary	2008.0	16.0
+51918	http://www.laurens55.k12.sc.us/site/default.aspx?pageid=1	Laurens County School District No. 55	2012.0	21.0
+51919	http://www.spart5.net/site/default.aspx?domainid=608	James Byrnes Freshman Academy	0.0	36.0
+51920	http://www.lchs.florence3.k12.sc.us/	Lake City High	2005.0	10.0
+51925	http://www.greenville.k12.sc.us/donaldsn/index.asp	Donaldson Career Center	2011.0	18.0
+51926	https://www.richland2.org/elwm/pages/default.aspx	E. L. Wright Middle	0.0	54.0
+51927	https://sites.google.com/a/lex2.org/schools-cwecc/	Congaree-Wood Early Childhood Center	0.0	37.0
+51928	http://ellington.ccsdschools.com/	E.B. Ellington Elementary	2003.0	1036.0
+51929	http://www.scstatehouse.gov/senate.php	Senate	2011.0	2852.0
+51930	http://geiger.fairfield.k12.sc.us/home.aspx	Geiger Elementary	0.0	38.0
+51931	http://www.lexrich5.org/index.cfm?	School District Five of Lexington and Richland Cou	0.0	2166.0
+51932	http://www.pacelearning.org/	Pattison's Academy for Comprehensive Education	2010.0	1.0
+51933	http://burke.ccsdschools.com/	Burke High	2002.0	349.0
+51934	https://www.fsd1.org/schools/greenwood/pages/default.aspx	Greenwood Elementary	0.0	14.0
+51935	http://www.oconee.k12.sc.us/tamasseehs.cfm	Tamassee-Salem Middle-High	0.0	3659.0
+51936	http://www.bamberg1.com/	Bamberg One	2003.0	25.0
+51937	http://www.lex-co.com/	Lexington	2000.0	638.0
+51938	http://www.dew.sc.gov	Employment and Workforce, Department of	2010.0	9.0
+51939	http://schools.mychesterfieldcountyschools.com/index.aspx?nid=73	Jefferson Elementary	2011.0	0.0
+51940	http://dorchester.oms.schoolfusion.us/	Oakbrook Middle	2009.0	4008.0

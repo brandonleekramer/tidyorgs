@@ -1,0 +1,1159 @@
+NodeId	NodeURL	NodeName	Year	pages
+54344	http://westvalleyelementary.weebly.com	West Valley Elementary	2013.0	1.0
+54345	http://sharon.alpineschools.org	Sharon Elementary School	2012.0	33.0
+54346	http://www.wayne.k12.ut.us/waynehigh.cfm	Wayne High School	0.0	283.0
+54347	http://library.washco.utah.gov/washington/	Washington County Library - Washington Branch	2009.0	6.0
+54348	http://dhthunder.org/	Desert Hills High School	2008.0	23.0
+54349	http://sprucewood.canyonsdistrict.org	Sprucewood Elementary School	2009.0	205.0
+54350	http://www.davis.k12.ut.us/site/default.aspx?domainid=5640	Vae View Elementary School	0.0	40.0
+54352	http://www.richfieldhigh.org	Richfield High School	2011.0	350.0
+54354	http://draper.canyonsdistrict.org	Draper Elementary School	2009.0	466.0
+54355	http://www.cedarhills.org/	Cedar Hills	2000.0	1329.0
+54356	http://www.co.summit.ut.us/	summit county	2000.0	731.0
+54358	http://www.saltlakeartsacademy.org/	Salt Lake Arts Academy	2002.0	0.0
+54359	http://library.washco.utah.gov/st-george/	Washington County Library - St. George Main Branch	2006.0	5.0
+54360	http://spanishoaks.nebo.edu	Spanish Oaks Elementary School	2009.0	247.0
+54361	http://schools.jordandistrict.org/westjordanhigh/	West Jordan High School	2006.0	27.0
+54362	http://www.slcolibrary.org/gl/glal/librarywestjordan.htm	Salt Lake County Library - West Jordan Library	2010.0	28.0
+54363	http://pghs.alpineschools.org	Pleasant Grove High School	2012.0	167.0
+54364	http://lves.washk12.org/	La Verkin Elementary School	2005.0	28.0
+54366	http://www.dixie.edu/	Dixie State College:	0.0	536.0
+54367	http://www.dees.ogden.k12.ut.us/	Dee Elementary School	2001.0	5.0
+54368	http://www.ths.provo.edu	Timpview High School	2003.0	199.0
+54369	http://www.milfordut.com/	Milford	2001.0	1508.0
+54370	http://lehijr.alpineschools.org	Lehi Junior High School	2012.0	33.0
+54371	http://brighamcity.usu.edu/	Utah State University - Brigham City Campus	2006.0	7.0
+54372	http://www.ccsdut.org/cedarridge.cfm	Cedar Ridge Middle School	0.0	2294.0
+54373	http://cchs.canyonsdistrict.org	Corner Canyon High School	2012.0	54.0
+54374	http://woodlandhillsutah.org/	Woodland Hills	2008.0	718.0
+54375	http://bonneville.slcschools.org/	Bonneville Elementary School	2010.0	66.0
+54376	http://www.sjsd.org/monument-valley-high	Monument Valley High School	2012.0	280.0
+54377	http://www.emerycsd.org/emery.cfm	Emery High School	0.0	15010.0
+54378	http://gfautah.org/	Good Foundations Academy	2010.0	24.0
+54379	http://vineyard.alpineschools.org	Vineyard Elementary School	2012.0	35.0
+54380	http://www.ccsdut.org/nibley.cfm	Nibley Elementary School	0.0	2530.0
+54381	http://schools.jordandistrict.org/rcreek/	Rose Creek Elementary	2010.0	31.0
+54382	http://www.southwebercity.com/	South Weber	2004.0	2683.0
+54383	http://tooeleschools.org/schools/elementaryschools/sces/pages/default.aspx	Settlement Canyon Elementary	2013.0	7.0
+54384	http://santaquin.nebo.edu	Santaquin Elementary School	2009.0	259.0
+54385	http://www.snow.edu	Snow College	1997.0	237.0
+54386	http://uplandterraceelementary.weebly.com	Upland Terrace Elementary School	2011.0	5.0
+54387	http://east.washk12.org	East Elementary School	2007.0	29.0
+54389	http://www.uintah.net/schools/eagle%20view/eagleviewindex.html	Eagle View Elementary School	2010.0	7.0
+54391	http://home.byu.edu/home/	Brigham Young University	2011.0	26.0
+54392	http://www.slcpl.lib.ut.us/branches/view/corinne+and+jack+sweet	Salt Lake City Public Library - Corinne And Jack Sweet	0.0	2.0
+54393	http://library.washco.utah.gov/new-harmony/	Washington County Library - New Harmony Branch	2006.0	4.0
+54394	http://sjhs.nebo.edu	Springville Junior High School	2009.0	324.0
+54395	http://beaver.utah.gov/	beaver county	2010.0	606.0
+54396	http://paradise.utah.gov	Paradise	2008.0	294.0
+54398	http://www.orem.org/	Orem	1998.0	613.0
+54399	http://www.co.davis.ut.us/	davis county	1998.0	963.0
+54400	http://sfjhs.nebo.edu/	Spanish Fork Junior High School	2009.0	1270.0
+54401	http://www.co.tooele.ut.us/	tooele county	1998.0	116.0
+54402	http://jackson.slcschools.org/	Jackson Elementary School	2010.0	21.0
+54404	http://schools.jordandistrict.org/oakcrest/	Oakcrest Elementary School	2007.0	31.0
+54405	http://www.davis.k12.ut.us/site/default.aspx?domainid=7528	Davis High School	2013.0	43.0
+54406	http://howardrdriggs.weebly.com	Howard R. Driggs Elementary School	2012.0	14.0
+54407	http://www.morgan.k12.ut.us/mges/mgesindex.html	Mountain Green Elementary School	2011.0	11.0
+54408	http://quailhollow.canyonsdistrict.org	Quail Hollow Elementary School	2009.0	266.0
+54409	http://bluffutah.org/	Bluff	2000.0	173.0
+54411	http://gae.wsd.net	Green Acres Elementary School	2013.0	382.0
+54412	http://www.dixiehigh.org	Dixie High School	2001.0	1.0
+54414	http://www.edgemont.provo.edu	Edgemont Elementary School	2003.0	14.0
+54415	http://www.millard.k12.ut.us/	Millard School District	1997.0	957.0
+54416	http://www.morgan-county.net/	morgan county	2001.0	325.0
+54417	http://www.hslic.state.ut.us	Licensing (Human Services)	1998.0	2.0
+54418	http://riverview.alpineschools.org	Riverview Elementary School	2012.0	35.0
+54419	http://richmond-utah.com/	Richmond	2007.0	52.0
+54420	http://ensign.slcschools.org/	Ensign Elementary School	2010.0	19.0
+54421	http://bvhs.garfk12.org	Bryce Valley High School	2013.0	37.0
+54422	http://www.venturelearning.org	Venture Academy	2007.0	5.0
+54424	http://www.spanishfork.org/	Spanish Fork	1998.0	1339.0
+54425	http://www.uvu.edu/concurrent/	Utah Valley University - Concurrent Enrollment	2008.0	29.0
+54426	http://www.emerycounty.com/	emery county	2000.0	354.0
+54427	http://www.wayne.k12.ut.us/loa.cfm	Loa Elementary School	0.0	250.0
+54428	http://www.davisdragons.net	Davis Elementary School	2008.0	25.0
+54429	http://www.sjsd.org/tse-bii-nidzisgai-elementary	Tse'bii'nidzisgai Elementary School	2012.0	297.0
+54430	http://www.davis.k12.ut.us/site/default.aspx?domainid=6832	Sunset Junior High School	0.0	39.0
+54431	https://www.juab.k12.ut.us/	Juab School District	1997.0	5013.0
+54432	http://www.canyongrove.com	Canyon Grove Academy	2001.0	19.0
+54433	http://www.garlandutah.org/	Garland	2010.0	66.0
+54434	http://www.valley.jordan.k12.ut.us	Valley High School	2000.0	6.0
+54436	http://tooele.usu.edu	Utah State University - Tooele Campus	2006.0	464.0
+54437	http://www.trhs.weber.k12.ut.us	Two Rivers High School	2006.0	136.0
+54438	http://www.tooelecity.org/tcl/library.html	Tooele City Public Library	2006.0	0.0
+54440	http://ashmanelementary.org	Ashman Elementary School	2011.0	196.0
+54441	http://www.slcpl.lib.ut.us/branches/view/anderson-foothill	Salt Lake City Public Library - Anderson-Foothill	2011.0	2.0
+54442	http://waldenschool.us/	Walden School of Liberal Arts	2005.0	46.0
+54444	http://www.carbonschools.org/bruinpoint.cfm	Bruin Point Elementary School	0.0	1759.0
+54445	http://altara.canyonsdistrict.org	Altara Elementary School	2009.0	514.0
+54446	http://continue.utah.edu/bountiful	University of Utah DCE Bountiful	2011.0	1792.0
+54447	http://www.davis.k12.ut.us/site/default.aspx?domainid=3082	Lincoln Elementary School	2013.0	26.0
+54448	http://www.davis.k12.ut.us/site/default.aspx?domainid=3000	Muir Elementary School	0.0	43.0
+54449	http://www.tax.utah.gov/	Tax Commission	2002.0	683.0
+54450	http://www.davis.k12.ut.us/site/default.aspx?domainid=6942	Syracuse Junior High School	2013.0	13.0
+54451	http://www.hawthornacademy.org/	Hawthorn Academy	2008.0	34.0
+54452	http://bes.garfk12.org	Boulder Elementary School	2012.0	2.0
+54453	http://bacchuselementary.weebly.com	Thomas W. Bacchus Elementary School	2011.0	4.0
+54454	http://tooeleschools.org/schools/elementaryschools/oes/pages/default.aspx	Overlake Elementary School	2013.0	28.0
+54455	http://www.wte.weber.k12.ut.us/	Washington Terrace Elementary School	1998.0	146.0
+54456	http://www.kane.k12.ut.us/	Kane School District	1999.0	151.0
+54457	http://www.udot.utah.gov/main/f?p=100:6:0::::V,T:,1	Transportation (Department of)	2010.0	1416.0
+54458	http://lincoln.slcschools.org/	Lincoln Elementary School	2010.0	12.0
+54459	http://www.screst.weber.k12.ut.us/	Snowcrest Junior High School	1998.0	584.0
+54460	http://www.ccsdut.org/riverheights.cfm	River Heights Elementary School	0.0	2480.0
+54461	http://www.davis.k12.ut.us/site/default.aspx?domainid=2278	Farmington Elementary School	0.0	89.0
+54462	http://hawthorne.slcschools.org/	Hawthorne Elementary School	2010.0	51.0
+54463	http://www.carbonschools.org/lighthousealternative.cfm	Lighthouse High School	0.0	1759.0
+54464	http://www.dcsd.org/duchesneelementary.cfm	Duchesne Elementary School	0.0	924.0
+54465	http://southpointe.jordandistrict.org	Southpointe Adult High	2010.0	23.0
+54467	http://www.davis.k12.ut.us/site/default.aspx?domainid=8420	Centennial Junior High	2013.0	64.0
+54468	http://northpoint.alpineschools.org/	North Point Elementary School	2012.0	27.0
+54469	http://www.argosy.edu/salt-lake-city-utah/default.aspx	Argosy University	2012.0	53.0
+54471	http://harvest.alpineschools.org/	Harvest Elementary School	2011.0	59.0
+54472	http://www.nsummit.org	North Summit School District	0.0	572.0
+54473	http://www.millard.k12.ut.us/schools/mhs/	Millard High School	1997.0	126.0
+54474	http://ogdenprep.org/	Ogden Preparatory Academy - Grades 7-10	2005.0	863.0
+54476	http://jordandistrict.org/	Jordan School District	2002.0	1127.0
+54477	http://indianhills.slcschools.org/	Indian Hills Elementary School	2010.0	62.0
+54478	http://www.tintic.k12.ut.us	Tintic School District	1998.0	8361.0
+54479	http://www.dcsd.org/tabionaschool.cfm	Tabiona Elementary School	0.0	945.0
+54480	https://moabcharterschool.org/	Moab Charter School	2008.0	0.0
+54481	http://his.washk12.org	Hurricane Intermediate School	2007.0	74.0
+54482	http://www.utah.gov/ltgovernor/	Lt. Governor's Office	2004.0	2.0
+54483	http://woodstock2012.weebly.com	Woodstock Elementary School	2012.0	6.0
+54484	http://greenriverutah.com/	Green River	2001.0	107.0
+54485	http://www.davis.k12.ut.us/site/default.aspx?domainid=3801	Creekside Elementary School	0.0	44.0
+54486	http://www.bountifulutah.gov	Bountiful	2004.0	106.0
+54487	http://bves.garfk12.org	Bryce Valley Elementary School	2012.0	10.0
+54488	http://www.northloganlibrary.org/	North Logan City Library	2005.0	71.0
+54489	http://www.lindoncity.org/	Lindon	2001.0	541.0
+54490	http://www.davis.k12.ut.us/site/default.aspx?domainid=7033	West Point Junior High	2013.0	45.0
+54492	http://ponyexpress.alpineschools.org	Pony Express Elementary	2012.0	42.0
+54493	http://www.wasatch.edu/domain/686	Old Mill Elementary School	2011.0	258.0
+54494	http://www.davis.k12.ut.us/site/default.aspx?domainid=1742	Cook Elementary School	0.0	45.0
+54495	http://www.davis.k12.ut.us/site/default.aspx?domainid=4975	Syracuse Elementary School	2013.0	47.0
+54496	http://cms.ironk12.org	Cedar Middle School	2008.0	83.0
+54497	http://www.slcolibrary.org/gl/glal/librarysmith.htm	Salt Lake County Library - Calvin S. Smith Library	2010.0	28.0
+54498	http://www.utah.gov/governor/	Governor's Office	2002.0	2.0
+54500	http://hillcrest.alpineschools.org	Hillcrest Elementary School	2012.0	61.0
+54501	http://www.kearns-utah.org/	Kearns	2001.0	362.0
+54502	http://carlsandburgelementary.weebly.com	Carl Sandburg Elementary School	2012.0	0.0
+54503	http://hillsideelementary.weebly.com	Hillside Elementary School	2012.0	0.0
+54504	http://www.ccsdut.org/sunrise.cfm	Sunrise Elementary School	0.0	2546.0
+54505	http://larsen.nebo.edu	Larsen Elementary School	2010.0	651.0
+54506	http://www.davis.k12.ut.us/site/default.aspx?domainid=3650	Windridge Elementary School	0.0	69.0
+54507	http://www.broadviewuniversity.edu	Broadview University	2010.0	939.0
+54508	http://www.datc.edu	Davis Applied Technology College	2007.0	406.0
+54510	http://www.clintoncity.net/	Clinton	2008.0	278.0
+54511	http://www.ue.weber.k12.ut.us	Uintah Elementary School	2001.0	96.0
+54512	http://franklin.slcschools.org/	Franklin Elementary School	2010.0	51.0
+54514	http://voyageacademyutah.org	Voyage Academy	2013.0	92.0
+54515	http://laketownutah.com/	Laketown	2010.0	13.0
+54517	http://deerfield.alpineschools.org/	Deerfield Elementary School	2012.0	56.0
+54518	http://tooeleschools.org/SitePages/Home.aspx	Tooele School District	2012.0	2.0
+54519	http://www.nucenter.org	Northeastern Utah Educational Services	2007.0	46.0
+54520	http://whittier.slcschools.org/	Whittier Elementary School	2010.0	82.0
+54521	http://www.sjr.weber.k12.ut.us/	South Ogden Junior High School	1998.0	194.0
+54522	http://www.riverdalecity.com/	Riverdale City	1999.0	149.0
+54523	http://www.plgrove.org/	Pleasant Grove	1998.0	1035.0
+54524	http://www.davis.k12.ut.us/site/default.aspx?domainid=2924	Morgan Elementary School	0.0	37.0
+54525	http://www.wasatch.edu/site/default.aspx?PageID=1	Wasatch School District	2011.0	72.0
+54526	http://segolily.alpineschools.org/	Sego Lily Elementary School	2012.0	42.0
+54527	http://www.slts.edu	Salt Lake Theological Seminary	2002.0	5.0
+54528	http://manila.alpineschools.org	Manila Elementary School	2012.0	34.0
+54529	http://www.davis.k12.ut.us/site/default.aspx?domainid=6497	North Davis Junior High School	2013.0	23.0
+54530	http://www.bems.besd.net	Box Elder Middle School	2009.0	35.0
+54531	http://www.davis.k12.ut.us/site/default.aspx?domainid=1903	Doxey Elementary School	0.0	76.0
+54532	http://www.wasatch.edu/domain/299	Midway Elementary School	2011.0	258.0
+54533	http://www.slcc.edu/locations/miller-campus.asp	Salt Lake Community College - Larry H Miller	0.0	25.0
+54534	http://fre.wsd.net	Freedom Elementary School	2013.0	127.0
+54535	http://pes.ironk12.org	Parowan Elementary School	2008.0	8.0
+54536	http://www.tintic.k12.ut.us/ees/	Eureka Elementary School	2012.0	5171.0
+54537	http://newman.slcschools.org/	Newman Elementary School	2010.0	53.0
+54538	http://careerpathhigh.org	Utah Career Path High School	2013.0	61.0
+54539	http://www.rivertoncity.com/	Riverton	2002.0	930.0
+54540	http://www.americanprep.org/home/index.php?option=com_content&view=article&id=225&itemid=271	American Preparatory Academy - Accelerated School	0.0	86.0
+54541	http://www.utah.edu/	University of Utah	1996.0	52.0
+54542	http://www.edline.net/pages/south_rich_elementary	South Rich Elementary School	0.0	22.0
+54543	http://suncrest.alpineschools.org	Suncrest Elementary School	2012.0	19.0
+54544	http://www.rjh.weber.k12.ut.us/	Roy Junior High School	1998.0	146.0
+54546	http://www.davis.k12.ut.us/site/default.aspx?domainid=3469	Orchard Elementary School	0.0	27.0
+54548	http://www.davis.k12.ut.us/site/default.aspx?domainid=2351	Fremont Elementary School	0.0	36.0
+54550	http://www.mje.weber.k12.ut.us	Majestic Elementary School	1999.0	92.0
+54551	http://highland.alpineschools.org	Highland Elementary School	2012.0	95.0
+54552	http://www.suu.edu/ed/graduate/masters.html	Southern Utah University - Masters of Education Program	2010.0	22.0
+54553	http://www.rockwellhigh.net	Rockwell Charter High School	2007.0	20.0
+54554	http://schools.jordandistrict.org/rivertonelem/	Riverton Elementary School	2007.0	34.0
+54555	http://www.townofalta.com/	Alta	2001.0	36.0
+54556	http://herrimanelementary.blogspot.com	Herriman Elementary School	2013.0	24.0
+54557	http://www.ccsdut.org/whitepine.cfm	White Pine Middle School	0.0	2497.0
+54558	http://www.escalante-cc.com/	Escalante	1997.0	199.0
+54559	http://www.washco.utah.gov/	dixie county	2006.0	327.0
+54560	http://www.webster.edu/hill/	Webster University	2009.0	26.0
+54561	https://insurance.utah.gov/	Insurance (Department of)	2001.0	151.0
+54562	http://www.pe.weber.k12.ut.us	Pioneer Elementary School	2002.0	20.0
+54563	http://www.slcolibrary.org/gl/glal/librarysandy.htm	Salt Lake County Library - Sandy Library	2010.0	28.0
+54564	http://www.davis.k12.ut.us/site/default.aspx?domainid=1451	H. C. Burton Elementary School	2013.0	42.0
+54565	http://res.washk12.org	Riverside Elementary School	2004.0	24.0
+54567	http://brightonhigh.canyonsdistrict.org	Brighton High School	2009.0	516.0
+54568	http://www.dcsd.org/duchesnehigh.cfm?subpage=1429737	Duchesne High School	0.0	923.0
+54569	http://www.vhs.kane.k12.ut.us	Valley High School	1998.0	35.0
+54570	http://oremjr.alpineschools.org	Orem Junior High School	2012.0	52.0
+54571	http://www.suu.edu	Southern Utah University	1998.0	749.0
+54572	http://ctec.canyonsdistrict.org	Canyons Technical Education Center	2010.0	486.0
+54573	http://www.blhs.ogden.k12.ut.us/	Ben Lomond High School	2001.0	5.0
+54574	http://techalliance.utah.gov	Utah Technology Council	2002.0	4.0
+54575	http://utah.gov/index.html	State Government	2001.0	6677.0
+54576	http://www.dcsd.org	Duchesne School District	0.0	1135.0
+54578	http://www.ephraimlibrary.org/	Ephraim Public Library	2008.0	20.0
+54579	http://orchardhills.nebo.edu	Orchard Hills Elementary School	2009.0	312.0
+54580	http://www.springville.org/library/	Springville Public Library	2012.0	142.0
+54581	http://www.westjordanmiddle.org	West Jordan Middle School	2011.0	31.0
+54582	http://www.ubatc.edu	Uintah Basin Applied Technology College	2007.0	160.0
+54583	http://www.pkes.ogden.k12.ut.us/	Polk Elementary School	2001.0	3.0
+54585	http://whs.wsd.net	Weber High School	2012.0	58.0
+54586	http://www.murraylibrary.org	Murray Public Library	2005.0	10.0
+54587	http://riley.slcschools.org/	Riley Elementary School	2010.0	6.0
+54588	http://www.ccsdut.org/park.cfm	Park Elementary School	0.0	2532.0
+54589	http://www.carbonschools.org/carbonhigh.cfm	Carbon High School	0.0	1809.0
+54590	http://kanab.utah.gov/	Kanab	2006.0	157.0
+54591	http://www.timpacademy.org	Timpanogos Academy	2001.0	3505.0
+54593	http://tooeleschools.org/schools/elementaryschools/spes/pages/default.aspx	Stansbury Park Elementary School	2013.0	12.0
+54594	http://www.emerycounty.com/towns/orangeville.htm	Orangeville	2002.0	4.0
+54595	http://www.davis.k12.ut.us/site/default.aspx?domainid=2684	J. A. Taylor Elementary School	0.0	17.0
+54596	http://midvale.canyonsdistrict.org	Midvale Elementary School	2009.0	266.0
+54598	http://www.hill.af.mil/	Hill Air Force Base	1996.0	1645.0
+54599	http://www.sjsd.org/whitehorse-high	Whitehorse High School	2012.0	389.0
+54600	http://www.hideoututah.gov/	Hideout	2011.0	36.0
+54601	http://www.millardk12.org/schools/des/	Delta Elementary School	2012.0	160.0
+54603	http://bridgerelementary.weebly.com	Bridger Elementary School	2013.0	120.0
+54604	http://shelley.alpineschools.org/	Shelley Elementary School	2011.0	122.0
+54605	http://www.emerycounty.com/castledale/castledale.htm	Castle Dale	2008.0	3.0
+54606	http://www.uintah.net/	Uintah School District	2001.0	264.0
+54607	http://www.parowanlibrary.org	Parowan Public Library	0.0	75.0
+54608	http://www.brms.besd.net	Bear River Middle School	2008.0	1.0
+54609	http://www.morgan.k12.ut.us/high/mhsindex.html	Morgan High School	2011.0	10.0
+54610	http://www.co.juab.ut.us/	juab county	1999.0	50.0
+54611	http://fhs.wsd.net	Fremont High School	2012.0	127.0
+54612	http://www.morgan.k12.ut.us/mms/	Morgan Middle School	2013.0	2.0
+54613	http://naturalresources.utah.gov/	Natural Resources (Department of)	2009.0	47.0
+54614	http://www.marysvale.org/	Marysvale	1998.0	38.0
+54615	http://ehs.washk12.org	Enterprise High School	2009.0	14.0
+54616	http://www.mlms.loganschools.org	Mount Logan Middle School	2010.0	1.0
+54617	http://www.tremontonlibrary.org	Tremonton City Library	2008.0	50.0
+54618	http://sagehills.alpineschools.org	Sage Hills Elementary School	2012.0	61.0
+54619	http://www.beaverutah.net/	Beaver	2000.0	47.0
+54621	http://snowsprings.alpineschools.org/	Snow Springs Elementary School	2011.0	40.0
+54622	http://www.davis.k12.ut.us/site/default.aspx?domainid=6714	South Davis Junior High School	2013.0	41.0
+54623	http://attorneygeneral.utah.gov	Attorney General	2001.0	163.0
+54624	http://www.slcpl.org	Salt Lake City Public Library	2008.0	429.0
+54625	http://pms.garfk12.org	Panguitch Middle School	2012.0	11.0
+54626	http://www.draper.ut.us/	Draper	1998.0	1201.0
+54627	http://mlatc.edu/	Mountainland Applied Technology College	2006.0	747.0
+54629	http://alpineschools.org	Alpine School District	2011.0	2964.0
+54630	http://park.nebo.edu	Park Elementary School	2009.0	389.0
+54631	http://www.health.utah.gov/	Health (Department of)	2001.0	82.0
+54632	http://www.fhms.jordan.k12.ut.us	Fort Herriman Middle School	2006.0	1.0
+54634	http://www.cityofhurricane.com/	Hurricane	2004.0	126.0
+54635	http://westhills.jordandistrict.org/	West Hills Middle School	2013.0	135.0
+54637	http://www.nebo.edu/landmark/	Landmark High School	2001.0	221.0
+54638	http://www.davis.k12.ut.us/site/default.aspx?domainid=5721	Valley View Elementary School	2013.0	36.0
+54639	http://www.tintic.k12.ut.us/wdhs/	West Desert High School	2012.0	5361.0
+54640	http://www.piute.k12.ut.us	Piute School District	1998.0	245.0
+54642	http://hinckleytown.org/	Hinckley	2011.0	12.0
+54644	http://cherrycreek.nebo.edu/	Cherry Creek Elementary School	2009.0	708.0
+54645	http://pchs.pcschools.us	Park City High School	2004.0	377.0
+54646	http://oakdale.canyonsdistrict.org	Oakdale Elementary School	2009.0	287.0
+54647	http://schools.jordandistrict.org/southland/	Southland Elementary School	2008.0	19.0
+54648	http://www.behs.besd.net/	Box Elder High School	2004.0	65.0
+54649	http://www.slcolibrary.org/gl/glal/libraryriverton.htm	Salt Lake County Library - Riverton Library	2010.0	28.0
+54650	http://www.murray.utah.gov/	Murray	2003.0	893.0
+54651	http://www.boxeldercounty.org/	boxelder county	2001.0	771.0
+54653	http://dilworth.slcschools.org/	Dilworth Elementary School	2010.0	64.0
+54655	http://www.carbonschools.org/sallymauro.cfm	Sally Mauro Elementary School	0.0	1760.0
+54656	http://www.mhe.weber.k12.ut.us	Marlon Hills Elementary School	2001.0	226.0
+54657	http://westside.nebo.edu	Westside Elementary School	2010.0	763.0
+54658	http://www.slcpl.lib.ut.us/branches/view/chapman	Salt Lake City Public Library - Chapman	2011.0	2.0
+54659	http://www.richcountyut.org/	rich county	2005.0	39.0
+54660	http://www.fossilschool.org	Fossil Ridge Intermediate School	2008.0	5.0
+54661	http://tooeleschools.org/schools/secondaryschools/whs/pages/default.aspx	Wendover High School	2013.0	27.0
+54663	http://mountaintrails.alpineschools.org/	Mountain Trails Elementary School	2012.0	23.0
+54664	http://hydepark.utahlinks.org/	Hyde Park	2010.0	14.0
+54665	http://ehms.pcschools.us	Ecker Hill Middle School	2004.0	246.0
+54666	http://www.vve.weber.k12.ut.us	Valley View Elementary School	2002.0	653.0
+54667	http://schools.jordandistrict.org/mvista/	Monte Vista Elementary School	2009.0	164.0
+54668	http://www.emerycsd.org/huntington.cfm	Huntington Elementary School	0.0	14896.0
+54669	http://www.castlevalleyutah.com/	Castle Valley	2006.0	38.0
+54670	http://jimbridgerelementary.weebly.com	Jim Bridger Elementary School	2012.0	0.0
+54671	http://www.royutah.org/	Roy City	2002.0	94.0
+54672	http://highlandpark.slcschools.org/	Highland Park Elementary School	2010.0	42.0
+54673	http://www.uintahhigh.net	Uintah High School	2011.0	401.0
+54674	http://www.binghamminers.org/	Bingham High School	2006.0	881.0
+54676	http://barnett.nebo.edu/	Barnett Elementary School	2009.0	725.0
+54677	http://www.weberpl.lib.ut.us/	Weber County Library	1998.0	2861.0
+54678	http://silvermesa.canyonsdistrict.org	Silver Mesa Elementary School	2009.0	152.0
+54679	http://www.ccsdut.org/cachehigh.cfm	Cache Alternative High School	0.0	2418.0
+54680	http://www.davis.k12.ut.us/site/default.aspx?domainid=8066	Mountain High School	0.0	53.0
+54681	http://library.washco.utah.gov/santa-clara/	Washington County Library - Santa Clara Branch	2006.0	8.0
+54682	http://willowcreek.alpineschools.org	Willowcreek Middle School	2012.0	148.0
+54683	http://www.lincoln-academy.org/	Lincoln Academy	2005.0	1.0
+54684	http://www.cyprushigh.org	Cyprus High School	2010.0	1.0
+54686	http://www.uvu.edu/wasatch/	Utah Valley University - Wasatch Campus	2008.0	23.0
+54687	http://www.murrayschools.org/schools2/mcm/mcm.htm	McMillan Elementary School	2012.0	21.0
+54689	http://mosselementary.weebly.com	James E. Moss Elementary School	2011.0	4.0
+54690	http://www.ccsdut.org/birchcreek.cfm	Birch Creek Elementary School	0.0	2285.0
+54691	http://www.circlevilleutah.org/	Circleville	2010.0	26.0
+54692	http://www.stevenshenager.edu/	Stevens-Henager College	0.0	447.0
+54693	http://www.murrayschools.org	Murray School District	2004.0	291.0
+54695	http://tooeleschools.org/schools/elementaryschools/rses/pages/default.aspx	Rose Springs Elementary School	2012.0	8.0
+54696	http://www.daggettcounty.org/	daggett county	2004.0	848.0
+54697	http://www.ellis.logan.k12.ut.us	Ellis Elementary School	1999.0	15.0
+54698	http://escalantevalley.org	Escalante Valley Elementary School	2012.0	20.0
+54699	http://horizonte.slc.k12.ut.us/	Horizonte Instruction and Training Center	2002.0	0.0
+54700	http://www.deq.utah.gov/	Environmental Quality (Department of)	2002.0	760.0
+54701	https://insurance.utah.gov/agent/producers/exam/index.php	Individual/Agency Licensing	2013.0	7.0
+54702	http://site.infowest.com/personal/r/rockville/	Rockville	2010.0	9.0
+54703	http://www.dcsd.org/altamonthigh.cfm?subpage=436212	Altamont High School	0.0	1207.0
+54704	http://www.panguitch.org/	Panguitch	2002.0	26934.0
+54705	http://www.ssummit.org/highschool.cfm	South Summit High School	0.0	625.0
+54707	http://www.davis.k12.ut.us/site/default.aspx?domainid=6268	Kaysville Junior High School	2013.0	50.0
+54708	http://www.gunnisoncity.org/library.htm	Gunnison Civic Library	2003.0	200.0
+54709	http://sces.washk12.org/	Santa Clara Elementary School	2006.0	51.0
+54710	http://www.swatc.edu	Southwest Applied Technology College	2009.0	130.0
+54711	http://viewmont.schoolfusion.us	Viewmont Elementary School	2008.0	2138.0
+54712	http://salem.nebo.edu/	Salem Elementary School	2012.0	316.0
+54713	http://schools.jordandistrict.org/jridge/	Jordan Ridge Elementary School	2008.0	30.0
+54714	http://navigatorpointeacademy.org/	Navigator Pointe Academy	2005.0	125.0
+54715	http://www.mojhs.ogdensd.org	Mount Ogden Junior High School	2008.0	5.0
+54718	http://www.reaganacademy.org/modules/home/home.aspx	Reagan Academy	2009.0	0.0
+54719	http://www.davis.k12.ut.us/site/default.aspx?domainid=7166	Legacy Junior High School	2013.0	59.0
+54720	http://www.discoveryfoxes.net	Discovery Elementary	2009.0	69.0
+54721	http://www.roe.weber.k12.ut.us/	Roosevelt Elementary School	1998.0	125.0
+54722	http://eaglecrest.alpineschools.org	Eaglecrest Elementary School	2012.0	28.0
+54724	http://ridgeline.alpineschools.org/	Ridgeline Elementary School	2012.0	35.0
+54725	http://www.slcolibrary.org/gl/glal/librarybinghamcreek.htm	Salt Lake County Library - Bingham Creek Library	2010.0	28.0
+54726	http://wsd.net	Weber School District	1998.0	1036.0
+54727	http://www.edline.net/pages/manila_high	Manila High School	0.0	2.0
+54728	http://www.napleselementary.net	Naples Elementary School	2010.0	13.0
+54729	http://www.saratogaspringscity.com/	Saratoga Springs	2007.0	1551.0
+54730	http://www.davis.k12.ut.us/site/default.aspx?domainid=4347	Heritage Elementary School	0.0	40.0
+54731	http://slcse.slcschools.org	Salt Lake Center for Science Education	2010.0	51.0
+54732	http://www.elkridgecity.org/	Elk Ridge	2004.0	154.0
+54733	http://north.ironk12.org/	Cedar North Elementary School	2008.0	44.0
+54734	http://schools.graniteschools.org/hunterhigh//	Hunter High School	2013.0	1422.0
+54736	http://vistaheights.alpineschools.org	Vista Heights Middle School	2012.0	68.0
+54737	http://www.slcolibrary.org/gl/glal/librarydraper.htm	Salt Lake County Library - Draper Library	2010.0	28.0
+54738	http://uintahlibrary.org/	Uintah County Library	2012.0	195.0
+54739	http://schools.jordandistrict.org/joelpjensen/	Joel P. Jensen Middle School	2008.0	0.0
+54741	http://www.mendonutah.net/	Mendon	2007.0	9.0
+54742	http://www.woodscross.com/	Woods Cross	1998.0	147.0
+54743	http://3peaks.ironk12.org	Three Peaks Elementary School	2008.0	9.0
+54744	http://eastsandy.canyonsdistrict.org	East Sandy Elementary School	2009.0	383.0
+54745	http://www.emerycsd.org/sanrafael.cfm	San Rafael Junior High School	0.0	14929.0
+54747	http://cottonwoodheights.utah.gov/	Cottonwood Heights	2005.0	1694.0
+54748	http://copperview.canyonsdistrict.org	Copperview Elementary School	2009.0	319.0
+54749	http://kane.utah.gov/	kane county	2006.0	224.0
+54751	http://www.davis.k12.ut.us/site/default.aspx?domainid=4235	South Clearfield Elementary School	0.0	38.0
+54752	http://www.herrimanhigh.org	Herriman High School	2010.0	1.0
+54753	http://sajhs.nebo.edu/	Salem Jr. High	2012.0	212.0
+54754	http://www.westminstercollege.edu/undergraduate_education/index.cfm?parent=242	Westminster College - Elementary Education - Preservice	2007.0	30.0
+54755	http://easthollywood.org/	East Hollywood High	2004.0	31.0
+54756	http://www.independence.edu/salt-lake-city	Independence University	0.0	0.0
+54757	http://murrayhighinformation.webs.com/	Murray High School	2012.0	99.0
+54758	http://dhms.washk12.org	Desert Hills Middle School	2007.0	20.0
+54759	http://www.hhs.wash.k12.ut.us/	Hurricane High School	1999.0	1064.0
+54760	http://west.slcschools.org/	West High School	2010.0	78.0
+54761	http://saltlakebiblecollege.org	Salt Lake Bible College	2008.0	117.0
+54762	https://www.juab.k12.ut.us/index.php?option=com_content&view=category&layout=blog&id=2&itemid=3	Juab High School	0.0	5056.0
+54763	http://aes.garfk12.org	Antimony Elementary School	2012.0	13.0
+54764	http://www.perrycity.org/	Perry	2008.0	97.0
+54765	http://lhs.alpineschools.org/	Lehi High School	2011.0	58.0
+54766	http://phs.garfk12.org	Panguitch High School	2012.0	33.0
+54768	http://www.smithfieldcity.org/library.main.html	Smithfield Library	2005.0	1294.0
+54769	http://phs.ironk12.org	Parowan High School	2008.0	21.0
+54770	http://www.bnes.ogden.k12.ut.us/	Bonneville Elementary School	2001.0	5.0
+54771	http://www.bluffdale.com/control.php	Bluffdale	2013.0	104.0
+54772	http://www.npe.weber.k12.ut.us	North Park Elementary School	2001.0	42.0
+54773	http://www.lakeview-academy.com/	Lakeview Academy	2006.0	357.0
+54774	http://www.wgu.edu	Western Governor's University	2004.0	1023.0
+54775	http://www.slcgov.com/	Salt Lake City	2000.0	1122.0
+54776	http://bookmobiles.utah.gov/cache/index.html	Rich County Bookmobile Library	2008.0	7.0
+54778	http://www.southsaltlakecity.com/	South Salt Lake	2001.0	283.0
+54779	http://www.wxhighschool.com	Woods Cross High School	2011.0	548.0
+54781	https://www.juab.k12.ut.us/index.php?option=com_content&view=category&layout=blog&id=24&itemid=18	Red Cliffs Elementary School	0.0	5140.0
+54782	http://south.ironk12.org	Cedar South Elementary School	2008.0	19.0
+54783	http://www.psc.utah.gov/	Public Service Commission	2002.0	1618.0
+54784	http://tooeleschools.org/schools/elementaryschools/nles/pages/default.aspx	Northlake Elementary School	2013.0	9.0
+54785	http://eastmontmiddle.canyonsdistrict.org/	Eastmont Middle School	2009.0	764.0
+54786	http://www.odes.ogden.k12.ut.us/	Odyssey Elementary School	2007.0	5.0
+54787	http://www.fielding.besd.net	Fielding Elementary School	2011.0	57.0
+54788	https://www.ssanpete.org/index.php?option=com_content&view=category&layout=blog&id=68&itemid=17	Manti Elementary School	0.0	592.0
+54789	http://schools.jordandistrict.org/riverside/	Riverside Elementary School	2007.0	10.0
+54790	http://www.ihs.provo.edu	Independence High School	2004.0	21.0
+54791	http://lakeridgecougars.weebly.com	Lake Ridge Elementary School	2011.0	16.0
+54792	http://www.amalgatown.com/	Amalga	2011.0	22.0
+54793	http://www.ames-slc.org/	Academy for Math, Engineering & Science	2003.0	23.0
+54794	http://www.mountainheightsacademy.org	Mountain Heights Academy	2013.0	135.0
+54795	http://www.naplescityut.gov/	Naples City	2008.0	859.0
+54796	http://hyrumcity.org/	Hyrum	2008.0	104.0
+54798	http://mountainridge.alpineschools.org	Mountain Ridge Junior High School	2012.0	31.0
+54799	http://cedarridge.alpineschools.org	Cedar Ridge Elementary School	2012.0	27.0
+54800	http://westkearns.weebly.com	West Kearns Elementary School	2013.0	4.0
+54801	https://www.ssanpete.org/	South Sanpete School District	2011.0	1478.0
+54802	http://www.ccis.edu/nationwide/main.asp?saltlake	Columbia College	2004.0	6667.0
+54804	http://www.garlandlibrary.org/	Garland Public Library	2008.0	173.0
+54805	http://www.davis.k12.ut.us/site/default.aspx?domainid=1029	Adelaide Elementary School	0.0	42.0
+54806	http://www.ccsdut.org/wellsville.cfm	Wellsville Elementary School	0.0	2472.0
+54807	http://bhes.washk12.org	Bloomington Hills Elementary School	2008.0	22.0
+54808	http://www.davis.k12.ut.us/site/default.aspx?domainid=2430	Holbrook Elementary School	2013.0	44.0
+54810	http://schools.jordandistrict.org/foothills/	Foothills Elementary School	2006.0	29.0
+54811	http://www.utcourts.gov/courts/sup/	Utah Supreme Court	2003.0	16.0
+54812	http://northstar.slcschools.org/	North Star Elementary School	2010.0	67.0
+54813	http://www.brianheadtown.utah.gov/	Brian Head	2004.0	40.0
+54814	http://schools.jordandistrict.org/wjes/	West Jordan Elementary School	2009.0	21.0
+54815	http://artcity.nebo.edu/	Art City Elementary School	2009.0	884.0
+54816	http://www.morgancityut.com/	Morgan City	2007.0	14.0
+54818	https://www.ssanpete.org/index.php?option=com_content&view=category&layout=blog&id=94&itemid=16	Gunnison Valley Middle School	0.0	585.0
+54819	http://hobblecreek.nebo.edu	Hobble Creek Elementary	2009.0	470.0
+54820	http://www.slcolibrary.org/gl/glal/libraryalta.htm	Salt Lake County Library - Alta Reading Room	2010.0	28.0
+54821	http://www.tatc.edu/	Tooele Applied Technology College	2009.0	210.0
+54823	http://www.rooseveltcity.com/	Roosevelt	2001.0	191.0
+54824	https://www.ssanpete.org/index.php?option=com_content&view=category&layout=blog&id=75&itemid=14	Ephraim Middle School	0.0	585.0
+54825	http://www.davis.k12.ut.us/site/default.aspx?domainid=3741	Reading Elementary School	2013.0	36.0
+54826	http://mnjhs.nebo.edu/	Mt. Nebo Junior High	2011.0	287.0
+54827	http://dses.washk12.org/	Dixie Sun Elementary School	2009.0	31.0
+54828	http://www.uintah.net/schools/maeser%20elementary/maeserindex.html	Maeser Elementary School	2010.0	6.0
+54829	http://www.foothill.besd.net	Foothill Elementary School	2010.0	14.0
+54830	http://elkrun.weebly.com	Elk Run Elementary School	2012.0	3.0
+54831	http://www.sanjuancounty.org/	san juan county	1998.0	1947.0
+54832	https://www.ssanpete.org/index.php?option=com_content&view=category&layout=blog&id=61&itemid=15	Gunnison Valley Elementary School	0.0	587.0
+54833	http://rde.wsd.net	Riverdale Elementary School	2013.0	463.0
+54834	http://www.davis.k12.ut.us/site/default.aspx?domainid=4878	Foxboro Elementary School	2013.0	46.0
+54837	http://www.brhs.besd.net/	Bear River High School	2005.0	51.0
+54838	http://www.davis.k12.ut.us/site/default.aspx?domainid=2004	East Layton Elementary School	0.0	42.0
+54839	http://www.herriman.org/	Herriman	2002.0	270.0
+54840	http://www.nephi.utah.gov	Nephi Public Library	2008.0	42.0
+54841	http://www.wasatchinstitute.net	Wasatch Institute of Technology	2012.0	31.0
+54842	http://alpine.alpineschools.org	Alpine Elementary School	2012.0	41.0
+54843	http://www.manilautah.com/	Manila	2009.0	136.0
+54844	http://www.elwoodtown.com/	Elwood	2008.0	159.0
+54846	http://beaconheights.slcschools.org/	Beacon Heights Elementary School	2010.0	120.0
+54847	http://www.davis.k12.ut.us/site/default.aspx?domainid=5363	West Clinton Elementary School	0.0	19.0
+54848	http://valleycrest.weebly.com	Valley Crest Elementary School	2013.0	26.0
+54849	http://www.davis.k12.ut.us/site/default.aspx?domainid=4081	Mountain View Elementary School	0.0	45.0
+54850	http://www.morgan.k12.ut.us/elementary/index.html	Morgan Elementary School	2003.0	17.0
+54851	http://www.slcolibrary.org/gl/glal/libraryherriman.htm	Salt Lake County Library - Herriman Library	2010.0	28.0
+54852	http://www.americanprep.org/home/index.php?option=com_content&view=article&id=386&Itemid=357	Liberty Academy	0.0	95.0
+54854	http://www.slcc.edu/locations/iaa-education-center.aspx	Salt Lake Community College - Aerospace/Aviation Education Center	2012.0	24.0
+54855	http://www.ssummit.org/middleschool.cfm	South Summit Middle School	0.0	745.0
+54856	http://www.monticelloacademy.net/	Monticello Academy	2006.0	0.0
+54857	http://www1.daviscountyutah.gov:8080/library/	Davis County Library - Northwest Branch (Syracuse)	2013.0	1.0
+54858	http://pahvantelementary.org	Pahvant Elementary School	2011.0	239.0
+54859	http://www.moablibrary.org	Grand County Public Library	2008.0	773.0
+54860	http://www.davis.k12.ut.us/site/default.aspx?domainid=3223	Layton Elementary School	0.0	78.0
+54861	http://foothill.alpineschools.org	Foothill Elementary School	2012.0	16.0
+54862	http://www.westminstercollege.edu/education/	Westminster College - Secondary Education - Preservice	2002.0	9.0
+54863	http://brookwood.canyonsdistrict.org	Brookwood Elementary School	2009.0	320.0
+54864	http://www.davis.k12.ut.us/site/default.aspx?domainid=5213	Washington Elementary School	0.0	52.0
+54865	http://www.slcc.edu/	Salt Lake Community College:	1997.0	2488.0
+54866	https://www.ssanpete.org/index.php?option=com_content&view=category&layout=blog&id=115&itemid=3	Manti High School	0.0	881.0
+54867	http://www.garfk12.org	Garfield School District	2012.0	613.0
+54869	http://www.connectionsacademy.com/utah-online-school/home.aspx	Utah Connections Academy	2013.0	135.0
+54870	http://www.loganschools.org/northcampus.html	Logan High School - North Campus	2011.0	74.0
+54871	http://magna.entheosacademy.org/	Entheos Academy - Magna	0.0	9.0
+54872	http://www.uintahcity.com/	Uinta City	2007.0	261.0
+54873	http://www.davis.k12.ut.us/site/default.aspx?domainid=8198	Layton High School	2013.0	32.0
+54874	http://www.smithfieldcity.org/	Smithfield	2001.0	1021.0
+54875	http://www.taylorsvilleut.gov/	Taylorsville	2004.0	2169.0
+54876	http://www.utahsbr.edu/	Board of Regents	1997.0	1.0
+54877	http://www.millard.k12.ut.us/schools/fms/	Fillmore Middle School	1997.0	51.0
+54878	http://tooeleschools.org/schools/secondaryschools/gjhs/pages/default.aspx	Grantsville Junior High School	2013.0	7.0
+54879	http://huntsvilletown.com/	Huntsville Town	2003.0	131.0
+54880	https://sites.google.com/site/whittierschool/	Whittier Elementary School	0.0	2.0
+54882	http://www.toes.ogden.k12.ut.us/	Thomas O. Smith Elementary School	2002.0	5.0
+54883	http://www.k12.com/utva	Utah Virtual Academy	2008.0	540.0
+54884	http://www.carbonschools.org/creekview.cfm	Creekview Elementary School	0.0	2009.0
+54885	http://clayton.slcschools.org/	Clayton Middle School	2010.0	122.0
+54887	http://www.graniteschools.org/schoolsites/elementary/wilson/pages/default.aspx	Woodrow Wilson Elementary School	2013.0	0.0
+54888	http://phs.nebo.edu	Payson High School	2010.0	1065.0
+54890	http://schools.jordandistrict.org/westland/	Westland Elementary School	2006.0	20.0
+54891	http://www.graniteschools.org/ss/success/	Success School/Special Purpose School for Probation Students	2006.0	1.0
+54892	http://brookside.nebo.edu	Brookside Elementary School	2011.0	285.0
+54893	http://cces.washk12.org/	Coral Cliffs Elementary School	2004.0	23.0
+54894	http://www.hge.weber.k12.ut.us/	H. Guy Child Elementary School	2000.0	31.0
+54897	http://sandy.utah.gov/	Sandy	2004.0	639.0
+54898	http://foxhillselementary.weebly.com	Fox Hills Elementary School	2013.0	18.0
+54899	http://abc.utah.gov/	Alcoholic Beverage Control (Department of)	2003.0	20.0
+54900	http://www.davis.k12.ut.us/site/default.aspx?domainid=5435	West Point Elementary School	0.0	41.0
+54901	http://2summit.org	Summit Academy - Junior High	2006.0	908.0
+54903	http://www.le.utah.gov/house2/index.html	House	2011.0	2.0
+54904	http://schools.graniteschools.org/redwood/	Redwood Elementary School	2014.0	1076.0
+54905	http://www.mhs.beaver.k12.ut.us/	Milford High School	2009.0	1661.0
+54907	http://www.fillmorelibrary.org	President Millard Fillmore Library	2003.0	21.0
+54908	http://lonepeak.canyonsdistrict.org	Lone Peak Elementary School	2009.0	435.0
+54909	http://www.carbonschools.org	Carbon School District	0.0	2011.0
+54910	http://www.vistautah.com	Vista at Entrada, School of Performing Arts & Technology	2009.0	98.0
+54913	http://www.davis.k12.ut.us/site/default.aspx?domainid=6629	Mueller Park Junior High School	2013.0	49.0
+54914	http://mantiutah.org/	Manti	2010.0	27.0
+54915	http://sanpete.com/	sanpete county	1999.0	925.0
+54917	http://www.northpark.besd.net	North Park Elementary School	2009.0	13.0
+54918	http://hms.washk12.org	Hurricane Middle School	2011.0	16.0
+54919	http://www.charlestonutah.org/	Charleston	2009.0	94.0
+54920	http://www.davis.k12.ut.us/site/default.aspx?domainid=1206	Boulton Elementary School	2013.0	13.0
+54921	http://www.suu.edu/ed/tehd/secondary.html	Southern Utah University - Secondary Education - Preservice	2008.0	2.0
+54922	http://www.willard.besd.net	Willard Elementary School	2008.0	10.0
+54923	http://www.he.weber.k12.ut.us	Hooper Elementary School	1998.0	653.0
+54924	http://www.emerycsd.org/	Emery School District	0.0	16002.0
+54925	http://www.slcc.edu/locations/jordan-campus.aspx	Salt Lake Community College - Jordan Campus	2012.0	24.0
+54926	http://taylorsvilletigers.weebly.com	Taylorsville Elementary School	2011.0	21.0
+54927	http://ths.alpineschools.org	Timpanogos High School	2012.0	44.0
+54928	http://www.davis.k12.ut.us/site/default.aspx?domainid=1109	Antelope Elementary School	0.0	38.0
+54929	http://www.ccsdut.org/skyviewhigh.cfm	Sky View High School	0.0	2949.0
+54930	http://www.cedarcity.org	Cedar City	1996.0	422.0
+54931	http://scerapark.alpineschools.org	Scera Park Elementary School	2012.0	71.0
+54932	http://www.brcs-logan.org	Bear River Charter School	2012.0	29.0
+54933	http://wilson.nebo.edu/	Wilson Elementary School	2011.0	338.0
+54934	http://www.monroecitycorp.com/	Monroe City	2012.0	356.0
+54935	http://www.phs.provo.edu	Provo High School	2003.0	224.0
+54936	http://afhs.alpineschools.org	American Fork High School	2011.0	98.0
+54937	http://granite.canyonsdistrict.org	Granite Elementary School	2009.0	190.0
+54938	http://chs.ironk12.org	Cedar City High School	2008.0	266.0
+54939	http://www.kes.kane.k12.ut.us	Kanab Elementary School	2002.0	25.0
+54941	http://www.tooelecity.org/	Tooele	1999.0	849.0
+54942	http://www.davis.k12.ut.us/site/default.aspx?domainid=1678	Parkside Elementary School	0.0	35.0
+54944	http://www.duchesnegov.net	duchesne county	1999.0	2581.0
+54946	http://www.stansburyhigh.org	Stansbury High School	2009.0	2.0
+54947	http://emerson.slcschools.org/	Emerson Elementary School	2010.0	49.0
+54948	http://pjhs.nebo.edu	Payson Junior High School	2009.0	230.0
+54949	http://tses.pcschools.us	Trailside Elementary School	2004.0	236.0
+54951	http://butterfieldcanyon.blogspot.com	Butterfield Canyon Elementary School	2011.0	210.0
+54952	http://afcity.org/	American Fork	2001.0	453.0
+54953	http://foothills.nebo.edu	Foothills Elementary School	2009.0	524.0
+54954	http://minersvillelibrary.com/index.htm	Minersville Public Library	2008.0	1.0
+54956	http://www.townoftropicut.gov	Tropic	2011.0	214.0
+54957	http://www.davis.k12.ut.us/site/default.aspx?domainid=936	Adams Elementary School	0.0	42.0
+54958	http://www.vineyard.utah.gov	Vineyard	2006.0	422.0
+54959	http://westbountiful.utah.gov/	West Bountiful	2007.0	207.0
+54960	http://www.syracuseut.com/	Syracuse	2000.0	124.0
+54961	http://schools.jordandistrict.org/midascreek/	Midas Creek Elementary School	2009.0	21.0
+54962	http://www.mysoldierhollow.com/	Soldier Hollow School	2013.0	197.0
+54963	http://parkview.slcschools.org/	Parkview Elementary School	2010.0	20.0
+54964	http://central.alpineschools.org/	Central Elementary School	2011.0	36.0
+54965	http://www.davis.k12.ut.us/site/default.aspx?domainid=3401	Oak Hills Elementary School	2013.0	38.0
+54966	http://www.loganschools.org	Logan School District	2009.0	34.0
+54967	http://tooeleschools.org/schools/elementaryschools/ves/pages/default.aspx	Vernon Elementary School	0.0	6.0
+54968	http://www.whe.weber.k12.ut.us/	West Haven Elementary School	2005.0	22.0
+54972	http://hillside.slcschools.org/	Hillside Middle School	2010.0	41.0
+54973	http://hes.washk12.org	Hurricane Elementary School	2004.0	24.0
+54974	http://millcreekelementary.weebly.com	Mill Creek Elementary School	2012.0	28.0
+54975	http://www.davis.k12.ut.us/site/default.aspx?domainid=6376	Millcreek Junior High School	2013.0	36.0
+54976	http://dms.washk12.org	Dixie Middle School	2010.0	30.0
+54977	http://blogs.hmcharterschool.org/	HighMark Charter School	2013.0	921.0
+54978	http://saltlakebaptistcollege.org	Salt Lake Baptist College	2001.0	16.0
+54979	http://www.scwarrior.net	Snow Canyon High School	2008.0	62.0
+54980	http://liberty.murrayschools.schoolfusion.us/	Liberty Elementary School	2010.0	1578.0
+54981	http://tooeleschools.org/schools/elementaryschools/wies/pages/default.aspx	Willow Elementary School	2012.0	7.0
+54982	http://www.wayne.k12.ut.us/waynemiddle.cfm	Wayne Middle School	0.0	275.0
+54984	http://heritage.washk12.org	Heritage Elementary School	2009.0	51.0
+54985	http://www.cityofholladay.com/	Holladay	2000.0	2607.0
+54986	http://mtloafer.nebo.edu	Mt. Loafer Elementary School	1998.0	730.0
+54987	http://www.uintah.net/schools/ashley%20elementary/ashleyindex.html	Ashley Elementary School	2010.0	8.0
+54988	http://greenwood.alpineschools.org	Greenwood Elementary School	2011.0	15.0
+54989	http://wsdpc.org	Weilenmann School of Discovery	2009.0	155.0
+54991	http://tooeleschools.org/schools/elementaryschools/ees/pages/default.aspx	East Elementary School	2013.0	11.0
+54992	http://lindon.alpineschools.org	Lindon Elementary School	2012.0	31.0
+54993	http://www.carbonschools.org/montharmon.cfm	Mont Harmon Junior High School	0.0	2089.0
+54994	http://orchard.alpineschools.org	Orchard Elementary School	2012.0	26.0
+54995	http://hiddenhollow.alpineschools.org/	Hidden Hollow Elementary School	2011.0	22.0
+54996	http://mjhs.nebo.edu	Mapleton Junior High School	2009.0	602.0
+54997	http://canyonview.alpineschools.org	Canyon View Junior High School	2011.0	58.0
+54998	http://www.townofdeweyville.org/	Deweyville	2011.0	225.0
+54999	http://www.co.wasatch.ut.us/	wasatch county	2000.0	305.0
+55000	http://ridgecrest.canyonsdistrict.org	Ridgecrest Elementary School	2009.0	115.0
+55001	http://bennion.slcschools.org/	M. Lynn Bennion Elementary School	2010.0	19.0
+55002	http://www.woodruff.loganschools.org/web/	Woodruff Elementary School	2012.0	18.0
+55003	http://www.dcsd.org/kingspeakes.cfm	Kings Peak Elementary School	0.0	950.0
+55004	http://www.oremlibrary.org	Orem Public Library	2002.0	920.0
+55005	http://beehiveelementary.weebly.com	Beehive Elementary School	2012.0	3.0
+55006	http://www.edline.net/pages/rich_high_school	Rich High School	0.0	10.0
+55007	http://www.meritacademy.org	Merit College Preparatory Academy	2001.0	476.0
+55008	http://www.gmes.ogden.k12.ut.us/	Gramercy Elementary School	2003.0	4.0
+55009	http://washingtonterracecity.com/	Washington Terrace	2009.0	348.0
+55010	http://www.davis.k12.ut.us/site/default.aspx?domainid=724	North Layton Junior High School	0.0	44.0
+55011	http://vistaelementary.weebly.com	Vista Elementary School	2013.0	14.0
+55012	http://www.carbonschools.org/castleheights.cfm	Castle Heights Elementary School	0.0	1984.0
+55013	http://www.davis.k12.ut.us/site/default.aspx?domainid=4600	Sand Springs Elementary School	2013.0	34.0
+55014	http://www.davis.k12.ut.us/site/default.aspx?domainid=1821	Crestview Elementary School	0.0	59.0
+55015	http://arcadiaelementary.weebly.com	Arcadia Elementary School	2011.0	21.0
+55016	https://teal.usu.edu/htm/undergraduate-programs/eled	Utah State University - Elementary Education - Preservice	2010.0	85.0
+55017	http://www.nebo.edu/dfjhs/	Diamond Fork Junior High	2007.0	365.0
+55019	http://www.uintahriver.org	Uintah River High School	2011.0	8.0
+55020	http://schools.jordandistrict.org/coppercanyon/	Copper Canyon Elementary	2008.0	22.0
+55022	http://www.mes.beaver.k12.ut.us/	Milford Elementary School	2009.0	42.0
+55023	http://sandy.canyonsdistrict.org	Sandy Elementary School	2009.0	327.0
+55025	http://lehi.alpineschools.org/	Lehi Elementary School	2012.0	63.0
+55026	http://www.kaysvillecity.com/	Kaysville	1997.0	816.0
+55027	http://www.graniteschools.org/el/smith/	Calvin S. Smith Elementary School	2006.0	0.0
+55028	https://www.juab.k12.ut.us/index.php?option=com_content&view=category&layout=blog&id=16&itemid=16	Nebo View Elementary	0.0	5141.0
+55029	http://www.bes.beaver.k12.ut.us/	Belknap Elementary School	2010.0	39.0
+55030	http://library.morgan-county.net	Morgan County Library	2008.0	67.0
+55031	http://www.davis.k12.ut.us/site/default.aspx?domainid=2098	King Elementary School	0.0	77.0
+55032	http://www.emerycsd.org/ferron.cfm	Ferron Elementary School	0.0	14898.0
+55033	http://www.davis.k12.ut.us/site/default.aspx?domainid=1548	Centerville Elementary School	0.0	36.0
+55034	http://www.ccsdut.org	Cache School District	0.0	3864.0
+55035	http://www.wasatch.edu/domain/241	J.R. Smith Elementary School	2011.0	283.0
+55038	http://www.millardcounty.com/	millard county	1998.0	407.0
+55039	http://www.gardencityut.us/	Garden City	2003.0	182.0
+55040	http://www.southjordancity.org/	South Jordan	1999.0	386.0
+55041	http://www.clearfieldcity.org/	Clearfield	2001.0	702.0
+55042	http://eastmeadows.nebo.edu	East Meadows Elementary School	2009.0	842.0
+55043	http://hunterelementary.weebly.com	Hunter Elementary School	2013.0	0.0
+55045	http://www.davis.k12.ut.us/site/default.aspx?domainid=5571	Whitesides Elementary School	2013.0	35.0
+55046	http://academypark.weebly.com	Academy Park Elementary School	2013.0	3.0
+55048	http://renacademy.org/	Renaissance Academy	2005.0	93.0
+55049	http://cascade.alpineschools.org/	Cascade Elementary School	2012.0	54.0
+55050	http://www.noe.weber.k12.ut.us/	North Ogden Elementary School	2001.0	76.0
+55051	http://www.sevierutah.net/	sevier county	2001.0	351.0
+55052	http://www.spanishfork.org/dept/library/	Spanish Fork Public Library	2003.0	14.0
+55053	http://www.wayne.k12.ut.us/	Wayne School District	0.0	420.0
+55054	http://www.pvms.us	Pine View Middle School	2008.0	44.0
+55055	http://unionmiddle.canyonsdistrict.org	Union Middle School	2009.0	53.0
+55056	http://www.ke.weber.k12.ut.us	Kanesville Elementary School	2001.0	651.0
+55057	http://tooeleschools.org/schools/secondaryschools/tjhs/pages/default.aspx	Tooele Junior High School	2012.0	30.0
+55058	http://www.johnhancockcs.org	John Hancock Charter School	2001.0	34.0
+55059	http://www.mfjhs.ogdensd.org	Mound Fort Junior High School	2008.0	6.0
+55060	http://tooeleschools.org/schools/secondaryschools/cnjjhs/pages/default.aspx	Clarke N. Johnsen Junior High	2012.0	7.0
+55061	http://hoopercity.com/	Hooper City	2003.0	26.0
+55062	http://city1.price.lib.ut.us/	Price	1999.0	30.0
+55063	http://www.ogdencity.com/	Ogden	1998.0	1107.0
+55064	http://rmes.washk12.org	Red Mountain Elementary School	2009.0	21.0
+55065	http://freedomprep.net/	Freedom Preparatory Academy	2013.0	85.0
+55067	http://www.grandschools.org	Grand County School District	2007.0	292.0
+55068	http://www.emerycounty.com/towns/huntington.htm	Huntington	2002.0	4.0
+55069	http://www.plgrove.org/library/	Pleasant Grove Public Library	2002.0	1221.0
+55072	http://www.ccsdut.org/northcachecenter.cfm	North Cache Center	0.0	3476.0
+55073	http://www.dcsd.org/rooseveltjunior.cfm	Roosevelt Junior High School	0.0	1001.0
+55074	http://www.wcslc.edu/	Westminster College	1997.0	2228.0
+55075	http://www.davis.k12.ut.us/site/default.aspx?domainid=6068	Central Davis Junior High School	2013.0	53.0
+55077	http://www.westpointcity.org/	West Point	2001.0	221.0
+55078	http://www.davinciacademy.org	DaVinci Academy of Science & The Arts	2004.0	662.0
+55079	http://www.davis.k12.ut.us/site/default.aspx?domainid=2851	Kaysville Elementary School	0.0	17.0
+55081	http://www.gwacademy.org	George Washington Academy	2006.0	57.0
+55082	http://schools.jordandistrict.org/falconridge/	Falcon Ridge Elementary School	2009.0	12.0
+55083	http://hillsdaleelementary.weebly.com	Hillsdale Elementary School	2011.0	25.0
+55085	http://www.pleasantviewcity.com/	Pleasant View City	2006.0	481.0
+55086	http://noj.weber.k12.ut.us/	North Ogden Junior High School	2000.0	47.0
+55087	http://www.diacharter.org/	Dual Immersion Academy	2007.0	12.0
+55089	http://ohs.alpineschools.org	Orem High School	2012.0	165.0
+55090	http://ffchs.org/	Fast Forward High School	2011.0	385.0
+55091	http://uintahbasin.usu.edu	Utah State University - Uintah Basin Campus	2001.0	111.0
+55094	http://www.ccsdut.org/millville.cfm	Millville Elementary School	0.0	2535.0
+55095	http://www.millard.k12.ut.us/schools/dms/	Delta Middle School	1997.0	213.0
+55096	http://www.slcolibrary.org/gl/glal/libraryhunter.htm	Salt Lake County Library - Hunter Library	2010.0	28.0
+55097	http://valleyview.alpineschools.org	Valley View Elementary School	2012.0	15.0
+55098	http://www.nibleycity.com/	Nibley City	2002.0	927.0
+55099	http://www.legacyprep.org	Legacy Preparatory Academy - Elementary	2006.0	357.0
+55100	http://www.emerycsd.org/canyonview.cfm	Canyon View Junior High School	0.0	14916.0
+55101	http://dxatc.com/	Dixie Applied Technology College	2012.0	144.0
+55102	http://frontier.alpineschools.org	Frontier Middle School	2013.0	82.0
+55103	http://www.tintic.k12.ut.us/wdes	West Desert Elementary School	2012.0	6504.0
+55104	http://www.priceutah.net/city_dir/library/library.asp	Price City Library	2011.0	7.0
+55105	http://sfhs.nebo.edu	Spanish Fork High School	2009.0	561.0
+55106	http://www.eastbay.provo.edu	East Bay Post High School	2011.0	5.0
+55109	http://uintah.slcschools.org/	Uintah Elementary School	2010.0	78.0
+55110	http://hhs.canyonsdistrict.org	Hillcrest High School	2009.0	239.0
+55111	http://www.le.weber.k12.ut.us	Lakeview Elementary School	2001.0	651.0
+55112	http://ocslc.org/	Open Classroom	2002.0	481.0
+55113	http://www.wwe.weber.k12.ut.us	West Weber Elementary School	2001.0	28.0
+55114	http://www.dcsd.org/altamontelementary.cfm	Altamont Elementary School	0.0	907.0
+55115	http://mountainvilleacademy.org	Mountainville Academy	2005.0	202.0
+55116	http://ehs.garfk12.org	Escalante High School	2012.0	36.0
+55117	http://www.be.weber.k12.ut.us	A. Parley Bates Elementary School	2000.0	655.0
+55118	http://www.iechs.org	Itineris Early College High School	2004.0	407.0
+55119	http://www.ssummit.org/elementaryschool.cfm	South Summit Elementary School	0.0	711.0
+55120	http://www.jmes.ogden.k12.ut.us	James A. Madison Elementary School	2010.0	4.0
+55121	http://www.wayne.k12.ut.us/hanksville.cfm	Hanksville Elementary School	0.0	284.0
+55123	http://tooeleschools.org/schools/elementaryschools/ases/pages/default.aspx	Anna Smith Elementary School	2013.0	9.0
+55124	http://www.hillcrest.logan.k12.ut.us/	Hillcrest Elementary School	2000.0	31.0
+55126	http://helpercity.net/library.html	Helper City Library	2004.0	22.0
+55127	http://www.bhs.beaver.k12.ut.us/	Beaver High School	2009.0	658.0
+55129	http://www.ohs.ogden.k12.ut.us/	Ogden High School	2001.0	9.0
+55130	http://www.santaquin.org/	Santaquin	2003.0	2665.0
+55131	http://www.uintah.net/departments/preschool.html	Central Cove Preschool	2010.0	23.0
+55132	http://www.slcolibrary.org/gl/glal/librarytaylorsville.htm	Salt Lake County Library - Taylorsville Library	2010.0	28.0
+55134	http://enoch.ironk12.org	Enoch Elementary School	2008.0	9.0
+55136	http://aes.washk12.org/	Arrowhead Elementary School	2007.0	32.0
+55137	http://rivertonhigh.org/	Riverton High School	2009.0	50.0
+55138	http://www.edline.net/pages/north_rich_elementary	North Rich Elementary School	2013.0	12.0
+55139	http://www.laytoncity.org/public/default.aspx	Layton	2007.0	389.0
+55140	http://westfield.alpineschools.org/	Westfield Elementary School	2012.0	22.0
+55141	http://northwest.slcschools.org/	Northwest Middle School	2010.0	67.0
+55142	http://sjc.usu.edu/	USU Eastern - San Juan Campus	2011.0	696.0
+55143	http://www.sjsd.org/monticello-elementary	Monticello Elementary School	2012.0	312.0
+55144	http://midvalemiddle.canyonsdistrict.org	Midvale Middle School	2009.0	669.0
+55145	http://valleyacademycharter.com/	Valley Academy	2012.0	299.0
+55146	http://bryant.slcschools.org/	Bryant Middle School	2010.0	43.0
+55147	http://www.davis.k12.ut.us/site/default.aspx?domainid=526	Northridge High School	2013.0	53.0
+55148	http://www.dcsd.org/mytonelementary.cfm	Myton Elementary School	0.0	932.0
+55149	https://www.sevier.k12.ut.us/index.php/topschools/schools29/cedar-ridge-high-school.html	Cedar Ridge High School	0.0	9.0
+55150	http://www.boulderutah.com/	Boulder Town	1998.0	73.0
+55152	http://www.davis.k12.ut.us/site/default.aspx?PageID=1	Davis School District	2013.0	43.0
+55153	http://www1.co.weber.ut.us/	weber county	1997.0	17.0
+55154	http://www.co.uintah.ut.us	uintah county	2001.0	98.0
+55155	http://www.ccsdut.org/providence.cfm	Providence Elementary School	0.0	2455.0
+55156	http://www.davis.k12.ut.us/site/default.aspx?domainid=8175	Canyon Heights	0.0	23.0
+55157	http://www.dsdf.org	Daggett School District	2002.0	3647.0
+55158	http://www.slcolibrary.org	Salt Lake County Library System	2008.0	333.0
+55159	http://silverhillselementary.weebly.com	Silver Hills Elementary School	2012.0	6.0
+55160	http://grantelementary.wix.com/grant12	Grant Elementary School	2012.0	1.0
+55161	http://www.thomased.org/south-campus/	Thomas Edison Charter School - South	2012.0	74.0
+55162	http://www.besd.net	Box Elder School District	2001.0	68.0
+55163	http://www.ccsdut.org/heritage.cfm	Heritage Elementary School	0.0	2459.0
+55164	http://www.provo.org/	Provo	1997.0	4481.0
+55166	http://srj.wsd.net	Sand Ridge Junior High School	2012.0	170.0
+55168	http://www.grousecreek.com/	Grouse Creek	2000.0	6.0
+55169	http://duchesne.utah.gov/county-services/library/roosevelt-library.html	Duchesne County Library - Roosevelt Branch Library	2011.0	103.0
+55170	http://www.wellsvillecity.com/	Wellsville	2009.0	472.0
+55171	http://www.nuames.org	Northern Utah Academy for Math, Engineering & Science	2006.0	7.0
+55172	http://healthcare.utah.edu/	University of Utah Hospital	2007.0	3080.0
+55173	http://www.davis.k12.ut.us/site/default.aspx?domainid=4158	Lakeside Elementary School	0.0	21.0
+55174	http://www.hmes.ogden.k12.ut.us	Horace Mann Elementary School	2003.0	5.0
+55175	http://schools.jordandistrict.org	Jordan Hills Elementary School	2011.0	902.0
+55176	http://nibleypark.slcschools.org/	Nibley Park Elementary School	2010.0	72.0
+55177	http://www.ccsdut.org/mtcresthigh.cfm	Mountain Crest High School	0.0	2558.0
+55178	http://www.plaincityutah.org/	Plain City	2004.0	48.0
+55180	http://www.brighamcity.utah.gov/	Brigham City	2006.0	298.0
+55181	http://ees.washk12.org	Enterprise Elementary School	2011.0	33.0
+55182	http://www.graniteschools.org/jr/evergreen/	Evergreen Junior High School	2006.0	0.0
+55183	http://www.sjsd.org/blanding-elementary	Blanding Elementary School	2012.0	294.0
+55184	http://www.owatc.edu	Ogden-Weber Applied Technology College	2003.0	628.0
+55185	http://www.ccsdut.org/mountainside.cfm	Mountainside Elementary School	0.0	2557.0
+55187	http://shs.nebo.edu	Springville High School	1997.0	417.0
+55189	http://escalante.slcschools.org/	Escalante Elementary School	2010.0	88.0
+55190	http://www.wvc-ut.gov/	West Valley	2004.0	718.0
+55191	http://www.ironcounty.net/	iron county	2002.0	49.0
+55192	http://www.millard.k12.ut.us/schools/decc/	Delta Early Childhood Center	2012.0	154.0
+55193	http://shhs.nebo.edu	Salem Hills High School	2010.0	306.0
+55194	http://www.slcolibrary.org/gl/glal/librarycolumbus.htm	Salt Lake County Library - Columbus Library	2010.0	28.0
+55195	http://schools.jordandistrict.org/welby/	Welby Elementary School	2009.0	33.0
+55196	http://rollingmeadowselementary.weebly.com	Rolling Meadows Elementary School	2012.0	57.0
+55197	http://washington.slcschools.org/	Washington Elementary School	2010.0	32.0
+55198	http://www.canyonrimacademy.org/	Canyon Rim Academy	2007.0	135.0
+55200	http://foxhollow.alpineschools.org	Fox Hollow Elementary School	2012.0	47.0
+55201	http://ssh.sevier.k12.ut.us	South Sevier High School	2001.0	24.0
+55202	http://www.americanprep.org/?pid=54	American Preparatory Academy and the School for the New Americans	2009.0	97.0
+55203	http://tooeleschools.org/schools/secondaryschools/dhs/pages/default.aspx	Dugway High School	2013.0	6.0
+55205	http://www.min.beaver.k12.ut.us/	Minersville School	2010.0	27.0
+55206	http://www.century.besd.net	Century Elementary School	2010.0	1.0
+55207	http://www.wasatch.edu/domain/413	Timpanogos Intermediate School	2011.0	285.0
+55209	http://westernhillselementary.weebly.com	Western Hills Elementary School	2012.0	31.0
+55210	http://lphs.alpineschools.org	Lone Peak High School	2012.0	197.0
+55211	http://pleasantgrove.alpineschools.org	Pleasant Grove Junior High School	2012.0	44.0
+55212	http://www.ves.kane.k12.ut.us	Valley Elementary School	2001.0	10.0
+55213	http://washingtoncity.org/5/	Washington City	2011.0	13.0
+55214	http://cvhs.ironk12.org	Canyon View High School	2008.0	141.0
+55216	http://www.wasatch.edu/domain/345	Rocky Mountain Middle School	2011.0	285.0
+55217	http://www.davis.k12.ut.us/site/default.aspx?domainid=3531	Eagle Bay Elementary	0.0	30.0
+55218	http://www.vernalcity.org/	Vernal	2000.0	234.0
+55219	http://cslewisacademy.net/	CS Lewis Academy	2009.0	162.0
+55220	http://sses.washk12.org	Sunset Elementary School	2008.0	49.0
+55221	http://publicsafety.utah.gov	Public Safety (Department of)	2002.0	115.0
+55222	http://kennedyjunior.weebly.com	John F. Kennedy Junior High School	2011.0	131.0
+55224	http://schools.graniteschools.org/armstrong/	Neil Armstrong Academy	2013.0	577.0
+55225	http://ironsprings.ironk12.org	Iron Springs Elementary School	2008.0	10.0
+55226	http://mue.wsd.net	Municipal Elementary School	2013.0	88.0
+55228	http://www.davis.k12.ut.us/site/default.aspx?domainid=4698	Snow Horse Elementary School	2013.0	38.0
+55230	http://www.heneferutah.org/	Henefer	2008.0	129.0
+55231	http://www.midwaycityut.org/	Midway	2006.0	68.0
+55232	http://library.loganutah.org	Logan Library	2004.0	1208.0
+55233	http://www.achi.besd.net/	Alice C. Harris Intermediate School	2009.0	1.0
+55236	http://www.thomased.org/north-campus/	Thomas Edison Charter School - North	2012.0	60.0
+55237	http://hjhweb.murrayschools.org	Hillcrest Junior High School	2009.0	283.0
+55239	http://www.ccsdut.org/lincoln.cfm	Lincoln Elementary School	0.0	2452.0
+55240	http://mountainview.slcschools.org/	Mountain View Elementary School	2010.0	24.0
+55241	http://schools.jordandistrict.org/elkmeadows/	Elk Meadows Elementary School	2008.0	26.0
+55244	http://monroeelementary.weebly.com	Monroe Elementary School	2013.0	27.0
+55245	http://www.suu.edu/ed/tehd/elementary.html	Southern Utah University - Elementary Education - Preservice	2008.0	10.0
+55246	http://www.tremontoncity.com/	Tremonton	2000.0	399.0
+55247	http://www.lehi-ut.gov/	Lehi	2007.0	430.0
+55249	http://bonneville.alpineschools.org	Bonneville Elementary School	2012.0	111.0
+55250	http://www.usu.edu/	Utah State University	1997.0	3330.0
+55251	http://www.hces.ogden.k12.ut.us/	Hillcrest Elementary School	2001.0	4.0
+55253	http://northridge.alpineschools.org	Northridge Elementary School	2012.0	55.0
+55254	http://www.ccsdut.org/southcachecenter.cfm	South Cache Center	0.0	2561.0
+55255	http://crescent.canyonsdistrict.org	Crescent Elementary School	2009.0	449.0
+55256	http://www.slcolibrary.org/gl/glal/librarysouthjordan.htm	Salt Lake County Library - South Jordan Library	2010.0	28.0
+55257	http://www.davis.k12.ut.us/site/default.aspx?domainid=4526	Stewart Elementary School	0.0	44.0
+55258	http://tooeleschools.org/schools/elementaryschools/ies/pages/default.aspx	Ibapah Elementary School	2013.0	5.0
+55259	http://www.davis.k12.ut.us/site/default.aspx?domainid=1607	Clinton Elementary School	0.0	40.0
+55260	http://springlake.nebo.edu	Spring Lake Elementary School	2009.0	942.0
+55261	http://mhs.washk12.org	Millcreek High School	2006.0	137.0
+55262	http://www.eurekautah.org/	Eureka	2011.0	494.0
+55263	http://www.nsummit.org/elementary.cfm	North Summit Elementary School	0.0	666.0
+55264	http://ahs.canyonsdistrict.org	Alta High School	2009.0	109.0
+55266	http://mmhs.nebo.edu/	Maple Mountain High School	2008.0	642.0
+55267	http://newtonutah.org/	Newton	2014.0	9.0
+55268	http://www.dcsd.org/eastelementary.cfm	East Elementary School	0.0	938.0
+55269	http://www.rmjr.weber.k12.ut.us	Rocky Mountain Junior High School	1998.0	130.0
+55271	http://www.davis.k12.ut.us/site/default.aspx?domainid=363	Syracuse High School	2013.0	73.0
+55272	http://edgemont.canyonsdistrict.org	Edgemont Elementary School	2009.0	299.0
+55273	http://www.mymayfield.org/	Mayfield	2010.0	21.0
+55274	http://www.dcsd.org/unionhigh.cfm	Union High School	0.0	937.0
+55275	http://www.scampus.logan.k12.ut.us	Logan High School - South Campus	1999.0	0.0
+55276	http://canyon.nebo.edu/	Canyon Elementary School	2009.0	237.0
+55277	http://foxhollowelem.blogspot.com	Fox Hollow Elementary School	2013.0	40.0
+55278	http://aspen.alpineschools.org	Aspen Elementary School	2011.0	107.0
+55279	http://www.cityofharrisville.com/	Harrisville City	2008.0	69.0
+55280	http://butler.canyonsdistrict.org	Butler Elementary School	2009.0	470.0
+55281	http://edison.slcschools.org/	Edison Elementary School	2010.0	55.0
+55282	http://www.alianzaacademy.org/	Alianza Academy	2011.0	51.0
+55283	http://www.endeavorhall.org/	Endeavor Hall	2011.0	18.0
+55284	http://rockymountain.alpineschools.org	Rocky Mountain Elementary School	2012.0	70.0
+55285	http://www.dcsd.org/neolaelementary.cfm	Neola Elementary School	0.0	930.0
+55286	http://www.saltlakespa.org/	Salt Lake School of the Performing Arts	2006.0	449.0
+55287	http://gpacharter.org/newsite/	Gateway Preparatory Academy	0.0	112.0
+55288	http://garfield.utah.gov/	Garfield	2008.0	29.0
+55289	http://www.westminstercollege.edu/med/index.cfm?parent=5463	Westminster College - Master of Education	2007.0	18.0
+55290	http://www.slco.org/	salt lake county	2001.0	593.0
+55291	http://www.loganutah.org/	Logan	2000.0	0.0
+55292	http://roe.wsd.net	Roy Elementary School	2013.0	1.0
+55293	http://www.magnautah.org/	Magna	2002.0	45.0
+55294	http://library.washco.utah.gov/enterprise/	Washington County Library - Enterprise Branch	2006.0	5.0
+55295	http://magnaelementary.weebly.com	Magna Elementary School	2011.0	0.0
+55296	http://www.paradigmschools.org/	Paradigm High School	2013.0	62.0
+55298	http://www.eaglegatecollege.edu/	Eagle Gate College	2005.0	161.0
+55300	http://www.edline.net/pages/rich_middle_school	Rich Middle School	2013.0	12.0
+55302	http://bellview.canyonsdistrict.org	Bell View Elementary School	2009.0	442.0
+55303	http://www.pcaschool.com	Pinnacle Canyon Academy	2000.0	118.0
+55304	http://northdavisprep.org/	North Davis Preparatory Academy	2005.0	95.0
+55305	http://www.wilson.loganschools.org	Wilson Elementary School	2012.0	232.0
+55307	http://www.beaver.k12.ut.us/	Beaver School District	1998.0	75.0
+55308	http://www.tuacahnhs.org	Tuacahn High School for the Performing Arts	2006.0	83.0
+55309	http://www.davis.k12.ut.us/site/default.aspx?domainid=1346	Buffalo Point Elementary School	2013.0	45.0
+55310	http://geneva.alpineschools.org	Geneva Elementary School	2012.0	29.0
+55311	http://willowcanyon.canyonsdistrict.org	Willow Canyon Elementary School	2009.0	228.0
+55312	http://whs.alpineschools.org	Westlake High School	2012.0	50.0
+55313	http://www.slcolibrary.org/gl/glal/librarykearns.htm	Salt Lake County Library - Kearns Library	2010.0	28.0
+55315	http://seschools.org/	Southeast Educational Service Center	2007.0	88.0
+55316	http://www.emerycsd.org/cottonwood.cfm	Cottonwood Elementary School	0.0	14913.0
+55318	http://www.tooelehigh.org/	Tooele High School	2000.0	2.0
+55319	http://spring.washk12.org/	Springdale Elementary School	2009.0	26.0
+55320	http://meadowlark.slcschools.org/	Meadowlark Elementary School	2010.0	59.0
+55321	http://www.pineview.org/	Pine View High School	1998.0	29.0
+55322	http://cherryhill.alpineschools.org	Cherry Hill Elementary School	2011.0	39.0
+55323	http://copperhillshigh.org	Copper Hills High School	2012.0	113.0
+55325	http://www.providencecity.com/index.htm	Providence City	2007.0	89.0
+55326	http://www.ccsdut.org/canyon.cfm	Canyon Elementary School	0.0	2302.0
+55328	http://sahs1.org/	Summit Academy High School	2010.0	2838.0
+55329	http://schools.jordandistrict.org/rosamond/	Rosamond Elementary School	2008.0	12.0
+55331	http://orem.alpineschools.org	Orem Elementary School	2011.0	189.0
+55332	http://parklane.canyonsdistrict.org	Park Lane Elementary School	2009.0	221.0
+55333	http://eastern.usu.edu/	College of Eastern Utah:	2012.0	292.0
+55334	http://www.americanprep.org	American Preparatory Academy	2004.0	97.0
+55337	http://www.farmington.utah.gov/	Farmington	2007.0	1894.0
+55338	http://www.provocollege.edu	Provo College	2004.0	124.0
+55339	http://www.peaks.provo.edu	Provo Peaks Elementary School	2011.0	7.0
+55340	http://fiddlers.ironk12.org	Fiddlers Canyon Elementary School	2008.0	16.0
+55341	http://mtpleasantcity.com/	Mt. Pleasant	2005.0	53.0
+55342	http://www.timpanogos.provo.edu	Timpanogos Elementary School	2003.0	11.0
+55343	http://www.sedc.k12.ut.us	Southwest Educational Development Center	1999.0	549.0
+55345	https://www.ldsbc.edu/	LDS Business College	1996.0	666.0
+55346	http://www.carbonschools.org/helperjr.cfm	Helper Junior High School	0.0	2424.0
+55349	http://www.davis.k12.ut.us/site/default.aspx?domainid=7356	Clearfield High School	2013.0	20.0
+55350	http://rees.nebo.edu	Rees Elementary School	2011.0	299.0
+55351	http://library.washco.utah.gov/hurricane/	Washington County Library - Hurricane Branch	2006.0	6.0
+55352	https://teal.usu.edu/htm/undergraduate-programs/seced	Utah State University - Secondary Education - Preservice	2010.0	76.0
+55353	http://ucat.edu/	Utah College of Applied Technology:	0.0	33.0
+55354	http://pes.washk12.org	Panorama Elementary School	2007.0	29.0
+55356	http://willowsprings.canyonsdistrict.org	Willow Springs Elementary	2009.0	425.0
+55357	http://freedom.alpineschools.org/	Freedom Elementary School	2012.0	47.0
+55358	http://parkview.nebo.edu	Park View Elementary School	2009.0	284.0
+55359	http://schools.jordandistrict.org/oquirrh/	Oquirrh Elementary School	2011.0	66.0
+55360	http://www.davis.k12.ut.us/site/default.aspx?domainid=5059	Tolman Elementary School	0.0	23.0
+55361	http://www.davis.k12.ut.us/site/default.aspx?domainid=2609	Holt Elementary School	0.0	56.0
+55362	http://home.comcast.net/~newtonlib/	Newton Town Library	2005.0	1.0
+55363	http://www.canyoncrest.provo.edu/	Canyon Crest Elementary School	2003.0	3.0
+55364	http://vernalmiddle.uintahhigh.net	Vernal Middle School	2011.0	13.0
+55365	http://aristotleacademyk8.org/	Aristotle Academy	2013.0	460.0
+55366	http://www.ccsdut.org/summit.cfm	Summit Elementary School	0.0	2495.0
+55367	http://thunderridge.alpineschools.org	Thunder Ridge Elementary School	2011.0	25.0
+55368	http://www.paysonutah.org/	Payson	2010.0	1294.0
+55369	http://www.pondtown.org/	Salem	2005.0	4.0
+55370	http://www.sjsd.org/albert-r-lyman-middle	Albert R. Lyman Middle School	2012.0	299.0
+55372	http://farrwestcity.net/	Farr West	2009.0	23.0
+55373	http://www.intechchs.org	InTech Collegiate High School	2007.0	78.0
+55374	http://www.wjr.weber.k12.ut.us/	Wahlquist Junior High School	2001.0	181.0
+55375	http://www.lve.weber.k12.ut.us	Lomond View Elementary School	2001.0	131.0
+55376	http://www.millard.k12.ut.us/schools/dhs/	Delta High School	1997.0	333.0
+55377	http://www.uvu.edu/	Utah Valley University:	2007.0	4655.0
+55379	http://www.leedstown.org/	Leeds	2008.0	51.0
+55380	http://www.richfieldcity.com/	Richfield	2001.0	454.0
+55381	http://www.citytowninfo.com/places/utah/oak-city	Oak City	2007.0	272.0
+55382	http://www.promontoryschool.org/	Promontory School of Expenditionary Learning	2011.0	473.0
+55383	http://www.edline.net/pages/flaming_gorge_elem	Flaming Gorge Elementary School	0.0	2.0
+55385	http://www.utcourts.gov/courts/appell/	Utah Court of Appeals	2003.0	17.0
+55386	http://www.washk12.org	Washington School District	2006.0	1351.0
+55387	http://bookmobiles.utah.gov/sanpete/index.html	Sanpete County Bookmobile Library	2008.0	7.0
+55389	http://www.salinacity.org/	Salina	2003.0	462.0
+55390	http://sri.washk12.org/	Sunrise Ridge Intermediate School	2008.0	40.0
+55391	http://www.davis.k12.ut.us/site/default.aspx?domainid=4793	Sunset Elementary School	0.0	44.0
+55392	http://indianhillsmiddle.canyonsdistrict.org	Indian Hills Middle School	2009.0	306.0
+55393	http://www.southogdencity.com/	South Ogden	2000.0	0.0
+55394	http://orchardelementary.weebly.com	Douglas T. Orchard Elementary School	2012.0	2.0
+55395	http://www.sjsd.org/navajo-mountain-high	Navajo Mountain High School	2012.0	290.0
+55396	http://www.successacademy.org	Success Academy at Dixie	2009.0	24.0
+55397	http://www.ccsdut.org/northpark.cfm	North Park Elementary School	0.0	2544.0
+55398	http://www.slcc.edu/locations/south-city-campus.aspx	Salt Lake Community College - South City Campus	2012.0	24.0
+55399	https://www.weber.edu/	Weber State University	1996.0	1129.0
+55400	http://jhs.canyonsdistrict.org	Jordan High School	2009.0	39.0
+55401	http://richfieldlibrary.com	Richfield Public Library	2006.0	8.0
+55402	http://www.ccsdut.org/lewiston.cfm	Lewiston Elementary School	0.0	2297.0
+55404	http://le.utah.gov/	State Legislature	2002.0	24768.0
+55405	http://www.das.utah.gov/	Administrative Services (Department of)	2001.0	358.0
+55406	http://www.alpinecity.org/	Alpine	2000.0	44.0
+55408	http://www.ccsdut.org/greenville.cfm	Greenville Elementary School	0.0	2330.0
+55409	http://www.bws.kane.k12.ut.us	Big Water Elementary School	2002.0	16.0
+55410	http://tooeleschools.org/schools/elementaryschools/des/pages/default.aspx	Dugway Elementary School	2013.0	7.0
+55411	http://www.midvalecity.org/	Midvale City	2000.0	157.0
+55412	http://maeserprep.org	Karl G. Maeser Preporatory Academy	2006.0	85.0
+55414	http://snowvilleutah.org/	Snowville	2010.0	1.0
+55415	http://www.davis.k12.ut.us/site/default.aspx?domainid=3975	Bluff Ridge Elementary	2013.0	43.0
+55416	https://www.sevier.k12.ut.us/	Sevier School District	2002.0	929.0
+55417	http://www.honeyvillecity.com/	Honeyville	2007.0	176.0
+55418	http://afjh.alpineschools.org	American Fork Junior High School	2011.0	18.0
+55419	http://mvhs.alpineschools.org	Mountain View High School	2012.0	35.0
+55421	http://www.providencehall.com	Providence Hall	2007.0	164.0
+55422	http://www.waes.ogden.k12.ut.us	Wasatch Elementary School	2001.0	6.0
+55423	http://barratt.alpineschools.org/	Barratt Elementary School	2011.0	71.0
+55425	http://www.davis.k12.ut.us/site/default.aspx?domainid=3884	Woods Cross Elementary School	2013.0	40.0
+55426	http://www.enterpriseutah.org/	Enterprise	2007.0	65.0
+55427	http://mie.wsd.net	Midland Elementary School	2012.0	353.0
+55428	http://www.hyrumlibrary.com	Hyrum Library	2007.0	13.0
+55430	http://rosepark.slcschools.org/	Rose Park Elementary School	2010.0	46.0
+55433	http://www.sunset-ut.com/	Sunset	2001.0	74.0
+55434	http://windsor.alpineschools.org/	Windsor Elementary School	2012.0	102.0
+55436	http://tmjh.pcschools.us/	Treasure Mountain International School	2012.0	253.0
+55437	http://www.stansburypark.org/	Stansbury Park	2000.0	3.0
+55438	http://www.utahsenate.org/	Senate	2001.0	22.0
+55439	http://www.murrayschools.org/schools2/rjh/index.html	Riverview Junior High School	2012.0	0.0
+55440	http://grovecrest.alpineschools.org/	Grovecrest Elementary School	2012.0	37.0
+55441	http://www.centervilleut.net/	Centerville	2000.0	1493.0
+55442	http://www.graniteschools.org/Pages/default.aspx	Granite School District	2009.0	0.0
+55443	http://www.springville.org/	Springville	2001.0	890.0
+55445	http://mountmahogany.alpineschools.org	Mt. Mahogany Elementary School	2012.0	39.0
+55447	http://www.graniteschools.org/hs/taylorsville/	Taylorsville High School	2005.0	1.0
+55448	http://www.grandschools.org/highschool/index.html	Grand County High School	2009.0	2.0
+55449	http://www.thbell.weber.k12.ut.us/	T. H. Bell Junior High School	1999.0	653.0
+55450	http://snds.washk12.org/	Sandstone Elementary	2007.0	38.0
+55451	http://www.ucas-edu.net/	Utah County Academy of Sciences (UCAS)	2013.0	49.0
+55452	http://cve.wsd.net	Country View Elementary School	2013.0	79.0
+55453	http://midvalley.canyonsdistrict.org/	Midvalley Elementary School	2010.0	292.0
+55454	http://health.utah.gov/fhp/	Community & Family Health Service (Division of)	2012.0	1.0
+55455	https://www.juab.k12.ut.us/index.php?option=com_content&view=category&layout=blog&id=3&itemid=4	Juab Junior High	0.0	5024.0
+55457	http://www.tishawks.org/	Tonaquint Intermediate School	2009.0	74.0
+55458	http://tooeleschools.org/schools/elementaryschools/ges/pages/default.aspx	Grantsville Elementary School	2012.0	6.0
+55459	http://tooeleschools.org/schools/elementaryschools/cces/pages/default.aspx	Copper Canyon Elementary School	2013.0	24.0
+55460	http://saratogashores.alpineschools.org	Saratoga Shores Elementary School	2012.0	72.0
+55462	http://www.fillmorecity.org/	Fillmore	2000.0	2.0
+55463	http://www.ci.heber.ut.us/	Heber	2002.0	12.0
+55464	http://www.whs.ogden.k12.ut.us/	George Washington High School	2001.0	5.0
+55465	http://bellavista.canyonsdistrict.org	Bella Vista Elementary School	2009.0	496.0
+55466	http://www.pce.weber.k12.ut.us/	Plain City Elementary School	2001.0	153.0
+55467	http://laborcommission.utah.gov/index.html	Labor Commission	2001.0	198.0
+55468	http://jres.pcschools.us/	Jeremy Ranch Elementary School	2004.0	294.0
+55469	http://www.hjhs.ogden.k12.ut.us/	Highland Junior High School	2010.0	3.0
+55470	http://www.phoenix.edu/campus-locations/ut/utah-campus/utah-campus.html	University of Phoenix	2010.0	7.0
+55471	http://www.emerycsd.org/bookcliff.cfm	Book Cliff Elementary School	0.0	14897.0
+55473	http://albionmiddle.canyonsdistrict.org	Albion Middle School	2009.0	765.0
+55474	http://schools.jordandistrict.org/columbia/	Columbia Elementary School	2007.0	32.0
+55475	http://www.fruitheightscity.com/	Fruit Heights City	2001.0	195.0
+55478	http://www.wjordan.com/	West Jordan	1998.0	333.0
+55479	http://wes.washk12.org	Washington Elementary School	2004.0	29.0
+55480	http://www.corrections.utah.gov/	Corrections (Department of )	0.0	670.0
+55481	http://www.nsummit.org/highschool.cfm	North Summit High School	0.0	400.0
+55482	http://sagecreek.nebo.edu/	Sage Creek Elementary School	2009.0	941.0
+55483	http://www.slcolibrary.org/gl/glal/librarywhitmore.htm	Salt Lake County Library - Whitmore Library	2010.0	28.0
+55484	http://meadow.alpineschools.org	Meadow Elementary School	2012.0	51.0
+55485	http://wasatch.slcschools.org/	Wasatch Elementary School	2010.0	87.0
+55486	http://peruvianpark.canyonsdistrict.org	Peruvian Park Elementary School	2009.0	282.0
+55487	http://canyonview.canyonsdistrict.org	Canyon View Elementary School	2009.0	315.0
+55488	http://www.ci.north-logan.ut.us/	North Logan	1999.0	74.0
+55490	http://east.slcschools.org/	East High School	2010.0	71.0
+55491	http://www.wasatch.edu/domain/166	Heber Valley Elementary School	2011.0	258.0
+55492	http://ees.garfk12.org	Escalante Elementary School	2012.0	14.0
+55493	http://tooeleschools.org/schools/elementaryschools/wes/pages/default.aspx	West Elementary School	2013.0	9.0
+55495	http://www.tintic.k12.ut.us/ths/	Tintic High School	2005.0	5637.0
+55497	http://www.lps.kane.k12.ut.us	Lake Powell Elementary School	2002.0	13.0
+55498	http://www.commerce.utah.gov/	Commerce (Department of)	2001.0	12.0
+55499	http://www.graniteschools.org/el/fremont/	John C. Fremont Elementary School	2006.0	1.0
+55500	http://highland.slcschools.org/	Highland High School	2010.0	222.0
+55501	http://www.slcolibrary.org/gl/glal/librarytyler.htm	Salt Lake County Library - Ruth Vine Tyler Library	2010.0	28.0
+55503	http://lavaridge.net	Lava Ridge Intermediate School	2009.0	8.0
+55504	http://www.syracuseartsacademy.org/	Syracuse Arts Academy	2006.0	924.0
+55505	http://www.dhs.utah.gov/	Human Services (Department of)	2001.0	226.0
+55506	http://www.sjsd.org	San Juan School District	2004.0	477.0
+55507	http://noahwebsteracademy.org/education/district/district.php?sectionid=1	Noah Webster Academy	2011.0	2.0
+55509	http://www.theranchesacademy.org/	Ranches Academy	0.0	207.0
+55510	http://www.slcschools.org/	Salt Lake School District	2010.0	187.0
+55511	http://forbes.alpineschools.org/	Forbes Elementary School	2011.0	53.0
+55513	http://www.davis.k12.ut.us/site/default.aspx?domainid=2186	Columbia Elementary School	0.0	43.0
+55515	http://www.davis.k12.ut.us/site/default.aspx?domainid=5888	Bountiful Junior High School	2013.0	22.0
+55516	http://www.snowville.besd.net	Snowville Elementary School	2011.0	9.0
+55517	http://www.davis.k12.ut.us/site/default.aspx?domainid=2496	Ellison Park Elementary School	0.0	46.0
+55518	http://www.davis.k12.ut.us/site/default.aspx?domainid=5953	Centerville Junior High School	2013.0	43.0
+55519	http://batc.edu/	Bridgerland Applied Technology College	2006.0	383.0
+55520	http://cityacademyslc.org	City Academy	0.0	13.0
+55522	http://www.piute.k12.ut.us/index.php?option=com_content&view=article&id=172&itemid=3	Piute High School	0.0	246.0
+55523	http://www.wasatch.edu/domain/485	Wasatch High School	2011.0	258.0
+55524	http://cedarvalley.alpineschools.org/	Cedar Valley Elementary School	2012.0	65.0
+55525	http://cvms.ironk12.org	Canyon View Middle School	2008.0	42.0
+55526	http://www.blanding-ut.gov/	Blanding	2010.0	67.0
+55527	http://www.emcity.org/	Eagle Mountain	2001.0	819.0
+55528	http://parkcitylibrary.org/	Park City Library	2002.0	229.0
+55529	http://www.excelsior-academy.org	Excelsior Academy	2009.0	250.0
+55530	http://www.grantsvilleut.gov/	Grantsville	2008.0	28.0
+55531	http://www.carbonschools.org/wellington.cfm	Wellington Elementary School	0.0	1764.0
+55532	http://www.wasatchpeak.org/	Wasatch Peak Academy	2005.0	364.0
+55533	http://www.odysseycharter.net/	Odyssey Charter School	2005.0	163.0
+55534	http://www.davis.k12.ut.us/site/default.aspx?domainid=8146	Renaissance Academy	0.0	38.0
+55536	http://orj.wsd.net	Orion Junior High School	2012.0	280.0
+55537	http://www.oakleycity.com/city/oakleycity.htm	Oakley City	2006.0	3.0
+55538	http://purchasing.utah.gov	Purchasing and General Services	2001.0	481.0
+55539	http://ppes.pcschools.us	Parleys Park Elementary School	2004.0	256.0
+55540	http://www.sjms.jordan.k12.ut.us/	South Jordan Middle School	1998.0	314.0
+55541	http://www.edline.net/pages/manila_es	Manila Elementary School	0.0	2.0
+55542	http://www.ssummit.org	South Summit School District	0.0	791.0
+55544	http://library.washco.utah.gov/springdale/	Washington County Library - Springdale Branch	2006.0	6.0
+55546	http://www.franklin.provo.edu	Franklin Elementary School	2003.0	13.0
+55547	http://www.slcolibrary.org/gl/glal/libraryholladay.htm	Salt Lake County Library - Holladay Library	2010.0	28.0
+55548	http://legacy.alpineschools.org	Legacy Elementary School	2012.0	71.0
+55549	http://www.kms.kane.k12.ut.us	Kanab Middle School	2001.0	9.0
+55550	http://www.nsummit.org/middle.cfm	North Summit Middle School	0.0	391.0
+55552	http://saltlake.usu.edu	Utah State University - Salt Lake	2005.0	5.0
+55553	http://www.millard.k12.ut.us/schools/fes/	Fillmore Elementary School	1997.0	163.0
+55554	http://www.beehiveacademy.org/v2/	Beehive Science & Technology Academy (BSTA)	2012.0	606.0
+55556	http://irondistrict.org	Iron School District	2011.0	528.0
+55557	http://www.utah.gov/treasurer/index.html	Treasurer, Utah State	2011.0	47.0
+55558	http://wendovercityutah.com/	Wendover	2013.0	17.0
+55561	http://www.davis.k12.ut.us/site/default.aspx?domainid=6169	Farmington Junior High School	2013.0	48.0
+55562	http://butlermiddle.canyonsdistrict.org	Butler Middle School	2009.0	1035.0
+55563	http://www.davis.k12.ut.us/site/default.aspx?domainid=835	Hill Field Elementary School	0.0	47.0
+55564	http://www.emerycsd.org/castledale.cfm	Castle Dale Elementary School	0.0	14895.0
+55565	http://schools.jordandistrict.org/sjes/	South Jordan Elementary School	2008.0	27.0
+55566	http://archeseducation.org	Arches Education Center	2012.0	12.0
+55567	http://www.earlylightacademy.org	Early Light Academy	2008.0	53.0
+55568	http://www.pcschools.us	Park City School District	2004.0	229.0
+55569	http://taylor.nebo.edu	Taylor Elementary School	2009.0	569.0
+55570	http://www.rhs.weber.k12.ut.us/	Roy High School	1998.0	198.0
+55572	http://www.helpercity.net/	Helper	2003.0	23.0
+55573	http://brockbank.nebo.edu/	Brockbank Elementary School	2011.0	1623.0
+55574	http://westmore.alpineschools.org/	Westmore Elementary School	2012.0	40.0
+55575	http://www.davis.k12.ut.us/site/default.aspx?domainid=3320	Meadowbrook Elementary School	0.0	36.0
+55576	http://www.canyonsdistrict.org/	Canyons School District	2009.0	1680.0
+55577	http://www.dych.besd.net/	Dale Young Community High School	2009.0	24.0
+55579	http://lincolnbobcats.weebly.com	Lincoln Elementary School	2013.0	12.0
+55581	http://east.ironk12.org/	Cedar East Elementary School	2008.0	10.0
+55582	http://www.bhs.weber.k12.ut.us/	Bonneville High School	1998.0	95.0
+55586	http://www.riverheights.org/	River Heights	1998.0	64.0
+55587	http://north-staracademy.com/	North Star Academy	2005.0	31.0
+55590	http://www.ferroncity.org/	Ferron City	2008.0	31.0
+55591	http://eaglevalley.alpineschools.org	Eagle Valley Elementary School	2012.0	21.0
+55592	http://guadalupeschoolslc.org/	Guadalupe School	2011.0	50.0
+55593	http://www.piute.org/	piute county	2002.0	27.0
+55594	http://altaview.canyonsdistrict.org	Alta View Elementary School	2009.0	341.0
+55595	http://mapleton.nebo.edu	Mapleton Elementary School	2009.0	696.0
+55596	http://www.waynecountyutah.org	wayne county	2009.0	155.0
+55597	http://sierrabonita.nebo.edu	Sierra Bonita Elementary School	2011.0	636.0
+55598	http://www.phlearning.org/	Pacific Heritage Academy	2011.0	39.0
+55599	http://www.stocktontown.org/	Stockton	2009.0	14.0
+55601	http://schools.graniteschools.org/oakwood/	Oakwood Elementary School	2013.0	2484.0
+55602	http://governor.utah.gov/goca/index.html	Constituent Services (Governor's Office of)	2003.0	5.0
+55603	http://www.usor.utah.gov/	Rehabilitation (Office of)	2003.0	182.0
+55604	http://www.schools.utah.gov/ehs/	Electronic High School	0.0	395.0
+55605	http://scmiddle.org/	Snow Canyon Middle School	2008.0	110.0
+55606	http://tfes.washk12.org/	Three Falls Elementary School	2005.0	18.0
+55607	http://www.duchesnecity.com/	Duchesne	2009.0	122.0
+55608	http://www.davis.k12.ut.us/site/default.aspx?domainid=5797	Fairfield Junior High School	2013.0	16.0
+55609	http://www.lewiston-ut.org/	Lewiston	2002.0	46.0
+55610	http://www.slcolibrary.org/gl/glal/librarymagna.htm	Salt Lake County Library - Magna Library	2010.0	28.0
+55611	http://kearns.entheosacademy.org/	Entheos Academy - Kearns	2012.0	2.0
+55612	http://www.mariamontessoriacademy.org	Maria Montessori Academy	2010.0	79.0
+55613	http://www.sjsd.org/san-juan-high	San Juan High School	2012.0	365.0
+55614	http://www.nsh.sevier.k12.ut.us	North Sevier High School	2001.0	1.0
+55615	http://www.davis.k12.ut.us/site/default.aspx?domainid=5287	West Bountiful Elementary School	0.0	52.0
+55616	http://auditor.utah.gov/	Auditor, Utah State	2009.0	46.0
+55618	http://riverview.nebo.edu/	Riverview Elementary School	2009.0	242.0
+55619	http://www.highlandcity.org/	Highland	2001.0	464.0
+55620	http://mpes.pcschools.us	McPolin Elementary School	2004.0	150.0
+55621	http://www.davis.k12.ut.us/site/default.aspx?domainid=2749	Knowlton Elementary School	0.0	37.0
+55622	https://www.juab.k12.ut.us/index.php?option=com_content&view=category&layout=blog&id=20&itemid=17	Mona Elementary School	0.0	5054.0
+55623	http://dves.washk12.org/	Diamond Valley Elementary School	2004.0	43.0
+55624	http://www.lces.ogden.k12.ut.us	Lincoln Elementary School	2001.0	4.0
+55625	http://www.slcolibrary.org/gl/glal/libraryMillcreek.htm	Salt Lake County Library - East Millcreek Library	2013.0	27.0
+55628	http://notary.utah.gov/	Notary public office & Authentication	2006.0	6.0
+55629	http://www.sjsd.org/montezuma-creek-elementary	Montezuma Creek Elementary School	2012.0	280.0
+55630	http://backman.slcschools.org/	Backman Elementary School	2010.0	13.0
+55631	http://crescentviewmiddle.canyonsdistrict.org	Crescent View Middle School	2009.0	524.0
+55634	http://oakcanyon.alpineschools.org	Oak Canyon Junior High School	2012.0	40.0
+55635	http://mountjordanmiddle.canyonsdistrict.org	Mount Jordan Middle School	2009.0	239.0
+55636	http://www.davis.k12.ut.us/site/default.aspx?domainid=281	Endeavour Elementary School	2013.0	40.0
+55637	http://lakeridge.alpineschools.org	Lakeridge Junior High School	2012.0	74.0
+55638	http://tooeleschools.org/schools/secondaryschools/bphs/pages/default.aspx	Blue Peak High School	2013.0	7.0
+55640	http://www.pioneercharterschool.org/	Pioneer High School for the Performing Arts	2012.0	30.0
+55642	http://www.ccsdut.org/willowvalley.cfm	Willow Valley Middle School	0.0	2526.0
+55643	http://traversemountain.alpineschools.org/	Traverse Mountain Elementary School	2012.0	15.0
+55644	http://timberline.alpineschools.org	Timberline Middle School	2012.0	60.0
+55645	http://les.washk12.org/	Little Valley Elementary School	2006.0	19.0
+55646	http://eastmidvale.canyonsdistrict.org	East Midvale Elementary School	2009.0	375.0
+55648	http://www.emerycsd.org/greenriver.cfm	Green River High School	0.0	14912.0
+55649	http://www.provolibrary.com/	Provo City Library	2002.0	4442.0
+55650	http://www.slcolibrary.org/gl/glal/librarywestvalley.htm	Salt Lake County Library - West Valley Library	2010.0	28.0
+55651	http://www.channinghall.org	Channing Hall	2006.0	11.0
+55652	http://www.davis.k12.ut.us/site/default.aspx?domainid=1273	Bountiful Elementary School	2013.0	37.0
+55653	http://sunrise.canyonsdistrict.org	Sunrise Elementary School	2009.0	54.0
+55654	http://www.slcpl.lib.ut.us/branches/view/day-riverside	Salt Lake City Public Library - Day-Riverside	2011.0	2.0
+55655	http://www.uintah.net/schools/lapoint%20elementary/lapointindex.html	Lapoint Elementary School	2010.0	5.0
+55656	http://www.questacademycharter.org	Quest Academy	2008.0	2.0
+55657	http://ag.utah.gov/about-udaf/divisions-and-programs/27-about-udaf/374-administrative-services-division.html	Agriculture and Food (Department of)	2013.0	12.0
+55658	http://www.americanleadership.net/	American Leadership Academy	2005.0	1455.0
+55660	http://www.slcpl.lib.ut.us/branches/view/sprague	Salt Lake City Public Library - Sprague	2011.0	2.0
+55661	http://www.sjsd.org/monticello-high	Monticello High School	2012.0	280.0
+55662	http://www.wasatch.lib.ut.us	Wasatch County Library	2002.0	321.0
+55663	http://www.khs.kane.k12.ut.us	Kanab High School	2001.0	24.0
+55664	http://www.oakhollow.canyonsdistrict.org	Oak Hollow Elementary	2009.0	208.0
+55665	http://plymouthpatriots.weebly.com	Plymouth Elementary School	2013.0	28.0
+55666	http://edithbowen.usu.edu	Edith Bowen Laboratory School	2010.0	284.0
+55667	http://www.neumont.edu/	Neumont University	2005.0	139.0
+55668	http://www.ccsdut.org/springcreek.cfm	Spring Creek Middle School	0.0	2568.0
+55669	http://www.ve.weber.k12.ut.us	Valley Elementary School	2002.0	63.0
+55670	http://www.davis.k12.ut.us/site/default.aspx?domainid=5130	Wasatch Elementary School	2013.0	14.0
+55671	http://www.davis.k12.ut.us/site/default.aspx?domainid=4440	South Weber Elementary School	2013.0	63.0
+55672	http://panguitchlibrary.org/	Garfield County-Panguitch City Library	2008.0	39.0
+55673	http://southhills.jordandistrict.org	South Hills Middle School	0.0	30.0
+55674	http://goshen.nebo.edu	Goshen Elementary School	2010.0	830.0
+55675	http://ces.washk12.org	Coral Canyon Elementary School	2007.0	46.0
+55677	http://www.davis.k12.ut.us/site/default.aspx?domainid=7745	Viewmont High School	2013.0	57.0
+55678	http://www.co.utah.ut.us/	utah county	1997.0	65.0
+55679	http://pes.garfk12.org	Panguitch Elementary School	2012.0	31.0
+55680	http://www.jatc-wj.org/	Jordan Applied Technology Center	2007.0	88.0
+55682	http://www.lakeview.provo.edu	Lakeview Elementary School	2007.0	12.0
+55683	http://www.nebo.edu/	Nebo School District	1998.0	951.0
+55684	http://bcpl.lib.ut.us	Brigham City Library	1998.0	51.0
+55685	http://llacharter.org	Leadership Learning Academy	2013.0	30.0
+55687	http://www.morgan.k12.ut.us/	Morgan School District	1998.0	13.0
+55689	http://www.eisenhowergenerals.com	Eisenhower Junior High School	2012.0	0.0
+55690	http://www.sjsd.org/la-sal-elementary	LaSal Elementary School	2012.0	318.0
+55692	http://www.itt-tech.edu/campus/	ITT Technical Institute	2000.0	2527.0
+55693	http://provo.edu/	Provo School District	2002.0	1402.0
+55694	http://www.acyi.besd.net	Adele C. Young Intermediate	2008.0	139.0
+55695	http://glendale.slcschools.org/	Glendale Middle School	2010.0	10.0
+55696	http://www.dhrm.utah.gov/	Human Resource Management (Department of)	2001.0	2.0
+55697	http://hrz.washk12.org/	Horizon Elementary School	2007.0	48.0
+55699	http://www.threemilecreek.besd.net	Three Mile Creek Elementary School	2008.0	9.0
+55700	http://berylutah.com/	Beryl	2003.0	10.0
+55701	http://www.mapleton.org/	Mapleton	1998.0	25.0
+55702	http://srms.info	Sunset Ridge Middle School	2009.0	0.0
+55703	http://bop.utah.gov/	Board of Pardons & Parole	2001.0	173.0
+55704	http://bhs.davis.k12.ut.us	Bountiful High School	2000.0	3.0
+55705	http://www.emerycsd.org/cleveland.cfm	Cleveland Elementary School	0.0	14903.0
