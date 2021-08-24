@@ -46,7 +46,7 @@ write_csv(misc_academic, "data-raw/misc_academic.csv")
 library("tidytext")
 
 texas_data <- github_users %>% 
-  filter(grepl("Xi'an Jiaotong", company))
+  filter(grepl("government|united states|federal", company))
 
 texas_ngrams <- texas_data %>% 
   #mutate(company = str_replace(company, " & ", " and "))
