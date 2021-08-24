@@ -1,0 +1,564 @@
+"branch","agency","subagency","admin","institution","az_index","gov_man","ffrdcs","ffs"
+"executive office of the u.s. president","white house",NA,NA,"u.s. council of economic advisers",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. council on environmental quality",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. national security council",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. office of management and budget",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. office of national drug control policy",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. office of science and technology policy",1,0,0,0
+"executive office of the u.s. president","white house",NA,NA,"u.s. trade representative",1,0,0,0
+"executive office of the u.s. president",NA,NA,NA,"the president",0,1,0,0
+"executive office of the u.s. president",NA,NA,NA,"the vice president",0,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of agriculture",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of commerce",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of defense",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of education",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of energy",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of health and human services",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of homeland security",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of housing and urban development",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of justice",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of labor",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of state",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of the interior",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of the treasury",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of transportation",1,1,0,0
+"u.s. executive branch","white house",NA,NA,"u.s. department of veterans affairs",1,1,0,0
+"u.s. executive branch","u.s. department of agriculture","science and education administration",NA,"cooperative state research service",0,0,0,1
+"u.s. executive branch","u.s. department of agriculture","science and education administration",NA,"national agricultural library",0,0,0,1
+"u.s. executive branch","u.s. department of agriculture","science and education administration",NA,"u.s. agricultural research service",0,0,0,1
+"u.s. executive branch","u.s. department of agriculture","u.s. economic research service",NA,"farmer cooperative service",0,0,0,1
+"u.s. executive branch","u.s. department of agriculture","u.s. economic research service",NA,"statistical reporting service",0,0,0,1
+"u.s. executive branch","u.s. department of agriculture","usda - marketing and regulatory programs",NA,"u.s. agricultural marketing service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture","usda - marketing and regulatory programs",NA,"u.s. animal and plant health inspection service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture","usda - marketing and regulatory programs",NA,"u.s. grain inspection, packers and stockyards administration",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture","usda - rural development",NA,"u.s. rural business-cooperative service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture","usda - rural development",NA,"u.s. rural housing service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture","usda - rural development",NA,"u.s. rural utilities service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. agricultural research service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. center for nutrition policy and promotion",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. farm service agency",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. food and nutrition service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. food safety and inspection service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. foreign agricultural service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. forest service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. national agricultural statistics service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. national institute of food and agriculture",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. national library of agriculture",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. natural resources conservation service",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"u.s. risk management agency",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"usda - marketing and regulatory programs",1,0,0,0
+"u.s. executive branch","u.s. department of agriculture",NA,NA,"usda - rural development",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. international trade administration",NA,"u.s. committee for the implementation of textile agreements",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. national institute of standards and technology",NA,"u.s. weights and measures division",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. national oceanic and atmospheric administration",NA,"u.s. national marine fisheries service",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. national oceanic and atmospheric administration",NA,"u.s. national ocean service",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. national oceanic and atmospheric administration",NA,"u.s. national weather service",1,0,0,0
+"u.s. executive branch","u.s. department of commerce","u.s. national oceanic and atmospheric administration",NA,"u.s. seafood inspection program",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. bureau of economic analysis",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. bureau of industry and security",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. census bureau",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. economic development administration",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. international trade administration",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. minority business development agency",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. national institute of standards and technology",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. national oceanic and atmospheric administration",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. national technical information service",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. national telecommunications and information administration",1,0,0,0
+"u.s. executive branch","u.s. department of commerce",NA,NA,"u.s. patent and trademark office",1,0,0,0
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"chemical and biological defense",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"defense business transformation agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"defense nuclear agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"defense special weapons agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"joint staff",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"national imagery and mapping agency ",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"office of the secretary of defense",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"special operations command",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense advanced research projects agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense contract management agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense information systems agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense logistics agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense security service",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense technical information center",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. defense threat reduction agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. missile defense agency",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. uniformed services university of the health sciences",0,0,0,1
+"u.s. executive branch","u.s. department of defense","defense agencies",NA,"u.s. washington headquarters services",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"civil functions",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"dt&e support from operations and maintenance",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"dt&e support from procurement appropriations",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"housing for military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"housing for military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"materiel command",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"military construction",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"military construction",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"military functions",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"pay and allowances of military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"pay and allowances of military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"rdt&e appropriation",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"rdt&e appropriation",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"space command",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"special foreign currency program",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"special foreign currency program",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"support from procurement appropriations",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"u.s. air force reserve command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. air force",NA,"u.s. department of the army",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. defense finance and accounting service",NA,"u.s. defense finance and accounting service - debt and claims management center",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. defense intelligence agency",NA,"u.s. national intelligence university",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. department of the army",NA,"u.s. army corps of engineers",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. department of the army",NA,"u.s. joint program executive office for chemical and biological defense",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. department of the army",NA,"u.s. military academy, west point",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. department of the army",NA,"u.s. national guard",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"dt&e support from operations and maintenance",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"dt&e support from procurement appropriations",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"housing for military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"military construction",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"operational test and evaluation, director",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"pay and allowances of military personnel in r&d",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"rdt&e appropriation",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"special foreign currency program",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"test and evaluation, deputy under secretary of defense",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"u.s. assistant secretary of defense for health affairs",0,0,0,1
+"u.s. executive branch","u.s. department of defense","u.s. department of the navy",NA,"u.s. marine corps",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. national defense university",NA,"dwight d. eisenhower school for national security and resource strategy",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. national defense university",NA,"u.s. joint forces staff college",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. national defense university",NA,"u.s. national defense university - college of information and cyberspace",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. national defense university",NA,"u.s. national war college",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. central command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. european command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. northern command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. pacific command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. southern command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. special operations command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. strategic command",1,0,0,0
+"u.s. executive branch","u.s. department of defense","u.s. unified combatant commands",NA,"u.s. transportation command",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,"rand corp.","u.s. air force",1,0,1,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense acquisition university",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense advanced research projects agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense commissary agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense contract audit agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense contract management agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense finance and accounting service",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense health agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense information systems agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense intelligence agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense logistics agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense security cooperation agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense security service",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense technical information center",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. defense threat reduction agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. department of the army",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. department of the navy",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. federal voting assistance program",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. fleet forces command",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. joint chiefs of staff",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. missile defense agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. national defense university",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. national geospatial-intelligence agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. national reconnaissance office",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. national security agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. office of economic adjustment",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. pentagon force protection agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. prisoner of war and missing in action accounting agency",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. unified combatant commands",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. uniformed services university of the health sciences",1,0,0,0
+"u.s. executive branch","u.s. department of defense",NA,NA,"u.s. washington headquarters services",1,0,0,0
+"u.s. executive branch","u.s. department of education","u.s. office of special education and rehabilitative services",NA,"u.s. center for parent information and resources",1,0,0,0
+"u.s. executive branch","u.s. department of education","u.s. office of special education and rehabilitative services",NA,"u.s. rehabilitation services administration",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. commission on presidential scholars",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. english language acquisition office",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. federal student aid information center",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. institute of education sciences",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. office of career, technical, and adult education",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. office of elementary and secondary education",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. office of postsecondary education",1,0,0,0
+"u.s. executive branch","u.s. department of education",NA,NA,"u.s. office of special education and rehabilitative services",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","alliance for sustainable energy, llc","national renewable energy laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","battelle energy alliance, llc","idaho national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","battelle memorial institute","pacific northwest national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","brookhaven science associates, llc","brookhaven national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","fermi research alliance, llc","fermi national accelerator laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","iowa state university","ames laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","jefferson science associates, llc","thomas jefferson national accelerator facility",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","lawrence livermore national security, llc","lawrence livermore national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","princeton university","princeton plasma physics laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","savannah river nuclear solutions, llc","savannah river national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","stanford university","slac national accelerator laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","triad national security, llc","los alamos national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","uchicago argonne, llc","argonne national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","university of california","lawrence berkeley national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories","ut-battelle, llc","oak ridge national laboratory",1,0,1,0
+"u.s. executive branch","u.s. department of energy","u.s. national laboratories",NA,"national energy technology laboratory",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. office of science",NA,"u.s. office of scientific and technical information",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. power administrations",NA,"u.s.  bonneville power administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. power administrations",NA,"u.s. southeastern power administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. power administrations",NA,"u.s. southwestern power administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy","u.s. power administrations",NA,"u.s. western area power administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. energy information administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. federal energy regulatory commission",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. national laboratories",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. national nuclear security administration",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. office of environmental management",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. office of fossil energy",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. office of nuclear energy",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. office of science",1,0,0,0
+"u.s. executive branch","u.s. department of energy",NA,NA,"u.s. power administrations",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. administration for children and families",NA,"u.s. administration for native americans",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. administration for children and families",NA,"u.s. office of child support enforcement",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. administration for children and families",NA,"u.s. office of refugee resettlement",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. centers for disease control and prevention",NA,"cdc - agency for toxic substances and disease registry",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. centers for disease control and prevention",NA,"cdc - national institute of occupational safety and health",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. centers for disease control and prevention",NA,"cdc - national prevention information network",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. centers for medicare and medicaid services",NA,"medicaid",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. centers for medicare and medicaid services",NA,"medicare",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. food and drug administration",NA,"u.s. center for food safety and applied nutrition",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national heart, lung, and blood institute",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national institute of arthritis, musculoskeletal and skin diseases",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national institute of deafness and other communication disorders",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national institute of diabetes and digestive and kidney diseases",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national institute of mental health",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"nih - national institute of neurological disorders and stroke",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services","u.s. national institutes of health",NA,"u.s. substance abuse and mental health services administration",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. administration for children and families",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. administration for community living",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. agency for healthcare research and quality",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. centers for disease control and prevention",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. centers for medicare and medicaid services",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. food and drug administration",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. health resources and services administration",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. indian health service",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. national cancer institute",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. national health information center",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. national institutes of health",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. office of minority health",1,0,0,0
+"u.s. executive branch","u.s. department of health and human services",NA,NA,"u.s. president's council on fitness, sports and nutrition",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security","u.s. federal emergency management agency",NA,"u.s. fire administration",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security","u.s. federal emergency management agency",NA,"u.s. national flood insurance program",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. citizenship and immigration services",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. coast guard",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. computer emergency readiness team",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. customs and border protection",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. cybersecurity and infrastructure security agency",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. federal emergency management agency",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. federal law enforcement training center",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. federal protective service",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. immigration and customs enforcement",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. secret service",1,0,0,0
+"u.s. executive branch","u.s. department of homeland security",NA,NA,"u.s. transportation security administration",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development","u.s. office of housing",NA,"u.s. federal housing administration",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. government national mortgage association",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of community planning and development",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of fair housing and equal opportunity",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of housing",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of lead hazard control and healthy homes",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of manufactured housing programs",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of multifamily housing",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. office of policy development and research",1,0,0,0
+"u.s. executive branch","u.s. department of housing and urban development",NA,NA,"u.s. public and indian housing",1,0,0,0
+"u.s. executive branch","u.s. department of justice","u.s. federal bureau of prisons",NA,"u.s. national institute of corrections",1,0,0,0
+"u.s. executive branch","u.s. department of justice","u.s. office of justice programs",NA,"u.s. bureau of justice statistics",1,0,0,0
+"u.s. executive branch","u.s. department of justice","u.s. office of justice programs",NA,"u.s. national institute of justice",1,0,0,0
+"u.s. executive branch","u.s. department of justice","u.s. office of justice programs",NA,"u.s. office of juvenile justice and delinquency prevention",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. antitrust division",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. bureau of alcohol, tobacco, firearms and explosives",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. community oriented policing services",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. drug enforcement administration",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. elder justice initiative",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. executive office for immigration review",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. federal bureau of investigation",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. federal bureau of prisons",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. foreign claims settlement commission",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. marshals service",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. national central bureau - interpol",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. office of immigrant and employee rights",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. office of justice programs",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. office of the pardon attorney",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. office on violence against women",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. parole commission",1,0,0,0
+"u.s. executive branch","u.s. department of justice",NA,NA,"u.s. trustee program",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. bureau of international labor affairs",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. bureau of labor statistics",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. employee benefits security administration",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. employment and training administration",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. job corps",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. mine safety and health administration",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. occupational safety and health administration",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. office of disability employment policy",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. veterans' employment and training service",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. wage and hour division",1,0,0,0
+"u.s. executive branch","u.s. department of labor",NA,NA,"u.s. women's bureau",1,0,0,0
+"u.s. executive branch","u.s. department of state","u.s. bureau of consular affairs",NA,"u.s. national passport information center",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. arms control and international security",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. bureau of consular affairs",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. economic growth, energy, and the environment",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. mission to the united nations",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. political affairs",1,0,0,0
+"u.s. executive branch","u.s. department of state",NA,NA,"u.s. public diplomacy and public affairs",1,0,0,0
+"u.s. executive branch","u.s. department of the interior","office of water research and technology",NA,"office of saline water",0,0,0,1
+"u.s. executive branch","u.s. department of the interior","office of water research and technology",NA,"office of water resources research",0,0,0,1
+"u.s. executive branch","u.s. department of the interior","u.s. fish and wildlife service",NA,"bureau of commercial fisheries",0,0,0,1
+"u.s. executive branch","u.s. department of the interior","u.s. fish and wildlife service",NA,"bureau of sport fisheries and wildlife",0,0,0,1
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. bureau of indian affairs",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. bureau of land management",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. bureau of ocean energy management",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. bureau of reclamation",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. bureau of safety and environmental enforcement",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. federal consulting group",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. fish and wildlife service",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. geological survey",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. national park service",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. office of natural resources revenue",1,0,0,0
+"u.s. executive branch","u.s. department of the interior",NA,NA,"u.s. office of surface mining reclamation and enforcement",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. alcohol and tobacco tax and trade bureau",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. bureau of engraving and printing",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. bureau of the fiscal service",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. internal revenue service",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. mint",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. office of the comptroller of the currency",1,0,0,0
+"u.s. executive branch","u.s. department of the treasury",NA,NA,"u.s. taxpayer advocacy panel",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"saint lawrence seaway development corporation",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. bureau of transportation statistics",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. federal aviation administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. federal highway administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. federal motor carrier safety administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. federal railroad administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. federal transit administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. maritime administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. national highway traffic safety administration",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. office of the assistant secretary for research and technology",1,0,0,0
+"u.s. executive branch","u.s. department of transportation",NA,NA,"u.s. pipeline and hazardous materials safety administration",1,0,0,0
+"u.s. executive branch","u.s. department of veterans affairs",NA,NA,"u.s. national cemetery administration",1,0,0,0
+"u.s. executive branch","u.s. department of veterans affairs",NA,NA,"u.s. veterans benefits administration",1,0,0,0
+"u.s. executive branch","u.s. department of veterans affairs",NA,NA,"u.s. veterans health administration",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"alhurra tv",1,0,0,0
+"u.s. executive branch","u.s. environmental protection ageny",NA,NA,"energy star program",1,0,0,0
+"u.s. executive branch","u.s. general services administration",NA,NA,"federal citizen information center",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"middle east broadcasting networks",1,0,0,0
+"u.s. executive branch","u.s. court services and offender supervision agency",NA,NA,"pretrial services agency for the district of columbia",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"radio and tv martí",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"radio free asia",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"radio free europe and radio liberty",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"radio sawa",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. abilityone commission",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. access board",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. armed forces retirement home",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. commission on international religious freedom",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. court services and offender supervision agency",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. election assistance commission",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. environmental protection ageny",1,1,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. farm credit system insurance corporation",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. federal accounting standards advisory board",1,0,0,0
+"u.s. executive branch","u.s. office of personnel management",NA,NA,"u.s. federal executive boards",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. holocaust memorial museum",1,1,0,0
+"u.s. executive branch","u.s. environmental protection ageny",NA,NA,"u.s. indoor air quality",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. joint board for the enrollment of actuaries",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. joint fire science program",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. meat and poultry hotline",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. national indian gaming commission",1,0,0,0
+"u.s. executive branch",NA,NA,NA,"u.s. national interagency fire center",1,0,0,0
+"u.s. executive branch","u.s. environmental protection ageny",NA,NA,"u.s. national pesticide information center",1,0,0,0
+"u.s. executive branch","u.s. securities and exchange commission",NA,NA,"u.s. office of investor education and advocacy",1,0,0,0
+"u.s. executive branch","u.s. consumer financial protection bureau",NA,NA,"u.s. office of servicemember affairs",1,0,0,0
+"u.s. executive branch","u.s. national archives and records administration",NA,NA,"u.s. office of the federal register",1,0,0,0
+"u.s. executive branch","u.s. postal service",NA,NA,"u.s. postal inspection service",1,0,0,0
+"u.s. executive branch","u.s. general services administration",NA,NA,"usagov",1,0,0,0
+"u.s. executive branch","u.s. agency for global media",NA,NA,"voice of america",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives","u.s. architect of the capitol",NA,"u.s. botanic garden",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives","u.s. architect of the capitol",NA,"u.s. capitol visitor center",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives","u.s. library of congress",NA,"u.s. congressional research service",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives","u.s. library of congress",NA,"u.s. copyright office",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"stennis center for public service",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. architect of the capitol",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. capitol police",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. congressional budget office",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. government accountability office",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. government publishing office",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. house office of inspector general",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. house office of the clerk",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. library of congress",1,1,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. office of compliance",1,0,0,0
+"u.s. legislative branch","u.s. house of representatives",NA,NA,"u.s. open world leadership center",1,0,0,0
+"u.s. legislative branch",NA,"u.s. centers for medicare and medicaid services",NA,"u.s. medicaid and chip payment and access commission",1,0,0,0
+"u.s. legislative branch",NA,"u.s. centers for medicare and medicaid services",NA,"u.s. medicare payment advisory commission",1,0,0,0
+"u.s. legislative branch",NA,NA,NA,"u.s. congress",0,1,0,0
+"u.s. legislative branch",NA,NA,NA,"u.s. house of representatives",1,0,0,0
+"u.s. legislative branch",NA,NA,NA,"u.s. joint congressional committee on inaugural ceremonies",1,0,0,0
+"u.s. legislative branch",NA,NA,NA,"u.s. senate",1,0,0,0
+"u.s. judicial branch","supreme court of the u.s.",NA,NA,"u.s. court of appeals for the federal circuit",1,0,0,0
+"u.s. judicial branch","supreme court of the u.s.",NA,NA,"u.s. federal court interpreters",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"administrative office of the u.s. courts",1,1,0,0
+"u.s. judicial branch",NA,NA,NA,"supreme court of the u.s.",1,1,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. bankruptcy courts",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. circuit courts of appeal",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. court of appeals for the armed forces",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. court of appeals for veterans claims",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. court of federal claims",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. court of international trade",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. federal judicial center",1,1,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. judicial panel on multidistrict litigation",1,0,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. lower courts",0,1,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. sentencing commission",1,1,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. special courts",0,1,0,0
+"u.s. judicial branch",NA,NA,NA,"u.s. tax court",1,0,0,0
+"u.s. independent agency",NA,"international development cooperation agency",NA,"institute for scientific and technological cooperation",0,0,0,1
+"u.s. independent agency",NA,"international development cooperation agency",NA,"u.s. agency for international development",0,0,0,1
+"u.s. independent agency",NA,NA,NA,"administrative conference of the u.s.",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"african development bank group",1,1,0,0
+"u.s. independent agency","u.s. corporation for national and community service",NA,NA,"americorps",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"amtrak",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"denali commission",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"export-import bank of the u.s.",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"inter-american foundation",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"millennium challenge corporation",1,0,0,0
+"u.s. independent agency","u.s. corporation for national and community service",NA,NA,"senior corps",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"tennessee valley authority",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. agency for global media",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. agency for international development",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. central intelligence agency",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. chief acquisition officers council",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. chief financial officers council",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. chief human capital officers council",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. chief information officers council",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. commission on civil rights",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. commission on security and cooperation in europe",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. commodity futures trading commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. consumer financial protection bureau",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. consumer product safety commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. corporation for national and community service",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. defense nuclear facilities safety board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. equal employment opportunity commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. farm credit administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal communications commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal deposit insurance corporation",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal election commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal housing finance agency",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal labor relations authority",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal maritime commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal mediation and conciliation service",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal mine safety and health review commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal reserve system",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal retirement thrift investment board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. federal trade commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. general services administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. institute of museum and library services",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. international development finance corporation",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. international trade commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. merit systems protection board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national aeronautics and space administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national archives and records administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national capital planning commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national credit union administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national endowment for the arts",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national endowment for the humanities",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national foundation on the arts and the humanities",0,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national labor relations board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national mediation board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national science foundation",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. national transportation safety board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. nuclear regulatory commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. occupational safety and health review commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. office of director of national intelligence",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. office of government ethics",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. office of personnel management",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. office of special counsel",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. overseas private investment corporation",0,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. peace corps",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. pension benefit guaranty corporation",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. postal regulatory commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. postal service",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. privacy and civil liberties oversight board",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. railroad retirement board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. securities and exchange commission",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. selective service system",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. small business administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. social security administration",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. surface transportation board",1,1,0,0
+"u.s. independent agency",NA,NA,NA,"u.s. trade and development agency",1,1,0,0
+"u.s. independent agency","u.s. federal communications commission",NA,NA,"u.s. wireless telecommunications bureau",1,0,0,0
+"u.s. independent agency",NA,NA,NA,"white house",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of state",NA,NA,"fulbright foreign scholarship board",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of the interior","u.s. fish and wildlife service",NA,"u.s. endangered species program",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of the interior","u.s. fish and wildlife service",NA,"u.s. migratory bird conservation commission",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of the interior",NA,NA,"u.s. indian arts and crafts board",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of the treasury",NA,NA,"committee on foreign investment in the u.s.",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of the treasury",NA,NA,"u.s. federal financing bank",1,0,0,0
+"u.s. independent board, commission, committee","u.s. department of veterans affairs",NA,NA,"veterans day national committee",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"american battle monuments commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"appalachian regional commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"barry m. goldwater scholarship and excellence in education program",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"delaware river basin commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"delta regional authority",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"harry s. truman scholarship foundation",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"james madison memorial fellowship foundation",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"japan-u.s. friendship commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"mississippi river commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"morris k. udall and stewart l. udall foundation",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"presidio trust",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"susquehanna river basin commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. advisory council on historic preservation",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. arctic research commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. chemical safety board",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. citizens' stamp advisory committee",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. commission of fine arts",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. coordinating council on juvenile justice and delinquency prevention",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. council of the inspectors general on integrity and efficiency",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal financial institutions examination council",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal geographic data committee",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal interagency committee on education",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal interagency council on statistical policy",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal laboratory consortium for technology transfer",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. federal library and information center committee",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. interagency alternative dispute resolution working group",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. interagency committee for the management of noxious and exotic weeds",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. interagency council on homelessness",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. marine mammal commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. national council on disability",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. national park foundation",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. northern border regional commission",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. northwest power and conservation council",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. nuclear waste technical review board",1,0,0,0
+"u.s. independent board, commission, committee",NA,NA,NA,"u.s. social security advisory board",1,0,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"john f. kennedy center for the performing arts",1,0,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"smithsonian institution",1,1,0,0
+"u.s. quasi-official governmental institution","u.s. federal housing finance agency",NA,NA,"u.s. federal home loan mortgage corporation",1,0,0,0
+"u.s. quasi-official governmental institution","u.s. federal housing finance agency",NA,NA,"u.s. federal national mortgage association",1,0,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"u.s. institute of peace",1,1,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"u.s. legal services corporation",1,1,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"u.s. national constitution center",1,0,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"u.s. national gallery of art",1,0,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"u.s. state justice institute",1,1,0,0
+"u.s. quasi-official governmental institution",NA,NA,NA,"woodrow wilson international center for scholars",1,0,0,0
+"u.s. international organizations",NA,NA,NA,"asian development bank",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"european bank for reconstruction and development",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"inter-american defense board",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"inter-american development bank",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"inter-american investment corporation",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"international monetary fund",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"international organization for migration",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"organization of american states",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"united nations",0,1,0,0
+"u.s. international organizations",NA,NA,NA,"world bank group",0,1,0,0
+NA,"u.s. department of defense",NA,"carnegie mellon university","software engineering institute",0,0,1,0
+NA,"u.s. department of defense",NA,"institute for defense analyses","center for communications and computing",0,0,1,0
+NA,"u.s. department of defense",NA,"institute for defense analyses","systems and analyses center",0,0,1,0
+NA,"u.s. department of defense",NA,"massachusetts institute of technology","lincoln laboratory",0,0,1,0
+NA,"u.s. department of defense",NA,"mitre corp.","national security engineering center",0,0,1,0
+NA,"u.s. department of defense",NA,"rand corp.","arroyo center",0,0,1,0
+NA,"u.s. department of defense",NA,"rand corp.","national defense research institute",0,0,1,0
+NA,"u.s. department of defense",NA,"the aerospace corporation","aerospace federally funded research and development center",0,0,1,0
+NA,"u.s. department of defense",NA,"the cna corporation","center for naval analyses",0,0,1,0
+NA,"u.s. department of energy",NA,"national technology and engineering solutions of sandia, llc","sandia national laboratories",0,0,1,0
+NA,"u.s. department of health and human services",NA,"mitre corp.","cms alliance to modernize healthcare",0,0,1,0
+NA,"u.s. department of homeland security",NA,"battelle national biodefense institute","national biodefense analysis and countermeasures center",0,0,1,0
+NA,"u.s. department of homeland security",NA,"mitre corp.","homeland security systems engineering and development institute",0,0,1,0
+NA,"u.s. department of homeland security",NA,"rand corp.","homeland security operational analysis center",0,0,1,0
+NA,"u.s. department of the treasury",NA,"mitre corporation","center for enterprise modernization",0,0,1,0
+NA,"u.s. department of transportation",NA,"mitre corp.","center for advanced aviation system development",0,0,1,0
+NA,"u.s. national science foundation",NA,"associated universities, inc.","national radio astronomy observatory",0,0,1,0
+NA,"u.s. national science foundation",NA,"association of universities for research in astronomy, inc.","national solar observatory",0,0,1,0
+NA,"u.s. national science foundation",NA,"association of universities for research in astronomy, inc.","nsf's national optical-infrared astronomy research laboratory",0,0,1,0
+NA,"u.s. national aeronautics and space administration",NA,"california institute of technology","jet propulsion laboratory",0,0,1,0
+NA,"u.s. national science foundation",NA,"institute for defense analyses","science and technology policy institute",0,0,1,0
+NA,"u.s. courts",NA,"mitre corp.","judiciary engineering and modernization center",0,0,1,0
+NA,"u.s. national institute of standards and technology",NA,"mitre corp.","national cybersecurity center of excellence",0,0,1,0
+NA,"u.s. nuclear regulatory commission",NA,"southwest research institute","center for nuclear waste regulatory analyses",0,0,1,0
+NA,"u.s. national science foundation",NA,"university corporation for atmospheric research","national center for atmospheric research",0,0,1,0

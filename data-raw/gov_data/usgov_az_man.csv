@@ -1,0 +1,486 @@
+"branch","subagency","agency","institution","gm_email","gm_website","gm_address","gm_phone","website","other_website","az_index","gov_man"
+"executive office of the u.s. president",NA,"white house","u.s. council of economic advisers",NA,NA,NA,NA,"https://www.whitehouse.gov/cea/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. council on environmental quality",NA,NA,NA,NA,"https://www.whitehouse.gov/ceq/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. national security council",NA,NA,NA,NA,"https://www.whitehouse.gov/nsc/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. office of management and budget",NA,NA,NA,NA,"https://www.whitehouse.gov/omb/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. office of national drug control policy",NA,NA,NA,NA,"https://www.whitehouse.gov/ondcp/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. office of science and technology policy",NA,NA,NA,NA,"https://www.whitehouse.gov/ostp/",NA,1,0
+"executive office of the u.s. president",NA,"white house","u.s. trade representative",NA,NA,NA,NA,"https://ustr.gov/",NA,1,0
+"executive office of the u.s. president",NA,NA,"the president",NA,NA,NA,NA,NA,NA,0,1
+"executive office of the u.s. president",NA,NA,"the vice president",NA,NA,NA,NA,NA,NA,0,1
+"u.s. executive branch",NA,"white house","u.s. department of agriculture",NA,"http://www.usda.gov","1400 Independence Avenue SW., Washington, DC 20250","202-720-2791","https://www.usda.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of commerce",NA,"http://www.doc.gov","Fourteenth Street and Constitution Avenue NW., Washington, DC 20230","202-482-2000","https://www.commerce.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of defense",NA,"http://www.defense.gov","Office of the Secretary, The Pentagon, Washington, DC 20301-1155","703-545-6700","https://www.defense.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of education",NA,"http://www.ed.gov","400 Maryland Avenue SW., Washington, DC 20202","202-401-2000","https://www.ed.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of energy",NA,"http://www.energy.gov","1000 Independence Avenue SW., Washington, DC 20585","202-586-5000","https://www.energy.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of health and human services",NA,"http://www.hhs.gov","200 Independence Avenue SW., Washington, DC 20201","202-690-6343","https://www.hhs.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of homeland security",NA,"http://www.dhs.gov","Washington, DC 20528","202-282-8000","https://www.dhs.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of housing and urban development",NA,"http://www.hud.gov","451 Seventh Street SW., Washington, DC 20410","202-708-1422","https://www.hud.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of justice",NA,"http://www.justice.gov","950 Pennsylvania Avenue NW., Washington, DC 20530","202-514-2000","https://www.justice.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of labor",NA,"http://www.dol.gov","200 Constitution Avenue NW., Washington, DC 20210","202-693-6000","https://www.dol.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of state",NA,"http://www.state.gov","2201 C Street NW., Washington, DC 20520","202-647-4000","https://www.state.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of the interior",NA,"http://www.doi.gov","1849 C Street NW., Washington, DC 20240","202-208-3100","https://www.doi.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of the treasury",NA,"http://www.treasury.gov","1500 Pennsylvania Avenue NW., Washington, DC 20220","202-622-2000","https://home.treasury.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of transportation",NA,"http://www.dot.gov","1200 New Jersey Avenue SE., Washington, DC 20590","202-366-4000","https://www.transportation.gov/",NA,1,1
+"u.s. executive branch",NA,"white house","u.s. department of veterans affairs",NA,"http://www.va.gov","810 Vermont Avenue NW., Washington, DC 20420","202-461-4800","https://www.va.gov/",NA,1,1
+"u.s. executive branch","usda - marketing and regulatory programs","u.s. department of agriculture","u.s. agricultural marketing service",NA,NA,NA,NA,"https://www.ams.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. agricultural research service",NA,NA,NA,NA,"https://www.ars.usda.gov/",NA,1,0
+"u.s. executive branch","usda - marketing and regulatory programs","u.s. department of agriculture","u.s. animal and plant health inspection service",NA,NA,NA,NA,"https://www.aphis.usda.gov/aphis/home/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. center for nutrition policy and promotion",NA,NA,NA,NA,"https://www.fns.usda.gov/cnpp","https://www.choosemyplate.gov/",1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. economic research service",NA,NA,NA,NA,"https://www.ers.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. farm service agency",NA,NA,NA,NA,"https://www.fsa.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. food and nutrition service",NA,NA,NA,NA,"https://www.fns.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. food safety and inspection service",NA,NA,NA,NA,"https://www.fsis.usda.gov/wps/portal/fsis/home",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. foreign agricultural service",NA,NA,NA,NA,"https://www.fas.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. forest service",NA,NA,NA,NA,"https://www.fs.usda.gov/",NA,1,0
+"u.s. executive branch","usda - marketing and regulatory programs","u.s. department of agriculture","u.s. grain inspection, packers and stockyards administration",NA,NA,NA,NA,"https://www.gipsa.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. national agricultural statistics service",NA,NA,NA,NA,"https://www.nass.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. national institute of food and agriculture",NA,NA,NA,NA,"https://nifa.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. national library of agriculture",NA,NA,NA,NA,"https://www.nal.usda.gov/main/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. natural resources conservation service",NA,NA,NA,NA,"https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","u.s. risk management agency",NA,NA,NA,NA,"https://www.rma.usda.gov/",NA,1,0
+"u.s. executive branch","usda - rural development","u.s. department of agriculture","u.s. rural business-cooperative service",NA,NA,NA,NA,"https://www.rd.usda.gov/about-rd/agencies/rural-business-cooperative-service",NA,1,0
+"u.s. executive branch","usda - rural development","u.s. department of agriculture","u.s. rural housing service",NA,NA,NA,NA,"https://www.rd.usda.gov/about-rd/agencies/rural-housing-service",NA,1,0
+"u.s. executive branch","usda - rural development","u.s. department of agriculture","u.s. rural utilities service",NA,NA,NA,NA,"https://www.rd.usda.gov/about-rd/agencies/rural-utilities-service",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","usda - marketing and regulatory programs",NA,NA,NA,NA,"https://www.aphis.usda.gov/aphis/ourfocus/business-services",NA,1,0
+"u.s. executive branch",NA,"u.s. department of agriculture","usda - rural development",NA,NA,NA,NA,"https://www.rd.usda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. bureau of economic analysis",NA,NA,NA,NA,"https://www.bea.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. bureau of industry and security",NA,NA,NA,NA,"https://www.bis.doc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. census bureau",NA,NA,NA,NA,"https://www.census.gov/",NA,1,0
+"u.s. executive branch","u.s. international trade administration","u.s. department of commerce","u.s. committee for the implementation of textile agreements",NA,NA,NA,NA,"https://otexa.trade.gov/cita_otexa.htm",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. economic development administration",NA,NA,NA,NA,"https://www.eda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. international trade administration",NA,NA,NA,NA,"https://www.trade.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. minority business development agency",NA,NA,NA,NA,"https://www.mbda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. national institute of standards and technology",NA,NA,NA,NA,"https://www.nist.gov/",NA,1,0
+"u.s. executive branch","u.s. national oceanic and atmospheric administration","u.s. department of commerce","u.s. national marine fisheries service",NA,NA,NA,NA,"https://www.fisheries.noaa.gov/",NA,1,0
+"u.s. executive branch","u.s. national oceanic and atmospheric administration","u.s. department of commerce","u.s. national ocean service",NA,NA,NA,NA,"https://oceanservice.noaa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. national oceanic and atmospheric administration",NA,NA,NA,NA,"https://www.noaa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. national technical information service",NA,NA,NA,NA,"https://www.ntis.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. national telecommunications and information administration",NA,NA,NA,NA,"https://www.ntia.doc.gov/",NA,1,0
+"u.s. executive branch","u.s. national oceanic and atmospheric administration","u.s. department of commerce","u.s. national weather service",NA,NA,NA,NA,"https://www.weather.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of commerce","u.s. patent and trademark office",NA,NA,NA,NA,"https://www.uspto.gov/",NA,1,0
+"u.s. executive branch","u.s. national oceanic and atmospheric administration","u.s. department of commerce","u.s. seafood inspection program",NA,NA,NA,NA,"https://www.fisheries.noaa.gov/topic/seafood-commerce-certification#seafood-inspection","https://www.fishwatch.gov/",1,0
+"u.s. executive branch","u.s. national institute of standards and technology","u.s. department of commerce","u.s. weights and measures division",NA,NA,NA,NA,"https://www.nist.gov/pml/weights-and-measures",NA,1,0
+"u.s. executive branch","u.s. national defense university","u.s. department of defense","dwight d. eisenhower school for national security and resource strategy",NA,NA,NA,NA,"https://www.ndu.edu/Academics/CollegesCenters/TheEisenhowerSchool.aspx",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. air force",NA,NA,NA,NA,"https://www.af.mil/",NA,1,0
+"u.s. executive branch","u.s. air force","u.s. department of defense","u.s. air force reserve command",NA,NA,NA,NA,"https://www.afrc.af.mil/","https://www.afreserve.com/",1,0
+"u.s. executive branch","u.s. department of the army","u.s. department of defense","u.s. army corps of engineers",NA,NA,NA,NA,"https://www.usace.army.mil/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. central command",NA,NA,NA,NA,"https://www.centcom.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense acquisition university",NA,NA,NA,NA,"https://www.dau.edu/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense advanced research projects agency",NA,NA,NA,NA,"https://www.darpa.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense commissary agency",NA,NA,NA,NA,"https://www.commissaries.com/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense contract audit agency",NA,NA,NA,NA,"https://www.dcaa.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense contract management agency",NA,NA,NA,NA,"https://www.dcma.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense finance and accounting service",NA,NA,NA,NA,"https://www.dfas.mil/",NA,1,0
+"u.s. executive branch","u.s. defense finance and accounting service","u.s. department of defense","u.s. defense finance and accounting service - debt and claims management center",NA,NA,NA,NA,"https://www.dfas.mil/debtandclaims/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense health agency",NA,NA,NA,NA,"https://www.health.mil/About-MHS/Contact-Us","https://tricare.mil/ContactUs",1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense information systems agency",NA,NA,NA,NA,"https://www.disa.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense intelligence agency",NA,NA,NA,NA,"https://www.dia.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense logistics agency",NA,NA,NA,NA,"https://www.dla.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense security cooperation agency",NA,NA,NA,NA,"https://www.dsca.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense security service",NA,NA,NA,NA,"https://www.dcsa.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense technical information center",NA,NA,NA,NA,"https://discover.dtic.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. defense threat reduction agency",NA,NA,NA,NA,"https://www.dtra.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. department of the army",NA,NA,NA,NA,"https://www.army.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. department of the navy",NA,NA,NA,NA,"https://www.navy.mil/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. european command",NA,NA,NA,NA,"https://www.eucom.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. federal voting assistance program",NA,NA,NA,NA,"https://www.fvap.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. fleet forces command",NA,NA,NA,NA,"https://www.public.navy.mil/usff/Pages/default.aspx",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. joint chiefs of staff",NA,NA,NA,NA,"https://www.jcs.mil/",NA,1,0
+"u.s. executive branch","u.s. national defense university","u.s. department of defense","u.s. joint forces staff college",NA,NA,NA,NA,"https://jfsc.ndu.edu/",NA,1,0
+"u.s. executive branch","u.s. department of the army","u.s. department of defense","u.s. joint program executive office for chemical and biological defense",NA,NA,NA,NA,"https://www.jpeocbrnd.osd.mil/",NA,1,0
+"u.s. executive branch","u.s. department of the navy","u.s. department of defense","u.s. marine corps",NA,NA,NA,NA,"https://www.marines.mil/",NA,1,0
+"u.s. executive branch","u.s. department of the army","u.s. department of defense","u.s. military academy, west point",NA,NA,NA,NA,"https://www.westpoint.edu/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. missile defense agency",NA,NA,NA,NA,"https://www.mda.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. national defense university",NA,NA,NA,NA,"https://www.ndu.edu/",NA,1,0
+"u.s. executive branch","u.s. national defense university","u.s. department of defense","u.s. national defense university - college of information and cyberspace",NA,NA,NA,NA,"https://cic.ndu.edu/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. national geospatial-intelligence agency",NA,NA,NA,NA,"https://www.nga.mil/Pages/Default.aspx",NA,1,0
+"u.s. executive branch","u.s. department of the army","u.s. department of defense","u.s. national guard",NA,NA,NA,NA,"https://www.nationalguard.mil/","https://www.nationalguard.com/",1,0
+"u.s. executive branch","u.s. defense intelligence agency","u.s. department of defense","u.s. national intelligence university",NA,NA,NA,NA,"https://ni-u.edu/wp/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. national reconnaissance office",NA,NA,NA,NA,"https://www.nro.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. national security agency",NA,NA,NA,NA,"https://www.nsa.gov/",NA,1,0
+"u.s. executive branch","u.s. national defense university","u.s. department of defense","u.s. national war college",NA,NA,NA,NA,"https://www.ndu.edu/Academics/CollegesCenters/NationalWarCollege.aspx",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. northern command",NA,NA,NA,NA,"https://www.northcom.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. office of economic adjustment",NA,NA,NA,NA,"https://oea.gov/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. pacific command",NA,NA,NA,NA,"https://www.pacom.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. pentagon force protection agency",NA,NA,NA,NA,"https://www.pfpa.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. prisoner of war and missing in action accounting agency",NA,NA,NA,NA,"https://www.dpaa.mil//",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. southern command",NA,NA,NA,NA,"https://www.southcom.mil/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. special operations command",NA,NA,NA,NA,"https://www.socom.mil/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. strategic command",NA,NA,NA,NA,"https://www.stratcom.mil/",NA,1,0
+"u.s. executive branch","u.s. unified combatant commands","u.s. department of defense","u.s. transportation command",NA,NA,NA,NA,"https://www.ustranscom.mil/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. unified combatant commands",NA,NA,NA,NA,"https://www.defense.gov/Our-Story/Combatant-Commands/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. uniformed services university of the health sciences",NA,NA,NA,NA,"https://www.usuhs.edu/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of defense","u.s. washington headquarters services",NA,NA,NA,NA,"https://www.whs.mil/",NA,1,0
+"u.s. executive branch","u.s. office of special education and rehabilitative services","u.s. department of education","u.s. center for parent information and resources",NA,NA,NA,NA,"https://www.parentcenterhub.org/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. commission on presidential scholars",NA,NA,NA,NA,"https://www2.ed.gov/programs/psp/commission.html?exp=0",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. english language acquisition office",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/oela/index.html?src=oc",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. federal student aid information center",NA,NA,NA,NA,"https://studentaid.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. institute of education sciences",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/ies/index.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. office of career, technical, and adult education",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/ovae/index.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. office of elementary and secondary education",NA,NA,NA,NA,"https://oese.ed.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. office of postsecondary education",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/ope/index.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of education","u.s. office of special education and rehabilitative services",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/osers/index.html",NA,1,0
+"u.s. executive branch","u.s. office of special education and rehabilitative services","u.s. department of education","u.s. rehabilitation services administration",NA,NA,NA,NA,"https://www2.ed.gov/about/offices/list/osers/rsa/index.html?exp=0",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","ames laboratory",NA,NA,NA,NA,"https://www.ameslab.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","argonne national laboratory",NA,NA,NA,NA,"https://www.anl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","brookhaven national laboratory",NA,NA,NA,NA,"https://www.bnl.gov/world/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","fermi national accelerator laboratory",NA,NA,NA,NA,"https://www.fnal.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","frederick national laboratory for cancer research",NA,NA,NA,NA,"https://frederick.cancer.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","idaho national laboratory",NA,NA,NA,NA,"https://inl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","lawrence berkeley national laboratory",NA,NA,NA,NA,"https://www.lbl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","lawrence livermore national laboratory",NA,NA,NA,NA,"https://www.llnl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","los alamos national laboratory",NA,NA,NA,NA,"https://www.lanl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","national energy technology laboratory",NA,NA,NA,NA,"https://www.netl.doe.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","national renewable energy laboratory",NA,NA,NA,NA,"https://www.nrel.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","oak ridge national laboratory",NA,NA,NA,NA,"https://www.ornl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","pacific northwest national laboratory",NA,NA,NA,NA,"https://www.pnnl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","princeton plasma physics laboratory",NA,NA,NA,NA,"https://www.pppl.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","savannah river national laboratory",NA,NA,NA,NA,"https://srnl.doe.gov/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","slac national accelerator laboratory",NA,NA,NA,NA,"https://www6.slac.stanford.edu/",NA,1,0
+"u.s. executive branch","u.s. national laboratories","u.s. department of energy","thomas jefferson national accelerator facility",NA,NA,NA,NA,"https://www.jlab.org/",NA,1,0
+"u.s. executive branch","u.s. power administrations","u.s. department of energy","u.s.  bonneville power administration",NA,NA,NA,NA,"https://www.bpa.gov/Pages/home.aspx",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. energy information administration",NA,NA,NA,NA,"https://www.eia.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. federal energy regulatory commission",NA,NA,NA,NA,"https://www.ferc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. national laboratories",NA,NA,NA,NA,"https://www.energy.gov/national-laboratories",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. national nuclear security administration",NA,NA,NA,NA,"https://www.energy.gov/nnsa/national-nuclear-security-administration",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. office of environmental management",NA,NA,NA,NA,"https://www.energy.gov/em/office-environmental-management",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. office of fossil energy",NA,NA,NA,NA,"https://www.energy.gov/fe/office-fossil-energy",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. office of nuclear energy",NA,NA,NA,NA,"https://www.energy.gov/ne/office-nuclear-energy",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. office of science",NA,NA,NA,NA,"https://www.energy.gov/science/office-science",NA,1,0
+"u.s. executive branch","u.s. office of science","u.s. department of energy","u.s. office of scientific and technical information",NA,NA,NA,NA,"https://www.osti.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of energy","u.s. power administrations",NA,NA,NA,NA,"https://www.energy.gov/offices",NA,1,0
+"u.s. executive branch","u.s. power administrations","u.s. department of energy","u.s. southeastern power administration",NA,NA,NA,NA,"https://www.energy.gov/sepa/southeastern-power-administration",NA,1,0
+"u.s. executive branch","u.s. power administrations","u.s. department of energy","u.s. southwestern power administration",NA,NA,NA,NA,"https://www.swpa.gov/",NA,1,0
+"u.s. executive branch","u.s. power administrations","u.s. department of energy","u.s. western area power administration",NA,NA,NA,NA,"https://www.wapa.gov/Pages/Western.aspx",NA,1,0
+"u.s. executive branch","u.s. centers for disease control and prevention","u.s. department of health and human services","cdc - agency for toxic substances and disease registry",NA,NA,NA,NA,"https://www.atsdr.cdc.gov/",NA,1,0
+"u.s. executive branch","u.s. centers for disease control and prevention","u.s. department of health and human services","cdc - national institute of occupational safety and health",NA,NA,NA,NA,"https://www.cdc.gov/niosh/",NA,1,0
+"u.s. executive branch","u.s. centers for disease control and prevention","u.s. department of health and human services","cdc - national prevention information network",NA,NA,NA,NA,"https://npin.cdc.gov/",NA,1,0
+"u.s. executive branch","u.s. centers for medicare and medicaid services","u.s. department of health and human services","medicaid",NA,NA,NA,NA,"https://www.cms.gov/",NA,1,0
+"u.s. executive branch","u.s. centers for medicare and medicaid services","u.s. department of health and human services","medicare",NA,NA,NA,NA,"https://www.cms.gov/",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national heart, lung, and blood institute",NA,NA,NA,NA,"https://www.nhlbi.nih.gov/",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national institute of arthritis, musculoskeletal and skin diseases",NA,NA,NA,NA,"https://www.niams.nih.gov/",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national institute of deafness and other communication disorders",NA,NA,NA,NA,"https://www.nidcd.nih.gov/",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national institute of diabetes and digestive and kidney diseases",NA,NA,NA,NA,"https://www.niddk.nih.gov/",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national institute of mental health",NA,NA,NA,NA,"https://www.nimh.nih.gov/index.shtml",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","nih - national institute of neurological disorders and stroke",NA,NA,NA,NA,"https://www.ninds.nih.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. administration for children and families",NA,NA,NA,NA,"https://www.acf.hhs.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. administration for community living",NA,NA,NA,NA,"https://acl.gov/",NA,1,0
+"u.s. executive branch","u.s. administration for children and families","u.s. department of health and human services","u.s. administration for native americans",NA,NA,NA,NA,"https://www.acf.hhs.gov/ana",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. agency for healthcare research and quality",NA,NA,NA,NA,"https://www.ahrq.gov/",NA,1,0
+"u.s. executive branch","u.s. food and drug administration","u.s. department of health and human services","u.s. center for food safety and applied nutrition",NA,NA,NA,NA,"https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. centers for disease control and prevention",NA,NA,NA,NA,"https://www.cdc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. centers for medicare and medicaid services",NA,NA,NA,NA,"https://www.cms.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. food and drug administration",NA,NA,NA,NA,"https://www.fda.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. health resources and services administration",NA,NA,NA,NA,"https://www.hrsa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. indian health service",NA,NA,NA,NA,"https://www.ihs.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. national cancer institute",NA,NA,NA,NA,"https://www.cancer.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. national health information center",NA,NA,NA,NA,"https://health.gov/our-work/health-literacy/resources/national-health-information-center",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. national institutes of health",NA,NA,NA,NA,"https://www.nih.gov/",NA,1,0
+"u.s. executive branch","u.s. administration for children and families","u.s. department of health and human services","u.s. office of child support enforcement",NA,NA,NA,NA,"https://www.acf.hhs.gov/css",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. office of minority health",NA,NA,NA,NA,"https://minorityhealth.hhs.gov/",NA,1,0
+"u.s. executive branch","u.s. administration for children and families","u.s. department of health and human services","u.s. office of refugee resettlement",NA,NA,NA,NA,"https://www.acf.hhs.gov/orr",NA,1,0
+"u.s. executive branch",NA,"u.s. department of health and human services","u.s. president's council on fitness, sports and nutrition",NA,NA,NA,NA,"https://www.hhs.gov/fitness/index.html",NA,1,0
+"u.s. executive branch","u.s. national institutes of health","u.s. department of health and human services","u.s. substance abuse and mental health services administration",NA,NA,NA,NA,"https://www.samhsa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. citizenship and immigration services",NA,NA,NA,NA,"https://www.uscis.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. coast guard",NA,NA,NA,NA,"https://www.uscg.mil/","https://www.uscgboating.org/",1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. computer emergency readiness team",NA,NA,NA,NA,"https://www.us-cert.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. customs and border protection",NA,NA,NA,NA,"https://www.cbp.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. cybersecurity and infrastructure security agency",NA,NA,NA,NA,"https://www.cisa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. federal emergency management agency",NA,NA,NA,NA,"https://www.fema.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. federal law enforcement training center",NA,NA,NA,NA,"https://www.fletc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. federal protective service",NA,NA,NA,NA,"https://www.dhs.gov/topic/federal-protective-service",NA,1,0
+"u.s. executive branch","u.s. federal emergency management agency","u.s. department of homeland security","u.s. fire administration",NA,NA,NA,NA,"https://www.usfa.fema.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. immigration and customs enforcement",NA,NA,NA,NA,"https://www.ice.gov/",NA,1,0
+"u.s. executive branch","u.s. federal emergency management agency","u.s. department of homeland security","u.s. national flood insurance program",NA,NA,NA,NA,"https://www.floodsmart.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. secret service",NA,NA,NA,NA,"https://www.secretservice.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of homeland security","u.s. transportation security administration",NA,NA,NA,NA,"https://www.tsa.gov/",NA,1,0
+"u.s. executive branch","u.s. office of housing","u.s. department of housing and urban development","u.s. federal housing administration",NA,NA,NA,NA,"https://www.hud.gov/federal_housing_administration",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. government national mortgage association",NA,NA,NA,NA,"https://www.ginniemae.gov/pages/default.aspx",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of community planning and development",NA,NA,NA,NA,"https://www.hud.gov/program_offices/comm_planning",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of fair housing and equal opportunity",NA,NA,NA,NA,"https://www.hud.gov/program_offices/fair_housing_equal_opp",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of housing",NA,NA,NA,NA,"https://www.hud.gov/program_offices/housing",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of lead hazard control and healthy homes",NA,NA,NA,NA,"https://www.hud.gov/program_offices/healthy_homes",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of manufactured housing programs",NA,NA,NA,NA,"https://www.hud.gov/program_offices/housing/rmra/mhs/mhshome",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of multifamily housing",NA,NA,NA,NA,"https://www.hud.gov/program_offices/housing/mfh",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. office of policy development and research",NA,NA,NA,NA,"https://www.huduser.gov/portal/home.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of housing and urban development","u.s. public and indian housing",NA,NA,NA,NA,"https://www.hud.gov/program_offices/public_indian_housing",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. antitrust division",NA,NA,NA,NA,"https://www.justice.gov/atr",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. bureau of alcohol, tobacco, firearms and explosives",NA,NA,NA,NA,"https://www.atf.gov/",NA,1,0
+"u.s. executive branch","u.s. office of justice programs","u.s. department of justice","u.s. bureau of justice statistics",NA,NA,NA,NA,"https://www.bjs.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. community oriented policing services",NA,NA,NA,NA,"https://www.cops.usdoj.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. drug enforcement administration",NA,NA,NA,NA,"https://www.dea.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. elder justice initiative",NA,NA,NA,NA,"https://www.justice.gov/elderjustice",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. executive office for immigration review",NA,NA,NA,NA,"https://www.justice.gov/eoir",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. federal bureau of investigation",NA,NA,NA,NA,"https://www.fbi.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. federal bureau of prisons",NA,NA,NA,NA,"https://www.bop.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. foreign claims settlement commission",NA,NA,NA,NA,"https://www.justice.gov/fcsc",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. marshals service",NA,NA,NA,NA,"https://www.usmarshals.gov//",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. national central bureau - interpol",NA,NA,NA,NA,"https://www.justice.gov/interpol-washington",NA,1,0
+"u.s. executive branch","u.s. federal bureau of prisons","u.s. department of justice","u.s. national institute of corrections",NA,NA,NA,NA,"https://nicic.gov/",NA,1,0
+"u.s. executive branch","u.s. office of justice programs","u.s. department of justice","u.s. national institute of justice",NA,NA,NA,NA,"https://nij.ojp.gov/contact",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. office of immigrant and employee rights",NA,NA,NA,NA,"https://www.justice.gov/crt/immigrant-and-employee-rights-section",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. office of justice programs",NA,NA,NA,NA,"https://www.ojp.gov/",NA,1,0
+"u.s. executive branch","u.s. office of justice programs","u.s. department of justice","u.s. office of juvenile justice and delinquency prevention",NA,NA,NA,NA,"https://ojjdp.ojp.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. office of the pardon attorney",NA,NA,NA,NA,"https://www.justice.gov/pardon",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. office on violence against women",NA,NA,NA,NA,"https://www.justice.gov/ovw",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. parole commission",NA,NA,NA,NA,"https://www.justice.gov/uspc",NA,1,0
+"u.s. executive branch",NA,"u.s. department of justice","u.s. trustee program",NA,NA,NA,NA,"https://www.justice.gov/ust",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. bureau of international labor affairs",NA,NA,NA,NA,"https://www.dol.gov/agencies/ilab",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. bureau of labor statistics",NA,NA,NA,NA,"https://stats.bls.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. employee benefits security administration",NA,NA,NA,NA,"https://www.dol.gov/agencies/ebsa",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. employment and training administration",NA,NA,NA,NA,"https://www.dol.gov/agencies/eta/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. job corps",NA,NA,NA,NA,"https://www.jobcorps.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. mine safety and health administration",NA,NA,NA,NA,"https://www.msha.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. occupational safety and health administration",NA,NA,NA,NA,"https://www.osha.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. office of disability employment policy",NA,NA,NA,NA,"https://www.dol.gov/odep/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. veterans' employment and training service",NA,NA,NA,NA,"https://www.dol.gov/agencies/vets",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. wage and hour division",NA,NA,NA,NA,"https://www.dol.gov/agencies/whd",NA,1,0
+"u.s. executive branch",NA,"u.s. department of labor","u.s. women's bureau",NA,NA,NA,NA,"https://www.dol.gov/agencies/wb",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. arms control and international security",NA,NA,NA,NA,"https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. bureau of consular affairs",NA,NA,NA,NA,"https://travel.state.gov/content/travel.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. economic growth, energy, and the environment",NA,NA,NA,NA,"https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. mission to the united nations",NA,NA,NA,NA,"https://usun.usmission.gov/",NA,1,0
+"u.s. executive branch","u.s. bureau of consular affairs","u.s. department of state","u.s. national passport information center",NA,NA,NA,NA,"https://travel.state.gov/content/travel/en/contact-us/passports.html",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. political affairs",NA,NA,NA,NA,"https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of state","u.s. public diplomacy and public affairs",NA,NA,NA,NA,"https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. bureau of indian affairs",NA,NA,NA,NA,"https://www.bia.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. bureau of land management",NA,NA,NA,NA,"https://www.blm.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. bureau of ocean energy management",NA,NA,NA,NA,"https://www.boem.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. bureau of reclamation",NA,NA,NA,NA,"https://www.usbr.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. bureau of safety and environmental enforcement",NA,NA,NA,NA,"https://www.bsee.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. federal consulting group",NA,NA,NA,NA,"https://www.fcg.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. fish and wildlife service",NA,NA,NA,NA,"https://www.fws.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. geological survey",NA,NA,NA,NA,"https://www.usgs.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. national park service",NA,NA,NA,NA,"https://www.nps.gov/index.htm",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. office of natural resources revenue",NA,NA,NA,NA,"https://www.onrr.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the interior","u.s. office of surface mining reclamation and enforcement",NA,NA,NA,NA,"https://www.osmre.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. alcohol and tobacco tax and trade bureau",NA,NA,NA,NA,"https://www.ttb.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. bureau of engraving and printing",NA,NA,NA,NA,"https://www.moneyfactory.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. bureau of the fiscal service",NA,NA,NA,NA,"https://www.fiscal.treasury.gov/","https://www.treasurydirect.gov/",1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. internal revenue service",NA,NA,NA,NA,"https://www.irs.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. mint",NA,NA,NA,NA,"https://www.usmint.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. office of the comptroller of the currency",NA,NA,NA,NA,"https://www.occ.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of the treasury","u.s. taxpayer advocacy panel",NA,NA,NA,NA,"https://improveirs.org/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","saint lawrence seaway development corporation",NA,NA,NA,NA,"https://www.seaway.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. bureau of transportation statistics",NA,NA,NA,NA,"https://www.bts.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. federal aviation administration",NA,NA,NA,NA,"https://www.faa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. federal highway administration",NA,NA,NA,NA,"https://highways.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. federal motor carrier safety administration",NA,NA,NA,NA,"https://www.fmcsa.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. federal railroad administration",NA,NA,NA,NA,"https://railroads.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. federal transit administration",NA,NA,NA,NA,"https://www.transit.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. maritime administration",NA,NA,NA,NA,"https://www.maritime.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. national highway traffic safety administration",NA,NA,NA,NA,"https://www.nhtsa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. office of the assistant secretary for research and technology",NA,NA,NA,NA,"https://www.transportation.gov/administrations/research-and-technology",NA,1,0
+"u.s. executive branch",NA,"u.s. department of transportation","u.s. pipeline and hazardous materials safety administration",NA,NA,NA,NA,"https://www.phmsa.dot.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of veterans affairs","u.s. national cemetery administration",NA,NA,NA,NA,"https://www.cem.va.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of veterans affairs","u.s. veterans benefits administration",NA,NA,NA,NA,"https://benefits.va.gov/benefits/",NA,1,0
+"u.s. executive branch",NA,"u.s. department of veterans affairs","u.s. veterans health administration",NA,NA,NA,NA,"https://www.va.gov/health/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","alhurra tv",NA,NA,NA,NA,"https://www.alhurra.com/","https://www.radiosawa.com/",1,0
+"u.s. executive branch",NA,"u.s. environmental protection ageny","energy star program",NA,NA,NA,NA,"https://www.energystar.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. general services administration","federal citizen information center",NA,NA,NA,NA,"https://www.usa.gov/explore",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","middle east broadcasting networks",NA,NA,NA,NA,"https://www.alhurra.com/","https://www.radiosawa.com/",1,0
+"u.s. executive branch",NA,"u.s. court services and offender supervision agency","pretrial services agency for the district of columbia",NA,NA,NA,NA,"https://www.psa.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","radio and tv martí",NA,NA,NA,NA,"https://www.radiotelevisionmarti.com/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","radio free asia",NA,NA,NA,NA,"https://www.rfa.org/english/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","radio free europe and radio liberty",NA,NA,NA,NA,"https://www.rferl.org/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","radio sawa",NA,NA,NA,NA,"https://www.alhurra.com/","https://www.radiosawa.com/",1,0
+"u.s. executive branch",NA,NA,"u.s. abilityone commission",NA,NA,NA,NA,"https://www.abilityone.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. access board",NA,NA,NA,NA,"https://www.access-board.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. armed forces retirement home",NA,NA,NA,NA,"https://www.afrh.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. commission on international religious freedom",NA,NA,NA,NA,"https://www.uscirf.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. court services and offender supervision agency",NA,NA,NA,NA,"https://www.csosa.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. election assistance commission",NA,NA,NA,NA,"https://www.eac.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. environmental protection ageny",NA,"http://www.epa.gov","1200 Pennsylvania Avenue NW., Washington, DC 20460","202-272-0167","https://www.epa.gov/",NA,1,1
+"u.s. executive branch",NA,NA,"u.s. farm credit system insurance corporation",NA,NA,NA,NA,"https://www.fcsic.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. federal accounting standards advisory board",NA,NA,NA,NA,"https://fasab.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. office of personnel management","u.s. federal executive boards",NA,NA,NA,NA,"https://www.feb.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. holocaust memorial museum",NA,"http://www.ushmm.org","100 Raoul Wallenberg Place, SW., Washington, DC 20024-2126","202-488-0400","https://www.ushmm.org/",NA,1,1
+"u.s. executive branch",NA,"u.s. environmental protection ageny","u.s. indoor air quality",NA,NA,NA,NA,"https://www.epa.gov/indoor-air-quality-iaq",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. joint board for the enrollment of actuaries",NA,NA,NA,NA,"https://www.irs.gov/tax-professionals/enrolled-actuaries",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. joint fire science program",NA,NA,NA,NA,"https://www.firescience.gov/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. meat and poultry hotline",NA,NA,NA,NA,"https://www.fsis.usda.gov/wps/portal/fsis/home",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. national indian gaming commission",NA,NA,NA,NA,"https://www.nigc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. defense intelligence agency","u.s. national intelligence university",NA,NA,NA,NA,"https://ni-u.edu/wp/",NA,1,0
+"u.s. executive branch",NA,NA,"u.s. national interagency fire center",NA,NA,NA,NA,"https://www.nifc.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. environmental protection ageny","u.s. national pesticide information center",NA,NA,NA,NA,"http://npic.orst.edu/",NA,1,0
+"u.s. executive branch",NA,"u.s. securities and exchange commission","u.s. office of investor education and advocacy",NA,NA,NA,NA,"https://www.investor.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. consumer financial protection bureau","u.s. office of servicemember affairs",NA,NA,NA,NA,"https://www.consumerfinance.gov/practitioner-resources/servicemembers/",NA,1,0
+"u.s. executive branch",NA,"u.s. national archives and records administration","u.s. office of the federal register",NA,NA,NA,NA,"https://www.archives.gov/federal-register",NA,1,0
+"u.s. executive branch",NA,"u.s. postal service","u.s. postal inspection service",NA,NA,NA,NA,"https://www.uspis.gov/",NA,1,0
+"u.s. executive branch",NA,"u.s. general services administration","usagov",NA,NA,NA,NA,"https://www.usa.gov/explore/",NA,1,0
+"u.s. executive branch",NA,"u.s. agency for global media","voice of america",NA,NA,NA,NA,"https://www.voanews.com/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","stennis center for public service",NA,NA,NA,NA,"https://stennis.gov/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. architect of the capitol",NA,"http://www.aoc.gov","U.S. Capitol Building, Washington, DC 20515","202-228-1793","https://www.aoc.gov/","https://www.capitol.gov/",1,1
+"u.s. legislative branch","u.s. architect of the capitol","u.s. house of representatives","u.s. botanic garden","usbg@aoc.gov","http://www.usbg.gov","Office of Executive Director, 245 First Street SW., Washington, DC 20024","202-226-8333","https://www.usbg.gov/",NA,1,1
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. capitol police",NA,NA,NA,NA,"https://www.uscp.gov/",NA,1,0
+"u.s. legislative branch","u.s. architect of the capitol","u.s. house of representatives","u.s. capitol visitor center",NA,NA,NA,NA,"http://www.visitthecapitol.gov/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. congressional budget office",NA,"http://www.cbo.gov","Second and D Streets SW., Washington, DC 20515","202-226-2600","https://www.cbo.gov/",NA,1,1
+"u.s. legislative branch","u.s. library of congress","u.s. house of representatives","u.s. congressional research service",NA,NA,NA,NA,"https://www.loc.gov/crsinfo/about/",NA,1,0
+"u.s. legislative branch","u.s. library of congress","u.s. house of representatives","u.s. copyright office",NA,NA,NA,NA,"https://www.copyright.gov/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. government accountability office",NA,"http://www.gao.gov","441 G Street NW., Washington, DC 20548","202-512-3000","https://www.gao.gov/",NA,1,1
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. government publishing office",NA,"http://www.gpo.gov","732 North Capitol Street NW., Washington, DC 20401","202-512-1800","https://www.gpo.gov/",NA,1,1
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. house office of inspector general",NA,NA,NA,NA,"https://www.house.gov/the-house-explained/officers-and-organizations/inspector-general",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. house office of the clerk",NA,NA,NA,NA,"http://clerk.house.gov/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. library of congress",NA,"http://www.loc.gov","101 Independence Avenue SE., Washington, DC 20540","202-707-5000","https://www.loc.gov/",NA,1,1
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. office of compliance",NA,NA,NA,NA,"https://www.ocwr.gov/",NA,1,0
+"u.s. legislative branch",NA,"u.s. house of representatives","u.s. open world leadership center",NA,NA,NA,NA,"https://www.openworld.gov/",NA,1,0
+"u.s. legislative branch",NA,NA,"u.s. congress",NA,"http://www.congress.gov","ONE HUNDRED AND FIFTEENTH CONGRESS, FIRST SESSION",NA,NA,NA,0,1
+"u.s. legislative branch",NA,NA,"u.s. house of representatives",NA,NA,NA,NA,"https://www.house.gov/",NA,1,0
+"u.s. legislative branch",NA,NA,"u.s. joint congressional committee on inaugural ceremonies",NA,NA,NA,NA,"https://www.inaugural.senate.gov/",NA,1,0
+"u.s. legislative branch","u.s. centers for medicare and medicaid services",NA,"u.s. medicaid and chip payment and access commission",NA,NA,NA,NA,"https://www.macpac.gov/",NA,1,0
+"u.s. legislative branch","u.s. centers for medicare and medicaid services",NA,"u.s. medicare payment advisory commission",NA,NA,NA,NA,"http://www.medpac.gov/",NA,1,0
+"u.s. legislative branch",NA,NA,"u.s. senate",NA,NA,NA,NA,"https://www.senate.gov/",NA,1,0
+"u.s. judicial branch",NA,"supreme court of the u.s.","u.s. court of appeals for the federal circuit",NA,NA,NA,NA,"http://www.cafc.uscourts.gov/",NA,1,0
+"u.s. judicial branch",NA,"supreme court of the u.s.","u.s. federal court interpreters",NA,NA,NA,NA,"https://www.uscourts.gov/services-forms/federal-court-interpreters",NA,1,0
+"u.s. judicial branch",NA,NA,"administrative office of the u.s. courts",NA,"http://www.uscourts.gov","One Columbus Circle NE., Washington, DC 20544","202-502-2600","https://www.uscourts.gov/",NA,1,1
+"u.s. judicial branch",NA,NA,"supreme court of the u.s.",NA,"http://www.supremecourt.gov","United States Supreme Court Building, One First Street NE., Washington, DC 20543","202-479-3000","https://www.supremecourt.gov/",NA,1,1
+"u.s. judicial branch",NA,NA,"u.s. bankruptcy courts",NA,NA,NA,NA,"https://www.uscourts.gov/services-forms/bankruptcy",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. circuit courts of appeal",NA,NA,NA,NA,"https://www.uscourts.gov/about-federal-courts",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. court of appeals for the armed forces",NA,NA,NA,NA,"https://www.armfor.uscourts.gov/newcaaf/home.htm",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. court of appeals for veterans claims",NA,NA,NA,NA,"http://www.uscourts.cavc.gov/",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. court of federal claims",NA,NA,NA,NA,"http://www.uscfc.uscourts.gov/",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. court of international trade",NA,NA,NA,NA,"https://www.cit.uscourts.gov/",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. federal judicial center",NA,"http://www.fjc.gov","Thurgood Marshall Federal Judiciary Building, One Columbus Circle NE., Washington, DC 20002-8003","202-502-4000","https://www.fjc.gov/",NA,1,1
+"u.s. judicial branch",NA,NA,"u.s. judicial panel on multidistrict litigation",NA,NA,NA,NA,"https://www.jpml.uscourts.gov/",NA,1,0
+"u.s. judicial branch",NA,NA,"u.s. lower courts",NA,NA,NA,NA,NA,NA,0,1
+"u.s. judicial branch",NA,NA,"u.s. sentencing commission",NA,"http://www.ussc.gov","Suite 2-500, One Columbus Circle NE., Washington, DC 20002-8002","202-502-4500","https://www.ussc.gov/",NA,1,1
+"u.s. judicial branch",NA,NA,"u.s. special courts",NA,NA,NA,NA,NA,NA,0,1
+"u.s. judicial branch",NA,NA,"u.s. tax court",NA,NA,NA,NA,"https://www.ustaxcourt.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"administrative conference of the u.s.","info@acus.gov","http://www.acus.gov","1120 Twentieth Street NW., Suite 706 South, Washington, DC 20036","202-480-2080","https://www.acus.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"african development bank group",NA,"http://www.usadf.gov","1400 I Street NW., Suite 1000, Washington, DC 20005","202-233-8800","https://www.usadf.gov/welcome/",NA,1,1
+"u.s. independent agency",NA,NA,"african development bank group","afdb@afdb.org","http://www.afdb.org","Avenue Jean-Paul II, 01 BP 1387, Abidjan 01, Côte d'Ivoire","+225 20 26 10 20","https://www.usadf.gov/welcome/",NA,1,1
+"u.s. independent agency",NA,"u.s. corporation for national and community service","americorps",NA,NA,NA,NA,"https://www.americorps.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"amtrak",NA,"http://www.amtrak.com","1 Massachusetts Avenue NW., Washington, DC 20001","202-906-3000","https://www.amtrak.com/home.html",NA,1,1
+"u.s. independent agency",NA,NA,"denali commission",NA,NA,NA,NA,"http://www.denali.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"export-import bank of the u.s.",NA,"http://www.exim.gov","811 Vermont Avenue NW., Washington, DC 20571","202-565-3946","https://www.exim.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"inter-american foundation",NA,"http://www.iaf.gov","1331 Pennsylvania Avenue, NW., Suite 1200 North, Washington, DC 20004","202-360-4530","https://www.iaf.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"millennium challenge corporation",NA,NA,NA,NA,"https://www.mcc.gov/",NA,1,0
+"u.s. independent agency",NA,"u.s. corporation for national and community service","senior corps",NA,NA,NA,NA,"https://www.nationalservice.gov/programs/senior-corps",NA,1,0
+"u.s. independent agency",NA,NA,"tennessee valley authority",NA,"http://www.tva.com","400 West Summit Hill Drive, Knoxville, TN 37902","865-632-2101","https://www.tva.com/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. agency for global media",NA,"http://www.usagm.gov","330 Independence Avenue SW., Washington, DC 20237","202-203-4545","https://www.usagm.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. agency for international development",NA,"http://www.usaid.gov","1300 Pennsylvania Avenue NW., Washington, DC 20523","202-712-0000","https://www.usaid.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. central intelligence agency",NA,"http://www.cia.gov","Washington, DC 20505","703-482-0623","https://www.cia.gov/index.html",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. chief acquisition officers council",NA,NA,NA,NA,"https://www.cao.gov/cao-home",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. chief financial officers council",NA,NA,NA,NA,"https://cfo.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. chief human capital officers council",NA,NA,NA,NA,"https://www.chcoc.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. chief information officers council",NA,NA,NA,NA,"https://www.cio.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. commission on civil rights",NA,"http://www.usccr.gov","1331 Pennsylvania Avenue NW., Suite 1150, Washington, DC 20425","202-376-8128","https://www.usccr.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. commission on security and cooperation in europe",NA,NA,NA,NA,"https://www.csce.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. commodity futures trading commission",NA,"http://www.cftc.gov/index.htm","1155 Twenty-first Street NW, Washington, DC 20581","202-418-5000","https://www.cftc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. consumer financial protection bureau",NA,"http://www.consumerfinance.gov","1700 G Street NW., Washington, DC 20552","202-435-7000","https://www.consumerfinance.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. consumer product safety commission",NA,"http://www.cpsc.gov","4330 East-West Highway, Bethesda, MD 20814","301-504-7923","https://www.cpsc.gov/","https://www.recalls.gov/",1,1
+"u.s. independent agency",NA,NA,"u.s. corporation for national and community service",NA,"http://www.nationalservice.gov","250 E Street NW., Washington, DC 20525","202-606-5000","https://www.nationalservice.gov/about/contact-us",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. defense nuclear facilities safety board",NA,"http://www.dnfsb.gov","625 Indiana Avenue NW., Suite 700, Washington, DC 20004","202-694-7000","https://www.dnfsb.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. equal employment opportunity commission",NA,"http://www.eeoc.gov","131 M Street NE., Washington, DC 20507","202-663-4900","https://www.eeoc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. farm credit administration",NA,"http://www.fca.gov","1501 Farm Credit Drive, McLean, VA 22102-5090","703-883-4000","https://www.fca.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal communications commission",NA,"http://www.fcc.gov","445 Twelfth Street SW., Washington, DC 20554","888-225-5322","https://www.fcc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal deposit insurance corporation",NA,"http://www.fdic.gov","550 Seventeenth Street NW., Washington, DC 20429","703-562-2222","https://www.fdic.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal election commission",NA,"http://www.fec.gov","999 E Street NW., Washington, DC 20463","202-694-1100","https://www.fec.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal housing finance agency",NA,"http://www.fhfa.gov","400 7th Street SW., Washington, DC 20219","202-649-3800","https://www.fhfa.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal labor relations authority",NA,"http://www.flra.gov","1400 K Street NW., Washington, DC 20005","202-218-7770","https://www.flra.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal maritime commission",NA,"http://www.fmc.gov","800 North Capitol Street NW., Washington, DC 20573","202-523-5707","https://www.fmc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal mediation and conciliation service",NA,"http://www.fmcs.gov","250 E Street SW., Washington, DC 20427","202-606-8100","https://www.fmcs.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal mine safety and health review commission","fmshrc@fmshrc.gov","http://www.fmshrc.gov","1331 Pennsylvania Avenue NW., Suite 520N, Washington, DC 20004-1710","202-434-9900","https://www.fmshrc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal reserve system",NA,"http://www.federalreserve.gov","Twentieth Street and Constitution Avenue NW., Washington, DC 20551","202-452-3000","https://www.federalreserve.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal retirement thrift investment board",NA,"http://www.frtib.gov","77 K Street NE., Washington, DC 20002","202-942-1600","https://www.frtib.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. federal trade commission",NA,"http://www.ftc.gov","600 Pennsylvania Avenue NW., Washington, DC 20580","202-326-2222","https://www.ftc.gov/","https://www.consumer.ftc.gov/",1,1
+"u.s. independent agency",NA,NA,"u.s. general services administration",NA,"http://www.gsa.gov","1800 F Street NW., Washington, DC 20405",NA,"https://www.gsa.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. institute of museum and library services",NA,NA,NA,NA,"https://www.imls.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. international development finance corporation",NA,NA,NA,NA,"https://www.dfc.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. international trade commission",NA,"http://www.usitc.gov","500 E Street SW., Washington, DC 20436","202-205-2000","https://www.usitc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. merit systems protection board",NA,"http://www.mspb.gov","1615 M Street NW., Fifth Floor, Washington, DC 20419","202-653-7200","https://www.mspb.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national aeronautics and space administration",NA,"http://www.nasa.gov","300 E Street SW., Washington, DC 20546","202-358-0000","https://www.nasa.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national archives and records administration",NA,"http://www.archives.gov","700 Pennsylvania Avenue NW., Washington, DC, 20408-0001","866-272-6272","https://www.archives.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national capital planning commission",NA,"http://www.ncpc.gov","401 Ninth Street NW., Suite 500, Washington, DC 20004","202-482-7200","https://www.ncpc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national credit union administration",NA,"http://www.ncua.gov","1775 Duke Street, Alexandria, VA 22314","703-518-6300","https://www.ncua.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national endowment for the arts",NA,NA,NA,NA,"https://www.arts.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. national endowment for the humanities",NA,NA,NA,NA,"https://www.neh.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. national foundation on the arts and the humanities",NA,NA,NA,NA,NA,NA,0,1
+"u.s. independent agency",NA,NA,"u.s. national labor relations board",NA,"http://www.nlrb.gov","1015 Half Street SE., Washington, DC 20570","202-273-1000","https://www.nlrb.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national mediation board",NA,"http://www.nmb.gov","1301 K Street NW., Suite 250 East, Washington, DC 20005","202-692-5000","https://nmb.gov/NMB_Application/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national science foundation","info@nsf.gov","http://www.nsf.gov","4201 Wilson Boulevard, Arlington, VA 22230","703-292-5111","https://www.nsf.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. national transportation safety board",NA,"http://www.ntsb.gov","490 L'Enfant Plaza SW., Washington, DC 20594","202-314-6000","https://www.ntsb.gov/Pages/default.aspx",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. nuclear regulatory commission","opa.resource@nrc.gov","http://www.nrc.gov","Washington, DC 20555","301-415-7000","https://www.nrc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. occupational safety and health review commission",NA,"http://www.oshrc.gov","1120 Twentieth Street NW., Washington, DC 20036-3457","202-606-5100","https://www.oshrc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. office of director of national intelligence",NA,"http://www.dni.gov","Washington, DC 20511","703-733-8600","https://www.dni.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. office of government ethics",NA,"http://www.oge.gov","1201 New York Avenue NW., Suite 500, Washington, DC 20005-3917","202-482-9300","https://www.oge.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. office of personnel management",NA,"http://www.opm.gov","1900 E Street NW., Washington, DC 20415-0001","202-606-1800","https://www.opm.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. office of special counsel",NA,"http://www.osc.gov","1730 M Street NW., Suite 218, Washington, DC 20036-4505","202-804-7000","https://osc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. overseas private investment corporation",NA,"http://www.opic.gov","1100 New York Avenue NW., Washington, DC 20527","202-336-8400",NA,NA,0,1
+"u.s. independent agency",NA,NA,"u.s. peace corps",NA,"http://www.peacecorps.gov","1111 Twentieth Street NW., Washington, DC 20526","855-855-1961","https://www.peacecorps.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. pension benefit guaranty corporation",NA,"http://www.pbgc.gov","1200 K Street NW., Washington, DC 20005","202-326-4000","https://www.pbgc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. postal regulatory commission",NA,"http://www.prc.gov","901 New York Avenue NW., Suite 200, Washington, DC 20268-0001","202-789-6800","https://www.prc.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. postal service",NA,"http://www.usps.gov","475 L'Enfant Plaza SW., Washington, DC 20260","202-268-2000","https://www.usps.com/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. privacy and civil liberties oversight board",NA,NA,NA,NA,"https://www.pclob.gov/",NA,1,0
+"u.s. independent agency",NA,NA,"u.s. railroad retirement board","opa@rrb.gov","http://www.rrb.gov","844 North Rush Street, Chicago, IL 60611-1275","312-751-4777","https://rrb.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. securities and exchange commission",NA,"http://www.sec.gov","100 F Street NE., Washington, DC 20549","202-551-7500","https://www.sec.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. selective service system",NA,"http://www.sss.gov","National Headquarters, Arlington, VA 22209-2425","703-605-4100","https://www.sss.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. small business administration",NA,"http://www.sba.gov","409 Third Street SW., Washington, DC 20416","202-205-6600","https://www.sba.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. social security administration",NA,"http://www.socialsecurity.gov","6401 Security Boulevard, Baltimore, MD 21235","410-965-1234 / 800-772-1213","https://www.ssa.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. surface transportation board",NA,"http://www.stb.gov/stb/index.html","395 E Street SW., Washington, DC 20423","202-245-0245","https://prod.stb.gov/",NA,1,1
+"u.s. independent agency",NA,NA,"u.s. trade and development agency",NA,"http://www.ustda.gov","1000 Wilson Boulevard, Suite 1600, Arlington, VA 22209-3901","703-875-4357","https://www.ustda.gov/",NA,1,1
+"u.s. independent agency",NA,"u.s. federal communications commission","u.s. wireless telecommunications bureau",NA,NA,NA,NA,"https://www.fcc.gov/wireless-telecommunications",NA,1,0
+"u.s. independent agency",NA,NA,"white house",NA,NA,NA,NA,"https://www.whitehouse.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,"u.s. department of state","fulbright foreign scholarship board",NA,NA,NA,NA,"https://eca.state.gov/fulbright/about-fulbright/j-william-fulbright-foreign-scholarship-board-ffsb",NA,1,0
+"u.s. independent board, commission, committee","u.s. fish and wildlife service","u.s. department of the interior","u.s. endangered species program",NA,NA,NA,NA,"https://www.fws.gov/endangered/",NA,1,0
+"u.s. independent board, commission, committee",NA,"u.s. department of the interior","u.s. indian arts and crafts board",NA,NA,NA,NA,"https://www.doi.gov/iacb/",NA,1,0
+"u.s. independent board, commission, committee","u.s. fish and wildlife service","u.s. department of the interior","u.s. migratory bird conservation commission",NA,NA,NA,NA,"https://www.fws.gov/refuges/realty/mbcc.html",NA,1,0
+"u.s. independent board, commission, committee",NA,"u.s. department of the treasury","committee on foreign investment in the u.s.",NA,NA,NA,NA,"https://www.treasury.gov/about/organizational-structure/offices/International-Affairs/Pages/cfius-index.aspx",NA,1,0
+"u.s. independent board, commission, committee",NA,"u.s. department of the treasury","u.s. federal financing bank",NA,NA,NA,NA,"https://ffb.treasury.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,"u.s. department of veterans affairs","veterans day national committee",NA,NA,NA,NA,"https://www.va.gov/opa/vetsday/vdnc.asp",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"american battle monuments commission",NA,NA,NA,NA,"http://www.abmc.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"appalachian regional commission",NA,NA,NA,NA,"https://www.arc.gov/index.asp",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"barry m. goldwater scholarship and excellence in education program",NA,NA,NA,NA,"https://goldwater.scholarsapply.org/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"delaware river basin commission",NA,NA,NA,NA,"https://www.state.nj.us/drbc/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"delta regional authority",NA,NA,NA,NA,"https://dra.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"harry s. truman scholarship foundation",NA,NA,NA,NA,"https://www.truman.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"james madison memorial fellowship foundation",NA,NA,NA,NA,"https://www.jamesmadison.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"japan-u.s. friendship commission",NA,NA,NA,NA,"https://www.jusfc.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"mississippi river commission",NA,NA,NA,NA,"https://www.mvd.usace.army.mil/About/Mississippi-River-Commission-MRC/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"morris k. udall and stewart l. udall foundation",NA,NA,NA,NA,"https://www.udall.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"presidio trust",NA,NA,NA,NA,"https://www.presidio.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"susquehanna river basin commission",NA,NA,NA,NA,"https://www.srbc.net/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. advisory council on historic preservation",NA,NA,NA,NA,"https://www.achp.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. arctic research commission",NA,NA,NA,NA,"https://www.arctic.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. chemical safety board",NA,NA,NA,NA,"https://www.csb.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. citizens' stamp advisory committee",NA,NA,NA,NA,"https://about.usps.com/who-we-are/csac/welcome.htm",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. commission of fine arts",NA,NA,NA,NA,"https://www.cfa.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. coordinating council on juvenile justice and delinquency prevention",NA,NA,NA,NA,"https://www.juvenilecouncil.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. council of the inspectors general on integrity and efficiency",NA,NA,NA,NA,"https://www.ignet.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal financial institutions examination council",NA,NA,NA,NA,"https://www.ffiec.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal geographic data committee",NA,NA,NA,NA,"https://www.fgdc.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal interagency committee on education",NA,NA,NA,NA,"https://www2.ed.gov/about/bdscomm/list/com.html#fice",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal interagency council on statistical policy",NA,NA,NA,NA,"https://nces.ed.gov/FCSM/index.asp",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal laboratory consortium for technology transfer",NA,NA,NA,NA,"https://www.federallabs.org/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. federal library and information center committee",NA,NA,NA,NA,"https://www.loc.gov/flicc/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. interagency alternative dispute resolution working group",NA,NA,NA,NA,"https://www.adr.gov/index.html",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. interagency committee for the management of noxious and exotic weeds",NA,NA,NA,NA,"https://www.fs.fed.us/ficmnew/index.shtml",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. interagency council on homelessness",NA,NA,NA,NA,"https://www.usich.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. marine mammal commission",NA,NA,NA,NA,"https://www.mmc.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. national council on disability",NA,NA,NA,NA,"https://ncd.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. national park foundation",NA,NA,NA,NA,"https://www.nationalparks.org/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. northern border regional commission",NA,NA,NA,NA,"http://www.nbrc.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. northwest power and conservation council",NA,NA,NA,NA,"https://www.nwcouncil.org/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. nuclear waste technical review board",NA,NA,NA,NA,"https://www.nwtrb.gov/",NA,1,0
+"u.s. independent board, commission, committee",NA,NA,"u.s. social security advisory board",NA,NA,NA,NA,"https://www.ssab.gov/",NA,1,0
+"u.s. quasi-official governmental institution",NA,NA,"john f. kennedy center for the performing arts",NA,NA,NA,NA,"https://www.kennedy-center.org/",NA,1,0
+"u.s. quasi-official governmental institution",NA,NA,"smithsonian institution",NA,"http://www.si.edu","1000 Jefferson Drive SW., Washington, DC 20560","202-633-1000","https://www.si.edu/",NA,1,1
+"u.s. quasi-official governmental institution",NA,"u.s. federal housing finance agency","u.s. federal home loan mortgage corporation",NA,NA,NA,NA,"http://www.freddiemac.com/",NA,1,0
+"u.s. quasi-official governmental institution",NA,"u.s. federal housing finance agency","u.s. federal national mortgage association",NA,NA,NA,NA,"https://www.fanniemae.com/portal/index.html",NA,1,0
+"u.s. quasi-official governmental institution",NA,NA,"u.s. institute of peace",NA,"http://www.usip.org","2301 Constitution Avenue NW., Washington, DC 20037","202-457-1700","https://www.usip.org/",NA,1,1
+"u.s. quasi-official governmental institution",NA,NA,"u.s. legal services corporation",NA,"http://www.lsc.gov","3333 K Street NW., Washington, DC 20007","202-295-1500","https://www.lsc.gov/",NA,1,1
+"u.s. quasi-official governmental institution",NA,NA,"u.s. national constitution center",NA,NA,NA,NA,"https://constitutioncenter.org/",NA,1,0
+"u.s. quasi-official governmental institution",NA,NA,"u.s. national gallery of art",NA,NA,NA,NA,"https://www.nga.gov/",NA,1,0
+"u.s. quasi-official governmental institution",NA,NA,"u.s. state justice institute","contact@sji.gov","http://www.sji.gov","11951 Freedom Drive, Suite 1020, Reston, VA 20190","571-313-8843","https://www.sji.gov/about-sji/",NA,1,1
+"u.s. quasi-official governmental institution",NA,NA,"woodrow wilson international center for scholars",NA,NA,NA,NA,"https://www.wilsoncenter.org/",NA,1,0
+"u.s. international organizations",NA,NA,"asian development bank","information@adb.org","http://www.adb.org","Headquarters: 6 ADB Avenue, Mandaluyong City, 1550 Metro Manila, Philippines","+632 632-4444",NA,NA,0,1
+"u.s. international organizations",NA,NA,"european bank for reconstruction and development",NA,"http://www.ebrd.com","One Exchange Square, London EC2A 2JN, United Kingdom","+44 20 7338 6000",NA,NA,0,1
+"u.s. international organizations",NA,NA,"inter-american defense board","protocol@jid.org","http://iadb.jid.org","2600 Sixteenth Street NW., Washington, DC 20441","202-939-6041",NA,NA,0,1
+"u.s. international organizations",NA,NA,"inter-american development bank",NA,"http://www.iadb.org","Headquarters: 1300 New York Avenue NW., Washington, DC 20577","202-623-1000",NA,NA,0,1
+"u.s. international organizations",NA,NA,"inter-american investment corporation",NA,"http://www.iic.org/en","Headquarters: 1350 New York Avenue NW., Washington, DC 20577","202-623-3901",NA,NA,0,1
+"u.s. international organizations",NA,NA,"international monetary fund",NA,"http://www.imf.org","700 Nineteenth Street NW., Washington, DC 20431","202-623-7000",NA,NA,0,1
+"u.s. international organizations",NA,NA,"international organization for migration","hq@iom.int","http://www.iom.int","Headquarters: 17 Route des Morillons, C.P. 17, CH–1211 Geneva 19, Switzerland. Mailing address, P.O. Box 71, CH–1211, Geneva 19, Switzerland","011-41-22-717-9111",NA,NA,0,1
+"u.s. international organizations",NA,NA,"organization of american states",NA,"http://www.oas.org/en","Seventeenth Street and Constitution Avenue NW., Washington, DC 20006","202-370-5000",NA,NA,0,1
+"u.s. international organizations",NA,NA,"united nations",NA,"http://www.un.org","United Nations, New York, NY 10017","212-963-1234",NA,NA,0,1
+"u.s. international organizations",NA,NA,"world bank group",NA,"http://www.worldbank.org","Headquarters: 1818 H Street NW., Washington, DC 20433","202-473-1000",NA,NA,0,1

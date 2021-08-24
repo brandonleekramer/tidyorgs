@@ -1,0 +1,256 @@
+Agency,v29,v30,v31,v32,v33,v34,v35,v36,v37,v38,v39,v40,v41,v42,v43,v44,v45,v46,v47,v48,v49,v50,v51,v52,v53,v54,v55,v56,v57,v58,v59,v60,v61,v62,v63,v64,v65,v66,v67,v68
+Department of Agriculture,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Agricultural Cooperative Service,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Agricultural Marketing Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Agricultural Research Service,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Animal and Plant Health Inspection Service,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Economic Research Service,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Economics and Statistics Service,N,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+"Economics, Statistics, and Cooperative Service",X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Economic Research Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Farmer Cooperative Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Statistical Reporting Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Food Safety and Inspection Service,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,Z,Z,Z,Z,Z,Z,T,T,T,T,T,T,T,T,T,T,T
+Foreign Agricultural Service,N,N,N,N,N,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Forest Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+"Grain Inspection, Packers, and Stockyards Administration",O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Human Nutrition Information Service,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Agricultural Statistics Service,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+"National Institute of Food and Agriculture (formerly Cooperative State Research, Education, and Extension Service)",N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of International Cooperation and Development,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Transportation,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Rural Business-Cooperative Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Science and Education Administration,T,T,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Agricultural Research Service,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Cooperative State Research Service,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Agricultural Library,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of Commerce,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Economic Development Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O
+Environmental Science Services Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Maritime Administration,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Minority Business Development Agency,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+National Fire Prevention and Control Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Institute of Standards and Technology,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Oceanic and Atmospheric Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Technical Information Service,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+National Telecommunications and Information Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of the Secretary of Commerce,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Office of Telecommunications,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Patent and Trademark Office,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+U.S. Census Bureau,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+U.S. Travel and Tourism Administration,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of Defense,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Defense Agencies,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Chemical and Biological Defense,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Defense Advanced Research Projects Agency,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Defense Business Transformation Agency,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,N,T,T,T,T,T,T,T,T
+Defense Contract Management Agency,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Defense Information Systems Agency,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Defense Logistics Agency,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Defense Nuclear Agency,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Defense Security Service,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,O,T,T,T,T,T,T,T,T,T,T,T
+Defense Special Weapons Agency,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Defense Technical Information Center,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Defense Threat Reduction Agency,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Joint Staff,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Missile Defense Agency,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+National Imagery and Mapping Agency (formerly Defense Mapping Agency),X,X,X,X,O,X,X,O,O,O,O,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Special Operations Command,O,O,O,O,X,X,X,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+Uniformed Services University of the Health Sciences,O,O,O,O,O,O,O,O,O,O,O,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of the Secretary of Defense,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X
+Washington Headquarters Services,X,X,X,X,X,X,X,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N
+Defense Civil Preparedness Agency,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of the Air Force,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X
+DT&E Support From Operations and Maintenance,N,N,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+DT&E Support From Procurement Appropriations,N,N,N,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Housing for Military Personnel in R&D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Materiel Command,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Military Construction,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Pay and Allowances of Military Personnel in R&D,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+RDT&E Appropriation,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Space Command,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Special Foreign Currency Program,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Department of the Army,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Civil Functions,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Housing for Military Personnel in R&D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Military Construction,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Military Functions,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Pay and Allowances of Military Personnel in R&D,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+RDT&E Appropriation,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Special Foreign Currency Program,O,O,O,O,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Support From Procurement Appropriations,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Department of the Navy,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+DT&E Support From Operations and Maintenance,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+DT&E Support From Procurement Appropriations,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Housing for Military Personnel in R&D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Military Construction,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Pay and Allowances of Military Personnel in R&D,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+RDT&E Appropriation,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Special Foreign Currency Program,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+"Health Affairs, Assistant Secretary of Defense for",N,N,N,N,N,N,N,N,N,N,N,N,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+"Operational Test and Evaluation, Director",N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T
+"Test and Evaluation, Deputy Under Secretary of Defense",X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of Education,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Department of Energy,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Advanced Research Projects Agency-Energy (formerly Energy Transformation Acceleration Fund),N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X
+Bonneville Power Administration,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Civilian Radioactive Waste Management,N,N,N,N,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Electricity Delivery and Energy Reliability,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Energy Efficiency and Renewable Energy,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Environmental Management,N,N,N,N,N,N,N,N,N,N,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Fossil Energy,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Nuclear Security Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Defense Programs,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Fissile Materials Disposition,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,X,X,X,X,X,T,T,T,T,T,T,T,T,T,T,T
+Naval Reactors,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Nuclear Nonproliferation,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Nuclear Energy,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Intelligence,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Science,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Department of Health and Human Services,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Administration for Children and Families,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Administration on Aging,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O
+Agency for Healthcare Research and Quality (formerly Agency for Health Care Policy and Research),N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Agency for Toxic Substances and Disease Registry,N,N,N,N,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+"Alcohol, Drug Abuse, and Mental Health Administration",X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Centers for Disease Control and Prevention,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Centers for Medicare & Medicaid Services (formerly Health Care Financing Administration),X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Food and Drug Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Health Resources Administration,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Health Resources and Services Administration,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Health Services Administration,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Human Development Services,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Institutes of Health,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of the Assistant Secretary for Health,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of the Secretary of Health and Human Services,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,T,T,T,T,T,T,T,T
+Office of the Assistant Secretary for Planning and Evaluation,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of the Assistant Secretary for Health (formerly Office of Public Health and Science),N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Social Security Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Substance Abuse and Mental Health Services Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,O,O,T,T,T,T,T,T,T,T,T
+Department of Homeland Security,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,Z,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Countering Weapons of Mass Destruction Office,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,T,T,T,T,T,T,T,T,X,X,X,X,X
+Cybersecurity and Infrastructure Security Agency,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X
+Science and Technology Directorate,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Z,Z,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Transportation Security Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Z,X,X,X,X,O,O,T,T,T,T,T,T,T,T,X
+U.S. Coast Guard,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+U.S. Secret Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T,X
+Department of Housing and Urban Development,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Department of the Interior,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Bonneville Power Administration,O,O,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Indian Affairs,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X
+Bureau of Land Management,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,X,X,X,X
+Bureau of Mines,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Ocean Energy Management,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X
+"Bureau of Ocean Energy Management, Regulation, & Enforcement (formerly Minerals Management Service)",N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N
+Bureau of Reclamation,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Bureau of Safety and Environmental Enforcement,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X
+Federal Water Pollution Control Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Heritage Conservation and Recreation Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Biological Service,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+National Park Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Coal Research,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of the Secretary of the Interior,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Office of Surface Mining Reclamation and Enforcement,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,X
+Office of Water Research and Technology,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Saline Water,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Water Resources Research,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. Fish and Wildlife Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,X,X,X,X
+Bureau of Commercial Fisheries,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Sport Fisheries and Wildlife,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. Geological Survey,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Department of Justice,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Bureau of Prisons,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Drug Enforcement Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Federal Bureau of Investigation,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Immigration and Naturalization Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Justice Programs,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Legal Policy,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Department of Labor,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Bureau of Apprenticeship and Training,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Employment Security,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Labor Statistics,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T
+Employee Benefits Security Administration,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Employment and Training Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,T,T,T,T,T,T,T,T
+Employment Standards Administration,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,N,N,N,N,N,N,N,N,N,N
+Labor-Management Relations and Cooperative Programs,N,N,N,N,N,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Labor-Management Services Administration,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Occupational Safety and Health Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of the Secretary of Labor,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,T,T,T,T,T,T,T
+Pension Benefit Guaranty Corporation,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Wage and Hour Division,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Department of State,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Agency for International Development,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Intelligence and Research,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Departmental Funds,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Peace Corps,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of Transportation,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+Federal Aviation Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Highway Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Motor Carrier Safety Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Railroad Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Transit Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Maritime Administration,N,N,X,X,X,X,X,X,X,X,O,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Materials Transportation Bureau,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+National Highway Traffic Safety Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of the Secretary of Transportation,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Pipeline and Hazardous Materials Safety Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Research and Innovative Technology Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N
+Research and Special Programs Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Transportation Security Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. Coast Guard,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of the Treasury,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T
+"Bureau of Alcohol, Tobacco, and Firearms",X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bureau of Engraving and Printing,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Financial Crimes Enforcement Network,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Internal Revenue Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Thrift Supervision,N,N,N,N,N,N,N,N,N,N,N,O,X,X,X,X,X,X,X,X,X,X,X,X,Z,Z,Z,Z,Z,T,T,T,N,N,N,N,N,N,N,N
+U.S. Customs Service,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. Mint,O,O,O,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+U.S. Secret Service,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Department of Veterans Affairs,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Other agencies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ACTION,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Administrative Office of the U.S. Courts,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,X,X,X
+Advisory Commission on Intergovernmental Relations,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Agency for International Development,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Appalachian Regional Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Atomic Energy Commission,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Broadcasting Board of Governors,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,O,T,T,T,T,T,T,T,T,T,T,T
+Civil Aeronautics Board,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Civil Service Commission,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Community Services Administration,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Consumer Product Safety Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,T,T,T,T,X,X,X,X,X,X,X
+Energy Research and Development Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Environmental Protection Agency,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Communications Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Federal Emergency Management Agency,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Federal Energy Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Federal Trade Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Foundation for Educational Assistance,N,N,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+General Services Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,T,T,T,T,T,T,T,T,T,T,T
+International Development Cooperation Agency,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Agency for International Development,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Institute for Scientific and Technological Cooperation,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Interstate Commerce Commission,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Library of Congress,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Aeronautics and Space Administration,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Archives and Records Administration,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+National Science Foundation,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Nuclear Regulatory Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Office of Economic Opportunity,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Emergency Preparedness,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Personnel Management,X,X,X,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Office of Science and Technology,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Telecommunications Policy,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Office of Thrift Supervision,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Patient-Centered Outcomes Research Trust Fund,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X
+Small Business Administration,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+Smithsonian Institution,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Social Security Administration,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Special Action Office for Drug Abuse Prevention,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Tennessee Valley Authority,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,X,X
+U.S. Arms Control and Disarmament Agency,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. Commission on Civil Rights,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+U.S. Information Agency,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+U.S. International Trade Commission,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,T,T,T,T
+U.S. Postal Service,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T,T,T,T,T,T,X,X,X,X

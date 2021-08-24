@@ -28,7 +28,7 @@ academic_counts <- academic_users %>%
   count() %>% 
   arrange(-n)
 
-# 20002 -> 15000 -> 14362 -> 12500 -> 
+# 20002 -> 15000 -> 14362 -> 12500 -> 12431
 misc_academic <- academic_users %>% 
   filter(organization == "misc. academic")
 
