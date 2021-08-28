@@ -5,7 +5,7 @@
 #' integrates tidyorgs's text_to_countries() and email_to_countries() together, providing 
 #' the capacity to match users to countries for organizational or geographic analysis in a tidy framework.
 #'
-#' @param data A data frame.
+#' @param data A data frame or data frame extension (e.g. a tibble).
 #' @param id A numeric or character vector unique to each entry.
 #' @param text Character vector of text data that includes the name of cities, states, 
 #' and/or countries that will be standardized into country names or country codes.
@@ -22,7 +22,7 @@
 #' classified_users <- github_users %>%
 #'   detect_countries(login, location, country_name, email)
 #'   
-#' @export
+
 detect_countries <- function(data, id, text, output, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
   message(paste("Started detect_countries() at", Sys.time()))

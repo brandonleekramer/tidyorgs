@@ -2,29 +2,28 @@
 % Please edit documentation in R/text_to_countries.R
 \name{text_to_countries}
 \alias{text_to_countries}
-\title{Match messy text data to social organizations using a 'funneling' method}
+\title{Match messy text data to countries using a 'funneling' method}
 \usage{
 text_to_countries(data, id, input, output)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
-\item{input}{Character vector of messy or unstructed text that will
-be unnested as n-grams and matched to dictionary of academic instiutions.}
+\item{input}{Character vector of messy or unstructured text that will
+be unnested as n-grams and matched to dictionary of organizations in specified sector.}
 
-\item{output}{Desired name of classified organization column.}
+\item{output}{Output column to be created as string or symbol.}
 }
 \description{
-This function matches unstructured text data to a dictionary of 9,000+
-academic, business, government, and nonprofit institutions by extracting
-and iterating through consequetive word sequences (or n-grams). To do this,
-the function extracts n-grams, matching all sequences in the unstructured
-data that have 12 words (default) and then 'funneling' through all sequences
-of 9, 8, etc. words before matching the single tokens. This process returns
-a dataframe of ids, organizations, and sectors for only those rows matched
-within the sector(s) specified.
+This function allocates entries of unstructured text data to countries 
+extracting and iterating through consecuetive word sequences (or n-grams). 
+To do this, the function extracts n-grams using the tidytext 
+package, matching all sequences in the unstructured data that have n words 
+and then 'funneling' through all sequences of n-1, n-2, etc. words before 
+matching the single tokens. This function returns a dataframe akin to the 
+original dataframe with one additional column aligning with the "output" parameter.
 }
 \examples{
 
@@ -33,6 +32,6 @@ library(tidyorgs)
 data(github_users)
 
 classified_by_text <- github_users \%>\%
-  text_to_orgs(login, company, organization, academic)
+  text_to_countries(login, location, country_name)
 
 }

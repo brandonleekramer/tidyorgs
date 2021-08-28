@@ -2,23 +2,29 @@
 % Please edit documentation in R/email_to_sectors.R
 \name{email_to_sectors}
 \alias{email_to_sectors}
-\title{Match emails to social organizations}
+\title{Probabilistically match emails to an economic sector}
 \usage{
 email_to_sectors(data, id, input, output, sector)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
-\item{input}{Character vector of emails or email domains.}
+\item{input}{Character vector of emails or email domains that will 
+be matched to the economic sector.}
 
-\item{output}{Desired name of classified organization column.}
+\item{output}{Output column to be created as string or symbol.}
 
-\item{sector}{Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "academic".}
+\item{sector}{Sector to match emails. Currently, the only option is "academic" 
+with "business", "government", "household", and "nonprofit" in development.}
 }
 \description{
-Full explanation here...
+This function assigns entries into a selected economic sector by 
+probabilistically matching common domains and sub-domains like ".edu" and 
+".co.uk". Matched entries return "misc." with the appropriate sector name 
+in the output column. This function has been integrated as an optional parameter 
+alongside the email_to_orgs() function in the detect_orgs() function.
 }
 \examples{
 

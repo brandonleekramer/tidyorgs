@@ -2,14 +2,14 @@ Package: tidyorgs
 Type: Package
 Title: Standardize messy text data for organizational and geographic analysis
 Version: 0.0.1
-Authors@R: c(person("Neil", "Kattampallil", role = c("ctb"),
-             email = "nak3t@virginia.edu"),
-             person("Carol", "Robbins", role = c("ctb"),
+Authors@R: c(person("Carol", "Robbins", role = c("ctb"),
              email = "crobbins@nsf.gov"),
-             person("Gizem", "Korkmaz", role = c("ctb"),
-             email = "gkorkmaz@virginia.edu"),
              person("Ledia", "Guci", role = c("ctb"),
              email = "lguci@nsf.gov"),
+             person("Neil", "Kattampallil", role = c("ctb"),
+             email = "nak3t@virginia.edu"),
+             person("Gizem", "Korkmaz", role = c("ctb"),
+             email = "gkorkmaz@virginia.edu"),
              person("José Bayoán", "Santiago Calderón", role = c("ctb"),
              email = "jose.santiago-calderon@bea.gov"),
              person("Crystal", "Zang", role = c("ctb"),

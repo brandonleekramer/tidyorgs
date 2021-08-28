@@ -2,12 +2,12 @@
 % Please edit documentation in R/email_to_countries.R
 \name{email_to_countries}
 \alias{email_to_countries}
-\title{Match emails to social organizations}
+\title{Match emails to countries}
 \usage{
 email_to_countries(data, id, input, output)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
@@ -16,7 +16,8 @@ email_to_countries(data, id, input, output)
 \item{output}{Desired name of classified organization column.}
 }
 \description{
-Full explanation here...
+This function matches email domains to countries based on email sub-domains. 
+For example, users with an email domain ending in ".br" will be matched to Brazil.
 }
 \examples{
 
@@ -25,6 +26,5 @@ library(tidyorgs)
 data(github_users)
 
 classified_by_email <- github_users \%>\%
-  email_to_orgs(login, email, organization, academic)
-
+  email_to_countries(login, email, organization)
 }

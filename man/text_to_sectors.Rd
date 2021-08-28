@@ -2,23 +2,29 @@
 % Please edit documentation in R/text_to_sectors.R
 \name{text_to_sectors}
 \alias{text_to_sectors}
-\title{Match messy text data to econonmic sectors}
+\title{Probabilistically match text to an economic sector}
 \usage{
 text_to_sectors(data, id, input, output, sector)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
-\item{input}{Character vector of messy or unstructed text.}
+\item{input}{Character vector of messy or unstructured text that will be matched to sector.}
 
-\item{output}{Desired name of classified organization column.}
+\item{output}{Output column to be created as string or symbol.}
 
-\item{sector}{Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "academic".}
+\item{sector}{Sector to match by organizations. Currently, the only option is "academic" 
+with "business", "government", "household", and "nonprofit" in development.}
 }
 \description{
-Explanation here...
+This function assigns entries into a selected economic sector by 
+probabilistically matching common terms like "student" (for academic), 
+"inc" (for business), and "government" (for government). Matched entries 
+return "misc." with the appropriate sector name in the output column. 
+This function has been integrated as an optional parameter 
+alongside the text_to_orgs() function in the detect_orgs() function.
 }
 \examples{
 

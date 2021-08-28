@@ -2,22 +2,22 @@
 % Please edit documentation in R/detect_orgs.R
 \name{detect_orgs}
 \alias{detect_orgs}
-\title{Match messy text and email data to academic, business, government, or nonprofit organizations}
+\title{Match messy text and email data to academic, business, government, household, or nonprofit organizations}
 \usage{
 detect_orgs(data, id, text, output, sector, email)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
 \item{text}{Character vector of messy or unstructured text that will be matched to organizations 
-from one (or all) of four economic sectors (see sector parameter).}
+from one (or all) of five economic sectors (see sector parameter).}
 
 \item{output}{Output column to be created as string or symbol.}
 
-\item{sector}{Sector to match organizations. Either "all", "academic", "business", "government", 
-or "nonprofit". Defaults to "all".}
+\item{sector}{Sector to match by organizations. Currently, the only option is "academic" 
+with "business", "government", "household", and "nonprofit" in development.}
 
 \item{email}{Character vector of email or email domain information.}
 }

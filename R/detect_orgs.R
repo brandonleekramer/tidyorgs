@@ -1,16 +1,16 @@
-#' Match messy text and email data to academic, business, government, or nonprofit organizations
+#' Match messy text and email data to academic, business, government, household, or nonprofit organizations
 #'
 #' This function standardizes messy text data and/or email information to social organizations. 
 #' The detect_orgs() function integrates text_to_orgs() and email_to_orgs() together, providing 
 #' the capacity to match users to organizations for social, economic, or policy analysis in a tidy framework.
 #'
-#' @param data A data frame.
+#' @param data A data frame or data frame extension (e.g. a tibble).
 #' @param id A numeric or character vector unique to each entry.
 #' @param text Character vector of messy or unstructured text that will be matched to organizations 
-#' from one (or all) of four economic sectors (see sector parameter).
+#' from one (or all) of five economic sectors (see sector parameter).
 #' @param output Output column to be created as string or symbol.
-#' @param sector Sector to match organizations. Either "all", "academic", "business", "government", 
-#' or "nonprofit". Defaults to "all".
+#' @param sector Sector to match by organizations. Currently, the only option is "academic" 
+#' with "business", "government", "household", and "nonprofit" in development.
 #' @param email Character vector of email or email domain information.
 #'
 #' @examples
@@ -22,7 +22,7 @@
 #' classified_users <- github_users %>%
 #'   detect_orgs(login, company, organization, academic, email)
 #'
-#' @export
+
 detect_orgs <- function(data, id, text, output, sector, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
   message(paste("Started detect_orgs() at", Sys.time()))

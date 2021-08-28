@@ -1,14 +1,16 @@
 
-# tidyorgs: A tidy package that cleans messy text data for organizational and geographic analysis
+# tidyorgs: A tidy package that standardizes text data for organizational and geographic analysis
 
 **Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with
-contributions from the
+members of the [University of Virginia’s Biocomplexity
+Institute](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics),
+the [National Center for Science and Engineering
+Statistics](https://www.nsf.gov/statistics/), and the
 [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg)
-and [2021](https://dspgtools.shinyapps.io/dspg21oss/) UVA Data Science
-for the Public Good Teams<br/> **License:**
-[MIT](https://opensource.org/licenses/MIT)<br/> **Sponsors:** [National
-Center for Science and Engineering
-Statistics](https://www.nsf.gov/statistics/)
+and [2021](https://dspgtools.shinyapps.io/dspg21oss/) [UVA Data Science
+for the Public Good Open Source Software
+Teams](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg)<br/>
+**License:** [MIT](https://opensource.org/licenses/MIT)<br/>
 
 ### Installation
 
@@ -16,7 +18,7 @@ You can install this package using the `devtools` package:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("brandonleekramer/tidyorgs")
+devtools::install_github("brandonleekramer/tidyorgs") 
 ```
 
 The `tidyorgs` package provides several functions that help standardize

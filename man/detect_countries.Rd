@@ -7,14 +7,15 @@
 detect_countries(data, id, text, output, email)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
 \item{text}{Character vector of text data that includes the name of cities, states, 
 and/or countries that will be standardized into country names or country codes.}
 
-\item{output}{Country name or country code. Either "country_name", "iso2", or "iso3".}
+\item{output}{Country name or country code. Either "country_name", "iso2", or "iso3". 
+If multiple countries are detected, they will be separated by the "|" symbol.}
 
 \item{email}{Character vector of email or email domain information.}
 }

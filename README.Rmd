@@ -6,11 +6,10 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# tidyorgs: A tidy package that cleans messy text data for organizational and geographic analysis
+# tidyorgs: A tidy package that standardizes text data for organizational and geographic analysis
 
-**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with contributions from the [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg) and [2021](https://dspgtools.shinyapps.io/dspg21oss/) UVA Data Science for the Public Good Teams<br/>
+**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with members of the [University of Virginia's Biocomplexity Institute](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics), the [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/), and the [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg) and [2021](https://dspgtools.shinyapps.io/dspg21oss/) [UVA Data Science for the Public Good Open Source Software Teams](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg)<br/>
 **License:** [MIT](https://opensource.org/licenses/MIT)<br/>
-**Sponsors:** [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/)
 
 ### Installation
 
@@ -18,7 +17,7 @@ You can install this package using the `devtools` package:
 
 ```{r, eval=FALSE, warning=FALSE, message=FALSE}
 install.packages("devtools")
-devtools::install_github("brandonleekramer/tidyorgs")
+devtools::install_github("brandonleekramer/tidyorgs") 
 ```
 
 The `tidyorgs` package provides several functions that help standardize messy text data for organizational and geographic analysis. More specifically, the package's two core functions `detect_orgs()` and `detect_countries()` standardize organizations in the academic, business, government and nonprofit sectors as well as cities and countries based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis.

@@ -7,26 +7,26 @@
 text_to_orgs(data, id, input, output, sector)
 }
 \arguments{
-\item{data}{A data frame.}
+\item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
-\item{input}{Character vector of messy or unstructed text that will
-be unnested as n-grams and matched to dictionary of academic instiutions.}
+\item{input}{Character vector of messy or unstructured text that will
+be unnested as n-grams and matched to dictionary of organizations in specified sector.}
 
-\item{output}{Desired name of classified organization column.}
+\item{output}{Output column to be created as string or symbol.}
 
-\item{sector}{Choose "all", "academic", "business", "government", or "nonprofit". Defaults to "academic".}
+\item{sector}{Sector to match by organizations. Currently, the only option is "academic" 
+with "business", "government", "household", and "nonprofit" in development.}
 }
 \description{
-This function matches unstructured text data to a dictionary of 9,000+
-academic, business, government, and nonprofit institutions by extracting
-and iterating through consequetive word sequences (or n-grams). To do this,
-the function extracts n-grams, matching all sequences in the unstructured
-data that have 12 words (default) and then 'funneling' through all sequences
-of 9, 8, etc. words before matching the single tokens. This process returns
-a dataframe of ids, organizations, and sectors for only those rows matched
-within the sector(s) specified.
+This function matches unstructured text data to various dictionaries of 
+organizations by extracting and iterating through consecuetive word sequences 
+(or n-grams). To do this, the function extracts n-grams using the tidytext 
+package, matching all sequences in the unstructured data that have n words 
+and then 'funneling' through all sequences of n-1, n-2, etc. words before 
+matching the single tokens. This process returns a dataframe of ids, 
+organizations, and sectors for only those rows matched within the sectors specified.
 }
 \examples{
 
