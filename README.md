@@ -1,7 +1,9 @@
 
 # tidyorgs: A tidy package that cleans messy text data for organizational and geographic analysis
 
-**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/)<br/>
+**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) and
+[2020 UVA DSPG OSS
+Team](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg)<br/>
 **License:** [MIT](https://opensource.org/licenses/MIT)<br/>
 **Sponsors:** [National Center for Science and Engineering
 Statistics](https://www.nsf.gov/statistics/)
