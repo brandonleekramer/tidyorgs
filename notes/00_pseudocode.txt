@@ -1,0 +1,41 @@
+
+
+detect_orgs() <- function(data, id, text, output, sector, email){ 
+  
+  text_to_orgs(cache based on 9000+ academic orgs using funneling approach) %>% 
+    standardize_orgs(recodes all text into standard form using regex) %>% 
+    filter(remove already classified)
+  
+  email_to_orgs(cache based on 9000+ academic email domains) %>% 
+    standardize_orgs(recodes all text into standard form using regex) %>% 
+    filter(remove already classified)
+  
+  email_to_sectors(cache based on 6 academic email subdomains) %>% 
+    standardize_orgs(recodes all text into standard form using regex) %>% 
+    filter(remove already classified)
+  
+  text_to_sectors(cache based on 64 academic terms) %>% 
+    standardize_orgs(recodes all text into standard form using regex) %>% 
+    bind_rows(all of the available data) %>% 
+    distinct() %>% 
+    collapse_multiple(separated by = "|") %>% 
+    mutate(sector_name = 0/1)
+}
+
+detect_countries() <- function(data, id, text, output, email){ 
+
+  text_to_countries(cache based on 246 countries using funneling approach) %>% 
+    standardize_countries(recodes all text into standard form using regex) %>% 
+    filter(remove already classified)
+    
+  email_to_countries(cache based on 246 country domains) %>%
+    standardize_countries(recodes all text into standard form using regex) %>% 
+    bind_rows(all of the available data) %>% 
+    distinct() %>% 
+    collapse_multiple(separated by = "|") 
+}
+
+
+
+
+

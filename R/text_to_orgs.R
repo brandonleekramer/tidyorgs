@@ -14,7 +14,7 @@
 #' @param input Character vector of messy or unstructed text that will
 #' be unnested as n-grams and matched to dictionary of academic instiutions.
 #' @param output Desired name of classified organization column.
-#' @param sector Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "academic".
+#' @param sector Choose "all", "academic", "business", "government", or "nonprofit". Defaults to "academic".
 #'
 #' @examples
 #'
@@ -112,7 +112,7 @@ text_to_orgs <- function(data, id, input, output, sector
     dplyr::select(!!id, words, !!sector) %>%
     dplyr::bind_rows(funnelized) %>%
     tidyorgs::standardize_orgs(words, !!output, !!sector) %>%
-    select(!!id, !!output)
+    dplyr::select(!!id, !!output)
   funnelized
 
 }

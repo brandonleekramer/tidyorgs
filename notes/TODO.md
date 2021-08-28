@@ -5,17 +5,17 @@
 
   - Warnings for not being a dataframe, not being character or numeric, variable not being entered properly (see https://stackoverflow.com/questions/25640161/r-how-to-test-for-character0-in-if-statement)
 
-- Still need to fix Harvard errors 
-
-- Need to fix wisconsin madison issue
-
-- Need to fix duplicate entries in like 6-10 universities 
-
 - Add country_code parameter 
 
 - Add in state and/or lat/long
 
-- Add in private public 
+- Add in private public for academic sector 
+
+- Chinese recode functions in detect_countries()
+
+- Subsidiaries of large tech companies (facebook, google, etc.)
+
+- recode .com|.org|.net etc in business sector
 
 [] The goal of the `standardize_*` verbs would be to facilitate merges across multiple academic datasets. During the fall, we want to work on integrating the following datasets: ]
 
@@ -28,8 +28,6 @@
 - [AAUP Data](https://www.aaup.org/2020-21-faculty-compensation-survey-results)
 
 [] Other tasks to complete: 
-
-- [Add in spellcheck](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html)
 
 - [Build pkgdown website](https://pkgdown.r-lib.org/)
 
