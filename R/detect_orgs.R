@@ -1,16 +1,19 @@
-#' Match messy text and email data to social organizations
+#' Match messy text and email data to academic, business, government, or nonprofit organizations
 #'
-#' Full explanation here... Combines text_to_org and email_to_org
+#' This function standardizes messy text data and/or email information to social organizations. 
+#' The detect_orgs() function integrates text_to_orgs() and email_to_orgs() together, providing 
+#' the capacity to match users to organizations for social, economic, or policy analysis in a tidy framework.
 #'
 #' @param data A data frame.
 #' @param id A numeric or character vector unique to each entry.
-#' @param text Character vector of messy or unstructed text that will
-#' be unnested as n-grams and matched to dictionary of academic instiutions.
-#' @param output Desired name of organization column.
-#' @param sector Choose "all", "academic", "business", "goverment", or "nonprofit". Defaults to "all".
-#' @param email Character vector of emails or email domains.
+#' @param text Character vector of messy or unstructured text that will be matched to organizations 
+#' from one (or all) of four economic sectors (see sector parameter).
+#' @param output Output column to be created as string or symbol.
+#' @param sector Sector to match organizations. Either "all", "academic", "business", "government", 
+#' or "nonprofit". Defaults to "all".
+#' @param email Character vector of email or email domain information.
 #'
-#'#' @examples
+#' @examples
 #'
 #' library(tidyverse)
 #' library(tidyorgs)
@@ -19,12 +22,10 @@
 #' classified_users <- github_users %>%
 #'   detect_orgs(login, company, organization, academic, email)
 #'
-
+#' @export
 detect_orgs <- function(data, id, text, output, sector, email){ 
-  # need to update email to default = FALSE
-  
-  print(paste("Started detect_orgs() at", Sys.time()))
-  
+  # TODO: need to add an if clause in the case that email = FALSE
+  message(paste("Started detect_orgs() at", Sys.time()))
   # 1. convert all vars with enquos
   id <- enquo(id)
   text <- enquo(text)
@@ -32,23 +33,19 @@ detect_orgs <- function(data, id, text, output, sector, email){
   sector <- enquo(sector)
   email <- enquo(email)
   `%notin%` <- Negate(`%in%`)
-  
   # 2. match by text entries 
   matched_by_text <- data %>%
     tidyorgs::text_to_orgs(!!id, !!text, !!output, !!sector)
   already_classified <- matched_by_text[,1]
-  
   # 3. match by all emails (first by orgs, then by misc)
   matched_by_email <- data %>%
     dplyr::filter(!!id %notin% already_classified) %>%
     tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector)
   already_classified <- c(already_classified, matched_by_email[,1])
-  
   # 4. load the academic misc. terms 
   academic_terms <- readr::read_rds(file = "R/sector_terms.rds") %>% 
     dplyr::filter(sector_group == "academic")
   academic_terms <- na.omit(academic_terms$terms)
-  
   # 4. match by misc. academic terms 
   matched_by_sector <- data %>%
     dplyr::filter(!!id %notin% already_classified) %>%
@@ -56,14 +53,13 @@ detect_orgs <- function(data, id, text, output, sector, email){
     dplyr::filter(words %in% academic_terms) %>%
     dplyr::mutate("{{output}}" := "misc. academic") %>%
     dplyr::distinct(!!id, !!output) 
-  
+  # 5. bind all matched data together and add sector 
   all_matched_data <- matched_by_text %>% 
     dplyr::bind_rows(matched_by_sector) %>% 
     dplyr::mutate("{{sector}}" := 1) %>% 
     dplyr::bind_rows(matched_by_email) %>% 
     dplyr::arrange(!!output)
-  
-  # todo: need to add an if clause in the case that email = FALSE
+  # 6. join classified data back to the original dataframe
   df <- data %>% 
     dplyr::left_join(all_matched_data) %>% 
     dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>% 
@@ -71,12 +67,7 @@ detect_orgs <- function(data, id, text, output, sector, email){
     dplyr::group_by(!!id, !!text, !!email, !!sector) %>%
     dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>% 
     dplyr::distinct(across(everything())) %>%
-    dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA"))
+    dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>% 
+    dplyr::ungroup()
   df
 }
-
-
-
-
-
-

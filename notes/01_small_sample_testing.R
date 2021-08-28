@@ -1,6 +1,7 @@
 
 rm(list=ls())
 library("tidyverse")
+library("tidyorgs")
 load_all()
 data(github_users)
 

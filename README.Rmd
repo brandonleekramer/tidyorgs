@@ -1,0 +1,53 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# tidyorgs: A tidy package that cleans messy text data for organizational and geographic analysis
+
+**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/)<br/>
+**License:** [MIT](https://opensource.org/licenses/MIT)<br/>
+**Sponsors:** [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/)
+
+### Installation
+
+You can install this package using the `devtools` package:
+
+```{r, eval=FALSE, warning=FALSE, message=FALSE}
+install.packages("devtools")
+devtools::install_github("brandonleekramer/tidyorgs")
+```
+
+The `tidyorgs` package provides several functions that help standardize messy text data for organizational and geographic analysis. More specifically, the package's two core functions `detect_orgs()` and `detect_countries()` standardize organizations in the academic, business, government and nonprofit sectors as well as cities and countries based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis.
+
+### Matching organizations with the `detect_orgs()` function
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(tidyorgs)
+data(github_users)
+```
+
+```{r, warning=FALSE, message=FALSE}
+users_to_orgs <- github_users %>%
+  detect_orgs(login, company, organization, academic, email) 
+
+users_to_orgs %>% 
+  filter(academic == 1) %>% 
+  select(organization, company) 
+```
+
+### Standardizing countries with the `detect_countries()` function
+
+```{r, warning=FALSE, message=FALSE}
+users_to_countries <- github_users %>%
+  detect_countries(login, location, country_name, email) 
+
+users_to_countries  %>% 
+  drop_na(country_name) %>% 
+  select(country_name, location)
+```
+

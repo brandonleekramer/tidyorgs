@@ -52,11 +52,11 @@ text_to_countries <- function(data, id, input, output){
   data <- data %>%
     tidyr::drop_na(!!input) %>%
     dplyr::mutate("{{input}}" := tolower(!!input),
-                  "{{input}}" := str_replace(!!input, "/", " "),
-                  "{{input}}" := str_replace(!!input, "\\.", " "),
-                  "{{input}}" := str_replace(!!input, "·", " "),
-                  "{{input}}" := str_replace(!!input, "u\\.s\\.", "united states"),
-                  "{{input}}" := str_replace(!!input, "u\\.s\\.a\\.", "united states"),
+                  "{{input}}" := stringr::str_replace(!!input, "/", " "),
+                  "{{input}}" := stringr::str_replace(!!input, "\\.", " "),
+                  "{{input}}" := stringr::str_replace(!!input, "·", " "),
+                  "{{input}}" := stringr::str_replace(!!input, "u\\.s\\.", "united states"),
+                  "{{input}}" := stringr::str_replace(!!input, "u\\.s\\.a\\.", "united states"),
                   "{{input}}" := sub('p\\.r\\.china', 'china', !!input),
                   "{{input}}" := sub("china's", 'china', !!input),
                   "{{input}}" := sub("·", ' ', !!input),

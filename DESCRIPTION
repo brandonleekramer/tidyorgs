@@ -1,13 +1,45 @@
 Package: tidyorgs
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Authors@R: Brandon Kramer, 
+Title: Standardize messy text data for organizational and geographic analysis
+Version: 0.0.1
+Authors@R: c(person("Neil", "Kattampallil", role = c("ctb"),
+             email = "nak3t@virginia.edu"),
+             person("Carol", "Robbins", role = c("ctb"),
+             email = "crobbins@nsf.gov"),
+             person("Gizem", "Korkmaz", role = c("ctb"),
+             email = "gkorkmaz@virginia.edu"),
+             person("Ledia", "Guci", role = c("ctb"),
+             email = "lguci@nsf.gov"),
+             person("José Bayoán", "Santiago Calderón", role = c("ctb"),
+             email = "jose.santiago-calderon@bea.gov"),
+             person("Crystal", "Zang", role = c("ctb"),
+             email = "crystalzangzzw@gmail.com"),
+             person("Daniel", "Bullock", role = c("ctb"),
+             email = "dnbulloc@iu.edu"),
+             person("Morgan", "Klutzke", role = c("ctb"),
+             email = "mklutzke@iu.edu"),
+             person("Stephanie", "Zhang", role = c("ctb"),
+             email = "stephaniezhang19@gmail.com"),
+             person("Brandon", "Kramer", role = c("aut", "cre"),
+             email = "brandonleekramer@gmail.com",
+             comment = c(ORCID = "0000-0002-3233-5310")))
 Maintainer: Brandon Kramer <brandonleekramer@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: This package provides several easy-to-use functions that 
+      help standardize messy text data for organizational and geographic 
+      analysis. More specifically, the functions standardize organizations
+      from within academic, business, government and nonprofit sectors as 
+      well as cities and countries based on unstructured text and email 
+      domains. The package is intended to support linkage across multiple 
+      datasets, bibliometric analysis, and sector classification for 
+      economic and policy analysis. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Depends: 
-    R (>= 2.10)
+URL: https://github.com/brandonleekramer/tidyorgs
+Depends: R (>= 2.10)
+Imports: dplyr, 
+    readr,
+    stringr, 
+    tidyr,
+    tidytext
+RoxygenNote: 7.1.1
