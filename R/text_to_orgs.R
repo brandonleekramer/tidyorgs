@@ -31,23 +31,14 @@ text_to_orgs <- function(data, id, input, output, sector
                                ){
   # to update: this beginning part can just be a helper function
   # that i can use at the beginning of each function
-  # NOTE it might be better to create if () else if () etc on one variable,
-  # with the missing, logical, numeric, depreciated, then move onto the next variable after
-  if (missing(id)) { # |is_logical(id)
-    "error: id requires numeric or character vector"
-  } else if (missing(input)) { # |is_logical(input)|is_numeric(input)
-    "error: input requires character vector"
-  } else if (missing(sector)) {
-    "error: no sector parameter was specified"
-  }
-  # 1. convert all vars with enquos
+  # 1. convert all vars with enquos and check for errors
   id <- enquo(id)
   input <- enquo(input)
   output <- enquo(output)
   sector <- enquo(sector)
   `%notin%` <- Negate(`%in%`)
   # 2. pull in academic institutions dictionary 
-  dictionary <- readr::read_rds(file = "R/academic_instiutions.rds")
+  dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
   # 3. standardize common academic instiution terms 
@@ -102,7 +93,7 @@ text_to_orgs <- function(data, id, input, output, sector
     dplyr::select(!!id, words, !!sector) %>%
     dplyr::bind_rows(funnelized) 
   # 6. standardize all of the organizations 
-  dictionary <- readr::read_rds(file = "R/academic_instiutions.rds") %>%
+  dictionary <- readr::read_rds(file = "R/academic_institutions.rds") %>%
     dplyr::mutate(beginning = "\\b(?i)(", ending = ")\\b",
                   original_string = paste0(beginning, original_string, ending)) %>%
     dplyr::select(original_string, new_string) %>% tibble::deframe()

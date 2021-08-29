@@ -25,7 +25,7 @@
 
 email_to_orgs <- function(data, id, input, output, sector){ 
   # 1. pull in all academic email domains
-  academic_dictionary <- readr::read_rds(file = "R/academic_instiutions.rds")
+  academic_dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
   academic_domains <- academic_dictionary %>%
     tidyr::unnest_legacy(domains = strsplit(domains, "\\|")) %>%
     tidyr::drop_na(domains) %>%

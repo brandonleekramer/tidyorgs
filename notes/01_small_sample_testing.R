@@ -1,9 +1,10 @@
 
 rm(list=ls())
 library("tidyverse")
-library("tidyorgs")
+#library("tidyorgs")
 load_all()
 data(github_users)
+data("academic_institutions")
 
 # orgs
 text_to_orgs_df <- github_users %>%
@@ -32,9 +33,4 @@ email_to_countries_df <- github_users %>%
 # function that combines all of the above
 detected_countries_df <- github_users %>% 
   detect_countries(login, location, country_name, email) 
-
-
-
-# https://r-pkgs.org/whole-game.html
-
 

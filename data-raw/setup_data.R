@@ -1,9 +1,9 @@
 # academic institutions data ---------------------------------------------
 
 library(dplyr)
-academic_instiutions <- readr::read_csv("data-raw/academic_institutions.csv")
-readr::write_rds(academic_instiutions, "R/academic_instiutions.rds")
-usethis::use_data(academic_instiutions, overwrite = TRUE)
+academic_institutions <- readr::read_csv("data-raw/academic_institutions.csv")
+readr::write_rds(academic_institutions, "R/academic_institutions.rds")
+usethis::use_data(academic_institutions, overwrite = TRUE)
 
 # misc. sector terms -----------------------------------------------------
 

@@ -25,7 +25,6 @@
 
 detect_orgs <- function(data, id, text, output, sector, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
-  message(paste("Started detect_orgs() at", Sys.time()))
   # 1. convert all vars with enquos
   id <- enquo(id)
   text <- enquo(text)
@@ -60,7 +59,8 @@ detect_orgs <- function(data, id, text, output, sector, email){
     dplyr::bind_rows(matched_by_email) %>% 
     dplyr::arrange(!!output)
   # 6. join classified data back to the original dataframe
-  df <- data %>% 
+  suppressMessages(
+  joined_data <- data %>% 
     dplyr::left_join(all_matched_data) %>% 
     dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>% 
     dplyr::distinct(across(everything())) %>%
@@ -68,6 +68,6 @@ detect_orgs <- function(data, id, text, output, sector, email){
     dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>% 
     dplyr::distinct(across(everything())) %>%
     dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>% 
-    dplyr::ungroup()
-  df
+    dplyr::ungroup())
+  joined_data
 }

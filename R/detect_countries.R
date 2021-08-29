@@ -25,7 +25,6 @@
 
 detect_countries <- function(data, id, text, output, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
-  message(paste("Started detect_countries() at", Sys.time()))
   # 1. convert all vars with enquos
   id <- enquo(id)
   text <- enquo(text)
@@ -42,6 +41,7 @@ detect_countries <- function(data, id, text, output, email){
     tidyorgs::email_to_countries(!!id, !!email, !!output) 
   all_matched_data <- dplyr::bind_rows(matched_by_text, matched_by_email) 
   # 4. join back to the original dataset and remove duplicates
+  suppressMessages(
   data <- data %>% 
     dplyr::left_join(all_matched_data) %>% 
     dplyr::distinct(across(everything())) %>%
@@ -49,6 +49,6 @@ detect_countries <- function(data, id, text, output, email){
     dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>% 
     dplyr::distinct(across(everything())) %>%
     dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>% 
-    dplyr::ungroup()
+    dplyr::ungroup())
   data
 }

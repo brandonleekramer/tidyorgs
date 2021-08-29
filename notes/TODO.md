@@ -17,7 +17,7 @@
 
 - recode .com|.org|.net etc in business sector
 
-[] The goal of the `standardize_*` verbs would be to facilitate merges across multiple academic datasets. During the fall, we want to work on integrating the following datasets: ]
+[] The goal of the `detect_*` verbs would be to facilitate merges across multiple academic datasets. During the fall, we want to work on integrating the following datasets: ]
 
 - [UMETRICS Data](https://www.census.gov/programs-surveys/ces/data/restricted-use-data/umetrics-data.html)
 
