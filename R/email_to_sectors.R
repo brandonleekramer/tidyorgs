@@ -23,7 +23,7 @@
 #' classified_by_email <- github_users %>%
 #'   email_to_sectors(login, email, organization, academic)
 #'
-
+#' @export
 email_to_sectors <- function(data, id, input, output, sector){ 
   # 1. convert all vars with enquos
   id <- enquo(id)
@@ -36,7 +36,7 @@ email_to_sectors <- function(data, id, input, output, sector){
     email_to_orgs(!!id, !!input, !!output, !!sector)
   already_classified <- matched_by_email[,1]
   # 3. load the misc academic email domains 
-  academic_domains <- readr::read_rds(file = "R/sector_domains.rds") %>% 
+  academic_domains <- tidyorgs::sector_domains %>% 
     dplyr::filter(sector_group == "academic")
   academic_domains <- paste(na.omit(academic_domains$domains), collapse = "|")
   # 4. match misc academic emails 

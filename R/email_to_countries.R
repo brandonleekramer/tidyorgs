@@ -16,14 +16,15 @@
 #'
 #' classified_by_email <- github_users %>%
 #'   email_to_countries(login, email, organization)
-
+#'
+#' @export
 email_to_countries <- function(data, id, input, output){ 
   # 1. convert all vars with enquos
   id <- enquo(id)
   input <- enquo(input)
   output <- enquo(output)
   # 2. pull out all of the country domains from the dictionary 
-  country_dictionary <- readr::read_rds(file = "R/countries_data.rds")
+  country_dictionary <- tidyorgs::countries_data
   country_dictionary <- country_dictionary %>%
     tidyr::drop_na(country_domain) %>%
     dplyr::select(country_domain, country_name) 

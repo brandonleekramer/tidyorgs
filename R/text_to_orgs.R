@@ -25,7 +25,7 @@
 #' classified_by_text <- github_users %>%
 #'   text_to_orgs(login, company, organization, academic)
 #'
-
+#' @export
 text_to_orgs <- function(data, id, input, output, sector
                                #sector = c("all", "academic", "business", "government", "nonprofit")
                                ){
@@ -38,7 +38,8 @@ text_to_orgs <- function(data, id, input, output, sector
   sector <- enquo(sector)
   `%notin%` <- Negate(`%in%`)
   # 2. pull in academic institutions dictionary 
-  dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
+  dictionary <- tidyorgs::academic_institutions
+  #dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
   # 3. standardize common academic instiution terms 
@@ -93,7 +94,7 @@ text_to_orgs <- function(data, id, input, output, sector
     dplyr::select(!!id, words, !!sector) %>%
     dplyr::bind_rows(funnelized) 
   # 6. standardize all of the organizations 
-  dictionary <- readr::read_rds(file = "R/academic_institutions.rds") %>%
+  dictionary <- tidyorgs::academic_institutions %>%
     dplyr::mutate(beginning = "\\b(?i)(", ending = ")\\b",
                   original_string = paste0(beginning, original_string, ending)) %>%
     dplyr::select(original_string, new_string) %>% tibble::deframe()

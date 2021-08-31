@@ -27,4 +27,5 @@ data(github_users)
 
 classified_by_email <- github_users \%>\%
   email_to_countries(login, email, organization)
+
 }

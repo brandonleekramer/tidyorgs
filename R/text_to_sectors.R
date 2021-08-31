@@ -23,7 +23,7 @@
 #' classified_by_text <- github_users %>%
 #'   text_to_sectors(login, company, organization, academic)
 #'
-
+#' @export
 text_to_sectors <- function(data, id, input, output, sector
                          #sector = c("all", "academic", "business", "government", "nonprofit")
                          ){
@@ -49,7 +49,7 @@ text_to_sectors <- function(data, id, input, output, sector
     tidyorgs::text_to_orgs(!!id, !!input, !!output, !!sector)
   already_classified <- matched_by_text[,1]
   # 3. load the academic misc. terms 
-  academic_terms <- readr::read_rds(file = "R/sector_terms.rds") %>% 
+  academic_terms <- dictionary <- tidyorgs::sector_terms %>% 
     dplyr::filter(sector_group == "academic")
   academic_terms <- na.omit(academic_terms$terms)
   # 4. match by misc. academic terms 

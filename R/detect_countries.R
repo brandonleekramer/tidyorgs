@@ -22,7 +22,7 @@
 #' classified_users <- github_users %>%
 #'   detect_countries(login, location, country_name, email)
 #'   
-
+#' @export
 detect_countries <- function(data, id, text, output, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
   # 1. convert all vars with enquos

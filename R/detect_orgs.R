@@ -22,7 +22,7 @@
 #' classified_users <- github_users %>%
 #'   detect_orgs(login, company, organization, academic, email)
 #'
-
+#' @export
 detect_orgs <- function(data, id, text, output, sector, email){ 
   # TODO: need to add an if clause in the case that email = FALSE
   # 1. convert all vars with enquos
@@ -42,7 +42,7 @@ detect_orgs <- function(data, id, text, output, sector, email){
     tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector)
   already_classified <- c(already_classified, matched_by_email[,1])
   # 4. load the academic misc. terms 
-  academic_terms <- readr::read_rds(file = "R/sector_terms.rds") %>% 
+  academic_terms <- tidyorgs::sector_terms %>% 
     dplyr::filter(sector_group == "academic")
   academic_terms <- na.omit(academic_terms$terms)
   # 4. match by misc. academic terms 

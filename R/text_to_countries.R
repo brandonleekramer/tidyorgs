@@ -23,7 +23,7 @@
 #' classified_by_text <- github_users %>%
 #'   text_to_countries(login, location, country_name)
 #'
-
+#' @export
 text_to_countries <- function(data, id, input, output){
   # to update: this beginning part can just be a helper function
   # that i can use at the beginning of each function
@@ -40,7 +40,7 @@ text_to_countries <- function(data, id, input, output){
   output <- enquo(output)
   `%notin%` <- Negate(`%in%`)
   # 2. pull in countries dictionary 
-  dictionary <- readr::read_rds(file = "R/countries_data.rds")
+  dictionary <- tidyorgs::countries_data
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
   # 3. drop missing, convert to lower case, standardize some words 
@@ -115,7 +115,7 @@ text_to_countries <- function(data, id, input, output){
     dplyr::select(!!id, words) %>%
     dplyr::bind_rows(funnelized) %>% 
     dplyr::select(!!id, words) 
-  dictionary <- readr::read_rds(file = "R/countries_data.rds") %>%
+  dictionary <- tidyorgs::countries_data %>%
     dplyr::mutate(original_string = paste0("\\b(?i)(", recode_column, ")\\b")) %>%
     dplyr::select(original_string, !!output) %>% tibble::deframe()
   finalized <- funnelized %>%

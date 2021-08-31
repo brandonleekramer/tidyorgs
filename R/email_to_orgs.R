@@ -22,10 +22,10 @@
 #' classified_by_email <- github_users %>%
 #'   email_to_orgs(login, email, organization, academic)
 #'
-
+#' @export
 email_to_orgs <- function(data, id, input, output, sector){ 
   # 1. pull in all academic email domains
-  academic_dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
+  academic_dictionary <- tidyorgs::academic_institutions
   academic_domains <- academic_dictionary %>%
     tidyr::unnest_legacy(domains = strsplit(domains, "\\|")) %>%
     tidyr::drop_na(domains) %>%
