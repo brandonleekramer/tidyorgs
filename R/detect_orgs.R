@@ -79,7 +79,8 @@ detect_orgs <- function(data, id, input, output, sector,
     # 3b. match by all emails (first by orgs, then by misc)
     matched_by_email <- data %>%
       dplyr::filter(!!id %notin% already_classified) %>%
-      tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector)
+      tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector) %>% 
+      filter(!!output != "NA")
     already_classified <- c(already_classified, matched_by_email[,1])
     # 4b. match by misc. academic terms 
     matched_by_sector <- data %>%
