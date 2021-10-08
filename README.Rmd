@@ -20,9 +20,11 @@ install.packages("devtools")
 devtools::install_github("brandonleekramer/tidyorgs") 
 ```
 
-The `tidyorgs` package provides several functions that help standardize messy text data for organizational analysis. More specifically, the package's two core functions `detect_orgs()` and `email_to_orgs()` standardize organizations from across the academic, business, government and nonprofit sectors based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis.
+The `tidyorgs` package provides several functions that help standardize messy text data for organizational analysis. More specifically, the package's two core functions `detect_orgs()` and `email_to_orgs()` standardize organizations from across the academic, business, government and nonprofit sectors based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis. **NOTE: Currently, the package only supports detection of academic institutions, but we are expanding into business, government, and nonprofit sectors soon.**
 
 ### Matching organizations with the `detect_orgs()` function
+
+The `detect_orgs()` functions detects patterns in messy text data and then standardizes them into organizations based on a curated dictionary. For example, messy bio information scraped from GitHub can be easily codified so that statistical analysis can be done on academic users. 
 
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -37,14 +39,17 @@ users_to_orgs %>%
   filter(academic == 1) %>% 
   select(organization, company) 
 ```
+The `detect_orgs()` can also provide additional metadata on organizations like country, parent organizations, and organization types.
+
 ```{r, warning=FALSE, message=FALSE}
 users_to_orgs %>% 
   filter(academic == 1) %>% 
   select(organization, country, org_type) 
 ```
 
-
 ### Matching users to organizations by emails alone using the `email_to_orgs()` function
+
+For those that only have email information, the `email_to_orgs()` function matches users to organizations based on our curated domain list. 
 
 ```{r, warning=FALSE, message=FALSE}
 user_emails_to_orgs <- github_users %>%
