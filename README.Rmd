@@ -35,7 +35,7 @@ users_to_orgs <- github_users %>%
 
 users_to_orgs %>% 
   filter(academic == 1) %>% 
-  select(company, organization) 
+  select(organization, company) 
 ```
 ```{r, warning=FALSE, message=FALSE}
 users_to_orgs %>% 

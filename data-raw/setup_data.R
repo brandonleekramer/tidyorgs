@@ -3,7 +3,7 @@
 library(dplyr)
 academic_institutions <- readr::read_csv("data-raw/academic_institutions.csv")
 #readr::write_rds(academic_institutions, "R/academic_institutions.rds")
-#usethis::use_data(academic_institutions, overwrite = TRUE)
+usethis::use_data(academic_institutions, overwrite = TRUE)
 usethis::use_data(academic_institutions, internal = TRUE, overwrite = TRUE)
 
 # misc. sector terms -----------------------------------------------------
@@ -11,7 +11,7 @@ usethis::use_data(academic_institutions, internal = TRUE, overwrite = TRUE)
 library(dplyr)
 sector_terms <- readr::read_csv("data-raw/sector_terms.csv")
 #readr::write_rds(sector_terms, "R/sector_terms.rds")
-#usethis::use_data(sector_terms, overwrite = TRUE)
+usethis::use_data(sector_terms, overwrite = TRUE)
 usethis::use_data(sector_terms, internal = TRUE, overwrite = TRUE)
 
 # misc. sector domains ---------------------------------------------------
@@ -19,7 +19,7 @@ usethis::use_data(sector_terms, internal = TRUE, overwrite = TRUE)
 library(dplyr)
 sector_domains <- readr::read_csv("data-raw/sector_domains.csv")
 #readr::write_rds(sector_domains, "R/sector_domains.rds")
-#usethis::use_data(sector_domains, overwrite = TRUE)
+usethis::use_data(sector_domains, overwrite = TRUE)
 usethis::use_data(sector_domains, internal = TRUE, overwrite = TRUE)
 
 # countries data ---------------------------------------------

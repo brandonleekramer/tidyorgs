@@ -1,7 +1,7 @@
 
 rm(list=ls())
 library("tidyverse")
-#library("tidyorgs")
+library("tidyorgs")
 load_all()
 data(github_users)
 data("academic_institutions")
