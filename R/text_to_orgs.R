@@ -38,7 +38,8 @@ text_to_orgs <- function(data, id, input, output, sector
   sector <- enquo(sector)
   `%notin%` <- Negate(`%in%`)
   # 2. pull in academic institutions dictionary 
-  dictionary <- tidyorgs::academic_institutions
+  #dictionary <- tidyorgs::academic_institutions
+  dictionary <- academic_institutions
   #dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
@@ -65,10 +66,10 @@ text_to_orgs <- function(data, id, input, output, sector
   for (n_word in 12:2) {
     # note: 12 is an arbitrary number that will eventually correspond to largest n in dictionary
     subdictionary <- dictionary %>%
-      tidyr::unnest_legacy(academic_terms = base::strsplit(academic_terms, "\\|")) %>%
-      dplyr::mutate(word_count = lengths(base::strsplit(academic_terms, "\\W+"))) %>%
+      tidyr::unnest_legacy(catch_terms = base::strsplit(catch_terms, "\\|")) %>%
+      dplyr::mutate(word_count = lengths(base::strsplit(catch_terms, "\\W+"))) %>%
       dplyr::filter(word_count == n_word)
-    subdictionary <- na.omit(subdictionary$academic_terms)
+    subdictionary <- na.omit(subdictionary$catch_terms)
     funnelized <- data %>%
       dplyr::filter(!!id %notin% ids_to_filter) %>%
       tidytext::unnest_tokens(words, !!input, token="ngrams", n=n_word, to_lower = TRUE) %>%
@@ -82,10 +83,10 @@ text_to_orgs <- function(data, id, input, output, sector
   }
   # 5. funnel match on all of the single tokens 
   subdictionary <- dictionary %>%
-    tidyr::unnest_legacy(academic_terms = base::strsplit(academic_terms, "\\|")) %>%
-    dplyr::mutate(word_count = lengths(base::strsplit(academic_terms, "\\W+"))) %>%
+    tidyr::unnest_legacy(catch_terms = base::strsplit(catch_terms, "\\|")) %>%
+    dplyr::mutate(word_count = lengths(base::strsplit(catch_terms, "\\W+"))) %>%
     dplyr::filter(word_count == 1)
-  subdictionary <- na.omit(subdictionary$academic_terms)
+  subdictionary <- na.omit(subdictionary$catch_terms)
   funnelized <- data %>%
     dplyr::filter(!!id %notin% ids_to_filter) %>%
     tidytext::unnest_tokens(words, !!input) %>%
@@ -94,10 +95,11 @@ text_to_orgs <- function(data, id, input, output, sector
     dplyr::select(!!id, words, !!sector) %>%
     dplyr::bind_rows(funnelized) 
   # 6. standardize all of the organizations 
-  dictionary <- tidyorgs::academic_institutions %>%
+  #dictionary <- tidyorgs::academic_institutions %>%
+  dictionary <- academic_institutions %>%
     dplyr::mutate(beginning = "\\b(?i)(", ending = ")\\b",
-                  original_string = paste0(beginning, original_string, ending)) %>%
-    dplyr::select(original_string, new_string) %>% tibble::deframe()
+                  recode_column = paste0(beginning, recode_column, ending)) %>%
+    dplyr::select(recode_column, organization_name) %>% tibble::deframe()
   standardized <- funnelized %>%
     dplyr::mutate("{{output}}" := tolower(words)) %>%
     dplyr::mutate("{{output}}" := stringr::str_replace_all({{ output }}, dictionary)) %>%

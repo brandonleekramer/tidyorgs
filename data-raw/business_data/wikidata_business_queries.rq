@@ -1,0 +1,67 @@
+# https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
+# https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual 
+# https://www.wikidata.org/wiki/Wikidata:Database_reports/List_of_properties/all
+# this is the full query but due to the size of the data we are extracting
+# i could only query about 2-4 variables at a time. to replicate this code, 
+# we will likely have to query sections of the variables in addition to 
+# making separate queries for each of the "instance of" ids 
+
+SELECT 
+?business ?businessLabel ?officialnameLabel ?shortnameLabel ?locationLabel ?countryLabel 
+?legalformLabel ?legalidLabel ?dunsLabel ?inceptionLabel
+?ownedbyLabel ?parentorgLabel ?partofLabel ?memberofLabel ?ownerofLabel ?subsidiaryLabel ?industryLabel ?productsLabel 
+?websiteLabel ?emailLabel 
+?stockexchangeLabel ?libofcongressLabel ?googlenewsLabel ?bbcnewsLabel ?msacademicLabel 
+?grididLabel ?opencorporatesLabel ?crunchbaseLabel ?quoraLabel ?littlesisLabel
+?twitterLabel ?youtubeLabel ?facebookLabel ?instagramLabel 
+?redditLabel ?linkedinLabel ?githubLabel ?githubtopicLabel 
+?stocktickerLabel ?cryptotickerLabel
+WHERE
+{
+  ?business wdt:P31 wd:Q4830453 
+  # instance of business (Q4830453), Q6881511 (enterprise), Q891723 (public company)
+  # DID NOT QUERY BUT COULD::: Q778575 (conglomerate), Q163740 (nonprofit), Q192350 (ministry), Q327333 (gov agency), Q2659904 (gov org), pol org (Q7210356), Q79913 (NGO), Q902104 (private university), Q15936437 (research university), Q3918 (university), Q23002054 (private not-for-profit educational institution), Q615150 (land grant university), sea grant institution (Q21032617), womens college (Q3660535)
+  # identifiers 
+  OPTIONAL {?business wdt:P1448 ?officialname.}
+  OPTIONAL {?business wdt:P1813 ?shortname.}
+  OPTIONAL {?business wdt:P740 ?location.}
+  OPTIONAL {?business wdt:P17 ?country.}
+  OPTIONAL {?business wdt:P1454 ?legalform.}
+  OPTIONAL {?business wdt:P1278 ?legalid.}
+  OPTIONAL {?business wdt:P2771 ?duns.}
+  OPTIONAL {?business wdt:P571 ?inception.}
+  # relations
+  OPTIONAL {?business wdt:P127 ?ownedby.}
+  OPTIONAL {?business wdt:P749 ?parentorg.}
+  OPTIONAL {?business wdt:P361 ?partof.}
+  OPTIONAL {?business wdt:P463 ?memberof.}
+  OPTIONAL {?business wdt:P1830 ?ownerof.}
+  OPTIONAL {?business wdt:P355 ?subsidiary.}
+  OPTIONAL {?business wdt:P452 ?industry.}
+  OPTIONAL {?business wdt:P1056 ?products.}
+  #linking ids 
+  OPTIONAL {?business wdt:P856 ?website.}
+  OPTIONAL {?business wdt:P968 ?email.}
+  OPTIONAL {?business wdt:P5337 ?googlenews.}
+  OPTIONAL {?business wdt:P6200 ?bbcnews.}
+  OPTIONAL {?business wdt:P414 ?stockexchange.} # not what we wanted 249
+  OPTIONAL {?business wdt:P244 ?libofcongress.}
+  OPTIONAL {?business wdt:P6366 ?msacademic.}
+  OPTIONAL {?business wdt:P2427 ?gridid.}
+  OPTIONAL {?business wdt:P1320 ?opencorporates.}
+  OPTIONAL {?business wdt:P2088 ?crunchbase.}
+  OPTIONAL {?business wdt:P3417 ?quora.}
+  OPTIONAL {?business wdt:P3393 ?littlesis.}
+  # social media ids  
+  OPTIONAL {?business wdt:P2002 ?twitter.}
+  OPTIONAL {?business wdt:P2397 ?youtube.}
+  OPTIONAL {?business wdt:P2013 ?facebook.}
+  OPTIONAL {?business wdt:P2003 ?instagram.}
+  OPTIONAL {?business wdt:P3984 ?reddit.}
+  OPTIONAL {?business wdt:P4264 ?linkedin.}
+  OPTIONAL {?business wdt:P2037 ?github.}
+  OPTIONAL {?business wdt:P9100 ?githubtopic.}
+  OPTIONAL {?business wdt:P249 ?stockticker.}
+  OPTIONAL {?business wdt:P5810 ?cryptoticker.}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}

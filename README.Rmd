@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # tidyorgs: A tidy package that standardizes text data for organizational and geographic analysis
 
-**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with members of the [University of Virginia's Biocomplexity Institute](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics), the [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/), and the [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg) and [2021](https://dspgtools.shinyapps.io/dspg21oss/) [UVA Data Science for the Public Good Open Source Software Teams](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg)<br/>
+**Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with contributions from members of the [University of Virginia's Biocomplexity Institute](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics), the [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/), and the [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg) and [2021](https://dspgtools.shinyapps.io/dspg21oss/) [UVA Data Science for the Public Good Open Source Software Teams](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg)<br/>
 **License:** [MIT](https://opensource.org/licenses/MIT)<br/>
 
 ### Installation
@@ -20,33 +20,39 @@ install.packages("devtools")
 devtools::install_github("brandonleekramer/tidyorgs") 
 ```
 
-The `tidyorgs` package provides several functions that help standardize messy text data for organizational and geographic analysis. More specifically, the package's two core functions `detect_orgs()` and `detect_countries()` standardize organizations in the academic, business, government and nonprofit sectors as well as cities and countries based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis.
+The `tidyorgs` package provides several functions that help standardize messy text data for organizational analysis. More specifically, the package's two core functions `detect_orgs()` and `email_to_orgs()` standardize organizations from across the academic, business, government and nonprofit sectors based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis.
 
 ### Matching organizations with the `detect_orgs()` function
 
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
+```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(tidyorgs)
 data(github_users)
-```
 
-```{r, warning=FALSE, message=FALSE}
 users_to_orgs <- github_users %>%
-  detect_orgs(login, company, organization, academic, email) 
+  detect_orgs(login, company, organization, academic, email, 
+              country = TRUE, parent_org = TRUE, org_type = TRUE) 
 
 users_to_orgs %>% 
   filter(academic == 1) %>% 
-  select(organization, company) 
+  select(company, organization) 
+```
+```{r, warning=FALSE, message=FALSE}
+users_to_orgs %>% 
+  filter(academic == 1) %>% 
+  select(organization, country, org_type) 
 ```
 
-### Standardizing countries with the `detect_countries()` function
+
+### Matching users to organizations by emails alone using the `email_to_orgs()` function
 
 ```{r, warning=FALSE, message=FALSE}
-users_to_countries <- github_users %>%
-  detect_countries(login, location, country_name, email) 
+user_emails_to_orgs <- github_users %>%
+  email_to_orgs(login, email, country_name, academic) 
 
-users_to_countries  %>% 
+github_users %>% 
+  left_join(user_emails_to_orgs, by = "login") %>% 
   drop_na(country_name) %>% 
-  select(country_name, location)
+  select(email, country_name)
 ```
 

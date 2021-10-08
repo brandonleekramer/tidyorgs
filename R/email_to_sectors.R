@@ -52,7 +52,7 @@ email_to_sectors <- function(data, id, input, output, sector){
                   | grepl(academic_domains, domain)) %>%
     # omitting known nonprofits with academic domains 
     dplyr::filter(!grepl("ucar.edu|academia.edu|ict.ac.cn", domain)) %>%
-    dplyr::mutate("{{ output }}" := "misc. academic", "{{ sector }}" := 1) %>%
+    dplyr::mutate("{{ output }}" := "Misc. Academic", "{{ sector }}" := 1) %>%
     dplyr::select(!!id, !!input, !!output, !!sector)
   # 5. bind the data together 
   matched_by_both <- matched_by_email %>% 

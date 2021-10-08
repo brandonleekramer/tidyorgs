@@ -1,7 +1,7 @@
 Package: tidyorgs
 Type: Package
-Title: Standardize messy text data for organizational and geographic analysis
-Version: 0.0.1
+Title: Standardize messy text data for organizational analysis
+Version: 0.0.2
 Authors@R: c(person("Carol", "Robbins", role = c("ctb"),
              email = "crobbins@nsf.gov"),
              person("Ledia", "Guci", role = c("ctb"),
@@ -24,22 +24,21 @@ Authors@R: c(person("Carol", "Robbins", role = c("ctb"),
              email = "brandonleekramer@gmail.com",
              comment = c(ORCID = "0000-0002-3233-5310")))
 Maintainer: Brandon Kramer <brandonleekramer@gmail.com>
-Description: This package provides several easy-to-use functions that 
-      help standardize messy text data for organizational and geographic 
-      analysis. More specifically, the functions standardize organizations
-      from within academic, business, government and nonprofit sectors as 
-      well as cities and countries based on unstructured text and email 
-      domains. The package is intended to support linkage across multiple 
-      datasets, bibliometric analysis, and sector classification for 
-      economic and policy analysis. 
+Description: The tidyorgs package provides easy-to-use functions that 
+      help standardize messy text data for organizational analysis. More specifically, 
+      the functions standardize organizations across the academic, business, government 
+      and nonprofit sectors. The package is intended to support linkage across multiple 
+      datasets, bibliometric analysis, and sector classification for economic and policy analysis. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/brandonleekramer/tidyorgs
-Depends: R (>= 2.10)
+Depends: R (>= 3.5.0)
 Imports: dplyr, 
     readr,
     stringr, 
     tidyr,
-    tidytext
+    tidytext,
+    magrittr, 
+    rlang
 RoxygenNote: 7.1.1

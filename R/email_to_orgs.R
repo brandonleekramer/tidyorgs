@@ -25,17 +25,18 @@
 #' @export
 email_to_orgs <- function(data, id, input, output, sector){ 
   # 1. pull in all academic email domains
-  academic_dictionary <- tidyorgs::academic_institutions
+  #academic_dictionary <- tidyorgs::academic_institutions
+  academic_dictionary <- academic_institutions
   academic_domains <- academic_dictionary %>%
     tidyr::unnest_legacy(domains = strsplit(domains, "\\|")) %>%
     tidyr::drop_na(domains) %>%
-    dplyr::select(domains, new_string) %>%
-    dplyr::rename(org_domain = domains, org_name = new_string)
+    dplyr::select(domains, organization_name) %>%
+    dplyr::rename(org_domain = domains)
   academic_vector <- na.omit(academic_domains$org_domain)
   academic_deframed <- academic_domains %>%
     dplyr::mutate(beginning = "\\b(?i)((?<!.)", ending = ")\\b",
                        org_domain = paste0(beginning, org_domain, ending)) %>%
-    dplyr::select(org_domain, org_name) %>% tibble::deframe()
+    dplyr::select(org_domain, organization_name) %>% tibble::deframe()
   # 2. convert all vars with enquos
   id <- enquo(id)
   input <- enquo(input)

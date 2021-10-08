@@ -36,7 +36,8 @@ detected_countries_df <- github_users %>%
   detect_countries(login, location, country_name, email) 
 
 
-dictionary <- readr::read_rds(file = "R/countries_data.rds") %>% 
+#dictionary <- tidyorgs::countries_data %>% 
+dictionary <- read_csv("data-raw/tidyorgs - countries.csv")%>% 
   separate_rows(catch_terms, sep = "\\|") %>%
   janitor::get_dupes(catch_terms) %>% 
   select(catch_terms, country_name, dupe_count)

@@ -4,14 +4,24 @@
 \alias{detect_orgs}
 \title{Match messy text and email data to academic, business, government, household, or nonprofit organizations}
 \usage{
-detect_orgs(data, id, text, output, sector, email)
+detect_orgs(
+  data,
+  id,
+  input,
+  output,
+  sector,
+  email = FALSE,
+  country = FALSE,
+  parent_org = FALSE,
+  org_type = FALSE
+)
 }
 \arguments{
 \item{data}{A data frame or data frame extension (e.g. a tibble).}
 
 \item{id}{A numeric or character vector unique to each entry.}
 
-\item{text}{Character vector of messy or unstructured text that will be matched to organizations 
+\item{input}{Character vector of messy or unstructured text that will be matched to organizations 
 from one (or all) of five economic sectors (see sector parameter).}
 
 \item{output}{Output column to be created as string or symbol.}
@@ -19,12 +29,22 @@ from one (or all) of five economic sectors (see sector parameter).}
 \item{sector}{Sector to match by organizations. Currently, the only option is "academic" 
 with "business", "government", "household", and "nonprofit" in development.}
 
-\item{email}{Character vector of email or email domain information.}
+\item{email}{Optional character vector of email or email domain information. Defaults to FALSE.}
+
+\item{country}{Optional parameter that returns country of organization when available. Defaults to FALSE.}
+
+\item{parent_org}{Optional parameter that returns the parent organization when available. 
+For the academic sector, this value is the school system of the organization. Defaults to FALSE.}
+
+\item{org_type}{Optional parameter that returns organization type when available. 
+Current return values include "Public", "Private for-profit", and "Private not-for-profit". Defaults to FALSE.}
 }
 \description{
 This function standardizes messy text data and/or email information to social organizations. 
-The detect_orgs() function integrates text_to_orgs() and email_to_orgs() together, providing 
-the capacity to match users to organizations for social, economic, or policy analysis in a tidy framework.
+The detect_orgs() function iterates through email domains and unstructured text to match patterns in our 
+curated dictionaries to standardize organizations. This tool is designed to optimize pattern detection 
+for in the linkage of multiple datasets, for bibliometric analysis, and for sector classification in 
+social, economic, and policy analysis.
 }
 \examples{
 

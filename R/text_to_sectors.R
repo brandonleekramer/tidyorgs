@@ -57,7 +57,7 @@ text_to_sectors <- function(data, id, input, output, sector
     filter(!!id %notin% already_classified) %>%
     tidytext::unnest_tokens(words, !!input) %>%
     dplyr::filter(words %in% academic_terms) %>%
-    dplyr::mutate("{{output}}" := "misc. academic") %>%
+    dplyr::mutate("{{output}}" := "Misc. Academic") %>%
     dplyr::distinct(!!id, !!output)
   # 5. bind the datasets together and add the sector 
   matched_by_both <- matched_by_text %>% 
