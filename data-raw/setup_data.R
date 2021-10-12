@@ -3,7 +3,7 @@
 library(dplyr)
 academic_institutions <- readr::read_csv("data-raw/academic_institutions.csv")
 #readr::write_rds(academic_institutions, "R/academic_institutions.rds")
-usethis::use_data(academic_institutions, overwrite = TRUE)
+#usethis::use_data(academic_institutions, overwrite = TRUE)
 usethis::use_data(academic_institutions, internal = TRUE, overwrite = TRUE)
 
 # misc. sector terms -----------------------------------------------------
