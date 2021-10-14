@@ -44,95 +44,98 @@ detect_orgs <- function(data, id, input, output, sector,
   # 2. match by text entries 
   matched_by_text <- data %>%
     tidyorgs::text_to_orgs(!!id, !!input, !!output, !!sector)
-  already_classified <- matched_by_text[,1]
+  already_classified <- matched_by_text %>% dplyr::rename(tmp_id = !!id)
+  already_classified <- already_classified$tmp_id 
   # 3. load the academic misc. terms 
-  academic_terms <- tidyorgs::sector_terms %>% 
+  academic_terms <- tidyorgs::sector_terms %>%
     dplyr::filter(sector_group == "academic")
   academic_terms <- na.omit(academic_terms$terms)
   
-  if (missing(email)) { 
-    # 3a. match by misc. academic terms 
+  if (missing(email)) {
+  #   # 3a. match by misc. academic terms
     matched_by_sector <- data %>%
       dplyr::filter(!!id %notin% already_classified) %>%
       tidytext::unnest_tokens(words, !!input) %>%
       dplyr::filter(words %in% academic_terms) %>%
       dplyr::mutate("{{output}}" := "Misc. Academic") %>%
       dplyr::distinct(!!id, !!output)
-    # 4a. bind all matched data together and add sector 
-    all_matched_data <- matched_by_text %>% 
-      dplyr::bind_rows(matched_by_sector) %>% 
-      dplyr::mutate("{{sector}}" := 1) %>% 
+  #   # 4a. bind all matched data together and add sector 
+    all_matched_data <- matched_by_text %>%
+      dplyr::bind_rows(matched_by_sector) %>%
+      dplyr::mutate("{{sector}}" := 1) %>%
       dplyr::arrange(!!output)
-    # 5a. join classified data back to the original dataframe
+  #   # 5a. join classified data back to the original dataframe
     suppressMessages(
-      joined_data <- data %>% 
-        dplyr::left_join(all_matched_data) %>% 
-        dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>% 
+      joined_data <- data %>%
+        dplyr::left_join(all_matched_data) %>%
+        dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>%
         dplyr::distinct(across(everything())) %>%
         dplyr::group_by(!!id, !!input, !!sector) %>%
-        dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>% 
+        dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>%
         dplyr::distinct(across(everything())) %>%
-        dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>% 
+        dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>%
         dplyr::ungroup())
   } else {
     email <- enquo(email)
     # 3b. match by all emails (first by orgs, then by misc)
     matched_by_email <- data %>%
       dplyr::filter(!!id %notin% already_classified) %>%
-      tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector) %>% 
+      tidyorgs::email_to_sectors(!!id, !!email, !!output, !!sector) %>%
       filter(!!output != "NA")
-    already_classified <- c(already_classified, matched_by_email[,1])
-    # 4b. match by misc. academic terms 
+    newly_classified <- matched_by_email %>% dplyr::rename(tmp_id = !!id)
+    newly_classified <- newly_classified$tmp_id 
+    already_classified <- c(already_classified, newly_classified)
+    # 4b. match by misc. academic terms
     matched_by_sector <- data %>%
       dplyr::filter(!!id %notin% already_classified) %>%
       tidytext::unnest_tokens(words, !!input) %>%
       dplyr::filter(words %in% academic_terms) %>%
       dplyr::mutate("{{output}}" := "Misc. Academic") %>%
       dplyr::distinct(!!id, !!output)
-    # 5b. bind all matched data together and add sector 
-    all_matched_data <- matched_by_text %>% 
-      dplyr::bind_rows(matched_by_sector) %>% 
-      dplyr::mutate("{{sector}}" := 1) %>% 
-      dplyr::bind_rows(matched_by_email) %>% 
+    # 5b. bind all matched data together and add sector
+    all_matched_data <- matched_by_text %>%
+      dplyr::bind_rows(matched_by_sector) %>%
+      dplyr::mutate("{{sector}}" := 1) %>%
+      dplyr::bind_rows(matched_by_email) %>%
       dplyr::arrange(!!output)
     # 6b. join classified data back to the original dataframe
     suppressMessages(
-      joined_data <- data %>% 
-        dplyr::left_join(all_matched_data) %>% 
-        dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>% 
+      joined_data <- data %>%
+        dplyr::left_join(all_matched_data) %>%
+        dplyr::mutate("{{sector}}" := tidyr::replace_na(!!sector, 0)) %>%
         dplyr::distinct(across(everything())) %>%
         dplyr::group_by(!!id, !!input, !!email, !!sector) %>%
-        dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>% 
+        dplyr::mutate("{{output}}" := paste(!!output, collapse = "|")) %>%
         dplyr::distinct(across(everything())) %>%
-        dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>% 
+        dplyr::mutate("{{output}}" := dplyr::na_if(!!output, "NA")) %>%
         dplyr::ungroup())
-  }  
-  # adding basic covariates for academic sector 
+  }
+  # adding basic covariates for academic sector
   suppressMessages(
   if(country == TRUE || parent_org == TRUE || org_type == TRUE){
     #academic_institutions <- tidyorgs::academic_institutions %>%
     academic_institutions <- academic_institutions %>%
-      dplyr::mutate("{{output}}" := organization_name) %>% 
-      dplyr::select(!!output, country, parent_org, org_type) 
-    
+      dplyr::mutate("{{output}}" := organization_name) %>%
+      dplyr::select(!!output, country, parent_org, org_type)
+
     if(country == TRUE && parent_org == TRUE && org_type == TRUE){ # TTT
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions) 
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions)
     } else if(country == FALSE && parent_org == TRUE && org_type == TRUE){ # FTT
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>% 
-                           dplyr::select(!!output, parent_org, org_type)) 
-    } else if(country == TRUE && parent_org == FALSE && org_type == TRUE){ # TFT 
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>% 
-                           dplyr::select(!!output, country, org_type)) 
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
+                           dplyr::select(!!output, parent_org, org_type))
+    } else if(country == TRUE && parent_org == FALSE && org_type == TRUE){ # TFT
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
+                           dplyr::select(!!output, country, org_type))
     } else if(country == TRUE && parent_org == TRUE && org_type == FALSE){ # TTF
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>% 
-                           dplyr::select(!!output, country, parent_org)) 
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
+                           dplyr::select(!!output, country, parent_org))
     } else if(country == TRUE && parent_org == FALSE && org_type == FALSE){ # TFF
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>% 
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
                            dplyr::select(!!output, country))
     } else if(country == FALSE && parent_org == FALSE && org_type == TRUE){ # FFT
-      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>% 
+      joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
                            dplyr::select(!!output, parent_org))
-    } else if(country == FALSE && parent_org == TRUE && org_type == FALSE){ # FTF 
+    } else if(country == FALSE && parent_org == TRUE && org_type == FALSE){ # FTF
       joined_data <- joined_data %>% dplyr::left_join(academic_institutions %>%
                            dplyr::select(!!output, parent_org))
     } else { joined_data }
