@@ -4,7 +4,13 @@
 \alias{text_to_orgs}
 \title{Match messy text data to social organizations using a 'funneling' method}
 \usage{
-text_to_orgs(data, id, input, output, sector)
+text_to_orgs(
+  data,
+  id,
+  input,
+  output,
+  sector = c("academic", "business", "government", "nonprofit")
+)
 }
 \arguments{
 \item{data}{A data frame or data frame extension (e.g. a tibble).}

@@ -5,27 +5,77 @@ library("tidyorgs")
 library("devtools")
 load_all()
 data(github_users)
-data("academic_institutions")
+#data("academic_institutions")
+
+# email_to_orgs and text_to_orgs DONE!!!! 
+# email_to_sectors next 
+# then break off each sector into its own + redesign detect_orgs()
+
+# orgs
+load_all()
+text_to_orgs_df <- github_users %>%
+  text_to_orgs(login, company, organization, sector = "business")
+
+load_all()
+classified_orgs <- github_users %>%
+  detect_orgs(login, company, organization, "academic", email)
+
+setwd("~/Documents/git/oss-2020/data")
+uva_scraped_data <- readRDS("github_sectored_101321.rds") 
+uva_scraped_data <- uva_scraped_data %>% 
+  select(login, company, location, email)
+
+load_all()
+classified_academic <- uva_scraped_data %>%
+  detect_academic(login, company, organization, email) %>% 
+  filter(academic == 1)
+classified_businesses <- uva_scraped_data %>%
+  detect_business(login, company, organization, email) %>% 
+  filter(business == 1)
+classified_goverment <- uva_scraped_data %>%
+  detect_government(login, company, organization, email) %>% 
+  filter(government == 1)
+classified_nonprofit <- uva_scraped_data %>%
+  detect_nonprofit(login, company, organization, email) %>% 
+  filter(nonprofit == 1)
+classified_orgs <- bind_rows(
+  classified_academic, classified_businesses,
+  classified_goverment, classified_nonprofit) %>% 
+  mutate(academic = replace_na(academic, 0)) %>% 
+  mutate(business = replace_na(business, 0)) %>% 
+  mutate(government = replace_na(government, 0)) %>% 
+  mutate(nonprofit = replace_na(nonprofit, 0)) %>% 
+  group_by(login, email, company, location) %>%
+  summarise(organization = paste(organization, collapse='|'),
+            academic = sum(academic), business = sum(business), 
+            government = sum(government), nonprofit = sum(nonprofit))
+
+org_counts <- classified_businesses %>% 
+  group_by(organization) %>% 
+  count() %>% 
+  arrange(-n)
+
+# aol email, 2015 inc, Hewlett-Packard|Hewlett-Packard Enterprise
 
 library("tidyverse")
 load_all()
 data(github_users)
 # function that combines all of the above
+load_all()
 classified_orgs <- github_users %>%
-  detect_orgs(login, company, organization, academic, email, parent_org = TRUE)
+  detect_orgs(login, company, organization, "academic", email)
 
-# orgs
+load_all()
 text_to_orgs_df <- github_users %>%
-  text_to_orgs(login, company, organization, academic)
+  text_to_orgs(login, company, organization, "business")
 
-text_to_sectors_df <- github_users %>%
-  text_to_sectors(login, company, organization, academic)
-
+load_all()
 email_to_orgs_df <- github_users %>%
-  email_to_orgs(login, email, organization, academic)
+  email_to_orgs(login, email, organization, "government")
 
+load_all()
 email_to_sectors_df <- github_users %>%
-  email_to_sectors(login, email, organization, academic)
+  email_to_sectors(login, email, organization, "nonprofit")
 
 # function that combines all of the above
 classified_orgs <- github_users %>%

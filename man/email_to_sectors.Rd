@@ -4,7 +4,13 @@
 \alias{email_to_sectors}
 \title{Probabilistically match emails to an economic sector}
 \usage{
-email_to_sectors(data, id, input, output, sector)
+email_to_sectors(
+  data,
+  id,
+  input,
+  output,
+  sector = c("academic", "business", "government", "nonprofit")
+)
 }
 \arguments{
 \item{data}{A data frame or data frame extension (e.g. a tibble).}

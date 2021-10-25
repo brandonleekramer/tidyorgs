@@ -23,19 +23,30 @@
 #'   email_to_orgs(login, email, organization, academic)
 #'
 #' @export
-email_to_orgs <- function(data, id, input, output, sector){ 
+email_to_orgs <- function(data, id, input, output, 
+                          sector = c("academic", "business", 
+                                     "government", "nonprofit")){ 
   # 1. pull in all academic email domains
   #academic_dictionary <- tidyorgs::academic_institutions
-  academic_dictionary <- academic_institutions
-  academic_domains <- academic_dictionary %>%
+  if (sector == "academic") {
+    sector_dictionary <- academic_institutions
+  } else if (sector == "business") { 
+    sector_dictionary <- business_data
+  } else if (sector == "government") { 
+    sector_dictionary <- government_data
+  } else if (sector == "nonprofit") { 
+    sector_dictionary <- nonprofit_data
+  }
+
+  sector_dictionary <- sector_dictionary %>%
     tidyr::unnest_legacy(domains = strsplit(domains, "\\|")) %>%
     tidyr::drop_na(domains) %>%
     dplyr::select(domains, organization_name) %>%
     dplyr::rename(org_domain = domains)
-  academic_vector <- na.omit(academic_domains$org_domain)
-  academic_deframed <- academic_domains %>%
+  sector_vector <- na.omit(sector_dictionary$org_domain)
+  sector_deframed <- sector_dictionary %>%
     dplyr::mutate(beginning = "\\b(?i)((?<!.)", ending = ")\\b",
-                       org_domain = paste0(beginning, org_domain, ending)) %>%
+                  org_domain = paste0(beginning, org_domain, ending)) %>%
     dplyr::select(org_domain, organization_name) %>% tibble::deframe()
   # 2. convert all vars with enquos
   id <- enquo(id)
@@ -50,16 +61,17 @@ email_to_orgs <- function(data, id, input, output, sector){
     dplyr::mutate(domain = sub('.*@', '', !!input))
   # 4. matches all of the root domains based on dictionary
   emails_df <- all_domains_df %>%
-    dplyr::filter(domain %in% academic_vector)
+    dplyr::filter(domain %in% sector_vector)
   # 5. remove all of the sub-domains and match again on roots
   emails_df <- all_domains_df %>%
     dplyr::filter(str_count(domain, "[.]") == 2) %>%
     dplyr::mutate(domain = sub("^.*?\\.", '', domain)) %>%
-    dplyr::filter(domain %in% academic_vector) %>%
+    dplyr::filter(domain %in% sector_vector) %>%
     dplyr::bind_rows(emails_df)
   # 5. add institution names based on the classified email information
   df <- emails_df %>%
-    dplyr::mutate("{{ output }}" := stringr::str_replace_all(domain, academic_deframed)) %>%
+    dplyr::mutate("{{ output }}" := stringr::str_replace_all(
+      domain, sector_deframed)) %>%
     dplyr::select(!!id, !!output)
   df
 }

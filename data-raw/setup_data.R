@@ -6,6 +6,44 @@ academic_institutions <- readr::read_csv("data-raw/academic_institutions.csv")
 #usethis::use_data(academic_institutions, overwrite = TRUE)
 usethis::use_data(academic_institutions, internal = TRUE, overwrite = TRUE)
 
+# business institutions data ---------------------------------------------------
+
+library(dplyr)
+business_data <- readr::read_csv("data-raw/business_data/tech_companies_data_090821.csv")
+business_data <- business_data %>% 
+  select(company, email_domain, country, subsidiary_to, industry_in) %>% 
+  rename(organization_name = company, domains = email_domain, 
+         parent_org = subsidiary_to, org_type = industry_in)
+business_data <- business_data %>% 
+  mutate(catch_terms = tolower(organization_name),
+         catch_terms = str_replace_all(catch_terms, ",|\\.|\\.com| inc| llc", ""),
+         catch_terms = str_replace_all(catch_terms, "\\-", " "),
+         catch_terms = str_replace_all(catch_terms, " \\(united states\\)", ""),
+         catch_terms = trimws(catch_terms),
+         recode_column = catch_terms) %>% 
+  select(catch_terms, recode_column, everything())
+#write_csv(business_data, "data-raw/business_data/tech_cleaned_102521.csv")
+
+business_data <- readr::read_csv("data-raw/business_data/tech_cleaned_102521.csv")
+usethis::use_data(business_data, overwrite = TRUE)
+usethis::use_data(business_data, internal = TRUE, overwrite = TRUE)
+
+# nonprofit data ---------------------------------------------
+
+library(dplyr)
+nonprofit_data <- readr::read_csv("data-raw/nonprofit_data.csv")
+#readr::write_rds(academic_institutions, "R/academic_institutions.rds")
+usethis::use_data(nonprofit_data, overwrite = TRUE)
+usethis::use_data(nonprofit_data, internal = TRUE, overwrite = TRUE)
+
+# government data ---------------------------------------------
+
+library(dplyr)
+government_data <- readr::read_csv("data-raw/government_data.csv")
+#readr::write_rds(academic_institutions, "R/academic_institutions.rds")
+usethis::use_data(government_data, overwrite = TRUE)
+usethis::use_data(government_data, internal = TRUE, overwrite = TRUE)
+
 # misc. sector terms -----------------------------------------------------
 
 library(dplyr)
@@ -21,30 +59,6 @@ sector_domains <- readr::read_csv("data-raw/sector_domains.csv")
 #readr::write_rds(sector_domains, "R/sector_domains.rds")
 usethis::use_data(sector_domains, overwrite = TRUE)
 usethis::use_data(sector_domains, internal = TRUE, overwrite = TRUE)
-
-# countries data ---------------------------------------------
-
-library(tidyverse)
-world_cities <- read_csv("data-raw/worldcities_raw.csv")
-world_cities_edited <- world_cities %>% 
-  arrange(country) %>% 
-  mutate(city = tolower(city), 
-         city_ascii = tolower(city_ascii)) %>% 
-  unite("city_combined", c("city", "city_ascii"), sep = "|") %>% 
-  mutate(city_combined = str_replace(city_combined, "\\.", " ")) %>% 
-  select(city_combined, country) %>% 
-  separate_rows(city_combined, sep = "\\|") %>%
-  distinct(city_combined, country) %>% 
-  group_by(country) %>% 
-  mutate(city_combined = paste(city_combined, collapse = "|")) %>% 
-  distinct(city_combined, country)
-readr::write_csv(world_cities_edited, "data-raw/worldcities_collapsed.csv")
-
-library(dplyr)
-countries_data <- readr::read_csv("data-raw/countries_data.csv")
-readr::write_rds(countries_data, "R/countries_data.rds")
-usethis::use_data(countries_data, overwrite = TRUE)
-usethis::use_data(countries_data, internal = TRUE, overwrite = TRUE)
 
 # github_users data ------------------------------------------------------
 

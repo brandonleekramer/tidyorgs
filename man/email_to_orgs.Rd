@@ -4,7 +4,13 @@
 \alias{email_to_orgs}
 \title{Match emails to social organizations}
 \usage{
-email_to_orgs(data, id, input, output, sector)
+email_to_orgs(
+  data,
+  id,
+  input,
+  output,
+  sector = c("academic", "business", "government", "nonprofit")
+)
 }
 \arguments{
 \item{data}{A data frame or data frame extension (e.g. a tibble).}

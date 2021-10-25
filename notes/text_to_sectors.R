@@ -49,14 +49,14 @@ text_to_sectors <- function(data, id, input, output, sector
     tidyorgs::text_to_orgs(!!id, !!input, !!output, !!sector)
   already_classified <- matched_by_text[,1]
   # 3. load the academic misc. terms 
-  academic_terms <- dictionary <- tidyorgs::sector_terms %>% 
+  sector_terms <- dictionary <- tidyorgs::sector_terms %>% 
     dplyr::filter(sector_group == "academic")
-  academic_terms <- na.omit(academic_terms$terms)
+  academic_terms <- na.omit(sector_terms$terms)
   # 4. match by misc. academic terms 
   matched_by_sector <- data %>%
     filter(!!id %notin% already_classified) %>%
     tidytext::unnest_tokens(words, !!input) %>%
-    dplyr::filter(words %in% academic_terms) %>%
+    dplyr::filter(words %in% sector_terms) %>%
     dplyr::mutate("{{output}}" := "Misc. Academic") %>%
     dplyr::distinct(!!id, !!output)
   # 5. bind the datasets together and add the sector 

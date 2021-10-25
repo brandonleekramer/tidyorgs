@@ -40,5 +40,6 @@ Imports: dplyr,
     tidyr,
     tidytext,
     magrittr, 
-    rlang
+    rlang,
+    data.table
 RoxygenNote: 7.1.1

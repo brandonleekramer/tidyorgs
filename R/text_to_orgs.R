@@ -26,44 +26,75 @@
 #'   text_to_orgs(login, company, organization, academic)
 #'
 #' @export
-text_to_orgs <- function(data, id, input, output, sector
-                               #sector = c("all", "academic", "business", "government", "nonprofit")
-                               ){
-  # to update: this beginning part can just be a helper function
-  # that i can use at the beginning of each function
+text_to_orgs <- function(data, id, input, output, 
+                             sector = c("academic", "business", 
+                                        "government", "nonprofit")){
   # 1. convert all vars with enquos and check for errors
-  id <- enquo(id)
-  input <- enquo(input)
-  output <- enquo(output)
-  sector <- enquo(sector)
+  id <- dplyr::enquo(id)
+  input <- dplyr::enquo(input)
+  output <- dplyr::enquo(output)
+  sector <- rlang::arg_match(sector)
   `%notin%` <- Negate(`%in%`)
   # 2. pull in academic institutions dictionary 
   #dictionary <- tidyorgs::academic_institutions
-  dictionary <- academic_institutions
+  if (sector == "academic"){
+    
+    dictionary <- academic_institutions 
+    data <- data %>%
+      tidyr::drop_na(!!input) %>%
+      dplyr::mutate("{{input}}" := tolower(!!input),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univ\\.)\\b", "university"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univesity)\\b", "university"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univeristy)\\b", "university"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universoty)\\b", "university"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universit)\\b", "université"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universitt)\\b", "universität"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(technolgy)\\b", "technology"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(simn bolvar)\\b", "simón bolívar"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(mnster)\\b", "münster"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(king's)\\b", "kings"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(queen's)\\b", "queens"),
+                    "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(xi'an jiaotong)\\b", "xian jiaotong"),
+                    "{{input}}" := stringr::str_replace(!!input, "a & m", "a&m"),
+                    "{{input}}" := stringr::str_replace(!!input, "@", ""),
+                    "{{input}}" := stringr::str_replace(!!input, " & ", " and "))
+    
+  } else if (sector == "business"){ 
+    dictionary <- business_data 
+    data <- data %>%
+      tidyr::drop_na(!!input) %>% 
+      mutate("{{input}}" := stringr::str_replace(!!input, "@", ""),
+             "{{input}}" := tolower(!!input))
+    
+  } else if (sector == "government"){ 
+    dictionary <- government_data 
+    data <- data %>%
+      tidyr::drop_na(!!input) %>% 
+      mutate("{{input}}" := stringr::str_replace(!!input, "@", ""),
+             "{{input}}" := stringr::str_replace(!!input, "\\.", ""),
+             "{{input}}" := tolower(!!input))
+    
+  } else if (sector == "nonprofit"){ 
+    dictionary <- nonprofit_data 
+    data <- data %>%
+      tidyr::drop_na(!!input) %>% 
+      mutate("{{input}}" := stringr::str_replace(!!input, "@", ""),
+             "{{input}}" := tolower(!!input))
+  } else {
+    warning("You did not enter a valid sector name. Choose one of academic, business, government, and nonprofit.")
+  }
+  
   #dictionary <- readr::read_rds(file = "R/academic_institutions.rds")
   ids_to_filter <- c("nonexistent-user")
   funnelized <- data.frame()
-  # 3. standardize common academic instiution terms 
-  data <- data %>%
-    tidyr::drop_na(!!input) %>%
-    dplyr::mutate("{{input}}" := tolower(!!input),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univ\\.)\\b", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univesity)\\b", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(univeristy)\\b", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universoty)\\b", "university"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universit)\\b", "université"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(universitt)\\b", "universität"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(technolgy)\\b", "technology"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(simn bolvar)\\b", "simón bolívar"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(mnster)\\b", "münster"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(king's)\\b", "kings"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(queen's)\\b", "queens"),
-                  "{{input}}" := stringr::str_replace(!!input, "\\b(?i)(xi'an jiaotong)\\b", "xian jiaotong"),
-                  "{{input}}" := stringr::str_replace(!!input, "a & m", "a&m"),
-                  "{{input}}" := stringr::str_replace(!!input, "@", ""),
-                  "{{input}}" := stringr::str_replace(!!input, " & ", " and "))
+  
+  max_n <- dictionary %>%
+    tidyr::unnest_legacy(catch_terms = base::strsplit(catch_terms, "\\|")) %>%
+    dplyr::mutate(word_count = lengths(base::strsplit(catch_terms, "\\W+"))) 
+  max_n <- max(max_n$word_count) 
+
   # 4. use a for loop to funnel match n-grams of lengths 2-12 
-  for (n_word in 12:2) {
+  for (n_word in max_n:2) {
     # note: 12 is an arbitrary number that will eventually correspond to largest n in dictionary
     subdictionary <- dictionary %>%
       tidyr::unnest_legacy(catch_terms = base::strsplit(catch_terms, "\\|")) %>%
@@ -74,14 +105,14 @@ text_to_orgs <- function(data, id, input, output, sector
       dplyr::filter(!!id %notin% ids_to_filter) %>%
       tidytext::unnest_tokens(words, !!input, token="ngrams", n=n_word, to_lower = TRUE) %>%
       dplyr::filter(words %in% subdictionary) %>%
-      dplyr::mutate("{{sector}}" := 1) %>%
-      dplyr::filter(!!sector == 1) %>%
-      dplyr::select(!!id, words, !!sector) %>%
+      dplyr::mutate(sector = 1) %>%
+      dplyr::filter(sector == 1) %>%
+      dplyr::select(!!id, words, sector) %>%
       dplyr::bind_rows(funnelized)
     newly_classified <- funnelized[,1]
     ids_to_filter <- c(ids_to_filter, newly_classified)
   }
-  # 5. funnel match on all of the single tokens 
+  # # 5. funnel match on all of the single tokens
   subdictionary <- dictionary %>%
     tidyr::unnest_legacy(catch_terms = base::strsplit(catch_terms, "\\|")) %>%
     dplyr::mutate(word_count = lengths(base::strsplit(catch_terms, "\\W+"))) %>%
@@ -91,18 +122,22 @@ text_to_orgs <- function(data, id, input, output, sector
     dplyr::filter(!!id %notin% ids_to_filter) %>%
     tidytext::unnest_tokens(words, !!input) %>%
     dplyr::filter(words %in% subdictionary) %>%
-    dplyr::mutate("{{sector}}" := 1) %>%
-    dplyr::select(!!id, words, !!sector) %>%
-    dplyr::bind_rows(funnelized) 
-  # 6. standardize all of the organizations 
+    dplyr::mutate(sector = 1) %>%
+    dplyr::filter(sector == 1) %>%
+    dplyr::select(!!id, words, sector) %>%
+    dplyr::bind_rows(funnelized) %>% 
+    dplyr::rename("{{sector}}" := sector) %>% 
+    dplyr::rename_all(~stringr::str_replace_all(.,"\"","")) 
+  # 6. standardize all of the organizations
   #dictionary <- tidyorgs::academic_institutions %>%
-  dictionary <- academic_institutions %>%
+  standardizer_dictionary <- dictionary %>%
     dplyr::mutate(beginning = "\\b(?i)(", ending = ")\\b",
                   recode_column = paste0(beginning, recode_column, ending)) %>%
     dplyr::select(recode_column, organization_name) %>% tibble::deframe()
   standardized <- funnelized %>%
     dplyr::mutate("{{output}}" := tolower(words)) %>%
-    dplyr::mutate("{{output}}" := stringr::str_replace_all({{ output }}, dictionary)) %>%
+    dplyr::mutate("{{output}}" := stringr::str_replace_all({{ output }}, 
+                                                           standardizer_dictionary)) %>%
     dplyr::select(!!id, !!output)
   standardized
 }
