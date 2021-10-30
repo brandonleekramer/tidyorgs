@@ -16,7 +16,7 @@ classified_academic <- uva_scraped_data %>%
 classified_businesses <- uva_scraped_data %>%
   detect_business(login, company, organization, email) %>% 
   filter(business == 1)
-classified_goverment <- uva_scraped_data %>%
+classified_government <- uva_scraped_data %>%
   detect_government(login, company, organization, email) %>% 
   filter(government == 1)
 classified_nonprofit <- uva_scraped_data %>%
@@ -24,7 +24,7 @@ classified_nonprofit <- uva_scraped_data %>%
   filter(nonprofit == 1)
 classified_orgs <- bind_rows(
   classified_academic, classified_businesses,
-  classified_goverment, classified_nonprofit) %>% 
+  classified_government, classified_nonprofit) %>% 
   mutate(academic = replace_na(academic, 0)) %>% 
   mutate(business = replace_na(business, 0)) %>% 
   mutate(government = replace_na(government, 0)) %>% 
@@ -33,6 +33,16 @@ classified_orgs <- bind_rows(
   summarise(organization = paste(organization, collapse='|'),
             academic = sum(academic), business = sum(business), 
             government = sum(government), nonprofit = sum(nonprofit))
+
+classified_government <- classified_government %>% 
+  mutate(organization = stringr::str_replace(organization, "Misc. Government\\|", ""),
+         organization = stringr::str_replace(organization, "\\|Misc. Government", ""))
+
+gov_counts <- classified_government %>% 
+  group_by(organization) %>% 
+  count() %>% 
+  arrange(-n)
+
 
 org_counts <- classified_orgs %>% 
   group_by(organization) %>% 

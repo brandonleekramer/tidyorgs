@@ -113,7 +113,8 @@ email_to_sectors <- function(data, id, input, output,
       dplyr::mutate(domain = sub('.*@', '', !!input)) %>%
       # classifies emails with .edu, .ac, etc. as misc. academic 
       # note: clearly room for improvement in non-us (.jp,.cn,.be,.br,.de,.fr, etc.)
-      dplyr::filter(grepl("\\.gov|\\.gob", domain) | grepl(government_domains, domain)) %>%
+      dplyr::filter(grepl("\\.gov|\\.gob|\\.mil", domain) 
+                    | grepl(government_domains, domain)) %>%
       # omitting known nonprofits with academic domains 
       #dplyr::filter(!grepl("ucar.edu|academia.edu|ict.ac.cn", domain)) %>%
       dplyr::mutate("{{ output }}" := "Misc. Government", sector = 1) %>%

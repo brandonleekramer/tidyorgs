@@ -25,6 +25,7 @@ uva_scraped_data <- readRDS("github_sectored_101321.rds")
 uva_scraped_data <- uva_scraped_data %>% 
   select(login, company, location, email)
 
+setwd("~/Documents/git/tidyorgs")
 load_all()
 classified_academic <- uva_scraped_data %>%
   detect_academic(login, company, organization, email) %>% 
@@ -32,7 +33,7 @@ classified_academic <- uva_scraped_data %>%
 classified_businesses <- uva_scraped_data %>%
   detect_business(login, company, organization, email) %>% 
   filter(business == 1)
-classified_goverment <- uva_scraped_data %>%
+classified_government <- uva_scraped_data %>%
   detect_government(login, company, organization, email) %>% 
   filter(government == 1)
 classified_nonprofit <- uva_scraped_data %>%
@@ -40,7 +41,7 @@ classified_nonprofit <- uva_scraped_data %>%
   filter(nonprofit == 1)
 classified_orgs <- bind_rows(
   classified_academic, classified_businesses,
-  classified_goverment, classified_nonprofit) %>% 
+  classified_government, classified_nonprofit) %>% 
   mutate(academic = replace_na(academic, 0)) %>% 
   mutate(business = replace_na(business, 0)) %>% 
   mutate(government = replace_na(government, 0)) %>% 
@@ -50,7 +51,7 @@ classified_orgs <- bind_rows(
             academic = sum(academic), business = sum(business), 
             government = sum(government), nonprofit = sum(nonprofit))
 
-org_counts <- classified_businesses %>% 
+org_counts <- classified_nonprofit %>% 
   group_by(organization) %>% 
   count() %>% 
   arrange(-n)

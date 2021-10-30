@@ -64,7 +64,7 @@ email_to_orgs <- function(data, id, input, output,
     dplyr::filter(domain %in% sector_vector)
   # 5. remove all of the sub-domains and match again on roots
   emails_df <- all_domains_df %>%
-    dplyr::filter(str_count(domain, "[.]") == 2) %>%
+    dplyr::filter(stringr::str_count(domain, "[.]") == 2) %>%
     dplyr::mutate(domain = sub("^.*?\\.", '', domain)) %>%
     dplyr::filter(domain %in% sector_vector) %>%
     dplyr::bind_rows(emails_df)
