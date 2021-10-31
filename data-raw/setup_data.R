@@ -24,7 +24,7 @@ business_data <- business_data %>%
   select(catch_terms, recode_column, everything())
 #write_csv(business_data, "data-raw/business_data/tech_cleaned_102521.csv")
 
-business_data <- readr::read_csv("data-raw/business_data/tech_cleaned_102521.csv")
+business_data <- readr::read_csv("data-raw/business_data.csv")
 usethis::use_data(business_data, overwrite = TRUE)
 usethis::use_data(business_data, internal = TRUE, overwrite = TRUE)
 
