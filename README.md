@@ -1,5 +1,5 @@
 
-# tidyorgs: A tidy package that standardizes text data for organizational and geographic analysis
+# tidyorgs: A tidy package that standardizes text data for organizational and sector analysis <img src="man/figures/tidyorgs_logo.png" align="right" height="250" />
 
 **Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with
 contributions from members of the [University of Virginia’s
@@ -45,70 +45,87 @@ library(tidyverse)
 library(tidyorgs)
 data(github_users)
 
-users_to_orgs <- github_users %>%
-  detect_orgs(login, company, organization, academic, email, 
-              country = TRUE, parent_org = TRUE, org_type = TRUE) 
-
-users_to_orgs %>% 
+classified_academic <- github_users %>%
+  detect_academic(login, company, organization, email) %>% 
   filter(academic == 1) %>% 
-  select(organization, company) 
-```
+  select(login, organization, company) 
 
-    ## # A tibble: 19 × 2
-    ##    organization                                company                          
-    ##    <chr>                                       <chr>                            
-    ##  1 Karlsruher Institut für Technologie         "Karlsruhe Institute of Technolo…
-    ##  2 Harvard University                          "Harvard University"             
-    ##  3 Université de Montréal                      "Universit de Montral"           
-    ##  4 University of Turku                         "University of Turku"            
-    ##  5 University of North Carolina at Chapel Hill "University of North Carolina at…
-    ##  6 University of Massachusetts-Amherst         "University of Massachusetts Amh…
-    ##  7 Université Catholique de Louvain            "Universit Catholique de Louvain"
-    ##  8 Worcester State University                  "Worcester State University Comp…
-    ##  9 University of Michigan-Ann Arbor            "University of Michigan"         
-    ## 10 New York University                         "@JuliaComputing / @NYU-MSDSE-SW…
-    ## 11 Misc. Academic                              "Namibia University of Science a…
-    ## 12 The University of Texas at Austin           "The University of Texas at Aust…
-    ## 13 Misc. Academic                              "University of Jyvskyl"          
-    ## 14 Kyoto University                            "Kyoto University"               
-    ## 15 KTH Royal Institute of Technology           "KTH Royal Institute of Technolo…
-    ## 16 Simon Fraser University                     "Simon Fraser University"        
-    ## 17 University of California-Berkeley           "Microsoft. Formerly at UC Berke…
-    ## 18 University of California-Berkeley           "University of California, Berke…
-    ## 19 National Technical University of Athens     "National Technical University o…
-
-The `detect_orgs()` can also provide additional metadata on
-organizations like country, parent organizations, and organization
-types.
-
-``` r
-users_to_orgs %>% 
-  filter(academic == 1) %>% 
-  select(organization, country, org_type) 
+classified_academic
 ```
 
     ## # A tibble: 19 × 3
-    ##    organization                                country       org_type           
-    ##    <chr>                                       <chr>         <chr>              
-    ##  1 Karlsruher Institut für Technologie         Germany       <NA>               
-    ##  2 Harvard University                          United States Private not-for-pr…
-    ##  3 Université de Montréal                      Canada        <NA>               
-    ##  4 University of Turku                         Finland       <NA>               
-    ##  5 University of North Carolina at Chapel Hill United States Public             
-    ##  6 University of Massachusetts-Amherst         United States Public             
-    ##  7 Université Catholique de Louvain            Belgium       <NA>               
-    ##  8 Worcester State University                  United States Public             
-    ##  9 University of Michigan-Ann Arbor            United States Public             
-    ## 10 New York University                         United States Private not-for-pr…
-    ## 11 Misc. Academic                              <NA>          <NA>               
-    ## 12 The University of Texas at Austin           United States Public             
-    ## 13 Misc. Academic                              <NA>          <NA>               
-    ## 14 Kyoto University                            Japan         <NA>               
-    ## 15 KTH Royal Institute of Technology           Sweden        <NA>               
-    ## 16 Simon Fraser University                     Canada        <NA>               
-    ## 17 University of California-Berkeley           United States Public             
-    ## 18 University of California-Berkeley           United States Public             
-    ## 19 National Technical University of Athens     Greece        <NA>
+    ##    login           organization                                company          
+    ##    <chr>           <chr>                                       <chr>            
+    ##  1 simongog        Karlsruher Institut für Technologie         "Karlsruhe Insti…
+    ##  2 capooti         Harvard University                          "Harvard Univers…
+    ##  3 tpoisot         Université de Montréal                      "Universit de Mo…
+    ##  4 jbjorne         University of Turku                         "University of T…
+    ##  5 rybesh          University of North Carolina at Chapel Hill "University of N…
+    ##  6 brendano        University of Massachusetts-Amherst         "University of M…
+    ##  7 swilmet         Université Catholique de Louvain            "Universit Catho…
+    ##  8 kwurst          Worcester State University                  "Worcester State…
+    ##  9 wellman         University of Michigan-Ann Arbor            "University of M…
+    ## 10 StefanKarpinski New York University                         "@JuliaComputing…
+    ## 11 mtjikuzu        Misc. Academic                              "Namibia Univers…
+    ## 12 pgoetz          The University of Texas at Austin           "The University …
+    ## 13 deggis          Misc. Academic                              "University of J…
+    ## 14 eiennohito      Kyoto University                            "Kyoto Universit…
+    ## 15 senorcarbone    KTH Royal Institute of Technology           "KTH Royal Insti…
+    ## 16 rtv             Simon Fraser University                     "Simon Fraser Un…
+    ## 17 faridani        University of California-Berkeley           "Microsoft. Form…
+    ## 18 baugarten       University of California-Berkeley           "University of C…
+    ## 19 nickie          National Technical University of Athens     "National Techni…
+
+``` r
+classified_businesses <- github_users %>%
+  detect_business(login, company, organization, email) %>% 
+  filter(business == 1) %>%
+  select(login, organization, company)
+classified_businesses
+```
+
+    ## # A tibble: 201 × 3
+    ##    login         organization     company                                
+    ##    <chr>         <chr>            <chr>                                  
+    ##  1 mcollina      Nearform         "@nearform "                           
+    ##  2 ephur         Rackspace        "Object Rocket at Rackspace"           
+    ##  3 topaxi        Puzzle Itc       "@Puzzle ITC GmbH"                     
+    ##  4 santegoeds    Misc. Business   "Quality Enterprise Consulting Limited"
+    ##  5 briancavalier Yelp             "@yelp "                               
+    ##  6 joshuamckenty Pivotal Software "Pivotal, Inc."                        
+    ##  7 jckarter      Apple            "Apple"                                
+    ##  8 sethvargo     Google           "@Google "                             
+    ##  9 peterskeide   Misc. Business   "Skalar AS"                            
+    ## 10 e2kaneko      Misc. Business   "E2info, Inc."                         
+    ## # … with 191 more rows
+
+``` r
+classified_government <- github_users %>%
+  detect_government(login, company, organization, email) %>% 
+  filter(government == 1) %>% 
+  select(login, organization, company)
+classified_government
+```
+
+    ## # A tibble: 3 × 3
+    ##   login         organization                                  company           
+    ##   <chr>         <chr>                                         <chr>             
+    ## 1 state-hiu-dev US Department of State                        U.S. Department o…
+    ## 2 ogrisel       Institut National de la Recherche Agronomique Inria             
+    ## 3 ondrae        US General Services Administration            Code For America
+
+``` r
+classified_nonprofit <- github_users %>%
+  detect_nonprofit(login, company, organization, email) %>% 
+  filter(nonprofit == 1) %>% 
+  select(login, organization, company)
+classified_nonprofit
+```
+
+    ## # A tibble: 1 × 3
+    ##   login   organization         company   
+    ##   <chr>   <chr>                <chr>     
+    ## 1 kostajh Wikimedia Foundation @wikimedia
 
 ### Matching users to organizations by emails alone using the `email_to_orgs()` function
 
@@ -118,7 +135,7 @@ list.
 
 ``` r
 user_emails_to_orgs <- github_users %>%
-  email_to_orgs(login, email, country_name, academic) 
+  email_to_orgs(login, email, country_name, "academic") 
 
 github_users %>% 
   left_join(user_emails_to_orgs, by = "login") %>% 

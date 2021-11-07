@@ -6,7 +6,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# tidyorgs: A tidy package that standardizes text data for organizational and geographic analysis
+# tidyorgs: A tidy package that standardizes text data for organizational and sector analysis <img src="man/figures/tidyorgs_logo.png" align="right" height="250" />
 
 **Authors:** [Brandon Kramer](https://www.brandonleekramer.com/) with contributions from members of the [University of Virginia's Biocomplexity Institute](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics), the [National Center for Science and Engineering Statistics](https://www.nsf.gov/statistics/), and the [2020](https://dspg-young-scholars-program.github.io/dspg20oss/team/?dspg) and [2021](https://dspgtools.shinyapps.io/dspg21oss/) [UVA Data Science for the Public Good Open Source Software Teams](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg)<br/>
 **License:** [MIT](https://opensource.org/licenses/MIT)<br/>
@@ -31,29 +31,43 @@ library(tidyverse)
 library(tidyorgs)
 data(github_users)
 
-users_to_orgs <- github_users %>%
-  detect_orgs(login, company, organization, academic, email, 
-              country = TRUE, parent_org = TRUE, org_type = TRUE) 
-
-users_to_orgs %>% 
+classified_academic <- github_users %>%
+  detect_academic(login, company, organization, email) %>% 
   filter(academic == 1) %>% 
-  select(organization, company) 
-```
-The `detect_orgs()` can also provide additional metadata on organizations like country, parent organizations, and organization types.
+  select(login, organization, company) 
 
-```{r, warning=FALSE, message=FALSE}
-users_to_orgs %>% 
-  filter(academic == 1) %>% 
-  select(organization, country, org_type) 
+classified_academic
 ```
 
-### Matching users to organizations by emails alone using the `email_to_orgs()` function
+```{r}
+classified_businesses <- github_users %>%
+  detect_business(login, company, organization, email) %>% 
+  filter(business == 1) %>%
+  select(login, organization, company)
+classified_businesses
+```
+```{r}
+classified_government <- github_users %>%
+  detect_government(login, company, organization, email) %>% 
+  filter(government == 1) %>% 
+  select(login, organization, company)
+classified_government
+```
+```{r}
+classified_nonprofit <- github_users %>%
+  detect_nonprofit(login, company, organization, email) %>% 
+  filter(nonprofit == 1) %>% 
+  select(login, organization, company)
+classified_nonprofit
+```
+
+### Matching users to organizations by emails using `email_to_orgs()`
 
 For those that only have email information, the `email_to_orgs()` function matches users to organizations based on our curated domain list. 
 
 ```{r, warning=FALSE, message=FALSE}
 user_emails_to_orgs <- github_users %>%
-  email_to_orgs(login, email, country_name, academic) 
+  email_to_orgs(login, email, country_name, "academic") 
 
 github_users %>% 
   left_join(user_emails_to_orgs, by = "login") %>% 
