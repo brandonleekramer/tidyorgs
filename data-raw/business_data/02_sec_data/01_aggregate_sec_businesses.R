@@ -122,10 +122,10 @@ binded_canada <- bind_rows(Alberta, British_Columbia, Manitoba, New_Brunswick, S
 binded_all <- bind_rows(binded_canada, binded_countries, binded_states)
 
 setwd("~/git/tidyorgs/data-raw/business_data/02_sec_data/")
-write_csv(binded_all, "sec_all_binded.csv")
+write_csv(binded_all, "sec_all_scraped_businesses.csv")
 
 setwd("/project/biocomplexity/sdad/projects_data/ncses/oss/companies_scraped/aggregate")
-write_csv(binded_all, "sec_all_binded.csv")
+write_csv(binded_all, "sec_all_scraped_businesses.csv")
 
 
 

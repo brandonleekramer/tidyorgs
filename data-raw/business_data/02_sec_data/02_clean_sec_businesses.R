@@ -5,7 +5,7 @@ library(janitor)
 library(purrr)
 
 setwd("/project/biocomplexity/sdad/projects_data/ncses/oss/companies_scraped/aggregate")
-all_businesses <- read_csv("sec_all_binded.csv")
+all_businesses <- read_csv("sec_all_scraped_businesses.csv")
 
 business_types <- all_businesses %>% 
   rename(cik_code = cik) %>% 
