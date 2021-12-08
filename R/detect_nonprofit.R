@@ -32,7 +32,8 @@ detect_nonprofit <- function(data, id, input, output,
                             email = FALSE, 
                             country = FALSE, 
                             parent_org = FALSE, 
-                            org_type = FALSE){ 
+                            org_type = FALSE
+                            ){ 
   # 1. convert all vars with enquos
   id <- enquo(id)
   input <- enquo(input)

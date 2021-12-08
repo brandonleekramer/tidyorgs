@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 /data-raw/grid/
+/data-raw/nonprofit_data/
 docs

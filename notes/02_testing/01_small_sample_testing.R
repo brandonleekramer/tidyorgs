@@ -14,17 +14,18 @@ data(github_users)
 # orgs
 load_all()
 text_to_orgs_df <- github_users %>%
-  text_to_orgs(login, company, organization, sector = "business")
+  text_to_orgs(login, company, organization, sector = "nonprofit")
 
 load_all()
 classified_orgs <- github_users %>%
   detect_orgs(login, company, organization, "academic", email)
 
-setwd("~/Documents/git/oss-2020/data")
+#setwd("~/Documents/git/oss-2020/data")
 setwd("~/git/oss-2020/data")
 uva_scraped_data <- readRDS("github_sectored_101321.rds") 
 uva_scraped_data <- uva_scraped_data %>% 
   select(login, company, location, email)
+setwd("~/git/tidyorgs")
 
 setwd("~/Documents/git/tidyorgs")
 load_all()
@@ -38,7 +39,8 @@ classified_government <- uva_scraped_data %>%
   detect_government(login, company, organization, email) %>% 
   filter(government == 1)
 classified_nonprofit <- uva_scraped_data %>%
-  detect_nonprofit(login, company, organization, email) %>% 
+  detect_nonprofit(login, company, organization, email, 
+                   country = FALSE, parent_org = FALSE, org_type = FALSE) %>% 
   filter(nonprofit == 1)
 classified_orgs <- bind_rows(
   classified_academic, classified_businesses,
@@ -52,10 +54,6 @@ classified_orgs <- bind_rows(
             academic = sum(academic), business = sum(business), 
             government = sum(government), nonprofit = sum(nonprofit))
 
-org_counts <- classified_nonprofit %>% 
-  group_by(organization) %>% 
-  count() %>% 
-  arrange(-n)
 
 # aol email, 2015 inc, Hewlett-Packard|Hewlett-Packard Enterprise
 

@@ -32,7 +32,6 @@ usethis::use_data(business_data, internal = TRUE, overwrite = TRUE)
 
 library(dplyr)
 nonprofit_data <- readr::read_csv("data-raw/nonprofit_data.csv")
-#readr::write_rds(academic_institutions, "R/academic_institutions.rds")
 usethis::use_data(nonprofit_data, overwrite = TRUE)
 usethis::use_data(nonprofit_data, internal = TRUE, overwrite = TRUE)
 
@@ -40,7 +39,6 @@ usethis::use_data(nonprofit_data, internal = TRUE, overwrite = TRUE)
 
 library(dplyr)
 government_data <- readr::read_csv("data-raw/government_data.csv")
-#readr::write_rds(academic_institutions, "R/academic_institutions.rds")
 usethis::use_data(government_data, overwrite = TRUE)
 usethis::use_data(government_data, internal = TRUE, overwrite = TRUE)
 
@@ -48,7 +46,6 @@ usethis::use_data(government_data, internal = TRUE, overwrite = TRUE)
 
 library(dplyr)
 sector_terms <- readr::read_csv("data-raw/sector_terms.csv")
-#readr::write_rds(sector_terms, "R/sector_terms.rds")
 usethis::use_data(sector_terms, overwrite = TRUE)
 usethis::use_data(sector_terms, internal = TRUE, overwrite = TRUE)
 
