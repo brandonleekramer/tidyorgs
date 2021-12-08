@@ -1,22 +1,20 @@
-#' Match messy text and email data to academic, business, government, household, or nonprofit organizations
+#' Match messy text and email data to nonprofit organizations
 #'
-#' This function standardizes messy text data and/or email information to social organizations. 
-#' The detect_orgs() function iterates through email domains and unstructured text to match patterns in our 
-#' curated dictionaries to standardize organizations. This tool is designed to optimize pattern detection 
+#' This function standardizes messy text data and/or email information to nonprofit organizations. 
+#' The detect_nonprofit() function iterates through email domains and unstructured text to match patterns in our 
+#' curated dictionaries to standardize nonprofit organizations. This tool is designed to optimize pattern detection 
 #' for in the linkage of multiple datasets, for bibliometric analysis, and for sector classification in 
 #' social, economic, and policy analysis.
 #'
 #' @param data A data frame or data frame extension (e.g. a tibble).
 #' @param id A numeric or character vector unique to each entry.
-#' @param input Character vector of messy or unstructured text that will be matched to organizations 
-#' from one (or all) of five economic sectors (see sector parameter).
+#' @param input Character vector of messy or unstructured text that will be matched to nonprofit organizations.
 #' @param output Output column to be created as string or symbol.
 #' @param email Optional character vector of email or email domain information. Defaults to FALSE.
 #' @param country Optional parameter that returns country of organization when available. Defaults to FALSE.
 #' @param parent_org Optional parameter that returns the parent organization when available. 
-#' For the academic sector, this value is the school system of the organization. Defaults to FALSE.
+#' For the nonprofit sector, this value defaults to FALSE.
 #' @param org_type Optional parameter that returns organization type when available. 
-#' Current return values include "Public", "Private for-profit", and "Private not-for-profit". Defaults to FALSE.
 #'
 #' @examples
 #'

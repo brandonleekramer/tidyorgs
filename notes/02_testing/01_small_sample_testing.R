@@ -15,6 +15,11 @@ data(github_users)
 load_all()
 text_to_orgs_df <- github_users %>%
   text_to_orgs(login, company, organization, sector = "nonprofit")
+classified_nonprofit <- github_users %>%
+  detect_nonprofit(login, company, organization, email, 
+                   country = FALSE, parent_org = FALSE, org_type = FALSE) %>% 
+  filter(nonprofit == 1)
+
 
 load_all()
 classified_orgs <- github_users %>%

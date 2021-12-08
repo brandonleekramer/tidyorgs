@@ -20,11 +20,13 @@ install.packages("devtools")
 devtools::install_github("brandonleekramer/tidyorgs") 
 ```
 
-The `tidyorgs` package provides several functions that help standardize messy text data for organizational analysis. More specifically, the package's two core functions `detect_orgs()` and `email_to_orgs()` standardize organizations from across the academic, business, government and nonprofit sectors based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis. **NOTE: Currently, the package only supports detection of academic institutions, but we are expanding into business, government, and nonprofit sectors soon.**
+The `tidyorgs` package provides several functions that help standardize messy text data for organizational analysis. More specifically, the package's two core sets of functions `detect_{sector}()` and `email_to_orgs()` standardize organizations from across the academic, business, government and nonprofit sectors based on unstructured text and email domains. The package is intended to support linkage across multiple datasets, bibliometric analysis, and sector classification for social, economic, and policy analysis. 
 
 ### Matching organizations with the `detect_orgs()` function
 
-The `detect_orgs()` functions detects patterns in messy text data and then standardizes them into organizations based on a curated dictionary. For example, messy bio information scraped from GitHub can be easily codified so that statistical analysis can be done on academic users. 
+The `detect_{sector}()` functions detects patterns in messy text data and then standardizes them into organizations based on a curated dictionary. For example, messy bio information scraped from GitHub can be easily codified so that statistical analysis can be done on academic users. 
+
+#### `detect_academic()`
 
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -39,6 +41,8 @@ classified_academic <- github_users %>%
 classified_academic
 ```
 
+#### `detect_business()`
+
 ```{r}
 classified_businesses <- github_users %>%
   detect_business(login, company, organization, email) %>% 
@@ -46,6 +50,9 @@ classified_businesses <- github_users %>%
   select(login, organization, company)
 classified_businesses
 ```
+
+#### `detect_government()`
+
 ```{r}
 classified_government <- github_users %>%
   detect_government(login, company, organization, email) %>% 
@@ -53,11 +60,14 @@ classified_government <- github_users %>%
   select(login, organization, company)
 classified_government
 ```
+
+#### `detect_nonprofit()`
+
 ```{r}
 classified_nonprofit <- github_users %>%
   detect_nonprofit(login, company, organization, email) %>% 
   filter(nonprofit == 1) %>% 
-  select(login, organization, company)
+  select(login, organization, company, email)
 classified_nonprofit
 ```
 

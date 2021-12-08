@@ -103,11 +103,14 @@ tech_to_bind <- tech_filtered %>%
          products_made, iso_17442, duns_number, wiki_id, loc_id, msacademic_id, grid_id, opencorp_id, 
          crunchbase_id, littlesis_id, twitter_id, youtube_id, facebook_id, instagram_id, 
          subreddit_id, linkedin_id, github_id, quora_id, googlenews_id, bbcnews_id) %>% 
-  mutate("GitHub Data 2021-11-10")
+  mutate(datasource = "GitHub Data 2021-11-10")
 
 data_to_bind <- data_to_bind %>% 
   bind_rows(datasource = tech_to_bind) %>% 
   arrange(organization_name)
+
+write_csv(data_to_bind, "~/git/tidyorgs/data-raw/business_data/01_wiki_data/wiki_for_parent_org.csv")
+
 
 # adding in SEC data that neil and aritra scraped next (see /business_data/02_sec_data/02_foreign_businesses.R)
 

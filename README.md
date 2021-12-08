@@ -24,21 +24,22 @@ devtools::install_github("brandonleekramer/tidyorgs")
 
 The `tidyorgs` package provides several functions that help standardize
 messy text data for organizational analysis. More specifically, the
-package’s two core functions `detect_orgs()` and `email_to_orgs()`
-standardize organizations from across the academic, business, government
-and nonprofit sectors based on unstructured text and email domains. The
-package is intended to support linkage across multiple datasets,
-bibliometric analysis, and sector classification for social, economic,
-and policy analysis. **NOTE: Currently, the package only supports
-detection of academic institutions, but we are expanding into business,
-government, and nonprofit sectors soon.**
+package’s two core sets of functions `detect_{sector}()` and
+`email_to_orgs()` standardize organizations from across the academic,
+business, government and nonprofit sectors based on unstructured text
+and email domains. The package is intended to support linkage across
+multiple datasets, bibliometric analysis, and sector classification for
+social, economic, and policy analysis.
 
 ### Matching organizations with the `detect_orgs()` function
 
-The `detect_orgs()` functions detects patterns in messy text data and
-then standardizes them into organizations based on a curated dictionary.
-For example, messy bio information scraped from GitHub can be easily
-codified so that statistical analysis can be done on academic users.
+The `detect_{sector}()` functions detects patterns in messy text data
+and then standardizes them into organizations based on a curated
+dictionary. For example, messy bio information scraped from GitHub can
+be easily codified so that statistical analysis can be done on academic
+users.
+
+#### `detect_academic()`
 
 ``` r
 library(tidyverse)
@@ -76,6 +77,8 @@ classified_academic
     ## 18 baugarten       University of California-Berkeley           "University of C…
     ## 19 nickie          National Technical University of Athens     "National Techni…
 
+#### `detect_business()`
+
 ``` r
 classified_businesses <- github_users %>%
   detect_business(login, company, organization, email) %>% 
@@ -99,6 +102,8 @@ classified_businesses
     ## 10 e2kaneko      Misc. Business   "E2info, Inc."                         
     ## # … with 191 more rows
 
+#### `detect_government()`
+
 ``` r
 classified_government <- github_users %>%
   detect_government(login, company, organization, email) %>% 
@@ -114,20 +119,28 @@ classified_government
     ## 2 ogrisel       Institut National de la Recherche Agronomique Inria             
     ## 3 ondrae        US General Services Administration            Code For America
 
+#### `detect_nonprofit()`
+
 ``` r
 classified_nonprofit <- github_users %>%
   detect_nonprofit(login, company, organization, email) %>% 
   filter(nonprofit == 1) %>% 
-  select(login, organization, company)
+  select(login, organization, company, email)
 classified_nonprofit
 ```
 
-    ## # A tibble: 1 × 3
-    ##   login   organization         company   
-    ##   <chr>   <chr>                <chr>     
-    ## 1 kostajh Wikimedia Foundation @wikimedia
+    ## # A tibble: 7 × 4
+    ##   login       organization                   company                       email
+    ##   <chr>       <chr>                          <chr>                         <chr>
+    ## 1 kostajh     Wikimedia Foundation           @wikimedia                    user…
+    ## 2 elad661     The Fedora Project             Red Hat                       user…
+    ## 3 devinreams  Mozilla Foundation             @Mozilla                      user…
+    ## 4 thomcc      Mozilla Foundation             Mozilla                       user…
+    ## 5 youngwookim The Apache Software Foundation SK telecom                    user…
+    ## 6 nyampire    Misc. Non-Profit               OpenSteetMap Foundation Japan user…
+    ## 7 ondrae      Code for America               Code For America              user…
 
-### Matching users to organizations by emails alone using the `email_to_orgs()` function
+### Matching users to organizations by emails using `email_to_orgs()`
 
 For those that only have email information, the `email_to_orgs()`
 function matches users to organizations based on our curated domain
