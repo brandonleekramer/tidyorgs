@@ -3,5 +3,8 @@
 .RData
 .Ruserdata
 /data-raw/grid/
+/data-raw/academic_data/
+/data-raw/business_data/
 /data-raw/nonprofit_data/
+/data-raw/business_data/
 docs
