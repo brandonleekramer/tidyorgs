@@ -39,6 +39,9 @@ detect_nonprofit <- function(data, id, input, output,
   `%notin%` <- Negate(`%in%`)
   # 2. match by text entries 
   matched_by_text <- data %>%
+    mutate("{{input}}" := str_replace_all(!!input, "@", ""),
+           "{{input}}" := str_replace_all(!!input, "-", " "),
+           "{{input}}" := tolower(!!input)) %>% 
     text_to_orgs(!!id, !!input, !!output, "nonprofit")
   sector_terms <- sector_terms %>%
     dplyr::filter(sector_group == "nonprofit")
@@ -85,7 +88,11 @@ detect_nonprofit <- function(data, id, input, output,
   already_classified <- c(already_classified, newly_classified)
   # 4b. match by misc. nonprofit terms
   matched_by_sector <- data %>%
-    dplyr::filter(!!id %notin% already_classified) %>%
+    mutate("{{input}}" := str_replace_all(!!input, "@", ""),
+           "{{input}}" := str_replace_all(!!input, "-", " "),
+           "{{input}}" := tolower(!!input)) %>% 
+    dplyr::filter(!!id %notin% already_classified & 
+                  !grepl("ai foundation|egi foundation|dwarves foundation|foundation medicine|national science foundation|avail foundation", !!input)) %>%
     tidytext::unnest_tokens(words, !!input) %>%
     dplyr::filter(words %in% sector_terms) %>%
     dplyr::mutate("{{output}}" := "Misc. Non-Profit") %>%

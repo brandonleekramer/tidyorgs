@@ -5,19 +5,17 @@ library("tidyorgs")
 library("devtools")
 load_all()
 data(github_users)
-#data("academic_institutions")
 
-# email_to_orgs and text_to_orgs DONE!!!! 
-# email_to_sectors next 
-# then break off each sector into its own + redesign detect_orgs()
 
-# orgs
 load_all()
-text_to_orgs_df <- github_users %>%
-  text_to_orgs(login, company, organization, sector = "nonprofit")
-classified_nonprofit <- github_users %>%
+classified_academic <- github_users %>%
+  detect_academic(login, company, organization, email,
+                  country = TRUE, parent_org = TRUE, org_type = TRUE) %>% 
+  filter(academic == 1)
+
+classified_nonprofit_2 <- github_users %>%
   detect_nonprofit(login, company, organization, email, 
-                   country = FALSE, parent_org = FALSE, org_type = FALSE) %>% 
+                   country = TRUE, parent_org = TRUE, org_type = TRUE) %>% 
   filter(nonprofit == 1)
 
 
@@ -26,11 +24,29 @@ classified_orgs <- github_users %>%
   detect_orgs(login, company, organization, "academic", email)
 
 #setwd("~/Documents/git/oss-2020/data")
-setwd("~/git/oss-2020/data")
+setwd("~/git/oss-2020/data/iariw-aea/")
 uva_scraped_data <- readRDS("github_sectored_101321.rds") 
 uva_scraped_data <- uva_scraped_data %>% 
   select(login, company, location, email)
 setwd("~/git/tidyorgs")
+classified_nonprofit <- uva_scraped_data %>%
+  detect_nonprofit(login, company, organization, email, 
+                   country = FALSE, parent_org = FALSE, org_type = FALSE) %>% 
+  filter(nonprofit == 1)
+
+counts <- classified_nonprofit %>% 
+  group_by(organization) %>% 
+  count() %>% 
+  arrange(-n)
+
+
+misc_data <- classified_nonprofit %>% 
+  filter(organization == "Misc. Non-Profit") %>% 
+  group_by(company) %>% 
+  count() %>% 
+  arrange(-n)
+
+
 
 setwd("~/Documents/git/tidyorgs")
 load_all()
